@@ -6,6 +6,6 @@ separable. ATR is a volatility MEASURE any strategy's stop sizing might need; it
 carries no trading opinion of its own.
 """
 
-from dtest.features.technical import atr
+from dtest.features.technical import atr, rolling_zscore
 
-__all__ = ["atr"]
+__all__ = ["atr", "rolling_zscore"]

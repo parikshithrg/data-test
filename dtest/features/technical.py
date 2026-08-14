@@ -38,3 +38,22 @@ def atr(high: pd.DataFrame, low: pd.DataFrame, close: pd.DataFrame,
     """
     tr = true_range(high, low, close)
     return tr.ewm(alpha=1.0 / window, adjust=False, min_periods=window).mean()
+
+
+def rolling_zscore(x: pd.DataFrame, window: int, min_periods: int | None = None) -> pd.DataFrame:
+    """(x - trailing mean) / trailing std, using only bars up to and including
+    today - a real decision made at today's close can see today's own value, so
+    this is NOT look-ahead. `ddof=1` (sample std) throughout this project, for
+    consistency with `SummaryStats.std_net_pct` and everywhere else a std is
+    reported.
+
+    A trailing std of exactly 0 (a symbol frozen at one price for the whole
+    window - possible for a thin or halted name) would divide to +/-inf, not a
+    real signal; those cells are set to NaN rather than an unbounded z-score
+    that would trivially "pass" any threshold.
+    """
+    mp = min_periods if min_periods is not None else window
+    mean = x.rolling(window, min_periods=mp).mean()
+    std = x.rolling(window, min_periods=mp).std(ddof=1)
+    z = (x - mean) / std
+    return z.where(std > 0)
