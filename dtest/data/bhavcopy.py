@@ -195,10 +195,13 @@ def parse_legacy(text: str, day: dt.date) -> pd.DataFrame:
         "prev_close": pd.to_numeric(df["PREVCLOSE"], errors="coerce"),
         "volume": pd.to_numeric(df["TOTTRDQTY"], errors="coerce"),
         "turnover": pd.to_numeric(df["TOTTRDVAL"], errors="coerce"),
-        "trades": pd.NA,
+        # The legacy format carries neither trade count nor ISIN. NaN (not pd.NA)
+        # because these are typed float64/string downstream and pd.NA will not
+        # cast into a float column.
+        "trades": float("nan"),
         "isin": pd.NA,
     })
-    return out[COLUMNS]
+    return out[COLUMNS].reset_index(drop=True)
 
 
 def parse_udiff(text: str, day: dt.date) -> pd.DataFrame:

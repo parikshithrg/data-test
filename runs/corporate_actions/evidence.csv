@@ -1,0 +1,6 @@
+metric,value
+"valid (date, symbol) pairs",184476.0
+credible actions detected,43.0
+dates rejected as mass events,3.0
+median |raw return| on action days %,28.28
+median |corrected return| on action days %,2.35

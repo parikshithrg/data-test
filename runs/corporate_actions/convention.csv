@@ -1,0 +1,6 @@
+metric,value
+"valid (date, symbol) pairs",209220.0
+flagged as corporate action,1432.0
+flagged share %,0.6844
+median |raw close-to-close return| on flagged days %,3.134
+median |action-correct return| on flagged days %,1.94
