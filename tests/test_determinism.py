@@ -135,11 +135,18 @@ def test_no_module_calls_today():
     import dtest
 
     root = Path(dtest.__file__).parent
+    # Files allowed a wall-clock read because it stamps METADATA about when
+    # something happened (a run, a logged hypothesis) rather than feeding a
+    # computation. Keep this list short and each entry justified - it is the
+    # one place this guard can be silenced, so it must not become a dumping
+    # ground for "computation happened to need today's date".
+    METADATA_ONLY = {
+        "determinism.py",   # RunManifest.started_utc / finished_utc
+        "hypothesis_log.py",  # HypothesisEntry.logged_utc
+    }
     offenders: list[str] = []
     for py in sorted(root.rglob("*.py")):
-        # determinism.py stamps manifests with a real timestamp. That is metadata
-        # ABOUT a run, never an input to a computation.
-        if py.name == "determinism.py":
+        if py.name in METADATA_ONLY:
             continue
         tree = ast.parse(py.read_text(encoding="utf-8"), filename=str(py))
         for node in ast.walk(tree):

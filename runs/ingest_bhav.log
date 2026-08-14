@@ -36,3 +36,11 @@
 12:28:06 INFO 2010-09-15 | new=1661 holiday=89 err=0 cached=0 | 0.70 req/s
 12:29:22 INFO 2010-11-24 | new=1710 holiday=90 err=0 cached=0 | 0.70 req/s
 12:30:31 INFO 2011-02-02 | new=1758 holiday=92 err=0 cached=0 | 0.70 req/s
+12:31:42 INFO 2011-04-13 | new=1806 holiday=94 err=0 cached=0 | 0.70 req/s
+12:32:51 INFO 2011-06-22 | new=1854 holiday=96 err=0 cached=0 | 0.70 req/s
+12:34:00 INFO 2011-08-31 | new=1902 holiday=98 err=0 cached=0 | 0.70 req/s
+12:35:10 INFO 2011-11-09 | new=1948 holiday=102 err=0 cached=0 | 0.70 req/s
+12:36:16 INFO 2012-01-18 | new=1996 holiday=104 err=0 cached=0 | 0.70 req/s
+12:37:26 INFO 2012-03-28 | new=2043 holiday=107 err=0 cached=0 | 0.70 req/s
+12:38:37 INFO 2012-06-06 | new=2090 holiday=110 err=0 cached=0 | 0.70 req/s
+12:39:50 INFO 2012-08-15 | new=2139 holiday=111 err=0 cached=0 | 0.70 req/s
