@@ -1,0 +1,20 @@
+# Derived data. Regenerable from source + config; never the source of truth.
+artifacts/
+runs/*/data/
+runs/*/*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Never commit credentials
+*credentials*.json
+*session*.json
+
+# OS
+Thumbs.db
+desktop.ini

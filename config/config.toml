@@ -1,0 +1,148 @@
+# ============================================================================
+# Single source of truth for every constant in this project.
+#
+# If a number appears in code instead of here, that is a bug. The previous
+# project drifted to THREE different values of "initial capital" across five
+# modules before anyone noticed.
+#
+# TOML is read with stdlib `tomllib` - deliberately zero config dependencies.
+# ============================================================================
+
+[meta]
+project = "Data test"
+# The last date any data in this project is allowed to know about. Every
+# computation takes this explicitly; nothing calls date.today(). Bump it when
+# source data is refreshed, and expect every output hash to change.
+as_of = 2026-08-13
+
+[paths]
+# Source data lives in the market_gate project and is read STRICTLY read-only.
+# Nothing in this project writes to these paths. They are content-hashed on
+# every run so a result can always be tied to the exact bytes it came from.
+price_dir = "C:/Users/parik/OneDrive/Desktop/Dashboard/data"
+fno_db    = "C:/Users/parik/OneDrive/Desktop/Dashboard/fno.db"
+industry_map = "C:/Users/parik/OneDrive/Desktop/Dashboard/market_gate/data/nifty500.csv"
+# Derived data. Regenerable, gitignored, and NOT synced anywhere that matters.
+artifacts = "artifacts"
+runs      = "runs"
+
+[benchmark]
+# Every result in this project is reported as excess over this, on capital,
+# after costs. Absolute return is never the headline: the previous project
+# spent three sessions admiring numbers from a window (2021-24) where 3 of 6
+# RANDOM stock picks also beat the index.
+symbol = "NIFTY50"
+
+# ============================================================================
+# THE SPLIT. Fixed 2026-08-14, before a single strategy was written.
+#
+# train -> decides everything. Every parameter, every variant choice.
+# val   -> chooses among candidates that already survived train.
+# test  -> touched ONCE, at the very end, to report. Never to choose.
+#
+# Embargo gaps sit between the windows so a trade opened near the end of one
+# window cannot resolve inside the next. Without it, a 60-day holding period
+# leaks 60 days of the next window into the previous one's results.
+# ============================================================================
+[splits]
+embargo_days = 60  # trading days held out between adjacent windows
+
+[splits.primary]
+# Price and F&O OI are available throughout. This is the default split.
+description = "Price-derived hypotheses. OI available from 2008."
+train_start = 2004-01-01
+train_end   = 2016-12-31
+val_start   = 2017-01-01
+val_end     = 2021-12-31
+test_start  = 2022-01-01
+test_end    = 2026-08-13
+
+[splits.delivery]
+# Per-stock delivery data begins 2019-06-27. Any hypothesis using it has far
+# less history and therefore far less power - the evidence bar is HIGHER here,
+# not lower, and a result on this split must say so.
+description = "Delivery-dependent hypotheses. Short history; treat with suspicion."
+train_start = 2019-06-27
+train_end   = 2023-06-30
+val_start   = 2023-07-01
+val_end     = 2025-03-31
+test_start  = 2025-04-01
+test_end    = 2026-08-13
+
+# ============================================================================
+# UNIVERSE - point-in-time by construction.
+#
+# The previous project used TODAY'S Nifty 500 back to 2004, so its 2004-2010
+# backtests only contained companies that survived to 2026. There is no
+# historical constituent list on disk and NSE membership history is not
+# derivable from the price files.
+#
+# So the universe is not "the Nifty 500" at all. It is a RULE that can be
+# recomputed from data available on any past date, which makes it point-in-time
+# correct by construction rather than by record-keeping. It is a different
+# universe from the index, and that is stated rather than papered over.
+# ============================================================================
+[universe]
+rebalance = "monthly"       # last trading day of each month
+size = 200                  # names held in the universe
+buffer_size = 250           # an incumbent stays while it ranks inside this
+                            # (banding: cuts rebalance churn, and the turnover
+                            #  it saves is real money under this cost model)
+lookback_days = 63          # trailing window for the liquidity rank
+min_history_days = 252      # must have this much history to be eligible at all
+max_staleness_days = 5      # must have traded recently, i.e. still be alive
+min_price = 5.0             # penny stocks: the cost model is a fixed % and
+                            # becomes meaningless against a tick of Rs 0.05
+
+# ============================================================================
+# COSTS - Indian cash-equity DELIVERY, statutory schedule.
+#
+# Rates are looked up, not fitted. The previous project tried to calibrate
+# these from realised Console charges and measured 4.26 bps of turnover, which
+# is BELOW the delivery floor - those trades had largely been intraday. The
+# schedule is the honest input; only slippage is a genuine unknown.
+#
+# UNITS TRAP, and it has bitten this codebase before: charges divide naturally
+# by TURNOVER (buy + sell) but P&L is a percentage of POSITION (buy side).
+# Turnover is ~2x position, so a turnover-quoted rate is HALF the same
+# position-quoted rate. Everything below is quoted PER SIDE, of that side's
+# value, and combined into a position-quoted round trip in costs.py.
+# ============================================================================
+[costs]
+brokerage_pct_per_side = 0.0      # Zerodha delivery equity is zero-brokerage
+brokerage_cap_inr = 20.0          # cap applies if a non-zero rate is ever set
+stt_buy_pct = 0.1                 # delivery: charged on BOTH legs
+stt_sell_pct = 0.1
+exchange_txn_pct_per_side = 0.00297   # NSE
+sebi_pct_per_side = 0.0001            # Rs 10 per crore
+stamp_duty_buy_pct = 0.015            # buy side only
+gst_pct = 18.0                        # on brokerage + exchange + SEBI
+# The one genuine assumption in the whole cost model. Cannot be estimated from
+# daily OHLC. Deliberately loud, one edit re-prices every result in the project.
+slippage_bps_per_side = 5.0
+
+# ============================================================================
+# EXECUTION
+#
+# The single most important correction versus the previous project, which
+# entered at the close of the day the signal was computed from - a price that
+# is not knowable until after the signal exists. At a 6-day hold that flatters
+# results by ~17% of the trade; at a 1.2-day hold, ~80%.
+# ============================================================================
+[execution]
+signal_at = "close"        # signal computed from bar T's close
+fill_at = "next_open"      # and filled at bar T+1's OPEN. Never bar T's close.
+max_participation_pct = 10.0  # refuse a fill larger than this share of the
+                              # day's volume; a backtest that buys 40% of the
+                              # day's turnover did not happen
+
+[portfolio]
+initial_capital = 50000.0   # the real account
+max_positions = 5
+position_sizing = "equal_weight"
+max_sector_weight_pct = 40.0  # sector-neutralising removed 24% of the previous
+                              # project's train edge: concentration WAS the edge
+
+[research]
+placebo_seeds = 30   # 6 gave an empirical p of only ~0.14 - suggestive, never
+                     # established. 30 is the floor for a claim here.
