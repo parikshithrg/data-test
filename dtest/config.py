@@ -7,11 +7,19 @@ producing a quietly truncated backtest three modules later.
 
 from __future__ import annotations
 
+import os
 import tomllib
 from dataclasses import dataclass, asdict
 from datetime import date
 from pathlib import Path
 from typing import Any, Literal
+
+# Per-machine override for the derived-data cache directory, so a different
+# machine (or a CI runner) never needs to edit the tracked config.toml just to
+# relocate a regenerable cache. Mirrors the predecessor project's
+# MARKET_GATE_RESEARCH_CACHE pattern for the identical reason: this working
+# tree is OneDrive-synced, and the cache must not be.
+ARTIFACTS_ENV_VAR = "DTEST_ARTIFACTS_DIR"
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_CONFIG = PROJECT_ROOT / "config" / "config.toml"
@@ -182,8 +190,12 @@ def load_config(path: str | Path | None = None) -> Config:
             continue
         splits[name] = Split(name=name, embargo_days=embargo, **block)
 
+    paths_raw = dict(raw["paths"])
+    env_override = os.environ.get(ARTIFACTS_ENV_VAR)
+    if env_override:
+        paths_raw["artifacts"] = env_override
     paths = Paths(**{
-        k: _resolve(PROJECT_ROOT, v) for k, v in raw["paths"].items()
+        k: _resolve(PROJECT_ROOT, v) for k, v in paths_raw.items()
     })
 
     cfg = Config(

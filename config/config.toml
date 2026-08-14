@@ -22,8 +22,16 @@ as_of = 2026-08-13
 price_dir = "C:/Users/parik/OneDrive/Desktop/Dashboard/data"
 fno_db    = "C:/Users/parik/OneDrive/Desktop/Dashboard/fno.db"
 industry_map = "C:/Users/parik/OneDrive/Desktop/Dashboard/market_gate/data/nifty500.csv"
-# Derived data. Regenerable, gitignored, and NOT synced anywhere that matters.
-artifacts = "artifacts"
+# Derived data - the bhavcopy raw/parsed cache and panel parquet files.
+# Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
+# OneDrive: this project's own working tree lives under
+# OneDrive/Desktop/Data test, and the predecessor project hit this exact
+# problem before (its 144 MB research cache was pointed outside OneDrive for
+# the same reason - a sync client re-uploading gigabytes of regenerable cache
+# on every ingest run is wasted bandwidth and a source of file-lock errors
+# mid-write). Overridable per-machine via the DTEST_ARTIFACTS_DIR env var
+# (checked in config.py::load_config) without editing this tracked file.
+artifacts = "C:/Users/parik/AppData/Local/dtest_artifacts"
 runs      = "runs"
 
 [benchmark]
