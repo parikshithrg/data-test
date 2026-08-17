@@ -101,6 +101,26 @@ class Costs:
 
 
 @dataclass(frozen=True)
+class FuturesCosts:
+    """Statutory schedule for a STOCK FUTURES leg - deliberately a
+    SEPARATE dataclass from `Costs`, not a reused one with different
+    numbers plugged in, because the structure itself differs: futures
+    STT is sell-side only (equity delivery charges both legs), brokerage
+    is real and non-zero (Zerodha delivery is free; F&O is not), and
+    stamp duty's rate differs from delivery's. Mixing the two schedules
+    by accident would be a silent, expensive error - keeping them as
+    distinct types makes that a type error instead."""
+    brokerage_pct_per_side: float
+    brokerage_cap_inr: float
+    stt_sell_pct: float
+    exchange_txn_pct_per_side: float
+    sebi_pct_per_side: float
+    stamp_duty_buy_pct: float
+    gst_pct: float
+    slippage_bps_per_side: float
+
+
+@dataclass(frozen=True)
 class Universe:
     rebalance: str
     size: int
@@ -154,6 +174,7 @@ class Config:
     paths: Paths
     splits: dict[str, Split]
     costs: Costs
+    futures_costs: FuturesCosts
     universe: Universe
     execution: Execution
     portfolio: Portfolio
@@ -205,6 +226,7 @@ def load_config(path: str | Path | None = None) -> Config:
         paths=paths,
         splits=splits,
         costs=Costs(**raw["costs"]),
+        futures_costs=FuturesCosts(**raw["futures_costs"]),
         universe=Universe(**raw["universe"]),
         execution=Execution(**raw["execution"]),
         portfolio=Portfolio(**raw["portfolio"]),

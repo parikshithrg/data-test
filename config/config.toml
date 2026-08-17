@@ -130,6 +130,37 @@ gst_pct = 18.0                        # on brokerage + exchange + SEBI
 slippage_bps_per_side = 5.0
 
 # ============================================================================
+# FUTURES COSTS - Indian stock-futures schedule, a DIFFERENT structure from
+# cash-equity delivery above, not just different numbers.
+#
+# LOOKED UP as of this file's own `meta.as_of` (2026-08-13), from the same
+# public statutory sources as [costs] - STT rates in particular have moved
+# before (0.01% -> 0.0125% on futures sell side, 2023 Budget) and could move
+# again. RE-VERIFY against the current NSE/SEBI schedule before trusting this
+# section on a stale run - same "deliberately loud, one edit re-prices
+# everything" spirit as slippage above, extended to the whole schedule since
+# none of it has been cross-checked against a second independent source the
+# way [costs] was (that section reproduces the predecessor project's own
+# independently-derived 0.222%/0.322% exactly; this one does not yet have an
+# equivalent cross-check - treat it as less battle-tested until it does).
+#
+# STT: SELL SIDE ONLY on futures (delivery equity charges BOTH legs - the
+# single most consequential structural difference, worth stating twice).
+# Brokerage: real and non-zero (Zerodha delivery equity is free; F&O is not -
+# Rs 20 flat or 0.03%, whichever is lower, per executed order, each side).
+# Stamp duty: futures' own lower rate (0.002%), not delivery's 0.015%.
+# ============================================================================
+[futures_costs]
+brokerage_pct_per_side = 0.03     # Rs 20 flat or 0.03%, whichever lower
+brokerage_cap_inr = 20.0
+stt_sell_pct = 0.0125             # SELL SIDE ONLY - futures has no buy-side STT
+exchange_txn_pct_per_side = 0.0019    # NSE F&O transaction charge (lower than cash)
+sebi_pct_per_side = 0.0001            # Rs 10 per crore - same SEBI-wide rate
+stamp_duty_buy_pct = 0.002            # buy side only, futures' own (lower) rate
+gst_pct = 18.0                        # on brokerage + exchange + SEBI
+slippage_bps_per_side = 5.0           # same assumption as cash equity - unverifiable from OHLC
+
+# ============================================================================
 # EXECUTION
 #
 # The single most important correction versus the previous project, which
