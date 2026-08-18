@@ -11,7 +11,7 @@ import sqlite3
 import pandas as pd
 import pytest
 
-from dtest.data.fno_price import load_front_month_price
+from dtest.data.fno_price import load_front_month_price, load_stock_futures_contracts
 
 SCHEMA = """
 CREATE TABLE fno_bhavcopy_full (
@@ -128,4 +128,40 @@ def test_days_to_expiry_computed_correctly(fno_db):
 def test_load_front_month_price_deterministic(fno_db):
     df1 = load_front_month_price(fno_db)
     df2 = load_front_month_price(fno_db)
+    pd.testing.assert_frame_equal(df1, df2)
+
+
+def test_stock_futures_contracts_includes_both_live_contracts_not_just_front(fno_db):
+    """The whole point of this function: on 2024-01-23/24/25, BOTH the Jan
+    and Feb contracts are live and unexpired - `load_front_month_price`
+    collapses to Jan only; this must keep both."""
+    df = load_stock_futures_contracts(fno_db)
+    on_2301 = df[df["date"] == pd.Timestamp("2024-01-23")]
+    assert set(on_2301["expiry_date"]) == {pd.Timestamp("2024-01-25"), pd.Timestamp("2024-02-29")}
+
+
+def test_stock_futures_contracts_ranks_by_soonest_expiry_first(fno_db):
+    df = load_stock_futures_contracts(fno_db).set_index(["date", "rank"])
+    jan = df.loc[(pd.Timestamp("2024-01-23"), 1)]
+    feb = df.loc[(pd.Timestamp("2024-01-23"), 2)]
+    assert jan["expiry_date"] == pd.Timestamp("2024-01-25")
+    assert jan["price"] == pytest.approx(100.0)
+    assert feb["expiry_date"] == pd.Timestamp("2024-02-29")
+    assert feb["price"] == pytest.approx(105.0)
+
+
+def test_stock_futures_contracts_excludes_options_and_other_underlyings(fno_db):
+    df = load_stock_futures_contracts(fno_db)
+    assert set(df["symbol"]) == {"AAA"}
+
+
+def test_stock_futures_contracts_days_to_expiry_per_contract(fno_db):
+    df = load_stock_futures_contracts(fno_db).set_index(["date", "rank"])
+    assert df.loc[(pd.Timestamp("2024-01-23"), 1), "days_to_expiry"] == 2
+    assert df.loc[(pd.Timestamp("2024-01-23"), 2), "days_to_expiry"] == 37
+
+
+def test_stock_futures_contracts_deterministic(fno_db):
+    df1 = load_stock_futures_contracts(fno_db)
+    df2 = load_stock_futures_contracts(fno_db)
     pd.testing.assert_frame_equal(df1, df2)

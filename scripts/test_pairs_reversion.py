@@ -9,8 +9,9 @@ same-sector correlation screen, monthly rebalance) and the same signal
 timing (`signals.pairs_reversion.pair_trade_events`, unchanged) - only the
 FILL and COST layer is new: `engine/pairs_simulate.py`'s honest T+1-open
 fills on both legs, real cash-equity costs on the long leg, real futures
-costs on the short leg, and a rollover-forced exit where the short leg's
-contract would otherwise be held across a contract switch.
+costs on the short leg, a rollforward-at-entry contract choice (skip an
+almost-expired front month for the next contract), and a rollover-forced
+exit where the CHOSEN contract would otherwise be held across expiry.
 
 Reports BOTH correlation-selected pairs (the actual `select_pairs`
 hypothesis) and a random-same-sector comparison (this test's placebo,
@@ -18,6 +19,13 @@ same role it played in the screening pass) - the screening pass found
 random pairing scored HIGHER gross, so this run is the honest answer to
 whether either survives real costs, not just whether the gross number was
 positive.
+
+RE-RUN 2026-08-18 with the rollforward-at-entry fix (`engine/
+pairs_simulate.py::MIN_DTE_FOR_ENTRY_DAYS`) after diagnosing the first
+honest run's 37% rollover-forced-exit rate: it was not the strategy's own
+20-day hold cap firing (only 1/197 trades ever reached it), it was
+entering into contracts already close to expiry. See that module's
+docstring for the full diagnosis and the fix.
 """
 
 from __future__ import annotations
@@ -34,8 +42,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from dtest import load_config, set_seeds
 from dtest.data.bhav_store import build_store, load_long, to_panel as to_cash_panel
 from dtest.data.bhavcopy import COLUMNS as BHAV_COLUMNS
-from dtest.data.fno_price import load_front_month_price
-from dtest.engine.pairs_simulate import simulate_pair_trades, trades_to_frame
+from dtest.data.fno_price import load_stock_futures_contracts
+from dtest.engine.pairs_simulate import MIN_DTE_FOR_ENTRY_DAYS, simulate_pair_trades, trades_to_frame
 from dtest.evaluate.hypothesis_log import HypothesisEntry, append_entry
 from dtest.evaluate.metrics import non_overlapping_tstat
 from dtest.features.pairs import select_pairs
@@ -87,7 +95,7 @@ def _random_same_sector_pairs(sector_map, eligible_symbols, n_target, rng):
     return [candidates[i] for i in idx]
 
 
-def _run_variant(label, pair_lists, close, cash_open, fut_open, fut_mark, fut_rollover, cfg):
+def _run_variant(label, pair_lists, close, cash_open, fut_contracts, cfg):
     all_events = []
     for sym_a, sym_b, rdate, window_end in pair_lists:
         events = pair_trade_events(close[sym_a], close[sym_b], rdate, window_end, sym_a, sym_b,
@@ -100,8 +108,8 @@ def _run_variant(label, pair_lists, close, cash_open, fut_open, fut_mark, fut_ro
         return None
 
     trades = simulate_pair_trades(
-        all_events, cash_open=cash_open, fut_open=fut_open, fut_mark=fut_mark,
-        fut_rollover=fut_rollover, calendar=close.index, cfg=cfg,
+        all_events, cash_open=cash_open, fut_contracts=fut_contracts,
+        calendar=close.index, cfg=cfg,
     )
     df = trades_to_frame(trades)
     resolved = df[df["net_pnl_pct"].notna()]
@@ -116,13 +124,15 @@ def _run_variant(label, pair_lists, close, cash_open, fut_open, fut_mark, fut_ro
     mean_cost = (resolved["long_cost_pct"] + resolved["short_cost_pct"]).mean()
     reverted_pct = (resolved["exit_reason"] == "reverted").mean() * 100
     rollover_pct = (resolved["exit_reason"] == "rollover").mean() * 100
+    rollforward_pct = resolved["rolled_forward_at_entry"].mean() * 100
 
     tstat_input = resolved.rename(columns={"signal_entry_date": "entry_date"})
     tstat = non_overlapping_tstat(tstat_input)
 
     print(f"\n{label}: n_events={n_events} n_resolved={n_resolved} "
          f"mean_net_pnl%={mean_pnl:.4f} win_rate%={win_rate:.2f} "
-         f"mean_cost%={mean_cost:.4f} reverted%={reverted_pct:.1f} rollover%={rollover_pct:.1f}")
+         f"mean_cost%={mean_cost:.4f} reverted%={reverted_pct:.1f} rollover%={rollover_pct:.1f} "
+         f"rolled_forward_at_entry%={rollforward_pct:.1f}")
     print(f"  non-overlapping t-stat: t={tstat['t_stat']:.3f} (n_buckets={tstat['n_buckets']})")
 
     return {"label": label, "df": df, "n_resolved": n_resolved, "mean_pnl": mean_pnl,
@@ -152,12 +162,10 @@ def main() -> int:
     turnover = _to_panel_generic(long_df, "turnover")[stocks]
     print(f"cash panel: {close.shape[0]} sessions x {close.shape[1]} symbols")
 
-    print("loading front-month futures price series ...")
-    fut_long = load_front_month_price(cfg.paths.fno_db)
-    fut_open = to_cash_panel(fut_long.rename(columns={"open_price": "value"}), "value")
-    fut_mark = to_cash_panel(fut_long.rename(columns={"price": "value"}), "value")
-    fut_rollover = to_cash_panel(fut_long.rename(columns={"is_rollover": "value"}), "value").fillna(False)
-    print(f"  futures panel: {fut_open.shape[1]} symbols with front-month data")
+    print("loading stock-futures contracts (all live, not just front-month) ...")
+    fut_contracts = load_stock_futures_contracts(cfg.paths.fno_db)
+    print(f"  futures contracts: {fut_contracts['symbol'].nunique()} symbols, "
+         f"{len(fut_contracts)} (date, symbol, expiry) rows")
 
     split = cfg.split(args.split)
     start, end = split.window(args.window)
@@ -172,6 +180,7 @@ def main() -> int:
     industry_ref = pd.read_csv(cfg.paths.industry_map)
     sector_map = dict(zip(industry_ref["symbol"].astype(str).str.strip(),
                           industry_ref["industry"].astype(str).str.strip()))
+    fut_symbols = set(fut_contracts["symbol"].unique())
 
     rebalances = [d for d in uni.rebalance_dates if pd.Timestamp(start) <= d <= pd.Timestamp(end)]
     print(f"{len(rebalances)} rebalance dates in window")
@@ -182,7 +191,7 @@ def main() -> int:
         eligible = list(uni.membership.loc[rdate][uni.membership.loc[rdate]].index)
         # Only consider symbols with real futures coverage - a pair whose
         # short leg has no futures data at all cannot be honestly filled.
-        eligible = [s for s in eligible if s in fut_open.columns]
+        eligible = [s for s in eligible if s in fut_symbols]
         if len(eligible) < 4:
             continue
 
@@ -201,9 +210,9 @@ def main() -> int:
                  f"({len(real_pairs_by_date)} real, {len(placebo_pairs_by_date)} placebo pairs so far)")
 
     real = _run_variant("CORRELATION-SELECTED (real hypothesis)", real_pairs_by_date,
-                        close, cash_open, fut_open, fut_mark, fut_rollover, cfg)
+                        close, cash_open, fut_contracts, cfg)
     placebo = _run_variant("RANDOM SAME-SECTOR (placebo)", placebo_pairs_by_date,
-                           close, cash_open, fut_open, fut_mark, fut_rollover, cfg)
+                           close, cash_open, fut_contracts, cfg)
 
     out_dir = Path(cfg.paths.runs) / "pairs_reversion_honest"
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -228,9 +237,12 @@ def main() -> int:
         beats_best_placebo=beats_placebo,
         t_stat=real["t_stat"], n_buckets=real["n_buckets"], n_trades=real["n_resolved"],
         decision=decision,
-        notes=(f"placebo(random same-sector): n={placebo['n_resolved']} "
+        notes=(f"rollforward-at-entry fix applied (min_dte={MIN_DTE_FOR_ENTRY_DAYS}d); "
+              f"placebo(random same-sector): n={placebo['n_resolved']} "
               f"mean={placebo['mean_pnl']:.4f}% t={placebo['t_stat']:.3f}"
-              if placebo else "no placebo trades resolved"),
+              if placebo else
+              f"rollforward-at-entry fix applied (min_dte={MIN_DTE_FOR_ENTRY_DAYS}d); "
+              "no placebo trades resolved"),
     )
     log_path = Path(cfg.paths.runs) / "hypothesis_log.csv"
     append_entry(log_path, entry)
