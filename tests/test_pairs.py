@@ -6,7 +6,13 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from dtest.features.pairs import log_spread, select_pairs
+from dtest.features.pairs import (
+    liquidity_ranked_same_sector_pairs,
+    log_spread,
+    random_pairs_any_sector,
+    random_same_sector_pairs,
+    select_pairs,
+)
 
 
 def _panel():
@@ -96,6 +102,91 @@ def test_select_pairs_too_little_history_returns_empty():
     pairs = select_pairs(close, SECTOR_MAP, list(SECTOR_MAP.keys()),
                          as_of=close.index[-1], formation_window=252, min_corr=0.5)
     assert pairs == []
+
+
+def test_random_same_sector_pairs_never_crosses_sectors():
+    rng = np.random.default_rng(0)
+    pairs = random_same_sector_pairs(SECTOR_MAP, list(SECTOR_MAP.keys()),
+                                     max_pairs_per_sector=5, rng=rng)
+    for a, b in pairs:
+        assert SECTOR_MAP[a] == SECTOR_MAP[b]
+    assert len(pairs) == 3   # exactly one pair per 2-symbol sector
+
+
+def test_random_same_sector_pairs_caps_per_sector():
+    idx = pd.bdate_range("2020-01-06", periods=5)
+    sector_map = {f"S{i}": "Sector" for i in range(4)}   # C(4,2) = 6 possible pairs
+    rng = np.random.default_rng(0)
+    pairs = random_same_sector_pairs(sector_map, list(sector_map.keys()),
+                                     max_pairs_per_sector=2, rng=rng)
+    assert len(pairs) == 2
+
+
+def test_random_same_sector_pairs_deterministic_given_same_rng_state():
+    pairs1 = random_same_sector_pairs(SECTOR_MAP, list(SECTOR_MAP.keys()),
+                                      max_pairs_per_sector=5, rng=np.random.default_rng(7))
+    pairs2 = random_same_sector_pairs(SECTOR_MAP, list(SECTOR_MAP.keys()),
+                                      max_pairs_per_sector=5, rng=np.random.default_rng(7))
+    assert pairs1 == pairs2
+
+
+def test_liquidity_ranked_same_sector_pairs_picks_the_liquid_names():
+    idx = pd.bdate_range("2020-01-06", periods=70)
+    sector_map = {f"S{i}": "Sector" for i in range(4)}
+    # S3 is far more liquid than the other three. Top-3-by-liquidity is
+    # {S3, S1, S0} (k=3, the smallest k with C(k,2) >= max_pairs_per_sector
+    # of 2); keeping the 2 highest-combined-turnover pairs among those
+    # three keeps both pairs that include S3 and drops (S1, S0).
+    turnover = pd.DataFrame({
+        "S0": [10.0] * 70, "S1": [11.0] * 70, "S2": [9.0] * 70, "S3": [1000.0] * 70,
+    }, index=idx)
+    pairs = liquidity_ranked_same_sector_pairs(
+        sector_map, list(sector_map.keys()), turnover, as_of=idx[-1], max_pairs_per_sector=2)
+    assert len(pairs) == 2
+    assert all("S3" in p for p in pairs)   # the most liquid name is in every kept pair
+    assert not any("S2" in p for p in pairs)   # the least liquid name never gets in
+
+
+def test_liquidity_ranked_same_sector_pairs_never_crosses_sectors():
+    idx = pd.bdate_range("2020-01-06", periods=70)
+    turnover = pd.DataFrame({s: [10.0 + i] * 70 for i, s in enumerate(SECTOR_MAP)}, index=idx)
+    pairs = liquidity_ranked_same_sector_pairs(
+        SECTOR_MAP, list(SECTOR_MAP.keys()), turnover, as_of=idx[-1], max_pairs_per_sector=5)
+    for a, b in pairs:
+        assert SECTOR_MAP[a] == SECTOR_MAP[b]
+
+
+def test_liquidity_ranked_same_sector_pairs_deterministic():
+    idx = pd.bdate_range("2020-01-06", periods=70)
+    turnover = pd.DataFrame({s: [10.0 + i] * 70 for i, s in enumerate(SECTOR_MAP)}, index=idx)
+    p1 = liquidity_ranked_same_sector_pairs(SECTOR_MAP, list(SECTOR_MAP.keys()), turnover,
+                                            as_of=idx[-1], max_pairs_per_sector=5)
+    p2 = liquidity_ranked_same_sector_pairs(SECTOR_MAP, list(SECTOR_MAP.keys()), turnover,
+                                            as_of=idx[-1], max_pairs_per_sector=5)
+    assert p1 == p2
+
+
+def test_random_pairs_any_sector_can_cross_sectors():
+    rng = np.random.default_rng(0)
+    # Draw enough pairs that, if sector were respected, some would have to
+    # be cross-sector anyway (6 symbols -> 15 possible pairs total, only 3
+    # possible if sector were enforced) - confirms the function truly
+    # ignores SECTOR_MAP (it never even receives it as an argument).
+    pairs = random_pairs_any_sector(list(SECTOR_MAP.keys()), n_target=10, rng=rng)
+    assert any(SECTOR_MAP[a] != SECTOR_MAP[b] for a, b in pairs)
+
+
+def test_random_pairs_any_sector_no_duplicates_and_respects_target():
+    rng = np.random.default_rng(0)
+    pairs = random_pairs_any_sector(list(SECTOR_MAP.keys()), n_target=5, rng=rng)
+    assert len(pairs) == 5
+    assert len(set(pairs)) == 5   # no duplicate pair drawn twice
+
+
+def test_random_pairs_any_sector_caps_at_max_possible():
+    rng = np.random.default_rng(0)
+    pairs = random_pairs_any_sector(["A", "B", "C"], n_target=100, rng=rng)
+    assert len(pairs) == 3   # C(3,2) = 3, however large n_target asks for
 
 
 def test_log_spread_hand_computed():

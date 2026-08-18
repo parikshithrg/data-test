@@ -94,6 +94,119 @@ def select_pairs(
     return [(a, b) for a, b, _ in pairs]
 
 
+def random_same_sector_pairs(
+    sector_map: dict[str, str],
+    eligible_symbols: list[str],
+    max_pairs_per_sector: int,
+    rng: np.random.Generator,
+) -> list[tuple[str, str]]:
+    """Same-sector pairs among `eligible_symbols`, picked uniformly at
+    random within each sector - NO correlation screen. Up to
+    `max_pairs_per_sector` per sector, the same cap `select_pairs` uses,
+    so trade COUNT stays comparable across selection rules rather than one
+    variant flooding the sample with a big sector's C(n,2) combinations.
+
+    Added 2026-08-18 as its own hypothesis (not a placebo): the 2026-08-17
+    pairs re-test found the correlation screen didn't earn its complexity -
+    a same-sized RANDOM same-sector draw scored higher, both gross and
+    (after the rollover fix) net. That result was only ever measured as a
+    placebo for `select_pairs`, sized to match however many correlated
+    pairs existed that month - this function is the same idea promoted to
+    a real, independently-scoped selection rule with its own cap and its
+    own placebo (`random_pairs_any_sector`, below).
+    """
+    by_sector: dict[str, list[str]] = {}
+    for sym in eligible_symbols:
+        sector = sector_map.get(sym)
+        if sector is not None:
+            by_sector.setdefault(sector, []).append(sym)
+
+    pairs: list[tuple[str, str]] = []
+    for symbols in by_sector.values():
+        if len(symbols) < 2:
+            continue
+        candidates = [(symbols[i], symbols[j])
+                     for i in range(len(symbols)) for j in range(i + 1, len(symbols))]
+        n = min(max_pairs_per_sector, len(candidates))
+        idx = rng.choice(len(candidates), size=n, replace=False)
+        pairs.extend(candidates[i] for i in idx)
+    return pairs
+
+
+def liquidity_ranked_same_sector_pairs(
+    sector_map: dict[str, str],
+    eligible_symbols: list[str],
+    turnover: pd.DataFrame,
+    as_of: pd.Timestamp,
+    max_pairs_per_sector: int,
+    lookback_days: int = 63,
+) -> list[tuple[str, str]]:
+    """Same-sector pairs formed from each sector's most liquid names - a
+    DETERMINISTIC alternative to `random_same_sector_pairs` (no RNG, so a
+    re-run always picks the identical pairs), ranked by trailing mean
+    turnover over `lookback_days` (matches `config.toml`'s own
+    `universe.lookback_days` liquidity window - the same window the
+    universe rebalance itself already uses to judge liquidity, reused
+    rather than a freshly invented one).
+
+    Takes the smallest k such that C(k,2) >= max_pairs_per_sector
+    most-liquid names in the sector, then keeps the
+    `max_pairs_per_sector` highest-combined-turnover pairs among THOSE k -
+    liquid names are picked as a GROUP first, not by directly optimising
+    over all C(n,2) combinations for the single best-turnover pair, so
+    this stays "trade the sector's liquid names" and not a second
+    correlation-shaped selection rule wearing a liquidity label.
+    """
+    window = turnover.loc[:as_of].tail(lookback_days)
+    mean_turnover = window.mean()
+
+    by_sector: dict[str, list[str]] = {}
+    for sym in eligible_symbols:
+        sector = sector_map.get(sym)
+        if sector is not None and sym in mean_turnover.index and pd.notna(mean_turnover[sym]):
+            by_sector.setdefault(sector, []).append(sym)
+
+    pairs: list[tuple[str, str]] = []
+    for symbols in by_sector.values():
+        if len(symbols) < 2:
+            continue
+        ranked = sorted(symbols, key=lambda s: mean_turnover[s], reverse=True)
+        k = 2
+        while k * (k - 1) // 2 < max_pairs_per_sector and k < len(ranked):
+            k += 1
+        top = ranked[:k]
+        candidates = [(top[i], top[j]) for i in range(len(top)) for j in range(i + 1, len(top))]
+        candidates.sort(key=lambda p: mean_turnover[p[0]] + mean_turnover[p[1]], reverse=True)
+        pairs.extend(candidates[:max_pairs_per_sector])
+    return pairs
+
+
+def random_pairs_any_sector(
+    eligible_symbols: list[str],
+    n_target: int,
+    rng: np.random.Generator,
+) -> list[tuple[str, str]]:
+    """The placebo for both same-sector selection rules above: pairs drawn
+    uniformly at random from the WHOLE eligible universe, ignoring sector
+    entirely. If a same-sector rule cannot beat this, sector membership
+    isn't the thing doing the work - generic pair mean-reversion would be,
+    and the "same-sector" story would not be supported."""
+    n = len(eligible_symbols)
+    if n < 2 or n_target <= 0:
+        return []
+    max_pairs = n * (n - 1) // 2
+    n_target = min(n_target, max_pairs)
+    chosen: set[tuple[str, str]] = set()
+    # Rejection sampling - fine at this scale (eligible universe tops out
+    # at a few hundred names, n_target at most a few hundred pairs/month).
+    while len(chosen) < n_target:
+        i, j = rng.choice(n, size=2, replace=False)
+        a, b = eligible_symbols[i], eligible_symbols[j]
+        pair = (a, b) if a < b else (b, a)
+        chosen.add(pair)
+    return list(chosen)
+
+
 def log_spread(price_a: pd.Series, price_b: pd.Series) -> pd.Series:
     """log(A) - log(B) - the ratio-method spread. Positive means A has
     risen relative to B since whatever reference point the caller's own
