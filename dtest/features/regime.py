@@ -29,10 +29,20 @@ import pandas as pd
 LOOKBACK = 63
 
 
-def trailing_return(price: pd.Series, lookback: int = LOOKBACK) -> pd.Series:
-    """(price today / price `lookback` sessions ago) - 1, as of today's own
-    close. NaN for the first `lookback` sessions, where no prior value
-    exists to compare against - not silently coerced to a value that would
-    read as bull or bear either way.
+def trailing_return(price: pd.Series, lookback: int = LOOKBACK, skip: int = 0) -> pd.Series:
+    """(price `skip` sessions ago / price `skip + lookback` sessions ago) - 1,
+    as of today's own close. NaN wherever no prior value exists to compare
+    against - not silently coerced to a value that would read as bull or
+    bear either way. `price` may be a Series (one symbol, this module's
+    original regime-gate use) or a DataFrame (one column per symbol,
+    `signals/momentum.py`'s cross-sectional use) - `shift`/division are
+    the same operation either way.
+
+    `skip` (default 0, so every existing caller is unaffected) exists for
+    `signals/momentum.py`'s 12-1 month construction: skipping the most
+    recent `skip` sessions excludes exactly the short-term reversal window
+    this project's own entry-timing diagnostic (2026-08-17) found to be a
+    real, adverse effect - folding it into a momentum lookback would
+    confound two effects already found to point in opposite directions.
     """
-    return price / price.shift(lookback) - 1.0
+    return price.shift(skip) / price.shift(skip + lookback) - 1.0

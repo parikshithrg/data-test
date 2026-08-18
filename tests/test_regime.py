@@ -42,3 +42,30 @@ def test_trailing_return_deterministic():
     r1 = trailing_return(price)
     r2 = trailing_return(price)
     pd.testing.assert_series_equal(r1, r2)
+
+
+def test_trailing_return_skip_zero_is_unchanged_default_behaviour():
+    idx = pd.bdate_range("2020-01-06", periods=5)
+    price = pd.Series([100.0, 105.0, 110.0, 90.0, 95.0], index=idx)
+    assert trailing_return(price, lookback=3, skip=0).equals(trailing_return(price, lookback=3))
+
+
+def test_trailing_return_skip_excludes_the_most_recent_window():
+    idx = pd.bdate_range("2020-01-06", periods=6)
+    price = pd.Series([100.0, 110.0, 120.0, 130.0, 10.0, 200.0], index=idx)
+    # skip=2, lookback=2: at idx[5], compares price 2 sessions ago (idx[3]=130)
+    # against price 4 sessions ago (idx[1]=110) - the wild idx[4] value (10.0)
+    # must NOT enter the calculation at all.
+    r = trailing_return(price, lookback=2, skip=2)
+    assert r.iloc[5] == pytest.approx(130.0 / 110.0 - 1.0)
+
+
+def test_trailing_return_works_on_a_dataframe_not_just_a_series():
+    idx = pd.bdate_range("2020-01-06", periods=5)
+    prices = pd.DataFrame({
+        "A": [100.0, 105.0, 110.0, 90.0, 95.0],
+        "B": [50.0, 50.0, 55.0, 55.0, 60.5],
+    }, index=idx)
+    r = trailing_return(prices, lookback=3)
+    assert r.loc[idx[3], "A"] == pytest.approx(90.0 / 100.0 - 1.0)
+    assert r.loc[idx[4], "B"] == pytest.approx(60.5 / 50.0 - 1.0)
