@@ -88,6 +88,17 @@ MANIFEST: dict[str, tuple[str, str]] = {
     "99a2610cabee": ("same_sector_pairing/liquidity_delivery_train.csv", "entry_fill_date"),
     "fac149cb6b0b": ("vol_squeeze_breakout_delivery_train/trades.csv", "entry_date"),
     "423c548cc0d3": ("momentum_primary_train/trades.csv", "entry_date"),
+    # 2026-08-19: five hypotheses that had only ever been tested on `primary`,
+    # newly run on `delivery`/train (see [[project-data-test-status]]).
+    "0d8f2ac002c2": ("mean_reversion_delivery_train/trades.csv", "entry_date"),
+    "c9d3ab9ffc36": ("oi_momentum_delivery_train/trades.csv", "entry_date"),
+    "fc8303956df7": ("price_action_long_delivery_train/trades.csv", "entry_date"),
+    "0151b95c725e": ("momentum_delivery_train/trades.csv", "entry_date"),
+    "f68079c5b0b8": ("pairs_reversion_honest/real_trades_delivery_train.csv", "entry_fill_date"),
+    # 2026-08-19: delivery/val confirmation run for momentum (train result
+    # above beat every placebo) - the discipline this project always applies
+    # before trusting a train-only result.
+    "ee89fa192a3e": ("momentum_delivery_val/trades.csv", "entry_date"),
 }
 
 
