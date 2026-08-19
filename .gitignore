@@ -4,9 +4,10 @@ runs/*/data/
 runs/*/*.parquet
 
 # Holding-period diagnostic output - regenerable via
-# scripts/build_holding_period_analysis.py, kept local only (~370MB+,
+# scripts/build_holding_period_analysis*.py, kept local only (~370MB+,
 # too large to be worth versioning).
 runs/holding_period_analysis/
+runs/holding_period_analysis_val_only/
 
 # Python
 __pycache__/
