@@ -1,0 +1,10 @@
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.db binary
+*.parquet binary
+*.xlsx binary
+*.zip binary
