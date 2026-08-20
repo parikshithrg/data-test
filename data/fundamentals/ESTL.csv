@@ -1,0 +1,4 @@
+symbol,filing_date,period_end,period_start,consolidated,source_format,seq_number,revenue,total_income,total_expenses,profit_before_tax,net_profit,eps_basic,eps_diluted,paidup_equity_capital,reserves
+ESTL,2007-06-29 17:35:00,2007-03-31,2007-01-01,False,html_old,46387,228865.0,229627.0,179911.0,13600.0,6146.0,0.53,0.53,113981.0,0.0
+ESTL,2007-07-31 18:50:00,2007-06-30,2007-04-01,False,html_old,47912,256328.0,256536.0,192364.0,36127.0,23106.0,2.02,2.02,113981.0,0.0
+ESTL,2007-10-31 18:33:00,2007-09-30,2007-07-01,False,html_old,50613,256134.0,256285.0,213890.0,26399.0,15201.0,1.32,1.32,113981.0,

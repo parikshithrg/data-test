@@ -31,6 +31,15 @@ industry_map = "C:/Users/parik/OneDrive/Desktop/Dashboard/market_gate/data/nifty
 # NIFTY50_DAILY.csv / INDIAVIX_DAILY.csv, deliberately, so callers read it
 # the same way.
 macro_dir = "data/macro"
+# Per-symbol quarterly financial-results data this project sourced itself from
+# NSE's own `corporates-financial-results` endpoint (real filing/broadcast
+# timestamps, real P&L line items - confirmed live 2026-08-20, see
+# `dtest/data/financial_results.py`'s own module docstring for the full
+# probe). NOT read-only like the three source paths above:
+# `scripts/fetch_financial_results.py` writes here, once per symbol, as a
+# real acquisition step - same category as `fetch_macro_stress_series.py`,
+# never a live call from inside the deterministic harness itself.
+fundamentals_dir = "data/fundamentals"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under

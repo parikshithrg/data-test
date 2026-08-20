@@ -1,0 +1,3 @@
+symbol,filing_date,period_end,period_start,consolidated,source_format,seq_number,revenue,total_income,total_expenses,profit_before_tax,net_profit,eps_basic,eps_diluted,paidup_equity_capital,reserves
+VMM,2025-01-31 19:32:00,2024-12-31,2024-10-01,False,xbrl_new,1191923,13920090000.0,14086750000.0,12346720000.0,1740030000.0,1295070000.0,0.29,0.28,45087195000.0,
+VMM,2025-01-31 19:34:00,2024-12-31,2024-10-01,True,xbrl_new,1191931,31359380000.0,31549630000.0,28030530000.0,3519100000.0,2627180000.0,0.58,0.57,45087186000.0,

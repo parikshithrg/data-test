@@ -1,0 +1,3 @@
+symbol,filing_date,period_end,period_start,consolidated,source_format,seq_number,revenue,total_income,total_expenses,profit_before_tax,net_profit,eps_basic,eps_diluted,paidup_equity_capital,reserves
+RPL,2009-04-23 14:25:00,2009-03-31,2009-01-01,False,html_old,62767,367800.0,,356400.0,8500.0,8400.0,0.19,0.19,450000.0,
+RPL,2009-07-24 16:36:00,2009-06-30,2009-04-01,False,html_old,65968,763900.0,,742500.0,10500.0,10500.0,0.23,0.23,450000.0,

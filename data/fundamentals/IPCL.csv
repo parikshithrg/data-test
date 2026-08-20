@@ -1,0 +1,3 @@
+symbol,filing_date,period_end,period_start,consolidated,source_format,seq_number,revenue,total_income,total_expenses,profit_before_tax,net_profit,eps_basic,eps_diluted,paidup_equity_capital,reserves
+IPCL,2007-07-01 18:04:00,2007-03-31,2007-01-01,False,html_old,46478,300700.0,305700.0,288700.0,-800.0,1800.0,0.6,0.6,30200.0,0.0
+IPCL,2007-07-28 18:37:00,2007-06-30,2007-04-01,False,html_old,47506,277300.0,287000.0,220200.0,50800.0,33600.0,11.17,11.17,30200.0,0.0

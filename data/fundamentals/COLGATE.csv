@@ -1,0 +1,4 @@
+symbol,filing_date,period_end,period_start,consolidated,source_format,seq_number,revenue,total_income,total_expenses,profit_before_tax,net_profit,eps_basic,eps_diluted,paidup_equity_capital,reserves
+COLGATE,2007-05-03 17:46:00,2007-03-31,2007-01-01,False,html_old,45051,34325.0,36060.0,28893.0,6777.0,5059.0,3.72,3.72,13600.0,0.0
+COLGATE,2007-07-27 13:47:00,2007-06-30,2007-04-01,False,html_old,47323,35067.0,37165.0,29023.0,7668.0,6088.0,4.48,4.48,13600.0,0.0
+COLGATE,2007-10-26 17:14:00,2007-09-30,2007-07-01,False,html_old,49427,36387.0,38345.0,31237.0,7053.0,5474.0,4.02,4.02,13600.0,

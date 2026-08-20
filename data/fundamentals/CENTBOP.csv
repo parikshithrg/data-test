@@ -1,0 +1,5 @@
+symbol,filing_date,period_end,period_start,consolidated,source_format,seq_number,revenue,total_income,total_expenses,profit_before_tax,net_profit,eps_basic,eps_diluted,paidup_equity_capital,reserves
+CENTBOP,2007-05-24 17:27:00,2007-03-31,2007-01-01,False,html_old,45581,,,,,,,,,
+CENTBOP,2007-07-23 18:16:00,2007-06-30,2007-04-01,False,html_old,47006,,,,,,,,,
+CENTBOP,2007-10-30 21:33:00,2007-09-30,2007-07-01,False,html_old,50269,,,,,,,,,
+CENTBOP,2008-01-21 18:46:00,2007-12-31,2007-10-01,False,html_old,51406,,,,,,,,,

@@ -1,0 +1,4 @@
+symbol,filing_date,period_end,period_start,consolidated,source_format,seq_number,revenue,total_income,total_expenses,profit_before_tax,net_profit,eps_basic,eps_diluted,paidup_equity_capital,reserves
+SRIADIKARI,2007-07-02 10:13:00,2007-03-31,2007-01-01,False,html_old,46575,1015.88,1058.14,561.15,222.78,-63.21,-0.14,0.0,928.35,0.0
+SRIADIKARI,2007-07-31 22:41:00,2007-06-30,2007-04-01,False,html_old,48066,1055.34,1114.29,712.58,228.11,226.98,0.49,0.0,928.35,0.0
+SRIADIKARI,2007-10-27 20:17:00,2007-09-30,2007-07-01,False,html_old,49583,886.0,894.54,643.11,226.19,225.27,0.49,0.36,928.35,

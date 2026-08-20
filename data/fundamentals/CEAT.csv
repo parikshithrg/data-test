@@ -1,0 +1,5 @@
+symbol,filing_date,period_end,period_start,consolidated,source_format,seq_number,revenue,total_income,total_expenses,profit_before_tax,net_profit,eps_basic,eps_diluted,paidup_equity_capital,reserves
+CEAT,2007-04-23 14:24:00,2007-03-31,2007-01-01,False,html_old,44354,56289.0,57427.0,51897.0,3451.0,2341.0,5.13,5.13,4568.0,0.0
+CEAT,2007-07-27 13:43:00,2007-06-30,2007-04-01,False,html_old,47322,53644.0,54018.0,47199.0,4616.0,3035.0,6.65,6.65,4568.0,0.0
+CEAT,2007-10-30 13:51:00,2007-09-30,2007-07-01,False,html_old,50089,58319.0,59093.0,53657.0,4056.0,2550.0,5.59,5.59,4568.0,
+CEAT,2008-01-31 13:09:00,2007-12-31,2007-10-01,False,html_old,52302,56411.0,57236.0,52983.0,2761.0,1922.0,5.61,5.61,3424.0,
