@@ -91,6 +91,15 @@ etf_aum_dir = "data/etf_aum"
 # paths above: `scripts/fetch_credit_ratings.py` writes here, once, as a
 # real acquisition step - same category as `fetch_etf_aum.py`.
 credit_ratings_dir = "data/credit_ratings"
+# India G-Sec yield curve (2 tenors: 10Y, 3M interbank proxy) this project
+# sourced itself from FRED's own mirror of OECD Main Economic Indicators
+# data (confirmed live 2026-08-24 - see `dtest/data/gsec_yields.py`'s own
+# module docstring, including why RBI's own richer multi-tenor data was
+# investigated and NOT used - an obfuscated, JS-only download mechanism).
+# NOT read-only like the three source paths above:
+# `scripts/fetch_gsec_yields.py` writes here, once, as a real acquisition
+# step - same category as `fetch_macro_stress_series.py`.
+gsec_dir = "data/gsec"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under
