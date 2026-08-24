@@ -38,6 +38,7 @@ class Paths:
     fundamentals_dir: Path
     shareholding_dir: Path
     insider_trading_dir: Path
+    index_reconstitution_dir: Path
 
     def check_readable(self) -> None:
         """Fail loudly if source data is missing, before any run starts."""

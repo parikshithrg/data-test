@@ -1,0 +1,20 @@
+fetching the full press-release list ...
+  (5 duplicate list entries skipped)
+  725 relevant releases found (title-filtered)
+  ... 50/725 releases processed (24s elapsed, 43 yielded events, 7 yielded none, 0 errored)
+  ... 100/725 releases processed (48s elapsed, 88 yielded events, 12 yielded none, 0 errored)
+  ... 150/725 releases processed (80s elapsed, 134 yielded events, 16 yielded none, 0 errored)
+  ... 200/725 releases processed (107s elapsed, 178 yielded events, 22 yielded none, 0 errored)
+  ... 250/725 releases processed (132s elapsed, 225 yielded events, 25 yielded none, 0 errored)
+  ... 300/725 releases processed (157s elapsed, 273 yielded events, 27 yielded none, 0 errored)
+  ... 350/725 releases processed (183s elapsed, 320 yielded events, 30 yielded none, 0 errored)
+  ... 400/725 releases processed (208s elapsed, 369 yielded events, 31 yielded none, 0 errored)
+  ... 450/725 releases processed (232s elapsed, 411 yielded events, 39 yielded none, 0 errored)
+  ... 500/725 releases processed (256s elapsed, 452 yielded events, 48 yielded none, 0 errored)
+  ... 550/725 releases processed (280s elapsed, 494 yielded events, 56 yielded none, 0 errored)
+  ... 600/725 releases processed (304s elapsed, 499 yielded events, 101 yielded none, 0 errored)
+  ... 650/725 releases processed (329s elapsed, 499 yielded events, 151 yielded none, 0 errored)
+  ... 700/725 releases processed (353s elapsed, 499 yielded events, 201 yielded none, 0 errored)
+
+Done in 366s. 725 releases: 499 yielded events, 226 yielded none, 0 errored.
+Wrote 18416 events to C:\Users\parik\OneDrive\Desktop\Data test\data\index_reconstitution\events.csv

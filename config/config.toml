@@ -62,6 +62,16 @@ shareholding_dir = "data/shareholding"
 # `scripts/fetch_insider_trading.py` writes here, once per symbol, as a
 # real acquisition step - same category as `fetch_shareholding.py`.
 insider_trading_dir = "data/insider_trading"
+# NIFTY index reconstitution events (additions/exclusions per index, per
+# press release) this project sourced itself from NSE Indices Limited's
+# own press-release archive at niftyindices.com (real dated PDF
+# announcements, 1998-2026, confirmed live 2026-08-24 - see
+# `dtest/data/index_reconstitution.py`'s own module docstring for the
+# real coverage floor, ~2010, and why). NOT read-only like the three
+# source paths above: `scripts/fetch_index_reconstitution.py` writes
+# here, once, as a real acquisition step - same category as
+# `fetch_insider_trading.py`.
+index_reconstitution_dir = "data/index_reconstitution"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under
