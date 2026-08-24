@@ -42,6 +42,7 @@ class Paths:
     etf_aum_dir: Path
     credit_ratings_dir: Path
     gsec_dir: Path
+    corporate_announcements_dir: Path
 
     def check_readable(self) -> None:
         """Fail loudly if source data is missing, before any run starts."""

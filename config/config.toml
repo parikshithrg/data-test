@@ -100,6 +100,15 @@ credit_ratings_dir = "data/credit_ratings"
 # `scripts/fetch_gsec_yields.py` writes here, once, as a real acquisition
 # step - same category as `fetch_macro_stress_series.py`.
 gsec_dir = "data/gsec"
+# Corporate announcement bulletins (M&A, contract wins, dividend/bonus/
+# buyback, and other material disclosures) this project sourced itself
+# from NSE's own `corporate-announcements` endpoint (confirmed live
+# 2026-08-24 - see `dtest/data/corporate_announcements.py`'s own module
+# docstring, including the real category-filter this source needed given
+# its huge unfiltered scale). NOT read-only like the three source paths
+# above: `scripts/fetch_corporate_announcements.py` writes here, once, as
+# a real acquisition step - same category as `fetch_credit_ratings.py`.
+corporate_announcements_dir = "data/corporate_announcements"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under
