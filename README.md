@@ -95,6 +95,7 @@ call from inside a signal):
 | ETF / Index-Fund AUM | `dtest/data/etf_aum.py` | 2006–2026, 24,836 rows, 1,719 schemes | `filing_date` is an assumed 15-day disclosure lag, not a confirmed broadcast timestamp — flagged, unlike every NSE-sourced date in this project |
 | Per-stock options chain | `dtest/data/options_chain.py` | 2008–2026, 460 symbols, strike-level | Already lived in the existing read-only `fno.db` — no live fetch. Corrects a 2026-08-17 finding ("no per-stock IV exists") that only checked a curated index-only table, not the raw bhavcopy |
 | Credit rating actions | `dtest/data/credit_ratings.py` | Apr 2023–2026, 1,080 actions, 6 agencies | The feed's own `Symbol` field is unreliable for most records — only 64.5% resolve to a real symbol, via a best-effort name-match, the rest correctly left null |
+| India G-Sec yields | `dtest/data/gsec_yields.py` | 2011–2026, 2 tenors (10Y, 3M), monthly | Only 2 tenors, not the full curve — RBI's own richer data needs an obfuscated JS-only download mechanism, not built |
 | Macro cross-asset stress | `dtest/data/` (macro fetch) | varies by series | US VIX, USD/INR, DXY, gold |
 
 **A real landmine in the existing `fno.db`, found 2026-08-24, worth
@@ -142,6 +143,7 @@ dtest/
     etf_aum.py               scheme-level ETF/Index-Fund AUM (AMFI average-aum-schemewise)
     options_chain.py         per-stock strike-level OI/volume/settle (fno_bhavcopy_full)
     credit_ratings.py        multi-agency rating actions (NSE corporate-credit-rating)
+    gsec_yields.py            India 10Y/3M yields (FRED mirror of OECD MEI)
   features/             point-in-time feature layer (technical, fundamentals, pairs, regime)
   signals/               one file per hypothesis (11 built, see Status)
   engine/
@@ -203,9 +205,11 @@ not.
    published at this granularity.
 9. ~~Credit rating actions (CRISIL/ICRA/CARE/India Ratings + 4 more)~~ —
    done
-10. **G-Sec yield curve (RBI)** — next up, not yet started (macro regime
-    context, not a standalone per-stock signal)
-11. Corporate announcement feed (M&A, contract wins, dividends/buybacks)
+10. ~~G-Sec yields~~ — done, but scoped down to 2 tenors (10Y, 3M via
+    FRED) — RBI's own richer multi-tenor data needs an obfuscated JS-only
+    download, not built
+11. **Corporate announcement feed (M&A, contract wins, dividends/
+    buybacks)** — next up, not yet started
 12. Earnings call transcripts — richer than existing RSS headlines
 13. Macro series (RBI repo/M3/forex, MOSPI IIP/CPI/GDP, GST collections)
 14. Global cross-asset (FRED rates, crude, EM-FX, global equity indices)
