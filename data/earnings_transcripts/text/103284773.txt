@@ -1,0 +1,1056 @@
+                              
+       
+ 
+ 
+ 
+ 
+February 05, 2019 
+ 
+The Secretary 
+National Stock Exchange of India Ltd 
+Exchange Plaza, C/1, Block G, 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai – 400 051 
+NSESymbol: TEJASNET 
+The Secretary 
+BSE Limited 
+P J Towers, Dalal Street, Fort, 
+Mumbai – 400 001 
+BSE Scrip Code: 540595 
+ 
+Dear Sir/Madam, 
+Re: Transcripts 
+Please find enclosed the transcripts of the Q3 FY2019 Earnings Conference Call held on  
+January 24, 2019. 
+ 
+We request you to please take the same on record. 
+ 
+Thanking you,  
+ 
+Yours sincerely  
+For Tejas Networks Limited 
+ 
+N R Ravikrishnan 
+General Counsel, Chief Compliance Officer  
+& Company Secretary 
+ 
+ 
+ 
+
+ 
+Page 1 of 21 
+ 
+ 
+“Tejas Networks Limited 
+Q3 FY2019 Earnings Conference Call” 
+ 
+January 24, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ANALYST: 
+MR. PRANAV KSHATRIYA – RESEARCH ANALYST - 
+EDELWEISS SECURITIES LIMITED 
+ 
+MANAGEMENT: MR. SANJAY NAYAK – CHIEF EXECUTIVE OFFICER & 
+MANAGING DIRECTOR – TEJAS NETWORKS LIMITED 
+MR. VENKATESH GADIYAR – CHIEF FINANCIAL OFFICER – 
+TEJAS NETWORKS LIMITED 
+DR. KUMAR N. SIVARAJAN – CHIEF TECHNOLOGY 
+OFFICER – TEJAS NETWORKS LIMITED 
+MR. ARNOB ROY – PRESIDENT (OPTICAL PRODUCTS) – 
+TEJAS NETWORKS LIMITED 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 2 of 21 
+Moderator: 
+Good day ladies and gentlemen and a very warm welcome to the Tejas Networks Limited Q3 
+FY2019 Earnings Conference call hosted by Edelweiss Securities. As a reminder all participant 
+lines will be in the listen-only mode. There will be an opportunity for you to ask questions after 
+the presentation concludes. Should you need assistance during the conference call please signal 
+an operator by pressing “*” then “0” on your touchtone phone. Please note that this conference is 
+being recorded. I now hand the conference over to Mr. Pranav Kshatriya from Edelweiss 
+Securities Limited. Thank you and over to you, Pranav! 
+Pranav Kshatriya: 
+Thank you Ali. Good afternoon to everyone. On behalf of Edelweiss, let me welcome you to the 
+Tejas Networks Q3 FY2019 earnings call. We have with us senior management of Tejas 
+Networks headed by Mr. Sanjay Nayak along with senior members of the management team. 
+Without further ado, I will hand over the call to Mr. Sanjay Nayak to start the proceedings. 
+Thank you and over to you Sir! 
+Sanjay Nayak: 
+Thank you Pranav. Good afternoon everybody. This is Sanjay Nayak. Along with me, I have Mr. 
+Venkatesh Gadiyar our CFO, Dr. Kumar N. Sivarajan, our CTO, and Mr. Arnob Roy, President 
+of our Optical Business. 
+ 
+First of all, I hope you all had a chance to download the presentation that we have put on the 
+website, so I will just be referring to the slides as we go through that. I am on the slide Q3 
+financial updates, so to give you quick summary as you all know that the inherent nature of our 
+business is lumpy, so we really do not value the quarter-on-quarter results in a serious way, but if 
+I look at the nine months aggregate we have done Rs.610.9 Crores of revenues, which is a 
+decline of around 4.7% compared to the previous nine months. EBITDA is at Rs.143.5 Crores, 
+which is a marginal increase. The operate profit is Rs.95 Crores. Profit before tax is Rs.112.9 
+Crores, which is a 14.5% year-on-year increase and PAT is at Rs. 111.4 crore. 
+I just wanted to point out three facts, which might be of interest is that on a nine month revenue 
+basis we have already done about 82% of the total revenues of last fiscal year, so which basically 
+means that with a very strong Q4 that we have visibility into, we have a great degree of 
+confidence in terms of our significant year-on-year growth so that is point number one. The 
+second point I wanted to highlight is that our profit before tax of nine months is Rs.112.9 Crores, 
+which is higher than the Rs.106 Crores of profit that we had for the entire fiscal year last year and 
+that is basically at the back of the fact that at a PBT level we are about 300 basis points higher 
+than the corresponding period of nine months. Basically I think on the profitability side the 
+company is doing fine. On the revenue growth side because of the lumpy nature we have had a 
+flattish nine months, but we expect to recover on a significant growth path in Q4 and I will of 
+course walk through the details of where we are seeing the business. 
+I would now like to just go to the next slide, which is the global optical networking market. I just 
+want to reiterate that the business that we are in the fundamental stuff that we are doing because 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 3 of 21 
+we are really a medium to a long term company in terms of the way we are making our 
+investments and the way we are envisioning our own progress. First and the foremost thing is 
+that we seem to be in the market, which is growing worldwide, so optical networking is about a 
+$20 billion market and the big growth is being driven from Asia including India, Middle East, 
+CALA and Africa where we believe a lot of 4G investments are happening and will continue to 
+happen for the next two to three years. After that of course the 5G investments will take over in 
+this part of the world. In the US and Europe,  5G deployments will start in a small way this year, 
+but in a larger way starting from the next year and the following year, so really there seems to be 
+a significant momentum behind investments in optical. Technologies like 100 gig and more than 
+100 gig like 200 gigs, 400 gig, 600 gig on WDM and OTN will be the dominant technologies. 
+The reason I am mentioning that because these are all focus areas for the company that you will 
+see in the next few slides and then the last part is interesting because we see that trend in India 
+whether for wireless backhaul, which is basically bringing the data and the voice signal back 
+from the mobile base stations there was a mix of whether you can do it on wireless or radios or 
+do it on opticals. The dominant trend is that optical backhaul will be more than 70% of the total 
+backhaul in the world and radio will be limited to 30%. Of course in India we have a much 
+bigger cue, which is going to change over the next few years. 
+One more thing I wanted to touch upon is that with 5G there is another $1.5 billion worth of 
+capex, which will be opening up in addition to the $20 billion, which is on account of what is 
+called optical fronthaul, which essentially means that the radios and the base stations could be 
+located at some distance and the fronthaul would be the technology to carry that, which again I 
+would like to say that we have been working closely and gunning for that. GPON and fiber to the 
+home, which is additional to the $20 billion is another $7.5 billion market by the next five years 
+and the interesting part is Asia and Africa is where the world’s largest amount of GPON 
+deployments are happening and coincidentally these also seem to be the focus area for company 
+in terms of our international growth. 
+The last part I wanted to mention on the global comment is that you all would have been 
+watching the latest geopolitical developments between US and China in terms of various 
+companies from different parts of the world where there is a lot of concern, which is setting into 
+the customers in terms of security of supply chain, assurance of components being available and 
+all of that means that for a company like ours, which has an end to end portfolio of products and 
+this can be considered as a “safe country” we are seeing a significant increase in customer 
+engagements, which has not yet resulted into business as you would like, but clearly there is an 
+intent from the customers, which are otherwise not looking at us seriously to work with the 
+company like ours. 
+Coming back to the next slide about the Indian market I am sure a lot of it is known to you, but 
+India continues to be one of the fastest growing optical markets in the world. The data 
+consumption in India is still growing. We are the largest consumer of data with more than 500 
+million internet users. As you know the 4G penetration is still at the early stages and a lot more is 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 4 of 21 
+supposed to happen and as a result all the operators are spending significant amount of capex in 
+optical transmission for transforming their network to be 4G ready today and maybe 5G in future. 
+Fiber to the home, which is xPON or GPON technology coming in and of course the metro 
+networks and the long haul networks, which are getting congested, so what we are expecting is 
+that from the same total capex of an operator a significantly larger percentage will be going into 
+the optical transmission portion that we address. 
+We also talked about the fiberization in the country. We are still at about 25% towers connected 
+on fiber. As per the TRAI report by 2023 this number should go up to around 60% and clearly as 
+you would all have personally experienced without good amount of backhaul connectivity you 
+would not get a decent 4G experience on your mobile phone. 
+The third part I want to emphasize and I am sure you heard the earnings call of other operators is 
+that home and broadband connectivity, which is FTTX based on GPON technology is going to be 
+accelerating. Initially there have been teething problems for the operators to get right to the last 
+mile, which are being solved by mergers and acquisitions in some cases and while laying out 
+Greenfield fiber in the others, but net, net what is going to happen is that a significant part of 
+home broadband will actually happen on a wired connection because wireless connection will not 
+give you the capacity, the speed and the quality of service that one expects and as a result this 
+will be a significant growth area both from a capex perspective as well operators own revenue 
+and it is expected that by 2023 30% of this as operators revenues would come from home 
+broadband and more than 50% of the home should be wired up in India by 2022. 
+Last, but not the least for sure is that government funded projects to increase broadband 
+connectivity are continuing. There has been a little bit of a slowdown on Bharat Net execution. I 
+would not say from the intent, intent is very clear. For the last three or four months, there has 
+been a little bit of slowdown and I am sure you would have read in the press in terms of certain 
+transfers and administrative rejuggle, which have happened in Delhi, which basically slows down 
+the project, but the net effect of that is the phase two, which is planning to connect 250000 
+villages is well underway. Some of the tenders have happened, but the orders have not been 
+issued and those are things, which should happen shortly and state led Bharat Net plus, plus, 
+which is building a full statewide network, many states have come out with tenders, some have 
+opened, some more are at advanced stages. Second the intent of Gram Panchayat, which 
+currently have between 100Mbps to 1gigabyte will be upgraded to 10 gigabytes by 2022. 
+100Mbps to every government office, every academic institution is another intent that the 
+government is pursuing. Smart city and video surveillance projects in many cities also require a 
+high-capacity optical backbone. So if you really see the global trend, if you see the Indian trend, I 
+can pretty safely summarize that we seem to be in a market, which is fast growing, where there is 
+significant demand for optical and as we will see later we have competitive products and our 
+incumbency and our applications in the accounts are improving, which gives us a lot of 
+confidence in the medium and long term prospects of the company. 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 5 of 21 
+I would straightway jump next into the sales update in terms of where is the business headed, 
+why are we confident about Q4 and why we are so gung-ho about next fiscal year and so on. So 
+let me really break out our business into three buckets, the government business in India, the 
+private business in India and international. Let me discuss these one by one. The India 
+Government revenues this year we expect to be flattish, the reason for it is not because we have 
+not won business. We have won a lot of business, but essentially the Bharat Net orders, the phase 
+two orders, which are significantly done by the center and many of the states have also opened 
+their tenders. The tenders have been opened, the winners have been announced, a significant part 
+of those winners are our partners in terms of EPC companies who have bid our equipment, we 
+have approximately Rs.300 Crores worth of business that we potentially can get out of the 
+tenders that have already been won. But since the orders have not come in our hand as of date we 
+are not planning to revenue those orders in this financial year, so our guidance about this 
+financial year excludes these. We expect that these will be revenued in FY2020 but these are 
+expected to convert into firm orders over the next few weeks or a month. The second part of the 
+India Government business, which seems to be doing extremely well for us is the utility business, 
+which is power, rail, oil and gas. This sector actually has been spending significant amount of 
+capex and we have a dominant market share in this phase and it will deliver a very strong year-
+on-year growth. The third aspect is that while Bharat Net has one set of tenders that are being 
+done by BSNL for their own captive requirements for BSNL’s transmission network, Railtel’s 
+transmission network, and PGCILs transmission network, there are significantly large numbers 
+of tenders, which are getting bid during this quarter, which in a way will be available for 
+revenues in FY2020, so what we have essentially done is we have taken only the government 
+orders, which we have in hand today and which are for revenues in this year for our revenue 
+guidance for this fiscal year and everything else, which we have one we are thinking that it is 
+going to be done into revenue into next fiscal year. 
+Let me come to the next part of the business, which I am quite excited about in the last couple of 
+calls if you remember we would have been talking about our efforts to be designed into a few 
+new applications into our existing customers. This year we have had a very significant traction in 
+terms of investments in those application so on that basis alone we are seeing significant growth 
+in India private revenues this fiscal year including what we had in nine months. On top of that we 
+are very happy to announce that we won with a large major private operator rate contract for 
+OTN and DWDM applications so this is a new application with multi Rs.100 Crores opportunity 
+over the next few years in terms of deployment. We just won this application, we are going to do 
+a few initial deployments in this quarter, but the major deployments will start from next fiscal 
+year, but the benefit of this is that this will allow us to increase our market share into that 
+customer in quite significant way. And the third element, which is equally exciting is what you 
+would have all heard about the FTTH deployment and based on the GPON technology that all the 
+majors have announced and again we are very happy to say that we are at a very advanced stage 
+of discussions with multiple operators at this point in time and we expect that we should be able 
+to close rate contracts with them in this quarter, which will allow us to have a long runway of 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 6 of 21 
+revenues based on their FTTH deployment although will not be the sole supplier and second or 
+third supplier depending on which operator you are talking, but we do believe that with the 
+comparative portfolio product that we have, we should be able to get significant revenues out of 
+this new application as well. 
+ 
+In summary, India private on current application itself is showing strong growth this year on top 
+of the fact that we have already won a new application, which is meaningfully large and a few 
+others, which are in the pipeline in this quarter. We are very confident and comfortable that we 
+will see a sustained growth from India private going forward. I will also talk about how we see 
+our revenue split between these three categories as time goes by. 
+ 
+Coming to international, we have been continually saying that international will be the fastest 
+growing part of our business and we are actually seeing results on the ground so few things, 
+which I would like to call out is that first of all we have three major reasons where we are 
+focusing internationally on Southeast Asia and SAARC, Africa as well as North America. At a 
+high level all of the three regions are independently growing very fast and we actually expect that 
+each of them will actually cross or equal revenues around $10 million individually. This is a very 
+big jump up because as we have been making international investments and as we have talked 
+earlier it takes a long time to get into some customers, it takes a long time to be known in a 
+country, you will start with the orders of a few hundred thousand dollars in the first year may be 
+get down to a million or two and then after you have performed well and you are known you start 
+getting into larger deals. So I am very happy to say that individually each region will be growing 
+and these will be growing to a significant size. The second thing we have already talked about the 
+US China issues. In fact in the last few weeks itself some of the new events have happened, 
+which is generating significant interest for us and as a result what we are seeing is that not only 
+are we getting new customers, but the size of the deals, which we are playing into right now, are 
+fairly large deals individual deals north of $10 million and we are seeing this in multiple 
+geographies across the board. We also added four new customers during the quarter, three in 
+Africa and one in America. In Africa I am very proud to say that one of them as a Tier-1 
+customer. Please appreciate that we cannot announce some of these names as yet because we 
+have to respect the confidentiality as well as competitive forces that would work against us in a 
+scenario like this, but we have been winning Tier-1 customers in Africa and we are in play for a 
+few more and again these are all customers, which are expected to become strong run rate 
+customers going forward. Specifically Southeast Asia and SAARC we got a lot of repeat orders 
+from existing customers and we have active engagements for large deals in Malaysia, Vietnam 
+and Sri Lanka and Bangladesh. And what I mean by large deals is individual opportunities, 
+which are between $5 million to $10 or $20 million in size. Some of those decisions we expect to 
+happen this quarter, which will again become a good driver for growth next year. 
+ 
+Coming to Africa, this has again been a growth market for us and we are getting a lot of repeat 
+orders from existing customers. And again in Africa we have new wins in multiple Tier-1 
+customers, we have been technically shortlisted in some of them or are at a bidding stage in terms 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 7 of 21 
+of the price list, etc., and again we believe that at least a few of those big decisions should happen 
+this quarter and we can get a couple more Tier-1 accounts in our kitty that will become run rate 
+customers going forward. 
+ 
+Coming to North America, within North America, Mexico again we have had a very strong 
+footprint and the order flow is very, very solid and in addition we are also placed for a few very 
+large deals on new applications based on FTTH technology. US market while we have active 
+engagements with over 20 customers it is taking longer to close and the order flow on a year to 
+date basis has been slow, but we do believe that this is the great market for us to invest. In U.S 
+Chinese equipment companies are banned and given our products we do see that it is a very big 
+potential market for us and unfortunately it has been behind plan as of now. But we do expect to 
+recover and we have continued to make more investments. The last part I wanted to mention, 
+which we have been calling out in the earlier calls as well that the OEM business is continuing to 
+shrink and it has now come to a very, very nominal level. But despite OEM business shrinking to 
+pretty much marginal level the total North America market on year-on-year basis, we still 
+expected to see reasonably decent growth so that gives you a sense that the direct business that 
+we have been focusing on in North America is starting to play out. So to kind of summarize the 
+good news is that while last year the breakout between India and international was 82% India and 
+18% international, based on the visibility that we have this year we should be in the range of 
+75%:25%. And if I were to see the trend in which we are building up private customers as well as 
+international both of which are going to be the focus areas for the company going forward, it is 
+going to reduce our dependence on government business. I am confident that in around three 
+years time period we should be around 50:50 between India and international and even within 
+India a significant part would be coming from the private so that is kind of the transition, which 
+is happening in the company, which in the medium and long-term interest is extremely healthy. 
+While we will continue to compete strongly for India government business by leveraging PMI 
+and other favorable local procurement policies for domestic manufacturers, but at the same time 
+we also want to make sure that we do not lose focus and continue to make investments to grow 
+international and private business since these are expected to be a lot more solid and steady 
+business in the long-term. So that was kind of a quick summary of where the business is. I will 
+now hand it over to Venkatesh to talk a little bit more about the nine-month financial and also to 
+explain one specific thing, which I am sure all of you may have a question around in terms of our 
+increasing DSO and this payment delay from one particular government customer so over to 
+Venkatesh! 
+Venkatesh Gadiyar: 
+Thank you Sanjay. Good afternoon everyone. We are in financial side. As we explained in our 
+earlier quarter for equivalent comparison we used revenues net of taxes and pass through sale of 
+component for nine months ended December 31, 2018 our net revenues declined by 4.7% to 
+Rs.611 Crores despite decline in the revenues for nine months we had better gross margin, which 
+is the factor of both products and customer needs as a result our EBITDA grew marginally 
+higher. Service revenue for nine months ended December 31, 2018 were at 6% of the net revenue 
+compared to 8% of the comparative period in the previous year. 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 8 of 21 
+ 
+During the previous year, we had recognized instillation and commissioning revenue of about 
+Rs.20 Crores from the execution of BharatNet Phase I. Though we continued to invest in R&D 
+and international sales our other expenses were under control. Overall operating expenses for 
+nine months period marginally declined on a year-on-year basis majorly due to the reduction in 
+the installation charges for BharatNet Phase I, which has happened in the previous year. The 
+gross employee cost increased by 25% on a year-on-year basis, the headcount increased from 697 
+to 758 in the last 12 months. EBITDA grew by 0.9% on year-on-year basis and as a percentage of 
+the net revenue increased by 130 basis points to 23.5% on account of the improved gross margins 
+and reduction in the operating expenses. Our profit before tax grew by 14.5% up from Rs.99 
+Crores for nine months ended December 31, 2017 to Rs.113 Crores for nine months ended 
+December 31, 2018 and currently we have exceeded the full year profit before tax as well as 
+profit after tax, which shows the healthy profitability. On the tax front since Tejas Israel, which 
+was a subsidiary officially got liquidated during the quarter and hence we have been able to get 
+tax benefit during the current quarter. As a result you could see the negative of Rs.3 Crores in the 
+current income tax. Our PAT for the nine months grew by 44% on a year-on-year basis with the 
+help of the increase in the other income as well. PAT was 18.2% of the net revenue for the nine 
+months compared to 12.1% for the nine months period ended December 2017. 
+ 
+Our EPS for the nine months grew by 33%. Our DSO has been increased to 257 days and our 
+working capital has been increased to 239 days due to the delayed collection from one of the last 
+India government customers related to BharatNet Phase I and we have made a significant 
+progress on the collection from this customer; however, we are continuously in touch with the 
+government and we are confident to collect the majority of the dues and expected to get this 
+normalized in Q4. Basically we factor this cost of interest in our margins if you could see our 
+margins were higher by 300 basis points compared to the previous year. On a PAT basis we do 
+not seem to be having any impact on that towards the delay in the payment. As a result of the 
+delay in the collection from the government customer our cash flow front we have utilized about 
+Rs.104 Crores for operations in the nine months, we have shelved our payables and better 
+managed our inventory. Our working capital was higher than the expected and we expect the 
+collection cycle to normalize in Q4. We are practically a debt free company. As at the end of 
+December 2018 we have a cash and cash equivalent of about Rs.376 Crores including investment 
+in liquid mutual fund of Rs.154 Crores and deposit with banks and financial institutions of 
+Rs.165 Crores and we have no exposure to the risky financial investments. In summary while our 
+revenues saw a decline of 4.7% on nine months basis we had a healthy improved profitability, 
+PBT grew by 14.5%, PAT grew by 44% and for the full year we expect our revenueis to grow 
+around 20%. 
+Sanjay Nayak: 
+Thank you Venkatesh. For the next part I just wanted to kind of request Kumar to talk through in 
+terms of what are the target markets and why the products that we are doing are very competitive 
+on a global basis so Kumar please can you walk us through. 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 9 of 21 
+Kumar N. Sivarajan: 
+Thank you Sanjay. We have been expanding our product portfolio and now our product portfolio 
+targets several high growth telecom equipment market segments. We are the only company to 
+have integrated high speed broadband access both wired, which is GPON and wireless, which is 
+LTE into our optical metro transport equipment. Globally, this is $40 billion market over the next 
+five years. We have also evolved our optical transport products to address the new and fast 
+growing 5G fronthaul market about which I will say a little bit more on the next slide. In addition 
+we have also invested significantly to develop a leading edge, DWDM transport and OTN cross-
+connect portfolio to address the core optical market. This market is expected to exceed $100 
+billion over the next five years. So on the converged access products, we have a converged 
+optical broadband access product, which incorporates GPON, which is wired access, broadband 
+wireless access through LTE and also includes optical aggregation and all this is in a single 
+family of platforms, which is the TJ1400 series. The same family also addresses all packet 
+transport needs of our customers, this includes Carrier Ethernet services for enterprises, circuit 
+emulation for network modernization and these platforms are also 5G-ready for mobile fronthaul 
+and backhaul. We have a range of backhaul and fronthaul solutions that mobile operator 
+customers can deploy today ahead of their 5G rollout. We have 100GE support for high speed 
+backhaul, which is expected to be needed with large scale deployment of 5G. We support small 
+cell backhaul for GPON and NG-PON products. We offer multiple fronthaul options to our 
+customers that are eCPRI, time sensitive networking and OTN. In addition, our SDN solutions 
+from our management systems enable our customers to address the network slicing needs of 5G. 
+ 
+In our WDM portfolio we have enhanced per wavelength transmission speeds, which used to be 
+100 gigabits per second to 200, 400 and 600 gigabits per second to effectively address the high 
+capacity data center interconnect market. Our alien wavelength solution, which is innovation we 
+brought to this market two years ago, has now been deployed at 200 gigabits per second at bit 
+rates. This enables our customers to cost effectively enhance and deploy DWDM network. We 
+are also developing a novel highly scalable platform, which combines packet switching and OTN 
+cross-connect and this will enable our customers to address their core optical switching needs. 
+ 
+In terms of an overall update we have 758 employees over half of them are in R&D. We are 
+delighted that we have been chosen as the company of the year for telecom products by Zee 
+Business. We continue to enhance our patent portfolio and obtained our 100th granted patent last 
+quarter. We continued to be active in TSDSI which is leading India’s efforts to reshape the 5G 
+standard to be relevant for India. I now hand over to Sanjay. 
+Sanjay Nayak: 
+Thank you Kumar. I am on the last slide, the summary slide after which we will open up for 
+questions. We really think about where the company is today, and what are its medium-term and 
+long-term prospects. First I am very happy to say that we are in the right market, the optical 
+network is a large and growing market, the continued investments around the world as well as in 
+India will be there for a long period of time. Number two, as Kumar mentioned our technology 
+focused investments in R&D have been fantastic, we absolutely have a very, very competitive 
+end-to-end product portfolio. We have a rich end-to-end optical product portfolio which basically 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 10 of 21 
+tells us that once we are able to increase our sales investments around the world we should be 
+able to dramatically increase our market share in the world. We have products from the access 
+side on the GPON or FTTX all the way to the core, which is multi-terabyte switching on the 
+latest technology including 600 gigabit wavelength as Kumar talked about. We are ready for 5G, 
+so basically I would say from a technology side we seemed to be ready to take on the best in the 
+class in the world. 
+ 
+On the sales side as a company as I highlighted earlier, our focus is to get more of India private 
+international and reduce the dependence on government tenders, I am not saying that we will not 
+focus on government tender that is the business that is available, but the fact that India private is 
+growing well, the fact that we have one new application and we are well positioned to win a few 
+more applications gives us comfort that on a sustainable basis this could lead to a market share 
+improvement. International business investments have been working out well and we will see the 
+results of all those investments coming now. Sales cycles are long in our industry, but we are 
+kind of getting starting to see the benefits of all the investments we made in the past. The 
+geopolitical issues globally are clearly working in our favour where we are actually getting a lot 
+more interest from customers. And above all we are making sure that we have the financial 
+discipline, so we are seeing profitability, we do have a slight glitch in terms of collections from 
+one customer and working capital in the near term, which we plan to address during this quarter 
+so that by the time we end this quarter, we should be closer to our normalized working capital 
+cycle. That is kind of a quick summary of where the company is today and we will now open up 
+for questions that you all have. 
+Moderator: 
+Thank you very much. Ladies and gentlemen we will now begin the question and answer session. 
+The first question is from the line of Mukul Garg from Haitong Securities. Please go ahead. 
+Mukul Garg: 
+Thank you for taking my question. Sanjay just to start with a clarification is your Q4 numbers 
+building in Rs.111 Crores order from Sterlite Technologies, which you got a few months ago or 
+is that supposed to come in FY2020? 
+Sanjay Nayak: 
+A significant part of that will be done in Q4. 
+Mukul Garg: 
+Understood Sir. If I look at your starting order book, which you provided at the start of the fiscal 
+year, second half was supposed to have Rs.130 Crores odd, which you were supposed to deliver 
+and then if you add about Rs.100 Crores more from that of the Sterlite in the fourth quarter it 
+seems like the non-tender, non-order book business has fallen off materially in Q4 and especially 
+given that we are already expecting a good growth on international business market, so I am 
+nearly talking about the domestic private sector space, is that the correct way to look at it? 
+Sanjay Nayak: 
+Not really because the domestic in fact the momentum on India private and international is 
+picking up in Q4 onwards as well. If I look at BSNL, BBNL, BharatNet BSNL as one group of 
+entity on annualized basis I am saying that Q4 revenues will be flat or slightly lower but business 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 11 of 21 
+in the government utility will be increasing, so on an overall basis India government would be 
+flattish. India private would actually see a very significant year-on-year jump on the top of what 
+we have really got from existing as well as what is coming in Q4. International again as I said 
+will be seeing a very significant jump on a total basis. So I would say if I were to kind of look at 
+the three businesses together, India government on aggregate basis will be flat, the government 
+part, which is BSNL, BBNL part will be down, but the other segments would all be on an 
+upswing. 
+Mukul Garg: 
+Okay, understood. The second question was basically on the weak growth in Q3, if you look at 
+last four quarters this is basically about third time when you have been negatively impacted by 
+the issues at BharatNet and market has been surprised because of that, so can you help us 
+understand the disconnect, which has been a recurring despite a very bullish demand 
+environment and commentary from that, can you help us understand why this disconnect is 
+happening repeatedly? 
+Sanjay Nayak: 
+Actually it is correct that the disconnect is only over the last quarter because if you see the 
+previous quarter in the Q2 time period around August, September, the first set of BharatNet 
+tenders in the central government, the centrally funded tenders were opened, so the bids are 
+opened, the winners L1 were known and a large majority of those were people who had bid our 
+equipment as a part of the overall EPC solution. So our expectation was that typically from 
+advanced purchase order, which the EPC players got to the final order is usually a two week 
+process. Unfortunately, and I am sure you guys can google as well and I do not want to specify 
+here, but there was a challenge in terms of the administrative infrastructure and there has been a 
+couple of transfers in the last week which pretty much brought a lot of the execution to a 
+standstill. So while the orders were won and we were expecting that there would have been a 
+requirement to supply some of it in Q3 and some more in Q4. The reality is that the final orders 
+have not been issued to the EPC contractor in which case of course we have not got the order that 
+was kind of the surprise part, but it was really a process, which culminated in a sense that there 
+has been administrative reshuffle to get these projects on a fast track, so that is one part, but what 
+are we doing now we are actually discounting those Rs.300 Crores worth of orders, which we 
+probably will get this quarter and we are not planning to revenue in this quarter, we are assuming 
+that even without those orders we should be able to hit the revenue target that what we have set 
+out. So that kind of gives you the sense of what is happening and by the way the larger issue, 
+which you have touched upon is essentially what I mentioned in my commentary earlier is that 
+no matter what one can do the government tender business will always have its inherent 
+fluctuations. As much as you would like to believe that it is all under control and everything is all 
+done till you actually get it down to the execution, they can always be last minute slip ups as we 
+ourselves have seen, so the company’s focus really is to really build up very strong and robust 
+non-government business. If I were to say and I think the kind of progress we have made in this 
+financial year in the nine months we feel extremely confident that the direction we are setting 
+that probably in a year from now we should have a significantly lesser dependence on 
+government and the remaining business should be more steady and more predictable as well. 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 12 of 21 
+Mukul Garg: 
+As a follow on also what gives you the confidence that the Q4 number you can achieve about 
+Rs.270 Crores to Rs.280 Crores, which is the ballpark number comes at 20% growth? 
+Sanjay Nayak: 
+The confidence really comes from two things. All the government orders that we are going to 
+execute in this quarter are already in our hands, so there is no uncertainty about anything related 
+to government for this quarter. The remaining orders from private customers either already are in 
+hand or are from our run rate customers where we have confirmed forecast as we call it. It 
+basically means we get the order and we ship it out in three, four weeks because that we have 
+committed to them. So for the government part the orders are already in hand and clear to ship, 
+for the non-government part it is from existing customers on existing applications which are 
+either already in hand or it is a confirmed forecast in which case we should get the PO any day. 
+Mukul Garg: 
+Understood. The second question was on international business side, if you look at the 
+commentary and compare with how you have played out the peak was in FY2017, revenue in 
+FY2019 will still be below FY2017 revenues despite expansion across many regions positive 
+feedback from Telcos and multiple deals, which in US are suggesting probably help started 
+flowing through, so how should we see that because if we look at from a global total market size 
+perspective you are still very, very negligible and that should have been relatively easier space to 
+pick up once you get a foothold there and if you can also help us understand how should we see 
+that market growing from a three to five year perspective? 
+Sanjay Nayak: 
+Perfect question, so actually as you rightly pointed out in FY2017 if you remember one-third of 
+our revenues were from international, but everything of that was OEM, one-third was India 
+government and one-third was about India private I mean that was approximately the breakup. So 
+the difference in FY2019 is that one-third of OEM revenues is almost marginalized right now 
+and we have replaced that with direct international revenues, which is where we have direct 
+customer contact in all that. Now that is what is really playing out and it takes that much amount 
+of time because you have to go to new countries, you have to build confidence with the 
+customers, you have to be in the right RFP cycles and we have done all the hard work if I were to 
+say in an investment of course, so I think the way to think of it is that despite the fact that the 
+overall revenues from international OEM pretty much vanished away we have been able to 
+replace that with direct revenues across multiple geographies, so that is the good part. Coming 
+back to your question about how should we see in the three to five years as I mentioned earlier 
+even on a three year horizon we expect that the international revenue should be in a close to half 
+or more than half in fact this year itself we are going to around 75:25 breakout between India and 
+international, next year probably somewhere between 65:35 or 60:40 depending on how fast we 
+are able to scale up international and how fast India grows and probably the following year we 
+should be closer to 50:50, that is kind of a direction, which we are going. The fact of the matter is 
+that the sales cycle in our industry is long, but that is what we have been doing for the last two to 
+three years, but once we have incumbency into a country, once you are known in a certain 
+country after a year we start to see bigger deals so we actually see the magnification impact much 
+faster, but second element is winning into the larger tier ones, so in fact when I gave the 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 13 of 21 
+commentary we also mentioned that in Africa we won a couple of Tier-1 operators and those tier 
+ones are pan African operators and once you are in there of course you will start small, but once 
+you pickup momentum it becomes a market share game with indoors, so that is the way to look at 
+international in terms of how the business is going in that similar in India once you are into a new 
+application because in India we do not have new customer wins with the same customers, but 
+you have new wins that itself will give us a pretty solid comfort in terms of the year-on-year 
+growth on a long-term basis. 
+Mukul Garg: 
+Got it, so is there a market share number, which you are targeting from medium to long term 
+perspective on the global market? 
+Sanjay Nayak: 
+I would say we would probably have a conversation around that after our annual call around the 
+April time period because we would have a good segment-wise view and will be able to walk 
+through the roadmap for market shares across countries and regions. 
+Mukul Garg: 
+I understood. I will get back into the queue. Thanks for answering my questions. 
+Moderator: 
+Thank you. The next question is from the line of Vikrant Kashyap from Kedia Securities Private 
+Limited. Please go ahead. 
+Vikrant Kashyap: 
+Good Afternoon. Sir since you are guiding for our 50:50 kind of revenue mix from international 
+and domestic market so what will be the impact on your DSO and working capital days? 
+Sanjay Nayak: 
+I would like to just clarify the 50:50 split we are thinking in about three years period, there are 
+two things, which we should draw out of that split, number one is that the gross margins 
+internationally are better than gross margins in India because India is the world’s most 
+competitive market so as the blend of international continues to improve we should see a 
+possibility of gross margin improvement but on the downside of course your sales expenses will 
+be higher. I just want to qualify that one part. Secondly in international what we have been able 
+to do is to actually have much tighter DSOs so either we get payments in a short period of time or 
+we get payments in a form of an instrument, which can be discounted and the interest cost of 
+which we break in into the price of the deal so at a directional level as our international business 
+increases we should see a reduction in DSO. However one other side comment I would like to 
+make in the context of DSOs between India Government and India Private. In India Government 
+in the past if you see we never had much of a challenge in terms of DSOs because most of our 
+contracts were supply only so all we have to do a supply the equipment and once you supplied 
+money used to come pretty fast and that was the case so two things have happened in the last six 
+months, which has basically caused a little bit of a disturbance on the DSO. Number one is that in 
+the Bharat Net Project 60% of our payment was related to supplies, but 40% of the payment was 
+related to installation and commissioning and other associated field activities which have been 
+completed but procedurally take time and is one reason for the delay. So if the nature of our 
+business remains more supply oriented because that is what you would like to do as a product 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 14 of 21 
+company, the DSOs will stay short. Now coming back to the DSOs on the India private accounts 
+because the balance sheets of some of the Indian operators are currently stretched there is a 
+pressure to give longer payment terms. Once again the way we are handling the situation is that 
+we are baking in the cost of interest when we price such deals and then again try to get the 
+instrument in a form where we can discount it and as a result our India private DSOs have been 
+in a quite less than 60 days or so. 
+On a blended basis we do not see significant improvement in days. I would say our guidance has 
+been around 135 days of DSOs, 135 to 140 days on a steady state basis and I think at least for the 
+next couple of years that is what it will be because we also do not at this stage of our company 
+have the luxury of having very tight payment terms because the payment terms are usually 
+dictated by incumbent suppliers who have given them those payment terms so we have asked to 
+usually match those payment terms so I would say in the near term that is kind of what it would 
+be from our DSO angles. 
+Vikrant Kashyap: 
+And on the working capital side since you are saying it will normalize in Q4? 
+Sanjay Nayak: 
+Yes in fact Venkatesh can comment, but I think our working capital steady state is again 130 to 
+140 days. 
+Venkatesh Gadiyar: 
+We said 130 to 140 days, but we expect the majority of the collections should happen in Q4, and 
+we expect the working capital days in Q4 could be around 150 to 160 days. 
+Sanjay Nayak: 
+Yes we may have a small amount left when we finish up Q4 this year, around this year it will be 
+150 to 160 days, but again directionally going forward we should be back to that 130 to 140 days 
+of working capital. 
+Vikrant Kashyap: 
+Ok sir, good. Since you sound very confident of international business so what would be your 
+guidance from toplines for say 2020 or 2021? 
+Sanjay Nayak: 
+Medium time guidelines what we have given in the past is because of the visibility of the kind of 
+business, which is available is around 20% year-on-year so there is no reason for us to deviate 
+from that guideline. On the contrary what is happening is that we are having a stronger product 
+portfolio, we are having a more deeper footprint into the international market so overall company 
+basis that is the kind of growth we see. We do have some catch up to do in terms of slippages 
+from previous years which has as time goes by we will continue to do, but the good part is we are 
+not losing any business, it is not that some business has gone out of something, which we plan to 
+get has not happened so I still feel that the inherent nature of our business, if we look at 
+competitive landscape that is another very important element in terms of the industry is a large 
+industry as we all saw the numbers $20-$30 billion dollars per year, the competitive landscape is 
+thinning out, the Chinese of course have grown to certain size, but they are having their own 
+challenges around the world as we are all aware. Western European companies and the US 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 15 of 21 
+companies are not in many geographies in a deep way because lot of the African and Asian 
+markets were pretty much dominated by the Chinese and there is a clear mandate from 
+significant number of our customers internationally to find an alternate to a Chinese supplier 
+because they are seriously concerned about whether I will have continuity of supplies. They will 
+not overnight give us a PO, but we are clearly down the path where we get an entry into the 
+account, they will test us out for some time and as we start performing we start to gain market 
+share. So that is the reason I am saying that the competitve landscape for our own portfolio 
+products as well as the inherent growth in the market gives us good confidence and comfort that 
+international will continue to grow quite healthily for us. And by the way there are probably less 
+than 10 companies in the world who have an end-to-end product portfolio like we have so it is for 
+us to really ramp up our sales execution internationally. 
+Vikrant Kashyap: 
+Got your point. One last question if you can name the company from which we have to take back 
+250 Crores that you said? 
+Sanjay Nayak: 
+It is a government customer based out of Delhi no points for guessing that. 
+Vikrant Kashyap: 
+Thank you very much and wish you best of luck. 
+Sanjay Nayak: 
+Healthy customer and we have had zero percentage right now in terms of nonpayment from that 
+customer, so we do not expect that there will be any payment default or anything of that kind. It 
+is just a delay and we all are aware of that we can only push so much. You can probably do a 
+little bit of Google and see the administrative reshuffle, which has happened in the concerned 
+departments over the past two weeks to get a good picture of the environment in which we were 
+and as much as we would like to we have very little control on certain things and which is what 
+has happened in our case. 
+Vikrant Kashyap: 
+Right that is what also surprise to us. Thank you very much and wish you best of luck. 
+Moderator: 
+Thank you. The next question is from the line of Rahul Agarwal from VEC Investments. Please 
+go ahead. 
+Rahul Agarwal: 
+Firstly to start with on the sales and marketing side as we understand your international business 
+into three regions, which is South East Asia, SAARC, America and Africa, the team obviously 
+has been developed since the time of IPO of Tejas Networks and I think there is significant 
+amount of ramp up, so we want to get first update on how much more across these three regions 
+we need to set up in terms of office, employees and do that so where are we right now and where 
+should we see ourselves in the next 12 months in terms of ramp up of sales and marketing teams? 
+Vikrant Kashyap: 
+Good question, so let me go region by region. So South East Asia and SAARC we have actually 
+ramped up the team during the last fiscal year we got a leader for the region, in addition we have 
+more feet on the ground some of whom are direct employees of ours and some of whom are 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 16 of 21 
+working as consultants with our local partners. outside we are pretty good in Sri Lanka and 
+Bangladesh in terms of investments, we are pretty good in Malaysia, we do not need to do 
+anything different. We will be opening up a couple of more in Philippines and Indonesia, so these 
+are a few countries where we were not focusing earlier, but we have seen some good traction 
+coming in. So we may add a couple of local people in these two regions, but it is not going to 
+materially make any difference in cost because these are not very high cost sales region in that 
+sense. So outside South East Asia, SAARC gives marginal improvement it would not show up in 
+any significant way. Africa we will continue to have a little bit more feet on the ground 
+especially North Africa we started to win some large deals and once you start executing those 
+projects the customers expectation is that you will have a local person whom they can see every 
+single day. Some of the North African deals currently are being managed by people who are 
+either going from our Dubai office or from India. So in Africa I would say we would make a few 
+more sales investments. We might open up offices or at least a Rep office in a few countries 
+where we are getting large deals. Nigeria we opened one last year and it is panning out very well, 
+As I mentioned we are starting to win Tier-I deals in those countries and getting to significant 
+size so Africa I would say would be slightly more investment in terms of sales and marketing 
+compared to Asia. North America Mexico we ramped up the teams, we may add a couple more 
+sales people there because that is market is really, really going extremely well for us. We have 
+seen very large deals on the table, large deployments may come up so we may add a few more 
+support people because those could be ours, but the rest will be outsourcing. US is an interesting 
+case where to be honest we have not got as much progress as we would have liked, but we are 
+going ahead and hiring more sales people and this is actually the relatively most expensive 
+geography from a sales investment angle. So every sales, presales person that you end up hiring 
+will cost you half a million dollars for example so if you are going to add another three or four 
+sales team members in the next 12 months that is what we think will be one area where we would 
+be investing significantly. While the results have not yet come the engagement levels are high, it 
+looks like that the market since we are going direct for the first time, it is taking much longer 
+unlike other markets. So I would say that would be the market in North America where the 
+maximum sales dollars will go, South East Asia will be marginal, Africa will be a little bit more, 
+However I take the improved growth margin net of additional sales cost I do not see any adverse 
+impact on a profitability on the other hand we will hopefully have some cushion to make more 
+proactive investments as we see more progress. 
+Rahul Agarwal: 
+You are accounting for the ESOP issuances when you are looking at profitability on incremental 
+additions? 
+Vikrant Kashyap: 
+Yes Venkatesh can mention that how much.  
+Rahul Agarwal: 
+While asking this question is because as I am seeing ramp up internationally there has been about 
+2 to 2.2% equity dilution because of ESOP issuances so incrementally like is there a number 
+factor like how much more can it happen? 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 17 of 21 
+Sanjay Nayak: 
+Not really. If you see the ESOP issuance has not been that much it is the conversion of ESOP 
+shares that vested, which we gave in the last four or five years, which people are exercising and 
+converting into shares. So I think the changes that you are seeing in the capital is past ESOP that 
+we would have given over the last five to ten years, which are coming into basis. As far as new 
+issuances are concerned as of last year we stopped giving ESOPs and we started to give RSUs. 
+And I think we have an approved budget for the RSU, which was 3% over three or four years and 
+we probably given about 1% of that. RSUs are of course much more selective, so going forward 
+except for the tail end of the old ESOP still converting to shares we would not see significant 
+new issuance of shares on that account. Our share capital did increase by about what 5 or 6 
+Crores during the nine months which is the past ESOP. 
+Rahul Agarwal: 
+Got it and just secondly on the international side as the business ramps up we move onto 50:50 
+three year timeframe how do we handle forex year because I have not seen any forex number 
+being reported for third quarter as well when the internet market has actually done well on 
+overall business side how do we handle forex year, any strategy, any policy already formed? 
+Sanjay Nayak: 
+So may be Venkatesh can walk us through that. 
+Venkatesh Gadiyar: 
+As of today we had not taken any exposure on the forex; however, the mix may change as Sanjay 
+was mentioning till today the ratio of our India, international remains same as of last year, but 
+however the mix may change in the Q4 onwards we have been discussing this the forex strategy 
+in the board meeting and we will see how to tackle that going forward. 
+Sanjay Nayak: 
+But at a macro level 50:50 level also if you think of we will be net forex earners because even in 
+India we definitely do not seem to be adversely impacted because on a cost basis, the manpower 
+cost basis and the operating cost basis, rupee denominated. Our cost is dollar denominated except 
+for the Indian Government customer the India private customers are rupee customers, but dollar 
+denominated in terms of the exchange rate so as a result if dollar strengthens for example 
+hopefully it will benefit us. We have not taken any as we have kept things open at the stage 
+because we are naturally hedged at a 65:35, 75:25 in terms of the inflow versus outflow, but with 
+a ratio changing we will think of a different strategy. But at this point in time we have not taken 
+any specific decision. 
+Rahul Agarwal: 
+Sure just to conclude so essentially fourth quarter as we explained you are extremely sure in 
+terms of execution of that 300 crore number I hope I do not see any surprises anymore. Thank 
+you so much and all the best. 
+Moderator: 
+Thank you. The next question is from the line of Pranav Kshatriya from Edelweiss Securities 
+Private Limited. Please go ahead. 
+Pranav Kshatriya: 
+Thanks for the opportunity. My first question is Sanjay if you look at in terms of the revenue 
+growth we were looking from 17% to 20% CAGR, now if we have to do that we are looking at 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 18 of 21 
+something like 60% of growth in FY2020 and also at the start of this financial year you had said 
+that there is a slippage of the revenue, which will spill from FY2018 to FY2019, so FY2019 will 
+be a lot stronger growth, these things have not really materialized can you just tell us that what is 
+going wrong, is it the macro issue, is it the sales issue or is it product issue or what exactly is 
+that? 
+Sanjay Nayak: 
+It is neither of the three. So there is no macro factor which has gone wrong because everything 
+seems to be fine. Actually there is only one very specific thing, which you can just pinpoint and 
+you can actually do the math yourself. We bid into BharatNet Phase 2 tenders in fiscal 2018, the 
+results of those central tenders came out in August-September. The state BharatNet tender 
+results, some of them have already come out in the month of October, November, December. So 
+the plan when we started the year was and I mentioned a number around 300 Crores worth of 
+business that we potentially can get from our EPC partners of equipment only if we were to 
+execute that. So if you just add some portion of that number to the baseline number that will 
+probably end up the year with. You can actually do your math and see whether we were on track 
+or not. Now the fact that from August and again I would encourage some of you to see why the 
+BharatNet projects were delayed. I think it is just that there are things, which are not in our 
+control, so if you just add that we should have been in a pretty good shape. But if you take that 
+away, I do not think anything has happened adversely or as the macro is still good, optical is 
+being built in India and around the world. We are gaining market share in India Private. We are 
+gaining new application wins in India Private. We will gain a lot more by the end of this quarter. 
+Internationally, we are growing despite OEMs completely coming to a standstill, they are 
+growing including direct America which is back filling the gap of OEMs, so I cannot be unhappy 
+about it. So overall if you take that one incident or one event out that could you have done some 
+amount of BharatNet tenders from the phase II in this year we would be okay. We are not 
+budgeting for it right now because we just feel that – given that we are in January, this is not a 
+prudent time to expect that the tenders will all get closed – I mean the orders will all come – 
+mean they may but we do not really want to bet on it. I do not think there is anything else in the 
+company and everything else outside. As far as internally we measure how well we are winning 
+new applications into private accounts. We measure how each of the international territories is 
+expanding in terms of the next stage of tgrowth. We measure how many tier 1 deals we are 
+signing and I would say in all of those we are making very good progress. Product wise, Kumar 
+talked about how we really are getting pretty much among the best – in fact at the Mobile World 
+Congress at Barcelona this year in February we would be launching one of the world's first 
+integrated broadband access product that combines wireless and wired access. So I think 
+technology wise we are doing extremely well. It is just the nature of our business that we are not 
+a Q-o-Q business and not as predictable as we would like to be because of government 
+dependence and that is what it is. 
+Pranav Kshatriya: 
+I get that but the problem has been that we have – you answered partly that why that FY2019 was 
+not as strong as it should have been given that pushback but then what should we be looking at 
+for FY2020 because - I mean so you basically – I mean we were looking at something like 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 19 of 21 
+Rs.1400 Crores odd kind of a revenue had you have to do 20% revenue, now that looks 
+extremely challenging beyond where we are today. 
+Sanjay Nayak: 
+Yes, FY2020 to be fair, I would say that we would give a commentary in the April call because it 
+is a bit early to call because of these big fluctuations in the terms of the government stuff. So that 
+is what I would say that - while we will have a – what I can see clearly today, we will start 
+FY2020 with the largest possible backlog that we have ever had based on the order wins that we 
+expect to have this quarter. So we will actually make a realistic assessment of what FY2020 will 
+be and what growth trajectory we will continue to see from  that point onwards. So I think we 
+would like to wait for that, but just the point I wanted to make again is that see the question that 
+you asked is actually the question, we are asking ourselves. That we really do need to get out of 
+this lumpiness of government business so while it is a good big business and we will want to 
+have it, we really need to make sure that we get a lot more strength in our business out of the 
+India Private and International, which by the way will not have the inherent lumpy nature that we 
+are all seeing. So that is a directional thing which you are doing company-wise, right. 
+Pranav Kshatriya: 
+Sure. Thank you. I will get back in the queue. 
+Moderator: 
+Thank you. The next question is from the line of Sangam Iyer from Consilium Capital. Please go 
+ahead. 
+Sangam Iyer: 
+Sir. Thank you for your comments. Just wanted to understand then going forward in FY2020, 
+when the spillover of this Rs.300 Crores odd gets fructified, and the fact that your international 
+business you are pretty gung-ho in terms of picking up especially in South East Asia and also in 
+Africa the investments to make way in terms of newer orders. Whether we will see the growth 
+actually north of 30%, because this Rs.300 Crores is actually spillover from FY2019. Is that the 
+right way to look at the business or how should we look at it? 
+Sanjay Nayak: 
+I would say we should definitely see more than 20% growth which was the baseline because as 
+we are all in a familiar with a cricket terminology the run rate has to be caught up exactly how 
+much is again given the especially since the lumpiness is around the government stuff. So I think 
+once we get clarity around that, then we will again talk in April. I think we will have a far precise 
+idea of what kind of range it will be. I mean independent of that we already see that the medium 
+term outlook of 20% we will continue to maintain. The question is about the catch up of some of 
+the spillovers when we will do and how much we will do, so I would say we would probably be 
+in a better position to answer that in April. But interpedently as I say I mean the good part is we 
+are not losing the business that we had anticipated. It is just that time shift is something that is not 
+in our control as we would like it to be. 
+Sangam Iyer: 
+Okay. But Sir on the margin profile, there are two things – one is international business has a 
+much better margin profile as compared to domestic business, if I am not wrong. So when we 
+look at the mix over the next say two to three years moving towards the 50:50, maybe next year 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 20 of 21 
+might be a stepping stone where because of election, some of the domestic business might get a 
+little delayed maybe in the Q1, so to that extent international business might be as a percentage 
+increase optically, so would it be fair to assume that the margin profile next year will actually see 
+a bump up before normalizing to the 24-25%? 
+Sanjay Nayak: 
+Unlikely and I will tell you why. So what happens is in our industry the average – if you go to the 
+gross profit level, 40-41% is the average gross profit for the optical networking industry. And the 
+good news is that despite having a higher blend of India business at this point in time we are 
+hovering around that level. So while we might do better at gross profit level when we will go 
+internationally, correspondingly there will be a higher sales cost also, like sales and support cost. 
+So what I think will be safe to assume is that at least in the near term since we will still be in the 
+investment mode, I do not think we should have expectation of a margin bump up. I think we will 
+be actually happy if we can maintain our profitability at this current level, although these nine 
+months have been pleasantly better for us in our plan and I am not going to complain about it. 
+But I would say we would not budget for a bump up, we would rather plan that you are going to 
+get more international, but you will spend more so that will probably wash out. 
+Sangam Iyer: 
+So it is a very fair point because coming to that only that US is something that we very, very 
+hopeful on and as you mentioned in the commentary regarding the sales force investment that 
+one needs to incur especially in the US and the African market, so from entry barrier perspective 
+or expanding the geography perspective, is the investment in the sales force is only factor 
+required and are there any other approval at the client level, etc., that would also be required for 
+the uptick in the order flow to come? 
+Sanjay Nayak: 
+So it is a good question. There are basically two or three things, which have to kind of align 
+before we start getting meaningful revenues from any region. Number one is that the products 
+and compliance and local certifications have to be in place so that is all done. So we now have an 
+absolutely world-class product which we can go and sell in any country. However there are two 
+other things which have to happen. The sales cycle from the time we talk to customers the 
+familiarity with your product, how comfortable he is to give business to you against incumbents 
+all those issues have to be addressed and those take time. It could take three months, it could take 
+six months, it could even take one year. The last part is especially true for Tier 1s and even some 
+of the Tier 2s which are large operators. They actually have a well-defined RFP cycle, so you 
+also need to be hitting that RFP cycle because if they have just made a vendor selection after a 
+six-month evaluation and you go and knock on their door, you are not going to be entertained 
+because they are not looking for a new vendor. So I think all of these three things have to be 
+aligned and that is why we always mention that it could take time to ramp up and only after you 
+get – even for example sign a rate contract with the major operator in any country for a year one 
+outside of India let us say, he may give me small or a few million dollars worth of business and 
+year two once I performed well in his network, he could increase that to 5 or 10 million dollars or 
+even more revenue. So I think that is the inherent nature of our business. I may just also want to 
+say that I do have to run into another meeting so if you can probably come to the last question I 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+January 24, 2019 
+ 
+Page 21 of 21 
+know we have tried to answer as much and rather we will be happy to take offline if anybody has 
+you can co-ordinate through Venkatesh or Santosh. But we can take may be one last question. 
+Moderator: 
+Sir actually due to time constrains that was the last question. Pranav over to you for any closing 
+comments. 
+Pranav Kshatriya: 
+Thank you every one for participating in the call. I will handover call to Mr Sanjay Nayak for 
+final remarks. 
+Sanjay Nayak: 
+Thank you again. I think we tried our best to give you a deep dive into our business which I 
+understand is a little bit more complicated than normal. But if I were to look at the nine months, 
+we have created a solid foundation and we are all set to have a good year. And more importantly 
+I think the investments we have made in developing our products as well as India private and the 
+international accounts hopefully should play out for the next few years and as I said again we feel 
+good about our business and thanks for all the questions and very engaging discussion. 
+Moderator: 
+Thank you very much. Ladies and gentlemen on behalf of Edelweiss Securities Limited that 
+concludes this conference call for today. Thank you for joining us and you may disconnect your 
+lines. 

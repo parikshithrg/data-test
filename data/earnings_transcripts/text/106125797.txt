@@ -1,0 +1,717 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304 
+T: +91120 4770770  F: +91120 4770771 CIN: L72200DL2000PLC108985 
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019 
+One 97 Communications Limited 
+compliance.officer@paytm.com 
+www.paytm.com 
+January 27, 2025 
+ 
+BSE Limited  
+Department of Corporate Services  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai - 400 001  
+ 
+Scrip Code: 543396  
+National Stock Exchange of India Limited 
+The Listing Department 
+Exchange Plaza, 
+Bandra Kurla Complex, 
+Mumbai - 400 051 
+ 
+Symbol: PAYTM 
+ 
+ 
+Sub.:  Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 - Transcript of the earnings conference call conducted on January 20, 2025 
+ 
+ 
+  
+Dear Sir / Ma’am, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, please find enclosed the transcript of the earnings conference call, conducted on January 20, 
+2025, on financial results of the Company for the quarter and nine months ended December 31, 2024. 
+ 
+The transcript is also available on the website of the Company at https://ir.paytm.com/financial-
+results.  
+ 
+Kindly take the same on record. 
+ 
+Thanking you 
+ 
+Yours Sincerely,  
+For One 97 Communications Limited  
+ 
+ 
+ 
+Sunil Kumar Bansal  
+Company Secretary and Compliance Officer 
+ 
+Encl. as Above 
+ 
+SUNIL KUMAR 
+BANSAL
+Digitally signed by 
+SUNIL KUMAR BANSAL 
+Date: 2025.01.27 
+16:38:19 +05'30'
+
+Paytm | Q3FY25 Earnings Call |  
+Call Date : January 20, 2025 | Time: 17:00 PM Indian Standard Time 
+_____________________________________________________________________________________
+_____________________ 
+Disclaimer: 
+By reading this call transcript you agree to be bound as follows: This earnings call with the management 
+of One 97 Communications Limited (“Company”) is for information purposes only without regards to 
+specific objectives, financial situations or needs of any particular person and is not and nothing in it shall 
+be construed as an invitation, offer, solicitation, recommendation or advertisement in respect of the 
+purchase or sale of any securities of the Company or any affiliates in any jurisdiction or as an inducement 
+to enter into investment activity and no part of it shall form the basis of or be relied upon in connection 
+with any contract or commitment or investment decision whatsoever. This earnings call does not take 
+into account, nor does it provide any tax, legal or investment advice or opinion regarding the specific 
+investment objectives or financial situation of any person. The information to be presented and discussed 
+on this earnings call is confidential and proprietary to the Company and/or its affiliates and no part of it 
+or its subject matter be used, recorded, reproduced, copied, distributed, shared, or disseminated, directly 
+or indirectly, to any other person or published in whole or in part for any purpose, in any manner 
+whatsoever. 
+ 
+Statements or comments made on this earnings call may include certain statements that are, or may be 
+deemed to be, “forward-looking statements” and relate to the Company and its financial position, 
+business strategy, events and courses of action. Forward-looking statements and financial projections are 
+based on the opinions and estimates of management at the date the statements are made and are 
+subject to a variety of risks and uncertainties and other factors that could cause actual events or results 
+to differ materially from those anticipated in the forward-looking statements and financial projections.  
+ 
+We, or any of our affiliates, shareholders, directors, employees, or advisors, as such, make no 
+representations or warranties, express or implied, as to, and do not accept any responsibility or liability 
+with respect to, the fairness, accuracy, completeness or correctness of any information or opinions 
+contained herein and accept no liability whatsoever for any loss, howsoever, arising from any use or 
+reliance on the information presented and discussed in this earnings call. The information contained 
+herein is subject to change without any obligation to notify any person of such revisions or change and 
+past performance is not indicative of future results.  
+ 
+It is clarified that this earnings call, and the information discussed and presented herein, is not intended 
+to be an offer for subscription or sale of any securities or inviting offers or invitations to offer or 
+solicitation to offer from the public (including any section thereof) or any class of investors. No rights or 
+obligations of any nature are created or shall be deemed to be created by the information presented and 
+discussed on this earnings call. This document has not been and will not be reviewed or approved by a 
+regulatory authority in India or by any stock exchange in India. No rights or obligations of any nature are 
+created or shall be deemed to be created by the contents of this document. 
+ 
+_____________________________________________________________________________________
+___________________________________ 
+ 
+
+Moderator: Thank you for joining and welcome to Paytm's earnings call to discuss our financial results 
+for the quarter ending on 31st of December, 2024. We will start our call with a Q&A after introduction to 
+the management. If you seek to ask a question, kindly utilize the Raise Hand feature on your zoom 
+dashboard. Please ensure that your name is visible as your name, last name followed by your company 
+name for us to be able to identify you. From Paytm management, we have with us Mr. Vijay Shekhar 
+Sharma, Founder and CEO; Mr. Madhur Deora, President and Group CFO and Mr. Anuj Mittal, SVP, 
+Investor Relations. A few standard announcements before we begin. The information to be presented 
+and discussed here should not be recorded, reproduced or distributed in any manner. Some statements 
+made today, may be forward looking in nature. Actual events may materially differ from those 
+anticipated in such forward looking statements. Finally, a replay of this earnings call and transcript will be 
+made available on the company's website subsequently. We will start our Q&A now. We will unmute 
+your line and take questions from the raised hands. The first question is from Pranav Gundlapalle, from 
+Bernstein. Pranav, you may ask your question now. 
+Mr. Pranav Gundlapalle: Hey. Good evening. Thanks for taking my question. Two questions are, one is, in 
+terms of your GMV, what percent of the transactions would be cases where Paytm is on the merchant 
+side versus those where the app is on the consumer side? I'm just trying to reconcile the consistent 
+growth in GMV, versus the loss in overall UPI market share. Just trying to see if there's a difference in the 
+consumer market share versus merchant market share. So that's the first question. I'll come back to the 
+second. 
+Mr. Madhur Deora: Thanks, Pranav. We actually have a little bit of disclosure in the back of our earnings 
+release, which talks about the number of transactions, and it also says, merchant transactions. So, you 
+can see, in December 2024, we had 1,000 crore merchant transactions and we had 1,232 crore total 
+transactions. Now it is the case that in merchant transactions, some of them might also be our 
+consumers. But if you just look at how many transactions we are doing for merchants, that is in the 
+disclosure in the back, I think it's fair to say that if you take a year on year view, then the merchant side 
+of the business has grown, whereas the consumer side of the business, even adjusted for discontinued 
+businesses, has been flat or slightly de-grown. 
+Mr. Pranav Gundlapalle: Understood. That's helpful. Thanks. And second, could you just share some 
+color on the RuPay on UPI transactions and what it could mean for the payment margins if it increases 
+significantly from here? 
+Mr. Madhur Deora: Yeah. So, as I think the gist of the question on RuPay on UPI we do make MDR, unlike 
+bank linked UPI, but it is still a very small percentage growing fast, but it's still a very small percentage of 
+the merchant transactions right now. So as that grows, that does add another monetization lever for us. 
+Mr. Vijay Shekhar Sharma: Pranav, I'll also add one extra line that, we get extra bps, which is significant 
+extra bps and it does include a payment margin between other instrument versus RuPay credit card and 
+we do believe that credit card running on QR gives us, as an acquiring side, much larger revenue than on 
+the consumer side, because consumer side, you don't get larger revenue, even though there is some bps 
+that is paid to the consumer app also. But the acquiring side gets disproportionately more valuable and 
+useful there, number one. Number two, I did this survey. I asked my team to do a survey that, we saw a 
+couple of million new customers added. I said, why did you sign up so fast without any marketing, 
+
+advertising? And, our QR being present, our brand being present on ground was one of the big, actually, 
+number two trigger. First was literally that they wanted to try out Paytm once again before they got to 
+know in the press and then second was that I saw the QR code. So, our acquiring will add it to the 
+consumer acquisition is what our belief is and that is why we will aggressively expand on our merchant 
+acquiring, because that gives us an edge in consumer also. So, there is a little bit of flywheel that we are 
+seeing here, and that is probably one of the reasons that we didn't see a large number of exodus on 
+either side. 
+Mr. Pranav Gundlapalle: Great. Thank you. Thanks a lot for the answers. 
+Moderator: Thank you Pranav. Our next question is from Sachin Dixit of JM financial. Sachin, you may ask 
+your question now. 
+Mr. Sachin Dixit: And thanks for the opportunity. So my first question is basically with regard to DLG and 
+the mix within merchant loans. So we did some maths around the AUM numbers that were shared and 
+somewhat we are coming up with almost 80% of merchant loans in this quarter came from DLG sort of 
+arrangement. Are we directionally in range? Secondly, is this the right steady state or a number or mix 
+from DLG that we are hoping for, or we are trying to optimize for a certain number there? 
+Mr. Madhur Deora: That number is in the ballpark, Sachin. And, give or take a few percent, I think that's 
+probably right. Like we have said, we think DLG is a good model, non-DLG is also a good model, so 
+relative to each other, we are quite indifferent. If a partner thinks that it is easier for them to do 
+business, of lending to merchants, in a DLG model, or if they can do more business as a result, then we 
+are quite open to doing DLG based business with them. So, we don't really have a target number in that 
+sense, but yeah, ballpark it should be in that range. 
+Mr. Sachin Dixit: And you are seeing interest from more lending partners on the same model I'm 
+guessing. 
+Mr. Madhur Deora: Yeah. So that's right. So we're seeing more interest from lending partners in general 
+across MC as well as personal loans. MC in particular has been a product that has done consistently very, 
+very well for us and for our partners, so we are seeing more interest in that. And yes, within that, there 
+are some partners who are more interested in DLG models, and there are some partners for whom it 
+doesn't really make much of a difference. 
+Mr. Sachin Dixit: Sounds good. My second question is in regards to the plan in international. So I see that 
+there are some subsidiaries that we are looking to put in place. Is the plan there to do largely UPI sort of 
+enablement? Some of these countries also have UPI extension that has happened, or we are planning to 
+build an entire merchant ecosystem sort of thing like we have in India, in these countries? 
+Mr. Madhur Deora: Vijay will. 
+Mr. Vijay Shekhar Sharma: Yeah, Sachin I'll take that, and, the intent here is to first go on the merchant 
+side, because merchant side business model is a very long term business model and every economy and 
+geography that I'm meeting different, different senior executives in either the central bank or 
+government, love it because SME credit is missing everywhere. So, if you can solve for payment and 
+
+solve for future forward receivable, that business model is a template in my opinion and our opinion, 
+technology wise, capability wise, we've demonstrated at scale. So, our primary plan will be that. 
+Mr. Sachin Dixit: Got it. Thank you and all the best. 
+Mr. Vijay Shekhar Sharma: Thank you sir. 
+Moderator: Thank you Sachin. The next question is from Alok Srivastava of UBS. Alok, you may please 
+ask your question. 
+Mr. Alok Srivastava: Yeah hi. Thanks, Pranav. So I have this question on the DLG model that, ECL number 
+that we have given that number has come down to 4.5% to 5.0% versus 4.75% to 5.25%. So, how are we 
+measuring these numbers? We are measuring these numbers or lenders are sharing these numbers? 
+Mr. Madhur Deora: These numbers are based on our collection data, so there's a couple of things, right. 
+So one is, when the lenders put a program in place, they have, in their program, an expected credit loss 
+and in our conversations with lenders, we ensure one of the questions that we obviously touch base on 
+is whether the program is within the bounds of their expected credit loss. But the specific data that we 
+put out, including the bucket wise resolution, is based on our collection data. As you know, in merchant 
+loans, we help our partners with the vast majority of collections, because these are active merchants of 
+ours, so basis that we have a sense of how this is trending towards expected credit loss. 
+Mr. Alok Srivastava: So, Madhur, sequentially, the decline would also be because of DLG that we are 
+doing and earlier it was largely the normal one that we were doing or sequentially there has been 
+change in some underwriting standards and so on. 
+Mr. Madhur Deora: So, DLG does not affect the ECL. So just to clarify, the ECL of the portfolio, where our 
+loss guarantees are versus where the partner's losses and probations are, is independent of how ECL is 
+measured. The DLG book is doing at least as well, in fact, slightly better than the rest of our book and 
+that's just sometimes some books do better, sometimes some books do, slightly worse. So, there is a, I 
+wouldn't necessarily draw a pattern there, and, the reason for improvement is generally collection 
+efficiencies, obviously with a lag, it is also indicative that your underwriting is getting tighter. I would just 
+also add that, at the beginning of 2024, we had some, you know, sort of a little bit elevated churn 
+amongst our merchants, so, that may have affected some of the ECL as well. But as the business has 
+stabilized and growing and our partners are, our merchant partners are growing very well with us, we are 
+seeing improvements in collection efficiency, as well as a lot of the work that we have done to bring even 
+greater amounts of sort of efficacy to our collection practices. 
+Mr. Alok Srivastava: Sure Madhur. Thanks. That's very helpful. I have a couple of more clarifications on 
+FLDG. So, FLDG number that we shared last time that we are doing less than 5%, does that still hold 
+true? That's one. Secondly, all the DLG costs which are upfronted, are they fully captured in the other 
+direct cost? And also, if there is any unutilized DLG which may happen a year from now, where will it 
+show up in P&L? Will it be adjusted against cost or will it become part of revenue? 
+Mr. Madhur Deora: So, first question, correct. On a blended basis, our DLG cost is significantly lower 
+than the 5%, and it has broadly remained the same as last quarter. On your second question, yes, so far, 
+
+all the DLGs that we have given, we provisioned them immediately in that quarter. And that is in other 
+direct expenses, even though the DLG invocation by the partner is obviously with a lag, as and when GCL 
+is hit. And the third is that if we do have a situation where we have provisions which are not getting 
+used, then it would be a reversal in that cost. 
+Mr. Alok Srivastava: Okay. Got it. Thanks a lot, Madhur. All the best. 
+Moderator: Thank you Alok. The next question is from Piran Engineer at CLSA. Piran, you may please ask 
+your question. Yeah. 
+Mr. Piran Engineer: Yeah, thank you and congrats on the quarter. Just firstly, to clarify on one of the 
+previous questions, is it… is DLG given only on merchant loans or on both? 
+Mr. Madhur Deora: There is a small amount of DLG that we have given personal loans as well with select 
+lenders only in the collection model, obviously not in the distribution only model. 
+Mr. Piran Engineer: Correct. Okay. Fair enough. So, it was 80% of just the merchant loans that are 
+disbursed through DLG. 
+Mr. Madhur Deora: That's right. 
+Mr. Piran Engineer: Okay. Fair enough. And just secondly, if you can give us a sense of how many 
+merchants currently have a loan outstanding from, you know, from you? 
+Mr. Madhur Deora: It is broadly, five to six lakh merchants who have a loan outstanding. So, it is roughly 
+4-5% of our device base. 
+Mr. Piran Engineer: Okay. Fair enough. And, that can go to what sort of a number in your opinion, this 
+five to six lakhs? I am just trying to think about, you know, the medium term growth rate here. 
+Mr. Madhur Deora: Yeah. We, in the sort of, I would say 2 to 3 years period, I think we definitely have an 
+opportunity of increasing the percentage penetration, to maybe 10 to 15%. One of the things that I 
+should point out is that that is one, only one of the three drivers of the overall growth in, merchant loan 
+volumes and revenues. The other two drivers are that over time, the ticket sizes have increased and they 
+continue to increase. So, I remember three years ago this number was about 1,10,000. Currently the 
+number is about 2 lakhs. And part of that is because the value per merchant has grown in Paytm, 
+because the merchants obviously are doing a lot more digital payments today than they were doing 
+three years ago, especially our best merchants, to whom the loans are sort of qualified for. And the 
+second is a large percentage of the loans are repeat loans, where our lending partners have greater 
+confidence because that merchant has already shown good behavior of taking a loan and repaying the 
+loan. So, that's the second driver. And the third driver is obviously the growth in the base of merchants, 
+which is, you know, obviously grown by basically doubled in the last two years. And we still see a huge 
+runway ahead. Right. So over the last couple of years, we have actually kept the penetration percentage 
+relatively flat, despite the fact that the volume of disbursal has gone up very, very meaningfully. So, 
+we're going to continue to be cautious. We're going to continue to have a tight whitelist. But I would say 
+
+over the next two, three years, we have an opportunity of taking this to north of 10%. And I think the 
+long term opportunity is probably even higher than that. 
+Mr. Piran Engineer: Got it. And Madhur, just when you increase the ticket size, does the tenure also 
+correspondingly increase, or has that remained at that 12 to 18 months? 
+Mr. Madhur Deora: The tenure decision is independent of whether you're increasing the ticket size, so, if 
+you have more confidence in the stability of the merchant, then the partner may increase the tenure as 
+well, right? So, yes, it is the case that for select merchants for a repeat loan, the tenure might have gone 
+up, but you don't increase the tenure just to increase the loan size. You look at how much you think you 
+can collect per day from the merchant, and that is one of the variables that goes into the loan size. And 
+then you look at how stable the merchant is with you, and that sort of decides what the maximum 
+tenure you are willing to do. And those two things sort of effectively end up in terms of what is the 
+maximum size of loan that you would be willing to do. So, those are slightly independent. The tenure has 
+not grown very much because, again, that is a conservative assumption that we take, which is that we 
+don't want to increase our loan sizes and loan book just by increasing tenure and then, you know, 
+fundamentally changing the nature of what we are trying to do here. If the merchant is a good merchant, 
+they can take a loan 12, 13 months later, they would have repaid that loan, and at some point towards 
+the back end of that journey or after repaying the loan, they are eligible for another loan, right. So, the 
+merchant with good behaviour can have access to credit. Instead of saying, hey, give me a super long 
+loan. 
+Mr. Piran Engineer: Got it. Okay. Fair enough. And just my last question, just a clarification. On page six, 
+you mentioned that your payment processing margins was, comfortably above the guided three bps 
+margin. But, you know, sort of when I, when I just assume, say, ₹90 or ₹100 rental income per device, 
+the margin, the residual margin comes to about two and a half bps. So what am I missing here? Is my 
+rental income assumption incorrect or what? 
+Mr. Madhur Deora: While we can go through your math offline, if you don't mind, but, yes, your rental 
+assumption is slightly higher than what our actual is. But it still doesn't quite get me to two and a half 
+bps, so I can, I can, Anuj or I can look at. 
+Mr. Piran Engineer: Fine. We'll take care of it. Yeah, yeah. That's fair. Cool. That's it from my end. Thank 
+you and wish you all the best. 
+Mr. Madhur Deora: Thank you so much, Piran. 
+Moderator: Thank you so much. Thank you Piran. The next question is from Subhranshu Mishra. 
+Subhranshu you may ask your question. 
+Mr. Subhranshu Mishra: Hi. Two questions. The first one is around the associates, various associates that 
+we have. Someone in Ivory Coast and various other African countries. So, I was just curious, why do we 
+have so many associates where we are probably not in business right now. Second is, this particular 
+
+international expansion, what is the total market size that these countries have and what kind of market 
+share we are targeting there? Thanks. 
+Mr. Madhur Deora: On the first question, we do have many subsidiaries, actually, direct, or step down 
+subsidiaries in the Middle East, Southeast Asia, South Asia and Africa. Nearly none of them have to do 
+with Paytm's business. They have to do with the old One97 business, which is a part of what we disclose 
+as marketing services, where we provide services generally to telecom operators. And this is a business 
+that One97 has been doing for over 20 years. And in many of these countries, there's a requirement that 
+in order to build those local telecom operators, we have to have a local subsidiary. We are in the process 
+of rationalizing these number of subsidiaries because some of these were set up many, many, many 
+years ago, and we may have little or no business in some of these countries. So, over the next 3 to 6 
+months, we'll look to see if we can reduce the number of subsidiaries. In terms of international 
+expansion, we have mentioned three particular subsidiaries, two in the Middle East and one in Southeast 
+Asia. We think that the opportunity in the Middle East and Southeast Asia is massive and many of these 
+countries need more and more solutions and distribution in the merchant ecosystem. We have been 
+able to build great technology, at very low cost, in India, and we think we can service the merchants here 
+really well. But we are going to, like you said, explore select opportunities. Generally speaking, 
+opportunities in countries where there is a large local market. 
+Mr. Vijay Shekhar Sharma: So, we should also say that it is very, very far ahead. So, don't misunderstand 
+it to be shown up in a quarter or two for sure because these are entity formation, license application, 
+operating. So, let's just please understand that it will take some time. 
+Mr. Madhur Deora: Yeah, I should mention that we have said, we are exploring these things. Setting up a 
+subsidiary has a long lead time from setting up a subsidiary to, in some cases getting licenses and then 
+eventually, you know, having products launched and merchants signed up and then starting to generate 
+revenue and profit. The good thing is that these are largely B2B businesses, so they don't have large 
+upfront spend, which is why we have said that to begin with, we are saying up to ₹20 crores of 
+investment in each of these markets, which is also a bit of a placeholder number, we don't really think 
+that we need large amounts of money in these countries. 
+Mr. Subhranshu Mishra: Sure. Can I just squeeze in one last question? 
+Mr. Madhur Deora: Sure. 
+Mr. Subhranshu Mishra: Sure, so what are our targets for personal loan disbursement on a monthly 
+basis and merchant loan disbursement on a monthly basis for FY 26? 
+Mr. Madhur Deora: We are in the process of concluding this but I could answer that directionally. So, on 
+the personal loans, it is very market dependent, if I had to be honest, because we absolutely respect the 
+fact that our partners are being very cautious, through the cycle. And, this is unsecured digital PL, and 
+the partners want to just make sure that this reflects their view on the credit cycle and, especially at this 
+point in the credit cycle, one should be cautious. So, I would say, honestly, it's hard to say where we will 
+exit, for example, if you said March 2026. Right. What is a good number, what's not a good number. I 
+think the way we are measuring this business right now is how many partners are doing meaningful 
+
+business with us. So, that's what we are trying to drive at this point in the cycle. And then when the 
+partners have a more growth mindset in terms of their PL book, we think we can be a beneficiary of that. 
+On the merchant loan side, we expect continuously steady growth. Currently we are already higher than 
+where we were in January and we expect continuous steady growth, largely because of what I said in 
+response to Piran's question earlier. I think it was Piran's question where we talked about medium term 
+penetration, there is upside as well as the base is growing and the ticket sizes continue to inch upwards 
+on a blended basis. 
+Mr. Subhranshu Mishra: Sure. Thanks. Cheers. 
+Mr. Madhur Deora: Thank you Subhranshu. 
+Moderator: Thank you so much. The next question is from Anand Dama of Emkay. Anand, you may 
+please ask your question. 
+Mr. Anand Dama: Hi, thank you for the opportunity and congrats for a great set of numbers. My 
+question again is related to PL disbursement only. Do we expect that to bottom out soon that now you 
+started offering, you know DLG and PL as well. And in FY26, you may not give a number but should be 
+better versus FY25 if things go positive. 
+Mr. Madhur Deora: Yeah, we definitely expect, I mean, unless there are big changes in and unless the 
+FY26 macro looks worse than FY25, we do expect that FY26 will be better than FY25. And especially 
+given that we are going to have additional partners, going into FY26, we do expect an increase in this 
+business and a rebound from the lows that we saw earlier this year. 
+Mr. Anand Dama: And DLG and the PL business could be on the higher side versus the merchant loans. Is 
+that safe to assume? 
+Mr. Madhur Deora: Not necessarily. No. I think in PL business the DLGs, on a blended basis are lower 
+than 5%. 
+Mr. Anand Dama: And is there any update on the non PL, non merchant loan products that we were 
+actually planning to launch? 
+Mr. Madhur Deora: Vijay, do you want to talk about that? Non PL non personal loan, so, this might be 
+referring to uh.. 
+Mr. Vijay Shekhar Sharma: What kind of other product are we talking about here?  
+Mr. Anand Dama: So, basically any home loan or you know mortgages is what basically we were talking 
+about earlier on. So, is there any update over there like? 
+Mr. Vijay Shekhar Sharma: No, they're very low margin. They increase the line expenditure on us and we 
+have not been able to find a commercially logical reason. The CAC was, I mean, the opportunity cost of 
+executing that versus other things, I'm not yet a big fan, to be honest about it, of those loans, but we did 
+try them out, but we sort of receded from that. 
+
+Mr. Anand Dama: And I think on the net payment margin, you said that the subscription revenue is still 
+doing well. Are all the device merchants now paying you full rental, or there are still some merchants 
+where you are waiving the rent because you know, you want them to gradually pick it up. 
+Mr. Vijay Shekhar Sharma: So, there are certain merchants who get rent refunds based on certain 
+volumes and features, always now or later nahi hai ye, hamesha hai. 
+Mr. Madhur Deora: So, we don't give waivers basis an activity. We give waivers basis, if you're doing a 
+large amount of volume with us then we give that, which is what Vijay is referring to as a refund. So 
+there are programs that we would run that if you do very large volumes with us, then you don't have to 
+pay the subscription and the logic is that those merchants are great merchants in lending eventually and 
+also, we make UPI incentives. 
+Mr. Anand Dama: Sure. If I can basically squeeze one more question, is on your capex. You said that 
+basically a large part of the devices, you are actually refurbishing and supplying it. How long do you see 
+that capex will remain so low, and any guidance on requisitions? 
+Mr. Madhur Deora: Yeah, I think that that is one of the few factors that is an important factor for sure, 
+but it’s also that the cost of the device has also come down as we are ordering at large scale and so on. 
+So we don't expect the capex to go back to FY24 levels, and, we think that the refurbishment, sort of 
+savings on capex due to refurbishment, should generally be the case over the next two, three quarters, 
+that this number is not something that we actively manage on a month on month basis or quarter on 
+quarter basis. So, that might go up and down a bit. But refurbishment supply is there for the next sort of 
+two, three quarters. And even in FY26, we don't expect the capex to go back to FY24 levels. On 
+depreciation, I mean, I don't want to give a specific guidance other than to say that as the high capex of 
+FY24 relative to FY25, as that starts to, sort of roll off, because these are two years depreciation for 
+soundbox, then we should see a reduction in capex, sorry, reduction in depreciation. And we're already 
+starting to see some of that, but we should see that just sort of accelerate a bit next year. 
+Mr. Anand Dama: That's brilliant. Thanks a lot. 
+Moderator: Thank you Anand. The next question is from Manish Shukla of Axis. Manish, you may please 
+ask your question. 
+Mr. Manish Shukla: Yeah. Good evening and thank you for the opportunity. Now that you started giving 
+DLG, as a lender what is an incentive for a lender to do a non DLG loan with you? 
+Mr. Madhur Deora: I think these are sort of good faith discussions that one does. Some lenders say, I 
+don't really need DLG because it doesn't really help me. I'm comfortable doing it in a non DLG model. I 
+really quite liked the model earlier of you keep the sourcing fee or I pay you a sourcing fee and then 
+eventually you get a collection incentive in the end, versus some lenders say that, hey, it's kind of 
+important for us, it will help us scale the business, right. So, these are good faith discussions. If one had 
+to not think of win-win and they just had to think about, hey, why not just take the DLG, then I can see 
+where your question is coming from. But that's generally not the tone of the discussion. Generally, the 
+tone is this and we are comfortable doing X amount. But yeah, it might be helpful for us to have FLDG 
+and we can do more. And on the basis of that, one sort of agrees on a certain model. 
+
+Mr. Manish Shukla: Okay. The cash that you got from PayPay stake sale, which is sitting in the Singapore 
+entity, what is the proposed end use of that money? 
+Mr. Madhur Deora: We're still working on that. The cash is sitting overseas. And, obviously cash is 
+fungible. If we needed cash in India, then we would have brought it back, but we don't need this cash in 
+India. We have over ₹10,000 crores of cash in India. So we will work this out over the next couple of 
+quarters, whether there is an overseas use of funds of this money or whether we should bring that back 
+to India. Most likely, eventually we'll bring it back to India in some form. 
+Mr. Manish Shukla: And if you were to get it to India, would there be tax implications? 
+Mr. Madhur Deora: We're still working through the tax implications of this. 
+Mr. Manish Shukla: Okay. Next question on contribution margin. Where do you think it stabilizes, going 
+ahead? I mean, you've been really tightening your belt on expenses. But I'm just trying to understand 
+what is the steady state contribution margin, what does it look like? 
+Mr. Madhur Deora: Yeah. So, we've talked about the contribution margin without UPI incentives is at 50 
+to 55%. So 50 to 55% and including UPI incentive for this to be 55 to 60%. So we continue to believe it 
+will be in that range. We do see, and I should just point out, that the contribution margin last quarter, in 
+this quarter, particularly this quarter, has been impacted by DLG costs, which comes in other direct 
+expenses. And from last quarter to this quarter, it ramped up because last quarter, we did it in the 
+middle of the quarter, with our largest merchant lending partner. So this quarter, the number was much 
+higher. Not because we were giving more DLG as a percentage, but because of the full quarter impact. So 
+as that number sort of plateaus a bit, relative to our overall disbursal, we should see an uptick in 
+contribution margin, just based on that factor alone. 
+Mr. Manish Shukla: But Madhur, you're also making a corresponding collection fee upfront as well. So, 
+there is a revenue impact also on the DLG, not just the cost. 
+Mr. Madhur Deora: So, what we make upfront is still the sourcing fee. What I said in the last call is that 
+the trail revenue is significantly higher, right. So, there are two impacts, one is the trail revenue is 
+significantly higher, and I know there are a couple of questions about sort of the lending take rate, which 
+has gone up meaningfully, partly because of this, not only because of this, but partly because of this. And 
+second is, the DLG cost has gone up meaningfully this quarter compared to last quarter, but over time it 
+plateaus. So, what happens is, if we have given X amount of loans under DLG, then that starts to 
+generate the trail income over the next three, four or five quarters, whereas the DLG cost is not going up 
+meaningfully. 
+Mr. Manish Shukla: Sorry to squeeze in then, what really explains the jump in take rate if you can just 
+help us, the delta of 7 to 9%. 
+Mr. Madhur Deora: It's partly the trail revenue from the previous quarter, as well as a little bit of loans 
+given this quarter. So, whatever you gave in October, November, you have higher trail revenue. And 
+second, these collection efficiencies have continued to improve like we mentioned earlier, which means 
+that in our, if you will, old non FLDG book, we are getting higher collection revenues than we did before. 
+
+Mr. Manish Shukla: Got it. Thank you. Those are my questions. Yeah. 
+Moderator: Thank you. The next question is from Rahul Jain of Dolat Capital. Rahul, you may please ask 
+your question. 
+Mr. Rahul Jain: Yeah. Hi. Thanks for the opportunity. So, if you could help me out, what is the ideal 
+revenue run-rate of the non-lending part of financial services? And what could be the ideal gross take 
+rate on DLG part of MCA book. 
+Mr. Madhur Deora: Sorry, what was the second part of the question Rahul? 
+Mr. Rahul Jain: So what is the gross take rate on the DLG part of the MCA book?  
+Mr. Madhur Deora: The gross take rate over the lifetime of a loan in the DLG business, so if you 
+remember earlier, we used to talk about 3 to 4% on sourcing and 1 to 2% on collections, right. So, to that 
+you can add the FLDG amount. So, let's say the FLDG amount was 3.5% or 4%. You can effectively add 
+that in order to get a gross take rate. But to be clear, most of that is not in the quarter of disbursal. So, in 
+the quarter of disbursal it would be the sourcing fee, which we have talked about is 3 to 4%. And the 
+collection revenue effectively goes up by the amount of FLDG cost that we have incurred. Does that 
+directly answer your question? 
+Mr. Rahul Jain: Yeah, yeah. So, essentially we should reach 8-9% on a trailing basis, that is how the maths 
+would eventually work. 
+Mr. Madhur Deora: Yeah, broadly. That's right. It mostly depends on the FLDG cost and depends on 
+various other things, but that's probably broadly right. It can be a bit higher than that because. So that is 
+the model we should talk about, like we have mentioned in the last couple of quarters that collection 
+efficiencies on MC has gone up. So that 1 to 2% that we had indicated we make on a trail basis, that 
+number is also inching upwards. So yes, but broadly the math that you did was right. Second is on 
+non-financial services. Sorry… non lending revenue in financial services. I don’t want to give you an 
+exact number because that we think is a slightly additional breakup, but broadly it has been 10 to 20% of 
+our financial services revenue almost consistently over the last 8 or 9 quarters. So, when lending 
+revenues have gone down, like they did in Q1 and Q2, then it was a little bit higher. And currently, as 
+lending revenues are recovering, then it's a little bit lower. But it's been in the 10 to 20% range. 
+Mr. Rahul Jain: Got it. And just last one more question. Given the kind of, efficiencies that we have 
+displayed on the indirect cost side, and our commentary on the depreciation side and of course, the 
+mounting cash position, and cash generation expectation in the coming quarters, and probably we might 
+have achieved adjusted EBITDA breakeven at least on an exit month basis, if not for the quarter, so, is 
+there any specific goalpost that we are aiming for, going into next fiscal or calendar, whatever? 
+Mr. Madhur Deora: So, I think just laying this out, like we said, we're very close to EBITDA before ESOP 
+profitability. This is without UPI incentive just to point out. So, for example, if we got this quarter's share 
+of UPI incentive in this quarter, then we would already be profitable. But obviously the sort of phasing of 
+that works a certain way. And, what is also going on when we look at EBITDA to PAT is that our interest 
+income is going up, largely because we have more cash than we did before. Our depreciation is going 
+
+down, as we discussed earlier, and our ESOP costs are going down, as we have disclosed in the back of 
+the earnings release. So as a result, the gap between EBITDA before ESOP and PAT is going down very 
+meaningfully, I think in 2 or 3 quarters that gap will be basically zero. So, just mathematically, we're going 
+to get very close to, we're going to get to PAT profitability, once EBITDA before ESOP is, is profitable 
+either in, you know, maybe in the next 1 or 2 quarters, sequentially. So that's obviously very clear, I 
+wouldn't even say a target, that's just something that we are just sort of marching towards, but 
+eventually the point is that we want to get very efficient as an organization. We want to drive higher 
+revenue growth. We have had, obviously some headwinds with respect to, where we are in the sort of 
+credit cycle and personal loans and so on, and which is fine. I think one just has to be cautious and build 
+great long-term businesses. And as we start to get that revenue growth, a lot of the work that we have 
+done this year on becoming more efficient should translate into fantastic operating leverage. And so 
+while EBITDA breakeven and PAT breakeven are milestones, but obviously that's not the goal. The goal is 
+to have, double digit EBITDA margin relatively soon and then have that translate into a substantial 
+amount of PAT. 
+Mr. Rahul Jain: Understood. So the first goal, as you rightly said, is, the difference between adjusted 
+EBITDA and PAT would vanish in a couple of quarters, maybe, Q4, Q1 and then, the double digit EBITDA 
+margin, probably 4 to 6 quarters from that point. And, from a growth point of view, as you rightly said, 
+that we have right sized the business, in various aspects. So, what should be a good benchmark for 
+growth on a 3 to 5 year prospective basis, for the, assuming the same set of business stays in the same 
+form and shape, there's no new incremental revenue line that we we might see, or maybe a recovery on 
+1 or 2 products that we are not working on. So, assuming the same business stays, what should be a 3 to 
+5 year goal post on the growth path? 
+Mr. Madhur Deora: Yeah, for reasons I'm sure you'll understand, that I don't want to give specific 
+guidance or specific ranges off the cuff, but I think, things that get us excited are obviously payment 
+volumes in India are growing very meaningfully. So, maybe 20 - 25% year on year, relatively safely. The 
+second is, the take rates are starting to have some levers of tailwinds. So, somebody asked earlier about 
+RuPay on UPI. Just like that, there are several other things which are inching take rates, you know, which 
+are putting a bottom at the take rates, but also increasing take rates. Merchants’ willingness to pay for 
+devices, and other hardware and software, is very encouraging as well. So, I think that is another 
+monetization source. We have a whole page in the earnings release about why we are excited, 
+particularly about the merchant payment side of the business. And then the last thing we point to, is that 
+only about six lakh customers or merchants have taken a financial services product from us, last quarter 
+and we're not even getting into product per customer, right, which is, I know, in financial services, 
+something that more mature organizations track. We're just talking about the number of people who 
+have taken at least one financial services product from us. And that is only at six lakhs, which is less than 
+1% of our base. Right? So clearly, there's an opportunity to distribute to more of our customers and 
+merchant financial services. And if we're able to do a good job of that, obviously, even at less than 1% 
+scale, it is north of ₹450 crores of revenue for us. So, if we are able to increase that penetration, by 
+finding the right products for the right customers and having them transact on that on our platform, 
+then there's a huge amount of high margin revenue that is available to us. So, maybe I'm sort of stating 
+the obvious, but I think these are the 2 or 3 components which get us really excited about our business 
+in the medium term. 
+
+Mr. Rahul Jain: Yeah, sure. That's quite helpful and encouraging. Thank you. 
+Moderator: Thank you. Rahul. The next question is from Jayant Kharote from Jefferies. Jayant, you may 
+please ask your question. 
+Mr. Jayant Kharote: Thanks for the opportunity. Just one more on the DLG, if I got the construct correct, 
+it seems that we may be starting off, on an incremental basis with a contribution margin of less than 50% 
+on these products, incremental DLG disbursals. And then as 3 to 4 quarters sort of pass and you get the 
+collection incentives, that can move back to 50% or even higher, and if that is the case, then does it 
+mean for the next two, three quarters we should expect contribution margin to be nearer to the 50% 
+mark rather than the 55% mark? 
+Mr. Madhur Deora: So I agree with the first two points that you made. So, just to be clear, in the month 
+of disbursal, the merchant loan is less than 50% margin, right. Because, we get a sourcing fee, like we've 
+always mentioned, it's 3 to 4% and then we have an FLDG cost meaningfully greater. So we make so we 
+benefit e.g. cost, which while we have said is less than 5%, it still means that the business is not in that 
+month, contribution margin positive. And yes, over time, we make a lot of trail revenue, which, you 
+know, while I was answering Rahul's question, we sort of had a directional computation on. So, overall, 
+that business is significantly higher contribution margin. I think the point that I was making earlier is that, 
+our FLDG cost, despite the fact that it doubled this quarter, more or less doubled this quarter because 
+you've seen from the disbursal numbers, despite that, we were able to maintain our contribution 
+margin. Obviously, going forward, we expect our revenue from merchant loans to grow faster than 
+incremental FLDG, than effectively FLDG growth, because we are starting to get collection revenue from 
+not only the old book, but also from the FLDG book. So we don't expect that incrementally from here, 
+there should be a huge drag on contribution margin. But I just maintain the 50 to 55% range. I think 
+there's just various factors where one shouldn't overly try to, to be precise, about quarter on quarter 
+contribution margin trends. 
+Mr. Jayant Kharote: And I know too early on this one, but given that the DLG book has, you know, been 
+there for five odd months, how is it behaving compared to the earlier product? And I'm asking this 
+because in terms of incremental disbursals, almost two thirds are coming from this product. It's fair to 
+assume that this product will become the largest part of ML disbursals going ahead. 
+Mr. Madhur Deora: So, I mean, the business is effectively the same, right. Which is that merchants who 
+display certain behavior, are whitelisted, and they can get a loan from one of our partners. The DLG book 
+may behave the same or slightly better or slightly worse compared to the non DLG book, because of 
+something which might be partner specific. Right. So, we have a DLG relationship with some partners but 
+not with other partners. So, there might be certain partner specific reasons why it may behave better or 
+worse. As it stands, our DLG book that we have done in the last five months has done, I would say, 
+noticeably better than the non DLG book AUM that exists. Right. So it is very much on track. If anything, 
+it is doing slightly better and we have really no cause of concern on the unit economics or the expected 
+credit losses of that book. 
+Mr. Jayant Kharote: Thank you and congratulations for a great set of numbers. 
+
+Mr. Madhur Deora: Thanks, Jayant. 
+Moderator: Thank you Jayant. The next question is a follow up question from Pranav Gundlapalle. 
+Pranav, you may ask your question. 
+Mr. Pranav Gundlapalle: Hey, thanks for taking my last question. The question is on personal loans. Can 
+you just provide some color on what drives a lending partner's choice of going with a pure distribution 
+model, versus one where you are responsible for collection? Is it simply economics, or is it risk? What 
+drives choice? 
+Mr. Madhur Deora: I think it might, so in some cases it's just segments, Pranav. So, we have actually both 
+models with multiple partners, right. So, we have multiple partners who will do distribution business 
+only with us because they are underwriting them a certain way, and they believe that their existing 
+collection infrastructure can take care of those loans. And then there are, then they'll also do collection 
+led business, because they think that our collection capability may be much more efficient and much 
+more effective for a certain base compared to them, sort of figuring out or adding capabilities to their 
+other collection capabilities. So it really is an underwriting call, that you do you feel comfortable. So, 
+we'll work with them to say there's a segment that we think we will just have you distribute loans to 
+because you don't really need our collection capability. And there's other bases where you may be able 
+to underwrite, give them loans because Paytm is able to collect from them. 
+Mr. Pranav Gundlapalle: Okay. So, I'm just trying to understand if we should expect a meaningful change 
+in the mix if, let's say the operating environment improves, from here, or would it change if it 
+deteriorates further from here? So, I guess as long as the loan mix remains where it is, we shouldn't see 
+a big change in that mix between one versus the other. 
+Mr. Madhur Deora: Yeah, I think the idea is that you would go to partners and have both conversations, 
+and I'm not quite sure, like, I'm not quite sure, we have a very strong view that let's say we're sitting here 
+four quarters from now, and partners have more comfort on the credit cycle, will they switch more 
+towards collection model or more towards distribution model? I don't necessarily think we have a strong 
+view on that. But I think the idea is that can work with partners and continue to find more win-win 
+partnerships, because our platform has a huge number of capabilities, distribution and collection and 
+some partners. 
+Mr. Vijay Shekhar Sharma: Pranav, I also want to add that, distribution is more like when we have, 
+extraordinary differentiation than, let's say, a Google search would have otherwise it's merely an 
+advertisement, because you're probably practically you are trying to generate a lead and then you're 
+giving the partner something. So, I'm personally going to say that we remain inclined towards higher 
+margin products, and it's sort of what we are showing and seeing, even though distribution does make 
+sense because we don't address all needs, for example, like larger ticket products, we don't put them in 
+these categories. So, there is a fair mix of distribution and distribution plus collection. Distribution plus 
+collection is the preference because it gets us more margin. Distribution only gets us larger money per 
+ticket. We, in both ways, are trying to create methods or APIs between lenders and us so that it can be 
+easier done than as neutrally third party as advertising on Google could work or some third-party place 
+could work. What I can tell you is that we've been able to successfully create, even in distribution, the 
+
+integration, which is far easier and far better than someone else. So, distribution opens up diversity and 
+the collection opens up high margins. 
+Mr. Pranav Gundlapalle: Understood. Thank you. Thank you very much for the answers. Thanks. 
+Moderator: Thank you Pranav. The next question is from Siddharth Gupta of Voyager Capital. Siddharth, 
+you may please ask your question. 
+Mr. Siddharth Gupta: Hi. Thank you for the opportunity and congratulations for a great set of numbers. 
+Most of my questions about DLG have been answered. I just wanted to have a few quick questions. First 
+one is what is the quantum of DLG we want to meaningfully envisage over the next few quarters, we've 
+gone from 225 to 350 just to get a ballpark figure of where we are looking at. The second more specific 
+one is basis our previous payouts and our rough estimations. What is the rough quantum of the UPI 
+incentive we stand to receive in the upcoming quarter? And lastly, I just wanted to understand our 
+roadmap on three of our products, that now that we can add customers back on UPI, and we have also 
+publicly stated a goal of going back to our Jan 2024 levels, which was, I think, around 9 or 10% of market 
+share, where if we have a particular roadmap of how we wish to go down that route? Do we wish to take 
+a cash back based route or do we envisage organic growth? And if you could shed some light on Paytm 
+Money and insurance broking as a business, because we didn't delve too much into it in the release that 
+came out. Thank you so much. 
+Mr. Vijay Shekhar Sharma: Yeah Siddharth. A lot of questions, but I'll go to the most critical one, which is 
+the consumer growth, which is because internally we have now switched our gear towards the growth 
+where the merchant growth and consumer growth, both are something that are very imminent and 
+seeable. If you notice the number of consumer growth without marketing spend enhancement is very, 
+very, very encouraging. I, in answer to a previous question, also suggested that there is an organic 
+flywheel that we are seeing. My and our attempt would be that we continue to do product led growth 
+instead of big bang spend money led growth. And we do believe that there is a great opportunity of 
+product improvement and product differentiation. We have a lot in queue going ahead on the consumer 
+side in terms of product streamlining. There were a lot of, I tweeted and I learned a lot about what is not 
+good. And actually, we knew a lot of it. So, we were in due course waiting for different, different levels of 
+regulatory clarity before we started to release the product. And I'm happy to say that those products 
+lined up will give us growth or retention, better retention, better growth, better reactivation. So, that is 
+where our primary opportunity on consumer growth will be. 
+Paytm Money and Insurance are still work-in-progress businesses. Paytm Money is something that where 
+there is an attention on mutual fund distribution, because I think that mutual fund distribution is a great 
+amount of, number of customers that we are able to sign up because of, as you are aware that, you must 
+have seen on social media and otherwise also that there is a clarity that revenues and, trading revenues, 
+thanks to F&O, etc have declined. So, we have followed the same trend as the market has seen. So, there 
+is a lot to, let's say, I would say do there based on mutual funds, which is what our focus area is right 
+now. Number of SIPs, number of mutual fund customers, that is what we are trying to say. And insurance 
+wise it is an embedded insurance along with our health and auto insurance, which are very good bottom 
+line contributors. So, that is what we will continue, and rest DLG again. Back to Madhur, he will answer. 
+
+Mr. Madhur Deora: Sorry on UPI incentive, while we don't know what the exact structure will be, so it's 
+hard to predict a number. But we do have about 15 to 20% growth in eligible GMV. And so, if you look at 
+our last year number and going forward, and had to sort of take a ballpark guess at this number, this 
+year's number, then it should be in that range. But I would hate to sort of just start blurting out certain 
+numbers of what we should expect in Q4.  
+On DLG, Siddharth we don't really have a target number. We believe in the model and this DLG, while it is 
+a cost up front, it is more than made up by the profitability on the merchant cash advance business or 
+merchant loan business. So, we think it's just, in a sense, an investment into getting that profit pool. So, 
+we don't really have a number, which is to say we'll eventually cap it at this number. Of course, the board 
+approved numbers have been disclosed, but I would expect that the board would be constructive given 
+the performance of this business when we go back to them for any additional approvals. 
+Mr. Siddharth Gupta: Fair enough. Thank you, Madhur, thank you, Vijay. And Vijay, that was a great 
+initiative of tweeting for two things on product improvement. I absolutely loved it. Thank you so much. 
+Moderator: Thank you. Siddharth. We'll take two last questions, given paucity of time. Our next question 
+will be from Rushabh Sheth. Rushabh, you may ask your question. 
+Mr. Rushabh Sheth: Hi, Vijay. Thanks for the opportunity. I just wanted to check, are there any thoughts 
+on the wallet business? Do you guys want, at some point of time, to start redoing it? Just want to kind of 
+get your thoughts, now that the whole Paytm Bank thing is behind us. If you have any thoughts or if you 
+guys are planning something on that. 
+Mr. Vijay Shekhar Sharma: Yeah, we want to do it. We are waiting for Paytm Bank’s final outcome and on 
+the basis of that we'll take the next step. 
+Mr. Rushabh Sheth: Got it. And any view in terms of the timeline for this outcome? 
+Mr. Vijay Shekhar Sharma: As people who are on this side of the call, we have only actions that we can 
+effort outcome. 
+Mr. Rushabh Sheth: Okay. All right. But based on that, you will decide how you want to go forward on 
+that timeline. 
+Mr. Vijay Shekhar Sharma: Yes, we’ll do it quickly, but it will take time. 
+Mr. Rushabh Sheth: All right. Got it. Thanks so much, Vijay. 
+Moderator: Thank you Rushabh. The next question is from Lokesh of Vallum Capital. Lokesh, you may 
+please ask your question. 
+Mr. Lokesh: Yeah. Hi. Good evening. Just a couple of questions. One is a clarification. 
+Moderator: Lokesh sorry, you're not audible. Can you please speak closer to the mic? 
+Mr. Lokesh: Yeah. Is this better? 
+
+Moderator: Yeah, please. Thank you. 
+Mr. Lokesh: Yeah. Madhur, couple of questions. One is on the FLDG, if you can share AUM on the basis of 
+which the financial services revenues are generated. Do you think that would be a better way for us to 
+track the performance of the financial services business? That is one. Second is, hypothetically in the mid 
+term, if you have to grow your FLDG book, would it be capped to the free cash that you are generating 
+internally, or would you want to dig into the cash pile which is sitting in the balance sheet. So those are 
+my two questions. 
+Mr. Madhur Deora: So, your second question, the sourcing fee that we make in the month of disbursal is 
+really the same, generally slightly higher than the DLG cost. Right. And obviously, we make a lot more 
+money, as trail revenue. So, we don't really, so it's not like in the month of disbursal it's negative business 
+and we are doing this hoping that we'll be able to make up for it later and then make more money. So, 
+that's not what is going on here. So, that constraint would be a logical constraint to put, but it's not really 
+the case here anyway. On your first question, a majority of the revenue that we make is upfront, and, 
+sourcing fee, at least in a non FLDG model, it was always the sourcing fee was a larger chunk. So that's 
+why we had always pegged it to disbursal. I think we can consider whether AUM is a better number, I'm 
+slightly skeptical, but we'll think through it. I think one of the things that we are driving at also is what is 
+the revenue per customer that you make from the number of customers who have taken a financial 
+service product. So, one of the ways that we have also started to look at it is you have six lakh customers 
+taking a financial services product and you made 450 crores. So, what does that drive to long term. Of 
+course, now some customers are higher ARPU, some products are higher ARPU, lower ARPU. But broadly 
+speaking, the leading indicator to being able to make more financial services revenue down the road is, if 
+more of your customers are availing it. 
+Mr. Vijay Shekhar Sharma: Yeah, I think AUM is when you are the actual book owner, which we are not, 
+so, I would go towards per customer revenue, sort of an ARPU from financial services, and they could 
+take any of the three services- loan, credit or insurance. 
+Mr. Lokesh: Fair enough. That's a perfect representation of the product led strategy that you're talking 
+about. That's great. That's great. Thank you so much. Thank you. 
+Moderator: Thank you so much. With that, we come to an end of this call. A replay of this earnings call 
+and the transcript will be made available on the company website subsequently. Thank you all for joining 
+and you may now disconnect your lines. Thank you. 
+Mr. Vijay Shekhar Sharma: Thank you everybody. 
+ 

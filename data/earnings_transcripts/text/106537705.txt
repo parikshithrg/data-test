@@ -1,0 +1,441 @@
+Kellton Tech Solutions Ltd., CIN: L72200TG1993PLC016819 
+Regd. Office: Plot No. 1367, Road No. 45, Jubilee Hills, Hyderabad-500033, Telangana, India 
+Tel: +91-40-44333000 Email: info@kellton.com Website: www.kellton.com  
+Plot No. 404-405, 6th Floor, iLABS Centre, Udyog Vihar, Phase III, Gurugram-122016, Haryana, India Tel: +91-124-4698900 
+Ref no.- KTSL/2025-2026/085 
+To 
+The General Manager, 
+Listing Department, 
+BSE Limited, 
+1st Floor, New Trading Wing, 
+Rotunda Building, P.J. Towers, 
+Dalal Street Fort, Mumbai-400001 
+The Manager, 
+Listing Department, 
+National Stock Exchange of India Ltd, 
+Exchange Plaza, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai – 400051 
+Scrip Code: 519602 
+Scrip Code: KELLTONTEC 
+Subject: Transcript of Q3/FY 26 Earnings Call 
+Dear Sir/Madam, 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed the transcript of Q3/FY 26 Earnings Call held on Thursday, February 13, 2026.  
+Further, in accordance to Regulation 46 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, the transcript is also available on the website of the Company.   
+This is for your information and record. 
+Thanking You, 
+For and on behalf of 
+Kellton Tech Solutions Limited 
+Rahul Jain 
+Company Secretary and Compliance Officer 
+ICSI M No. ACS62949 
+Date: February 17, 2026 
+Place: Hyderabad  
+Rahul 
+Jain
+Digitally signed 
+by Rahul Jain 
+Date: 2026.02.17 
+10:34:11 +05'30'
+
+ 
+ 
+Page 1 of 10 
+Kellton Tech Solutions Limited 
+Q3 & 9 months’ FY 2026 Earnings Conference Call 
+February 13, 2026 
+ 
+ 
+Moderator: 
+Ladies and gentlemen, good day and welcome to the Kellton Tech Solutions Limited Q3 & 9 
+months FY 2026 Earnings Conference Call. 
+As a reminder, all participant lines will be in the listen-only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need any 
+assistance during the conference call, please signal an operator by pressing ‘*’ and then ‘0’ on 
+your touch-tone phone. I would like to thank you all for participating in today's companies 
+Earnings Call for the third Quarter of the Financial Year 2026. 
+Before we begin, I would like to mention a short cautionary statement. Some of the statements 
+made in today's conference call may be forward-looking in nature, and such forward-looking 
+statements are subject to risks and uncertainties which should cause actual results to differ 
+from those anticipated. Such statements are based on management's beliefs as well as 
+assumptions made from the information currently available to the management. Audiences 
+are cautioned not to place any undue reliance on these forward-looking statements in making 
+any investment decisions. The purpose of today's Earnings Call is purely to educate and bring 
+awareness about the company's fundamental business and the Financial Quarter under review. 
+Now I would like to introduce you to the management participating with us today. We have 
+with us Mr. Niranjan Chintam, Chairman and Whole-Time Director. Mr. Karanjit Singh, Chief 
+Executive Officer, India. And Mr. Srinivas Potluri, Chief Executive Officer, US. 
+I would now like to hand the conference over to Mr. Niranjan Chintam. Thank you, and over to 
+you, sir. 
+Niranjan Chintam: 
+Thank you, Mike. Good evening, good afternoon, and good morning to all of you for joining the 
+Q3 Earnings Call. 
+I want to start off with the financial highlights, and then we will talk about operational 
+highlights as well as customer wins and followed by questions and answers right behind that. 
+So, I want to quickly talk about our financial results. I know we have published this, but I will 
+go over it, just to give you a quick summary of it. So, I will not go bore you with all the details, 
+but I will go with the numbers that we have.  
+
+ 
+Page 2 of 10 
+The revenue we have achieved Rs. 308 crores compared to Rs. 300 crores of last quarter, which 
+is about 2.7% growth over the last quarter. And EBITDA was about Rs. 39.7 crores versus Rs. 
+37.8 crores for the last quarter. So, we have a 5% growth there. When it comes to the PAT, we 
+are at Rs. 25.5 crores versus Rs. 24 crores for the last quarter, again a 5.8% growth. The EBITDA 
+was around 12.9%, and the PAT margin is 8.3%, whereas in the last quarter, the PAT was 8%. 
+So, they continuously show improvement when it comes to revenue as well as the bottom line.  
+Going back to the nine-months’ one, the previous nine months, last nine months was Rs. 905 
+crores versus Rs. 812 crores the last year. And when it comes to EBITDA, we are at Rs. 113 
+crores versus Rs. 99.5 crores. And EBITDA margin was 12.5% versus 12.2% of the previous nine 
+months. Again, the PAT margin is at 8% for the whole nine months up to now, and the previous 
+year it was 7.4%. The diluted EPS is Rs. 1.4 versus Rs. 1.3 for the nine months. When it comes 
+to the quarter, the EPS stood at 50 paisa versus 40 paisa for the last quarter. So, there is an 
+improvement there too. 
+With that, I want to hand over to Karanjit to talk about operational highlights and the customer 
+wins. Karanjit, over to you. 
+Karanjit Singh: 
+Good evening everyone, and thank you Niranjan. So, I will cover both the new customer wins 
+as well as the operational highlights. So, let me first start with the client wins. So, I think I have 
+a long list. We have about 11 clients, but I will quickly go through some of them so that you 
+sort of get a little bit of color on these client wins.  
+So, the first one that I would like to mention is basically a leading end-to-end product 
+engineering. It is a global technology giant, and we are engaged with them on the product 
+engineering for cloud-native and cross-device web applications. And we are basically doing this 
+on enterprise-grade services like Microsoft. And on the back end, it is all architected on Azure. 
+The second one, which is a very interesting one, is actually a legacy modernization. So, the 
+client is basically executing, we are executing an autonomous modernization strategy to 
+transform their monolithic ERP environment, into basically a hyper scalable .NET core micro 
+services-based application. So, what is interesting here is that this is basically not an upgrade 
+in the same technology stack. We are basically moving it from one language to another and 
+this language is an old-generation language. And of course, there is a heavy use of AI here. In 
+fact in here, we have written our own agents. In fact, we have used AI for development on this 
+one. So, we have created our own agents that help us. It is about four million lines of code, so 
+obviously we cannot do it manually. We are basically leveraging AI heavily, and in fact the latest 
+Claude models to help with this.  
+Similarly, basically we are partnering with a world leader in heavy engineering, where we are 
+helping them deploy AI-driven orchestration systems, which will help them streamline their 
+complex industry 4.0-driven manufacturing workflows. So, obviously, there is some amount of 
+
+ 
+Page 3 of 10 
+agentic intelligence being built into their manufacturing workflows and large-scale engineering 
+projects.  
+Similarly, we are driving a large-scale application modernization program, again for a global 
+leader in food services. And basically, we are trying to help them with data engineering and the 
+AI-led transformation side of things. 
+Similar stuff we are doing with one of the largest providers of travel tech in India, again where 
+they are again trying to basically modernize their platform and basically inject AI-orchestrated 
+engineering into the whole thing.  
+We are also seeing a lot of traction on the ServiceNow side, and we have been in the 
+ServiceNow thing and we had an acquisition there. So, we basically are engaged with at least 
+two, three clients now that we have won, where we are helping them. So, one of them where 
+we are helping them with engineering high velocity, AI orchestrated a source-to-pay workflows. 
+This is again on the ServiceNow platform for a global healthcare provider. We are doing a 
+similar thing for ITOMS, for another North American public sector power company. 
+A similar thing for a financial services customer, which is a global industry leader in kind of 
+deployment of their now assist-generated AI platform within the ServiceNow ecosystem. And 
+in addition to that, we are also working, we just have started an engagement with one of the 
+largest telecom providers in the U.S., where we are helping them architect financial hyper-
+precision by deploying a high-fidelity AI Ops intelligence layer, again within their ServiceNow 
+kind of ecosystem. So, these are kind of some of the customers that have been, I have not 
+covered everyone, every one of them, but this will give you a general sense of the kind of wins 
+and the kind of work that we are getting at this point. 
+To go on the operational highlights, I will cover a few here: 
+So, we just enabled the algorithmic financial systems for a premier global bank by automating 
+their mission-critical payment workflows across multiple countries, across markets. Similarly, 
+we have also achieved the highest level of partnership. We have achieved the Microsoft 
+solution partner designation across three areas; data and AI, digital and app innovation, and 
+infrastructure as well. This kind of places us amongst a very select group of companies within 
+the Microsoft partner program and our relationship with Microsoft is growing, and we continue 
+to sort of strengthen it and work jointly with them.  
+We also, for one of the premier and largest creative agencies, we basically work with them to 
+develop an AI-orchestrated creative at scale ecosystem, as they call it. This basically helps 
+them, and this company operates around 140 countries. What this will help them is using AI, 
+eliminate a lot of manual production bottlenecks that you face, and it will kind of move them, 
+move their creative workflows into an autonomous, brand-governed, hyper-personalized asset 
+
+ 
+Page 4 of 10 
+generation. So, this will help them really scale their outreach to their customer and time to 
+market. 
+Similarly, we have developed for a global communication provider, agentic AI-driven 
+verification fabric, and this has been developed on our own proprietary KAI platform, which 
+kind of helps them to address board-level risks and also things like sim swap frauds and account 
+takeovers and things like that.  
+We have also been selected by a prominent UN agency to design and deliver a generative AI 
+integrated application supporting their global humanitarian program. So, these are also the key 
+operational projects or operational highlights that we achieved during this quarter. So, that is 
+all I have. Thank you. 
+Niranjan Chintam: 
+Thank you, Karanjit. A lot more detail is in our earnings presentation, and we welcome any 
+questions that you might have in the Q&A. So, please do join the queue. Mike, can we open it 
+up for Q&A? 
+Moderator: 
+Sure. We will now begin the question-answer session. Ladies and gentlemen, we will wait for a 
+moment while the question queue assembles. We have the first question from the line of 
+Jayaprakash from Axler Research. Please go ahead. 
+Jayaprakash: 
+Hi congratulations on a stable set of performance last quarter. I wanted to understand that 
+currently on the ongoing scenario around the world, if you look at all the shares of major IT 
+companies, for example, ServiceNow company listed elsewhere, which is one company that 
+you have recently acquired, also functions on a similar domain that is down around 50% over 
+the last one year. And there are fears related to AI taking up a lot of services going forward. 
+How do you see that? And related to data center CAPEX, which is going to come up very soon, 
+is there any opportunity for Kellton to probably add value or participate in that? 
+Niranjan Chintam: 
+So, thank you for the question, Jayaprakash. I will answer the first question or the second 
+question, rather, where you talked about the data center part of it. Yes, absolutely we have 
+deep expertise when it comes to data center, both from setting it up our data centers as well 
+as managing and maintaining data centers. So, we are actually partnered with a physical setup 
+guy to cater towards one of the largest data centers in the world. We are still in the discussion 
+stage, we are not at a proposal stage yet. We are responding to RFPs and we are going and 
+presenting. So, we believe that we are in the front foot when it comes to, in the data center 
+space, setting it up as well as maintaining and operating. So, right now, we are at the RFP stage, 
+like I said.  
+Now, coming to your first question about the software companies taking a tank, including the 
+services company, right, which they are calling the SaaS apocalypse, that we do not believe 
+that, you know, it is just a hype that is going around there. We do not believe that there is going 
+
+ 
+Page 5 of 10 
+to be a big impact on this. The impact is going to be more on per seat kind of revenue that, you 
+know, people operate. This is where the back office operations that happens for BPO related 
+activities; that is where we believe that there is going to be an impact. While, you know, people 
+are talking about, Claude is going to replace all the SaaS platforms. Yes, Claude much might 
+replace for the small mom and pop kind of places where there is a requirement for a SaaS 
+platform. But when it comes to enterprises, right, enterprises will not bet big on, you know, 
+homegrown or, setting it up using the Claude co-work platform. Now, I want to ask Srini to 
+answer this because he is front and center on these things. So, I will let Srini give a little bit 
+more color onto this SaaS apocalypse and what the impact is for Kellton or Kellton-like 
+companies. Srini, can you jump in and answer this question, please?  
+Srinivas Potluri: 
+Sure Niranjan, thank you very much. To reiterate what Niranjan has been saying, the SaaS 
+apocalypse that happened with the drop in share price values of all these SaaS platforms was, 
+I mean, you can already see right now that things are improving and things are going back up. 
+It was just a market reaction to something that Anthropic Claude released, right, recently. It 
+released nothing but about 11 or 12 widgets or plugins, which are open source that seem to 
+do a lot of stuff. But in reality, they are nothing but some workflow automations that was built 
+about by actually logical steps going through. So, yes, I mean, what is being seen right now is 
+that, you know, the progress that is being made on the AI front is real. The pace at which it is 
+improving and putting solutions out there or potential solutions is there. But there is nothing 
+that is impacted right now, other than the fact that customers are expecting more efficiencies 
+in the workflow and in the workforce.  
+So, basically, what it says is that in future, until now, scale has been associated with headcount. 
+That will change, right? It will be more about outcome. And Kellton has always been on selling 
+outcomes rather than selling billable hours and so on. So, the impact is going to be minimal, 
+yes, but the rate at which improvements will happen and what will come out in the market will 
+increase. So, that is the major difference that we see right now. And yes, ServiceNow has also 
+all of these SaaS platforms, whether it be ServiceNow, Snowflake, Microsoft, all of them have 
+in some way, shape or form, either internally started to build their agents and their AI 
+components within their core. And in some cases, companies like ServiceNow to reacting to 
+this have also preempted this by acquiring AI companies, right? 
+So, we see that the SaaS companies will improve, will do what is necessary to compete and will 
+adopt AI rather than Python. So, we do not see a huge impact either way. Yes, the way we 
+operate will change, efficiencies will improve, but beyond that, I think that was just a market 
+reaction. 
+Jayaprakash: 
+Okay, just a follow up to the previous question, that on a quarter-to-quarter basis, what type 
+of productivity increase that you are seeing on a per employee basis, you know, you mentioned 
+about efficiency per employees will go up, so I believe that. Let me complete my question. Yes, 
+
+ 
+Page 6 of 10 
+so and are you also looking to make your team more leaner? I think a more leaner team, given 
+the productivity increase will probably increase shareholder value. 
+Niranjan Chintam: 
+Perfect, so let me answer. Let me answer that. You know, I guess we have two part question. 
+Let me answer the second part first. Are we expecting a leaner team? Absolutely, we are 
+expecting a leaner team. But there is a second school of thought where they are talking about 
+that the volumes are going to increase because of the efficiency. So, we could be, you know, 
+keeping the same team and increasing. I am just picking discussions that as we have 300 
+customers today that could go to 400 or 500 customers, or it could be some people are talking 
+about an order of magnitude too, right? So, we are still waiting and watching because what we 
+are predicting today, with the rate of progress of AI, what are we going to be in a month from 
+now is completely different. So, at this point, our prediction is that volumes will increase, while 
+efficiencies are increasing. I will let Karanjit take that first answer on question on this. What are 
+we seeing per employee? But it all depends, right? He will answer that it depends because units 
+in our, in our company have different kinds of efficiencies that are coming in play. Karanjit, do 
+you want to take that? Sorry, you were asking something else, Jay? 
+Jayaprakash: 
+No, that is it. 
+Niranjan Chintam: 
+Okay, Karanjit, can you answer that? 
+Karanjit Singh: 
+Yes. Thank you, Niranjan. Yes, so basically, see we have various engagements types with 
+customers. So, wherever which is outcome, wherever we have outcome based contracts, you 
+know, various steps of the development cycle. Obviously, we have different users of, you know, 
+AI. So, like automation test, today QA test cases are pretty much written using our own KAI 
+tools. Similarly, you know all the documentation, again gets generated by KAI tool, the stories 
+and stuff like that, that all happens with the KAI tool. On the development side also, we 
+basically use AI rolled out to all developers, we use CoPilot. And then again within that, we can 
+use various models. But anyway, so the one where we can very clearly measure it is this 
+outcome based projects, where we are seeing depending on the technology kind of project, is 
+it a new one, is it an old one that you are upgrading to a new project where you are seeing 
+between 20% to 30% efficiency gains. That is something that we can clearly see. Now if you 
+already have a huge code base, then obviously, it depends on where you are working and things 
+like that. 
+So, that has been our experience, about 20% to 30% general gains. And this is being rolled out 
+internally to every project. I also made a mention in my first part of my comments, where we 
+said we are doing this translation, or basically a legacy modernization where we are converting 
+a language to, let us say, a modern Microsoft.NET architecture. Now this is a big deal. It is 4 
+million lines of code. Obviously it is sold, assuming certain, you know, already AI embedded 
+into it. But I think in the manual world, the customer would not even have, that is something 
+which possibly the customer would not have taken up that project. And even if he did, it would 
+
+ 
+Page 7 of 10 
+have been at least 3x to 4x of that value. So, that is the kind of new work that sort of Niranjan 
+alluded to. So, that is the kind of our lived experience with this. 
+Jayaprakash: 
+Okay. 
+Niranjan Chintam: 
+Thank you, Jay. Is there any other questions, we would love to answer. 
+Jayaprakash: 
+Thank you. That is it. 
+Niranjan Chintam: 
+Thank you, Jay. Okay. Next question, please. 
+Moderator: 
+Thank you. We have the next question from the line of Rohit, an individual investor. Please go 
+ahead. 
+Niranjan Chintam: 
+Hi, Rohit. 
+Rohit: 
+Hi team. I am Rohit from Pune, a retail investor. Congratulations on acquiring Kumori 
+Technologies. And I have one question. How does Kumori Technologies acquisition contribute 
+to Kellton's growth? 
+Niranjan Chintam: 
+Sure. So, guess Kellton bet on three, four partnerships, you know, for the growth that we want 
+to get to, right? One of them is ServiceNow, the other is Microsoft, and then we have a 
+Snowflake, SAP, we already have that on. So, now when it comes to Kumori Technologies, 
+right? Kellton had a certain partnership level earlier before the acquisition of Kumori. Kumori 
+gave us some more expertise and a much deeper expertise when it comes to delivering, using 
+services, using ServiceNow. Now we are at a different level of partnership with ServiceNow, 
+and that is going to give us, better access to more customers. What Kumori has given us is a 
+ready-made partnership with deeper expertise. And now using Kellton's sales arm and the 
+global reach, we will be able to get a lot more customers as well as interactions when we are 
+going with ServiceNow. You know, they are now saying, okay guys, you have so many 
+certifications, and you are a certain level of partnership, our relationship has changed, and we 
+expect revenue growth to be there. Karanjit, you want to answer, add anything on that? 
+Karanjit Singh: 
+Sure. So, basically, as Niranjan said right, so there is one is the strategic intent. So, we have kind 
+of zeroed on certain partnerships. And for us, we had to figure out how do we accelerate this? 
+So, what Kumori gives us, as Niranjan pointed out, is ServiceNow, they already have 
+ServiceNow expertise. They have, they are working with the ServiceNow ecosystem already. 
+So, we get all of that expertise. And you know, we are combining that with our Salesforce. So, 
+it kind of helps now to do a global outreach of their capabilities. And there is a lot of traction 
+that we have actually been seeing very specifically at ServiceNow and take that to market. So, 
+kind of, and also they have sort of, now we can actually sell to all our customers all over the 
+world, from the US and also APAC region, Europe, everywhere. So, that is kind of what it is. And 
+
+ 
+Page 8 of 10 
+of course, we get case studies and expertise and technical capabilities, that is a given. So, it just 
+helps us accelerate our journey. 
+Niranjan Chintam: 
+Thank you, Rohit. Any other questions? So, can we go to the next question? 
+Moderator: 
+Sure. We have the next question from the line of Pratik Dedhia, an individual investor. Please 
+go ahead. 
+Pratik Dadia: 
+Hi, am I audible? 
+Niranjan Chintam: 
+Yes you are Pratik. Go ahead. 
+Pratik Dadia: 
+Yeah. Okay. Thanks. So, yeah, I think coming back to the efficiency part, I understand that there 
+have been efficiency gains with the AI part deployment. So, how do you see that translating 
+into higher margins going ahead? And what, if you could quantify, that would be helpful over 
+two years or three years period? 
+Niranjan Chintam: 
+Okay. So, it is difficult Pratik, at this point to quantify how it is going to reflect on the bottom 
+line. The reason I say that is, you know, what Karanjit has already alluded to you, see most of 
+our business is T&M, time and material, right? If it is an outcome-based, like I was talking about 
+where we have the flexibility to use the tools. And we are not dependent on the customer 
+driving the contracts. You know, some of our customers have told us in no uncertain terms that 
+we cannot use AI. So, we have to do the old school way of doing programming. As more and 
+more customers are willing to accept the efficiency that AI is going to bring in and the 
+confidentiality is protected, then we can start showing more productivity increases. But at the 
+same time, the customer is already demanding, saying that, hey, you are using AI tools, pass 
+on some of that margin to me. And we have in most cases have passed on that efficiency to 
+the customer. So, we cannot at this point say, okay, hey, because we are using AI, our margins 
+are going to increase by X amount of points, which is something that we cannot do at this point. 
+But we are seeing efficiencies. And like I said, the volume we can do is increasing with the same 
+amount of stuff. And we are passing on some of the margins that we are gaining to the 
+customer. So, at this point, you know, I cannot quantify it. 
+Karanjit Singh: 
+Yea Niranjan, if I can just add to that, absolutely. See what is happening is the way it is played 
+out is, yes, you know, in fixed, in outcome-based projects, which is a certain percentage, you 
+know, we could keep the efficiency. But sooner or later, the customers will demand that, they 
+will ask for aggressive pricing. Or like I mentioned the last one, right, the customer would not 
+have even gone ahead with that program because the costs were prohibitive but AI is allowing 
+it to happen. So, that is an increase in the business. 
+One other thing that will happen even on the T&M side, and this will happen for a small time 
+is, AI skills are basically premium. So, this happens with every new wave we have seen and 
+
+ 
+Page 9 of 10 
+typically lasts only about a year or so. So, like back in the day, there were the Blockchain and 
+NFT technologies. So, we could command slightly incur rates, right. So, we would have $10 or 
+a $15 upside on the rate. But then quickly, the Indian IT industry is smart, everybody learns it. 
+And sooner or later, that advantage again comes back to wherever it was. So, that will happen 
+a little bit. So, the ones that are up ahead in the AI, it will help you in your competitive 
+advantage. And for a certain time, maybe you can command slightly premium rates. But then 
+of course, everybody will chase those premium rates. That is all I see. 
+Pratik Dadia: 
+And in terms of the contracts that their client is asking you to not use AI, how are you seeing 
+the pricing happen currently? And what percentage of your new contracts are being signed 
+without AI? 
+Karanjit Singh: 
+Sorry can we get the first part of your question again? 
+Niranjan Chintam: 
+Let me answer that, Karanjit. I think I understood this. So, the question that was asked was, 
+you know, how many of our customers are saying we cannot use AI? Okay, majority of our 
+customers are telling us we cannot use AI, Pratik. The reason for that is that they are still not 
+ready for AI. See some of our customers when you do a sales pitch also, you know specifically 
+this is happening in the US. They are saying, hey, if you are going to talk about AI, please do not 
+come to me. Okay, because they are not ready to adopt AI into their enterprises, right? And 
+yes, you know, they will change if the market will force them to change, the competitors will 
+force them to change. This is something, specifically, I think, with what has happened with the 
+stock price crash everywhere. People are saying, hey, AI is getting adopted within many, many 
+companies. So, they will have to do it. Okay, so they do not have a choice. But at this point, 
+majority of our customers, because like I said, most of our customers are T&M. So, it is time 
+and material when it comes to time and materials, they are dictating what is it, that we can do 
+or cannot do. In an outcome based, we take on what they call the fixed price contracts, then it 
+is based on outcome, what we deliver, how much efficiency we deliver, how soon we deliver. 
+So, those are the things that are measured versus what we have used to get there. Right? In 
+that scenario, you know, we are getting these efficiencies by using our own internal KAI tool, 
+or you know, other cost products or open source AI tools that are available in the market. 
+Pratik Dadia: 
+Okay, got it. Now, can you elaborate on the pricing part for non-AI contracts? How are you 
+seeing the trends there? 
+Niranjan Chintam: 
+No, it has been the same. There is no change on that, right? That is not changing on the non-AI 
+contract. It is per sort of, let us say, what we call the billet or per engineer, based on the 
+seniority that the customer asks in the T&M contracts, they say, you know, okay, I need a 10 
+year experience, Java full stack person, and we provide that person.  Or they say, hey for this 
+project, give me what is your estimate? Who are all the people that are going to be? It is a 
+named resource there. And they will drive the outcome, not we driving the outcomes. They 
+being the customer, is driving the outcome. 
+
+ 
+Page 10 of 10 
+Pratik Dadia: 
+Got it. Okay. That is it from my side, thank you. 
+Niranjan Chintam: 
+Thank you, Pratik. Mike, any other questions? 
+Moderator: 
+Thank you. Not currently, sir. I will just announce for questions once more. Participants who 
+wish to ask a question may press ‘*’ and ‘1’ on your touchtone telephone. It appears we have 
+no further questions. I would now like to hand the conference over to Mr. Niranjan for closing 
+comments. 
+Niranjan Chintam: 
+Thank you everyone for joining this Earnings Call. I was really excited to talk about our 
+capabilities when it comes to the AI. Looking forward to more interactions, you know, if you 
+come over to Hyderabad and/or Gurgaon, please look us up. We would be happy to show and 
+tell what all we have been doing. But please schedule that with the team ahead so that, you 
+know, our availability and the time is locked. Again, thank you. Looking forward to talking to 
+you soon. 
+Moderator: 
+Thank you. On behalf of Kellton Tech Solutions Limited, that concludes this conference. Thank 
+you for joining us and you may now disconnect your lines. 

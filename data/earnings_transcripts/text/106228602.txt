@@ -1,0 +1,803 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304 
+T: +91120 4770770  F: +91120 4770771 CIN: L72200DL2000PLC108985 
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019 
+One 97 Communications Limited 
+compliance.officer@paytm.com 
+www.paytm.com 
+May 12, 2025 
+ 
+BSE Limited  
+Department of Corporate Services  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai - 400 001  
+ 
+Scrip Code: 543396  
+National Stock Exchange of India Limited 
+The Listing Department 
+Exchange Plaza, 
+Bandra Kurla Complex, 
+Mumbai - 400 051 
+ 
+Symbol: PAYTM 
+ 
+ 
+Sub.:  Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 - Transcript of the Earnings Conference Call conducted on May 06, 2025 
+ 
+ 
+  
+Dear Sir / Ma’am, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, please find enclosed the transcript of the Earnings Conference Call, conducted on May 06, 2025, 
+on financial results of the Company for the quarter and financial year ended March 31, 2025. 
+ 
+The said transcript is also available on the website of the Company at https://ir.paytm.com/financial-
+results.  
+ 
+Kindly take the same on record. 
+ 
+Thanking you 
+ 
+Yours Sincerely,  
+For One 97 Communications Limited  
+ 
+ 
+ 
+Sunil Kumar Bansal  
+Company Secretary and Compliance Officer 
+ 
+Encl. as Above 
+ 
+SUNIL KUMAR 
+BANSAL
+Digitally signed by 
+SUNIL KUMAR BANSAL 
+Date: 2025.05.12 
+19:10:45 +05'30'
+
+Paytm | Q4FY25 Earnings Call |  
+Call Date: May 06, 2025 | Time: 18:00 PM Indian Standard Time 
+__________________________________________________________________________________________________________ 
+Disclaimer: 
+By reading this call transcript you agree to be bound as follows: This earnings call with the management of 
+One 97 Communications Limited (“Company”) is for information purposes only without regards to specific 
+objectives, financial situations or needs of any particular person and is not and nothing in it shall be construed 
+as an invitation, offer, solicitation, recommendation or advertisement in respect of the purchase or sale of any 
+securities of the Company or any affiliates in any jurisdiction or as an inducement to enter into investment 
+activity and no part of it shall form the basis of or be relied upon in connection with any contract or 
+commitment or investment decision whatsoever. This earnings call does not take into account, nor does it 
+provide any tax, legal or investment advice or opinion regarding the specific investment objectives or financial 
+situation of any person. The information to be presented and discussed on this earnings call is confidential and 
+proprietary to the Company and/or its affiliates and no part of it or its subject matter be used, recorded, 
+reproduced, copied, distributed, shared, or disseminated, directly or indirectly, to any other person or 
+published in whole or in part for any purpose, in any manner whatsoever. 
+ 
+Statements or comments made on this earnings call may include certain statements that are, or may be 
+deemed to be, “forward-looking statements” and relate to the Company and its financial position, business 
+strategy, events and courses of action. Forward-looking statements and financial projections are based on the 
+opinions and estimates of management at the date the statements are made and are subject to a variety of 
+risks and uncertainties and other factors that could cause actual events or results to differ materially from 
+those anticipated in the forward-looking statements and financial projections.  
+ 
+We, or any of our affiliates, shareholders, directors, employees, or advisors, as such, make no representations 
+or warranties, express or implied, as to, and do not accept any responsibility or liability with respect to, the 
+fairness, accuracy, completeness or correctness of any information or opinions contained herein and accept no 
+liability whatsoever for any loss, howsoever, arising from any use or reliance on the information presented and 
+discussed in this earnings call. The information contained herein is subject to change without any obligation to 
+notify any person of such revisions or change and past performance is not indicative of future results.  
+ 
+It is clarified that this earnings call, and the information discussed and presented herein, is not intended to be 
+an offer for subscription or sale of any securities or inviting offers or invitations to offer or solicitation to offer 
+from the public (including any section thereof) or any class of investors. No rights or obligations of any nature 
+are created or shall be deemed to be created by the information presented and discussed on this earnings call. 
+This document has not been and will not be reviewed or approved by a regulatory authority in India or by any 
+stock exchange in India. No rights or obligations of any nature are created or shall be deemed to be created by 
+the contents of this document. 
+ 
+________________________________________________________________________________________________________________________ 
+ 
+Moderator: Thank you for joining and welcome to Paytm's Earnings call to discuss our financial results 
+for the quarter and year ending on 31st of March, 2025. We will start our call with Q&A after 
+introduction to the management. From Paytm management, we have with us Mr. Vijay Shekhar Sharma, 
+Founder and CEO, Mr. Madhur Deora, President and Group CFO and Mr. Anuj Mittal, SVP, Investor 
+Relations. A few standard announcements before we begin. The information to be presented and 
+discussed here should not be recorded, reproduced or distributed in any manner. Some of the 
+statements made today may be forward-looking in nature and actual events may differ materially from 
+
+those anticipated in such forward-looking statements. Finally, this earnings call is scheduled for 60 
+minutes. A replay of this earnings call and transit will be made available on the company website 
+subsequently. We will start our Q&A now. If you seek to ask a question, kindly utilize the raise hand 
+feature on your Zoom dashboard. Please ensure that your name is visible as your name, last name, 
+followed by your company name for us to be able to identify you. We will unmute your line and take 
+questions in the respective sequence of the raised hands. First question is from Mr. Sachin Salgaonkar. 
+Sachin, you may ask your question. 
+ 
+Mr. Sachin Salgaonkar: Thanks, Pranav. Good day, management and congrats on adjusted EBITDA 
+break-even. I have three sets of questions. The first question is largely on lending. We did see the 
+personal loan value decline on a QoQ basis. And I do understand it's basically on the back of tightening 
+what we are seeing in the industry. The question out here is, should we continue to see this kind of a 
+trend, at least in the near term, before things start improving? And a related question is, if you could 
+help us understand how many lending partners you have right now, and how should that number move 
+going ahead? 
+ 
+Mr. Vijay Shekhar Sharma: Hi, thank you, Sachin. This is Vijay. Personal loan disbursements were not, did 
+not grow quarter on quarter, merchant credit definitely grew. And personal loan wise, we are moving 
+more and more towards a pure distribution model where lenders pick up their own collection 
+obligations, so to say. We do make the same margins, surprisingly. And merchant wise, we've grown 
+healthily, and we continue to see that. Personal credit, unless something bigger changes, we will not see 
+much larger growth. While we have also started to work towards secure credit, secure based on various 
+other items, and maybe that, if that grows, we will see some numbers going back. 
+ 
+Mr. Madhur Deora: And on the number of lending partners for each personal loan and merchant loan, 
+we have between eight and ten lending partners. Obviously, there's some overlap, so I think the total 
+number of lending partners is about fourteen. If I'm not wrong, give or take one. So yeah, so that 
+continues to progress while in terms of getting more lending partners onboarded. 
+ 
+Mr. Sachin Salgaonkar: Thanks, Vijay and Madhur. Second question is on your expectation on MDR on 
+UPI for larger merchants will be allowed in near and near future. Just wanted to understand if you could 
+help us understand how one should think about the monetization opportunities as in how this happens 
+from a Paytm perspective. And at some level, is it also linked to perhaps the UPI incentives decline, what 
+we saw this year and any thoughts on how the government is looking about the UPI incentive going 
+ahead as well? 
+ 
+Mr. Vijay Shekhar Sharma: Obviously, we do not know much, and we will not like to predict how the 
+government is looking at it, but we definitely see talks of MDR coming on UPI. And we do believe that it 
+should show up sooner rather than later. And we do believe that based on what we're seeing in the 
+current financial year, it could show up at any point of time. And that would bring monetization of QR 
+deployment, acquiring and the consumer app both. And I think the numbers, et cetera, and when and 
+how is something that continues to remain to be discussed or to be seen. And that will bring so-called 
+monetization to UPI. We do believe that. 
+ 
+Mr. Madhur Deora: And on your question on UPI incentive. I think at least the way we are running the 
+business is that we expect UPI incentive to remain low going forward, especially as we just said, once the 
+MDR comes in, then it would only be for very small merchants. And it was never a very significant part of 
+our business. Going forward, we expect that to be the lower number as indicated in the last year. 
+
+ 
+Mr. Sachin Salgaonkar: Vijay, just a quick follow up out here. The finance minister did say that she wants 
+1 billion UPI transactions per day in the next two to three years. So at some level, perhaps we are seeing 
+a monetization which might add a bit of friction to growth. And we have a higher target in terms of 
+growth. And I do understand that consumers will not be charged on UPI, but the perception sometimes 
+in the market always is, whenever an MDR comes, the consumers will be paying and hence there's a bit 
+of a friction. So do we still see this coming in the near future despite this entire target of 1 billion UPI 
+transactions? 
+ 
+Mr. Vijay Shekhar Sharma: I do believe that there is a tremendous upside left and is ahead of UPI in the 
+country. The finance minister is perfectly guided towards the size that we are expecting. And I do believe 
+that it is the perfect target to chase. Consumers are not going to be charged, like I say. And I think in 
+many cases, consumers’ misunderstanding does exist. But at the same time, I don't think consumers will 
+be charged. At the same time, how MDR shows up, it is the work, I do believe that NPCI and other bodies 
+are doing it. 
+ 
+Mr. Sachin Salgaonkar: Got it. And my last question, your thoughts in terms of how much AI could lead 
+to cost reductions. I did see a statement in your press release saying that, this quarter, you did reduce 
+some non-sales employee costs on the back of AI. So I just wanted to understand the potential for AI and 
+what kind of savings we could see in the future. 
+ 
+Mr. Vijay Shekhar Sharma: I don't have a percentage, but I do want to tell you that more and more 
+automation is coming in. Overall at large, more productivity per employee is showing up. We are not 
+replacing the positions that get, let's say, emptied.  
+ 
+So we are clear about it that we will be not recruiting incrementally if somebody, let's say, goes out. So 
+practically, it may not look like a drop, but it will continue to, as the cost of people decline, I do believe, 
+because more and more productivity is showing up. And it is shocking to know what level of productivity 
+can show up. I'm right now in Bangalore. We had a board meeting. I was yesterday doing my team 
+reviews. It was shocking that level of insights, level of skill from a senior product manager that we 
+typically expect. And here we had a global expert product manager. So it would be a dramatic 
+improvement in the ability and capabilities of the company. So I do believe that cost will continuously 
+reduce, but there is no sharp one-off, et cetera, kind of thing that we are expecting. 
+ 
+Mr. Madhur Deora: I just want to add that what I'm really excited about is that we have really leaned 
+into this and we are doing a pretty good job of using AI's current capabilities. Of course, we can always 
+do more. And obviously, the bigger trend is that AI also continues to get better. So whatever 
+opportunities exist today to become smarter, more efficient, leaner, those opportunities will be even 
+more six months from now, a year from now. So we just fully leaned into this, and that, I think, is what 
+really matters. 
+ 
+Mr. Sachin Salgaonkar: Thank you both, and all the best for the future. 
+ 
+Moderator: Thank you. Thank you so much. The next question is from Manish Adukia of Goldman Sachs. 
+Manish, you may please ask your question. 
+ 
+Manish Adukia: Thank you, Pranav. Hi, good evening, team. Thank you for taking my questions. So three 
+questions from me as well.  
+
+Firstly, when I look at, let's say, the business, the merchant side of the business seems to be doing really 
+well, whether it's merchant acquisition, device installs, merchant lending, like you alluded to, Vijay. But 
+on the consumer side, you touched upon the personal lending business, maybe somewhat subdued. But 
+even, let's say, the user base, which has started recovering a little bit after the NPCI approval to onboard 
+new users but still significantly below the number where we were, let's say, a year, year and a half ago.  
+ 
+One, I mean, is there a path to recovering the user base to where we were 12 to 18 months ago, and 
+what will it take to get to that number? And then second, is that important at all? I mean, do you really 
+need MTUs? I mean, even if MTUs remain where they are and don't grow, does that really impact your, 
+let's say, revenue growth, your EBITDA, et cetera? I would love to get your thoughts on that. That would 
+be my first question, please. 
+ 
+Mr Vijay Shekhar Sharma: Totally awesome way of looking at it, Manish. I really admire the way you 
+looked at it. The truth of matter is our future forward earning and bottom lines are protected by the 
+people who stayed on the platform, incremental. 
+ 
+Users don't matter, but merchants definitely do. And I do believe that if we don't do anything and simply 
+keep focusing on the product, this improvement has come at a dramatically lower cost than we would 
+have spent a year back. So it is purely product improvement that is bringing it back. And I'm very proud 
+of the team that is working on our app, UPI and other backend and frontend technologies that they are 
+just solving the bugs, solving the features.  
+ 
+There is a very incredible feature that many of you may not know. Let's say you made a payment and you 
+want to, in passbook history, right swipe, you can hide it. That feature is growing like a wildfire for us. 
+Now, these kinds of insightful features give us the capability to build more and more nuanced products 
+that we will see over the period. And I'm very hopeful that even though as far as our future forward in 
+the next two years, I have to write, let's say, revenue and profit for forwarding, we will definitely do it 
+based on merchant growth and the current consumer base. But yes, the final question, it does matter to 
+us. I do believe that in India, there are about 200 million consumers that matter. And we definitely will 
+aim for 200 to 250 million customers on our platform. 
+ 
+I'm not talking about, let's say, GMV market share, transaction market share, but I'm talking about highly 
+repeat usage of 250 million users, because that is what material number of users matter on our 
+platform. And we are not, as you've seen, we have not said that we are going to overspend on 
+marketing. I would rather overspend on technology or attention to the product. 
+ 
+Manish Adukia: Right. No, thank you, Vijay, for that response. Just trying to tie that response to, like you 
+mentioned, disciplined marketing. I mean, can both things happen? Can you be disciplined on marketing 
+and just with product intervention, grow the user base by a substantial number? 
+ 
+Mr Vijay Shekhar Sharma: Absolutely. And in fact, I want to tell you that the growth in user base did 
+happen without, in fact, we cut the marketing in these quarters to show only and give the confidence to 
+the team that your product matters. So as you are seeing the numbers, that is because of the good 
+product and better product attention. 
+ 
+And I want to give you another surprise, Manish. It is lesser number of people, more attention to the 
+product that has got this. So lower cost in people operating, lower cost in marketing, resulting in growth. 
+
+And I do believe without gangbuster marketing expenditure, we would be able to get it back. I do believe 
+and I'm seeing it also. 
+ 
+Manish Adukia: No, thank you, Vijay, I appreciate it. My second question is on the comment in the 
+shareholder letter on international markets. And there again, as an outsider, it feels like there have been 
+like a few changes in strategies in the past. International maybe was a bit of a focus area at some point in 
+time. Then, you know, you decided to focus largely on the India business over the years. 
+ 
+And now, again, let's say that you believe that some parts of your technology stack can be exported to 
+international markets. So I just want to understand what would have changed versus the last time when 
+you thought India was the bigger focus area. For now, you can again explore international markets and 
+know what should be stacked. I would love to get your thoughts on that as well. 
+ 
+Mr Vijay Shekhar Sharma: Manish, when we long back had come in public markets, we had called 
+ourselves as a platform where we were saying payment, commerce and financial services. And as you 
+know, over the period, we said payment and cross-selling of financial services. And that meant that there 
+is an ability and capability in the company of manpower, technology, et cetera, that we created. 
+ 
+And as far as the technology product market fit is considered, we are very clear that what we have built 
+in India, we saw it in PayPay Japan, we are seeing further products that we are developing and deploying 
+with PayPay Japan and many other such similar partnerships that we are in conversation, that product 
+technology can be monetized in other markets. I'd rather call it product technology monetization in 
+other markets. And we are rather going to find somebody who's locally doing it and extend that. 
+ 
+So internationalization is not about launching consumer Paytm app in other markets. Internationalization 
+is about, we are helping somebody local, market to build either the consumer side or merchant side 
+systems. And that way then we have more further monetization of product and technology platform. 
+ 
+And it also came about the number of people that we had. So because we had enough engineering and 
+product people, and I love the capability that we leverage using efficiency, using AI and skill using AI, that 
+we are able to modularize much faster than earlier. So at one point of time we were like, oh, we would 
+not rather spend anywhere else but pay attention to the domestic market, which is perfectly continuing. 
+ 
+But right now because of the assistant code generation and all sorts of things like Cursor, Replit, et 
+cetera, we are able to modularize the code and extend it for another market. So incrementally very less 
+technology product investment, which rather is not even further investment, rather re-utilizing or 
+utilizing internal resources and getting a market extension, because you are able to partner with 
+someone who's doing it in their local market. So international for us is not launching Paytm app in 
+different markets. International for us is expanding partnership of product and technology with some 
+people in that local market.  
+ 
+Mostly we are seeing merchant side relationships are far better for us because there is a nuance of what 
+we have built in ability to see it in many markets being incoming instead of consumer side. So maybe 
+we'll see it like that. 
+ 
+Manish Adukia: Thank you. Just my last question may be directed towards Madhur. I think again, please 
+pardon my, like if I get the numbers wrong, but two or three quarters ago, I think Madhur you had called 
+out medium term, the business can potentially grow at like, you know, 30 - 35% plus on top line and 15 - 
+
+20% was the EBITDA margin target from at least a near term perspective. Would you like to share any 
+updates in terms of, you know, from the next two, three year perspective, what is the sustainable 
+revenue growth that the business can look at and where can let the margin settle in the next two or 
+three years? Any thoughts or color would be helpful. 
+ 
+Mr. Madhur Deora: Thank you. Yeah, I think the ranges that I mentioned earlier that you referred to 
+Manish is what we are targeting for the next year as well as in terms of growth, as well as longer term. 
+And yeah, the margin target for the next two to three years remains in that range. We do think that the 
+business has that much earnings potential, especially like what you mentioned, our indirect expenses 
+have come down because of all the AI that we have leveraged. So getting to higher EBITDA margins is a 
+lot easier in some ways because of lower cost structure. 
+ 
+Manish Adukia: Thank you so much. Very helpful. All the best. 
+ 
+Moderator: Thank you, Manish. The next question is from Sachin Dixit of JM Financials. Sachin, you may 
+ask your question. 
+ 
+Sachin Dixit: Thank you, Pranav, congrats team on a decent set of results across the board. My first 
+couple of questions are with regards to MDR. So let's say MDR comes up anywhere, whatever 25 - 30 
+bps, whatever the number it comes up, how much do you expect Paytm is likely to benefit from it, right, 
+in terms of your GMV, right? So if you think of let's say 25 basis points for MDR, can you get five, seven, 
+eight basis points out of it? 
+ 
+Mr. Vijay Shekhar Sharma: Logically, yes. That's rather conservative, but yes. 
+ 
+Sachin Dixit: And this is largely in line to how UPI incentives were being distributed? 
+ 
+ 
+Mr. Vijay Shekhar Sharma: UPI Incentives also have a lot of restrictions on the kind of payment they 
+factor in. For example, they don't factor in utility merchants, this merchant, that kind of merchant. So 
+incentive distribution of transactions and bps per transaction will not be an indication of MDR in my 
+opinion, because MDR is a wider payment piece. 
+ 
+Mr. Madhur Deora: One critical difference between UPI incentive and MDR is that incentive is only on 
+transactions less than ₹2,000. So just keeping that in mind, and then obviously there will be detailing. 
+And I think it's slightly premature for us to talk about exactly what the number will be, because there'll 
+be detailing as a part of this finalization what the MDR framework looks like and basis that we'll be able 
+to talk more. But yeah, Vijay has already given an indication. 
+ 
+Sachin Dixit: So sure. The second question would largely be on, let's say right now on surface level, it 
+feels like because the cost of incurring this business is already there in the P&L, whatever MDR comes, it 
+should directly fall all the way to EBITDA. Right. But when I'm also thinking of it, let's say monetization is 
+allowed on UPI MDR, it might result in heightened competitive intensity and the number of people might 
+try to gain that market share. So is it safe to assume that the margins will be significantly lower than 
+100% or it will be closer to 100%? 
+ 
+Mr. Madhur Deora: So when we think about what the likely scenarios are, and of course, like I said, it's a 
+bit premature because we don't know exactly which segments we are talking about and so on. We do 
+
+factor that for the larger merchants, there will be some competitive intensity and you may not be able to 
+exactly charge the cap or whatever that is. And then Vijay gave an indication, keeping that in mind. 
+ 
+So yes, it does factor in that you're not able to charge. And it is similar to what we do today on credit 
+cards and debit cards, right? So we are quite familiar with how that works, which is to say, on which 
+merchants are you able to make a slightly higher net payment margin and which merchants you make 
+slightly lower net payment margin. So yes, there's an understanding of competitive intensity and how it 
+relates to net payment margin within the construct of an overall cap. 
+ 
+Sachin Dixit: Got it. My second question is with regards to your business as it stands, right? So when you 
+look at your business and maybe the reason why, Vijay also alluded to that product is how you want to 
+differentiate in terms of customer acquisition. But do you also target some sort of ARPU per customer, 
+which is the driving metric behind how much you go about and try to invest behind acquiring a customer 
+or are you generally going to take the tech-led approach and let the consumer sort of affinity shape up 
+wherever it shapes up? 
+ 
+Mr. Vijay Shekhar Sharma: No, we do bother about it. That's why we are not randomly spending money 
+in acquiring customers when we got the UPI customer acquisition permission. Like you heard me say, 
+200 million customers, that's a fairly small subset of the potential consumer base that UPI will have. But 
+I'd rather have the material useful customer on the platform than to have a race of what do you do with 
+this customer.  
+ 
+Sachin Dixit; Got it, all right. Thanks so much and all the best. Thank you. 
+ 
+Moderator: Thank you, Sachin. The next question is from Rahul Jain of Dolat Capital. Rahul, you may 
+please ask your question. 
+ 
+Rahul Jain: Hi, hope my line is okay. So the question may sound a little repetitive, but just trying to 
+understand from a growth point of view, what are some of the opportunities that could be the bigger 
+driver for us going into next fiscal? Are they going to be the same set of segments which needs to do a 
+bigger lifting in FY26? Or do you think some of the current segments which are not performing so well be 
+it consumer side or personal loan side or any other thing that could pick up to add more traction, for 
+instance? 
+ 
+Mr. Madhur Deora: Yeah, I think, Rahul, I'd probably break that up into two logical parts. On the 
+merchant side of the business, we see the same trends really, right? If you look at the second half of last 
+year, of course, in the first half, our deployments were lower. But if you look at the second half of last 
+year, that's a pretty good indication of where the business is headed in terms of gross deployments, 
+GMV growth, highly engaged merchants, and then merchant loans. And all of those are very powerful 
+drivers. And I think most people tell us that that part of the business, they see structural advantages of 
+Paytm and very good momentum, more or less uninterrupted.  
+ 
+On the consumer side of the business, I would say that last year was a cyclical low. So on the one hand, 
+for about six or seven months, we were not adding new customers. On the other hand, the monetization 
+levers were slightly lower, partly due to credit cycle and so on. So if you think about going forward, Vijay 
+has talked about consumer growth and how that is going to come, product-led. And then eventually, 
+maybe we make slightly higher investments, but initially product-led. And then on the monetization side, 
+we see opportunities clearly on, if there was, for example, an easing of the credit cycle, that would have 
+
+a positive impact on personal loan and credit card. If we see a continued growth in trading volumes in 
+India, of course, in the last three or four months, there were some regulatory developments for the 
+industry, which lowered the trading volumes, but now the business is growing again. So Paytm Money, 
+which is our equity broking platform, we feel very interested in. And finally, advertising, where we think 
+there's a lot of opportunities for us to make more advertising revenue. 
+ 
+So on the consumer side, we're starting the year with a lot of optimism, both on the base, which is the 
+consumer, highly engaged consumers, a number of transactions and so on, as well as the monetization 
+opportunities through those three or four areas of upsell that I talked about. 
+ 
+Rahul Jain: Right, and just one more question. Just to understand how usage of this DLG has led to 
+increase in the take rates of what should be the, with the changing evolving mix of DLG, what should be 
+the ideal take rate for this segment? And secondly, how is it changing the perception of the lender in 
+terms of approving the whitelisted potential merchant loan client from our perspective? Has that 
+increased the threshold for the lenders? 
+ 
+Mr. Madhur Deora: Yeah, on the second question, I don't think we necessarily ask our lenders to change 
+their behavior just because they are DLG and we also hope that they don’t do that because we do want 
+eventually to target a range bound and predictable expected credit loss. We think that that is a 
+fundamental indicator that you are building a high quality franchise. So ultimately, as we said enough 
+and more times, it is the lender’s decision to say yes or no on loan but we don’t see a change in 
+behaviour nor do we encourage, request or expect a change in behaviour.  
+ 
+The expected credit losses on merchant lending has been quite positive since April, May last year, so we 
+do not have concerns that FLDGs are making them less disciplined on credit losses and I think that is the 
+good news. In terms of take rates, if you look at our historical take rates, it should be about 3-3.5% 
+higher on the merchant loan side, which on a blended basis probably means about 2% higher for 
+financial services, because obviously there's a percentage of it which is personal loans. 
+ 
+Rahul Jain: You're saying 200 bps more than the past or I could not follow that? 
+ 
+Mr. Madhur Deora: 200 bps more than the past, i.e. compared to the period when we were not doing 
+DLGs. 
+ 
+Rahul Jain: And it ideally should go higher as the mix improves, right? 
+ 
+Mr. Madhur Deora: Well, higher or lower, it would depend a little bit on Personal Loan versus Merchant 
+Loan mix and DLG versus non-DLG mix. Merchant loans do make us a slightly higher take rate anyway, 
+compared to personal loans. So there would be various factors, but yeah. 
+ 
+Mr. Vijay Shekhar Sharma: But overall, it doesn't make commercial difference in a different direction. It 
+is not a higher net rate actually.  
+ 
+Mr. Madhur Deora: Just to be clear, merchant loan, when I say 2%, I mean, the reason I say 2% is 
+because not all loans have FLDGs, right? So for loans, like for like, loans that don't have FLDG versus 
+loans that have FLDG, if we are giving about, let's say, 3.5% FLDG, then we expect to make 3.5% more 
+take rate. Maybe more, but 3.5% more take rate through the life of the loan, right? The 2% number I was 
+giving you is because not all loans have FLDG. So when you're talking about take rate and literally taking 
+
+revenue divided by loans, then you expect that to be, call it 2%, because, call it 50 - 60% of the loans 
+might have FLDG. 
+ 
+Rahul Jain: Right. And just a clarification, so 3.5, that is the minimum number, right? And if the 
+performance is better, it could be much higher than that. 
+ 
+Mr. Madhur Deora: But just 3.5%, I'm saying, assuming the same ECL, same partner, loan without FLDG, 
+loan with FLDG of 3.5%, the revenue would be 3.5% higher. And of course, you would have a FLDG cost 
+of 3.5%. So that's the point that I was making. Yes, depending on the performance of the loan, we do 
+make a collection incentive anyway, which at the same ECL would be the same, whether it's a non-DLG 
+loan or a DLG loan. 
+ 
+Rahul Jain: Okay. So, there's no extra incentive for doing a DLG for the same performance or outcome? 
+ 
+Mr. Madhur Deora: We don't do DLGs from the perspective that a DLG loan will make us more net take 
+rate. We do it because our lenders, in some cases, lending partners, rather, in some cases have a 
+preference for it. And as a result of that, the volumes tend to be higher. So a partner who may have done 
+X, if there was no DLG, may do 30%, 50% more if there is DLG. 
+ 
+Rahul Jain: Right. So it's a volume advantage versus price. Thank you. 
+ 
+Moderator: Yep. Thank you. The next question is from Piran Engineer of CLSA. Piran, you may ask your 
+question. 
+ 
+Piran Engineer: Yeah. Hi, team. Congrats on the quarter. Just firstly, on payment processing charges, 
+we've seen a good decline in the past two, three quarters. Is it just a function of mix or are we able to 
+negotiate better rates with our partners? 
+ 
+Mr. Madhur Deora: It is a bit of both. I think compared to last quarter, obviously, last quarter had a 
+festive season versus not. So that Q3 to Q4 tends to work a certain way. And then there is an element of 
+just continuously doing a better job on processing costs with our partners. And I think you saw that trend 
+in 2022 and 2023 as well. So we just continue to work on that. 
+ 
+Piran Engineer: And is there scope that this goes down further, assuming the mix remains stable? 
+ 
+Mr. Madhur Deora: There's always that effort, but I would point back to the net payment margin and 
+payment processing margin discussion, Piran, which sort of normalizes for this. So our effort is to 
+continue to improve payment processing margin across instruments and across merchant types. And 
+then payment processing costs sort of takes care of itself. And it is actually something that you have to 
+work on constantly to make sure that you are able to be competitive and attractive to your partners 
+while maintaining and improving our payment processing margins. 
+ 
+Piran Engineer: Okay, got it. And just secondly, you know, I don't mean to harp on this MDR thing, but if 
+you could just give us some sense right now, what are the talks like with the government? Is there a 
+particular pushback that they have, which is why it hasn't yet happened? Or is there sort of an 
+in-principle approval right now, but, you know, the concerned parties such as y'all and others are 
+discussing the nitty-gritty? 
+ 
+
+Mr Vijay Shekhar Sharma: We are the client of the network, not the network. We are the client of the 
+network, network in NPCI, who decides and works with all these partners. 
+ 
+Mr. Madhur Deora: I don't want to discuss all those things, but clearly the powers that be are discussing 
+this. And I'll go back to what we said a couple of months ago, which is that the industry is expecting this 
+to be a thing, and we will hear back on this hopefully soon. And then we'll have a little bit more clarity to 
+share in terms of how whatever that framework is has affected our business, and we'll share that quickly 
+with our stakeholders. 
+ 
+Piran Engineer: Okay. Fair enough. And just on Paytm money, if you could just broadly highlight what is 
+the revenue right now, if it is meaningful, and how do you think about this business over the next three 
+years? 
+ 
+Mr. Vijay Shekhar Sharma: It's not very large, but we do believe it's a great upside. It has a customer 
+lock-in also. So we have gone into mutual fund distribution. We are trying to find out MTF kind of margin 
+trading, et cetera, kind of monetization. And those have come out positive. So it doesn't take investment 
+anymore, but at the same time, it is a great opportunity. I can see that it is in so-called less trading 
+quarters, if you will, in the last couple of quarters, thanks to both F&O and normal trading being 
+reduced. It has been able to turn around well. 
+ 
+Piran Engineer: Okay, but like Vijay, could it be like, say, at least ₹200-300 crores annualized in terms of 
+revenues? 
+ 
+Mr. Vijay Shekhar Sharma: Yes, you can assume. I mean, it's not too far away. 
+ 
+Mr. Madhur Deora: That's about the scale, and it has a very good mutual fund business, which helps us, 
+like Vijay was saying, with customer lock-in, and it's a fantastic trading platform where we make most of 
+our revenue. And then we also launched MTF in December of last year, which is scaling up nicely. And 
+we're very positive that the customer retention is good, and we're very positive about scaling that 
+business over the next two or three years. 
+ 
+Piran Engineer: Got it. Okay. This was it from my end. Thank you. I wish you all the best. 
+ 
+Moderator: Thank you. The next question is from Vijit Jain of Citi. Vijit, you may ask your question. 
+ 
+Vijit Jain: Yeah. Hi. Thank you. And congratulations for the break-even, even excluding the UPI incentives. 
+So my first question is on the consumer business side, can you comment on the prospects of return of 
+wallet? I know some of your peers have introduced wallets recently. 
+ 
+And I've also noticed the app has gone through a lot of product changes, seems a bit more simple, 
+significantly more simple. So I just wanted to get your thoughts on what's driving that. Is that an 
+objective to kind of make the app light, increase user base to make it speedier, lighter, and those kinds of 
+things? So if you can broadly talk about that. 
+ 
+Mr Vijay Shekhar Sharma: Thank you. You're a user, I'm glad. And it was long due. We've been very 
+crowded, cluttered for a long enough time. And among various things as housekeeping exercise, my 
+personal interest was to make the app as simple as that we started this business with. So right now, I'm 
+glad that you're calling it out light, because surprisingly, no traffic or no internal businesses have less 
+
+traffic, if you will. In other words, that the lightness is rather not costing us any growth line item to cross 
+sell other line items. So that's the approach.  
+ 
+My theory is if customers love you impeccably well, and keeping the payment-led super app concept is 
+better than calling super app first, payment second. So payment first, super app roll second, versus super 
+app and payment second. That is the approach that we took, and we are seeing good results, and you 
+saw the uptick in the number of consumers that came back also. 
+ 
+And when you talk about wallet, I really wish we would have had it by now, as in terms of one way or 
+another, but we may be near a breakthrough or some solution to the way forward. So we are just trying 
+to keep it, think across and see. We have multiple options on the table, and we could decide not many 
+months ahead in the future what is the call that we'll take. We had a board meeting today, we did 
+discuss it, so we have something to discuss as management and come back on. 
+ 
+Vijit Jain: Correct. Thanks, Vijay. My next question is on, the shareholder letter also notes that you've 
+applied again for the payment aggregator license to RBI. So do we have any additional inputs on that, 
+and do you expect that to also come about in the near term? And yeah, I'll just follow up with a quick 
+question on MDR after that. Thank you. 
+ 
+Mr. Vijay Shekhar Sharma: Yes, we do. And there were some next steps that RBI suggested us to do, 
+we've been doing those. 
+ 
+Vijit Jain: Got it. Great, thanks. My last question is on the MDR incentives for the quarter, right? I know 
+the government has obviously slashed the incentives that they gave. This is almost smooth now, given 
+MDR is actually being expected. So the UPI incentive, sorry, is being slashed. And your share of UPI 
+transactions obviously in FY25 also went lower, still ₹70 crores seemed a bit low. So what I wanted to 
+understand is, did something change here? Or did your share of small merchant, small ticket transactions 
+was lower this year? Is that what drove the ₹70 crores number?  
+ 
+And relatedly, because I see that the payment processing charges are also significantly down quarter on 
+quarter. So I'm just wondering if I should just look at, you know, the net payment margins here and not 
+look too much around that ₹70 crore number, because that just seemed low to me. 
+ 
+Mr Madhur Deora: Yeah, so most of this is the reduction in incentive overall. So what GMV is eligible, 
+how much does the industry get paid? All of that has been reduced quite meaningfully. Like for like, we 
+would have made a little bit more. But the two factors that have affected us is that while we're doing 
+really, really well on the merchant payment side, right now, if you just take the average market share 
+through the year last year versus the previous year, it would have been slightly lower. 
+ 
+Because in the first half of the previous financial year, we did have some market share dips and also we 
+shared that very candidly. We talked about 8 lakh to 10 lakh devices, obviously it was a pattern from our 
+GMV data as well. So if you just take the average GMV, it would have been lower and obviously we're 
+talking about the entire year of UPI incentive. 
+ 
+And the second is that there were small changes to acquirer's share versus the rest of ecosystem share in 
+the new framework, which is to say the acquirer's share was slightly lower. So that affected us marginally 
+as well. 
+ 
+
+Vijit Jain: Got it. Thanks. 
+ 
+Mr. Madhur Deora: But this number wouldn't have been like, yes, compared to ₹288 crores, it looks like 
+a low number, but it wouldn't have been like ₹150 crores or something, right? It would have been 
+marginally higher if those two things had not happened. 
+ 
+Vijit Jain: Got it. Understood. Thank you. 
+ 
+Moderator: Thank you, Vijit. The next question is from Anand Dama of Emkay. Anand, you may please 
+ask your question. 
+ 
+Anand Dama: Yeah, thank you for the opportunity. My first question is on the Personal Loan business 
+that's still declining for us. Is it that the decline is attributed to, you know, most partners reducing their 
+business with us? Or is it that few partners were lumpy in nature? And that's where basically we are 
+seeing a decline. And by when do you expect the disbursement number to, you know, largely bottom 
+out? I think you've talked about in the presentation that possibly later part of the year, we should see 
+some pickup in that business, if you can just talk about that, number one.  
+ 
+Number two, your financial services customer base has declined quarter on quarter to 5.5 million. Is it 
+more seasonal in nature or there is something more to read into that? 
+ 
+Mr. Vijay Shekhar Sharma: Oh, Anand, the personal loan business, we are technically moving from 
+distribution plus collection business to pure distribution business. And there are partners, growth, 
+integrations and in due course, disbursements have been continuously growing. And I can say that we 
+believe that there is demand and supply in the market based on the credit cycle. The part where we also 
+do collection as an obligation is something that we will bring back on the table once the market or credit 
+cycle turns around.  
+ 
+So in a way, we right now are doing the business, which is pure distribution, like a marketplace 
+distribution. We have added a few more line items like loans against mutual funds, etc. And those will 
+and have started to pick back. So that's the reason for personal loans, not the same as QoQ. At the same 
+point of time, we are not going aggressively in the personal loan distribution business, where we do 
+believe that there is a large amount of stress in the overall market, which is getting eased out. 
+ 
+And instead of being aggressive, we let it be that whatever the lenders need and whatever the policy and 
+pricing lenders are doing, the market is behaving like that. So there is not much difference from our side 
+that we are doing less or more. 
+ 
+Mr. Madhur Deora: On the number of users, Anand, it was partly because of personal loans that Vijay 
+just talked about, and the volume disbursed number that you have seen, and it was partly in terms of 
+active users in the equity broking industry, which Paytm Money is a part of. As you might be aware, call it 
+from December to February, largely, there were some regulatory adjustments because they wanted 
+slightly less trading, if you will. So they increased, they reduced the number of settlement cycles and so 
+on in the industry. So overall, there's been a lot of press coverage that industry volumes are down about 
+30 - 40%. So the number of Paytm Money monthly active users would have declined along with the 
+industry. So those are the factors that make us very positive that this should start growing going forward. 
+ 
+
+Anand Dama: So the second question is on the DLG cost. So is it possible for you to share how much the 
+DLG cost in the current quarter? There is some trail income also that I've talked about on the DLG front. 
+What is that? Any new partners where you've gone for DLG in the current quarter? And one more 
+question is on the ESOP cost. So earlier, you used to provide the ESOP cost schedule. I think you just 
+provided for the first quarter how much it is going to be. Is it possible to provide it for the next two to 
+three years? 
+ 
+Mr. Madhur Deora: On ESOP cost, because we are sort of still finalizing certain grants right now, we 
+didn't want to share quite a number. The ₹75 - 100 crores that we have talked about is for the next few 
+quarters. So we expect that to be in the range. When we do the next quarterly filing, which will be two 
+odd months from now in July, we will share the updated ESOP cost schedule. So that is a feature that we 
+have this quarter. We didn't have it, and we put this range because it was sort of work in progress.  
+ 
+With respect to DLG costs, it's a slightly commercially sensitive information, so we don't share that. But 
+we have indicated on previous calls that blended, it's about 3% to 4% DLG that we give, and that is not 
+on all lending. It's largely on merchant lending, and it's not all lending partners, but it is a very substantial 
+majority of that. So based on that you could probably get some estimate of what that number is, but we 
+don't want to share exactly what that number is. 
+ 
+Anand Dama: Any new partners you have tied up with on a DLG front? 
+ 
+Mr. Madhur Deora: We currently have three partners on DLG. There'll be a DLG disclosure that will go up 
+on our website, which is already on our website. Sorry, I've been told. It is already on our website, which 
+talks about, it's a regulatory required disclosure, which talks about how much AUM you have under DLG, 
+under different, they call it portfolios. Each portfolio indicates for us a type of loan with a type of partner. 
+So portfolio one would be partner A, call it merchant loans. Portfolio B might be partner B, merchant 
+loans, and so on. So that is already on our website. 
+ 
+Anand Dama: Thanks. Thanks a lot. 
+ 
+Moderator: Thank you, Anand. Vijay will take one question from the chat window. 
+ 
+Mr. Vijay Shekhar Sharma: Yeah. I just saw this question from Ravi, who is from Bangalore.  
+ 
+I'm a long-term investor in Paytm. As an investor, I'm more interested in Paytm showing profit as early as 
+possible, as you're not able to show profit this quarter because of an exceptional expense of ₹522 crores 
+related to ESOPs. Did you consider splitting this expense to multiple quarters so that it could have 
+resulted in profit this quarter? Is there any compelling reason why you booked this full expense this 
+quarter? 
+ 
+Ravi, this is all an audit matter. The auditor decides, we follow, and the way the auditor suggested, we 
+did it. And as you can see, this exceptional charge is something which everybody logically should see as a 
+one-off, one-time and exceptional in nature. We are at the verge of PAT profitability, if you were to see 
+every other expenditure and thing. I'm very sure that in the next quarter onwards, if everything goes as 
+we are seeing, it could very well be a PAT profitable quarter. 
+ 
+Moderator: Thank you. The next question will be the last question. This is from Prateek Poddar of 
+Bandhan Mutual Fund. Prateek, you may please ask your question. 
+
+ 
+Prateek Poddar: Yeah. Just a couple of questions. One is, when I look at your key financial services 
+customers, on a sequential basis, there's a decline, whereas the financial services revenue income has 
+gone up. So, I just wanted to check what has happened over there. 
+ 
+Mr. Madhur Deora: So our financials, I think I just mentioned this a little while earlier, the financial 
+services customers have decreased largely in two segments. One is personal loans, where obviously 
+there's disbursal data to also look at, which we have shared. And the second is in Paytm money, on a 
+quarter-on-quarter basis, these numbers have reduced because from December to February, there's 
+some regulatory adjustments from the capital markets regulator, which affected the F&O industry 
+overall. There's enough and more news stories about how much trading volumes have gone down and so 
+on. We do expect that to recover, and we're already seeing recovery in that. So it definitely looks like it's 
+bottomed out. 
+ 
+Financial services revenue has grown because the highest margin and the highest ARPU product, if you 
+will, which is merchant loan, continues to do very well. Yeah. So you already got it. 
+ 
+Prateek Poddar: And so, last question. When I look at software, cloud, and data center cost on a 
+sequential basis, that has declined by 10%. I just wanted to check if there's any correlation with the total 
+number of transactions, because that seems to have gone up. So has there been some efficiency gains 
+over the year, or what has led to this 10%? 
+ 
+Mr. Vijay Shekhar Sharma: Yeah. Actually, that is what I've been continuously putting up. This is classic 
+AI. When you give AI an opportunity to review things, it goes beyond human logic that you typically use. 
+So you very well pointed out, and it is a very sharp eye, I must congratulate you. And this is attributable 
+simply to putting AI in every process and cost line item that, what do you think we should be doing? 
+What kind of practices we are doing, are following, what else we could do? Then, you know, I'll just give 
+you a clue about it.  
+ 
+Things like, let's say, you have a cloud where the machines are dedicated so that any spike, you are able 
+to take care of the minimum sort of permission. And then AI was able to say, based on your pattern, I 
+suggest that from this hour, typically in the night hour, you could just reduce them to dramatically low 
+volume. And then it's like, you know, day-end closing balance, float revenue kind of thing in the compute 
+industry also, where if you're not using compute for those hours, you can do it. Similarly, internally, we 
+are picking up AI inferencing in a way that we start to use the downtime of our peak systems or the time 
+when the peak traffic is not coming to do the inferencing. 
+ 
+So there are tons of insights. I mean, I'm glad that you pointed it out. And I'm going to point back that, 
+yes, it is efficiency by the team's effort on finding cost efficiency. 
+ 
+Mr. Madhur Deora:I just want to make two other quick points. One is that when we did the migrations in 
+the first half of last year, obviously, the most important thing was to do the migrations, right? And since 
+then, using AI, the team has been working hard on finding places where, because it was a time-bound 
+activity, finding places where we could have done things more efficiently if we had more time. So they're 
+solving those things.  
+ 
+Second is, while we're very pleased with the improvement, I would just slightly discourage us from 
+looking at quarter-on-quarter trends too much, because there is sometimes a little bit of volatility here 
+
+and there. But we are quite pleased that our tech teams and our DevOps team is very cost-sensitive. And 
+that is a good place to be as an organization. 
+ 
+Prateek Poddar: Got it. Fantastic. And best wishes for the future. 
+ 
+Mr. Vijay Shekhar Sharma: I'll take a few more questions from the chat window.  
+ 
+Lakshay Tavtari has said that, in the past, companies' core business faced significant challenges. Despite 
+these disruptions, companies have demonstrated remarkable resilience. Currently, there seems to be a 
+renewed focus on strengthening the core business. Given the unpredictable nature of the market, do you 
+believe it's strategically sound to double down on core, or with a diversified approach, exploring 
+adjacents or alternate business segments, offer a safety net for long-term stability and growth?  
+ 
+Very, very good question, Laksh. And my answer would be that, in India, we have an obligation to focus 
+on the core, because that is what the business model has become: scalable, profitable, identified, 
+learned, and so on and so forth. And the best part I can tell you is that we are able to see that result, as 
+you are seeing. And as far as adjacency and alternate is concerned, we have tried to find out software, 
+services, software that we can expand to other fintech banks or other people, which we also found out 
+in neighboring geographies also. So that is our alternate additional market or incremental revenue that 
+we found out. It's very simple, no incremental, much cost, and you got more revenue on the bottom line 
+side. So, Lakshay, that is where it is. 
+ 
+And I can see Srinath asking, share your three-year vision on innovation on this platform of payment and 
+financial services. What new product can we expect? 
+ 
+Srinath, I'm going to say that when we look at three years, the best thing is the products that we are 
+talking about. I mean, in other words, it's like saying you can continue to expect payment and 
+cross-selling of financial services continuously going much deeper in the last three years. The cost and 
+the innovations of the quality of product will be very, very different. As you are aware, we started to 
+build new products and services. App you saw, consumer side, and devices you saw. So tons of machines 
+and AI-based capability will be in all workflows. I'm especially, I mean, not going to say the particular 
+feature right now in this call right now, because this is a more earning call. 
+ 
+But you can expect us to build continued innovations in consumer and merchant sites as we have done 
+in the past. And what we are building, I'm very, very proud of and very, very excited about those things.  
+ 
+Would you probably be a 100 billion business by 2035? Thank you. I mean, this is an earning call.  
+ 
+When will ESOP reduce, will the shareholder get a dividend or share appreciation? I think ESOP cost, as 
+you are aware, we had one time charge and overall ESOP costs have reduced quarter on quarter. Next 
+quarter onwards, that will be much lesser, all because of this one time charge that we have incurred in 
+this quarter. 
+ 
+Mr. Madhur Deora: And because Vijay gave up his ESOPs. So instead of ₹169 crores last quarter of ESOP 
+charge going forward, we have currently given an indication of no more than ₹75 - 100 crores. And we'll 
+update that guidance in the next couple of quarters. So it's going to be a significantly lower ESOP charge 
+going forward. 
+ 
+
+Moderator: With that, we come to an end of this call. A replay of this earnings call and the transcript will 
+be made available on the company website subsequently. Thank you all for joining. You may now 
+disconnect your lines. Thank you. 
+  
+ 

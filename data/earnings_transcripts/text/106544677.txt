@@ -1,0 +1,751 @@
+ 
+        DiGiSPICE Technologies Limited 
+         CIN – L72900DL1986PLC330369 
+         Regd. Office: JA-122, 1st Floor, DLF Tower A, Jasola, New Delhi – 110025, Tel: +91 11 41251965 
+         Corp. Office: Spice Global Knowledge Park, 19A & 19B, Sector – 125, Noida – 201301, Uttar Pradesh, India – Tel: +91 120 5029101 
+         Email ID: complianceofficer@digispice.com  | Website: www.digispice.com 
+ 
+ 
+ 
+Date: 25th February, 2026 
+ 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai – 400001 
+Scrip Code: 517214 
+National Stock Exchange of India Limited 
+Exchange Plaza, Plot No. C/1, G Block 
+Bandra – Kurla Complex, Bandra (E) 
+Mumbai – 400051 
+Scrip Code: DIGISPICE 
+ 
+Sub.: Transcript of the Investors/Analysts Conference Call held on 19th February, 2026 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 30 read with Regulation 46 of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, please find attached 
+herewith the transcript of the Investors/ Analyst Call held on 19th February, 2026 with senior 
+management team. 
+ 
+The 
+transcript 
+will 
+also 
+be 
+available 
+on 
+the 
+website 
+of 
+the 
+Company 
+at: 
+https://investorrelations.digispice.com/information.php?page=transcripts. 
+ 
+You are requested to kindly take the above on record and acknowledge the receipt of the same.  
+ 
+Thanking you. 
+Yours faithfully,  
+ 
+For DiGiSPICE Technologies Limited 
+ 
+ 
+(Pankaj Arora) 
+Company Secretary and Compliance Officer 
+ 
+ 
+ 
+PANKAJ 
+ARORA
+Digitally signed by PANKAJ ARORA 
+DN: c=IN, o=Personal, title=3503, 
+2.5.4.20=c550fa1e86e26546090bf40b22365898e4c920436012976122041f196ab
+f9a70, postalCode=110032, st=Delhi, 
+serialNumber=a54c0541f004946777b26ad20027def509fd50e2c957c0c707774ff
+d178786af, cn=PANKAJ ARORA 
+Date: 2026.02.25 17:59:10 +05'30'
+
+     
+ 
+ 
+ 
+Page 1 of 16 
+ 
+ 
+DiGiSPICE Technologies Limited 
+Q3 & Nine Months’ FY 2026 Earnings Call 
+February 19, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Management Participants:  
+Mr. Dilip Modi: Chairman, DiGiSPICE Technologies Limited & Chief Executive Officer, 
+Spice Money Limited  
+Mr. Sunil Kapoor: Whole Time Director & Chief Financial Officer, Spice Money Limited  
+Ms. Aastha Garg: Head Investor Relations, Spice Money Limited  
+ 
+ 
+Moderator:  
+Ms. Hashika Mutreja: Investor Relations Partner, Adfactors PR 
+ 
+
+ 
+ 
+ 
+ 
+Page 2 of 16 
+ 
+Hashika: 
+Good afternoon everyone, a warm welcome to you all and thank you for joining us today for 
+the Q3 and nine-month FY 2026 Earnings Webinar of DiGiSPICE Technologies Limited. 
+We are pleased to have with us today Mr. Dilip Modi – the Chairman of DiGiSPICE Technologies 
+Limited, Mr. Sunil Kapoor – the Whole-time Director and Chief Financial Officer of Spice Money 
+Limited, Ms. Aastha Garg – Head of Investor Relations, Spice Money Limited. 
+We will start the session with the management providing an overview of the operational and 
+Financial Performance for the Quarter and nine-month ended FY 2026, post which we will have 
+an interactive Q&A session. 
+Before we begin, I would like to draw your attention to the fact that certain statements made 
+during this call may be forward-looking in nature. These statements are subjected to risk and 
+uncertainty that could cause actual results to differ materially. A statement in this regard has 
+been included in the result presentation sent to you earlier. 
+With that, I would now like to invite Mr. Dilip Modi to commence the presentation. Thank you 
+and over to you, sir. 
+Dilip Modi: 
+Thank you, Hashika. Good afternoon, everyone. Thank you for taking out the time to join us 
+today. You know, we at Spice Money are continuing our journey of building a strong, trusted 
+financial services platform for Bharat. You know, we are all committed to the goal of driving 
+digital-led financial inclusion. And at Spice Money, we have been working quarter on quarter 
+to make sure that we continue down this path. 
+Today we are here to present to you how we have done in Quarter 3 of this financial year. And 
+in the Q&A I would love to, we would all love to talk to you guys about any points you may have 
+about where we are heading as a business, what is it that we are looking forward to, and what 
+continues to drive us on a daily basis.  
+So, let me start with the presentation by talking about the Spice Bharat Stack, which is what 
+we are building for, at Spice Money. So, effectively, if I look at the three elements of the Bharat 
+Stack that we are building; one is the Agent Platform, second is the Consumer Platform, and 
+third is the Lending Platform.  
+So, effectively today, as an Agent Platform, this is our core business. We are one of the leading 
+Agent Platforms in small towns. We are now reaching over 2.6 lakh small towns with over 1.6 
+million agents who use our App to deliver basic banking and financial services to over 170 
+million customers in small towns and villages of India. In terms of transactions on basic banking, 
+the Aadhaar-enabled payment system, which is people using Aadhaar to withdraw and deposit 
+
+ 
+ 
+ 
+ 
+Page 3 of 16 
+cash and do funds transfer, we are the number one player. We have closed Quarter 3 at close 
+to 18.64% market share in the Off-Us segment and we continue to consolidate our market 
+share in this segment.  
+Going forward, there are lots of new products, we are looking to launch for our agents to 
+deliver in their communities. In the GFF, we had spoken about launching the UPI Cash Point. 
+So, today if you look at customers at large, when they go to their ATMs to withdraw cash, they 
+mainly use Card. In our case, customers are using Card plus Aadhaar. Now towards the close of 
+this Quarter 4, we are looking to enable customers to be able to withdraw cash using UPI. As 
+we know that UPI is scaling up very fast. As a country, we are now significantly penetrated on 
+UPI users, and therefore we are looking at our agent network doubling up as a UPI Cash Point 
+network where customers with UPI Apps can now come and withdraw cash at our agent points 
+using UPI. So, UPI is going to be a big layer that is getting at added on to our AePS, and this will 
+be an accretive business when it comes to cash withdrawal because now more and more 
+customers are coming in with smartphones with UPI Apps. 
+Our goal at Spice Money is to make sure that we build a full Stack Financial Services Distribution 
+Play for small merchants and consumers in Bharat, and we will talk you through in terms of 
+how far we have reached that.  
+In terms of just overall business, I would say that we have now reached a stage from a P&L 
+point of view where we are a steady platform, you know, we are beginning to see operating 
+leverage kick in. If you look at our indirect costs, we have managed to hold them year on year, 
+quarter on quarter while we have tried to grow on gross margin, which is our net income. 
+So, if you really look at it for the nine months, this financial year, we have delivered close to Rs. 
+20 crores profit compared to Rs. 4 crores for the nine months previous year. So, effectively, 
+this is all a function of operating leverage that has begun to kick in and we are hoping that as 
+we add more products to our agent network, we will be able to further strengthen on our 
+operating leverage to drive a profitable growth.  
+In terms of new engines, Lending and Spice Pay are our two new engines: 
+ 
+On the Lending Business, we are beginning to see good traction, you know, as we 
+consolidate our market share in AePS, we are seeing more agents transact and we 
+are able to now lend, to enable lending to these agents. And we have seen those 
+lending numbers grow. So, you know, we work here as a loan service provider with 
+an FLDG model. We have seen the business here also scale. So, effectively, you will 
+go through the numbers. What we did in the whole of last financial year, we have 
+done in a single quarter, close to in a single quarter in Quarter 3. So, again, the 
+Lending Business is growing and we will talk more about that.  
+
+ 
+ 
+ 
+ 
+Page 4 of 16 
+ 
+On Spice Pay, as I mentioned here, we have over 170 million customers who transact 
+on our platform every month. One of the things that we are looking at, is to bring 
+them on to UPI. So, today with Spice Pay, we have the ability to give them a UPI 
+account with a UPI ID and they can use this account to put in cash using our Agent 
+Network and then transact with the UPI ID. So, the whole idea is to bring customers 
+with a new UPI account to be able to do transactions. Now more and more people 
+are looking to do digital transactions and therefore our goal is to use our PPI account 
+to be able to enable new to UPI users to come on board. 
+So, overall, the Agency Business, the Lending Business and the Consumer Business, we are 
+continuing to grow and our goal is to build a full Stack Financial Services Play for small towns, 
+merchants and consumers.  
+Moving on to the next page, if I was to talk about some of the key highlights, Quarter 3 has 
+been a muted quarter for us in terms of GTV growth. This is really on the back of the fact that 
+we saw huge subsidy flows in the first half of the year and therefore, you know, just on a 
+relative comparison quarter on quarter, we see a dip in GTV because of the nature of the 
+subsidy flows in terms of seasonality. 
+Also, in terms of our collections business, there has been a whole restructuring of MFI and 
+NBFCs where there has been a consolidation of books and therefore a slowdown in lending and 
+that is reflected in our collections pie. So, that is more, I would say, the nature of seasonality, 
+the AePS business and the way the MFI and NBFC industry is consolidating. So, that has got 
+reflected on our quarter on quarter numbers. 
+The second highlight is, of course, the labor code has cut it. So, that has had an impact on our 
+P&L, we will show you the impact. 
+Our credit, like I spoke about, you know, what we did on the FLDG model all of last year, we 
+have done in a single quarter close, close to that in a single quarter. So, now the credit business 
+has begun to grow, both in terms of disbursals as well as gross margins. And we are trying to 
+make sure that we can contain our credit losses here. So, this is an embedded credit business 
+linked to our transactions on our platform. So, we are able to contain on risk here and 
+whenever we report gross margins, it is net of the risk. And therefore, we believe that, amongst 
+the two new engines of Credit and SPICE Pay, the Credit has already begun to move in a 
+direction towards profitability. 
+And then overall, I spoke about operating leverage. We are focusing on ensuring that month 
+on month, quarter on quarter, we continue to focus on operational efficiency, whether it is in 
+terms of cost optimization, margin improvement, in terms of product mix, and making sure 
+that we build in efficiency in all our metrics. So, this is something that we will continue to chase.  
+
+ 
+ 
+ 
+ 
+Page 5 of 16 
+Just in terms of Innovation and Growth, you know, we are now with this Agent Platform. We 
+have the pipes and the idea is to distribute more products to the pipes. So, we continue to look 
+at launching new products. We have entered the Insurance Category with two new products 
+around Shop insurance and Mobile Screen Protection. Most of our Adhikaris run shops and, 
+you know, being able to give them cover for the business they run, is something that we are 
+excited about. And we are now building more products for insurance in the pipeline.  
+Given the nature of the market we are in, people are looking for credit cards, it is an aspirational 
+product. So, but given the nature of our market, rather than give unsecured cards, we are 
+working with partners to give secured cards. We again see a big opportunity in this space and 
+we are looking to scale it.  
+And then Savings continues to be a big area we are focused on. We are very excited with some 
+new partnerships that we are looking to stitch in, in the Savings space. And given the rural 
+nature of our business, we are also looking at Agri-Commerce as one area to be able to drive 
+income for our agents. So, overall, innovation, execution and looking at our customer base and 
+looking at what all products we can build for them, continues to be our focus to drive 
+sustainable long term growth. 
+Now, just looking at some key metrics on the next slide, if you look at each of the rows on the 
+top, like I spoke about 1.6 million agents, so close to 16.4 lakh now registered agents on our 
+Spice Money platform, over 2.55 lakh small towns covered. On a monthly basis, we serve close 
+to 27 million customers and we have a thousand-member team, majority of whom are also on 
+the ground. Just in terms of numbers, on a year on year basis, we have seen growth in almost 
+all the key product metrics, except for collections, which is the cash management service 
+business, where we have de-grown and I explained to you as to what is the reason in terms of 
+what is happening in the MFI and NBFC industry. So, this is something that, you know, we are 
+seeing some short term pressures and maybe they will continue for a quarter or two until we 
+are able to look at enhancing our product suite around digital collections and doing more for 
+our partners. Otherwise, if you look at AePS, BBPS, CASA, which is our current account saving 
+account product, and more importantly, the float balance associated with the products, as well 
+as our credit distribution metrics, almost all of them have grown year on year and all of this 
+data is available to you online, you can please consume it in your own time.  
+If you look at the Financial Indicators, our focus is gross margin. So, we continue to focus on 
+growing gross margin a quarter on quarter and year on year. And that is what drives underlying 
+profitability and growth. We are a zero debt business. So, our focus is to stay asset light, you 
+know, build our ROIs through ensuring that we can drive more operating leverage in our 
+business. 
+And overall, we are excited with the future because we see that, if India has to grow into a 
+multi trillion-dollar economy, you know, these small town economies have to deliver. And we 
+
+ 
+ 
+ 
+ 
+Page 6 of 16 
+are building the underlying financial bedrock in terms of, last mile banking infrastructure layer 
+between product manufacturers and small businesses. And therefore, we can provide for 
+access and unit economics to financial institutions to serve small businesses as well as small 
+businesses being able to access financial products in a far more economical way using the agent 
+network that we have on the ground. 
+So, I look forward to the Q&A that we have later. And I will hand over now to Sunil to walk us 
+through the numbers. Over to you, Sunil. 
+Sunil Kapoor: 
+Thanks Dilip. So, on the number side, this quarter number has a degrowth of 4% on the 
+customer GTV. And consequently, our revenue is also down, but we are able to maintain the 
+gross margin almost at the same level, only 1% down. We have already called out that this was 
+a muted Quarter, but we are able to hold our gross margin. And if you see on the indirect cost, 
+what Dilip has also called out that we are keeping the operating efficiency in check always. And 
+if we compare it from the previous year also, that is, we have the same cost, operating cost 
+and whatever the gross margin improvement in the last nine months compared to the previous 
+nine months that is flowing straight to EBITDA.  
+And on the EBIT side also, consequently from the EBITDA side, that is, we are able to kind of 
+hold the EBIT margins a little bit down but hopefully in the next quarter, we will catch up on 
+the gross margin and EBITDA also and will be able to boost the growth instead.  
+And if you see on the YTD numbers, the PAT is almost Rs. 21 crores against Rs. 4 crores in the 
+previous year, nine months. And there is a considerable growth and improvement. And that is 
+primarily due to the, what the gross margin and holding the cost at the same level. And if you 
+see on the PAT discontinued business, there is a slight one time additional expenses come in, 
+but that has keep on, we are trying to contain it and not more than Rs. 1.5 crores, a year kind 
+of will be hit for the PAT discontinued business, but we are working on that. Hopefully in the 
+next year, first half, we will be able to take this discontinued business to zero level, so it does 
+not impact our P&L. And PAT, there is also one point with respect to the labor code impact, 
+which has come as an exceptional item, which we have shown as a net of tax purposes, because 
+it creates a deferred taxation asset on the provisional amounts on the gratuity and leave 
+encashment. And consequently, the profit, PAT after all notional gain and losses Rs. 2.4 crores 
+for this Quarter and Rs. 16.5 crores for the nine months all put together.  
+So, this is all about numbers. I am handing over this this PPT to be run by Aastha. So, she can 
+take us through the other product metrics and numbers. 
+Aastha Garg: 
+Thank you Sunil sir. Good afternoon everyone. I will be covering some of the key business 
+updates for this quarter. 
+
+ 
+ 
+ 
+ 
+Page 7 of 16 
+So, starting with the Agent Base, we are continuously working to expand on our Agent Base 
+across India. Our focus here remains on deepening our presence, region by region and to 
+ensure that we are trying to build an optimal estimate density across regions so that we are 
+present in every market that we are we are operating in. This will allow us to effectively deliver 
+last mile services to our customers and also improve accessibility for them across Bharat. Dilip 
+sir and Sunil sir have already fairly covered about how our GMs and GTVs have fared this 
+quarter.  
+Moving to the next slide, Viral. Looking at this in detail, we can see that the GTVs and GMs are 
+fairly muted as compared to the previous quarter. But if we see the year-on-year numbers, we 
+have seen the AePS GTVs almost grow 13.2% as compared to the same quarter last year. And 
+even though the CMS volumes have not grown, but we have been able to hold our gross 
+margins on the CMS side also, which has led to our overall gross margin grow as compared to 
+the last year same quarter. And the new buckets also we see that have almost doubled as 
+compared to what we were doing in the last year same quarter. 
+So, overall, we see there has been improvement in our gross margins as compared to what we 
+were doing last year, though this quarter is fairly muted considering seasonality that Dilip Sir 
+has already talked about. But let us discuss on the product-wise matrix in the slides ahead. Let 
+us move to the next slide. 
+So, talking about AePS, where we enable cash withdrawal for our customers across India, we 
+have been continuously consolidating and growing our market share. As we have already 
+highlighted in the earlier quarters as well, cash deposit and UPI cash withdrawal are the next 
+big opportunities for us in this space. If we see in AePS, Dilip Sir already mentioned, our market 
+share is now touching 18.64% in this quarter, so there is growth there. And as well as if we see 
+that almost Rs. 400 crores we are touching on the cash deposit GTVs also. So, on that front 
+also, we are seeing growth. 
+On top of the AePS business, the next big product that we have built is the Collections product. 
+So, moving to the next slide. So, in collections, we already talked about that, the industry has 
+seen fairly competitive pricing pressures here. So, we are working in a fairly competitive 
+industry and we are trying to hold our margins and to grow overall in this margin competitive 
+industry. We are trying to strengthen our supply side, by bringing in more lenders, so there is 
+growth in our Lender Segment. 
+And then we are wanting to build a good product suite with our partnerships that we are 
+working with, so that we can serve them well and grow in this space.  
+Talking about the digital collection side, which is the BBPS product, let us move to the next 
+slide. Here also, we are seeing a continuous growth. Though the growth is slow, we can see our 
+GTVs improving, both quarter on quarter as well as year on year. And if we see the repeat 
+
+ 
+ 
+ 
+ 
+Page 8 of 16 
+engagement base on our platform also, that is also fairly growing every quarter. So, that makes 
+us believe that there is opportunity in this segment as more and more digitization happens, the 
+GTVs in this space will also grow. 
+Coming to the Financial Product Distribution, where we started our journey with CASA. Let us 
+move to the next slide. So, on CASA also, we have now touched opening close to 15 lakh plus 
+accounts across India, where almost  Rs. 260 crores of float balances are lying. And we have 
+almost 35,000 plus SMAs who have opened more than 5 accounts till date. So, we can say that 
+there are healthy balances that are being maintained in these accounts, an average of almost 
+2000. So, that is a good growth that we have seen on this product. 
+And the next thing that we are focusing here, is basically growing on the basis of cross-sell and 
+up-sell. So, now I come to discussing about the more important updates on the side of credit 
+that have happened in this quarter. So, Dilip sir already mentioned that this is the business that 
+we have been building, where we are building our own Lending Model based on transaction 
+data using a shared risk FLDG structure. So, this model is the foundation of our long term plan 
+for responsible and scalable lending that we want to do for Bharat. Our focus here has been on 
+two scalable engines. One is the transaction led lending for our own SMA base. And the other 
+is MSME business loans. The efforts that we have been doing in the last one year now have 
+started showing traction. And if we see the numbers in FY 2025, where we did a GTV of almost 
+Rs. 20.5 crore, in this quarter alone, we have delivered disbursements of almost Rs. 19.2 crore. 
+So, we can fairly say that we have successfully validated this model for our own SMA base. 
+Now, what is the next step here is, that we have to focus on the agents beyond our SMA base 
+to grow this product. 
+On the Vyapar loan side, which is the MSME business loans, we have already launched it in this 
+quarter in partnership with Muthoot FinCorp. And we will be actively working to scale this 
+further in the coming quarters.  
+Now, talking about the other big growth engine for future, which is the Financial Product 
+Distribution, let us move to the next slide. So, talking about this, if we see on the top, under 
+Financial Product Distribution, we are currently distributing loans, including gold, as well as 
+other credit products for our partner lenders. Our focus has been on strengthening the supply 
+side in this product by bringing in more lenders, as well as diversifying the product suite 
+available for distribution. So, we have seen a fair buildup of this business in the last couple of 
+years. And if we see the numbers on the loan disbursement, we can see that we have grown 
+almost 2.6x year on year on the value of disbursements against a volume growth of almost 2.1x 
+year on year. So, while there has been some decline that we can see in numbers this quarter 
+as compared to the previous quarter, this was primarily due to some realignment that 
+happened with one of the major lenders that we do business with. 
+
+ 
+ 
+ 
+ 
+Page 9 of 16 
+Beyond credit distribution, we have also started selling FD backed credit cards in partnership 
+with ZET. So, we have sold close to 2500 cards till date with an active SMA of almost 10,000 on 
+this product, which is a till date number.  
+On insurance side also, which was one of the key products that we were working to get on our 
+platform, we can say that we launched this product in Q2 on a couple of categories. And till 
+date, we have sold almost 10,000 policies so far. So, the next big thing that we will be working 
+on this product side, will at least enabling four to five more categories of products in both 
+secured credit as well as insurance side. I will say that we started the Financial Product 
+Distribution journey by opening CASA accounts. And then we built up loan distribution on top 
+of that. And now we have entered the insurance space as well. The next big opportunity for us 
+in this space lies on the sides of savings and investments and we will be actively working to 
+launch them next. Now, I think I will hand over to Mr. Dilip for the closing remarks. 
+Dilip Modi: 
+Thank you, Aastha. Thank you. Can we move to the next slide, please? So, I have two slides to 
+close. Effectively on this slide, I just want to bring out to all of you that our commitment is to 
+drive deep penetration of formal financial services in Bharat, are the 1.4 billion people in our 
+country, nearly a billion people live in small towns and rural Bharat. And we want to be able to 
+serve them when it comes to formal financial services. As I said, we are already a leading, you 
+know, AEPS led ATM network for Bharat, where we have close to 18.5% market share. Our 
+commitment is to deepen this further and build Bharat's largest assisted ATM network. Just to 
+give you a sense of numbers, ATM industry as a whole talk about about 2.2 lakh ATM machines. 
+Networks like ours, have onboarded nearly 20 lakh, you know, human ATM points across small 
+towns and villages of which we have got 16 lakh. So, for us, the whole goal is to deepen because 
+when you talk about ATM networks to build confidence and trust in customers, which is a cash 
+first economy, the ability to move cash in and out of bank accounts actually gives them 
+confidence to keep their money in the bank account. So, effectively for us, the withdrawal and 
+deposit nature of the network allows us to not only enable them to pull money out when they 
+need it with the guardrails, but also be able to deposit cash. If we have to grow UPI penetration 
+in the country, we have to make it easy for people to put money into their bank account. And 
+today, with AePS seeding and we are looking forward to more and more banks coming into 
+this, we can actually enable a very large penetration of network, easy convenience for 
+consumers to be able to put money into their account and do UPI. So, we are committed to 
+building on the ATM side.  
+Collections again, we are an economy where lots of loans are given to small merchants and 
+consumers in Bharat but the main challenges around collections. How do we make sure that 
+the deep ATM network that we are building in Bharat also doubles up and serves as one of the 
+largest rural cash collection networks for Bharat and I think this is also something that we are 
+already on this journey. We have both the bilateral relationships with our enterprise partners 
+and we are excited about the BBPS platform as well. And we are committed to growing this. 
+So, it is not just ATM, but also collections.  
+
+ 
+ 
+ 
+ 
+Page 10 of 16 
+And then finally, just on the network, our goal to build a deep Financial Distribution Grid for 
+Bharat can you just go back to the previous slide, please? Yes, so our goal is, you know, like 
+Aastha mentioned around credit, savings, investment, insurance, making sure that we can build 
+capability and capacity of our agents for them to be able to do more for their communities. So, 
+this last mile access network is a huge opportunity for us to work with our ecosystem partners 
+to actually bring formal financial products, reduce cost of credit, try penetration of insurance, 
+savings and investments into deep Bharat, into deep rural India, into small towns. And that is 
+something we are excited about.  
+On our own products, we are focusing on credit and PPI, we see our prepaid instrument as a 
+great opportunity to put a very easy to use UPI account in the hands of our consumers and be 
+able to do more with that account. Right. We want to make it easy for them to move cash into 
+accounts and to be able to transact using the accounts with us, very easy to use App on their 
+basic smartphone. So, this is something that we are committed to bring the next 100+ million 
+UPI users onto UPI. And as far as lending is concerned, we are already well on our journey 
+where we build proprietary models for our own agents and we want to build on that for 
+merchants sitting around the agents. So, if you look at it, we have got the agency business that 
+we are scaling. We have operating leverage. And on the back of this, we are building our two 
+core businesses around spending, savings, investments on the digital side and lending as well. 
+So, all of these are coming together for us to build a very strong financial services stack for 
+Bharat.  
+And let me close with our ecosystem partnerships on the next slide, we do this because of the 
+blessings of the regulator and we have the requisite licenses which allow us to do what we do. 
+We have partnerships with leading banks, partnerships with leading lenders and partnerships 
+with leading NBFCs and MFIs where,  we are looking to provide services to them when it comes 
+to opening accounts, driving origination, driving collections, also supporting them on risk and 
+underwriting. And like Aastha said, we have entered insurance, it is a huge category. We need 
+to solve for it. We need to drive micro insurance products into Bharat. And we will make sure 
+that we can work with our business partners to leverage our network to be able to deliver it in 
+a cost effective way. So, with that, I thank you for giving us time. And I will hand it back to 
+Hashika for the Q&A. Thank you. 
+Hashika: 
+Thank you so much, Mr. Dilip. We will now open the floor for Q&A session. Participants who 
+wish to ask a question are requested to use the raise hand feature to ask the question. 
+Alternatively, you may share your questions in the chat box and we will take them up during 
+the session. We would just request all the participants to kindly introduce themselves by stating 
+their name and their organization before asking the question. Thank you. We will take the first 
+question from Mr. Gulshan Singh. 
+
+ 
+ 
+ 
+ 
+Page 11 of 16 
+Gulshan Singh: 
+Just wanted to start with the quarter overall. GTV was a bit soft sequentially. Should we think 
+of this as largely normalization after elevated AePS subsidized last quarter? Or are you seeing 
+some underlining slow down as well? 
+Dilip Modi: 
+Thank you, Gulshan for your question. I would say that, definitely H1 this year, we saw a 
+significant subsidy flows, even more than what we had expected. So, I would say that we would 
+want to factor in the seasonality or the fact that there was a significant shoot up in subsidies 
+and therefore on a relative basis, there is a dip in GTV. I think the underlying slowdown, 
+Gulshan, is more related to the lending book of MFIs and NBFCs. I think as they have been 
+consolidating on their NPAs and making sure that they are able to consolidate and restructure 
+their books, we have seen a bit of slowdown in lending. We hope that will come back as the 
+books become easier, lighter in terms of bad debt. And I think directionally, our goal is to, you 
+know, deepen our density, which means increase the reach of our SMAs per household. We 
+continue to strengthen on our product suite, which means that we want to drive more 
+transactions through our agent base. So, we are hoping that, a combination of multiple things 
+can help us to continue to grow on transactions and revenue. So, I would say that, it is a 
+combination of multiple factors. But I think we will know better as we move forward in the next 
+few quarters. 
+Hashika: 
+Thank you, sir. I hope that answers your question. We have the next question from Agarwal 
+Family Office. 
+Agarwal Family Office: 
+Gross margin percentage on revenue improved to 47 % this quarter. Is this sustainable or partly 
+driven by low margin CMS volumes? And where do you see steady state gross margin settling 
+over the next two to three years? 
+Dilip Modi: 
+Yes, Aastha you want to just talk about the drivers of the growth in gross margin. And then, of 
+course, next two to three years, we will take separately. 
+Aastha Garg: 
+Yes, so on the first part of the question, where we are talking about gross margin improvement 
+to almost 47% this quarter. So, obviously, one thing that is mentioned here in the question 
+itself, that the CMS volumes are dropping, which is a low margin business, which is looking like 
+as if the margins are coming from the low margin CMS volumes going away, while that is not 
+the actual case. The CMS that is decreased for us is basically on the side of one major client 
+that we are working with, where the margins were in itself very low. So, when the volumes 
+with that one client has decreased, our overall CMS margins have grown up. So, that is in turn 
+helped us grow our overall margins on the CMS side. 
+On AePS side also, I think we are pretty good on the margins with our continuous subscription 
+packs being in place. We are able to provide values to the Adhikaris for the transactions that 
+they are doing on our platform. Hence, they are increasing the number of transactions they do 
+with us. And hence, we are growing both on our market share side, consolidating the business 
+
+ 
+ 
+ 
+ 
+Page 12 of 16 
+and the margins are also in place. So, if we talk about why the gross margins have in turn grown 
+so much in this quarter, which is fairly because of the operational efficiencies that we have 
+been working on, especially on the sides of the direct cost. We have a lot of charges that we 
+have to pay to the banks or other third parties to do this business. And we have been optimizing 
+on that. And that has led to this improvement in our gross margins. If we say that what this 
+could look like as a trend in the coming quarters also, we could say that this would somewhere 
+look like somewhere between 44% to 45%, on an average for a quarter. 
+Dilip Modi: 
+Yes. Hashika, should we continue with the questions in the chat? 
+Hashika: 
+Yes. The next question is from Rahul Kumar. 
+Rahul Kumar: 
+With UPI cash withdrawals and AePS cash deposits evolving, do you see assisted models 
+becoming more infrastructure like utilities over time? 
+Dilip Modi: 
+Absolutely, Rahul. I think absolutely, because when I said industry, we are talking about growth 
+of UPI. As I mentioned, this is literally building out an infrastructure at the last mile, because at 
+the end of the day, to do a UPI, to be able to do digital, you have to have a transacting bank 
+account and to be having a transacting bank account, you have to make it easy for people to 
+put money into the bank account. Now when you talk about things like AePS cash deposit, 
+almost now, almost all accounts are seeded with Aadhaar biometrics across all small towns and 
+rural. And this is a great opportunity, in fact, not just in small towns, but in big towns as well, 
+where it is easy for people to move cash. And I think what we have observed in all our 
+experience in building this platform over the last few years is that, this ease of putting money,  
+into and withdrawing an account, we have seen situations where people have had to travel a 
+distance to withdraw cash. And the reason they withdraw all the money and spend the money, 
+spend the money in cash is because it is not easy for them to go back and deposit and then 
+again withdraw. So, if you make it convenient for them to do it, I think it becomes a great 
+enabling infrastructure for digital financial inclusion.  
+UPI cash withdrawal, I think, again, is an infrastructure layer. At the end of the day, people 
+need, you know, small money, sometimes in cash for spending purposes, if it becomes easy for 
+them to be able to withdraw that money at UPI cash points, that players like us will enable 
+across Bharat, I think it becomes, they are able to move forward with their lives much easier. 
+And so I think very clearly, these are becoming like a last mile. We will see ourselves as 
+effectively a last mile banking infrastructure connecting financial providers with small 
+businesses and consumers. 
+Hashika: 
+Thank you, sir. We will take the next question from Navdeep Mehta.  
+Navdeep Mehta: 
+Golds and other loan volumes is down. Can we see improvement in coming quarters? And the 
+second question is, can we see overall revenue increasing in Q4? 
+
+ 
+ 
+ 
+ 
+Page 13 of 16 
+Dilip Modi: 
+I think credit distribution is something that we have definitely seen a big need for. There are 
+lots of financial providers who want to distribute credit. When you look at secured credit 
+distribution that is what we are focusing on. Unsecured credit is more linked to our FLDG 
+model, where it is more embedded credit to our agents and going forward to merchants. But 
+when you look at secured credit distribution, definitely it is an area which people are interested 
+in and want to work with us to grow. I think we are trying to get our kind of model in place, in 
+terms of how to work with partners and how to scale this business. So, I would say Navdeep 
+that, maybe you need to give us a quarter or two more in terms of kind of putting in place the 
+right product infrastructure, where we have lots of lenders at one end and borrowers at the 
+other, you know, in a bit of a kind of open API kind of stack. So, we are in the process of building 
+that out. You know, we have a lot of learnings because when it comes to secured credit, we 
+have to work closely with the branches of the lenders. And so how do we build that into the 
+journeys and into the stack for our Adhikaris to work with, is something that we are working 
+on. So, I think, we are seeing this as something that we think could scale up more in H2 of 
+Financial Year 2027. I think the next couple of months will go more in terms of building the 
+stack for financial product distribution, right. What we have really been able to get our hands 
+around in the last two years, is around embedded credit for our own agents. And that is how 
+you have seen the numbers scale. But in terms of pure credit distribution, I think it is about 
+getting the product, the open API stack and the supply side in place. And I think H2 next year is 
+where we can hopefully see that numbers scale. 
+Hashika: 
+Thank you, sir. The next question is a follow up from Gulshan Singh.  
+Gulshan Singh: 
+Indirect costs seem fairly stable despite increments. Is this the steady cost base now or should 
+we expect reinvestment as growth accelerates? 
+Dilip Modi: 
+Gulshan, we are calling out the new engines separately, Sunil can throw more light on it. But 
+we are, wherever we are looking at new investments, we are calling it out separately, maybe 
+we can continue to add to it. But Gulshan, definitely our goal is to build a leading financial 
+services stack across the board. We are literally unbundling various aspects of the bank and 
+making sure we can deliver it at population scale. So, for us, you know, looking at new areas 
+like now we are beginning to look at Lending, Savings, Investment, Insurance. I think we will 
+continue to invest in these areas. But I think from a P&L perspective, we are calling it out 
+separately. Sunil you want to add to that? 
+Sunil Kapoor: 
+Yes, so we are investing in the new engines and building up the capabilities and capacity both 
+in terms of new products distribution. And if you see our numbers also, that new engines, what 
+we were investing or incurring as an investment, almost Rs. 11 crores we have done in the last 
+financial year on these new engines, which has now come down to kind of Rs. 1 crore a quarter. 
+So, from that perspective, we keep on investing and whatever we have built, then we take out 
+for other initiatives. So, from that perspective, we are investing also, but we are very conscious 
+
+ 
+ 
+ 
+ 
+Page 14 of 16 
+about that we should have an operating efficiency in every department or activities, what we 
+do. 
+Hashika: 
+Thank you, sir. The next question is from Shrey Patel.  
+Shrey Patel: 
+Insurance and saving products are being pushed heavily in rural markets. Are consumers 
+genuinely adopting these or is adoption still agent driven? 
+Dilip Modi: 
+Shrey, we believe that both will continue to grow. I think when it comes to products like 
+Insurance and Savings, we believe that agents definitely have a role to play. We still believe 
+that not just in small towns, even in big towns, agents continue to play a role, given the 
+complexity of the products, helping to hand hold you, what we call wealth managers when it 
+comes to investments, so directionally, I think, just improving understanding what is an FTE? 
+How do you think about gold savings? How do you look at this? We believe that, there is a trust 
+factor that exists, when it comes to working with people in your communities. We have seen 
+how the microfinance sector has grown on the back of that. Of course, now there are structural 
+changes happening to that sector. But I think when it comes to being able to build awareness, 
+handhold people through complex financial products, I think agents have a significant role to 
+play. What we are trying to do, is make sure that we can enable an agency model which is 
+significantly tech led and very attractive on unit economics, so that we can drive more and 
+more products through our agent network. 
+Hashika: 
+Thank you, sir. There is a follow up question by Rahul Kumar.  
+Rahul Kumar: 
+Do you think the assisted fintech model becomes more relevant and resilient during periods of 
+liquidity tightening compared to phases of abundant liquidity? 
+Dilip Modi: 
+So, Rahul, I am just trying to put my head around this question where you are basically saying 
+that the kind of model we have, which is an assisted model, right? During times when, there is 
+a liquidity tightening, when there is less liquidity in the market, then do they become more 
+resilient? 
+I think for us, Rahul, what we have seen is that, definitely our agents started off as being cash 
+out points, became cash collection points, and now are also enabling distribution of financial 
+products. But at large, I think we believe that both, for cash and non-cash products, this 
+network, this model continues to have relevance. And we believe that, especially when we 
+think about banking beyond payments, the need to have, you know, agents who can play the 
+role of what bank branches play on the ground is a huge opportunity. So, I think, my sense is 
+that the model continues to be relevant at all points. But maybe, Sunil, you want to attempt an 
+answer to this question? 
+
+ 
+ 
+ 
+ 
+Page 15 of 16 
+Sunil Kapoor: 
+I think that, with the assisted fintech model, I think, because your question is with respect to 
+assisted fintech model and liquidity standpoint of view, I do not think that liquidity meant for 
+our business is more on the kind of, maybe the subsidy side of it. But other than that, I do not 
+think that tightening of the liquidity will be impacting us, only with respect to the credit side. 
+And as the liquidity gets tightening, that is keep on the basis of the cycle. And credit distribution 
+may have their own cycle also. And I think that is a part of the business from the perspective 
+of credit where liquidity tightening or liquidity ease help grow or have a pause also. So, that is 
+a cyclical, I will see it only with respect to credit. 
+Hashika: 
+Thank you. I hope that answers your question. We have another question from Rahul Kumar. 
+Rahul Kumar: 
+If you look at the broader industry over the next three to five years, what do you think becomes 
+the dominant profit pool, payments, collections, lending or financial distribution? 
+Dilip Modi: 
+I think Rahul, definitely lending is a big part of the profit pool going forward. You know, that 
+clearly is a standout. Payments continue to be under stress when it payments and collections, 
+when it comes to margins. So, that is more about throughput that we tend to drive. So, if I say 
+it is Lending, followed by Financial Distribution, followed by Payments and Collections from a 
+profit pool perspective, right? However, for us, payments and collections continues to be the 
+focus, because when you are building a business of the nature that we are, you need the 
+throughput, you need the data to drive, you know, the higher profit pool products. So, that has 
+to continue to be the underlying layer to enable us to build more products to drive profitability. 
+Hashika: 
+Thank you, sir. Participants who wish to ask a question are requested to use the raise hand 
+feature or you can alternatively share your questions in the chat box. Since there are no further 
+questions, I would pass it on to Dilip sir to give his concluding remarks. 
+Dilip Modi: 
+Well I would once again like to thank everyone for this opportunity. When I look at things 
+quarter on quarter, it perhaps sometimes hides the overall direction in which we are moving. 
+We are building this business for the next 25, 30, 40, 50 years. We are building a kind of an 
+infrastructure which will enable penetration of formal financial services for small businesses 
+and consumers living in small towns. I think the technology tailwinds are all there when we 
+think about even the AI revolution that is happening, we believe that it will serve people at 
+large, it will serve, it will have a population scale kind of a use case. 
+We at Spice, are also committed to writing this revolution of AI to be able to do more and I 
+think, Financial Services as a sector is going to be deeply impacted and this will all be in the 
+positive direction. We know that India has this legacy of leapfrogging technology. We know 
+that how mobile phones grew vis-a-vis fixed line phones, how mobile internet grew vis-a-vis 
+fixed line internet. And we know how banking influenced by digitization will grow compared to 
+traditional banking. And we at Spice Money are committed to driving a digital banking 
+revolution in Bharat. 
+
+ 
+ 
+ 
+ 
+Page 16 of 16 
+So, with that, I thank you very much for your interest. You can continue to reach out to us. Our 
+team is always available to answer any questions. For us, it is really about growing this space 
+of stakeholders who are excited about serving small merchants and consumers in Bharat. And 
+we would be more than happy to engage with anyone who has interest to want to participate 
+in this journey. Thank you so much. And I look forward to our next call. Thank you. 
+Hashika: 
+Thank you, Dilip Sir. Thank you, everyone for joining us today for the Q3 and 9 months FY 2026 
+Earnings Call of DiGiSpice Technologies Limited. We truly appreciate your time and 
+participation. If you have any further questions, please feel free to reach out to us at the email 
+IDs provided in the investor presentation. We look forward to your continued engagement and 
+to interacting with you again next quarter. Thank you once again and have a pleasant evening. 
+**** 
+Note :  
+This transcript is provided without express or implied warranties of any kind and should be 
+read in conjunction with the accompanying materials published by the company. The 
+information contained in the transcript is a textual representation of the company's event and 
+while efforts are made to provide an accurate transcription, there may be errors, omissions, or 
+inaccuracies in the reporting of the substance of the event.  
+This document may contain “forward-looking statements” - that is, statements related to 
+future, not past, events. In this context, forward-looking statements often address our 
+expected future business and financial performance, and often contain words such as 
+“expects,” “anticipates,” “intends,” “plans,” “believes,” “seeks,” “should” “shall” or “will.” 
+Forward-looking statements by their nature address matters that are, to different degrees, 
+uncertain. These uncertainties may cause our actual future results to be materially different 
+that those expressed in our forward-looking statements. We do not undertake to update our 
+forward-looking statements. 

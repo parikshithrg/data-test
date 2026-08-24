@@ -1,0 +1,895 @@
+ 
+Classification: Internal Contains PII: No 
+ 
+ 
+May 14, 2024 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai-400 001.  
+Scrip Code: 543398 
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex Bandra East, 
+Mumbai 400 051 
+Scrip Symbol: LATENTVIEW 
+Dear Sir/Madam, 
+ 
+Sub:   
+Transcript of Earnings Call held on May 07, 2024 
+ 
+Pursuant to Regulation 30 read with Part A of Schedule III of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, please find enclosed the transcript of the 
+Earnings Call held on May 07, 2024, post announcement of financial results of the Company 
+for the quarter and year ended March 31, 2024.  
+The 
+transcript 
+is 
+also 
+uploaded 
+on 
+the 
+Company’s 
+website 
+at 
+https://www.latentview.com/investor-relations/financial-results-reports/#financial-results 
+This is for your information and records. 
+Yours Sincerely, 
+Thanking you, 
+For Latent View Analytics Limited 
+ 
+ 
+        
+ 
+ _________________ 
+ P. Srinivasan 
+ Company Secretary and Compliance Officer  
+ 
+ 
+PARTHASAR
+ATHY 
+SRINIVASAN
+Digitally signed by 
+PARTHASARATHY 
+SRINIVASAN 
+Date: 2024.05.14 
+14:19:03 +05'30'
+
+ 
+ 
+Page 1 of 19 
+ 
+ 
+ 
+ 
+ 
+“LatentView Analytics Limited  
+Q4 FY24 Earnings Conference Call” 
+ 
+May 07, 2024 
+ 
+ 
+ 
+ 
+MANAGEMENT:  
+MR. RAJAN SETHURAMAN – CEO 
+MR. RAJAN VENKATESAN – CFO 
+ 
+MODERATOR: 
+ 
+MS. ASHA GUPTA, E&Y LLP, INVESTOR RELATIONS 
+ 
+ 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 2 of 19 
+Moderator: 
+Ladies and gentlemen, good day and welcome to LatentView Analytics Limited Earnings 
+Conference Call. As a reminder, all participant lines will be in the listen-only mode and there 
+will be an opportunity for you to ask questions after the presentation concludes. Should you need 
+assistance during the conference call, please signal an operator by pressing the “*”and then “0” 
+on your touch-tone phone. Please note that this conference is being recorded. I now hand the 
+conference over to Ms. Asha Gupta from E&Y Investor Relations. Thank you, and over to you, 
+ma'am. 
+Asha Gupta: 
+Thank you, Steve. Good evening everyone and welcome to Q4 and Full Year FY24 Earnings 
+Call of LatentView Analytics Limited. The Results and Presentation have already been mailed 
+to you and you can also view them on the website, www.latentview.com. In case anyone does 
+not have the copy of Press Release or Presentation or you are not marked in the mailing list, 
+please do write to us and we will be happy to send you the same. 
+To take us through the results today and to answer your question, we have the CEO of the 
+Company – Rajan Sethuraman, whom we will be referring to as Rajan, and we have the CFO of 
+the Company – Rajan Venkatesan, whom we will be referring to as Raj. This is just to avoid the 
+confusion while doing the transcript. We will start the call with a brief update on the Business, 
+which will be given by Rajan and then followed by financials given by Raj. 
+As usual, I would like to remind you that anything that is mentioned on the call that reflects any 
+outlook for the future or which can be construed as forward-looking statement must be viewed 
+in conjunction with the risks and uncertainties that we see. These risks and uncertainties are 
+included but not limited to what we have mentioned in the prospectus filed with SEBI and 
+subsequent annual reports that you can find on the website. 
+Having said that, I will now hand over the floor to Rajan. Over to you, Rajan. 
+Rajan Sethuraman: 
+Thanks, Asha. And thank you all for joining this investor call. 
+I wanted to first of all kick this off by saying that this year, while it has been a bit of challenging 
+year for most organizations, we are very happy with the kind of performance that we have been 
+able to put out, close to 19% growth under uncertain economic conditions. I am sure that many 
+of you are following the results of other companies in the space, and you have been witnessing 
+the impact that the macroeconomic scenario has been having on these organizations. 
+Of course, in Quarter 3, we were a little bit more optimistic about how Quarter 4 could turn out 
+for us given the conversations that were happening at that point in time. I do have to indicate 
+that some of those conversations are taking even longer to transpire. And therefore, our Quarter 
+4, quarter-on-quarter growth has been only of the order of 3.6%, though the year-on-year has 
+come in at 21.7%. Overall, I feel that the general sluggishness and uncertainty, while it is 
+resolving, it is still going to take some more time for it to play out. 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 3 of 19 
+We are energized by the fact that all the renewals that we want to do by the end of the year, they 
+are all done. And we are able to start the year on a fairly solid footing. But of course, the 
+challenge around winning large discretionary projects continues to remain. I think that the 
+confidence in undertaking initiatives that are anchored around new ideas and innovation will 
+take some more time. There will be, of course, a lot of pilots and experimentation that will 
+happen. For us as well, that has played out well in the fact that we have won six new additions 
+to our account list where projects have been kicked off. We also saw a lot of new initiatives on 
+a smaller scale being kicked off by our existing accounts and our existing stakeholders. So, all 
+of that gives confidence that the general interest and experimentation is still on, especially 
+around areas such as generative AI and leveraging the entire large language model and GPU 
+technology that is available.  
+On that note, some of the highlights that we had this quarter, other than the additions to the client 
+list itself, we saw a good traction in terms of our generative AI solutions and our pilots. We were 
+able to kick off a lot more. Our laser and AI Penpal solutions continue to find traction in the 
+marketplace. And there are new conversations that we are adding to the list with every passing 
+week. 
+We also formed a partnership with NVIDIA on the generative AI tech stack. You all know that 
+NVIDIA has been the leader in terms of the GPU technology and the chipsets. And there is a 
+huge waiting line for NVIDIA GPUs in general, given the huge amount of interest that the world 
+is witnessing on large language model and gen AI in particular. NVIDIA has also been looking 
+at how they can create more stickiness by not just doing the chip on the hardware part, but also 
+creating a tech stack that can enable the usage of the GPUs to deliver on use cases that can give 
+business impact. So, this tech stack is what we are leveraging in the partnership with NVIDIA. 
+And we have been working on multiple use cases with clients as well as some internal pilots. 
+And early results are very encouraging, especially in areas where you need a huge amount of 
+compute to handle streaming data and create real-time analytics and insights from thereon. So, 
+the NVIDIA partnership is something that we are really excited about. 
+We also launched a marketing analytics center of excellence in horizontal. We have been doing 
+a lot of work in marketing analytics over the years. We felt that on the back of all of that, it's a 
+good time to put our arms around some of the latest and greatest that is happening in that space, 
+especially around full funnel growth marketing and how we can look at B2B companies for 
+revenue generation through marketing mechanisms. These will be areas of focus for the 
+marketing analytics team. And they're also going to be leveraging gen AI solutions for creating 
+that kind of use cases and value propositions. 
+You have already been updated about the acquisition of Decision Point. We are still in the final 
+stages of diligence and paperwork. Expect that this could take another 3, 4 weeks for us to 
+conclude. The last couple of weeks, I and some of our leadership teams were in the U.S. and in 
+Mexico meeting up with clients of Decision Point as well, and we were very energized by the 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 4 of 19 
+conversations that we have had with them in terms of, one, just the stickiness and the quality of 
+work and the impact that Decision Point has been delivering. But more importantly, the synergy 
+opportunities that come about because of interest in the solutions that LatentView has built in 
+the area of R&D and innovation, in the area of supply chain, on-shelf availability. These were 
+solutions that were of interest to the stakeholders and clients of Decision Point as well. And on 
+the flip side, we also see a great deal of interest amongst our sales and client partner personnel 
+in bringing the RGM solution that Decision Point has built into the clients that we work with on 
+the consumer package good side. So, overall excited by the progress there, and we are expecting 
+that more will happen right in the coming quarters on the back of Decision Point. In fact, if I 
+were to kind of put out our projections and expectations in a two-year timeframe, we are 
+expecting that our consumer package goods practice could potentially get to about 20% of our 
+revenue on the back of this acquisition and further investments that we will make in that area. 
+Finally, I just wanted to wind up with one other exciting thing that happened this quarter. We 
+were selected as the Partner of the Year by the International Myeloma Foundation, and I was in 
+New York a couple of weeks back to receive the award. Very excited about that because while 
+a lot of the work that we do for our clients is in the area of top-line and bottom-line impact, given 
+that they're a for-profit organization. The International Myeloma Foundation is a not-for-profit 
+organization that has been focused on helping patients diagnosed with myeloma to, one, 
+understand their scenario and context better, and then start preparing for how they can handle 
+the situation, shortening what we call the time to hope so that they can find the way by which 
+they can get back on the recovery track. So, we have been helping build the kind of data platform 
+that is necessary to assimilate information from multiple sources so that doctors and caregivers 
+and patients can get a full 360-degree view of everything that impacts them on their journey to 
+recovery. So, this, in some sense, is really a life-or-death type of challenge that we have been 
+tackling, and I think this is a matter of great pride for all of us that we have been able to impact 
+this in a meaningful fashion. So, more to come along those lines in the quarters, hopefully 
+working with the International Myeloma Foundation and other similar organizations. 
+With that, I will pass it on to Raj to touch upon the financial highlights. 
+Rajan Venkatesan: 
+Thank you, Rajan. Good evening, everyone. Thank you for joining us in our Earnings Call. 
+This will be the last Earnings Call for the Financial Year FY24, and we are happy to sort of end 
+the fiscal on a strong note. While I know at the beginning of the year, I think we had planned for 
+a much faster rate of growth, like Rajan just elaborated, the overall macroeconomic environment 
+continued to be fairly challenging through the year, and therefore, we are particularly delighted 
+that despite the overall sentiment being quite muted, even now, we managed to deliver a 18.9% 
+growth year-on-year basis. 
+Traditionally, Q4 of a fiscal is, in some sense, it's a bit of a soft quarter for us, because Q3, which 
+is the last quarter of the calendar year, tends to be the strongest, and in that sense, Q4 is generally 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 5 of 19 
+soft compared to the Q3 quarter. We are happy to report even in despite that overall trend, you 
+are still able to clock a decent 3.6% growth on a quarterly basis, and a 21.7% growth on a year-
+on-year basis. In constant currency terms, we grew by about 3.8%. I think for this particular 
+quarter, we have had overall a bit of a depreciation on the dollar compared to the previous 
+quarter. So, that also had a little bit of an impact on overall rupee-denominated growth.  
+In terms of the other income, our other income for this particular quarter stood at about Rs. 15.8 
+crores, a decrease of about 31.3% on a sequential basis, which is fairly large. This was primarily 
+driven by a swing in the forex losses. These are essentially loans that have been given by 
+LatentView India to its group companies in Europe as well as the U.S. We had a gain of close 
+to about Rs. 5.5 crores in the previous quarter. In this particular quarter, we had a loss of about 
+Rs. 1.5 crores on account of the reinstatement of offset loans, and that sort of offset the other 
+income that we clocked for Q3. 
+But from an operating standpoint, EBITDA for this quarter stood at Rs. 40.4 crores, reflecting a 
+growth of about 9.8% on a quarter-on-quarter basis and a 34.04% on a year-on-year basis. We 
+are also happy to report that we delivered to the promise that we had put out at the beginning of 
+the year that our EBITDA margins will inch back towards the historical levels of 25%-plus levels 
+by the end of this quarter. Of course, we would have ideally liked this to be largely driven by 
+revenue growth, but we have been able to get to these levels through a combination of revenue 
+growth as well as strong fiscal discipline that we were able to exercise, plus some of the operating 
+efficiency that we were also able to see in Q4 of the current fiscal. One of the other factors that 
+also led to, in some sense, the EBITDA margin improvement was some level of rationalization 
+that we had done in some of the G-team investments that we had made in Europe, where some 
+of those, based on performance reviews, we did some bit of rationalization in our go-to-market 
+spend specifically, which also resulted in the margin expansion in this particular quarter.  
+Our PAT for this quarter stood at about Rs. 45.2 crores, reflecting a decline of about 2.8% 
+quarter-on-quarter and a growth of about 32.2% on a year-on-year basis.  
+On a full-year basis, revenue stood at about Rs. 640.7 crores, reflecting a growth of 18.9%. And 
+as we had outlined at the beginning of the year, the endeavour was to drive growth in the range 
+of 25% to 30%, even if that meant that we had to sacrifice margins a little bit. I think some of 
+these actions that we took at the beginning of the year, where we went ahead of the curve and 
+we made a lot of significant investments, we have also re-evaluated and re-calibrated some of 
+those investments that we had made. And we believe that the current EBITDA margin levels are 
+sustainable going forward as well, if you are able to repeat the revenue growth that we clocked 
+in the current year. 
+In terms of the overall geographical split of revenues, the US continues to be the dominant 
+geography, contributing 95% of overall revenues. Europe contributed about 1.4% to the overall 
+revenues. But we are seeing good traction in Europe. Rajan spoke about revenue growth being 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 6 of 19 
+also driven by some new logo additions. We continue to see add new logos in both Europe and 
+the US, which is quite promising for us. Ideally, going forward, in the coming fiscal, we would 
+want Europe and APAC to contribute at least 5% to 6% of our overall revenues, and we will be 
+able to give a better outlook on the contribution of Europe as we get into FY25. 
+Overall, in terms of our balance sheet, our cash and cash equivalents, excluding the IPO money, 
+stood at Rs. 1,100 plus crores as of 31st March 2024. The Decision Point acquisition will be 
+funded through a combination of money that we had raised through the IPO. You would recollect 
+that we had earmarked about Rs. 147 crores out of the IPO money towards inorganic expansion, 
+so we will be fully utilizing that as a part of the Decision Point acquisition. Incrementally, the 
+additional outflow that will happen, which will be close to about Rs. 180 odd crores, will be 
+funded entirely out of the Company’s internal cash accruals. 
+Our overall headcount for the quarter stood at about 1,280 people. As we have always 
+highlighted, we will continue to invest in people. We onboarded close to about 133 people from 
+campuses in this particular quarter. And as we head into FY25, we are fairly optimistic that some 
+of the relationships that we have built through the course of FY24 will start yielding results and 
+our strategy will play out positively. 
+With that, I am going to hand it back to Asha, and we can open the floor for Q&A. 
+Moderator: 
+Thank you very much. We will now begin the question and answer session. The first question is 
+from the line of Vimal Jamnadas Gohil from Alchemy Capital Management. Please go ahead. 
+Vimal Gohil: 
+Sir, my first question is overall on the growth and the margin outlook that you provided, in a 
+very turbulent year, you have been able to sort of grow at high teens in dollar terms. So, just on 
+the trajectory and especially after the acquisition that we have taken, you look at the synergies 
+that we will have that will prove to be an additional lever. Maybe the environment could bottom 
+out in the first half. So, in the second half, we could see material acceleration. Any thoughts on 
+that? And the second question is on margins. Given the fact that Decision Point operates at 30% 
+EBITDA, we front-loaded some of our investments. And despite that, I think you mentioned that 
+the margins could remain at these levels. So, if you can just maybe clarify that your comment 
+on EBITDA margins, was it including the acquisition or excluding that? 
+Rajan Sethuraman: 
+Vimal. Rajan here and thanks for the question. In terms of the growth that we are expecting, 
+obviously, it's good to be optimistic. But you will also recall that when we started out the 
+previous year, the expectation was kind of similar, that the first half will be a little separate and 
+things will pick up in the second half of the year. Now, reality has been a bit more challenging 
+than that, with the uncertainty and the sluggishness extending right throughout the year. 
+And at this point in time, the general commentary that you will be hearing from other companies 
+as well is that we are still not out of the woods and it will take some time. As I said, we are 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 7 of 19 
+energized by the fact that all of our ongoing work has been renewed entirety and we have a good 
+foundation. The pipeline building, though, I would have to admit that it could have been much 
+better in comparison to where we are today. There are a few opportunities that are large, $2 
+million and more. But larger opportunities, especially if these are new initiatives, they are taking 
+a lot more time to fructify. And the expectation is that we will start to see some acceleration, in 
+the coming quarters. 
+So, I would say that we are still cautiously optimistic about how things can pan out in this year. 
+Of course, the addition of new capabilities such as revenue growth management that is coming 
+on the back of the Decision Point acquisition, plus also the investments that we are making into 
+the marketing analytics horizontal, the NVIDIA partnership, the Microsoft fabric ecosystem, 
+these are all things that we expect will pan out well for us in terms of creating new conversations 
+and opportunities. And therefore, we should see an uptick on the back of all of these things. So, 
+yes, that's where we are in terms of still cautiously optimistic about things will pick up. I will 
+request Raj to comment on the margin impact  of the acquisition.  
+Rajan Venkatesan: 
+So specifically, on the margin impact of the acquisition, obviously while the Decision Point does 
+operate at 30% plus EBITDA margin level. Definitely in that sense, the acquisition will be 
+EBITDA accretive for us once we start consolidating these numbers. But again, we will also 
+have to appreciate that at the current size, Decision Point is roughly at about 1/7 of the size of 
+LatentView. So, therefore, it will not meaningfully move the needle in terms of an overall 
+EBITDA expansion. 
+Now in terms of our own organic EBITDA goals for the next year, our goal would be to stick to 
+this band, where we have operated in between 21% to 23% for this year. We will still continue 
+to invest for growth and we will keep looking to invest in capability building as well through the 
+year. So, I think from a go-to-market standpoint, I would say a lot of the investments that we 
+wanted to make are already fully baked in. I am talking about account managers, I am talking 
+about farmers and hunters that we have in the market. So, most of those investments are all fully 
+baked in. Where we may still continue to incrementally invest would be on the capability 
+building side, where we are either building some of the new age solutions, Rajan spoke about 
+the Gen AI, some of the interesting solutions that we are building. It could be in partnerships, it 
+could be in marketing events. There we will, I would say, front end some of the investments in 
+the beginning of the year, in the first half, because that's the only way we will be able to build 
+momentum and pipeline as we get into the fiscal. So, I would say definitely for the first half, we 
+will continue to remain in this band of 21% to 23%, and the growth comes back to the 6% to 8% 
+and the 10% sequential quarter growth. We should be back at the 25% EBITDA margin levels 
+towards the end of the year, but definitely for the first half of the year, we want to remain in the 
+band of 21% to 23%. 
+Moderator: 
+The next question is from the line of Mohit Jain from Anand Rathi. Please go ahead. 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 8 of 19 
+Mohit Jain: 
+Sir, on the growth part in FY25 versus FY24, so if you could help us give, or maybe from a 
+pipeline perspective, you spoke about it, that pipeline is not as great as you would have expected. 
+But can you give some perspective on a YoY basis, how is it looking? And also, if you could 
+comment a little bit on the TCV side, like is it up, down, flattish. So, how should see numbers 
+panning out in FY25? 
+Rajan Sethuraman: 
+Hey, Mohit. This is Rajan. The pipeline is obviously larger than definitely at the start of the last 
+year, or even at the midpoint of last year. What I meant is that we would have liked to see more 
+large initiative opportunities in the pipeline. Much of the conversation still seems to be 
+incremental in nature, and that is where I think the uptick will start happening when we have 
+even larger conversations that get into the pipeline. 
+But having said that, it is where we are at this point in time would be that the confirmed revenue 
+that we have on the order book that's 100% confirmed, plus the extensions that we are at in the 
+second half of the year, largely, they already add up to more than what we have done as revenue 
+for the last year, because the run rate that we have at the end of quarter is really what is going 
+into the next year. So, we are a tad above the revenue that we would have done for the last 
+quarter. The pipeline, at this point in time, if I take the pipeline and then apply probabilities on 
+that, and then I look at what that will get us, it will give us a further growth of close to 20% of 
+what we have done for the last year. Now, of course, there is this job of converting the pipeline, 
+and then there is the job of adding more into the pipeline as well. 
+So, in some sense, based on all this, what guidance we can provide at this point in time will 
+probably be around a similar kind of a growth rate compared to what we have seen in the last 
+year. Now, the expectation will be that we will be able to fill in more into the pipeline, as well 
+as improve the chances of conversion as we go along. Now, some of the things that I talked 
+about earlier, in terms of the investments that we are making in the marketing analytics 
+horizontal, the fabric ecosystem and the partnership, these are all expected to provide more fillip. 
+What I am saying right now, though, is the organic part of it. We have not factored in the revenue 
+that will come in from the acquisition. Of course, the inorganic acquisition-related revenue will 
+be all on top of what I am talking about. So, that's where we are at the start. 
+Mohit Jain: 
+So, organically, we should be very similar to FY24 from a growth standpoint, and also from a 
+margin standpoint. 
+Rajan Sethuraman: 
+That's correct, yes. Broadly, that's the kind of guidance that we are able to give at this time. 
+Mohit Jain: 
+And second, we were very positive on Q4 at the beginning of the quarter. And while we ended 
+up slightly slower than what we anticipated, so is there some cancellation involved here or do 
+you think it is just the elongation of deals, which is resulting into slower growth? Or maybe in 
+just a gap of 3 months, the growth is slower in Q4 versus what we anticipated earlier? 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 9 of 19 
+Rajan Sethuraman: 
+There is no cancellation. We are not seeing any adverse developments at all. It's just that the 
+optimism that we had in the first half of the year, and even getting into Q3, some of that is taking 
+much longer to really convert. So, we were expecting that we would close a few more 
+opportunities and then commence work on them in Q4 itself. What I see right now is that these 
+have taken longer. Some of these are very interesting opportunities. In fact, there are at least 2, 
+3 of them, which are at least $0.5 million dollars plus in terms of the revenue side. Sitting today, 
+I mean, for the first quarter, we see that the growth could again be back in the 6%, 7% range, 
+quarter-on-quarter. But of course, I mean, we have like a month and a half remaining in terms 
+of getting some of the work underway. We will have better clarity on how Quarter 2 and the rest 
+of the year pans out over the next couple of months. But at this point in time, I would say that, 
+yes, it's Q4 being tepid is largely a matter of decisions getting delayed and no adverse 
+development in terms of ongoing work. 
+Mohit Jain: 
+And last for Raj, so we will be integrating from Q1 for the entire quarter, is that correct? 
+Rajan Venkatesan: 
+So, we will not be able to get the full benefit of Q1, Mohit, if I can answer it correctly. Our target 
+date for closing the draft was initially around the 15th of May, but there are some regulatory 
+approvals that need to come in and some of these things are sort of beyond the control of the 
+companies. So, it may take us a week or 2 more to get this done. So, hopefully, our endeavour 
+is to at least get 1 month of results consolidated with this month. We will start seeing the full 
+benefit of the acquisition from Q2 onwards. 
+Moderator: 
+The next question is from the line of Srinath V from Bellwether Capital. Please go ahead. 
+Srinath V: 
+I wanted to understand how did Decision Point perform in Q4 for the full year, if you could share 
+some numbers? How are we progressing on integrating Decision Point with our CPG business? 
+Our CPG business probably did not have a kind of suitable performance that we would have 
+expected at the beginning of the year. So, how are you looking at it? And from my understanding 
+of Decision Point, do they have the kind of capabilities for developed markets or are their 
+products more suited for developing markets where we may also have some sales network where 
+we can take them to? So, can you kind of explain how Decision Point and our CPG business will 
+move forward, say with a kind of a 3-year outlook? That would be great. 
+Rajan Venkatesan: 
+Srinath, I will take that first question on the full-year performance. So, this is something that we 
+had also indicated when we did the press conference on the back of the acquisition 
+announcement. So, for the full year, their last fiscal, their revenue was close to about $12.8 
+million in revenue. And their margins, like we have mentioned, were in excess of 30%. So, that's 
+what they recorded for the whole of last fiscal. They are, of course, from an outlook standpoint, 
+given the smaller base and also the fact that they operate in fairly high growth areas of RGM as 
+well as Gen-AI, the expectation is that they should be able to grow at a much faster rate than the 
+LatentView growth rates, right? So, we expect them to continue to grow at anywhere between 
+25% to 30%. 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 10 of 19 
+However, to your point, on whether how much of their current solutions and services that they 
+render in LATAM markets, how much of that can be replicated in the U.S. markets, I think that's 
+specifically the area where LatentView will sort of come in. I will let Rajan talk a little more on 
+the go-to-market activities that we are already sort of jointly pursuing as well as some of the 
+initial, I would say, feedback that we are getting from joint prospecting that we are doing. But 
+we believe that the solution that they've built, while historically they've grown on the back of 
+their strength in LATAM, we should be able to replicate some of that success in our focus 
+markets of U.S. and Europe on the back of our go-to-market teams. 
+Rajan Sethuraman: 
+On the integration, there has been progress that we have been making already over the last  month 
+and a half. In fact, I don't know whether I mentioned this earlier, but I and Krishnan Venkata – 
+our Chief Client Officer, were in the U.S. and in Mexico meeting with their clients and also their 
+personnel over the last couple of weeks. And we were very energized by what we saw. There is 
+a great deal of interest amongst Decision Point’s current clients on the capabilities that we bring 
+to the table around R&D and innovation and around supply chain and on-shelf availability. 
+Likewise, there is a great deal of interest within our teams on the RGM capability that we can 
+take into our existing accounts. So, from an integration perspective, we have already put a 
+structure in place where Ravi Shankar, who is the Founder and CEO of Decision Point, will take 
+on the overall responsibility for the CPG practice. And we have deputed one of our top delivery 
+persons into managing the combined delivery of the CPG organization on the back of this 
+acquisition. 
+In addition to that, we are also allowing for full overlap of sales and revenue credit between the 
+2 teams so that there is absolutely no friction between the 2 organizations in terms of pursuing 
+opportunities in the market, jointly going to market where we are able to pitch the full suite of 
+solutions that we are able to bring to the table, and making sure that we are actually getting the 
+synergy benefits of the relationships as well as the capabilities that have been built by both the 
+organizations. So, I am expecting that the integration will benefit from the structure and the 
+incentive and the other mechanisms that we have put in place. And we should be able to see 
+some rapid acceleration on the growth of the CPG practice right on the back of that. Of course, 
+this is all planned. We do need to execute well. But that's what we are all here for and we will 
+be focused on this from day one. 
+Srinath V: 
+So, you believe that this product can be basically taken to developed markets as is because it's a 
+product stack, right, in that sense. So, that's where I wanted to kind of quiz you a bit. 
+Rajan Venkatesan: 
+Srinath, so it's a solution. I would not put it as a product at this point in time. I mean, what they 
+have built is an RGM capability, which is a combination of the frameworks and approaches that 
+they have built, plus the IP that they have created, right, on analysis around pricing, around 
+promotions, pack size optimization and so on. 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 11 of 19 
+So, it is still being offered in a services model by Decision Point as well. But the IP that they 
+have built, which helps them deliver on that, is a fairly strong IP. This apart, there is a solution 
+called BeagleGPT, which is leveraging fast language models and operates within the Microsoft 
+Teams ecosystem, but to deliver the insights and the results of the analytics to the end decision 
+makers. 
+So, it's a fairly strong combination of solutions, accelerators, and IP that enables the delivery of 
+services. So, that's what we have been talking to with our clients as well. Many of our clients are 
+today in the U.S. and in Europe, and our teams are very energized by the early conversations 
+that they have been having. RGM is a fairly important topic for most CPG organizations, 
+irrespective of where they might be located today from a geography standpoint. And if you are 
+able to demonstrate a strong capability in that area, there is quite a bit of traction. That's what 
+we are seeing in our early conversations. And the expectation is that there will be a good pipeline 
+of real opportunities that we can build and convert going forward. 
+Srinath V: 
+Perfect. Just a last question. How do we see inorganic going forward? I remember we have a 
+team looking at prospective companies. Do we pause and work on integration and come back 
+12, 18 months later? Or it's a much more parallel process, given that other parts of our business 
+may have some interesting synergies with other, prospective companies, maybe in industrials or 
+data engineering or so on and so forth. So, how do you see inorganic opportunities now going 
+forward, given that we have had a significant recent deployment? 
+Rajan Sethuraman: 
+It will be a parallel process, Srinath. We do not intend to take our eyes off the opportunity funnel 
+from an inorganic standpoint. In fact, next week I and the leadership team are going to be in 
+Pune meeting with another prospect in the Data Engineering space. Data Engineering plus they 
+have built a platform. There are a few areas of focus for us. One, as you pointed out, is Data 
+Engineering with focus on strong capabilities, even in one of the hyperscalers. That could be a 
+really interesting opportunity for us. We are also looking at BFSI and Retail as two other industry 
+verticals where there could be opportunities. And if it's a combination of those two dimensions, 
+meaning Data Engineering work for Financial Services companies, then that would be even 
+better because it takes on both the dimensions. So, that will continue to be an activity going 
+forward. We are, in fact, continuously engaging with some of the third-party external partners 
+that we are working with as well. 
+And we will be looking at opportunities that are available. I think the timing also today is very 
+interesting because many of the smaller companies in the last 12, 18 months, because of the 
+macroeconomic sluggishness, have faced challenges and then there is a more realistic kind of an 
+expectation from a valuation standpoint. And therefore, the window of opportunity will be 
+available and you would want to leverage it. So, I don't think there is any plan to slow down or 
+not look at opportunity. Of course, some of the management time and bandwidth and attention 
+will go into the integration itself. So, to that extent, we will factor that in. But clearly, the lookout 
+for opportunities is always on. 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 12 of 19 
+Moderator: 
+The next question is from the line of Arvind Chetty from Dymon Asia. Please go ahead. 
+Arvind Chetty: 
+I just wanted to understand, we are expecting first half of FY25 to be relatively muted, but 
+despite that, Q1 would look more like 6% plus kind of a sequential growth. And in the exit of 
+the year, we would like to hit about 8% to 10% sequential growth. Is that the kind of aspiration 
+that you are gunning for? 
+Rajan Venkatesan: 
+So, yes, it's not like the first half is expected to be muted. Of course, one of the things that Rajan 
+did speak about is to continue to build on the pipeline that we are already seeing. But our sense 
+is at this point in time, based on the visibility that we have, we will be able to generate a 5% to 
+6% sequential quarter growth for Q1. Specifically, when it comes to H1, we expect that some of 
+the deal conversions that we will see in Q1 should also give us additional revenue, visibility as 
+well as uptick in Q2. So, at this point in time, we will not be able to give a quarterly guidance 
+for Q2 specifically, but the expectation is that growth momentum could pick up in H2 compared 
+to H1. 
+Arvind Chetty: 
+And our aspiration to reach about 25% margin in exit quarter, and that would be achieved if we 
+sort of hit that 8% to 10% kind of a sequential growth. So, from a YoY standpoint, do we see 
+that our revenues on a YoY basis keeps improving through the year? 
+Rajan Venkatesan: 
+That is correct. So, like I said, a lot of the investments on the go-to-market side have already 
+been fully baked in current cost structure. So, we don't intend to add incremental headcount on 
+the go-to-market and sales functions. So, that is something that, in some sense, we have sort of 
+fully factored that in. Where we will look to spend incrementally would be on the capability-
+building side, the solutioning side, and also to some extent on the marketing spend itself, I think 
+where we believe some of these spends will help us set ourselves up really well for FY26 and 
+FY27. So, with a 3-year view, I think some of the investments that we will be making in the 
+current year may not give us immediate revenue uptick in the current fiscal, but we believe these 
+are essential for us to continue to deliver the 25% growth rate over the next 2 to 3 years. We 
+need to make some of these investments on marketing as well as solution-building. 
+Now to answer your question on margins itself, like I said, for the first two quarters, we will try 
+to keep the margins in the band of 21% to 23%. That's where we would like to keep them. You 
+would also appreciate that Q1 typically has the full impact of wage increments that we have 
+given out, which in the current fiscal for India-based roles, we have done increments in the range 
+of 8% to 10% on an average. And for U.S. roles, these have been in the range of 4% to 5%. So, 
+there will be, I would say, some level of impact on margins in Q1 on account of the wage hikes, 
+plus also seasonally, you will have higher visa spends in Q1. So, we believe this will have some 
+short-term impact in Q1 specifically, but we are fairly confident that we should be able to 
+maintain a band of 21% to 23%. If we are able to get back to the 6% to 8% sequential quarter 
+growth, we should be inching up on the margin side as well towards the rear end of the year. 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 13 of 19 
+Arvind Chetty: 
+And just last question on decision point. If you can, Decision Point revenues for Q4 and the 
+headcount addition that we have done in this quarter, I believe it does not include the employees 
+of Decision Point, right? 
+Rajan Venkatesan: 
+That is correct. It does not. It’s also because we have not consolidated. We have not closed the 
+acquisition. So, we will start reporting numbers on a consolidated basis by Q1. At this point in 
+time, we will also include their headcount when we report numbers. 
+Arvind Chetty: 
+And Decision Point revenues for Q4, if you can? 
+Rajan Venkatesan: 
+Again, like I said, they are a privately held Company right now. They are still in the process of 
+closing their books and getting their accounts audited. So, we will not be able to give out those 
+numbers at this point in time. 
+Moderator: 
+The next question is from the line of Karan Uppal from PhillipCapital India. Please go ahead. 
+Karan Uppal: 
+Two questions from my side. Firstly, on the hiring. So, if you look at the hiring for this quarter, 
+it is probably the strongest since the IPO. However, the commentary on FY25 growth is a bit 
+cautious. So, how shall we interpret this? Are you being more conservative given that FY24 was 
+a bit weaker than your expectation? That's first. And a related question to that is if you can give 
+us the vertical outlook for FY25. In FY24, the growth was led by technology and industrial 
+verticals. But Retail, CPG, and BFSI were a bit muted. So, the growth outlook vertical-wise 
+would also be helpful. 
+Rajan Sethuraman: 
+This Rajan here. I will take the question on the outlook for the full year, and I will get Raj to 
+comment on the verticals. I mean, I don't know whether I should say that we are being 
+conservative. But obviously, the general uncertainty in the macroeconomic scenario is still there, 
+I mean, it is not completely sorted out. Most organizations would be making similar 
+commentary. As I said earlier, I mean, a lot of the work that we are already doing, it is fairly 
+important and critical, and that is the reason the book of work has been renewed. But newer 
+initiatives are still experimental in nature. There are a few good big ticket opportunities, but it is 
+not the gush of opportunities that you would have liked to see, right, when we start the year. So, 
+that is the reason for the kind of outlook that we currently have in terms of how the year will pan 
+out. Of course, these things can get impacted by the initiatives that we are spending money on 
+and investing. I talked about the partnership with NVIDIA, I talked about the marketing analytics 
+horizontal, I mean, these are the bets that we are making, that these could provide the new ideas 
+and the innovation that clients are looking for, and that could spur growth. But we will want to 
+see how this plays out over the next 1 quarter or so before we are able to give better guidance. 
+Raj, do you want to add on the verticals? 
+Rajan Venkatesan: 
+Yes. See, in terms of the verticals, I would say, as we get into the current fiscal, technology will 
+continue to be the big vertical for us, but we are definitely very excited by the prospect of 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 14 of 19 
+partnering with Decision Point, which will significantly add to the capabilities that we can take 
+to market jointly. One, it opens up a new market as well for us, which is Latin America, and we 
+are happy to report that some of the early conversations that we are having, even with clients in 
+Latin America, seem very interesting for some of the work that we do, which is on the marketing 
+analytics side. 
+So, we are expecting this year to be a fairly strong year for the CPG vertical. Financial Services, 
+again, will be a vertical where there will be a big focus this year. So, some of the clients that we 
+work with, we are seeing some early sort of conversations where there are significant large 
+opportunities that are getting created in Financial Services, and apart from that, industrial would 
+be the other big focus vertical. So, for us, technology followed by CPG, followed by Financial 
+Services, followed by industrials, in that order would be the verticals that will drive growth for 
+us this year. 
+Karan Uppal: 
+Just a follow-up on the first question. So, the hiring is very strong. So, are we hitting the peak in 
+terms of our utilization, and hence the hiring is very strong? 
+Rajan Sethuraman: 
+So, the hiring is partly also a commitment that we made in the campus. So, we have taken a look 
+at how the next year is going to pan out based on the early indications that we have, and then we 
+have gone ahead and onboarded most of the campus offers, hires that we did. So, at this point in 
+time, there is only a small batch of 30 people out of the 450 offers that we had made on campus. 
+So, we already onboarded close to 360 people, there were some dropouts because this year has 
+been a bit protracted in terms of the onboarding, but of course, many of them also held on to the 
+offer because of the general scenario in the market. 
+Out of the people that we have onboarded, we have already deployed about, I would say, 40% 
+of the people, and the rest of the people are in either boot camps or they are shadow mode and 
+so on. There is a significant amount of campus hiring and onboarding that we have done. We 
+have tempered the next year's hiring on the back of what we have seen this year, given that some 
+of the people that we have already onboarded will be available for upcoming opportunities.  
+For next year, we have made only about 250 offers on the campuses. So, partly what you see as 
+the headcount addition is really on the back of all the campus onboarding that we have done, 
+and we will watch in terms of where the utilization maps. So, right now, the utilization is lower 
+than where we would have been in the first half of the year. It has gone down on account of the 
+campus hires, but this is something that we have anyway factored on in terms of the margin 
+profile that we want to maintain at this point. 
+Moderator: 
+The next question is from the line of Rushabh Shah from Buglerock PMS. Please go ahead. 
+Rushabh Shah: 
+So, in one of the calls, you said that you are doubling down your investments in the CPG, 
+Consumer Retail, and even today, you are saying that the growth in FY25 would be led by CPG, 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 15 of 19 
+Consumer Retail. So, why do you think so? Sir, what could be the next trigger point for 
+LatentView in coming years in the CPG , Consumer Retail segment? 
+Rajan Sethuraman: 
+So, the inorganic investment is completely in the CPG space, but it does a lot of work in the 
+CPG space. So, obviously, there will be a huge chunk of investment going there. But even if we 
+look at our own organic investments in terms of adding clients, partners, we have made 
+investments in the CPG space. So, we are expecting that that will pan out. So, in terms of the 
+contribution, the expectation is that we will inch towards about a 20% kind of a contribution 
+over the next 24 months. For the last year, we were probably at about 8% or so in the single 
+digit. So, there is an expectation that CPG will contribute quite a bit to the revenues. 
+Now, as I mentioned earlier, we are always on the lookout for inorganic opportunities, and we 
+are also making investments in the Financial Services and in the Retail. Retail probably will be 
+slightly behind in terms of Financial Services, the investments that we make in Financial 
+Services. Retail will be a tad lower. But at this point in time, the plan is that we will be shoring 
+up on what we can do in the Financial Services space. 
+So, if you ask me how the scenario will look, say, 18-24 months' time, definitely the contribution 
+from these 2 verticals, CPG as well as Financial Services, should be much, much better than 
+where we are today. Today, both are in the single digits. We are expecting that both of them will 
+be close to the 20% mark, which means that technology as a vertical, anyway, the contributions 
+will come down on a percentage basis. We are expecting growth to happen in all the 3 verticals, 
+but on the back of the investments, the growth should be stronger in the CPG and the Financial 
+Services space. 
+Rushabh Shah: 
+My second question is, sir, how big will be the data and analytics market? So, the estimates for 
+‘24 was around $300 billion. Do you think that it will be achieved in this calendar year? And 
+what's your aim for the next 5 years? Where will this market be? And what will be our market 
+share in this entire universe? 
+Rajan Sethuraman: 
+The market share, I think we are too small, okay, in the entire ecosystem. 
+Rushabh Shah: 
+Not market share, let's say where we will stand in the universe, where will we be in the next 5 
+years? 
+Rajan Sethuraman: 
+Yes, I will get to that. I mean, in fact, we commissioned market intelligence exercise, and that 
+is starting to give us some input as well. The expectation is fairly similar to what we had seen 
+when we did the IPO. If you remember our DRHP, we had talked about a market size of 
+potentially $300 billion in a year time span, at a CAGR of about 18%-20%. It's fairly similar. 
+Of course, a big chunk of that is also including captives of multinationals. Just to point out the 
+market is going to be very large, and as I said, we are fairly small in the scheme of things. So, 
+therefore, there is a lot of headroom for growth. 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 16 of 19 
+Our expectation is that we will be able to get on to a 25%-30% growth trajectory over the next 
+3, 5-year timeframe. Of course, that is the organic growth trajectory. With every acquisition, we 
+will be able to create a step change as well, and the intention will be to try and at least replicate, 
+if not improve upon the growth rate, right, on the back of the acquisition. 
+So, you can do the math based on this to see what it will lead to in a 3, 5-year timeframe. The 
+point, though, is that, I mean, there is enough headroom for growth. 25%-30% kind of a growth 
+trajectory should be very much doable, provided we don't have too much of the sluggishness. I 
+mean, of course, the last 12-18 months have been extraordinary because of all the interest rates 
+and other challenges. Of course, I mean, it's not that, like, we won't have any such challenges in 
+the future. We will have to, of course, look at what is the impact it is having. But broadly, from 
+a long-term trajectory standpoint, I would say that 25% plus growth rates are very much possible. 
+Rushabh Shah: 
+My last question is, from the last 2 or 3 quarters, we are witnessing that the addition of new 
+accounts are smaller in size. So, has the management's focus changed from the bigger accounts 
+to the smaller accounts? Is there any specific reason you would like to highlight? 
+Rajan Sethuraman: 
+Not really. There is definitely no deliberate choice of going after smaller organizations. Our 
+focus continues to remain the Fortune 500 companies. The acquisitions, the new logos, revenue 
+that they are bringing in, though, is on the tad lower side. In the sense that most companies, even 
+large Fortune 500 companies, are reluctant to kick off substantial new initiatives, given the 
+uncertainty that provides. The one redeeming area has been generative AI and related 
+technologies. But even there, it's still largely pilot and experimentation that is happening. Too 
+many substantial initiatives that have been kicked off. I mean, we had one win, which was close 
+to about $0.5 million mark. And we have a second win recently with one of the large auto 
+manufacturers in Europe, which is also close to that mark. So, we are expecting that that will 
+pick up in the coming months and quarters. Oddly, the growth is on the back of the ticket price 
+of the initiatives to get in with in the new logos, and not necessarily any change in the strategy 
+in terms of which accounts we go after. 
+Moderator: 
+Thank you. The next question is from the line of Agam from Raj Trading. Please go ahead. 
+Agam: 
+Just a quick question. I missed your opening remarks. So, for the other income, you said that 
+some loans you have given to your global competitors. So, can you talk on that? I just missed 
+that part. 
+Rajan Venkatesan: 
+These are part of the IPO proceeds that we had raised, that where we said that we will capitalize 
+some of our overseas subsidiaries in Europe and US. So, one of the subsidiaries is in UK and 
+one of the other subsidiaries is in Netherlands and Germany. So, these are interest-free loans that 
+have been given out, and which are repayable over a 3 to 5-year period. Because as per 
+accounting standards that we have to comply with, we need to restate these loans every quarter. 
+And whenever there is a sharp sort of movement in either GBP or euro compared to the rupee, 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 17 of 19 
+we have to book these mark-to-market losses as part of our piece for that quarter. And that is 
+what you see over here. But at a consolidated level, ideally, because the gain in one place is 
+effectively the loss is another place. But unfortunately, the loss in this case is not accounted as 
+part of the P&L. It actually goes into other components of income and that’s why you see the 
+impact at a PBT level. 
+Agam: 
+I was wondering just as, just to a previous participant, you said that you will be reaching 25% to 
+30% growth in 3 to 5 years. So, should we assume this post 3 years or 1 year down the line? 
+Rajan Sethuraman: 
+No, no, sorry. I didn't mean that we will reach 25% to 30% in a 5-year time frame. What I meant 
+is that if you take the entire period of time, a CAGR of 25% to 30% is very much possible, given 
+the market potential and the focus that we have in select areas. Now, currently, as you see, for 
+the last year, we have done about 19%. How quickly we can move from 19% to 25% plus will 
+be based on how the economic scenario turns out in the immediate future. And of course, if you 
+take a long enough time frame, like 5 years, there will be other bumps also that one will witness. 
+But a CAGR of 25%, 30% within that period is very much doable. 
+Moderator: 
+The next question is from Akshay from 360 One Asset. Please go ahead. 
+Akshay Ramnani: 
+I just had one clarification on the comment you made on FY25 and Q1. So, just trying to work 
+some numbers. You mentioned how you may have a visibility of 5% to 6% growth next quarter. 
+And you also mentioned that FY25 on an overall organic basis should be similar to what you did 
+in FY24. Now, if I look at your exit run rate and take a 5%-6% sequential growth, then in the 
+next quarter run rate itself gives you that similar growth which you did in FY24. So, obviously, 
+you will be growing in the coming quarters Q2, Q3, Q4 as well. So, I am just trying to understand 
+what is behind that commentary of similar FY25 while the numbers suggest otherwise. 
+Rajan Venkatesan: 
+I would say, obviously, as we stand at the beginning of the year, I think the commentary and the 
+guidance that we want to give out or put out is based on the visibility that we have for the full 
+year as of this point in time. Obviously, we all understand that the order book and the pipeline 
+is getting built up through the course of the year. Also, you would have to appreciate and 
+understand that the type of business that we are in, typically, our client contracts are up to a 
+period of 1 year. So, we do not generally have visibility, I would say. 
+While we have a good visibility in terms of what are the projects that are likely to get extended, 
+but we do not have multi-year relationships with a lot of the accounts, which is why the guidance 
+that we are at this point in time able to put out is on the basis of the visibility that we have at the 
+beginning of the year, which is based on the current order book plus the high probability pipeline. 
+But, of course, as we execute through the year and as the visibility gets better, these growth rates 
+can be improved over the current period. But, obviously, there is pipeline that needs to get 
+converted. What we have also seen in Q4, in fact, one of the questions that we had answered, I 
+think, was by one of the earlier analysts had asked that while the initial indication was that we 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 18 of 19 
+will grow at about 5% odd in this particular quarter, we did also see some deals that we were 
+hoping to sort of close out, which sort of slipped into the next quarter. So, some of these things 
+will also play out which is why we want to give out a guidance which is more reasonable and 
+achievable, and we will update the guidance as we head into the year, depending on the visibility. 
+Akshay Ramnani: 
+But, just for my confirmation, the numbers which I called out, was it a fair calculation or was I 
+missing something in those numbers? 
+Rajan Venkatesan: 
+It was a fair calculation, obviously, but then you’d also have to understand that at the end of the 
+day, in some sense we are not a SaaS business or we are not a product business where the run 
+rate can be taken to be like a given for every quarter. So, at this point in time, what we believe 
+is fairly reasonable and possible is the growth rate that we achieve between 18% to 20% for the 
+year, but as we continue with the year, some of the deals that we are actively pursuing, Rajan 
+spoke about the pipeline, there are a few large opportunities also in the pipeline. If we are able 
+to convert some of that, we should be able to accelerate growth. But at this point in time, the 
+18% to 20% is what we are comfortable guiding. 
+Moderator: 
+That was the last question for today. I would like to hand the conference over to the management 
+for closing comments. 
+Rajan Sethuraman: 
+Okay. Thank you. So, I think we covered most of the ground in terms of the highlights that we 
+had to share and also the outlook that we have of the business. I think some of the additional 
+momentum will come from opportunities that we are able to create on the back of the initiatives 
+that I talked about, whether it is in Generative AI, whether it's Microsoft Fabric ecosystem, or 
+whether it's the NVIDIA partnership or the marketing analytics horizontal, or the opportunities 
+that we can create through the acquisition. Obviously, the intent and the planning, there is a lot 
+of thought that's gone into it, and we are focusing our time and attention on what we can do on 
+this front. Of course, how all of this pans out will also depend upon how much of spending and 
+optimism returns to the market itself. 
+We are seeing early signs that the investments that we are making are all in the right areas on 
+the back of the conversations and the leads that we are getting. We do want to keep focusing on 
+them so that we are able to convert them into opportunities, real opportunities, and real project 
+work that we are able to win. Overall, I would say that at this time, given the performance that 
+we have had in the last year where we have done reasonably well in spite of a full year of 
+sluggishness, we are expecting that we will be able to do better in the coming year. 
+But as I said earlier, it is a tone of cautious optimism that we would like to adopt at this point in 
+time. We will be able to update you on how things pan out in the coming quarters. The 
+expectation is that things will be at general uptrend from Q1 to Q2 to Q3 to Q4. We don't see 
+any other significant adverse things that might be happening just within the data analytics space. 
+Overall, that space will continue to grow, and the areas of our focus will give us even further 
+
+ 
+LatentView Analytics Limited 
+May 07, 2024 
+ 
+ 
+Page 19 of 19 
+momentum in comparison to the industry growth rate. We feel confident that our strategy will 
+play out well on the back of optimism returning to the market. 
+With that, I think we have covered the ground that we wanted to cover, so we can close the call. 
+Thank you all for joining today, and look forward to engaging again soon. 
+Moderator: 
+On behalf of LatentView Analytics, that concludes this conference. Thank you for joining us, 
+and you may now disconnect your lines. Thank you. 
+Note:  
+This transcript has been edited for readability and does not purport to be a verbatim record of 
+the proceedings. 
+ 

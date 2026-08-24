@@ -1,0 +1,897 @@
+ 
+ 
+  6 May 2022 
+ 
+The Manager, Listing 
+BSE Limited 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400 001 
+ 
+The Manager, Listing 
+National Stock Exchange of India Ltd 
+Exchange Plaza, Plot No. c/1, 
+G-Block, Bandra-Kurla Complex, 
+MUMBAI – 400 051 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Transcript of the Investor(s)/Analyst(s) call 
+ 
+Further to our intimation dated 29 April 2022, please find enclosed the transcript of the Investor(s)/Analyst(s) 
+call which is hosted on the website of the Company at https://www.mphasis.com/content/dam/mphasis-
+com/global/en/investors/financial-results/2022/transcript-of-earnings-call-q4-2022.pdf  
+ 
+We request you to kindly take the above on record as required under the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015. 
+ 
+Thanking you, 
+                             
+Yours faithfully, 
+ 
+For Mphasis Limited  
+                                 
+ 
+Subramanian Narayan 
+Senior Vice President and Company Secretary 
+ 
+Encl: As above 
+ 
+ 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+ 
+Page 1 of 19 
+ 
+ 
+ 
+“Mphasis Limited 4th Quarter & FY22 Earnings 
+Conference Call” 
+ 
+April 29, 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. NITIN RAKESH – CHIEF EXECUTIVE OFFICER, 
+MPHASIS LIMITED. 
+MR. MANISH DUGAR – CHIEF FINANCIAL OFFICER, 
+MPHASIS LIMITED. 
+MR. SURAJ DIGAWALEKAR – CDR. 
+ 
+ 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 2 of 19 
+Moderator: 
+Ladies and gentlemen, good day and welcome to Mphasis 4th Quarter and FY2022 Earnings 
+Call. 
+At this moment all participants are in listen-only mode. Later we will conduct a question-and-
+answer session. At that time, you may click on the Audio Question Tab below the Media Player. 
+Please note that this conference is being recorded. You can also view the presentation on the 
+Mphasis website, www.mphasis.com, under the Investor section, as well as on the stock 
+exchange websites. 
+I now hand the conference over to Mr. Suraj Digawalekar from CDR. Thank you. And over to 
+you, sir. 
+Suraj Digawalekar: 
+Good morning, everyone. And thank you for joining us on Mphasis Limited Q4FY22 Earnings 
+Conference Call. We have with us today Mr. Nitin Rakesh - Chief Executive Officer and Mr. 
+Manish Dugar - Chief Financial Officer. 
+Before we begin, I would like to state that some of the statements made in today's discussion 
+may be forward-looking in nature and may involve certain risks and uncertainties. A detailed 
+statement in this regard is available on the Q4 Results Release that has been sent out to all of 
+you earlier. I now hand over the floor to Nitin to begin the proceedings of this call. Thank you 
+and over to you Nitin. 
+Nitin Rakesh: 
+Good morning, everyone. And thank you for joining our earnings call this morning. We 
+apologize for the slight delay, because we had to wait for the deck to get uploaded to the 
+exchange portal. 
+As we completed FY22 and moved into FY23, we took stock of key themes shaping our industry, 
+what our clients are saying and the spend patterns. What you see here is the IT forecast from 
+calendar Q1’22. Respondents, which are typically large enterprises, said they expect to increase 
+the 2022 IT budget relative to 2021 actuals. At least three-fourths of the enterprises in every 
+industry group intended to increase their Tech spends in 2022 with spending target strongest in 
+Software and Retail, with over 90% of respondents looking to spend more. 
+In our view, the macro issues that have surfaced and intensified over the last couple of months 
+are not likely to change the bigger secular picture. That being said, some enterprises may 
+tactically re-examine some portions of their Tech spends depending on the nature and geography 
+of exposure in 2022, and how the macro plays out. 
+Secular themes that are driving optimism for 2022 spends and beyond include Cloud migration 
+and Cloud Ops, data platforms and analytics, DevOps and SRE, cybersecurity, and digital design 
+and customer experience. 
+There seems to be a clear linkage between Tech savviness and financial performance. And this 
+study shows that Tech savvy enterprises outperformed their peers by 6% on average during the 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 3 of 19 
+pandemic. At the high-end of the outperformance spectrum are industries where Tech is essential 
+to business model transformation such as Retail, or that have been late digital Tech adopters 
+such as Energy and Utilities, Insurance and Travel.  
+Increasingly, Cloud and AI are becoming performance differentiators. With established linkages 
+between Tech savviness and revenue/market share performance we believe that the lion's share 
+of Tech spending is not discretionary and is likely among the last places that enterprises will 
+look to curtail spending in response to any macro concerns. 
+Moving on to our performance for the quarter and the year: Our 4th quarter FY22 revenue at 
+26.8% YoY growth in constant currency terms is at a decade high at $430.7 million for the 
+quarter, representing a 4.3% sequential growth. Our Direct business has crossed the quarterly 
+run rate of $400 million and it grew 4.7% quarter-on-quarter and 37.6% year-on-year in constant 
+currency terms in the 4th Quarter. 
+The year-over-year overall and Direct growth of the company has been rising throughout FY22 
+and ended on a high note in 4th Quarter due to the emerging convergence of overall growth with 
+Direct growth as we have called out through the year. 
+Our U.S. geography with Direct had robust growth of 43% year-over-year in 4th Quarter FY22 
+over 4th Quarter FY21 in constant currency terms. Q4 rounds out our strong performance in 
+FY22 where we recorded an overall FY22 revenue growth of 21.2% in constant currency terms, 
+which places us well above the industry average in FY22. Our FY22 Direct revenues grew 34.4% 
+in CC terms, which we believe is industry leading growth amongst our peer group. 
+On an organic basis, Direct business grew 30% plus in CC terms in FY22. This follows what 
+was our industry leading growth of 17% in FY21 for the Direct business. Our core markets, the 
+U.S., and our investment market, Europe, have both grown well on a full year basis. Direct 
+business accounted for 92% of overall revenue in FY22 and 93% for 4th Quarter FY22. 
+DXC’s contribution to our revenues is 5% as of 4th Quarter. Given the low and declining 
+contribution of DXC to our overall revenue, Direct business’ industry leading growth reflects an 
+overall improving YoY revenue growth trend sequentially through FY22. 
+With regards to geography growth, U.S. and Europe have fared well with an overall growth of 
+25% and 15% respectively in CC. Excluding DXC, the growth numbers are significantly higher 
+at 34% and 25%, respectively. As mentioned in our earlier calls, Europe continues to be a focus 
+area for us, and we are pleased with the fact that our increased sales efforts and investments in 
+this region are yielding good results. Direct business in Europe has grown at over 20% YoY in 
+constant currency terms for second successive year.  
+From a services perspective our application service line has been a driver of our growth with 
+44% growth in Direct apps in FY22, thanks to the secular themes of digitization and 
+transformation. Notably, Direct apps growth in 4th Quarter was 51.4%. We believe this is also a 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 4 of 19 
+testament to our continued investments in the right service areas using our unique Tribes and 
+Squads lead competency development model as well as our ability to leverage the repeatability 
+that comes with this highly efficient mode of go-to-market. 
+All our verticals saw a strong double-digit growth in FY22. We are pleased with the continued 
+growth in our anchor vertical, BFS, which grew 27% in FY22 in constant currency terms. 4th 
+Quarter FY22 marks the 7th straight quarter of 20% plus year-over-year revenue growth in BFS. 
+In 4th quarter BFS grew 40% YoY over 4th Quarter FY21 in constant currency terms. On a full 
+year basis, we believe this is best in class growth in that industry segment. We continue to enjoy 
+market share gains with our key BFS clients. 
+Logistics & Transportation business in the Direct segment grew 32.6% in FY22 to over FY21 
+in constant currency terms. Hi-Tech, also a focused vertical for us, continues to deliver strong 
+growth with the Direct TMT vertical having more than doubled in FY22 with 110% growth in 
+constant currency comes following on from a 54% growth in FY21. In our Direct business, 4 
+out of our 5 verticals grew 30% plus in FY22 in constant currency terms.  
+Also in the 4th Quarter, our contribution of Fixed Price engagements continues to rise. With the 
+4th Quarter Fixed Price growth of 64% YoY in constant currency terms. Contribution of FP as 
+a percent of revenue has also risen by 470 basis points YoY in the Direct business. On an annual 
+basis, as I mentioned, 4 out of our 5 verticals have grown 30% plus in 4th Quarter over FY21 
+constant currency terms. 
+FY22 also builds on our client mining improvement. As we have said before, we have 
+consolidated our standings with our key clients resulting in continued market share gains. This 
+is also borne out by our client metrics. 
+The middle chart in the slide shows that our Top 5 and Top 10 clients have grown consistently 
+registering 31% and 35% growth respectively in FY22 in U.S. Dollar terms. Our Top 2 clients 
+contributed $150 million plus of revenue each in FY22. The average contribution of our Top 5 
+clients exceeds $140 million. All of our Top 6 clients are greater than $75 million, which we 
+continue to believe is quite unique for a company in our category. Our Top 6 to 10 clients grew 
+48% in FY22, sustaining a trajectory of much higher-than-average growth in this category. 
+Notably, even our Top 11 to 20 clients grew 24% for the year, indicating the increasingly broad-
+based nature of our growth. Our new client revenue continues to grow rapidly, growing at 60% 
+year-over-year in the 4th Quarter. In short, our strong client performance across the board 
+supports our industry leading growth in Direct. 
+Several capability and organization-based factors support our consistent and robust performance 
+in the Direct business, namely, our personalized customer engagement model with key clients, 
+where the customer is center of our go-to-market and resource allocation, which allows for a 
+high degree of account specific innovation. 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 5 of 19 
+Secondly, our ability to build ever-growing pipeline on the back of our effective Tribes and 
+Squads model, which provides us good visibility into the future. 
+Third, our capacity to stitch large integrated deals using our transformation models, such as 
+Front-to-back and Zero Cost Transformation, which we have discussed with you in the past, also 
+gives us the ability to fuel large deals on a regular basis, including five large deals this quarter, 
+a new record. 
+And finally, the scaling of our digital competencies of our talent with a well-established learning 
+and resourcing platform Talent Next, which has seen rapid adoption through this year, especially 
+in the last two to three quarters. Talent Next provides Mphasis the skill muscle to enable 
+execution of the next gen positioning at scale. 
+We recorded TCV of $347 million of net new deals in 4th Quarter. Our average TCV metric is 
+trending up over time. FY22 net new TCV at $1.43 billion is up 28% over FY21 crossing a 
+quarterly average of $350 million. 73% of the TCV wins is in new-gen areas. 
+Our large deals are increasingly coming from non-core/smaller verticals and geographies other 
+than the U.S., while we continue to also mine very well within our chosen marquee verticals. 
+Despite strong TCV wins racked up over the last few quarters, our pipeline is still up suggesting 
+that our pipeline generation engine is firing. We generate a high percentage of our TCV through 
+proactive deal pursuits where win rates are materially higher than in competitive RFP situations. 
+I am pleased to report this quarter that we have closed more large deals than normal, at 5 large 
+deals versus 1 to 2 large deals on average every quarter. FY22 has also been the best year for 
+large deals with record 12 such deals. As we report our TCV on a net new basis excluding 
+renewals, we find a correlation between our Direct TCV and revenue growth continues to be 
+high, exceeding 0.9. 
+Coming to our client metrics, our track record in migrating clients from one revenue bucket to 
+the next continues to be healthy. We added 2 clients to the $150 million plus category in FY22. 
+Specifically, our conversion ratio of clients in one revenue tier to the next continues to be high 
+at over 50%, as demonstrated by the growth of Top 2 account into the next category. This ratio 
+increases in the higher categories as we move from $20 million to $50 million, $50 million to 
+$75 million and so on. We continue to see success with our focused account-centric strategies 
+with both our tenured and recent clients. In particular, we are also very pleased with the results 
+of our New Client Acquisition (NCA) engine. Through the NCA and our focus on high-quality 
+scalable logos, we have been able to sign up at least 12 Fortune 500 companies and another 6 
+via M&A across the verticals in FY22. This is not incidental as we have reinvigorated this 
+program with a dedicated leadership. And as we mentioned before, we have carved out 5 well-
+considered select verticals to focus on for NCAs, as we now call them Enterprise 5, namely 
+Banking & Financial Services, Insurance, Logistics, TMT and Healthcare. Each of these five 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 6 of 19 
+New Client Acquisition verticals has its respective client acquisition strategies led by dedicated 
+sales, delivery, and leadership. 
+We have an elaborate operating model in place to transition clients to strategic status with the 
+client engagement structure and investments defined through the phases of this transition. As 
+clients move through the transition phase and become strategic, we progressively bring the full 
+force of our engagement model, dedicated client resources and GTM motions in engaging with 
+such accounts. 
+What's behind our strong TCV record is our evolving Tribes and Squads model. This model, 
+which has helped us scale our ability to service the growing pipeline and to close more deals, 
+continues to mature. The portfolio squads within each tribe ensured that we constantly evolve 
+our solutions, adopting the newer tools and methodologies. To cater to our customer's need for 
+speed, the tribes have also evolved a composable approach to our offerings. This enables us to 
+combine offerings from multiple tribes effectively to address the typical requirements of our 
+customers. We have also identified over 40 solution archetypes that are typically needed, thus 
+allowing us to build frameworks and accelerators that facilitate faster deployment. These 
+archetypes are then contextualized to the needs of the specific domain, or even specific customer 
+by our deal squads. Almost all of our pipeline is tribe driven. Our Tribe driven pipeline is up 
+14% year-over-year, despite record conversion from pipeline to new TCV sold in FY22. 
+Coming to our financial metrics, our margin philosophy affords us the flexibility to manage our 
+profitability in an environment of rising talent cost in a heated market. In this quarter, we were 
+able to absorb our RSU costs fully and manage organic margins in the stated 15.5% to 17% band 
+on an adjusted basis. This has resulted in operating profit growth in line with our revenue growth 
+and adjusted EPS growth ahead of our operating profit growth. 
+Adjusted for M&A related charges operating profit grew 5.3% sequentially, and 28.7% year-
+over-year to Rs. 5,217 million in 4th Quarter FY22. Adjusted operating margin was stable 
+quarter-over-quarter and declined 20 bps YoY to 15.9% in 4th Quarter. This is in line with our 
+standard operating margin band of 15.5% to 17%, which remained unchanged despite the RSU 
+ESOP cost we incurred of approximately 120 bps in this quarter, up 40 bps on account of full 
+quarter impact. Our adjusted EPS for the quarter at Rs. 22.1 grew 8.9% sequentially and 30.3% 
+year-over-year. 
+To sum it up, I will leave you with three points: 
+1) We closed a strong FY22 marked by above-industry overall revenue growth and industry 
+leading growth in Direct. Direct growth in FY22 is 34.4% marked by 30% plus year-over-year 
+growth in all four quarters. Direct performance has helped us mitigate the declines in DXC, the 
+contribution of which has now reduced to 5% of revenue in the 4th Quarter. 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 7 of 19 
+2) All KPIs are moving in the right direction, namely, our consistently improving track record 
+in large deals with a record 12 deal signed in FY22 and 5 in the 4th Quarter FY 22. 
+Our FY22 TCV at $1.43 billion is up 28% year-over-year following on a 51% growth in FY21. 
+Our client mining metrics across revenue buckets continue to strengthen our diversifying growth. 
+As I previously stated, our average Top 5 client FY22 contribution is $140 million. Our Top 6 
+to 10 clients continue to grow well above our Direct revenue growth with 48% growth in FY22, 
+while the top 11 to 20 clients categories has also grown strong, healthy double digits. 
+3) The broad-based nature of growth with Europe and multiple verticals is additive to our overall 
+strong growth from the anchor vertical of BFS and geography of U.S. 4 out of the 5 verticals 
+registered 30% plus growth in Direct. 
+4) Our talent management strategy is on course with sustained onshore expansion and capability 
+build-up. Pyramid is a key focus area for FY23. In keeping with this, we have seen robust fresher 
+addition in the second half of FY22. 
+5) Our operating cash flow generation as a percentage of PAT is 100% plus in FY21 and FY22. 
+Finally, investing for growth by using operating leverage and operating a stated target operating 
+margin brand continues to be the philosophy. We believe our margin stance ensures margin 
+stability, managing for key workforce retention strategies in a tough supply environment. Our 
+adjusted EBIT margin of 15.9% lies in the stated 15.5% to 17% band, even after including RSU 
+cost of 120 bps for the full quarter. 
+Coming to our FY23 outlook, given the consistency in outcomes from executing our strategy, 
+we are confident of sustaining our market leading growth trajectory in Direct for the third straight 
+year while maintaining EBIT margins in the 15.25% to 17% range for FY23 on a reported basis. 
+Our confidence stems from our continuing market-share gains with clients across the verticals, 
+robust funding plans for high-quality client base, ongoing addressable market expansion as we 
+extend and deepen our competencies, including through M&A, and the strength of our pipeline 
+and track-record of converting pipeline into TCV and TCV into revenue. FY23 will also see a 
+substantially lower drag to growth from DXC than we had in FY22. Pricing, growth leverage 
+and pyramid support our FY23 margin outlook after providing for rising supply costs. 
+With that we open the call up for question and answers. Operator, back to you. 
+Moderator: 
+Thank you very much. We will now begin the question-and-answer session. We have our first 
+question from the line of Vimal Gohil from Union AMC. Please go ahead. 
+Vimal Gohil: 
+First of all, just a data point, if you could help me with what was the contribution for Blink in 
+our Direct business for FY22, that's one data point. The second is a two-part question. One is 
+the overall impact of the rising interest rates on US BFSI and the second part will be, what would 
+be the impact on your mortgage business that is the Digital Risk business. If you could just 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 8 of 19 
+highlight if you are seeing any sort of pain there? And given the rising interest rates, do you see 
+banks across, especially the legacy banks in the United States, sort of cutting down spends 
+temporarily or something in FY23? 
+Nitin Rakesh: 
+So, on the Blink question, the revenue for the quarter is around $11 million. And also, it has 
+grown quite robustly quarter-over-quarter. So, from a sequential growth perspective, this was 
+fully baked into our Q3 numbers as well. So, I think that's a good way to look at sequential 
+growth on an organic basis. 
+On the other question around the macro environment and the demand situation, it's fair to say 
+that while there have been concerns raised and some of the bank earnings have talked about 
+higher provisions, at this point, the demand is still fairly robust. The programs that many of our 
+clients started in FY21-22 continue to be longer term, secular programs, as I mentioned in my 
+script, unlikely that they will get curtailed very significantly, even if the environment worsens 
+from here. Of course, we will keep an eye on for how that translates into budgets and additional, 
+incremental spend from here on, but at least at this point in time, pipeline, TCV, demand, 
+conversations are very robust. We talked about five large deals this quarter, that's a record ever. 
+Many of those deals are also in-year spend deals. And that's a trend that we have started seeing 
+over the last few quarters as the CAPEX to OPEX conversion happens. 
+So, in a nutshell, not much to report in terms of tangible shifts in spend. But of course, 
+conversations and cautiousness around interest rate and geopolitics continue to become part of 
+the conversations and we will continue to watch it very closely. 
+The other question you had was around the interest rate environment and the impact on the 
+mortgage business. I mean, that business is cyclical. There is a part of that in our mortgage 
+bucket that has cyclicality, but we have also diversified that over the last few years in adding 
+new lines of business that are less immune to interest rate cycles, and in some cases even counter 
+to the cycle. For example, it is not just about originations and refinance, its about originations, 
+refinance, servicing, due diligence and most importantly, home equity line, which the last three 
+of them were actually counter cyclical to interest rates. 
+So, while there will be some short-term impact, but we believe that we have baked that into our 
+outlook for the full year. And we are fairly confident that at a portfolio level we will continue to 
+find ways to drive growth. 
+Vimal Gohil: 
+Just one clarification, so what was the total contribution for Blink for FY22? 
+Nitin Rakesh: 
+It was $11 million in Q4. 
+Manish Dugar: 
+It was $23 million for the full year. 
+Moderator: 
+Thank you. We have our next question from the line of Mohit from Anand Rathi. Please go 
+ahead. 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 9 of 19 
+Mohit: 
+More on the operational side, so you spoke about this little slowdown potential in the mortgage 
+side which is reflected in BCM in this particular quarter. So, how should we read BFSI growth 
+as a whole, like Insurance is doing well, but BCM what you guys expect, I mean this quarter 
+was a little slower, compared to the previous one? 
+And second was on the utilization. So, you gave the margin outlook, but the utilization dropped 
+quite sharply in Q4. So, how should we read utilization numbers and where do you expect it to 
+stabilize going forward? 
+Nitin Rakesh: 
+So, let me answer the utilization question first. Utilization is a direct correlation of the supply 
+chain transformation that we talked about over the last two quarters. We have on-boarded more 
+than 5,500 freshers in the last two quarters alone and that obviously will have an impact on 
+utilization, not only including freshers even excluding freshers, because as they go out of 
+training, they get excluded from the trainee number, but they are still sitting in accounts and still 
+to be deployed into billable roles. 
+So, I think that the utilization metric will continue to be monitored and managed closely, but at 
+the same time, we don't expect it to improve sharply. Even without that sharp improvement, we 
+do expect it to be a tailwind to margins, because effectively we are constructing the lower half 
+of the pyramid in a very consistent, methodical and sustainable manner. So, I think that's the 
+way to think about the utilization metric. It is definitely planned, conscious effort at diversifying 
+across the pyramid. 
+In terms of the BFS growth, I think we obviously had a very strong growth through FY22. Even 
+if you look at the 4th Quarter number, it grew 39.3% on a YoY basis. We actually don't call it 
+BCM anymore, it is BFS, Insurance is shown out as separate, had strong sequential growth still 
+recovering on a YoY basis because of the restructuring we did in that over the last 12 to 18 
+months. 
+Outlook for the year in BFS continues to be as I mentioned the application lead growth is very 
+strong, yes there will be some impact as I mentioned from the interest rate cyclicality but we 
+believe that the guidance we have given for Direct business growth for the year reflects all of 
+those puts and takes including BFS. 
+Mohit: 
+And last thing was onsite/offshore, like we are still little far from others in that ratio. So, how 
+should we read it, now you have already increased fresher intake. If you could share any number 
+for FY23 fresher hiring and onsite/offshore, how much shift do you expect to happen over let's 
+say next one to two years? 
+Nitin Rakesh: 
+The onsite/offshore ratio has moved in favor of offshore this quarter compared to previous 
+quarter as well as previous year. And I think the trajectory and the pipeline suggests that 
+migration should continue. We don’t necessarily use market benchmarks because portfolios are 
+different, verticals are different, and service lines and the whole competency model is different. 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 10 of 19 
+And it's not just onshore/offshore, it's also multi-shore right now. So, we are using the best-shore 
+approach given that we have actually added multiple geographies in non-India bucket over the 
+last 18 months, including Taiwan, Mexico, Estonia and more recently, Canada. So, I think for 
+us, the answer is how do we manage the portfolio mix, it’s not just one metric and one 
+benchmark. 
+In terms of the guidance towards fresher hiring, we will continue to optimize a pyramid that's 
+the roadmap we are committed to. How much fresher intake happens is a question of how we 
+are able to manage utilization and how much we can afford, based on demand, as well as the 
+ability to absorb them through the supply chain. So, I think it's not one number I can give you. 
+It’s too early in the year to give you a number for the year. But given that we are at 5,500 in the 
+last two quarters, should give you a sense that we are really committed to the supply chain 
+restructuring that we started. 
+Mohit: 
+And Taiwan, Mexico, etc. would be currently counted as onsite in our reporting? 
+Nitin Rakesh: 
+Yes. 
+Mohit: 
+Or would it be part of offshore? 
+Nitin Rakesh: 
+No, it's all bucketed in the onsite category. 
+Moderator: 
+Thank you. The next question is from the line of Manik Taneja, from JM Financials. Please go 
+ahead. 
+Manik Taneja: 
+Just wanted to touch base on something that we used to talk about in the past, in terms of the 
+growth within the Blackstone portfolio set of companies. Could you help us understand how this 
+segment has done over the course of FY22, given the fact that it is a still a smaller piece of 
+contribution to the overall business and how do you see this panning out going forward? 
+Nitin Rakesh: 
+So, I think you mentioned it, you know, we used to talk about it in the past. And there is a reason 
+why it is in the past. We decided not to break it out as a separate segment, because it sits in the 
+Direct business. I think it's fair to say that we continue to make good progress. While we are 
+selective, the size of the portfolio that we operate in, not just in the Blackstone, but we actually 
+upgraded that to PE channel play is also fairly large. So, I think we continue to make good 
+progress in that. And all I can tell you is that some of those deals are included in the large deal 
+announcements that we made as well. 
+So, I think it's a very considered and very focused approach, targeted set of customers, targeted 
+set of deals, and we are making good progress and that's one of the drivers for our Direct business 
+growth. 
+Manik Taneja: 
+So, you spoke about the margin levers being growth, pricing leverage, and the pyramid. With 
+regards to pricing given the concern around increasing interest rates and the possibility that 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 11 of 19 
+banks look to optimize their spends, do you think this impacts the possibility of price increase 
+in this vertical? 
+Nitin Rakesh: 
+At this point, no, because keep in mind that pricing increase is not just a rate card discussion, 
+there are multiple other ways to construct price increases, value-based pricing, outcome-based 
+pricing, managed services construct. If you look at the fixed price, fixed price construct 
+movement, I gave that metric out in my script, I think all of those gives you the ability to actually 
+have a higher realization and potentially a margin tailwind. For new business, for highly in-
+demand skills, Cloud architects, data architects, modernization deals, there is definitely a lot of 
+pricing power available. It all depends on the portfolio and the value that you can derive from 
+those constructs. So, I think at this point in time, the environment is pretty comfortable despite 
+the current pressures on inflation that you talked about. 
+Moderator: 
+Thank you. We have a next question from the line of Nirmal Bari from Sameeksha Capital. 
+Please go ahead. 
+Nirmal Bari: 
+My first question is on the margins front. From the employees -- point of view I know that we 
+do not have a standard cycle of wage increases, but on an average throughout the year, what kind 
+of wage increase are we expecting to happen and the impact of that on margins? 
+And secondly, on the acquisition front there is a standard cost that was being added, so will that 
+cost remain the same in the coming quarters, as well? 
+Manish Dugar: 
+So, from a people cost perspective, there is a process what we follow wherein it's a continuous 
+evaluation on the geek quotient, as we call it. And based on that a large part of the team, which 
+is primarily the delivery organization gets evaluated and correction keeps happening. There is 
+no number that we guide to, and we have been doing over the quarters, and we continue to do it. 
+So, it's baked in. 
+From an acquisition perspective, we had talked about the fact that typically, the acquisition 
+charges come from an accelerated accounting perspective, which means the costs are higher in 
+the beginning, and then they keep reducing as they go forward. And that is what we expect to 
+happen in the next maybe four or five quarters, and we should be able to absorb that. And, it 
+should not have any further impact going forward. 
+So, to your question on whether that cost is reducing: yes, it is, both in absolute terms and even 
+more in percentage terms, because with the reduction in absolute terms and growth in revenue, 
+the percentage drops even faster. 
+Nirmal Bari: 
+But the reduction in the lower end of our margin guidance, would that primarily be allocable to 
+employee expenses or how should we look at that? 
+Manish Dugar: 
+So, the way to think about it is, we are not reducing the lower end, if you remember, our guidance 
+was 15.5% to 17%. And we had talked about an adjustment for M&A charges. Our reported 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 12 of 19 
+margin this quarter is 15.2% after the M&A charges. And the guidance suggests that on a going 
+forward basis, the margin should be higher than this quarter margin, even after accounting for 
+M&A charges. So, if you were to let's say, take M&A charges at 0.8%, this quarter is 16.0%. 
+And we are essentially saying if it remains 0.8%, the next quarter will be 16.05% and so on. So, 
+it's just the adjustment of M&A cost in the guidance range. It's not a reduction in lower end of 
+the guidance. 
+Nitin Rakesh: 
+If I can just add, I think the way to look at it is that the adjusted margin, adjusting for the M&A 
+charge is 15.9%. So, I think that's like-to-like comparison to the guidance, we started FY22 with. 
+Since we reset it based on the M&A cost, we are basically saying that the 4th Quarter numbers 
+is really the starting point. And hence we are guiding above the 4th Quarter number even on the 
+lower end. That's the way to think about it for our whole year range. 
+Moderator: 
+Thank you. We have a text question from the line of Nitin Padmanabhan from Investec. How 
+should we think about growth for the Top 5 clients considering you have benefited from 
+significant consolidation in the past two years? The unbilled revenue has increased by $37 
+million sequentially, while the absolute revenue increased appears to be half of that. Could you 
+give us some context to this? 
+Nitin Rakesh: 
+So, let me take the first part of that question, which is on the Top 5 clients and then Manish can 
+answer the unbilled question. I think, firstly, we are very pleased with the fact that we managed 
+to grow these Top 5-6 customers very robustly. I think, in fact, all the Top 10 clients have grown 
+robust, as you saw from the metrics in the analyst deck. 
+The way to think about it is it's not just wallet share gains, it's a combination of increased spend, 
+which is the ability to play in new spend areas is extremely important for that. And that's the 
+reason why keeping an eye and constantly reinventing the whole tribe-based competency model 
+with new areas of competency is extremely important. And that is the reason why every quarter 
+when we present, we actually definitely talk about what are we doing in that space, including 
+the changes that we just announced and then we presented to you a few minutes ago. 
+So, increased spend, in new areas is one big tailwind. Second is we have also taken action to 
+increase our addressable market. Blink was a great example of how we actually now started 
+playing in new spend areas that we were not playing in earlier. So, that gives you a second vector 
+of growth. And the third vector of growth obviously is wallet-share gains. 
+So, I think if you look at combination of these three things, we do expect that almost all three 
+will continue to play out, at least in the near to medium term. We don't see any reason to believe 
+that we have actually saturated any account even from wallet share perspective alone, forget the 
+other two engines of growth. 
+So, I think, long road ahead, very pleased that we have graduated Top 2 clients to our $150 
+million. Obviously, the teams are fairly focused on making sure that we are able to take as much 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 13 of 19 
+addressable spend as we can, because for many of these clients the spend is in very large 
+numbers. So, that's the reason why we also focus on quality of logos that we bring in. And so 
+that's kind of the way to think about the Top 5 to Top 10 customers. 
+Manish Dugar: 
+On the unbilled, the primary issues or primary reasons are three. One is, there is typical as you 
+know, the revenue accounting, when you do a fixed price contract is on a percentage of 
+completion, while the invoicing follows a different schedule. So, there is a mismatch between 
+that, but we should be able to catch up, this month or this quarter. 
+The second thing is about, a large part of our clients requires a PO reference when the invoicing 
+is done, and that PO reference at times, take time to come. And if you take what happened at the 
+end of the quarter, we should be able to get the documents and mail the invoices in this quarter. 
+So, I would say largely, these are admin and invoicing related matters, nothing to, you know, 
+conclude that this had any impact on either collectability or the DSO so to speak. 
+Moderator: 
+Thank you. We will take the next question from the line of Dipesh Mehta from MK Global. 
+Please go ahead. 
+Dipesh Mehta: 
+A couple of questions, first about the Logistics & Transportation. Do you think any implication 
+because of energy related uptake which we are seeing across the globe, because this quarter 
+margin seems to be slightly softer as well as the revenue growth? So, if you can provide some 
+sense how you expect this to play out over FY23? 
+Second question is about the emerging business update. Can you provide some sense how this 
+emerging business is playing out across some subsegments? So, that update would be helpful, 
+which area is doing well, which is not doing well. 
+And the last question is about BFS-related, because now compliance related some of the 
+companies indicated good opportunity because of some of these things and related work. Do we 
+play in that area, and if yes, then how it is helping us for BFS to negate some of these mortgage 
+related challenges? 
+Nitin Rakesh: 
+On Logistics & Transportation I think the issue so far, the inflation adjustment or reset of demand 
+is not the real issue, the only reason you are looking at softness probably is base effect. And 
+margin is a reflection of, how much growth and utilization in practice sitting in their vertical 
+because they definitely expect some, they would have done ramp ups in advance of billing and 
+deal closure. So, I think I see that as a growth related or a large deal related ramp up situation 
+versus any impact or pressure from pricing or demand. 
+On your second question, around BFS-related, I think the Tech spend, especially in applications 
+area is very robust. The actions we have taken around diversifying away from pure interest rate 
+sensitives in our mortgage business is also helping. So, I think we do believe that while as I 
+mentioned, in the short run, you might see some impact, but through the year based on the current 
+scenarios and the movements that we have seen in the forecast on the pipeline we have, it looks 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 14 of 19 
+like we should be able to meet the full year guidance on BFS overall, despite the softness in 
+some parts of the business. And that's the portfolio approach it helped us, it was a tailwind for a 
+while and that's the reason you have a portfolio where you actually have some parts of the 
+business do better than the others. But on an overall net basis, the portfolio growth is robust. 
+The third question, I think, was around emerging vertical, I presume you are referring to Others. 
+I think the biggest component of others is Healthcare. And there are obviously, a couple of other 
+miscellaneous smaller verticals in there that we can't classify into the other, big four verticals. 
+So, I think from that perspective, we will start thinking about potentially breaking it out into 
+additional verticals just like we carved out Hi-Tech and Logistics from the Others category over 
+the last three years. But I think, at this point in time Healthcare is the other primary focus vertical 
+in the Other segment that we will potentially start to report out and carve out separately in the 
+future. 
+Dipesh Mehta: 
+How it is doing, that was the question, Healthcare how it is doing? And Logistics, you partly 
+answered but do you think any headwind because of these energy-related updates? 
+Nitin Rakesh: 
+At this point in time, no, so that’s what I said Dipesh no headwind to report at this point in time, 
+we are watching it. It is not just Logistics and Transportation that has an impact from energy, 
+because they also have a lot of pricing power, whether it is ecommerce-related or delivery 
+companies or even if you look at, freight companies, if you look at airlines, significant pricing 
+power in their hands right now. So, they are actually passing a lot of the hikes back to the 
+customer, it is not really a stress on their P&L. 
+On how Healthcare is doing, I think we, as I mentioned, right, you can see from our deal 
+commentary, we announced a large deal, last quarter, the largest deal was in the Healthcare unit 
+in a new customer, despite being one of the smaller units, we are able to actually leverage the 
+Tribe construct, contextualize it to healthcare and grow it. So, it is actually growing really 
+rapidly, still relatively small compared to some of the other verticals, and hence, we are waiting 
+for it to attain a critical size before we break it out into a separate vertical. 
+Moderator: 
+Thank you. Next question is from the line of Vibhor Singhal from PhillipCapital. Please go 
+ahead. 
+Vibhor Singhal: 
+First question was basically on DXC, I know it’s just a slice of the revenues and probably doesn’t 
+matter much in the overall scheme of things. But I think after multiple quarters of significant 
+decline we have seen the revenue kind of stabilizing in this quarter. So, what is the outlook for 
+this piece of business at this point of time? Do you think it might have bottomed out? How's it 
+looking out in terms of the deals and the contracts that we have in this business? Till when is 
+their continuity just maybe some subjective feedback on how should we look at the business 
+going forward? 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 15 of 19 
+Nitin Rakesh: 
+So, I think, we called out maybe over the last quarter or two, that we are somewhere in the 
+ballpark of, where we think this business can stabilize. So, I wouldn't read too much into 
+sequential ups and downs based on projects or engagements. So, I think it's fair to assume that 
+our focus will be to continue to grow the Direct business. And we still believe that we have the 
+ability to have a revenue line with this segment, but I think the prioritization and the focus of 
+growth, given just the nature of our strategy will be to prioritize Direct growth. So, I wouldn't 
+read too much into the quarterly moves. I think 5% is where we kind of guided towards, if you 
+remember two quarters ago the mid-single digit number. But as the Direct business continues to 
+grow, this will obviously continue to get diluted if it doesn’t keep up with that growth. 
+Vibhor Singhal: 
+My next question was basically on the overall supply side environment that you are facing, both 
+onsite and offshore. So, if you could just take us through as to – how is the attrition number 
+looking like in the offshore especially, do you see it coming down or stabilizing or plateauing 
+out maybe this quarter, for the next couple of quarters? 
+And on similar front, on the onsite, how critical right now is the availability of talent right now, 
+which is leading to basically high salary expectations. And given the high inflationary 
+environment, we believe the onsite salary hike this year could actually be higher than what we 
+have historically given on the onsite front? 
+Nitin Rakesh: 
+So, I think the right way to think about it is that definitely the demand supply mismatch continues 
+to be, in favor of shortage of supply. That has been the phenomena for the last three or four 
+quarters. That doesn't seem to be any different in the current environment. But given that, over 
+the last, definitely over the last three or four quarters, our focus has not only been acquiring 
+talent, but actually creating talent. And I talked about that in the script as well between Talent 
+Next, trainee offtake and new centers that we call best shoring not just onsite, but it's a near 
+shore, it is offsite, it is new locations, whether it's Taiwan or Mexico or Costa Rica, Canada, 
+even onshore in Europe, we opened Dusseldorf and Leeds in UK. 
+I think the flexibility that we are trying to create in the supply chain from our best shore 
+perspective is something that is going to help mitigate some of the dependence on just resources 
+available in geography in the U.S. or in the UK market, for example. So, I think that's one way 
+to mitigate, and think about what we are doing. Second is obviously, significant work is 
+happening on pyramid construction, not just offshore, but even onshore. Obviously, the two 
+markets have a different way of constructing the pyramid out. So, yes, there is pressure on 
+supply, yes, there is wage inflation. We baked all of that into our outlook for margin. At this 
+point in time, attrition, I would say at best is stable, we will continue to work towards, whatever 
+measures we have taken in the past and additional measures we can take. Not just wages, it's a 
+lot to do with engagement. It's a lot to do with internal rotation and upward movement, and 
+potentially quality of work. 
+So, I think it's a work in progress, it will continue to be. I wish I had a crystal ball to tell you it's 
+going to peak in this month, or this quarter, or next month or next quarter, it is impossible to 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 16 of 19 
+predict. So, I think at this point in time, we have a headcount plan, we have a supply chain plan, 
+we have a demand environment, and we will continue to find ways to meet as much as the 
+demand as we can. 
+Vibhor Singhal: 
+And on the onsite salary hike part, you expect it to be higher than historically it has been? 
+Nitin Rakesh: 
+You know, again, as I mentioned we are managing it through multiple levers. So, question is, it 
+is not one number that goes out to one set of employees, onsite or offshore. Again, since we don't 
+do it in a particular time, April 1 is not the date for the whole company, we are doing it fairly, 
+based on need skill, skill  up movement, and engagement. I think it's a little bit harder to put a 
+number on it, but I don't think I mean, if we expected it to be unusually high, we would have 
+adjusted our margin guidance, given that we are guiding for a margin actually to be on an 
+operating basis, healthier than what it has been in the in the recent past then I think that should 
+tell you about the ability for us to manage, puts and takes on margin and wages. 
+Moderator: 
+Thank you. The next question is in the line of Sandeep Shah from Equirus Securities. Please go 
+ahead. 
+Sandeep Shah: 
+Just wanted to understand in FY22, what was the M&A related cost in terms of basis point and 
+how this will look like in FY23, just some clarity required there. 
+Manish Dugar: 
+So, first from a concept perspective, once the transaction is done, there is a purchase price 
+allocation that happens, and then the cost comes in. And the cost is typically in an accelerated 
+basis, which is why, it starts with a higher number and then it eventually goes down. 
+As we had explained, the impact of M&A charges in the P&L was about point 0.8% in the 
+immediate; so, we did the transaction sometime in September, the quarter when the full impact 
+came in was the quarter after that, which is October, November, December. And then in this 
+quarter, which is January, February, March, that number has already come down 0.7%. 
+And the reason why the percentage moves is twofold. One is the absolute cost reduces and the 
+second is the impact of that on the revenue, as the revenue base grows, becomes lesser, right. 
+So, effectively, we had an impact of 0.8% in October, November, December and 0.7% in Jan, 
+Feb, March. And depending on how the numbers pan out in this year, this number will keep 
+reducing, both in absolute and percentage terms on a quarter-on-quarter basis, from the 0.7% 
+that we had in Jan/Feb/March. 
+Sandeep Shah: 
+So, roughly what could be the YoY -- in this number in FY23 versus FY22, any color on this? 
+Manish Dugar: 
+We don't call out specific, absolute numbers on this, unfortunately, but this will become, we had 
+talked about when we did the announcement of the transaction that over a two to two and a half 
+years period, we should be able to absorb all of this, and it should have no impact after that. Of 
+which two and a half quarters have already passed. 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 17 of 19 
+Sandeep Shah: 
+We are doing extremely well, in Direct business, no doubt about that. But I think last few quarters 
+order intake was good. Do you believe this quarter’s growth rate is in line with your expectation 
+when you entered in the quarter for the Direct or could have been slightly better because of the 
+order intake, and you believe that there could be a ramp up in the growth going forward in the 
+1Q and 2Q within Direct? 
+Manish Dugar: 
+Nitin talked about the cautious optimism, and we would be happier if the supply situation was 
+better. The supply challenges continue, we are investing in creating new sources of supply as 
+well as creating talent through Talent Next. There is enough and more demand, supply is 
+certainly something that we will need to continue working on. And when we got into the quarter, 
+we had talked about being industry leading on the Direct side, which is what we have delivered 
+for the year. And I guess it's difficult to give an absolute number, but relative performance is, I 
+think, what we can talk about, and which is why we have talked about being industry leading on 
+the Direct business for FY23 as well. 
+Moderator: 
+Thank you. We will take the next question from the line of Harshal Sethia from AUM Fund 
+Advisors. Please go ahead. 
+Harshal Sethia: 
+Are we pressing to reach a $2 billion run rate in the current year? Or what would be our target? 
+Manish Dugar: 
+What we have talked about is being industry leading so far as the Direct business is concerned 
+and it all depends on how the industry does. But last year was a coming back year for the 
+industry. So, there is a general assumption that this year will probably be less growth over the 
+previous year than we saw the last year. So, depending on how the numbers go, obviously, the 
+aspiration is to get not just to the $2 billion, but to higher number, but we don't guide a number 
+as you know. We are confident of getting to industry leading on the Direct side. 
+Harshal Sethia: 
+And I understand that, this year the industry growth would be lower compared to last year. But 
+definitely we would be building internal capabilities and increasing our addressable market size 
+by the Blink acquisition that we had done. So, I think we would be having a better picture in the 
+near term. 
+Nitin Rakesh: 
+The reason why it's an internal plan is because it's internal. So, unfortunately, we can't, we're not 
+going to give you what the internal plan calls for. And I think you will have to just make your 
+assumptions based on the trajectory that we have shown. 
+Moderator: 
+Thank you. We will take the last question that is from the line of Abhishek Shindadkar from 
+InCred Capital. Please go ahead. 
+Abhishek Shindadkar: 
+Three questions, if I may. The first one is, on the Blink growth. Now, when we acquired it was 
+doing 42% CAGR; for the quarter it's now growing at 20%. So, if you can help us understand, 
+what is driving this solid acceleration? And does it change the assumptions for earnout in 
+margins? I heard you in the previous question, but probably would like to understand that again. 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 18 of 19 
+The second is on the margin compression in Logistics & Transportation vertical, how should we 
+read that, I mean, it's not one quarter, but across the four quarters of FY22. And the third question 
+is, a clarification. So, the margin outlook shared, is that excluding M&A and ESOP cost, or it 
+includes both this cost, if you can help us understand that will be great. 
+Nitin Rakesh: 
+So, I think the last one is pretty straightforward. The margin outlook for FY23 is all-inclusive 
+based on what we know today. If there is a new M&A transaction that happens during the year 
+that's a different discussion. At that point, we will give you what the guidance will look like 
+based on what impact that might have. Based on the current visibility that is a reported margin 
+outlook. 
+On your first question around Blink, I think the sequential growth is not 20%, but closer to 10%. 
+It is pretty much aligned with the management plan. I don't think there is any dramatic shift in 
+any assumptions or financial impacts, given that one, it is still a very small percentage of 
+revenue. But we are very happy that it's performing, as expected and we constructed a deal thesis 
+based on a certain thesis, and that thesis is playing out both on standalone and more importantly 
+on Direct synergy. So, I think we are very pleased with the progress. Again, I would say still, 
+relatively early in calling victory, but very pleased with the progress we made in two quarters 
+that we have worked with them and very pleased with the performance of that business, the team, 
+the alignment and the client feedback. 
+And I think on the final question around Logistics and Transportation margins, I think some of 
+it, as I mentioned, is definitely related to the significant ramp up we have seen. We have also 
+invested dramatically in building new capabilities in new sub verticals within Logistics and 
+Transportation. What used to be very much, Logistics and ecommerce driven, now has a very 
+significant element of other sub-verticals within the transportation domain, including airlines, 
+because we have seen a significant resurgence of demand. And I think we announced, if you 
+remember, this time last year, we made public the launch of an Airline Data platform in 
+partnership with AWS. And that has become a significant driver of differentiation, as well as the 
+ability to attract high-quality, new logos in that domain has been very significant. But that has 
+obviously come at a high investment cost. 
+So, combination of investing with domain and taking obviously an operating hit on that, as well 
+as building up teams in advance of ramp ups, and investing with our customers in potentially 
+long-term strategic programs that give us a stickiness and the strategic intent with their 
+outcomes, is the primary driver of what you are seeing there. 
+Abhishek Shindadkar: 
+Just a clarification, in the previous earnings call we had mentioned the Blink contribution was 
+9Mn, and I heard 11Mn today so -- 
+Nitin Rakesh: 
+It is 13.5% sequential growth. 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9
+
+ 
+Mphasis Limited 
+April 29, 2022 
+ 
+ 
+Page 19 of 19 
+Moderator: 
+Thank you. Ladies and gentlemen, that was our last question for today. I now hand the 
+conference over to Mr. Nitin Rakesh, for closing comments. Thank you and over to you, sir. 
+Nitin Rakesh: 
+Thank you, everyone for your interest. And thank you for logging in early into the call. I know 
+the time zones create a little bit of a challenge. But we are appreciative of your interest. And we 
+look forward to talking to you after the next quarter earnings as well. Thank you again and have 
+a good day. 
+Moderator: 
+Thank you very much. Ladies and gentlemen on behalf of Mphasis that concludes today's call. 
+If you have any further questions, please reach out to Mphasis Investor Relations on 
+investor.relations@mphasis.com. Thank you everyone, and you may now disconnect your lines. 
+DocuSign Envelope ID: 817CFBFD-D3E6-4BBF-867B-5003455CCFA9

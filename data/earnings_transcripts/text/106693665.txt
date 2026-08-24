@@ -1,0 +1,855 @@
+ 
+ 
+Amagi Media Labs Limited 
+(formerly known as “Amagi Media Labs Private Limited”) 
+CIN: L73100KA2008PLC045144 
+Registered office: Raj Alkaa Park, Sy. No. 29/3 & 32/2,  
+4th Floor, Kalena Agrahara Village, Begur Hobli,  
+Bengaluru - 560076 Karnataka 
+ 
+P: +91 80 4663 4444 | E: info@amagi.com | W: www.amagi.com  
+July 10, 2026 
+Re: AMAGI/SE/2026-27/38 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort, 
+Mumbai – 400001, Maharashtra 
+Scrip Code – 544679 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, Bandra (E), 
+Mumbai – 400051, Maharashtra 
+Symbol – AMAGI 
+Dear Sir/Madam,  
+Subject: Transcript of the webinar “Ai in Media”. 
+Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, please find enclosed the transcript of the webinar titled “AI in Media” 
+hosted by the Company on Tuesday, July 07, 2026.  
+The 
+said 
+transcript 
+is 
+also 
+being 
+hosted 
+on 
+the 
+website 
+of 
+the 
+Company 
+at 
+https://www.amagi.com/investors/notifications  
+We request you to please take the same on record. 
+Thanking you. 
+For and on behalf of Amagi Media Labs Limited 
+ 
+ 
+Sridhar Muthukrishnan  
+Company Secretary and Compliance Officer       
+Membership No.: F9606 
+ 
+Encl.: As above 
+amag1 
+SRIDHAR 
+MUTHUKRIS
+HNAN
+Digitally signed by 
+SRIDHAR 
+MUTHUKRISHNAN 
+Date: 2026.07.10 
+16:16:06 +05'30'
+
+ 
+                                                                        
+ 
+ 
+Amagi Media Labs Limited 
+AI In Media 
+July 07, 2026 
+ 
+“E&OE” - THIS TRANSCRIPT IS EDITED FOR FACTUAL ERRORS. IN CASE OF DISCREPANCY, THE AUDIO RECORDING UPLOADED ON 
+THE STOCK EXCHANGE ON JULY 07, 2026, WILL PREVAIL.” 
+ 
+Management: MR. BASKAR SUBRAMANIAN – MANAGING DIRECTOR AND CHIEF           
+EXECUTIVE OFFICER – AMAGI MEDIA LABS LIMITED 
+MRS. AMOOLYA GIRIDHAR – VP, FP&A AND INVESTOR RELATIONS 
+ 
+ 
+ 
+Amoolya Giridhar: Thank you, everyone, for joining us today. This is the first session in what we 
+hope will become an ongoing educational webinar series for investors, where we periodically 
+discuss industry-relevant themes and developments. Today's discussion is strictly focused on AI 
+in media, so we request all participants to keep their questions limited to this topic. 
+ 
+The session will run for 1 hour. Bhaskar will speak for the first 40 to 45 minutes, followed by Q&A 
+in the last 10 minutes. As this is a listen-only webinar, please type your questions in the chat bot 
+with your name and company. I will voice them during the Q&A. 
+ 
+At the end, you will be invited to share feedback through a Google form by scanning a QR code. 
+Please take a moment to share your input and help us improve future sessions. 
+ 
+Before we begin, please note the disclaimer. Questions relating to the company's financial 
+performance, business outlook, operational metrics, strategy, or other company specific matters 
+will not be addressed. Please note that certain comments may include forward-looking 
+statements, industry observations, or estimates based on management's current views and 
+assumptions. Actual outcomes may differ materially. With that, I'll turn it over to Bhaskar to kick 
+us off. 
+ 
+Baskar Subramanian: Yeah, thank you very much, Amoolya. Thank you folks for joining us. 
+Good morning, good evening, good afternoon, wherever you are. So, today's topic is an 
+interesting and exciting topic, AI in media. I'm sure AI is the topic for all of us across many different 
+
+ 
+industries that we're really working on today, and media is no different, and we're going to talk 
+about it today, right? So, if we look at it, the first thing I want to talk about is to really understand 
+how a typical video value chain works, right? 
+ 
+As you know, television and all the OTT video streaming that we see, for example, I want to start 
+off with an example of how that actually works. If you look at it, technically, if you take any sort of 
+sports match or news or entertainment content, it starts from the camera and ends with a screen 
+where we watch content. We watch content either on television sets, or on our phones, or on our 
+tablets. Wherever you're watching that, that's where the content comes through. 
+ 
+But it always starts with the camera today, as we speak, right? So, there are a set of sections of 
+how the process works today, as an example. Let's look at it, for example, a game, right? So, if 
+you're watching a cricket match, for example. The action obviously starts in the stadium. At the 
+stadium, the first thing that you see is that you have multiple cameras. All these cameras gets 
+connected to a van called an OB van, which is nothing but a van standing outside of a stadium, 
+typically with a satellite antenna on top. Through which it gets beamed to a studio. We've all seen 
+it, I'm sure any of you have gone to a stadium, you would have seen this as a mechanism that 
+you see. Obviously, there are commentary boxes from where commentary is getting done, and 
+also, there is some sort of a production room where they're trying to look at what camera content 
+may make sense, and they do the switching of the cameras. 
+ 
+Now, once that is done, it comes to a preparation stage, where it comes to typically a studio. In 
+studio, this cricket match gets converted with sports scorecards, all the logos of the different 
+teams, multiple audio tracks that you want, and of course, the advertising and ad breaks, all of 
+that gets added in the preparation stage in a typical studio environment. Once that is done, it gets 
+distributed, either through cable or through streaming TV platforms that we are aware of, through 
+which we actually watch this content. 
+ 
+This is typically a stage where, obviously, monetization could be advertising, could be as 
+consumers subscribing to content. You kind of, kind of do multiple different monetization 
+capabilities today. And obviously, viewership could be across the globe that people are starting 
+to watch content. This sort of is the chain. So it starts from camera, producing content, preparing 
+the content, distributing the content, and eventually getting to viewers, for example. 
+ 
+Now, if you look at it, I just want to give you an analogy of what this works in the world. It's also 
+like a retail analogy, right? So, I'm sure a lot of you have seen the whole retail workflows and 
+chain. For example, like retail, there is a production phase where I'm sure that the consumer 
+goods you produce your goods. You take it to a warehouse and do all the packaging, then you 
+send it through trucks and any sort of logistics to get to retailers, and eventually consumers buy 
+it, either through directly or through the warehouse or the retailers, through a quick commerce or 
+an e-commerce or the mechanism that you see it. Very similar is what's happening in the content 
+business as well. If I'm a content creator, the first thing I do is to really produce content, exactly 
+like a factory. There is a content factory where hundreds of hours or thousands of hours of content 
+gets created, right? So that's the first part of the value chain. 
+
+ 
+ 
+Once it's created, it goes through a preparation stage, where, like a warehouse, you're actually 
+preparing this whole media stuff, and eventually, using some sort of logistics, you're sending it to 
+the platforms and eventually these platforms eventually deliver to the viewers, right? So, exactly 
+like a value chain of a retail. Think about it in that particular analogy that I want to really talk about 
+from a media distribution flow standpoint as well, right? 
+ 
+Now, if you look at it, AI is transforming every industry. So, like, I'm sure you folks are hearing it 
+every day. Media industry is already changing, and it's found no big difference. It's exactly like 
+every other industry; AI is transforming this industry as well. Now, to look at it, what we're going 
+to do today is to kind of understand this transformation that's happening across two spectrum of 
+things that we're going to talk about today. One is, if I'm a content creator, a business of either 
+building TV channels, or OTT operations, or any sort of studio or a content creator today, for 
+example. I'm looking at either operating leverage through AI, and we talked about Agentic and 
+workflows today, for example. Or I'm looking at market expansions, where can AI really accelerate 
+my expansion, be it in terms of reach and audiences. These are the two real levers, if you look at 
+it, that we really talk about when we talk about what's the opportunities in front of a content creator 
+to leverage AI. 
+ 
+The first step, if you look at it, is from an operating leverage standpoint. Agentic workflows. And 
+we're going to talk about what does it mean, and how operational leverage actually comes to the 
+whole system. Now, if you go back to the world of, factory production of consumer goods. What 
+is the biggest change in the retail industry that's starting to happen is the whole new evolution of 
+physical AI. We're talking about robots, we're talking about things which are starting to come in 
+and starting to make the factories completely autonomous so that now the cost of production will 
+come down in the production phase. And this is the very similar scenario that's happening in the 
+production space in the content business as well. 
+ 
+Content business is getting disrupted with GenAI. I'm sure a lot of us are building videos today, 
+with all the Google Omni and Google Nano Banana and obviously with a bunch of tools like 
+Runway, a whole slew of opportunities there that are starting to happen. CDance, it's very early 
+today, but now we are starting to see production really at high-quality production systems starting 
+to evolve. In the next few years, you're going to see a dramatically fundamental shift in terms of 
+how this particular technology is going to start stuff. What this essentially would do for the whole 
+thing is that the cost of production is going to deflate. 
+ 
+So let's look at it from an economic standpoint. If AI works and promises the way it kind of works 
+today, what would happen is that the cost of content production will deflate. That essentially would 
+mean that the whole economics of the business have to be rethought for every part of the value 
+chain, in terms of the production cost actually deflates, in terms of stuff. And when I say deflate 
+here. We are starting to see a new set of AI-first studios evolving. These are studios who are 
+trying to use AI as an important tool, but bring in the creative content capabilities and storytelling 
+capabilities of humans, and being able to fuse this to create very compelling stories. I'm sure 
+
+ 
+we've seen some in India, but we're seeing this across the globe as a major shift that's starting to 
+happen. 
+ 
+It's early in the days of what it is, but that's a big shift that's starting to happen. I feel maybe live 
+sports might be the only non-AI content to survive, if you look at it in a larger scheme of things, 
+right? Live sports is like gladiator sports for all of us. I think from the Roman times, we always 
+love to see humans competing against each other, and I think that is something that we'll continue 
+to see. Even in the future, given the emotions and the human needs, for example. But all other 
+content technically will start to come to a point of where it'll be very hard for us humans to delineate 
+whether it was AI-generated or human-generated to some extent. So that's a big change that's 
+starting to happen. 
+ 
+But once you create the content, the other pieces which are important as to what we call the 
+media preparation stage. This is a stage which has a lot of human cost today, for example. People 
+have to take the content, encode it in different formats, and create a lot of different, what we call 
+metadata. Now, what are all of this? If you look at it, I'm just giving an example of what it means 
+by metadata. Think about you're watching a content today. I'm sure when we open our OTT 
+platforms, we see what we call all of the data that you see on the screen is what we call metadata. 
+If you look at it, there is an image which we call an artwork. Typically, there's a description, which 
+is a storyline. There are program guide ratings. You see the actors. You see the episodic 
+information. You see the content advisories, you see a lot of audio tracks, audio subtitles, for 
+example, and who are the creators, copyrights, PG ratings. All of this forms what we call as 
+metadata about each of the content that you create. 
+ 
+Now, think about, in an environment where I have thousands of hours of content getting created, 
+and I want to do it across 40 countries, means I have to have multiple languages, not only the 
+metadata, but also the language of the content, subtitles, and everything else. And think about, I 
+need to do it across multiple languages, multiple countries, regulations are different in different 
+countries. This is the heart of what we call a metadata explosion that happens in business. Today, 
+it's technically a human cost today. Lots of humans in this factory of content, lots of humans work, 
+either trying to manually creating this metadata content, looking at compliances, so think about if 
+I'm a sports company, I would be doing thousands of hours of sports every month. I'm getting a 
+lot of content coming in. News, for example, every day I'm creating a minimum of 6 hours of 
+unique news content that I'm creating. So you're seeing a whole slew of content coming into my 
+system. I start to get inundated with the amount of work to be done. So there is clearly a big 
+headcount crisis in most of these companies today, in media companies, because it's a lot of work 
+to be done. And if you look at it, and when we talk to customers and others, what are the learnings 
+that we're having is, for every dollar that they've been spending on technology, there's $2 to $4 
+of human toil. 
+ 
+This is a big limiting factor for the video businesses today, because people have to see eyes and 
+ears, people have to see it, control it, manage it. Everything was a human element of this whole 
+system. And that is the biggest change that we are starting to see, primarily through what I call 
+agents to the rescue. So, agentic infrastructure, when we talk about it, and again, agent is a very 
+
+ 
+over-abused word in the industry. Everybody calls everything an agent. I'm going to kind of slightly 
+talk about what agent means in this context, but largely what we're seeing is that 
+ 
+Now, the whole chore of how people have been doing all of these content preparation stages, for 
+example, across multiple continents, globalization of the whole thing, will start to become what 
+we call Agentic. And let's kind of give an example of what agent is, so that we're all on the same 
+page, right? So if we look at it, again, I'm just taking a coffee machine example, so that it's easier 
+for all of us to understand. 
+ 
+Take a simple coffee machine, for example. A coffee machine, which is standard, is a non-agent. 
+When I say non-agent, it has a pre-programmed set of things that it can do. You press a button, 
+it does a particular sequence of things. You need an espresso, you need a cappuccino, you need 
+a latte, you know to click a button, and it actually gets done. So, this is not an agent. This is just 
+automation, a basic thing that the machine is supposed to do. And this is the normal world of what 
+we live in today, for example. What is an agent? If you think about the coffee machine became 
+an agent, for a moment, it actually is AI-enabled. How will it look like, right? 
+ 
+Think about the coffee machine actually talking to you. It's telling you, I've been monitoring you, 
+and based on your facial expressions and the time of day, I predict that you might need an 
+espresso. What did the system do? It understood your need proactively. It anticipated what you'd 
+like to have, and it actually is able to kind of act on that, and be able to deliver something that was 
+not really thought about. When the agent was created, or when the machine was created, the 
+machine was not programmed specifically to react to what you're seeing, but it's trained itself to 
+kind of react to this whole thing. This is what we call as an Agentic infrastructure. So this is, again, 
+not only for a coffee machine, for any task, anything, in any job, in any of the industries that you 
+see, this is what's happening. The ability to action on, first, to be able to predict and eventually 
+anticipate and act on it is what we call an agent. 
+ 
+Obviously, this is not a stop, right? As you know, as AI technology is becoming better and better 
+and better, we are starting to see what I'd call true AI agency. What this means is, like, this is the 
+AGI world that everybody's talking about, right? In a true agency. It learns by itself. Decides by 
+itself, and changes in ways that, as creators, we don't anticipate this whole thing. This is the future 
+of how AI technology and Agentic infrastructure is going towards. Think about the coffee machine 
+really saying, you know what, I've invented a new drink for you, and I think you will like it, because 
+I know what it is, and I'm going to make a cup of that, That particular coffee for you, for example. 
+Which is interesting, because it actually invented something new, because it customized itself, 
+because it knew that you wanted it, for example. That is what we call true AI agency, right? So, 
+this is the future of how the progression of Agentic infrastructure is going for all of us. Started with 
+no agent. 
+ 
+Today, we are in the world of Agentic Era, where the coffee machine equivalents are starting to 
+really understand our needs, and predict our needs, and be able to do that. The third step is where 
+it's able to pretty much invent and evolve itself, is where I think the future lies, in terms of how the 
+AI technology is going. And we're seeing this in our own business and media business as well, 
+
+ 
+where we're seeing that particular transformation that's starting to happen. Now, let's talk about, 
+if you look at it from a packaging and preparation standpoint, it's exactly like a warehouse. 
+ 
+Now, warehouses across the globe are starting to look at robotic agents. Agents which are 
+actually doing the job of being able to sort things, package things, getting things done, for 
+example. As you know, we've seen biped robots to multiple different robots starting to really come 
+into this picture. Very similar is what we're seeing in the AI, in the media business as well, is that 
+we're seeing an evolution of digital agents. These are agents. As I talked to you, think about it as 
+very glorified coffee machines. In the Agentic era, very similar is tasks and software, which are 
+actually AI-enabled software, which understands the media, understands your video, understands 
+audio, and understands the storylines, and is able to extract and create those metadata. 
+ 
+What I showed you as an artwork there, or what I showed you as a program guy, as a rating of a 
+particular content, or what I showed you as a story summary, for example, today, machines can 
+actually create those summaries automatically. We don't need a human in the middle to do that. 
+By just providing an overall sense of philosophy of how you want the metadata to look like, 
+systems can do that today automatically. That's the power of these systems. So, what it 
+essentially does is that these agents are starting to replace a lot of chore work, which is very hard, 
+because we couldn't get our customers to scale, because all of the media companies were really 
+struggling with this problem of messy media. You'd have seen our at-time report that went out a 
+week back, and I would urge some of you to download that and see that as well, where we talked 
+about metadata problems as one of the largest problems the industry faces, which is slowing this 
+down. And we believe, like, what you see here, for example, the agents will start to become a 
+very, very important part of that whole equation to solve these problems, for example. And once 
+you solve it, how should it really look like? Because, again, this is an imagination of a daily 
+experience.  
+ 
+Think about you are a scheduler in a TV channel, for example. The way, I think, in an Agentic 
+world, you need to enable it is, 2 to 5 a.m, this is obviously early mornings, the system is actually 
+working. You're sleeping, for sure, as a scheduler, but the system is actually building all of the 
+schedules for you automatically. It understands your taste. It understands the genre of the content 
+that you're working with. It understands new content coming to the system. It understands the 
+business needs that you have. It's understood the analytics of what happened yesterday in terms 
+of viewership. It's looked at social signals and figured out that yesterday was Amitabh Bachchan's 
+birthday. It understands all of that. So once it understands, it's able to schedule it, do what a 
+particular scheduler can do as a co-worker, it actually works with you to do that job. 
+ 
+Think about 7 o'clock in the morning when you wake up. The first thing it says, hey, I finished my 
+whole schedule. Here is a summary of the schedule. I want you to take some decisions. Hey, 
+human operator, please help me to take those decisions. And it actually reads it for you, for 
+example. Once you do that, and you see the whole grid, you're comfortable with the schedule, 
+you look at everything and say, okay, everything is done, and in 10 minutes, you finish your job, 
+you confirm it, and the whole system is scheduled, and you're done with the job. 
+ 
+
+ 
+Today, this takes 8 hours of a particular person to do this, day in and day out, for example. Now, 
+think about the value and the productivity that can happen. It is now, this person can suddenly 
+can do tens of channels. And all our customers want to do more and more channels, more and 
+more, because the content, the amount of content available, and the number of global regions 
+they want to reach is much higher. Now, these sort of agentic infrastructure is starting to really 
+help. For people to be able to create this whole preparation step, which is the biggest store job 
+today, for example, will become Agentic, and that's the biggest change from an AI standpoint that 
+we're going to see as we move forward. 
+ 
+But once you do it, the question is also, when you have the content done, you want to be able to 
+take that content and deliver it across multiple platforms. As I told you, content is going global. 
+You want to go to tens of countries in different languages and different regulations, and you go to 
+different people. This is a logistics problem. This is exactly like a, you're a toothpaste 
+manufacturer, you want to take your toothpaste and be able to take it to every possible store in 
+the world, be it a Kirana store, or an e-commerce, or a quick commerce, or wherever you want to 
+take it to, a big retailer, for example. When you start doing that. The biggest challenge is a lot of 
+back-and-forth interactions that happens today, for example. A studio has to transact today. All of 
+those transactions are almost like human transactions today. 
+ 
+There are people on both sides talking to each other. It starts with a very simple thing, right? So, 
+for example, if I'm an OTT platform, I ask a simple question, hey, what is the show for Diwali that 
+you're actually doing? I want to plan for Diwali, for example. Now, just think about it, this platform 
+OTT brand has to do this for hundreds of such content owners, a very similar conversation. Either 
+this happens on email today, or in phone transactions, where this person is actually talking to 
+hundreds of such content creators. 
+ 
+The reverse is true as well. The content creators are talking to hundreds of platforms worldwide 
+across 40-plus countries, where they need to kind of get these capabilities actually defined as 
+well, for example. 
+ 
+So what you see is a world today of a lot of chatter and conversations and communications and 
+negotiations happening between the studio or the content creator and the brand, which actually 
+need to do this, for example. So, this is a very manually intensive job. It's not only about 
+communication, it's about preparation, negotiations, and everything else that starts to happen. 
+Think about a world that we're actually able to create two agents which are talking to each other. 
+ 
+An agent which understands the platform's needs. He's talking to hundreds of such content 
+creators, saying, hey, what are we planning for Diwali? Each one of you, can you tell me what 
+you're doing? And think about the agent able to aggregate it from hundreds of content creators, 
+find out the best Diwali shows that it wants, and starts to prepare for advertising or even creating 
+content on your homepage to really promote Diwali content for all its viewers, for example. Think 
+about and imagine the situation on the media studio side, for example. The studios can now be 
+able to talk to all its tens of different platforms they're going to worldwide, and actually talk about 
+what they're going to plan for Diwali, and be able to provide that and prepare it in multiple 
+
+ 
+languages, multiple artwork, different regulation environments, they can prepare all of these 
+capabilities and provide it, for example.  
+ 
+Now, all of this is  a big challenge. Just by having a human system, we were able to kind of find it 
+very hard to connect all these dots together. What we see as a future is what we call inter-
+company Agent transactions. This is a very powerful new concept that's starting to happen in 
+every industry. Media is no different. If you look at it, all the agents that we talked about earlier, 
+they're all inside the company doing a particular job for that particular company. In the media 
+companies, as a content factory, as I told you, they define, they kind of decide on the content, 
+create your metadata, prepare the content, encoding all of the content-related preparation is what 
+it did. But here is a possibility where now these agents are talking to other platforms, transacting, 
+negotiating commercials. Identifying what's the opportunities, and eventually be able to transact 
+it like a marketplace.  
+ 
+Think about agents starting to talk to each other. Think about every company had agent interfaces 
+through which it happens. Your legal documents get done. Your commercial negotiations get 
+done. The technicalities of what content you're transacting gets done and this is the step in the 
+future that we see, where you're going to see this whole interaction starting to happen across 
+agent to agent, that's going to happen, for example. 
+ 
+ So what we started off with producing content, which I think with GenAI and with a lot of 
+autonomous capabilities is switching. It's changing a lot of things in terms of how people are going 
+to be creating content. Once you create the content, how do you prepare the content to be 
+distributed? We saw this whole Agentic infrastructure coming in. Once you do that, now you come 
+to the point where you've actually prepared the content, you want to kind of transact that content 
+across a different globe. Now, inter-agent transactions become the core feature of how we do 
+this. 
+ 
+Now, the innovations doesn't stop here. The moment you'd be able to do this, for example, 
+fundamentally what is happening is, think about delivery to consumers. Take what is happening 
+in the world of e-commerce or commerce that we see as it is, right? If you look at consumer 
+delivery today, in a real world of how we are buying products today. Our content, our delivery of 
+today is happening because we're discovering content through an e-commerce, or a quick 
+commerce, or any of the website or equivalents that we're actually going through, for example. 
+ 
+But I think we're almost in a close phase of how a big transformation is happening, and that's what 
+we call Agentic Discovery. What does it mean? Think about the world where, if all of us have our 
+personal conversational bots with us, that could be a ChatGPT, a Claude, or a Gemini, or 
+Tomorrow, whatever the sort of conversational bot that you have, think about what would happen. 
+Would we go to a website, and I'm sure already most of us are not searching on a Google search 
+today, but you're actually going to, to your, conversational bots today to talk to things.  
+ 
+Think about the bot. The bot has become extremely powerful. It understands, and it can actually 
+understand your nuances, understand your preferences, and we would start to really transact our 
+
+ 
+goods through that. So we're going to really buy all our stuff through possibly an Agentic 
+Discoveries interface, which is nothing but our own personalized conversational bot, which 
+understands us, for example. 
+ 
+That's the same thing that would potentially happen for the viewing delivery as well, right? We're 
+already seeing that, for example, should you go to a destination? Should you go to an OTT brand 
+website to actually look for content? Yes, the content is locked behind all of the paywalls today, 
+for example. But think about a world that could potentially happen, is you have an Agentic 
+discovery platform. You, as the consumer, would own the surface, own the interface, own the 
+client that you have, for example, where you are able to pretty much decide on the content that 
+you want to watch. And you're able to click buttons from that, and be able to watch the content. 
+The discovery is personalized to an extent that it knows what you have watched earlier, and not 
+specifically on a particular surface. It's not about Netflix or a Prime or a YouTube or any of the 
+other platforms that you're watching, but it's actually having a good understanding of what your 
+watching behavior is across the whole spectrum of things you do. It also understands your mood, 
+it understands your emotions, it understands the things that you are actually dealing with on an 
+everyday basis. It understands you better than anything else in the world. And that's the power of 
+this whole Agentic infrastructure that's starting to happen on a personal level. 
+ 
+So, I believe that the discovery of content, discovery of commerce will start to change, where 
+we're going to start to really transact content through an entirely different surface, which is where 
+I feel the next step in the evolution of this technology is going to happen. So, if you look at it. 
+We've seen how production is changing, we saw preparation changing, we saw the whole 
+transaction of platform distribution changing, but more importantly, how consumers consume, 
+how consumers discover, will also change. So the whole value chain is starting to really look at a 
+complete change because of this whole AI technology starting to really impact everybody in that 
+particular equation, right? And it's a tremendous value, big change that's starting to happen. But 
+not only that, if you look at it. AI not only supports change from an agentic standpoint that we 
+talked about, but it can also help you to really make your content better, extend it reach, create 
+entirely new sets of content. With GenAI, obviously, we're going to start creating a lot more 
+content, which we're going to create, for example. 
+ 
+But that's only not the first stage in this whole equation. What we believe is that there's going to 
+be a big transformation in how we create content, or even repurpose an existing content, for 
+example. And that's going to be the big next step in the equation that's starting to happen. What 
+is the fundamental hypothesis when, when starting to look at this whole thing? For example, if 
+you look at it. Today, and this is happening across all the different media businesses that you'll 
+see it. There's a rich reality of storytelling, be it sports, be it news, be it entertainment content. 
+There's a lot of reality we're capturing. Think about it. In a sports game, for example, there is close 
+to anywhere from 20 to 100 cameras today on a sports field capturing a particular moment in time 
+in sports. There are sensors, there are microphones, there are so many different gadgetry that 
+actually support a very rich reality of the interface. 
+ 
+
+ 
+Now, unfortunately, because of the current bottleneck of both humans and the hardware that was 
+kind of stuff, you see what I call a bottleneck in all of these capabilities today, for example. This 
+bottleneck was because we could not scale as humans, and we could not scale our hardware that 
+existed, for example. And that, what it did enable is it actually created a homogenized mechanism 
+of how we watch content today. 
+ 
+All of us watch very similar content. It doesn't matter if you're watching on OTT or cable or any 
+other platform today, we watch a very similar set of capabilities. The same set of camera switches, 
+the same sort of commentaries, the same sort of news content that you are watching, for example, 
+on a TV, for example, on a live TV, for example, or eventually even entertainment content, exactly 
+not changed. What would AI do for this is a big change of being able to transform this capability 
+dramatically, for example. 
+ 
+And one of the examples, for example, just think about it. If you had a single match that you're 
+watching, so if you're watching a cricket match or a football match, for example. A single football 
+match now can be actually, if you remove the human cost of somebody deciding to switch 
+cameras, if you remove the hardware costs out of the system, for example, now you have a world 
+where you can create many, many stories out of the same match. Think about, you like, 
+analytically look at the game, you would look at it very differently. Tactical fans, you could look at 
+all of this. If you're a home fan, maybe I'll give you a complete different storyline of through, home 
+game equivalent. The cameras I switch. The commentary that I do for you, the players that I 
+actually show you, for example, the statistics that you see on the screen, the graphics that you 
+see, everything will be specifically tailored towards a particular persona and what we want to 
+watch, for example. 
+ 
+Today, this is very expensive. If I want to do it through humans, and if I want to do it with a lot of 
+hardware, it's a very, very hard problem today, for example. But AI fundamentally shifts this whole 
+thing from a cost standpoint to afford and enable in real time the ability for us to be able to change 
+this, for example. So, the future is where you can have the same match, but you can actually see 
+multiple stories. 
+ 
+If you're a Gen Z, maybe you have a particular screen on which you're actually watching content, 
+you're actually chatting with your friends, and you're able to do this. And you're able to do it at 
+multiple camera positions that you're able to see simultaneously, for example. So, you are able 
+to create native storytelling across different things, and AI is a very big enabler for these sort of 
+capabilities that we can actually be able to enable as we move forward as a company, right? So, 
+this is one big change that we're seeing in the industry. 
+ 
+The other things, for example, is if you look at it, I'm sure lots of you are starting to look at macro 
+drama. And today, if you look at it, thanks to Jenny and others, the microdrama is something that's 
+getting created today, right? Microdrama, lots of teams and companies and production houses 
+are creating microdrama from scratch. Now, with AI, but there are so much of stories that we've 
+told in the past. Think about we're able to take our stories of the past, and over the last 50 years, 
+
+ 
+I'm sure we have done so many storytelling, so many movies, and so many shows and episodes 
+and serials that we've done, for example.  
+ 
+Think about we're able to bring it to the new world, example is a three-and-a-half-hour Sholay 
+movie. Think about the Sholay movie was actually available as three-minute micro-dramas, 
+intense episodes. In 30 minutes, you're able to see the whole story, for example. That's sort of an 
+interesting sort of play that we can actually bring on board, where we're able to bring in an entirely 
+new set of content, and an existing set of content, to a new format that we were able to say. So, 
+same story, but now you could do multiple storytelling formats. And again, this was not possible 
+pre-AI, because humans couldn't have taken millions of hours of content, converted it to vertical, 
+you know, from a storytelling fashion. Now with AI, these are all becoming a possibility of 
+transforming content. So not only it's becoming agentic, but the transformation of the content itself 
+is a reality that's starting to happen. 
+ 
+Now, what I wanted to kind of leave with you is that we saw that not only cost operating leverage 
+can be brought in because of all the Agentic automation that you can actually bring on board, the 
+smartness that you can actually deal with things, but more importantly, the content can be 
+transformed. The storytelling can be transformed, which I think is a very big step in terms of how 
+we see this whole transformation starting to happen. And for all of this, and look at the 
+technologies that are evolving. It's a very fast-evolving space, like everything else, but the content 
+business technology is slightly more complex. Why is it complex? Because it has audio, it has 
+video, it has text. Unlike businesses which are just typical enterprise businesses where we are 
+transacting everything through only a text or a document. 
+ 
+Video businesses actually have to deal with audio, and when I say audio. It's not only about 
+speech that happens, it's music, the background audio, everything has to be understood. This is 
+where humans are spending a lot of eyes and ears to look at all of this and hear all of this, for 
+example. You take a video, for example, I need to understand the background, the characters, 
+the action, the emotions, and I'm sure if you look at a game, I need to be able to understand what 
+is a basketball dunk, to a goal, to an injury, to a foul, to a yellow card. Every possible thing that I 
+would like to kind of understand, for example. Similarly, if you look at text, I need to understand 
+what's happening, how is the summary creating, what's the scene descriptions, and everything 
+else in the parquet file. So, what you see, essentially, is that as you start creating technologies, 
+for example, the AI technologies, it is very complex to solve these problems, because you have 
+to solve all of this together. Now, already, this is a field that's actually sort of evolving much faster, 
+right? Obviously, large language models, great in text, you can definitely use it. That's your base 
+of what you do from a text standpoint. 
+ 
+But if you look at it, obviously, you build small language models because your reasoning may not 
+be very expensive, so you create those capabilities as well. But more importantly, you are talking 
+about video and audio, which are very rich in terms of the stories they tell, the emotions they 
+carry, and the information that's available, for example. 
+ 
+
+ 
+Now, we're in a very early phase of that transformation. I think we've done leaps and bounds over 
+the last two years in terms of, obviously, the GenAI piece of video generation. But you also need 
+vision language models, which are nothing but VLMs, what we call, is to extract that information 
+as well. So I want to have an eyes and ears model, right? So you want to be able to understand 
+from eyes and ears what is happening on the scene, and be able to extract that, because that's 
+the way you understand the multi-dimensional aspect of a particular movie or a content that you're 
+actually watching, for example. 
+ 
+So, what we call as VLMs are actually driving that particular part of the house, right? Very early, 
+very few VLMs have come in, which are starting to engage, but they are very expensive and very 
+slow today, right? What's happening? The next step that's happening is what we call world 
+models. I'm sure some of you have heard of this whole world models. World model is trying to 
+predict from the current situation that you see, what is the next step that a particular real world 
+environment would have done. Think about it. Obviously, this started in the autonomous car 
+scenarios. If I know where I am, what is the next moment in time and what would happen? I don't 
+know, a car in front of me would move or should I actually put my brakes? You're actually 
+predicting what's the next step in the equation that you want to do because you understand the 
+real world and you simulated the real world in front of you, for example. 
+ 
+That's a big use case for video as well. If you look at content business, for example, you can 
+create, for example, sports scenarios, for example. Take a sports scenario, if I know an example 
+of a particular location or time of a person kicking a ball, I can start to predict how the ball is going 
+to really flow. Because the system starts to understand the physics of the ground, the physics of 
+our planet, it can actually start to understand the air drag, it can actually start to kind of predict all 
+of that, for example. 
+ 
+Exciting new possibilities if world models start to work the way it is. In the next couple of years, I 
+think this will be a big change for the industry. You can create much more immersive experiences 
+that was really impossible today. Think about the camera positions, and I'm sure lots of you are 
+watching World Cup today. I would love to see it from the gloves of a goalie catching a ball, right, 
+or protecting the ball, for example. I would love to see it from the shoes of a player when Messi 
+kicks that goal, for example. I want to see how fast the ball goes, for example. I want to be in the 
+ball to kind of see how the ball is actually transferred. So, the immersiveness of the experience is 
+now driven by the cameras that we have. But in the future, with world models, you're going to see 
+the immersiveness of the experience is going to be driven by the ability for us to track every part 
+of a game, or a sport, or a scene, or whatever you want to see, for example. So, immersive video 
+truly is dependent on how world models will evolve. And this is a big area of research that's 
+happening worldwide, and we're truly excited because this is something that I think can 
+dramatically change how  AI and video can actually be a big change for us to grapple. 
+ 
+But if you look at it, because of video is also, as I told you, very hard problems of video, and you 
+want sometimes very low latency, you want your cost to be reduced, you want your performance 
+to be very high. Think about… if you're talking about… I talked about games where we're talking 
+
+ 
+about a football game, and you want to create multiple different productions. Different cameras to 
+be switched to different people, for example. 
+ 
+Now, a human can see that and quickly, in their mind, decide which cameras to switch, for 
+example. Think about if I put a machine in front of it to do that. The machines, if I put a, I don't 
+know, a language model of any fashion, the vision language model, it'll take a few seconds to 
+even understand what the scene is all about. That's not acceptable in the content business, for 
+example. So we see that this is an important aspect, is there is going to be hundreds of custom 
+audio-video models. Models which are very specific to things, right? Some things can understand 
+maybe just a basketball game or a soccer game. Something can understand just the environment. 
+Some things can actually only do a modeling a great ocean scene, for example, for you. 
+ 
+So, the world models and the custom models are a big, important part of the technology evolution 
+that's starting to happen in this particular stuff, right? So, audio, video drives much, much larger 
+needs than just the LLMs. So it's not a Claude or a GPT or a ChatGPT or Gemini that can solve 
+problems in the video and audio business because it needs a lot more. Not only for generating a 
+video, but also for extracting information out of the video to take any sort of reasoning decisions. 
+It's a fairly large and complex problems . 
+ 
+We're in a very early phase of the transformation of those technologies that are starting to happen, 
+but I think it's truly an exciting phase, because audio and video is the next biggest thing, because 
+like humans and how we kind of take in and reason our systems through our eyes and ears are 
+a very, very important part of the whole phase of how we access content and react to content. I 
+see the same thing starting to happen in the systems as well, as we move forward. 
+ 
+So, in a sense, if you look at it, I just want to kind of. AI transformation is happening across the 
+value chain of this content business, so It's not one versus another. We're seeing this change, 
+foundational transformation. Like every other business that I'm sure you folks have been kind of 
+interacting with multiple different companies and multiple different businesses, media business is 
+going through that transformation. It's truly an exciting time because this is a new era that's 
+starting foundationally. And I think this is going to change the players, change who creates 
+content, changes the personas, changes the way you're going to consume content, changes the 
+whole storytelling economics completely. And that's exciting because, this sort of a transformation 
+happens once in a lifetime, and that's where I think the opportunity lies, in terms of being able to 
+build not only technology, but entirely new order of businesses in the value chain getting 
+reconfigured completely.  
+ 
+So, with that. I would like to kind of stop this presentation for you, to tell you that, hey, this is an 
+extremely exciting opportunity. AI in media is one of the most compelling, challenging 
+opportunities that we're seeing, and obviously, I'm biased because I'm part of a media company, 
+but truly, this is a big opportunity, folks, and the change is extremely palpable. The technology is 
+complex, but that makes it the most fun. In terms of doing it, the transformations in front of us, the 
+experiences that you and me as audiences will see is going to be dramatically different. And, with 
+
+ 
+that. Thank you for this time that you all spent with us. And we'll go to questioning. Amoolya , 
+what's the next step that you want to do? 
+ 
+Amoolya Giridhar: Yeah, just before we go to questions, there's a QR code, on the page here 
+for you to leave feedback to us, so that we can improve. I'll start, with, you know, voicing some of 
+the questions that are in the chat here. But I wanna reiterate that the discussion is gonna be 
+strictly focused on AI and media. So all questions, please be limited to this topic. We will not be 
+taking company related questions in this session right? So the first question, Bhaskar, is from 
+Pattabhi Ditta. 
+ 
+Given that we have strict SLAs up to 99.9999 with clients, Agentic AI can be prone to hallucination 
+and be at times unpredictable. What are the safeguards we have in place to mitigate such risks? 
+ 
+Baskar Subramanian: Okay, specifically, I wouldn't want to talk about the business, but the idea 
+is to make the systems not hallucinate and be able to deliver value to, to all the stakeholders, 
+right? So, a lot of work that our company, and I'm sure lots of companies are doing, is to bring 
+determinism to an indeterministic problem. You need to put a lot more guardrails. You build what's 
+called systems. And when you're talking about a factory of content, hundreds of thousands of 
+hours of content, the predictability to bring in is the most important thing. And I'm sure if you talk 
+to any companies which are really in the cutting edge of building AI solutions for customers. The 
+challenge is not demos. Demos and POCs are the easiest. The hardest is to get them to 
+production and make it work realistically in all the scenarios. So that's part and parcel of the key 
+value of building technology and engineering for these companies to make it happen. So that's 
+what it is today. 
+ 
+Amoolya Giridhar: Got it. Got it. 
+ 
+Next Questions from Shankar Narayanan S. 
+ 
+Regarding the prep work, are we seeing any improvements in the speed in work due to AI? Does 
+it in turn reduce pricing because of AI-led deflation? 
+ 
+Baskar Subramanian: So primarily, if you look at it, this is a human cost reduction, eventually. If 
+you look at it, the fundamental idea is the core technology remains exactly the same thing. You 
+need to be able to access and translate content. But I think what was a human element? Take an 
+example. For example, I'm sure you folks have seen that today, for example, speech to text is at 
+a point where all our subtitling needs are going away. Doubting is becoming a reality. Take any 
+sort of transformations of any artwork creation, a promo creation, for example, which is a human 
+job somebody has to do, is changing. So this is actually a net impact in terms of, we are seeing 
+this as a dam incremental that's starting to happen because this is a cost of human cost that was 
+there, which is either not possible or couldn't be expanded. And that's where I think newer 
+business and possibilities are starting to happen for us. That's what we see. 
+ 
+
+ 
+Amoolya Giridhar: Got it, Bhaskar. Another question from this, from Shankar Narayanan. Can 
+AI become a lever for getting production and pre-production workflows to be hosted in cloud? 
+ 
+Baskar Subramanian: Absolutely, right. One of the trend lines that we are seeing across the 
+whole customer spectrum is that AI, by definition, is driving, progression towards, more scalable 
+cloud platforms. The reason why it's happening is fairly straightforward, because I don't have 
+access to GPUs and servers in my own facilities, exactly. Clearly, I need to move from on-prem 
+to non-cloud, and that's progression is happening because of the acceleration of AI workloads 
+that are going to be applied in my platforms, and that's a big driver. Absolutely, we would see a 
+lot more progression in that case. 
+ 
+Amoolya Giridhar: Question coming in from Anmol from Dam Capital. Have we seen increase 
+in OTT cable based content because of AI? Any real life examples on cost that has been reduced? 
+ 
+Baskar Subramanian: Because in bits and pieces today, I'm all… I don't think… it's not a big 
+factory approach yet, the whole system. I'm already seeing a lot of content creators telling us that, 
+for example, the VFX cost is coming up. So that's the first step. So they're not going and changing 
+the whole movie content on storytelling completely, but parts of the story is now getting told 
+through an AI, either a background creations or in specific places, locations where they're actually 
+starting to use it for storytelling. So that's where we're seeing it. It's early days, but I'm sure, given 
+the directions and what we're seeing, in microdrama, I see a lot more activity, but in the OTT 
+platforms and the content creation platforms. I'll look small today, but definitely the direction is 
+very clear that it's going to be a big tsunami of sorts in terms of how content is going to be created 
+in the future. 
+ 
+Amoolya Giridhar: Got it. A similar question, Bhaskar, on cost saving metrics from Ayush Shah. 
+Is there any evidence on cost savings, for production prep, etc, especially given the higher token 
+costs? 
+ 
+Baskar Subramanian: No, because again, going back, see, token cost is only a very small part 
+of the cost of AI today. As I told you, this is all video. And videos are primarily where a lot of 
+custom models are doing the job. Yes, there's GPU cost, so I wouldn't call it token cost in that 
+context of the currency, because token cost is very specific to the language models and how you 
+do things. But in the work of multiple GPU costs and expenses, it is there. But what we're definitely 
+seeing, for example, is in some of the capabilities that we're seeing, humans couldn't have done 
+this job. Just the volume of jobs is so high that we couldn't have done it. That's number one. So 
+clearly we're seeing possibilities for our customers where they can create new revenue 
+possibilities. So that's one place that we see. The second one we're seeing is really cost savings 
+because, humans are very inefficient in doing some of these capabilities, for example, and we're 
+seeing tremendous savings from those capabilities. And the cost of GPU is nowhere comparable 
+to the cost of the human cost. That has to be applied if you're going to do that. Most of our 
+customers are looking at more of an expansionary aspect, not as a cost saving capability as it 
+stands today. 
+ 
+
+ 
+Amoolya Giridhar: Got it. 
+ 
+I just want to reiterate that a couple of questions coming in on Amagi, Amagi performance, and 
+so on and so forth. This is not the forum for it. We'll probably take it up at a later point. There's 
+another question from Rohan Nakpal, Helios. 
+ 
+Are there any network effects that can come from agent-to-agent communication opportunities 
+you discussed? Is there any benefit to being the first mover here? 
+ 
+Baskar Subramanian: Okay, I'll give you a generic business answer for this rather than trying to 
+do anything in the Amagi specific in this case. So clearly, if you look at it, when you look at any 
+ecosystem of players, if there are two parts of the ecosystem that you're able to connect through 
+an agentic infrastructure, the value of the network effect is extremely high. So one is, if you look 
+at it, any Agentic infrastructure which works on one part of an ecosystem is a more productivity 
+enhancer. It's a cost efficiency and operating leverage enhancer. But anything that actually is 
+communicating and coordinating across two players or two different distinct entities of an 
+ecosystem, for example, or tomorrow, multiple entities across the ecosystem, I think it has a 
+dramatic multiplier effect in terms of network effect that will happen. So truly, that's going to be a 
+productivity enhancer. Very early days in every industry. So inter-agent communication and 
+protocols and standardization and how this is going to happen is something that I think every 
+industry is going through this whole process of change. I think with defining it for specific 
+industries, we can start to attack these problems, but I think that's where the biggest value 
+multipliers, in terms of newer programmatic interfaces through which these transactions happen, 
+I think, firstly, there is going to be a time compression of all of these things, right? Think about 
+today, just negotiating legal agreements between two parties and two different ecosystem 
+partners, for example, is extremely high. These agents can technically bring it down dramatically 
+in orders of magnitude of time and effort that will come down. And obviously, the key aspects of 
+what, as consumers, we would like to have, I think that the ecosystem will drive that, the agents 
+will support it. And the key decisions are going to be humans, but all other capabilities will actually 
+be identified. And I think that's a huge, huge opportunity in front of every company which is looking 
+at an interagent sort of infrastructure. 
+ 
+Amoolya Giridhar: The question on, the depth of engagements, Bhaskar, from Varad Gulati 
+Dalal Brocha. Does AI help strengthen the business with deeper engagement with clients? Does 
+this create a threat to horizontal SaaS or cloud companies like hyperscalers, etc? 
+ 
+Baskar Subramanian: See, fundamentally, again, two parts, right? And again, there's no one 
+single answer to these sort of directional aspects, right? If you look at it, and I'll tell you the vantage 
+point of vertical, which is what we are, and, If you look at it from a vertical standpoint, because it 
+is very, in the view of, at least, in the vantage point of the media business we see, this is mission-
+critical software. It's mission-critical services and capabilities that we're actually delivering. That 
+provides a significant moat for all these companies to understand, because context, I'm sure 
+you're hearing, is the biggest part of, the reasoning might become commoditized, but the context 
+of the enterprise, the context of how you do things, becomes the most important moat for any 
+
+ 
+business. And that is the whoever owns that context and the moat is the one which actually can 
+drive the whole workflows for the future. Obviously, the Agentic infrastructure and the reasoning 
+systems exist, but important is the business context, the technology context and the operating 
+context, and how we kind of bring to the picture with that. So, long story short, whoever owns it, 
+in whichever kind of businesses that you're looking at it, that is going to be the biggest drivers for 
+these businesses going forward. 
+ 
+Amoolya Giridhar: Great. Thank you. 
+ 
+There's one question just coming in now. And folks, we have about 5 min left. So any questions 
+on the industry on the topic, please, please post them in this is from Sharad Goenka, Bhaskar 
+with the rapid adoption of Agentic AI across media. 
+Do you expect it to materially reduce operating costs for your customers? If so, could this create 
+pricing pressure as we go about things? 
+ 
+Baskar Subramanian: See, what are we seeing? This is like everything else in life, for example, 
+is what I call the Jevons' paradox starting to play out. Jevons’ paradox is simple. if you had more 
+automation, more capabilities, I think as a civilization, we've always done more things. We've 
+never done less things, right? The conversation I'm having with my customers today is that they're 
+saying, oh, now we have this, how can I expand my capabilities? How can I expand my revenue 
+opportunities? So, the fundamental idea is more the technologies and the automation and the 
+capabilities of reasoning that comes in, more the business expansion that we're starting to look 
+at, right? In terms of how people want to look at this business, right? So, more than deflationary 
+trend on a per job, that might be eventually a deflationary trend. But the amount of jobs that people 
+want to do, the multiplier of things that people want to do, looks really expansionary for me, the 
+way directionally that I see. And something about the market, I'm just talking about the overall 
+industry trends that we're seeing. That's sort of the direction future that I see. 
+ 
+Amoolya Giridhar: Another from Chintan from Girik Capital. How do you see industry 
+commercials between vendors and clients change from its current form as industry moves more 
+towards Agentic AI deployment? 
+ 
+Baskar Subramanian: I think there's going to be a, again, this is very early today as we see, 
+right? But this is a relationship that's starting to. I think people are starting to explore change in 
+this particular direction. Obviously, a lot of conversations on outcome-driven change, right? I'm 
+sure you've seen it in every industry, where outcome-driven pricing models. Be it in a call center 
+today that we're seeing, for example, on a per-transaction basis, or per-result basis, or from a 
+per-success criteria basis that we're trying to do. We are starting to see that sort of conversations 
+across every industry. It's happening, and media is a little different from that perspective. So we 
+see this as a directional aspect where you're going to have the core gut of the system continue to 
+be what it is, because that's based on the value equation that they're already gaining. But 
+everything else from a human cost operating leverage. Or a new revenue share possibility that 
+whenever there's an expansionary trend, I think the expansionary trend is going to be driven by 
+some sort of an outcome. The question is how is the pricing going to be determined linear to the 
+
+ 
+outcome is something that has to really play out in every market, and media is no different. We 
+don't see that really play out as much today, but very early to say how that's going to kind of drive 
+on going forward. 
+ 
+Amoolya Giridhar: Great. I think we're at the end of the queue, Bhaskar, in terms of questions 
+that are non-company related. So, folks, I think we'll wrap the webinar for today. Any other 
+questions that you may have that you may need a one-on-one engagement, feel free to write to 
+us at ir@amagi.com  
+ 
+Thank you all for joining in today and encouraging this whole new form that we're trying out. 
+ 
+Thank you. 
+ 
+Baskar Subramanian: Thank you very much, folks, and feel free to bring your feedback in terms 
+of what we could do better, new topics that you would like us to share. Happy to go through this 
+process, given the ringside view that we as a company, we are very fortunate to have it worldwide. 
+Happy to bring in specific curated content for you folks, in terms of how we do it. It's nothing to do 
+with the AMAGI, but literally an education session that we would highly be happy to do this, and 
+we'll bring in experts worldwide to help you to kind of understand this better. Happy to do that. 
+Please give us feedback, we'll be happy to do that. 
+ 
+Thank you, guys. 
+ 

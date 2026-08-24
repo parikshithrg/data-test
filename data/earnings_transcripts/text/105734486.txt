@@ -1,0 +1,923 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304 
+T: +91120 4770770  F: +91120 4770771 CIN: L72200DL2000PLC108985 
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019 
+One 97 Communications Limited 
+compliance.officer@paytm.com 
+www.paytm.com 
+January 24, 2024 
+ 
+BSE Limited  
+Department of Corporate Services  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai - 400 001  
+ 
+Scrip Code: 543396  
+National Stock Exchange of India Limited 
+The Listing Department 
+Exchange Plaza, 
+Bandra Kurla Complex, 
+Mumbai - 400 051 
+ 
+Symbol: PAYTM 
+ 
+ 
+Sub.:  Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 - Transcript of the earnings conference call  
+ 
+ 
+  
+Dear Sir / Ma’am, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, please find enclosed the transcript of the earnings conference call, conducted on January 20, 
+2024, on financial results of the Company for the quarter and nine months ended December 31, 2023. 
+ 
+The 
+above 
+information 
+is 
+also 
+available 
+on 
+the 
+website 
+of 
+the 
+Company 
+at 
+https://ir.paytm.com/financial-results. 
+ 
+Kindly take the same on record. 
+ 
+Thanking you 
+ 
+Yours Sincerely,  
+For One 97 Communications Limited  
+ 
+ 
+Sunil Kumar Bansal  
+Company Secretary & Compliance Officer 
+ 
+Encl. as Above 
+ 
+SUNIL KUMAR 
+BANSAL
+Digitally signed by SUNIL 
+KUMAR BANSAL 
+Date: 2024.01.24 17:36:36 
++05'30'
+
+Paytm | Q3FY24 Earnings Call |
+Call Date : January 20, 2024 | Time: 10:00 AM Indian Standard Time
+__________________________________________________________________________________________________________
+Disclaimer:
+By reading this call transcript you agree to be bound as follows: This earnings call with the management
+of One 97 Communications Limited (“Company”) is for information purposes only without regards to
+specific objectives, financial situations or needs of any particular person and is not and nothing in it shall
+be construed as an invitation, offer, solicitation, recommendation or advertisement in respect of the
+purchase or sale of any securities of the Company or any affiliates in any jurisdiction or as an inducement
+to enter into investment activity and no part of it shall form the basis of or be relied upon in connection
+with any contract or commitment or investment decision whatsoever. This earnings call does not take into
+account, nor does it provide any tax, legal or investment advice or opinion regarding the specific
+investment objectives or financial situation of any person. The information to be presented and discussed
+on this earnings call is confidential and proprietary to the Company and/or its affiliates and no part of it or
+its subject matter be used, recorded, reproduced, copied, distributed, shared, or disseminated, directly or
+indirectly, to any other person or published in whole or in part for any purpose, in any manner whatsoever.
+Statements or comments made on this earnings call may include certain statements that are, or may be
+deemed to be, “forward-looking statements” and relate to the Company and its financial position,
+business strategy, events and courses of action. Forward-looking statements and financial projections are
+based on the opinions and estimates of management at the date the statements are made and are subject
+to a variety of risks and uncertainties and other factors that could cause actual events or results to differ
+materially from those anticipated in the forward-looking statements and financial projections. 
+We, or any of our affiliates, shareholders, directors, employees, or advisors, as such, make no
+representations or warranties, express or implied, as to, and do not accept any responsibility or liability
+with respect to, the fairness, accuracy, completeness or correctness of any information or opinions
+contained herein and accept no liability whatsoever for any loss, howsoever, arising from any use or
+reliance on the information presented and discussed in this earnings call. The information contained
+herein is subject to change without any obligation to notify any person of such revisions or change and
+past performance is not indicative of future results. 
+It is clarified that this earnings call, and the information discussed and presented herein, is not intended to
+be an offer for subscription or sale of any securities or inviting offers or invitations to offer or solicitation to
+offer from the public (including any section thereof) or any class of investors. No rights or obligations of
+any nature are created or shall be deemed to be created by the information presented and discussed on
+this earnings call. This document has not been and will not be reviewed or approved by a regulatory
+authority in India or by any stock exchange in India. No rights or obligations of any nature are created or
+shall be deemed to be created by the contents of this document.
+________________________________________________________________________________________________________________________
+Moderator: Joining and a warm welcome to the earnings call to discuss Paytm's financial results for
+the quarter, which ended on 31st December 2023. Joining us today from Paytm's management team
+are Mr. Vijay Shekhar Sharma, our Founder and CEO; Mr. Madhur Deora, President and Group CFO;
+Mr. Bhavesh Gupta, President and COO; and Mr. Anuj Mittal, Senior Vice President, Investor
+Relations. A few standard announcements before we begin. This call is meant for shareholders of
+Paytm, potential investors and research analysts and not for any media representatives. The
+information presented and discussed here should not be recorded or distributed in any manner.
+Some statements made today may be forward-looking in their nature, which may differ from actual
+events. Finally, this earnings call is scheduled for 60 minutes. It will have a presentation by the
+
+management followed by Q&A. During Q&A, if you seek to ask a question, kindly utilize the raise
+hand feature on your Zoom dashboard. We will unmute your line and take questions in the
+respective sequence, and within the scheduled time. For us to be able to identify you. Please ensure
+your name is visible as your first name, last name, followed by your company name. Today's
+presentation, a replay of this call, and a transcript will be made available on the company website
+subsequently. With this, I would like to request Mr. Vijay Shekhar Sharma, to kindly initiate the
+earnings call.
+Vijay Shekhar Sharma: Thank you. Good morning, and happy new year, everyone. I'm very excited to
+present all of us together for our quarterly earnings. You've already seen our numbers. My
+colleagues, Madhur and Bhavesh in this call, who will talk in detail. I wanted to tell you that in the
+last 2 quarters, the technology world has seen a dramatic revolution due to AI. The power of AI will
+dramatically shift capabilities who are able to leverage it versus those who are not. We've seen our
+company using AI in different, different business use cases to the technology and product. And I
+would rather use the word dramatic because it is dramatic to see the acceleration of deployment and
+abilities of computing that we are able to harness with these various co-pilots and our own LLM
+models that we are seeing. Our business in financial services and payments will leverage the power
+of AI more than probably anyone and any time before we imagined. Our capabilities and marketing
+services to the merchant will also be very, very much accelerated because of the capabilities that
+we've been able to develop. With this, I offer my colleague, Madhur, an opportunity to talk about the
+business and then all of us will come back for your Q&A. Thank you.
+Madhur Deora: Good morning, everyone, and it's great to see everyone on a Saturday morning. I'm
+very pleased to report our earnings for the quarter. Our revenue for the quarter is up 38%
+year-on-year, which is fantastic. It has accelerated compared to the previous quarter. Part of this was
+because of the timing of the festive season, but overall normalized revenue remains very, very
+strong.
+Our contribution profit grew 45% year-on-year. Contribution margin was at 51%, which has expanded
+2% year-on-year. There was a slight dip sequentially. All of that was because of seasonal factors.
+During the festive season, we do have a little bit more cash back. We do have a little bit tighter
+payments margin. We also have our events business, which has a large amount of direct cost, is a
+profitable business, but it does see a big scale up in Q3 and Q4. And as a result of that, you can see a
+little bit of a sequential dip. We do expect the contribution margin to remain in the mid-50s going
+forward.
+In terms of EBITDA, our EBITDA before ESOP has increased to INR 219 crores, as you can see from
+this chart. This has been a consistent improvement every quarter for the last 6 or 7 quarters that you
+can see since we turned breakeven and profitable. We expect, because of the very strong
+momentum that we have across several businesses that we'll talk about as well as operating
+leverage, that EBITDA will continue to improve and next quarter will be better than this quarter. We
+also just highlighted our profit after tax, which improved by INR 170 crores, still at a negative
+number, negative INR 222 crores. But the reason we highlight this is we are very focused on bringing
+ourselves to PAT positive in the very near future as well.
+Can we go to the next page, please. This is our Payments Business profitability. As you know, net
+payment margin is the sum of payment processing margin and the subscription revenue that we
+make. This number has gone to INR 748 crores this quarter. It has grown by 63% year-on-year. So we
+continue to perform extremely well on this metric. And we'll just try to explain this a little bit more
+clearly, our payment processing margin without UPI incentive, and I should just highlight that there's
+
+no UPI incentive this quarter, that is usually expected in Q4. Even without UPI incentive, we were in
+the 7 to 9 basis points range. As you can see, our GMV growth was very strong, both on a
+year-on-year as well as sequential basis, and we for the first time crossed INR 5 lakh crores of
+merchant payments this quarter.
+Our merchant subscriptions continue to show very strong growth and actually an acceleration. So
+some of you may remember that we were at about 10 lakhs net addition per quarter, for several
+quarters. And last quarter, we saw that accelerate to 13 lakhs. And this quarter, we have seen that
+accelerate to 14 lakhs. So we're seeing a new base for addition of merchant subscriptions. And as you
+may remember, we make about INR 100 per month per merchant for the subscription. As a result of
+all of this, there has been a 63% year-on-year growth in net payment margin even without UPI
+incentive.
+Can we go to the next page, please. This is our Financial Services business, where we wanted to
+highlight a number of points. One is, our value of loans distributed through our platform is now at
+INR 15,500 crores. That is a 56% growth year-on-year. You will see that the yellow line, which is
+Paytm Postpaid, has seen a sequential decline. I'm sure a number of you were on the call that we had
+in early December where we talked about Paytm Postpaid potentially declining from the base that
+we had through a conscious decision that us and our lending partners have made, we have calibrated
+that. Next quarter, you'll see the full year impact of that. So that's the number that we had for this
+quarter.
+Our personal loans and merchant loans continue to grow very, very well. Our portfolio quality, most
+importantly, continues to remain stable and healthy, well within the parameters that we have talked
+about. And we, obviously, on the top right, share every quarter what the collection performance and
+as a result, the portfolio performance is. Our merchant loans business, in particular, is showing very
+healthy trends. We've been very excited about this business. As you know, our number of
+subscriptions keeps growing. So we are now over 10 million or over 1 crore merchants who have
+taken a subscription from us and more and more of them are becoming eligible from our partners for
+a loan and more and more are showing interest in taking these loans. So that continues to be a huge
+growth driver going forward.
+We talked a little bit about high ticket loans a month and a half ago, and we just wanted to elaborate
+on that. We have made significant progress in that business in the last 4 or 5 months and even since
+the last time we spoke. We now have 2 crore whitelist users from our lending partners, and it is
+showing early trends of scale. So Q3 distribution of this number, which is the first time we're
+disclosing this number separately was INR 490 crores. For a business which is very, very early and
+very recent, this is a tremendous number, and we're very excited about where this number goes
+going forward. And like we said on the previous call, we would like to reiterate that we'll continue to
+calibrate Paytm Postpaid or postpaid loans as we call them as per regulatory guidance and their
+expectations.So this is an ongoing exercise, and we'll continue to do that. Collections I've already
+talked about.
+I did want to highlight two other businesses in financial services where we are seeing very good
+momentum and a very large opportunity. So insurance distribution, we're seeing great product
+market fit for some of our embedded insurance as well as for merchant insurance products. So this is
+a business that we'll talk about more going forward and also scale. You may recall that Vijay in an
+earnings call about a year ago, had said that insurance is about a year from now activity for us, and
+this is where we are. We are a year hence and we're seeing the efforts that we have put in here
+starting to give us great opportunity going forward. So we'll start to talk more about this.
+
+Equity broking, as many of you know, we have Paytm Money, which is a mutual funds and equity
+broking platform. This is a huge market, very profitable, and we are seeing a huge scale of
+opportunities here for both F&O and equity trading customers.
+Go to the next page, please. This is Marketing Services, which we previously used to call Commerce
+& Cloud. The reason we call it Marketing Services is this business has become primarily about
+providing marketing solutions to our merchants. So going forward, we will call it marketing services
+because that's really the core of what we are doing. And also cloud might be slightly confusing
+because we don't really do cloud computing services or data centers and so on. So just for clarity, we
+are going to call it Marketing Services. The core of this business is it drives enormous amount of
+high-margin monetization from our merchants. This business has grown 22% year-on-year to over
+INR 500 crores. So it's the first time this business has crossed INR 500 crores of revenue.
+We sell discount deals, gift vouchers and other digital goods like tickets - travel tickets and
+entertainment tickets. We're pleased to report that our GMV grew 48% year-on-year. So that's a very
+strong performance from our various teams, and that is partly as a result of growing market share in
+travel. We have had a huge ramp-up in our new gift voucher business, which was relatively early a
+year ago. And we're also seeing some positive momentum in entertainment.
+We offer brand marketing, advertising and loyalty services to brands and businesses, and that
+business is also growing very fast year-on-year. And finally, our credit card distribution business is
+also here. And we, for the first time, crossed 10 lakh Paytm consumers acquired for credit cards. So
+that is 125% growth year-on-year. So I would like to say that all of these businesses are effectively
+firing on all cylinders and contributing to the strong momentum that we have overall as a company.
+Can we go to the next page, please. I'll just hand it over back to Vijay to talk about our key focus
+areas going forward, and then we'll take Q&A.
+Vijay Shekhar Sharma: Thank you, Madhur. So as you would have seen here, we've been able to
+leverage AI in two key areas. One is that we've been able to see accelerated deployment and code
+generation, QA, et cetera, that is in the production technology, and we are working with various
+co-pilot technology companies, and this is showing already deployed and doing incredible. Secondly,
+it is also enabling us to create operating efficiencies because in many, many mundane tasks, we are
+able to now remove humans and have machines to take care, and that is able to scale. So these 2
+things are our key AI-led initiatives.
+We're talking about monthly transacting users and financial services approach here. If you notice, we
+also crossed our 100 million active customers in the last quarter. This is also a key milestone. As many
+of you would know, there are visitors, registered users, users that logged in, et cetera, et cetera. We
+always show the active transacting users. Registrations are upward of 600 million on our platform
+just in case, but that is not the number that is material, but the material number is monthly
+transacting users that crossed 100 million. And we have been able to do it very prudently and our
+focus is on acquiring strictly monetizable incremental user, which means that we've been able to do,
+as you noticed, acquisition very, very prudently. And there are products like UPI Credit, UPI AutoPay,
+which are actually going through the roof. And we believe that, that will generate even a higher
+quality of customers on our platform, and we will continue to acquire customers with that insight.
+Our merchant payment side, which is very, very important. And I think as Paytm, we want to be
+known for the payment merchant network that we are creating, partnering with all payment
+networks. Here, our approach has been led by multiple devices. As you know, we created soundbox
+and card machines and various hybrids of those. And we have even a few more in the pipeline and in
+
+-- continued in next year, you will see tons of our multiple device formats serving different, different,
+different needs of merchants and that remains a focus area for us.
+In fact, I also want to share here that we've been able to do good work on sourcing and supplying
+and building homegrown capacities on this. That's a USP that we've been able to build on. You heard
+from Madhur on high-ticket loans, and Bhavesh is going to talk more about it when you ask more in
+detail. But overall, I can tell you that we've been able to drive high-ticket loans as you saw in --
+literally for the last few weeks in the quarter and the numbers you saw were very, very encouraging.
+We will keep focused on that. And as far as insurance is concerned, it is sort of something that we are
+able to bundle in our core offerings, whether they are merchants, whether they are consumers
+where we are doing embedded insurance. And the results have been very, very encouraging, actually.
+In fact, I can say that it is better than what we had imagined this to carry on. So that is why we are
+talking about insurance out there as one of the key KPI. In fact, equity trading is very simply - Paytm’s
+customers need to be cross-sold and we will bring lots of offerings of Paytm, stock broking and
+mutual fund, et cetera, on the main consumer app. So you will see better cross-selling opportunities
+for our Paytm consumer base on financial services overall.
+Marketing services is -- I'm going to say this is like a by-product of the traffic on the consumer app
+where we have consumer business. Obviously, merchants can offer deals, gift vouchers, discounts,
+coupons, et cetera, and they can sell those, even tickets. We've been able to also create lots of
+marketing, branding opportunities for brands like you're seeing here. We've been able to create
+customer acquisition and branding opportunities for businesses, brands and even credit card issuers,
+which are our partner credit card issuers. So we are very, very happy. And that is our focus area for
+the next four quarters.
+In fact, I wanted to say this, I want to reinforce one extra thing when I was talking about
+forward-looking guidelines because of efficiency and so on. The important thing that Madhur said
+was that our next quarter seems even better than this quarter and - in the bottom line. And I think
+our attention to the fact is what is showing up in the results and it continues the momentum in next
+quarter also and next quarters. Thank you.
+Operator: Thanks, Vijay. The first question of the session will be from Mr. Vijit Jain from Citi.
+Vijit Jain: Thanks for the opportunity and Congratulations on a pretty decent set of numbers. I have
+two questions. One is can you talk a little bit more about what use cases have you eliminated on the
+merchant side in Postpaid, which is what you talk about in the earnings letter. And associated with
+that, if you can talk about the reduction in whitelisted customers by 15%, is that comfortable enough
+from an ongoing perspective? Or do you think you'll be tightening standards a little bit further here?
+That's my first question.
+Bhavesh Gupta: Yes. Thank you, Vijay, for the question. Good morning, everyone. So, Vijit, the
+use-cases that we have taken out are predominantly where we could see that consumers were
+fundamentally spending a larger portion of their postpaid line in a single use-case. What I mean to
+say here is that what we basically double click is typically a postpaid user. They do between 5 to 7
+transactions a month using postpaid. But we also used to find or were finding users who are kind of
+consuming either through one or two transactions the entire limit at certain categories of merchants
+could be online lifestyle, could be high ticket offline, et cetera. So we have calibrated that acquisition
+of postpaid to bring down the disbursements of postpaid, which could be argued was kind of on the
+edge of riskiness and was discomforting to us and obviously our lending partners.
+
+When we say we eliminated, I think the way we used to do, and I've said this for the last many
+quarters, that we look at every month not just for Paytm Postpaid business, but even for all our
+credit business. We look at what's happening to various cohorts of users and cohort definition is
+fundamentally to do with what the user is doing in terms of vintage on the platform, geography,
+spends, delinquency trends, recovery collections, et cetera. And we used to kind of clean out maybe
+a couple of percentage points users every month. That number has got enhanced by us.
+So instead of taking out, let's take about 3% to 4% every month that we used to take out from our
+base, we have taken out close to 15%. These were the cohorts that our lending partners suggested to
+us, were showing high leverage as far as bureau data was concerned with them and hence, they were
+not very comfortable. And we also felt that it is the right thing to do given the macro environment.
+So this is what two things have happened.
+Going forward, I think the sense that we understand is two things that are happening. One is because
+we have calibrated use-cases and because we have calibrated the number of customers who are
+getting incrementally onboarded or are remaining on the platform, while remaining on the platform
+is still a very large number, but the use cases-have been calibrated. The user who was using postpaid,
+their frequency is coming down. So while there was an anticipated cut in GMV that we had expected,
+there has been more than anticipated cut of usage also that we are seeing, which means that this
+number that we've reached out in this last quarter, especially December, which is a drop from the
+peak of postpaid disbursement by about 50% - 60%, will continue to look downwards in Q4 and
+could stabilize maybe after Q4 end and/or maybe in early Q1 FY25. But it's too early for me to say.
+But at this point in time, we believe this would be a number which will slide down further.
+Vijit Jain: Got it. And Bhavesh, my next question is - the loan performance indicators that you
+publish, I can see that there's a little bit of positive move on the bounce rate for personal loans there,
+but there's no change otherwise. So I'm just wondering how to reconcile that with all the events and
+commentaries leading up to the December 23 -- sorry, December thing where you tightened
+standards. Should it not have reflected in at least some of those numbers?
+Bhavesh Gupta: Yes. So I think, Vijit, there is a lead and a lag indicator bouncing as you can see. So
+postpaid, there is no change in delinquency parameters for us. We did not reduce postpaid loans
+because we were seeing any delinquency trends. I want to repeat that number very, very clearly. Our
+portfolio, both of the GCL and the expected credit loss numbers on postpaid, remained range bound
+at the lower end of the range that we have given. So we are very comfortable and so are our
+partners. It was done predominantly because overall on the macro side, our partners were seeing
+higher stress on less than INR 50,000 loan and we were of the opinion it is better to be ultra
+conservative versus just looking at our portfolio.
+So that decision of postpaid loan was taken in that light and we continue to go with the direction that
+less than INR 50,000 seems to be something which is not necessarily showing great signs in the
+overall macro and overall credit bureau trends that the overall industry is seeing, while our portfolio
+continues to be very, very strong. On the PL piece, yes, we've been cutting down on PL for the last
+four quarters. We've been conservative on personal loan growth while we have grown decently. But
+as you can see from our data, the last two quarters have been flat or negative on the personal loan
+business, especially the business we used to do, non-high ticket. And we believe that in the next two
+quarters also that line of business will remain flattish and the growth will come from high-ticket PL,
+which is showing tremendous momentum.
+
+So, bounce rates coming down is a very good sign for us. While we understand in general, overall, the
+bounce rates have either remained flat or increased in the rest of the ecosystem, but for us it has
+started to show down. So on a lag basis, we believe, let's say two quarters forward, we could start
+seeing some impact to ECLs and GCLs coming down. But it's too early to say because we've just seen
+this quarter the bounce rates have come down. I would like to wait for another two quarters before I
+can give you a more forward-looking direction on GCL.
+Vijit Jain: My last question, just on the payment margins. So I see in this quarter, if I take the
+payment revenues, remove the payment processing charges, it's about 14.7 bps, 100 bps down
+Q-o-Q. Now I know there is a seasonality associated with sales and everything. But there's also the
+increased PIDF benefit that you're not getting, right? Your other operating revenues is up from INR
+24 crores odd to INR 50 crores odd. So just I'm wondering that when you talk about payment margins
+in the 7 to 9 bps band, excluding device rentals, does that include the PIDF benefits? And if -- or at
+least will increase the PIDF benefits? And if you remove that, will you still be in the 7 to 9 bps band in
+this quarter?
+Madhur Deora: Maybe I'll answer that, and Bhavesh can add. No, the payment processing margin
+does not include any incentives or marketing or anything else that we get on devices. That is all
+included in the devices part, so merchant subscriptions you should effectively think of as money that
+is paid to us by merchants and the small contribution from any incentives or schemes that we might
+be a part of. So to answer your question, the PIDF piece or any other incentive goes in the
+subscription part rather than the payment processing margin part. And excluding UPI incentive and
+excluding these incentives, which I just clarified, that payment processing margin is still comfortably
+in that 7 to 9 bps range.
+And if you recall, when we had -- in December '22, I think it was, when we had first talked about the
+split in payment processing margin, that 7 to 9 bps was actually including UPI incentive. So while we
+had guided that this trend may be downwards so far it has actually been strengthened. Bhavesh, I
+don't know if you have anything to add?
+Bhavesh Gupta: Yes. No, I think Madhur, you've answered in detail. If there's an incremental question
+Vijit, I'm happy to answer.
+Vijit Jain: No, no, that's it from my side. I'll jump back into the queue.
+Operator: The next question will be from Mr. Pranav Dheeraj from Bernstein.
+Pranav Dheeraj Gundlapalle: Hey morning, thanks for the call. Just a couple of questions. I think the
+first is on the merchant loans. What percent of your soundbox base would be of a size that you
+would be comfortable lending to? In other words, if you can give us a sense of what's the minimum
+payment flows that's required for a merchant loan, vis-a-vis that's typically required for a soundbox.
+That will help us understand what's the headroom on the penetration front.
+Bhavesh Gupta: So I think we've said this earlier also, the math is the merchant loans eligibility is
+highest for devices merchant. And while they're paper QR merchants, but our focus is always on
+devices merchants because they tend to perform much, much better as a cohort. We today have
+close to 10 million devices in the market. We've been adding, as you know, close to less than an
+average 12 lakh, 13 lakh devices a quarter. So it takes about six months before our lending partners
+are comfortable to start looking at data.
+We do not offer loans for merchants who have not been on our platform using devices consistently,
+at least for a period of six months because they demonstrate better credit quality. So fundamentally,
+
+to say, if you remove two quarters of sales of devices, that number comes down to, let's say, about 6
+million in the system, of which half of them are signed off, whitelisted or have taken a loan. So that's
+a very, very large funnel for us. And that's the reason we remain excited that this business, while has
+grown Y-on-Y by almost 95%, will continue to demonstrate very healthy growth for us.
+And there are various criteria, Pranav. I don't want to really get into the -- those criteria on this call.
+But I can say that it's not a unilateral criteria. It's a multidimensional criteria between users, GMV,
+type of device, type of merchant, geo locations, et cetera, which leads to the lenders whitelisting and
+then they have their own underwriting criteria to go ahead and offer. We don't have any role to play
+in that.
+Pranav Dheeraj Gundlapalle: Understood. So if I understand right. So you're saying that the -- when
+you give out a sound box, if everything else holds up, those typically are customers who would
+become eligible for a loan, from a size perspective.
+Bhavesh Gupta: Yes. So 50% of them, because the sound box is delivered in 500 locations, whereas
+credit -- merchant credit is given at about 175. And hence, about 70% of sound box sales is done in
+locations where lenders give credit, of which you can say about 70% get whitelisted after 6 months.
+Pranav Dheeraj Gundlapalle: Understood. Very helpful. Just another question on the postpaid loans.
+So you mentioned that the BNPL portfolio for you has held up very well, whereas the lending
+partners are seeing stress maybe elsewhere in the system. In that context, would you rethink your
+decision not to have a balance sheet of your own? Or would you have done something differently
+given the numbers that you're seeing, if you had a balance sheet that you could lend off?
+Bhavesh Gupta: See, that's a very hypothetical question. I would not like to get into that question
+very honestly, Pranav, because we don't have a balance sheet. We don't intend to have a balance
+sheet. We are a technology company, which has consumers and merchants on our platform. And we
+would love to work with the lenders and the wisdom that they have of doing credit over so many
+years, multi-decade. We are a young company, so we would love to leverage the knowledge of the
+lending partners. If they feel comfortable doing more, we would do more. If they feel comfortable to
+do less, we will do less.
+Operator: The next question will be from Rahul Jain from Dolat Capital.
+Rahul Jain: Hope I am audible.
+Operator: Yes, you are. Can go ahead, please.
+Rahul Jain: Yes. Just two questions. Firstly, you mentioned that for high ticket, you have close to 2
+core whitelisted users. So can we say that with induction of a low-cost lender like Axis Bank,
+conversion of whitelist to actual lending could be much higher as probability for such user also may
+get better match with the underwriting criteria versus what you see for the lower ticket loans where
+the data is lower, the profile of the borrower could also be lower. So there is a mismatch between the
+risk criteria versus for high ticket the mismatch may be much lesser.
+Bhavesh Gupta: Yes. I think it's a very good question, Rahul. Early trends suggest to us that the
+funnels as we track on a whitelist, are holding or performing better than the low ticket funnels
+because the rejection rates in low tickets are fairly larger than the rejection rates in higher ticket. But
+it's an early trend. I think on a longer arch, when we take, let's say, a full of next year, this particular
+whitelist itself will grow from the current standards that we have of 2 crores to an upward of 3 - 3.5
+crores. This is exactly what we see in our credit card business, where the profile is largely similar
+
+wherein our multiple banks are going and issuing credit cards to the platform, where the whitelist is
+almost closer to about 3.5 crores. So two things we clearly feel very confident. One is that the
+whitelist is going to increase further as more and more partners come on the system, and the funnels
+will perform better.
+So mathematically, the high-ticket business will perform much, much better than the so-called lower
+ticket business. But the scale of this business is contingent on various factors. And what we are
+seeing as early trends are giving us very good comfort that quarter-on-quarter basis if those trends
+play out, this business should become a materially large business for us as we see next year.
+Rahul Jain: Right. And on the postpaid side, since -- so the criteria may not improve, materially
+different from what we observed in December in a near future perspective. Is there a revised
+strategy in terms of getting a different set of partners for it or maybe increasing the size of this
+exposure, changing the cohort which needs to be target on that product because that product is
+pretty good and unique. But if we don't grow on that kind of a product, I mean, that's a serious
+differentiating offering and why not to leverage that?
+Bhavesh Gupta: Yes. So I think, Rahul, there are two different elements of your question. I want to
+ask them differently. We -- at a macro level, when we see and hear that on an overall basis, there is a
+concern that banks and non-banks have on a lower ticket volume of business, I don't think as a
+strategy, we want to arbitrage and move to a partner who could technically say, "Hey, I'm happy to
+take this risk and let's do business with -- you can do business with me." Our belief here is that we
+would love to build a business which on an overall basis is aligned to the way the regulatory thinking
+and the lenders are thinking. So if there is a concern either regulatory or otherwise, we would like to
+play with that and make sure that unless and until the overall macro environment and regulatory
+environment is positive, we are not necessarily going ahead and building this business at a scale that
+we were building earlier.
+Having said that, every product goes through calibration. While you -- while what you've said is
+correct, that postpaid is generally a differentiating factor. But I also want to mention that we have
+been doing multiple lines of business, including merchant credit, personal loans, now high-ticket
+personal loans, et cetera. We also have built strengths on those businesses, which today's
+environment allows us to scale those businesses over postpaid much faster.
+So we'll continue to calibrate postpaid, if you ask me, honestly, at this point in time. And we'll see as
+to how the environment is changing positively in this area. And whether that means that we have to
+make some changes in the product; we'll do that in due course of time. But at this point in time, we
+don't propose to make any changes in the product to kind of navigate the environment, we would
+like to play the environment and be conservative.
+Rahul Jain: Right, right. Understood. Just one bit, if I can. So since our profit improvement is quite
+consistent and our commitment on the cost management is also very obvious. All our monthly
+metrics are very healthy, be GMV, MTUs and so on and in one direction without any disturbance.
+Then just trying to understand what refrains us from giving a PAT guidance either for a short term or
+maybe more medium-term basis. Is there any reason for that?
+Madhur Deora: I think we have seen -- so our analysts also have assumptions in their models about
+PAT guidance and so on. We do think our business is now relatively easy to model, right, which -- and
+we obviously have, I think, about 15 or 16 analysts, really high-quality analysts who cover us. So I
+think there's enough projections out there to -- for analysts and investors to be able to sort of get
+their head around what does the business look like 2 or 3 or 4 quarters from now. And how does that
+
+sort of translate from revenue to EBITDA before ESOP cost to EBITDA after ESOP cost and to Profit
+After Tax.
+So I'm -- so I guess what I'm trying to say, Rahul, is that there might always be some incremental
+benefit of giving PAT guidance. But the way we see it is, this trajectory is pretty clear for people to
+see and model and see -- and the only thing I would say is that our conclusion from this is that we
+should be PAT positive in the relatively near future.
+Rahul Jain: Right. Madhur, you're giving too much responsibility to our community. I think the more
+the input the better the precision on the thing. So you have a bit more idea than what any of us put
+together can. But I got the sense. Thank you.
+Operator: The next question will be from Mr. Jayant Kharote from Jefferies.
+Jayant Kharote: First, I wanted to touch upon the employee count. I think you've guided in the past
+that you want to maintain the device addition at 14 - 15 lakh number, so does this mean you have
+the ground force fully deployed now? Or do you need to add more? How should one sort of look at
+this? And then an add-on question is Vijay spoke about AI benefits on the non-sales piece as well. So
+if you could just help us understand how this plays out on the employee cost front.
+Bhavesh Gupta: So Jayant, the on-ground field for us, largely in Q3 was stable. We were adding a lot
+of people till Q2 because we wanted to make sure that in the festive period, there is a decent
+expansion of the market, and we are able to attack that market with full force on the ground. I don't
+think that we will see the kind of expansion of sales force we've seen historically in Q4 and beyond
+even next year. So there will be a moderate expansion. I can't give any guidance to that, but we have
+a very moderate expansion. But nothing of the kind that you've seen in the past because I think now
+we have a fairly decent expansion and penetration in 500 plus cities where we don't necessarily need
+to add more people to grow.
+The other important element I just want to say here is that the last quarter growth of at least a
+couple of lakh devices was an outcome of the festive. So the normal run rate for us on devices, I
+personally believe over the next 12 to 18 months, should be seen between 11 lakh to 12 lakh
+incremental devices and not 14 - 15 lakh devices. I just wanted to make that point clear because
+that's a bump up of the festive season. This is not necessarily a common trend line. 11-12 lakh
+devices also is a very, very decent number on the back of the 1.1 crore device that we have in our
+system. Vijay, you want to take the AI question?
+Vijay Shekhar Sharma: Yes. So there is clarity instead of expanding more business functions, we are
+clearly trying to add the capabilities of machines and systems. So the systems and capabilities will
+continue to grow on our platform, which will necessarily create not so much demand in a linear way
+of the number of people that we need. That's the answer.
+Jayant Kharote: Second, on credit card on UPI, although, if you could also help us put this in
+perspective from a slightly longer or medium-term, how much of a GMV do you think can come from
+here? And what are the early trends or indicators? And tied to that, how meaningful is this for our
+payments processing margins?
+Madhur Deora: Bhavesh do you want to take that?
+Bhavesh Gupta: Yes. Let me put this as an early trend question first and then on net payment
+margins. I think early trends are fantastic, very clearly, both because we do credit card marketing for
+our partners, we are seeing a very, very high demand overall on RuPay issued cards versus other logo
+
+issues cards. So really the customer is appreciating the product very well, then you can use this card,
+link it on our app and start making payments on QR code.
+So customer expectation and appreciation of the product is high, which basically means that
+incremental issuance in our country on cards, you will see a fairly large portion or majority of those
+cards will be coming with the RuPay cards. Now the merchant acceptance part is split into 2
+elements. We have been pleasantly surprised that a smaller merchant who was not accepting cards
+in the past, either because they didn't have devices or was wary of MDRs, every month, we are
+seeing that more and more merchants are getting on boarded who are happy to pay MDR and allow
+their QR codes to be enabled with RuPay CC acceptance.
+So I think these trends, while they're just about, 4 to 5 months back trends are very, very
+encouraging. And it will be very early for me to comment on what percentage of UPI GMV it could
+end up becoming. I personally believe that we should wait out for a couple of more quarters for this
+number to stabilize, both on the acquiring and issuing side by then we can say that this number will
+become what as a percentage. But today, it is not very significant. But it's still growing very, very
+rapidly, and we remain very positive on this business because we are dominating the acquiring side,
+and we are also doing fantastically well on the linkage of the card on our app.
+On the net payment margin, again, today, it's not very consequential, but let's say, if you were to take
+a 12 to 18 month future view, just the fact that it has two-stage revenue. One is when you link the
+card on the app, the app gets paid depending upon different types of calculations, the app gets paid
+between 4 basis points to 8 basis points every time the card is used through the app, and you get the
+net payment margin from the merchant between 5 basis points to 20 basis points. This could end up
+becoming a decently profitable business. But I think we'll have to wait it out for the next 12 to 18
+months of this business to be meaningful in our contribution.
+Jayant Kharote: If I could just squeeze in one last question. You mentioned BNPL is stabilizing
+possibly in Q1 FY25. Do you see the stabilization process could extend even beyond the first quarter
+of next year?
+Bhavesh Gupta: See, a bit hypothetical for me to give you beyond that because there are multiple
+factors. It is all contingent on how macro trends start to behave. At this point in time, we have
+visibility for next two quarters that it will continue to have a downward slope in terms of its
+contribution to our overall lending business. But beyond Q1 should it stabilize, I think I would wait
+out for another quarter to be able to give that answer.
+I just want to remind, once again, while postpaid is a good product and has been a very material
+differentiator as far as low-ticket business is concerned, its contribution to the P&L has been very
+marginal. Because they take rate of this business, as you guys may remember, between MDR to the
+net margin we make, it was not necessarily very, very high, right, versus merchant loans and personal
+loans which are in excess of 3.5% to 4%. This business was very, very low.
+Now its impact on P&L is very overestimated. Its impact on P&L is very marginal. And that is getting
+very easily compensated by high-ticket personal loans and other forms of businesses that we have
+been accelerating, be it insurance, wealth management and including payments.
+So we are mindful that we want to align with how the overall macro trends are showing, but it does
+not have any impact or I would say it has a very, very marginal impact to the EBITDA guidance or the
+EBITDA contribution of our overall lending business, our overall Paytm’s business.
+Operator: The next question in the queue is from Mr. Piran Engineer from CLSA.
+
+Piran Engineer: Congrats on the quarter. Just a few questions out here. Firstly, on BNPL. So on BNPL,
+our lending strategy has been that we attached a customer to our lenders. It's not a marketplace.
+Now we've seen Aditya Birla Capital wanting to scale back. From a contractual point of view, can we
+move the customer to another lender? The same customer, just contractually I am asking, what are
+the legalities around it?
+Bhavesh Gupta: Yes, we can 100% move the customer from one lender to another. But it's important
+to note that we, as an organization, very, very clearly do not necessarily play on contracts otherwise.
+We play on the thesis of our business and the partnerships that we carry. Every decision we take is in
+consultation with lending partners. When they believe they're comfortable doing something, we
+would love to do that part. So to your specific question, and I don't want to use a particular lender
+partner because we have at least three partners whom we currently do BNPL with. And all the three
+partners today believe that we need to be conservative in this business.
+So movement from partner A to partner B is not something that we have to worry about. But yes, we
+can move the customer from partner A to partner B if that partner who has the original customer
+gives us the permission and is okay for us to move that particular customer.
+Piran Engineer: Alright that lender has to be okay?
+Bhavesh Gupta: Piran, it is not contractual. It is more, what can I say, it's in the spirit of partnership.
+Piran Engineer: Got it. Okay. Okay. Fair enough. Secondly, on your 2 crore whitelisted high-ticket
+personal loan customers, just wanted to get a sense, how many of them already have a loan from the
+industry?
+Bhavesh Gupta: Yes. So that data will not be readily available to us because we don't have the credit
+bureau information, etcetera. The important element here is that these are all credit tested
+customers right? So they would have had a loan or may have a loan currently, but they are all credit
+tested customers. That's the reason they're eligible by various banks and non-banks for being
+allowed to be given a higher ticket loan.
+Piran Engineer: Okay. Credit tested by the system, right, not in Paytm?
+Bhavesh Gupta: Yes, credit tested by the system. So the process is simple, that the lenders look at
+the kind of consumers, et cetera, they would like to underwrite. And their criteria is that they should
+be credit tested. Basically, they have an existing trade line or a historical trade line on the credit
+bureau, and that is the customer they would like to underwrite. And then they have their own
+underwriting criteria, what is the depth of the credit line, what is the core, et cetera, et cetera, on
+which in the real-time basis when they apply, they could get a loan or not get a loan.
+Piran Engineer: Got it. Got it. I have a couple of more questions, just feel free to stop me when you
+need to. So firstly, on the news article, the 1,000 employees are being laid off, is that true? And is
+that what Vijay was saying the consequence of AI. Using AI for operational efficiency?
+Bhavesh Gupta: See, I will let Vijay also answer this question in particular. But I don't want to
+comment on the news article because we have not gone and given any information to the press. The
+press obviously is free to put what they believe they are getting in the market, et cetera. There is a
+lot of focus that we have had since the last two quarters on operating efficiency. We had scaled our
+manpower looking at our business efficiencies going forward, and we realized those business
+efficiencies in Q2 and obviously in Q3.
+
+Thanks to AI, in many of our functions, we've been able to demonstrate operational efficiency, as
+Vijay had said in his opening remarks. Let's say that we had a sales team and we had an operations
+team, et cetera, who were doing a lot of manual lifting and business processes, et cetera, et cetera.
+Today with technology, which is powered through AI, we are able to do, let's say, that work very
+much more efficiently with fewer people.
+So there is some efficiency, which is technology led, powered through AI, but there's also a lot of
+efficiency that we've been able to build into our business primarily by making sure that there is a
+focus on cost and there is focus on operating leverage. A combination of two has resulted in people's
+costs going down. And as I said, I don't want to comment on what the press is writing but we have
+seen our people costs come down, and we will remain much more focused and tighter on our people
+cost, especially on the ground sales team, which is a very large part of our overall people cost.
+Piran Engineer: Got it. And just lastly, in stockbroking and mutual fund distribution, I just struggle to
+understand the sort of impact, like what differentiation would you all have, a- because mutual fund
+distribution is generally direct plans so you don’t really earn anything and b- in stock broking,
+typically, the discount brokers make it on F&O trading so you will need to have a large market share
+to make any big impact. So if you could just spend maybe a couple of minutes talking about your
+thought process there? And what plans are there? That would be great.
+Bhavesh Gupta: Yes. I think, Piran, thank you for asking that question. So there are two clarifications I
+want to give. Yes, Paytm historically has built a great business on direct mutual funds, and we
+continue to build and grow that business, right? The important element here is that in the last couple
+of months, we've also gone ahead and set up a separate line of business, independently of direct
+mutual funds by taking an ARN code on which we are focusing on building newer products on daily
+SIP, monthly SIP and general direct mutual fund on which we earn commission which is a decently
+good number.
+But the AUM under that business is currently small, but it's growing rapidly, right? And given the size
+of MAUs that we have, you can imagine that any product that we are able to add value through the
+number of customers coming in the Paytm app, that number can multiply very, very decently. And
+we've seen early trends on a mutual fund distribution business on the back of SIP and otherwise, the
+one-time mutual fund investment on which we earn incentives growing at a decent size and pace.
+Early trends, but obviously, we feel very positive.
+To your other question, I think this business is hinged on two levels. One is the platform's ability to
+attract users who either could be existing equity or F&O traders in the market and to attract users
+who could be the first hand equity traders. I think again the same answer, just like we've
+demonstrated in our credit business, we have demonstrated in our marketing services business,
+Paytm platform offers a wonderfully unique opportunity to be able to target this 10 crore MAU
+customers who are coming on the Paytm platform, who could very conveniently through the product
+that we have built called Paytm Money, able to open their Demat and a trading account and use the
+technology interface, which in our opinion is best-in class and be able to trade, right?
+And yes, we are discount broker, but we still are able to do a wonderfully good job in giving the
+product differentiation versus many other platforms available in the system. Why we feel excited,
+Piran, is that we've been working on this product for the last two years. It's only in the last two
+quarters, we have seen that the scale of new customer acquisition has become very, very decent.
+And the depth of customers who are coming on our platform and trading either in F&O and equity
+trading is also becoming significantly large for us, for us to now further invest in this business and
+
+grow. So our right to win is our distribution franchise and the product innovation and the product
+convenience that we offer over other platforms.
+And we believe that right to win will further accelerate this business into a zone where this could
+become meaningful in the next 12 to 18 months as a part of financial services revenue.
+Piran Engineer: Got it. This is useful. Just one suggestion, if I may, a humble request. We've got a lot
+of companies reporting on Saturdays. If something could be done where your Board meeting is
+moved on a weekday and the call is moved on a weekday, it will be really helpful. It's just the
+bandwidth we give to each company, this is something I've asked Anuj a multiple times.
+Vijay Shekhar Sharma: Piran, thank you so much, like Madhur said. Next time, we will definitely try
+to make it a weekday. Thank you, good input.
+Operator: Given the current queue of questions and raised hands, we'll extend the call by 10
+minutes. The next question in the queue will be from Jigar Valia from Ohm Group.
+Jigar Valia: My question is basically, we had about a couple of lakhs extra devices because of the
+festive season. So does that also come along with slightly discounted subscription rates and as we
+instead of 13, 14, if we are doing 10, 12 lakh devices on a normal basis, the subscription rates also
+would be slightly better.
+Bhavesh Gupta: Jigar, it's a bit of a tactical play on pricing. The honest answer would be, yes, we
+could have lost maybe Rs. 5 a device rental in the festive season just to make sure that we are
+capturing the market. Rental is important, but the GMV through the device, the opportunity for us to
+earn MDR on the device and then eventually get credit on to the merchant is a much bigger
+opportunity. So that's the way we see it.
+So the short answer is, yes, we could have lost maybe Rs. 5 a device in that quarter. But on an
+ongoing basis, if we are putting out 12 lakh devices, 13 lakh devices or 10 lakh devices, I don't think
+there is any material change in our rental per device from an ongoing basis perspective. So that
+number will remain in that range of Rs.100 that we've reported in the past.
+Jigar Valia: Got it. A quick second was that with regards to the mutual fund or the equity broking -
+Paytm Money client acquisition, so is it largely a function of product differentiation and
+convenience? Or does it entail any acquisition cost or any schemes, offers, et cetera?
+Bhavesh Gupta: So it doesn't entail any kind of scheme offers. Anyway, it's very restrictive as you
+know. You can't offer many schemes on enticing or getting clients on board. I think it's a leverage of
+product and the fact that the Paytm Money is now an integral part of the consumer app of Paytm,
+the natural or organic traffic, as we call it, of 10 crore people coming and using the Paytm app every
+month, allows them to explore this product. And obviously, the journeys are built in a manner that
+the customers are able to activate their equity trading account and start trading through the Paytm
+platform.
+So the product differentiation is an experience but the acquisition engine is the Paytm app, which is
+a massive differentiation versus anybody else because I don't think any other platform out there
+who's doing equity trading has 10 crores customers coming on the platform. So we feel very bullish
+that traffic could just give us a very accelerated pace of acquisition in this business.
+Jigar Valia: Right. I have a few clarifications with regard to Slide 5, if I may. So one is INR 490 crores
+that we would have done would largely be a lot back-ended and probably like a monthly rather than
+a quarterly type of number. And 2 crore whitelist users is on what base , so if this has to expand, is
+
+this like the best of the entire 10 crore? Or is it 2 crore out of a certain set of things which is there?
+And if 2 goes to 3 or 4 or whatever based on the number of lenders increasing and the profiles
+improving, so would that be a part of a static base or it's a partial base which we have covered for
+the 2 crore whitelist?
+Bhavesh Gupta: I think it's a good question, Jigar. So let me answer the latter question. So 2 crore is, I
+would say, a part. So 10 crore is obviously for many, many, many cities and pin codes and not every
+lender is available in every pincode. So the eligible base which broadly, I would say, high-ticket
+business will be done will be about 65% - 70% of our MTU because everybody will not be
+comfortable lending in every corner of the country digitally.So from within that, we are currently at 2
+crores. So you could say at a shorthand answer from me that maybe about from 6.5 crores to 7 crore
+customers who are eligible for credit out of the 10 crores because this is where on pincodes where
+credit has been disbursed, currently whitelisting is 2 crores. Will this number go up? As I said, in a
+previous answer, yes, this number will go up as we add more lenders and people get comfortable.
+To your INR 490 crores answer, no, it is not back-ended, as I have said on the December call, we had
+started high ticket business sometime in mid of Q2. There were early trends that we saw with one
+partner. We grew that business at the end of Q2. And whole of Q3, we saw one more partner getting
+added into the system. So this number was not back-ended. But yes, we had more than INR 200
+crores of disbursement in December, and that number continues to keep growing from here on.
+Jigar Valia: That's great. And the matrices should keep improving as the high delinquency low-ticket
+loans are going off and the better quality, high ticket are improving, so overall ECL, et cetera. would
+also improve as a function of the mix changing, right?
+Bhavesh Gupta: Yes. But currently, the portfolio that we show for merchant loans and personal
+loans, does not include a high ticket because we are not linking our incentives to the portfolio
+performance yet, but we will have a collection obligation in some form and factor. As the business
+matures, we'll start declaring those matrices accordingly.
+Jigar Valia: Finally, would you have any penetration target for any of the segments, including the high
+ticket?
+Bhavesh Gupta: No. I think our focus is not to drive volume. Our focus is to drive the portfolio and
+what is convenient to our lending partners. Paytm platform and the user base presents such a large
+opportunity to every partner that we don't have to worry about what's the penetration. I think we
+only have to worry about, are we able to offer the best product experience and the best quality of
+lending partners. So that's our focus, penetration will be low in our platform.
+Operator: The next question in the queue is from Mr. Saurabh Kumar from JPMorgan.
+Saurabh Kumar: Just two questions. So one, this bounce rate you have given includes the first week
+of the payments from what have taken in the postpaid portfolio, right?
+Bhavesh Gupta: You mean the first week of January?
+Saurabh S. Kumar: Yes. So if you've cut the lending in December, so this includes that?
+Bhavesh Gupta: Yes, this for the quarter. I just want to mention Saurabh clearly, while we had a deep
+cut in the month of December, but we've been cutting since the month of August, so we are cutting
+less, but we had a deep cut in December. So our bounce rates have not materially changed. Even for
+the December -- after December also, our bounce rate has only gone up by about 0.5% to 0.6%,
+which is very, very marginal and that also has gone up, so as to clarify very clearly by that 0.5% to
+
+0.6% for the December cohort in specific because then you have cut and taken out 15% of
+customers, they generally have some bit of delay in making payments because you block their lines.
+So it takes a bit of time. And when we're looking at that number, let's say, today, most of those
+people have paid back. So the impact to GCL and NCL is not meaningful, maybe INR 1 crore here and
+there.
+Saurabh S. Kumar: Okay. That's great. And Bhavesh, can you comment on what is the NPL in this
+whole postpaid portfolio, so you've given the bounce, but what is the NPL? I just want to compare it
+to the bureau data.
+Bhavesh Gupta: Yes. So we don't track it the way lenders track it, Saurabh, as we have mentioned, on
+a 30-day basis, our ECL operates between 0.65% to 0.85%, and that has not changed. It's actually
+somewhere in the middle of these numbers. So that number remains the same.
+Saurabh S. Kumar: So basically if I just kind of go through a disclosure, it should have been the 6%
+odd ballpark.
+Bhavesh Gupta: If we multiply it with 12, Yes, so it could be in the range of 6% to 7%, if you will see
+on an ANR basis for a lender. Yes. But then, if you do that and just for a mathematical clarification, we
+should also multiply the take rate into 12. So obviously, from an RoA perspective, even with that kind
+of credit loss, it looks like the RoA is phenomenally large.
+Saurabh S. Kumar: That I understand, Just one last thing, on this contribution margin, if you add the
+proforma UPI incentive, would you stabilize at this 56%, 57% odd level? Or how should we think
+about the contribution margins from here on?
+Bhavesh Gupta: Yes. Madhur clarified that it will remain in the mid-50s. I don't think that number is
+going to change. There was an aberration on festive wherein we obviously offer better incentives to
+merchants to process payments through Paytm platform. That incentives go away in a normal case
+scenario, so we should be largely in that range.
+Madhur Deora: So we have been largely reporting it without UPI incentives. So UPI incentives on our
+current revenue base could be another sort of number on top of this, but we have typically been
+reporting this without UPI incentives. And we have mentioned it in writing in the earnings release as
+well that we expect this to be in the mid-50s. So it's as official as it comes.
+Operator: The next question we'll take is from Mr. Nitin Aggarwal from Motilal Oswal.
+Nitin Kumar Aggarwal: Congrats on the good set of numbers. So two questions. First is on the
+whitelisted customers. So what is the success rate in terms of customers accepting the higher ticket
+pay loans that you're offering as some of them may already have some pre-approved offers from the
+banks. So how do you compare the success rate of these loans vis-a-vis the normal PL that you have
+been doing till now?
+Bhavesh Gupta: Yes. So the approval rates, Nitin, are much higher than the less than INR 2 lakh loans
+that we were doing. So typically, there the approval rates were in the vicinity of 15% - 20%, between
+because we used double filtration, we would decline the majority and the lending partner declines at
+their end. Here, the approval rates are in excess of 40% as the early trends suggest, and I think they
+will only become better because the whitelist will keep getting refined by the lending partners and
+the credit quality is going to become better and better and better.
+
+With regards to the overall conversion that these customers could be pre-approved by a bank, et
+cetera. Yes, at a fundamental level, your point is correct. But what we are seeing clearly here is that
+the customers are not necessarily always aware of what they have with their existing bank. So they
+are not that much used to using their bank's platform or lending partner platform that actively versus
+how they're used to using Paytm platform.
+So when they come to the app and they're applying, we are seeing that they are getting a good offer
+irrespective that they may have a similar or a better offer from the existing lender just because the
+product efficiency is completely digital and very instant, they are happy to take credit through Paytm
+platform, even if they have had a whitelist sort of pre-approved from their bank. So I don't think that
+is becoming any kind of a challenger inertia in our system.
+Nitin Kumar Aggarwal: Okay. So then the disbursements overall should pretty much be on track, but
+this quarter, we are seeing some moderation in the mix of financial revenues. And while you
+explained that this moderation will not have any significant impact on EBITDA,
+a revenue
+perspective, how do you look at the mix of financial revenues over the next 1 - 2 years?
+Bhavesh Gupta: I'll refer the mix to Madhur. But I can give you a sense that postpaid contribution in a
+quarter for us used to be about INR 8,000 - 9,000 crore disbursements. That number, as we've said,
+has come down in December to about 60%, et cetera and will continue to slide down. So there, the
+that gross revenue will go away.
+In Q4, there will be reasonable compensation through high-ticket personal loans, which have higher
+revenue than the postpaid revenue. Their revenue is much higher than the postpaid revenue and
+their EBITDA contribution is significantly higher than postpaid. So maybe two quarters forward, the
+loss of revenue of postpaid will get compensated. And in the next quarter itself, the loss of EBITDA of
+postpaid will get compensated. Madhur back to you.
+Madhur Deora: Yes. So I think one of the lines that you can see is other direct expenses which have
+gone up over the last few quarters. and that has largely been because of the collection efforts that
+we do on postpaid, which is a very large number of loans, even though the value and like Bhavesh
+mentioned revenue and profitability is lower.
+So those sorts of line items should moderate, given a lower scale of postpaid, and that is going to be
+the math to get to what we're saying, which is that the other products are higher margin. They are
+higher take rate, but more importantly, they have significantly higher contribution margin and
+EBITDA margin.
+Nitin Kumar Aggarwal: Okay. And lastly, just one small clarification on the payment processing
+charges. In this quarter, we have seen an increase in the processing charge by almost 20%
+sequentially. So I was just curious to know why the spend mix across different payment instruments
+vary so much from one quarter to another so as to cause this variation?
+Madhur Deora: That one is relatively simple, actually, which is that it was just a season where people
+use a lot of credit cards and we are very large on credit cards, all of payment processing both in the
+on and offline world. You'll also notice that year-on-year, that number has gone up meaningfully, and
+that is partly because the festive season last year was split between Q2 and Q3, the festive shopping
+was split between Q2 and Q3. Whereas this year, nearly all of it was in Q3.
+So it's mostly to do with festive shopping behavior where there's a lot of credit cards, which has
+payment processing costs associated with it. Obviously, it is a profitable business for us. But if you're
+just looking at that line item, you will see a jump.
+
+Nitin Kumar Aggarwal: Yes. So this then should likely come back in the fourth quarter?
+Madhur
+Deora:
+Yes.
+So
+if
+you
+look
+at
+year-on-year trends, it should normalize. And
+quarter-on-quarter trends will obviously, like I said, Q3 was an anomaly. I shouldn't say anomaly, I
+should say it's seasonality.
+Operator: We'll take two more questions. The next one being from Mr. Sachin Salgaonkar from Bank
+of America.
+Sachin Salgaonkar: Congrats for a good set of numbers. My first question is on the sound box side.
+You see a few more players looking to come into the market. So the question out here is, how are
+you guys looking to differentiate on the sound box given the fact that it's turning into a commodity?
+And a related question here is, depreciation and amortization has consistently increased in sync with
+the number of sound boxes deployed. So any clarity, any guidance in terms of where it could move?
+Should it stabilize in a year or so? Or will it continue to increase?
+Vijay Shekhar Sharma: I'll take up on the differentiation on Sound box, and then obviously, Bhavesh
+will add to the scale of deployment. So every smartphone is a commodity until it is not because the
+features and nuances start to become even detailedly differentiated that people stick with 1 or the
+brand name or feature or services. I was in Ahmedabad, I was on the road, and I was trying to learn
+what sound box they use and why?
+The shopkeeper literally went on to say that, oh, I use it because this is what works better than other
+sound boxes. And I did say that what if the other guy gave you for free, would you still continue with
+it? So the guy said that this works better, my settlements come early, my product is superior, I mean
+the cost is not so much that I mean, Rs.100 fee is not even so much, that somebody offering free is
+material for him.
+So here, I believe that the nuances of the product, including, for example, like I'll just tell you this,
+what I just now told you, we do settlements before 6 am. Our target is that before the day starts, the
+settlements should happen. And the guy very clearly himself told me that the other settlement
+comes around 8, 9, 10 a.m., and that is where the cash doesn't show up also on and, the notification
+speed, success, surety and then nuances like bluetooth, et cetera that we have added and we
+continue to add those features are actually a differentiator. So I'll still stand for the differentiator on
+the product, but Bhavesh, because he runs it on the street, so I would want him to add and expand
+more.
+Bhavesh Gupta: Thanks, Vijay. I think Vijay has really well summarized. And what we see on the
+ground here is that one metric that we track, Sachin, is that I have 11 million devices on the ground,
+every month, how many are getting deactivated and what is the cohort of the deactivation. And then
+we go and meet the merchants to figure out if de-activations are an outcome of our bad service or a
+company replacing my box.
+So we clearly see deactivation in the range of about 100,000 devices to 150,000 devices, right? But
+interestingly, not even 15,000 to 20,000 devices in a month on a base for Paytm of 11 million are
+deactivated because competition could replace my product, right? Yes. Do we like 15,000-20,000?
+We don't like 15,000 - 20,000, but that number is so small.
+So it just tells us very clearly that our product and a significant enhancement in the product that we
+keep doing both in form factor, feature, pricing and the capability the product is able to demonstrate
+gives us the edge over competition, and there are 19 players today in the industry who are giving a
+product equivalent to Paytm sound box with a different name. So we feel very confident that our
+
+product innovation and control on the form factor and the technology inside it because we
+manufacture in India will always give us significant competitive differentiation in the market for us to
+keep growing and differentiating.
+Will the market give us an opportunity to keep scaling at the level that we're scaling. I think putting
+out between 4 million to 5 million boxes incrementally, net additions, net of deactivations, net
+addition is a number we feel very confident over the next four to five quarters. I think I would like to
+calibrate that number after four to five quarters as to build for FY26, et cetera, hold, again, a similar
+number of incremental devices. But at this point in time, adding another 5-odd million devices, I
+don't see at all a challenge.
+Sachin Salgaonkar: Thank you Vijay and Bhavesh. Second question is on the 2 crore whitelisted users,
+and I know there are multiple questions on that. My question is more on the fact that these are
+high-quality credit tested users, almost every credit card or a fintech is looking to target. So what is
+the differentiation or competitive advantage you guys bring out here? Is it what Bhavesh answered
+one of the earlier questions, is the ease of getting loans, is it the interest rates that you're giving are
+lower? Or is there some other kind of a differentiation where you guys feel confident that the growth
+out here will be strong?
+Bhavesh Gupta: So I think Sachin, my answer may look very simple. But honestly, in the business of
+credit, what we have figured out historically also and obviously in Paytm, is there is a demand of
+credit, multiply that with availability of credit and obviously amplify that with ease of getting credit.
+So we're not changing demand. Demand is already there in the market. What we are changing is
+availability. 10 crore people are able to see the icon to get credit, right, in the system of Paytm which
+I don't think any other digital means other than Google and Facebook from advertising point of view,
+any other means is able to show 10 crore people availability of credit. So that is the first
+differentiation Paytm brings on the table.
+Then is the amplification to ease a product journey, offering, simplicity, pricing, et cetera, et cetera,
+et cetera. And that is where our technology, our product, our nuances of understanding how the
+journey should be built is able to help us. So multiplying these two things gives us a significant right
+to win and which we've already demonstrated with two partners. And I think over the next couple of
+quarters, you will see these numbers start to reflect what I'm saying at this point in time. And we will
+also learn in the process and make our products even better.
+Sachin Salgaonkar: Got it. And my last question is, I wanted to understand, you guys have two
+partners today right now on the personal loan unsecured 50k and above. How many more partners
+could we have in, let's say, a couple of quarters?
+Bhavesh Gupta: I think we are already integrating with another two partners currently. And we have
+a lot of interest from various banks and non-banks to integrate not just for personal loans, but even
+for business loans, high-ticket loans. So as the time goes by, we will take maybe two partners a
+quarter and see at what point in time, we need to stabilize and then keep servicing the demand of
+each lender into our system. But we don't have a challenge of partner, we'll add at least two more in
+the near future.
+Vijay Shekhar Sharma: And by the way, we don't have just two, the two is incremental.
+Operator: Kind reminder to everyone that the presentation showed today, the recording of this call
+and a transcript of the call will be available on the company website. Thank you all for joining.
+Vijay Shekhar Sharma: Thank you.
+
+Madhur Deora: Thank you very much

@@ -1,0 +1,953 @@
+  2 May 2024 
+The Manager, Listing 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street,  
+Mumbai – 400 001 
+The Manager, Listing 
+National Stock Exchange of India Ltd 
+Exchange Plaza, Plot No. c/1, 
+G-Block, Bandra-Kurla Complex,
+MUMBAI – 400 051
+Dear Sir/Madam, 
+Sub: Transcript of the Investor(s)/Analyst(s) call 
+Further to our intimation dated 15 March 2024, please find enclosed the transcript of the Investor(s)/Analyst(s) 
+call which is hosted on the website of the Company at https://www.mphasis.com/content/dam/mphasis-
+com/global/en/investors/financial-results/2024/transcript-of-earnings-call-q4-2024.pdf 
+We request you to kindly take the above on record as required under the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015. 
+Thanking you, 
+Yours faithfully, 
+For Mphasis Limited 
+Subramanian Narayan 
+Senior Vice President and Company Secretary 
+Encl: As above 
+NARAYAN 
+SUBRAMANIAN
+Digitally signed 
+by NARAYAN 
+SUBRAMANIAN
+
+Page 1 of 19 
+ 
+ 
+ 
+ 
+“Mphasis Limited 
+Q4 FY 2024 Earnings Conference Call” 
+April 26, 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. NITIN RAKESH – CHIEF EXECUTIVE OFFICER – 
+MPHASIS LIMITED 
+ 
+MR. MANISH DUGAR – CHIEF FINANCIAL OFFICER – 
+MPHASIS LIMITED 
+ 
+ 
+ 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 2 of 19 
+ 
+Moderator: 
+Good morning, ladies and gentlemen. Thanks for joining the Mphasis Q4 FY 2024 Earnings 
+Conference Call. I'm Zico Pereira, your moderator for the day. We have with us today Mr. Nitin 
+Rakesh, CEO of Mphasis; and Mr. Manish Dugar, CFO. As a reminder, there is a webcast link 
+in the call invite mail that the Mphasis management team would be referring to today. The same 
+presentation is also available on the Mphasis website, www.mphasis.com, in the Investors 
+section under the Financial and Filing as well as on both the BSE and NSE website. Request you 
+have the presentation handy. 
+As a reminder, all participant lines will be in the listen only mode. And there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during the conference call, please signal an operator by pressing star then zero on your touchtone 
+phone. Please note that this conference is being recorded. 
+Before we begin, I would like to state that some of the statements made in today's discussion 
+may be forward looking in nature and may involve certain risks and uncertainties. A detailed 
+statement in this regard is available in the Q4 results release that has been sent out to all of you 
+earlier. 
+I now hand over the floor to Mr. Nitin to begin the proceedings of this call. Thank you, and over 
+to you, Nitin. 
+Nitin Rakesh: 
+Thank you, Zico, and thanks, everyone, for joining us today. I appreciate your interest in 
+Mphasis, and I know its early morning. I trust everyone has had a chance to review our earnings 
+release documents. I'd like to start by discussing macro trends as always, and then we'll double 
+click on the Mphasis performance numbers. 
+As we've been calling out for a few quarters now, the market continues to be characterized by 
+duality. On one hand, the global business world is dealing with an unprecedented situation of 
+high interest rates, supply chain woes, labor market dislocations, record inflation and a fragile 
+geopolitical environment. 
+Consequently, the level of uncertainty in the environment stays high, leading to a high degree of 
+indecision on investment decisions, keeping pressure on discretionary spends. On the other hand, 
+further technological advancements and increased focus on sustainable practices are some trends 
+that have the potential to change how businesses operate. 
+Worldwide IT spending is expected to total $5 trillion in calendar year '24, an increase of 6.8% 
+from 2023, according to the last forecast by Gartner, who also states that IT services will 
+continue to see an increase in growth in 2024, becoming the largest segment of IT spending for 
+the first time. This is largely due to enterprises investing in organizational efficiency and 
+optimization projects. These investments will be crucial during this period of economic 
+uncertainty. 
+We now are seeing new pockets of spend opening up in organizations that are looking to invest 
+in modernizing legacy systems, leveraging AI and automation to improve operational efficiency. 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 3 of 19 
+ 
+Efficiency and cost optimization players are gaining traction as organizations look to find short-
+term wins to fund longer-term technological priorities. As Gen AI dominates discussions on tech 
+spend, it's increasing adoption will spur additional growth. In our conversations with customers, 
+we continue to see them trying to balance cost savings priorities in the current macro 
+environment with the need to stay relevant, tech forward and competitive. 
+As we advise our clients, we also continue to evolve internally to stay ahead of the curve as 
+technology adoption rapidly changes. The market continues to evolve and at a rapid pace. There 
+is a need for service providers to go beyond the current and not just apply AI. Our ability to 
+orchestrate the ecosystem by bringing in technology and people together to solve our customer 
+needs strongly positions us in this tech-first environment. At Mphasis as every tribe was getting 
+AI-enabled, we now see our solution and deal archetypes getting rapidly supercharged. We have 
+been investing to stay ahead through an AI-led archetype approach. 
+Our prominent AI partnerships across hyperscalers and the overall ecosystem is seeing rapid 
+growth and solid for customer needs. To quote a few examples, we've recently engaged in an 
+AI-driven IT production support engagement to improve reliability and uptime for a top three 
+US bank. We helped accelerate claims processing efficiency by 85% for a large benefits admin 
+provider using an AI-driven approach. 
+We also helped set up an AI security platform based on Zero Trust principles for a Canadian 
+health care provider. If you recall, Mphasis was one of the first to create an AI business unit 
+called Mphasis.ai. We've been working with our customers to build a point of view and helping 
+them think through their AI journey on productivity and consumer experience, and we've now 
+evolved to modernization as well. 
+Modernization is one of the biggest opportunities and we have developed an archetype that is 
+now enabled by Gen AI-centered platforms. We are starting to see every archetype from 
+customer 
+experience transformation 
+to productivity, 
+modernization, 
+our 
+zero-cost 
+transformation being AI-enabled. Tech providers in the market is moving rapidly. We are 
+investing in continuous development of the ecosystem to stay ahead of the curve in our ability 
+to orchestrate tech, people, services especially in the ecosystem of the market with AWS, 
+Microsoft and Google. 
+We recently announced a Strategic Collaborative Agreement with AWS focused on Gen AI in 
+financial services. Mphasis will also set up a Gen AI foundry to develop POCs for industry-
+specific use cases. Similarly Google recognized us for our deep engineering capabilities. We 
+recently built a hybrid multi-cloud operating platform that will leverage AI using Gemini Code 
+Assist to accelerate the software development life cycle. Mphasis has also launched Gen AI 
+blueprint on Microsoft's Azure Marketplace in collaboration with Microsoft and OpenAI. This 
+will help organizations seamlessly integrate and adopt Gen AI solutions to boost efficiency and 
+scale operations. 
+For instance, we've been building Gen AI platform for automating and reimagining complex 
+processes, including reverse engineering, application relearn and reengineer, things that have 
+traditionally been manual. Consequently, we have introduced two new platforms, as part of our 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 4 of 19 
+ 
+Mphasis.ai business unit, Modernization and Developer Experience Acceleration. Recently, we 
+have introduced an AI adoption framework, which enables our customers to move beyond POCs 
+and adopt AI within the business. 
+The Modernization platform helps in modernization of legacy applications written in languages 
+like COBOL and Java, using Gen AI LLMs and LAMs, with the objective of reducing the 
+relearning time by over 50%. Building on the foundation led by the modernization platform, the 
+Developer Experience platform takes the next step while generating the target step for the 
+modern application, accelerating this phase by 40% to 50% as well. 
+Moving on to the AI adoption framework, enterprises today are doing lots of POCs, but 
+struggling to adopt Gen AI at scale in their businesses. Our comprehensive framework simplifies 
+adoption by bringing people, process and technology together. We are extremely excited about 
+the capabilities that these platforms and solutions will bring to our customers. 
+Looking back at our journey through this past year and where we were versus where we are 
+indicated at the beginning of FY24. We entered 2024 with a strong pipeline in cloud 
+transformation and consolidation. Our TCV closures in a challenging year reflected our ability 
+to see pipelines through to deal closure. We had indicated that we would achieve revenue 
+stability in DXC. And to that effect, DXC is now roughly 3% of our revenues. 
+In keeping with our message to drive the non-BFS and the non-US markets growth, we have 
+built strong verticals in health care and TMT and continue to consolidate wins in these verticals. 
+The share of our emerging verticals such as insurance, TMT, logistics and transportation and 
+others has increased from 49% to 52% of revenue. 
+In Canada, we started with a set of financial services focused customers, and we now have a 
+well-diversified clientele across verticals, and we recorded a 42% year-over-year increase in 
+revenues in FY24. We continue to be driven by innovation-led growth and operational 
+excellence for our clients. We invested in our nearshore model and increased head count by 27% 
+in regions such as Taiwan, Mexico, Poland, Costa Rica, Canada, etc. 
+On technology, we made strategic choices to invest in capabilities and skills. In 2024, we were 
+able to quickly acquire and rapidly integrate our AI, sales force and other capabilities with our 
+tribes and archetypes and deliver a more well-rounded suite of services to our customers. Our 
+top 11 to 30 customers ex mortgage grew 13% in FY24 versus the previous year. The large deal 
+wins outside of our top 10 customers grew by 73% in FY24 versus the previous year. 
+Specifically on revenue growth, in April '23, we called out Q1 '24 softness in the BFS segment, 
+which unfortunately lingered through the first half of the fiscal year. We indicated in April last 
+year that mortgage segment was close to bottoming out and that we expected incremental 
+stability throughout the later part of '24. Though the interest rate environment hasn't changed as 
+we anticipated, the mortgage segment has broadly stayed stable, especially over the recent 2 to 
+3 quarters through FY24. 
+We also indicated that direct is likely to be -- growth in direct is likely to be back ended, with 
+sequential growth starting second half of FY24. And while the growth came in later and slower 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 5 of 19 
+ 
+than expected, however, investments have been in place to drive and capitalize on green shoots 
+as they emerged. 
+We are pleased with the pipeline growth outside of the top 10 accounts, which has grown by 
+10% year-over-year as well as 19% growth in our BFS pipeline. Our proactive deal pipeline is 
+strong with about 76% of our deals from proactive pursuits. A healthy composition of large deals 
+in the pipeline underscores that digital transformation and accelerating digital adoption continue 
+to be core themes for our clients, which are now getting supercharged by AI adoption as well. 
+Almost all our pipeline continues to be tribe-driven, archetype-led and is well distributed across 
+verticals and key themes such as data, modernization, cyber, agile ops and platforms. We see 
+AI-enabled opportunities in several of these archetypes and especially in areas that are opening 
+up new addressable markets for us such as Agile IT Ops, Next Ops and further acceleration in 
+data engineering and modernization. 
+As I mentioned earlier, our pipeline remains strong and conversion has been steady, though still 
+slow given the impact of seasonality and the macro factors. Large deals continue to show up in 
+our pipeline, and we've also seen an uptick in smaller deals as well, especially in Q4, providing 
+clearer visibility to some revival in discretionary deals while also boosting the pace of revenue 
+conversion with shorter duration, quick burst deals. 
+We continued with a higher share of proactive deal wins as we stayed focused on deal-making 
+in a challenging year. We saw broad based TCV wins across verticals and across the client 
+pyramid with several strategic customers. We closed the year with new TCV wins at $1.38 
+billion in FY24 and closed deals worth $177 million in Q4 '24. 
+Notably, significant TCV wins continue to be from our beyond top 10 accounts and are well 
+distributed between our various service lines. 77% of our deal wins in this quarter were powered 
+by next-gen technology adoption. 
+We saw 15 large deal wins in FY24, including 1 large deal in Q4, and we remain focused on 
+ramping these for revenue. We are seeing conversion to revenue pace pick up, and our deal 
+archetypes are further strengthened by capability acquisitions made during the year, enabling us 
+to offer a larger breadth of services. We continue to be structurally forward leaning, making 
+investments where we expect demand. We continue to push for revenue growth, which is 
+anchored in a strong client mining model and tech-led offerings. 
+Our Q4 FY24 revenue came in at USD410.7 million, a growth of 2.1% over previous quarter in 
+constant currency terms. For the full year, we closed FY24 at revenues of $1.61 billion, a decline 
+of 6.5% over previous year in constant currency terms. Direct business accounted for about 95% 
+of our overall revenue in Q4 '24 and for the full year. The mortgage business remained stable 
+this quarter, driven by new deal wins from previous quarters. 
+Our clients continue to look for best-in-breed solution providers for a combination of cost 
+takeout and transformation programs. We expect the pace of revenue and deal conversion to 
+pick up, especially in transformative deals through the remainder of -- through the coming years. 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 6 of 19 
+ 
+Our Direct revenue for the quarter increased by 2% sequentially in CC terms and by 0.4% Y-o-
+Y in Q4 FY24. For the quarter, our anchor geography, the U.S. improved 2.9% sequentially and 
+grew by 0.4% in direct Y-o-Y in Q4 '24. EMEA region also grew on a year-over-year basis. We 
+have been seeing good client wins and continue to see traction there. Our core service line, 
+enterprise apps constitute about 71% of revenue. We grew 2.8% sequentially in constant 
+currency terms in Direct apps. The BPO segment grew 1.8% sequentially and stayed flattish on 
+a Y-o-Y basis. We expect this segment to see stability ahead as well. 
+Moving to our vertical performance. As guided in Q3 earnings call, growth was led by BFS and 
+TMT. BFS was up 2.6% sequentially in Q4, and TMT and logistics were up by 4.5% and 2.2%, 
+respectively, driven by client and deal wins in recent quarters. 
+Similarly, our others vertical in direct is growing quite well as reflected in the 21.6% year-over-
+year growth in Q4 FY24. We see good ramp-up in new customers added across segments, 
+including in health care in the last few quarters in this segment. 
+Our top 10 accounts declined 10.8% Y-o-Y on an LTM basis, mainly impacted by macro 
+conditions, seasonality and the regional banking issues in the early part of the year. Our top 11 
+to 20 clients increased by 10.5% Y-o-Y, and 21 to 30 client segment grew by 17.3% Y-o-Y on 
+an LTM basis. 
+Our new client acquisition revenue continues to grow well, sustaining its strong growth 
+trajectory at 27%. Client mining stats remained steady, both sequentially and year-over-year. 
+Our wallet share with key clients continues to be stable, and we are well positioned with 
+consolidation opportunities and share of gains. This is particularly visible in the recovery in 
+growth in BFS in Q4 revenues for us as well as our pipeline growth in BFS. 
+Coming to our financial metrics. Our margin philosophy affords us the flexibility to manage our 
+profitability in the face of revenue headwinds. In this quarter, our EBIT margin stood at 14.9% 
+and Silverline acquisition costs impacted our margin by 0.8%. Reported operating profit for the 
+quarter declined 1.4% year-over-year and grew 2.2% sequentially. Losses in cash flow hedges 
+impacted margins in Q4 FY24 by 10 basis points. 
+For the year, our reported margin stood at 15.1%. Our EPS at INR20.8 for this quarter represents 
+a growth of 5% sequentially. For the year, our EPS stood at INR82.4, a decline of 5.3% annually. 
+Cash flow generation at USD55 million for the quarter was 116% of net income. Year-to-date 
+cash flow was at about USD237 million, continuing the trajectory of 100-plus percent of net 
+income and a growth of 56% year-over-year. 
+Our DSO of 66 days was better by 3 days over the previous quarter by 5 days over the previous 
+year. The Board of Mphasis also recommended a final dividend of INR55 per share to be placed 
+before shareholders for approval. 
+In summary, we've continued to retain our focus on the micro through FY24 and on ensuring 
+operational stability amidst the duality in the macro environment. I'll leave you with a few points 
+on the summary chart. 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 7 of 19 
+ 
+We continue to focus on building for growth and have made investments for a tech-led, 
+strategically diversified and transformative growth. We exit FY24 with a resilient pipeline across 
+TCV archetypes, including in our anchor BFS vertical. We grew capabilities through our 
+strategy of build, buy and partner with the launch of Mphasis.ai platform and business unit, 
+continuing strengthening of partnerships ecosystem across hyperscalers as well as specialist 
+players such as Kore.ai and WorkFusion. We also expanded our Salesforce capabilities with the 
+acquisition of Silverline. 
+We continue to diversify our revenue and pipeline beyond BFS and our top 10 clients. We've 
+revitalized our leadership in core geos, verticals and technologies and have expanded our 
+addressable market with new and enhanced capabilities. We're starting to see early signs of TCV 
+to revenue conversion pickup as reflected in the performance in Q4. 
+FY24 margin stayed expanded to the upper end of the guided band on a normalized basis, coming 
+in closer to 16% towards the second half with our continued focus on productivity and operating 
+levers. We had strong operating cash flow through the year and showed continuous improvement 
+in DSO with operating cash 56% higher than FY '23. 
+Coming to the outlook for FY '25. There are a few key messages that I would like you to take 
+away. Firstly, we continue to integrate our capabilities and execute to capture growth 
+opportunities as provided by the new environment, as I mentioned in the previous few minutes. 
+We're also very focused on converting our past and current deal wins to revenue. Despite 
+uncertainty in spend and sentiment, FY '25 outlook is better than the previous year. We expect 
+that in FY '25, we will be at above industry growth with visible gains from tech-led and account 
+focused strategy, including share gains, consolidation and continued active mining of clients, 
+especially in the 11 to 30 and the NCA categories. We will continue to execute in areas of growth 
+and invest across capabilities and verticals. 
+On margins, we retain our message of sustainable and steady margins in a narrow band while 
+investing for growth. Our operating margins will remain in the stated band of 14.6% to 16% in 
+the upcoming year with a continued focus on operational rigor, giving us increased confidence 
+on the trajectory of our performance. 
+On that note, moderator, let's open up for questions, please. 
+Moderator: 
+Thank you very much. We will now begin the question and answer session. The first question is 
+from the line of Nitin Jain from Fair View Investment Private Limited. 
+Nitin Jain: 
+Thank you for the opportunity. And I wanted to delve a little deeper on the TCV wins. So despite 
+the strong positioning of the company on AI and the sequential improvement in the BFS 
+industry, the TCV wins have been sequentially declining over the year. So how do we see this 
+trend going forward? How are we able to leverage our positioning in AI in terms of deal wins? 
+And the next question is also related to deal wins. So a lot of industry players have started 
+providing numbers in terms of their TCV -- their AI deal pipeline and revenue generated from 
+AI. So would you also be in a position to share any quantitative data? Thank you. 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 8 of 19 
+ 
+Nitin Rakesh: 
+Sure, Nitin. I can take the -- both the questions, actually are pretty linked to each other. Firstly, 
+I think we had a very bunched up early part of the year with some very large deals getting 
+bunched together in late Q1, early Q2. And we guided that we'll have to continue to move deals 
+through the pipeline through the remainder of the year. And that's the reason why the pipeline is 
+up 5% sequentially just Q4 over Q3. A large part of the growth came obviously from the 
+rebuilding of the pipeline in BFS as we've seen opportunities open up. 
+There are two nuances to think about the TCV number. One, I think the -- on a full year basis, 
+we've still grown the TCV wins by about 5% in a challenging year. Second, a lot of these deals 
+are, as we guided, especially in the early part of the year were multiyear deals, have not yet fully 
+ramped up and we continue to monetize the opportunity provided by those deals to ramp up. So 
+that's one thing to keep in mind because the linkage between order book and revenue growth is 
+much clearer for us given that we only report net new deals. 
+Secondly, especially in Q4, we've seen a number of short burst deals. These are typically -- while 
+we are reporting TCV, they're typically even shorter.. the duration is even shorter than 1 year in 
+many of these deals. 
+I think the $0 million to $10 million category deals for us the contribution, even on a dollar basis, 
+is actually very high this quarter. And that gives us the ability to ramp up these deals very, very 
+shortly -- quickly. And hence, you've seen some of that already show up in Q4 numbers, and we 
+expect that to also show up in the following couple of quarters. So I think that's one thing to 
+keep in mind when it comes to the shape and nature of the TCV. 
+Your second question around how we're using capability and how we're driving that competitive 
+advantage. I think the ability to orchestrate the tech ecosystem, ability to provide a solution that 
+leans on application of tech versus pure capacity or T&M basis, I think, is really where the 
+market is headed. We have -- we broke out the overall TCV, and we basically said about 28% 
+of that was AI-led. Combination of examples I gave you in the presentation are all pointing 
+towards those AI-led deals. 
+I think it's a little bit too early to start creating a metric that we can report every quarter given 
+that we are heading to a point where almost every archetype, every solution will have some 
+element of tech orchestration. But I think we'll continue to work towards figuring out what's the 
+best way to represent growth in that business. 
+I mean it's not just us, even the hyperscalers are having the same challenge with the 2 earnings 
+calls that I heard -- listened to today between Google and Microsoft. I think it's not very easy to 
+differentiate how much is AI-led and how much is cloud-led. 
+So we'll continue to find ways to give you a representation. But for now, I think the takeaway 
+message is that lead indicators are pipeline. Pipeline in AI-led deals is directly linked to the 4 
+archetypes I talked about, which is Agile IT Ops, Next Ops, Data engineering and 
+modernization. Those are the four very, very large pockets of opportunity, and those are the four 
+biggest buckets of our pipeline at this point as we speak. We do expect the TCV conversion rate 
+to show a much healthier number as we start FY '25 as well. 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 9 of 19 
+ 
+Manish Dugar: 
+On the reporting of the numbers, Nitin Jain, we did talk about winning TCV of AI business being 
+one third of our $700 million TCV win, and wherever relevant, we will provide that information. 
+At this point in time, we are not calling it out separately in the revenue split. 
+Moderator: 
+Thank you. The next question is from the line of Mohit Jain from Anand Rathi. 
+Mohit Jain: 
+Sir, one question. In margins, was there some benefit that you guys received during the year 
+from unknown reversal or other things, which gets accounted for an EBITDA? Or how should 
+we look at it for 4Q and for FY24 ? 
+Manish Dugar: 
+So, Mohit, there are investments and programs that are created to drive growth. And some of 
+them fructify with the costs actually getting paid out. And in some cases, since the performance 
+does not match up, those monies don't get paid out. There's nothing which is out of the ordinary 
+from a business as usual perspective. And the reporting had to happen because technically how 
+the accounting works for some of these transactions. 
+But think of it as some portion of the incentives that were planned did not get paid out. And as 
+that got reversed, given our philosophy of puts and takes and investing when there is an 
+opportunity, we found other areas where we could invest it in. So it should not be seen as 
+something which is either a directionally positive or negative from an EBIT perspective. 
+Mohit Jain: 
+So we need not adjust EBITDA for the INR200 crores kind of figure? 
+Manish Dugar: 
+No. There will be -- see, a lot of these investments are onetime, like we said, right? Short-term 
+savings go into short-term investments, long-term savings go into long-term investments. So has 
+that saving accrued being invested in equivalent areas. So there is nothing that will upset the 
+guided range. As you would have seen over the last 16 quarters, we have ensured that we 
+maintain the margin to a stable range. And any upside or downside is adjusted through either 
+dialing up or dialing down the investments. 
+Mohit Jain: 
+Okay. And second, as a follow-up on the previous, like, when should we expect TCV to start 
+growing again because that number is coming off quite sharply, started with $700 now, we are 
+below 200. 
+Nitin Rakesh: 
+Yes. But I think, again, as I said, right, Yes, as I said, right, large deals by definition will be 
+lumpy. I think when you consume such a big number and there is a windfall quarter, you will 
+see rebuilding of the pipeline through the phases, and that's what we are focused on. I think on 
+a steady-state basis, the LTM average is something we are very confident that we'll reach back 
+as we get through FY '25. 
+Mohit Jain: 
+So your LTM average will take us to industry-leading growth for FY '25? You don't think we 
+need to pull up on TCV? 
+Nitin Rakesh: 
+Above industry growth is what we're calling for right now. I didn't say industry-leading yet. If 
+we get through the next couple of quarters as planned and expected, then we will definitely 
+update that guidance. But at this point in time, what we are saying is if we get back to -- given 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 10 of 19 
+ 
+the nature and duration of some of the deals that we are starting to see, we do think that if we 
+get back to our LTM average, we should be in a good place for FY '25. 
+Moderator: 
+Thank you. The next question is from the line of Dipesh Mehta from Emkay Global. 
+Dipesh Mehta: 
+A couple of questions. Starting with medium term, you indicated about increasing TAM by 57%, 
+58% in last 3 years. If I look our performance, our revenue growth trajectory will be broadly in 
+line with industry. We are not seeing any benefit from TAM expansion. So if you can help us 
+understand how one should reconcile these two numbers which is fair? Second thing is about 
+the margin range, you indicated fairly wide range now. Sorry -- yes, you look at a fairly wider 
+range for EBIT? 
+Nitin Rakesh: 
+Yes, Manish, why don't you take the EBIT question first, and I'll address the 3-year revenue 
+question. 
+Manish Dugar: 
+Sure. Yes. So Dipesh, as you know, means, last year, our guidance on the margin was 15.25% 
+to 16.25%. And the primary reason why we maintain that range is because of the uncertainties. 
+We are, as we speak, at 14.9%, while we are driving to a range of 14.6% to 16%. And the only 
+reason for that is we believe there are some one-timers in this 14.9% like last quarter, and we 
+had called it out specifically. 
+We do believe that as we go forward, we will have opportunities both from an operating leverage 
+perspective and from the perspective of all the productivity and operating levers that we are 
+working on, which should help us further move towards the top end of the margins, other than 
+the fact that some of the impact of acquisitions will get utilized. 
+However, given the uncertainty, we wanted to make sure that our guidance does not get breached 
+either at the bottom end or the top end, and hence, the guidance of what the normalized margins 
+are. We expect that unless something drastically goes wrong, we should be more towards the 
+middle or the top end of the margin range. 
+Nitin Rakesh: 
+So, Dipesh, to answer your first question around the 3-year revenue growth rate versus TAM 
+expansion, again off the top of my head, FY '22, FY '23 and FY24. FY '22, direct revenue growth 
+was around 35%. Industry revenue growth in that year was probably around 16% to 20% range. 
+FY '23, direct revenue growth was 12%. Industry growth in that year was probably in the 6% to 
+8% range. FY24, direct revenue growth is minus 2.3%. Industry growth is probably in the 0% 
+to 2% range. 
+If you do a CAGR analysis, you will actually see that we probably grew 2x the industry on a 3-
+year CAGR basis.. And by the way, this includes the impact of DR on the mortgage business 
+because obviously, that included -- that was included in FY '22 and '23 numbers as well. 
+So I think it's -- if you do -- the longer-range CAGR analysis you do, the better the performance 
+will actually look. Obviously, this performance is getting muted by the impact that we've taken 
+on two large hits in the last 12 months, mortgage and regional bank. But I think coming out of 
+that, the CAGR -- the TAM expansion is actually working in our favor as also driven by the 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 11 of 19 
+ 
+large deal wins and the fact that we had a record 15 large deals in FY24. Happy to share more 
+data as you wish. 
+Dipesh Mehta: 
+I have a few follow-ups. First about, let's say, data-wise, depreciation has inched up sharply this 
+quarter, whether this would be new normal or there is any one-off in this quarter, which one 
+should be aware of? Second question about if I look at New-Gen TCV which was always a focus 
+area for us rather than total TCV. 
+ 
+Now New-Gen TCV, if I look on TTM basis, it is showing Y-o-Y decline? So if you can provide 
+some context to it, how one should read it? And lastly, let's say, vertical-wise, if I look at it, if 
+you can provide some strength about how you expect growth trajectory to be led by in FY '25. 
+And if any percentage you would like to highlight across vertical? 
+Nitin Rakesh: 
+Manish, you want to take the depreciation question and then I can address the vertical outlook. 
+Manish Dugar: 
+Yes. 
+Nitin Rakesh: 
+I didn't understand the second question, which was around the... 
+Manish Dugar: 
+TCV trailing 12 months, Nitin. 
+Nitin Rakesh: 
+Yes, okay. You can take that too. 
+Dipesh Mehta: 
+New-Gen TCV. I'm not referring to total TCV, New-Gen. 
+Manish Dugar: 
+Okay, New-Gen TCV. So on the depreciation, Dipesh, as you would have seen, the EBITDA 
+expanded from 18% to 18.7%. And while the margin -- EBIT margin remained at 14.9%, the 
+primary reason for that is some of the savings that we accrued were in the nature of non-cash 
+and some of the savings, that onetime -- the depreciation increase that you are seeing is not 
+normal. You should expect it to be in the range as it was in the prior quarters. Nitin, you want to 
+take the New-Gen TCV? 
+Nitin Rakesh: 
+Yes. I'll take the other two. I think the New-Gen number in the 75% to 80% range is kind of the 
+average. The rest of it is actually comes from organic. As I mentioned, existing programs get 
+ramped up, ramped down. And hence, you will see a tail of 15%, 20% that will reflect. I wouldn't 
+read too much into the New-Gen number. 
+I think as we go forward, as I mentioned, given the tech orchestration, people plus platform play, 
+if anything, I think that will become the primary source of deal construction and deal wins. On 
+outlook by vertical, I think we mentioned in the last quarter call that at least for the short term, 
+we expect growth to be driven by BFS and TMT. And I think that is still the case, at least in the 
+very short run. 
+We do think that the worst is behind us in the logistics business. Travel business already actually 
+been growing well for us between airlines and railroads. And I think even insurance business 
+has grown well on a Y-o-Y basis, and we do have a pretty good view into trajectory for that 
+business. I think, most of the businesses are pointing towards a pretty decent picture, purely 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 12 of 19 
+ 
+based on the in-account actions and the bottoms up work that the teams have done across all 
+geographies. 
+Moderator: 
+Thank you. The next question is from the line of Chirag Kachhadiya from Ashika Institutional 
+Equities. 
+Chirag Kachhadiya: 
+Yes. Nitin, I have one question on margin front. So the margin road map which we still -- as an 
+outlook in FY '25, are we going to drive that? And what is our outlook on hiring as well? 
+Manish Dugar: 
+So I'll take the question on margin. Chirag, the constant philosophy for Mphasis has been that 
+of investing for growth while maintaining margin in a narrowband. The narrow band, we believe 
+will have a northward bias as the revenue scales and that is demonstrated in us continuously 
+increasing the margin delivered on a year-on-year basis. 
+Even the range this year, if you see is -- the lower end of the range has gone up if you normalize 
+for the acquisition, means our reported margin is 14.9%. If you take the impact of acquisitions, 
+the new one and the earlier ones. Adjusted for that, the margin is about 16%. And the range that 
+we have called out will eventually look like 15.7% to 17.1%. 
+So -- and most of this is driven by the philosophy that as and when we have opportunities in 
+terms of short-term investment capability or long-term investment capability, we will invest in 
+ideas and areas that help us broaden our spider chart, which we presented in the Investor deck, 
+which are all the dimensions in which we want to continue investing to prepare the business for 
+the future and for a long-term growth. 
+And if and when there are some constraints, we have the ability to dial those investments down. 
+So that enables us to ensure that the delivered margin remains in a stable range. And that is how 
+we will continue doing it. And based on what we see today, 14.6% to 16% delivered margin is 
+something that we believe we will be able to deliver in the coming year. 
+Nitin Rakesh: 
+On the head count front, I think still a little bit unclear picture as to where the immediate term 
+discretionary demand will end up. So we are not really building any large capacity at this point 
+in time given that we do have the ability to apply multiple levers. Just like you saw in Q4, we 
+were able to actually show a pretty decent revenue ramp-up. Of course, we ate into some of the 
+utilization and we got the benefits of seasonality back in as well. 
+But I think the -- my -- at least the short-term view on hiring trends is that we will have to really 
+be in lockstep with the demand forecast and we are very focused on doing a rolling 90-day 
+forecast at this point. We still obviously have utilization that can further be improved. But at this 
+point, I think we are sitting pretty comfortable with the capacity required for us to grow. 
+And this will really have to be a very dynamic in-quarter decisions to be made around how much 
+to invest in a ramp up capacity. However, a significant investment is already going into 
+upskilling of the people, especially around some of these Gen AI platforms, both internal and 
+third-party platforms. So I think there's a bit of a revolution or evolution going through in the 
+supply chain as well. Supply chain will have to be very much in lockstep. And in a way,  highly 
+automated way of operating, so we can make quick moves with short term -- short heads ups. 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 13 of 19 
+ 
+Moderator: 
+Thank you. The next question is from the line of Manik Taneja from Axis Capital. 
+Manik Taneja: 
+So I just wanted to get your thoughts on two things. In the past, you have spoken about on the -
+- from a financial services standpoint, you've spoken about strength on the retail side, strength 
+in wealth management and retail banking, while pressure in investment banking, given the lack 
+of deal activity. 
+Even what we are seeing in the more recent past in terms of new IPOs coming up in the 
+developed markets, do you think this part of the business segment starts to do well for us? And 
+if you could provide us some broad context of your split of business across some of the industry 
+segments within banking? 
+And the second question was with regards to the org structure or the GTM change that we did 
+last year. If you could help us understand where are we in terms of settling down of the new 
+GTM structure and also talk about the progress on the new client acquisition-led growth? 
+Nitin Rakesh: 
+Sure. I think on the first one, interestingly, the reference I made to some shorter-term quick burst 
+deals is actually a direct reflection of a little bit of the improved landscape when it comes to 
+capital markets. We've seen some bank earnings, and we've seen the impact of trading and capital 
+markets businesses actually surprise on the upside to The Street. Some of that is translating into 
+actions that they're starting to take because the belief is that The Street is in the early stages of 
+capital markets reopening. So I think some of that is definitely good news for the capital markets 
+segment. 
+Consumer banking, I think a lot of transformation work around experience transformation for 
+customer experience, the cost takeout from operations, both business ops and IT ops as well as 
+-- the capital markets and consumer bank are talked about. Asset and wealth is actually an area 
+of investment because a lot of large firms have strategically decided to diversify towards asset 
+and wealth given the annuity nature of those businesses. There, I think a lot of work is going on 
+around data as well as adoption of Gen AI in the way they think about research and trading as 
+well. 
+So I think the -- obviously, the consumer lending segment is still a little bit stressed. The direct 
+linkage of that to mortgage and auto loans. Both of those are either -- there's not enough volume 
+or the delinquencies are higher. So those are actually a little bit of hot spots that we haven't yet 
+found a full answer to. So that's kind of on the -- within the BFS segment, what's going on. 
+Insurance, since BFSI is kind of typically talked about, I think there is decent demand for 
+modernization solutions across life and annuities players. P&C guys are a little bit more class 
+specific stories given the -- that their own internal dynamics are very different. And the brokers 
+are also very rapidly refreshing their tech platforms, consolidating them and driving forward. So 
+that's the reason why we've started to see some decent activity both in deals and in revenue on 
+the insurance business as well on a Y-o-Y basis. Can you repeat the second question? 
+Manik Taneja: 
+My second question was regarding the org structure, GTM? 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 14 of 19 
+ 
+Nitin Rakesh: 
+Yes. GTM structure. I think the structure is fully settled, Manik. I think we -- it's been 4 quarters 
+now. We are starting to reap the benefits of these go-to-market account cohorts by vertical in the 
+U.S. That was kind of the only change we made, I think, in our regional structure in Europe and 
+emerging continues. 
+I think the synergy benefit of having a set of accounts run by the same leadership team is what 
+is driving our rapid expansion outside of the top 10 accounts -- outside of the top 5 accounts 
+actually. I think there is a very interesting set of logos that were acquired in the last 3 years that 
+are actually supercharging the overall book of business in BFS, and that's partly also one of the 
+reasons why we are fairly confident about the short-term prospects in that business. 
+Same thing for things like travel and airlines, same -- a very similar outcome that is being derived 
+through the synergy that is generated in that unit as well. So I think we achieved the objectives 
+that we set out to achieve. Obviously, FY24 was a head-winded year for the industry and for our 
+clients. But I think as we are seeing this uptick and recovery in growth, I think that structure will 
+probably become a fairly strong go-to-market pivot for us -- pillar for us. 
+And not to forget that there is a very strong layer of solutions and tribes that actually cuts across 
+all units, all markets, all geographies. So that continues to provide that consistency and 
+scalability in deal archetypes. So I think everything is well settled in, given the ability to take a 
+new capability and bundle into a deal archetype is well established at our end as well. 
+Moderator: 
+Thank you. The next question is from the line of Rahul Jain from Dolat Capital. 
+Rahul Jain: 
+Yes, thanks. So basically, I have a couple of questions. One is to, I know there's no easy answer 
+to this, but just to understand what is the industry growth benchmark for you? Is it more around 
+the Gartner IT services forecast number? Or this is more to do with what the average of top 10, 
+15 players in Indian market may potentially do for this year? 
+Nitin Rakesh: 
+That's an easy answer. It's the latter. It's not the Gartner number. It's the -- it's really the 
+NASSCOM forecast of the top 20 players average. 
+Rahul Jain: 
+Understood. And -- to the same point, if we see the number that Gartner is producing, in their 
+forecast looks much better than what NASSCOM did last year and what they are expecting now. 
+So is it more to do with corporates investing in AI where probably at this point Indian sales have 
+less role to play or maybe some other technology we have lesser play at this point, which 
+explains the difference of Indian IT growing slower than Gartner, which has never been the case 
+historically. 
+Nitin Rakesh: 
+Yes. I think I would take the Gartner number for what it is. It's a forecast. It is not -- even in  -- 
+into calendar '23, I don't think there was that level of growth as they forecast. They started the 
+year with a 9% forecast. They ended the year with the 3% forecast. So I think they will revise it 
+based on how the market evolves and develops. 
+At this point, I do believe though that Indian IT is actually going to grow faster than global SIs. 
+You can see that with some of the larger global SIs numbers and their forecast or consensus or 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 15 of 19 
+ 
+guidance for '24, you'll still see that, that number is actually lower than the average of the Indian 
+SI growth number. 
+And that has been the case for the last 25 years. I think the value migration in favor of India-
+centric IT delivery is continuing, and of course, the gap has narrowed. It used to be a pretty big 
+gap. But given that the overall industry growth has come off in the last couple of years, that gap 
+has, of course, narrowed. 
+So I think the right way to think about the growth rate is as we go through the year, where we 
+end up with the forecast. Of course, that is a line in the sand that we follow because that's a 
+benchmark that gets set at the beginning of the year. Some of that is also, by the way, consumed 
+by the hyperscalers because of the early consulting services work that needs to get done before 
+it turns into execution deals that actually come to SIs, both global and India. 
+Rahul Jain: 
+Right, right. And just last bit, since we've been early into this AI theme, is there a way to 
+understand the precise TAM within the or [SAM] within the $40 billion, $50 billion AI market 
+that is defined, which would be more related to the kind of work which we may eventually do? 
+Nitin Rakesh: 
+I think the short answer is that there are wide-ranging forecasts of the size of the AI market, 
+depending on what segment of AI you're talking about. If you look at machine learning, different 
+estimate; Gen AI, different estimate; conversational AI, different estimate. Still very, very early 
+days. So I think it's like the '95, '96 time frame with Internet. I don't think it's -- anybody has a 
+clear handle. 
+One thing though is very clear that things are moving very rapidly, and evolution is very fast, at 
+least in the tech landscape. So I don't think it's going to take 5 years. Within the next couple of 
+years, it will be pretty clear. 
+The way I see it is, as we talked about during the commentary that I gave over the presentation, 
+I think there is potential for almost every archetype, every service type to get enabled by some 
+adoption of tech. Not all of it will be Gen AI. But if you look at something like Agile IT Ops, 
+production support, service desk, there is a pretty significant combination of conversational AI 
+and machine learning, pattern recognition, predictive, preventive self-feeling mindset that is 
+actually driving a lot of adoption of tech platforms and AI in those service lines. 
+So I think to me, just like digital was in the early days, there was a lot of tagging and retagging 
+and redefinition. I think this is a phase we'll have to go through. Painful, but we'll have to go 
+through it over the next few quarters. And then to me, almost everything you do must be touched 
+by some form of tech, otherwise, it's going to get completely disrupted or it will disappear as a 
+service line. And we've seen that with many, many past service lines. One really good example 
+is stand-alone testing. It's pretty much non-existent today. 
+So I think it's a refresh, almost every service type, every drive, every archetype and effectively 
+approach the business as if almost everything will get touched by some element of tech. Now 
+again, Gen AI is a high cycle issue. So I'm staying away from saying everything will be Gen AI, 
+but almost everything has the potential of getting converted into a tech play. 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 16 of 19 
+ 
+Moderator: 
+Thank you. The next question is from the line of Sandeep Shah from Equirus Securities. 
+Sandeep Shah: 
+The first question, Nitin, wanted to understand. I think you are the first one to highlight that the 
+small tenure, small size deals are also forming part of the deal pipeline and the deal wins. So is 
+it concentrated with a few clients in 1 vertical or it has been widespread across many verticals? 
+Nitin Rakesh: 
+I think it's -- I wouldn't say it is concentrated in 1 vertical, but given the outsized share of BFS 
+for us, I think it's most visible there. And remember, the banks are almost always power gaining 
+and early adopters of almost all new tech. So some of that is playing in there as well as they are 
+starting to think about how these new tech platforms are in going to impact their overall 
+programs. 
+Many of them are already in the journey for cloud migration or transformation. Now this gets -
+- gives them another lever to not just accelerate their journey, but actually fund that journey. So 
+I think it is more broad based than just 1 or 2 verticals, but at the same time, I'm very enthused 
+by the fact that the level of activity in BFS at least for us, is pretty strong right now. And that 
+gives me a certain degree of confidence for the short term. 
+Sandeep Shah: 
+Okay. Fair enough. And, Nitin, is it fair to believe now most of your client specific issue, large 
+accounts across many verticals, which has impacted your growth in the last couple of years, are 
+largely behind, especially in the top client within your BFSI vertical? 
+Nitin Rakesh: 
+Yes, I think not commenting on any one particular customer. I think I did call out when we 
+talked about the vertical outlook. Most of -- I wouldn't say all, but most of client-specific issues 
+seem to be -- the worst seems to be behind us. As capital market activity recovers, I think 
+whatever is left will probably get addressed through that. Then the only thing left to recover will 
+be the interest rate sensitive business around mortgage. 
+There, I still don't see any pickup in volumes. I think whatever sustainable revenue we are 
+generating is being generated through either the fact that we are a lot more efficient than our 
+clients operations or we are actually gaining share from some other providers and new 
+customers. So I think it's a -- barring that segment, I think the large account issues seem to be -- 
+at least seems -- the worst seems to be behind us. 
+Sandeep Shah: 
+Okay. And just clarity in terms of your earlier comment FY'24 TCV is not fully reflected in 
+terms of the conversion into revenues. So do you believe the first quarter FY 24 TCV which 
+might not have been converted fully into revenues may -- now may not delay going forward and 
+start looking in terms of conversion to revenues in the coming quarters. So despite the fourth 
+quarter TCV being low, one cannot judge the softer revenue growth. It could be a vice versa 
+where earlier quarters deal wins are converting into revenue and the growth could be better. 
+Nitin Rakesh: 
+Absolutely. I think I called for that. It's not just the first quarter TCV. I think we had $1.38 billion 
+in the last 4 quarters. A lot of that, we are consuming through. Some of the earlier deals are still 
+not fully ramped up, and we've been calling for that delay happening over two quarters -- last 
+two quarters. This quarter, we've seen some pickup in activity, and it's still not fully ramped up. 
+So I think we'll continue to consume what order book we have as we also focus on closing the 
+order book. 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 17 of 19 
+ 
+Sandeep Shah: 
+And last clarification, Manish, just wanted to understand this G&A cost has gone down 
+materially on absolute basis by 24%, what has led to this and what would be the normalized run 
+rate? 
+Manish Dugar: 
+So Sandeep, the real metric that we kind of track and look for is the EBIT number. And when 
+you have some onetime reversals and onetime charges, it may come in different buckets. So we 
+do have a disclosure that there is a reasonable amount of money that we reversed in this quarter. 
+A large part of that actually came in as a reduction in the G&A cost and the gross margin line 
+item, while the investment that we made corresponding to that saving actually went in SE and 
+gross margin. 
+So you would see a reduction in the G&A number because of that while the SE looks higher. 
+However, the real way to think about it is a longer term trend. And there, I think the number is 
+a little higher than the 5% that we reported, and that is what the the normalized G&A will look 
+like going forward. 
+Sandeep Shah: 
+14.9% as a reported margin does not have any one-off to call out, right way to understand? 
+Manish Dugar: 
+So 14.9%, last quarter also we had said that there is some bit of upside because of onetime and 
+so is the case this quarter and which is why we have guided a lower end of 14.6%. However, the 
+endeavor and the view is that if things remain stable and we are able to get operating leverage, 
+we should be able to deliver 14.9% or higher. 
+Moderator: 
+The next question is from the line of Vibhor Singhal from Nuvama Equities. 
+Vibhor Singhal: 
+Maybe my question was on BFS direct, excluding DR. What is the -- I mean, of course, in this 
+quarter, it was down 9% Y-on-Y as we can see for the presentation, but I'm sure there's a 
+sequential improvement in the business as we have seen. So what is -- if you could just basically 
+give some idea to what is happening in that segment, what are our key trends, which we should 
+look at? And going forward in the next 2 to 3 quarters, how do you see that segment playing 
+out? 
+Nitin Rakesh: 
+Yes. I think, I actually addressed in a couple of different ways, both through my comments and 
+through the previous questions. But just to kind of sum it up, the ability of enterprises to look at 
+how they can redesign operations and technology using some of the newer capabilities that have 
+been made available in the last 12 months is driving one pocket of conversations and deals. 
+Not many of those deals are fully supersized yet because somebody will roll out a certain number 
+of POCs or pilots or certain teams will actually adopt that first and then they will scale it. So 
+that's one pocket of opening that we are seeing. That's why we've been very power leaning on, 
+for example, the AWS around FS in the U.S. with a foundry approach. 
+Second, I think the ability to -- for us to create deals, I gave an example of a production support 
+COE for a large U.S. bank. That was not something that we would have been able to win 18 or 
+24 months ago because that was a scale game, per ticket pricing, how many different locations 
+do you have people in, what's the per ticket reduction you can commit over the next 12, 24, 36 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 18 of 19 
+ 
+months. Any how many thousands of people are in that operation for you will drive your ability 
+to win that business? 
+Today, that playing field has been level set because client is not focused -- or at least our 
+approach to the business is to not get the customer to focus on the per ticket cost, but to focus 
+on reduction in overall ticket volume because you can actually automate a lot of that intervention 
+by using AI-led ops or machine learning combined pattern recognition combined with self-
+learning. So that's a completely asymmetric opening of TAM. 
+I don't know if that is – that  places everybody in the same position. The answer is probably not 
+because that market by itself is going to get very heavily disrupted with automation and AIOps. 
+But for us, that's definitely adding both to pipeline and to deals. 
+And third, I think I talked a little bit about green shoots of activity coming out of this, the short-
+burst deals. Some of it is linked to the capital markets recovery. Some of it is just linked to the 
+fact that 1 quarter into the year, I think there is a little bit of change fatigue. They didn't really 
+do much last year. They have to do a certain number of programs this year. Question is, what 
+does the macro do to that spend on a 6-, 9-, 12-month basis? The answer is we don't know. We 
+just have to focus on in-account action and bottom-up driving off wallet share gains. 
+And I think given that we've also added a number of marquee logos in BFS in the last 18 to 24 
+months, 36 months, that's a massive opportunity for us to gain share. So I think it's really a 
+combination of all of these things. None of this is macro dependent for us because we really 
+can't take a call on that. 
+All of it is dependent on our actions and what we control, and that's what's driving our confidence 
+in the fact that at least for the next -- for the first half of the year, we have decent visibility. We'll 
+update that visibility as we get into the next quarter or two because that will give us a little bit 
+more sense of whether these green shoots on short-burst deals are sustainable. 
+Vibhor Singhal: 
+Got it. But on the demand side, just to wrap up with clarifications on my side. On the demand 
+side, I mean, how are the BFSI customers, again -- excluding mortgage that I'm talking about, 
+how are the BFSI customers reacting to the interest rate scenario being pushed out further and 
+further? Is there any dependency of the -- on the tech spend on this thing or do you think we are 
+well past that and now tech spend hit the bottom end and from there we should recover? 
+Nitin Rakesh: 
+Yes. I think some of it is kind of just baked into the acceptance that higher for longer is here to 
+stay. Question is whether July happens, September happens, I don't know any -- I don't think 
+anybody knows. I think at this point, obviously, I mean, you saw the bank earnings, there was 
+very little to call out there saying higher interest rates are hurting bank earnings. Yes, they are 
+paying more for deposits, but their NIMs that have expanded for the last couple of years. 
+So I think it's in a way kind of an uncomfortable equilibrium, so to speak. Question is, can that 
+equilibrium be tipped in favor of higher spends? I think it's too early for us to call. That's why 
+we're really, really focused on in-account actions. 
+
+ 
+Mphasis Limited 
+ 
+ 
+April 26, 2024 
+ 
+Page 19 of 19 
+ 
+Moderator: 
+Thank you. Ladies and gentlemen, that was the last question for today. I now hand over to Mr. 
+Nitin Rakesh for closing comments. 
+Nitin Rakesh: 
+Again, thank you all for your continued interest in Mphasis and your questions. And I know it 
+was early in the morning. We are very, very pleased with the way we've executed over the last 
+few months. Very focused on continuing to execute, as I mentioned, on a bottoms-up micro 
+basis. And while the environment stays uncertain, we are cautiously optimistic. Thank you again, 
+and I'll talk to you all in the next quarterly call. 
+Moderator: 
+Thank you. On behalf of Mphasis Limited, that concludes this conference. If you have any 
+further 
+questions, 
+please 
+reach 
+out 
+to 
+Mphasis 
+Investor 
+Relations 
+at 
+investor.relations@mphasis.com. Thank you for joining us, and you may now disconnect your 
+lines. 

@@ -1,0 +1,253 @@
+ 
+ 
+Kellton Tech Solutions Ltd., Regd. Office: Plot No. 1367, Road No. 45, Jubilee Hills, Hyderabad-500033, Telangana, India  
+Tel: +91-40-44333000       Fax: +91-40-23552358       Email: info@kellton.com       Website: www.kellton.com 
+Kellton Tech Solutions Ltd., Plot No. 404-405, 6th Floor, iLABS Centre, Udyog Vihar, Phase III, Gurugram-122016, Haryana, India 
+ Tel: +91-124-4698900        Fax: + 91-124-4698949         CIN: L72200TG1993PLC016819 
+ 
+To 
+ 
+The General Manager,
+Listing Department, 
+BSE Limited, 
+1st Floor, New Trading Wing, 
+Rotunda Building, P.J. Towers, 
+Dalal Street Fort, Mumbai-400001 
+The Manager,
+Listing Department, 
+National Stock Exchange of India Ltd, 
+Exchange Plaza, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai – 400051 
+Scrip Code: 519602 
+Scrip Code: KELLTONTEC 
+ 
+Dear Sir/Madam, 
+ 
+ 
+Subject: Transcript of Q2/FY25 Earnings Call held on November 13, 2024 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed the transcript of Q2/FY25 Earnings Call held on Wednesday 
+November 13, 2024. 
+ 
+Further, pursuant to Regulation 46 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, the same is also available on the website of the Company. 
+ 
+This is for your information and record 
+ 
+Thanking You, 
+Yours faithfully, 
+ 
+For Kellton Tech Solutions Limited 
+ 
+ 
+ 
+Niranjan Chintam 
+Director 
+DIN-01658591 
+NIRANJAN 
+REDDY CHINTAM
+Digitally signed by 
+NIRANJAN REDDY CHINTAM 
+Date: 2024.11.14 15:43:53 
++05'30'
+
+Kellton Tech Solutions Limited
+Q2 & H1 FY25 Earnings Conference Call
+November 13, 2024
+Moderator:
+Ladies and gentlemen, good day and welcome to Kellton Tech Solutions Limited's Q2 & H1 FY
+'25 Earnings Conference Call.
+As a reminder, all participant lines will be in the listen-only mode and there will be an
+opportunity for you to ask questions after the presentation concludes. Should you need
+assistance during this conference call, please signal an operator by pressing “*”then “0” on
+your touchtone phone.
+I would like to thank you all for participating in the Company's Earnings Call for the 2nd
+Quarter of the Financial Year 2025.
+Before we begin, I would like to mention a short cautionary statement. Some of the
+statements
+made
+in
+today's
+concall
+may
+be
+forward-looking
+in
+nature and such
+forward-looking statements are subject to risks and uncertainties, which could cause actual
+results to differ from those anticipated. Such statements are based on the management's
+beliefs as well as assumptions made from the information currently available to the
+management. Audiences are cautioned not to place any undue reliance on these
+forward-looking statements in making any investment decisions. The purpose of today's
+earnings conference call is purely to educate and bring awareness about the company's
+fundamental business and a financial quarter under review.
+Now, I would like to introduce you to the Management participating with us in today's
+Earnings Call. We have with us Mr. Niranjan Chintam – Chairman and Whole-Time Director,
+Mr. Karanjit Singh – Chief Executive Officer (India), and Mr. Srinivas Potluri – Chief Executive
+officer (US).
+I now hand the conference over to Mr. Niranjan Chintam – Chairman and Whole-Time
+Director, thank you and over to you, sir.
+Niranjan Chintam:
+Thank you, Neha. Good evening. Good Day to all. Thank you for joining our Q2 FY’25 Earnings
+Call.
+Just want to start off with the financial numbers and then we'll get into the operational details
+and then I'll open up for Q&A.
+First of all, I want to apologize ,there were some slight technical difficulties, so the call started
+late. Also, I have a severe cold and cough so I may be coughing in the middle please excuse
+me. I want to give that heads up already.
+With that said, let me just go through the numbers:
+For Q2, I'll start off with the quarter numbers and the six-monthly numbers.
+The quarterly numbers:
+
+We have a revenue of 270 crores close to 271 crores in this quarter. This is a growth of about
+12.4% year-on-year. The EBITDA margin of 12.1% and the net profit of 19.6 crores. The PAT
+margin for this quarter is 7.2% and the EPS for this quarter is of Rs. 2.6.
+For the six-month numbers, the revenue is 533 crores, which is about 8.7% growth
+year-on-year. EBITDA is 65 crores which is about an EBITDA margin of 12.2%, net profit of
+about 39.6 crores and the PAT margin of 7.4%.
+The EPS was about Rs.4.10. Again, comparatively if you look at it on a year-on-year basis, it
+has gone up significantly.
+Now coming to the operational highlights, we have about 5 clients wins. I'd like Karanjit to talk
+about the client wins for this quarter, Karanjit.
+Karnjit Singh:
+Thank you Niranjan and hello everyone. So, I'll just give a little bit of a color on the client wins
+that we had this quarter.
+So, we've been selected by major gaming clients to modernize their existing Enterprise Data
+warehouse and migrate it to the cloud, specifically to snowflakes. So, this is something that
+they want a seamless cut over maintaining the same architecture, so this is a pretty significant
+project for them and we're glad that we've been selected for it.
+Similarly, we have been selected by a very major contract food services client to build a
+critical kitchen operation system for them. So, this is something that we are completely
+building from the ground up for them. And the idea is to ensure that we build a scalable
+performance application with great user experience that helps them to align with their
+clients’ expectations.
+The other one that we have is an SAP type client which is basically selected to enhance the
+SAP Warehouse Management System. And this is something that we'll be leveraging the core
+SAP ABAP kind of expertise to facilitate first the development and then the deployment.
+The other one that I would also like to mention is a major manufacturing client, a global
+client, for whom we will be developing a system which will help them streamline their sales
+and inventory management for about 2000 SKUs. So, this obviously is again a data project so
+this integrates with multiple internal sources as can be expected of any large global enterprise
+and this will help them get visibility and timely data and insights that will help them enhance
+their efficiency.
+So, these are the client wins and a little bit color on the kind of work and the solutions that
+we will be helping these clients to implement. Thank you and back to you Niranjan.
+Niranjan Chintam:
+Thank you Karanjit. I know everybody probably is curious about what's going on with the US
+Elections and the impact on Kelton or IT services in general. Can you just take that and answer
+it upfront so that people get to understand what it means?
+Srinivasan Potluri:
+Sure Niranjan. Hello everyone. So, we have been waiting for the Elections to get done so that
+the dependency and who is going to come, who is not going to come is all sorted out. Before
+we go into what Trump’s Presidency might look like for Kelton, I want to say that there were
+about four or five opportunities that we were going to sign last quarter, but due to the
+uncertainty of the elections and so on, customers have pushed them to the right. So, we
+expect to close all of them in this quarter and hopefully start some of them before the holiday
+season in December. So, having said that, obviously Trump has come with the roaring
+
+majority. He wants to provide deeper tax cuts for businesses as well as individuals, and his
+campaign actually proposed lowering the corporate tax rate to 15% from its current 21%.
+What does it mean for business in general? The economy will initially grow slightly faster
+under Trump's plan to cut the corporate taxes, but over a long period of time that might
+phase but the initial reaction would be that there will be a lot of spending from businesses
+and corporations. And we expect to take advantage of that from an IT perspective from an
+implementation perspective. So, that is an immediate impact. You might have seen that the
+S&P has jumped up 2.2% immediately after the declaration of Trump’s win. So, obviously all of
+these are indicators that in the initial phase of Trump's Presidency we will see some growth
+happening in the US Economy.
+Niranjan Chintam:
+Thank you, Srini. Thanks. So, now I want to open up for questions. Neha, can you open up for
+questions?
+Moderator:
+Yes, for sure. Thank you very much. We will now begin the question-and-answer session. The
+first question is from the line of Narendra from Rubio Capital. Please go ahead.
+Narendra:
+Thanks for the opportunity and so congratulations for the set of numbers. So, my question is
+both the outcome of the election in the US, so how achievable is the $200 million target that
+we had set, how achievable does that look and what is the timeframe that we are looking at?
+Because I believe the order inflow should start picking up going ahead.
+Niranjan Chintam:
+So, let me answer it in a different way. Maybe like Srini pointed out right. Some of the
+decisions that were pending for closure or sign off will be accelerated now. They were just
+waiting because clients were uncertain about and wanted to get this election over with. They
+wanted to know who is going to win, what the impact on the business is going to be because
+both these personalities had different visions of what the taxation is going to be, what it
+means for businesses and all that stuff. Now that is sorted out, everybody knows what Trump
+is and what his agenda is. We are hoping that the economy is going to be opening up. Interest
+rates will open up and like Srini said taxation will be reduced. That means that there will be
+quicker acceleration in the initial phases, like Srini was talking about. So, our thing is we have
+set ourselves certain targets for next year and in line with whatever we are progressing now,
+we will be on a similar path to get to the 200 million. It will be a slightly let's say aggressive
+target we can take from next year compared to what we had earlier. But to answer your
+question, probably we are looking at two financial years is what it's going to be. I'm not
+counting this financial year as one where we should be able to achieve those numbers.
+Narendra:
+When would be a fair assumption, 2027 we will be a $200 million company.
+Niranjan Chintam:
+Yes, we should be in the calendar year ‘27, yes.
+Narendra:
+Any other headwinds you see and also what kind of margins are we looking at when we hit
+that $200 million target?
+Niranjan Chintam:
+I don't want to give a specific number, but as you see quarter-on-quarter, we have been
+improving our margins. Because we did some realignment of our bench, realignment of some
+of the business offerings that we are doing. We are also targeting this is something that for
+the financial year, we are looking at and we have given a target to all our CEOs operations,
+sales related leadership that we want to reduce the number of customers while increasing per
+customer revenue. So, that also reduces some of the overheads. So, we anticipate that the
+
+EBITDA numbers are going to be much better than where we are today for the next following
+years.
+Narendra:
+Any other headwinds that we see going on that could impact our….
+Niranjan Chintam:
+There is always going to be uncertainty, right? You can't expect, what is the unknown at this
+point? I don't know. But initial buoyancy will start the calendar year I want to say 2025. I want
+to make sure that I'm differentiating between the financial year and the calendar year when
+the Trump presidency takes off. And there'll be a lot of buzz around in the industry because
+there is going to be some wait and watch from whatever the campaign promises made to
+implementation, right? We want to see how that happens and then we believe that it's going
+to be stabilizing and business should improve. People have been just waiting and holding back
+on spending. Now they'll open up.
+Narendra:
+Just final one clarification. So, if everything goes as promised by Mr. Trump, right, so
+everything should be positive for us. If I'm not wrong, I am just clarifying that.
+Karnjit Singh:
+That is correct.
+Niranjan Chintam:
+So, the only headwinds that we faced with Europe, Europe is still struggling, right, while we're
+still struggling, we don't know when it's going to come out of it. The baggage of Ukraine, how
+long it will continue in Europe, we don't know. We've been, for lack of a better word, on a flat
+line when it comes to Europe. We had so much growth that we anticipated as well as the
+pipeline that we anticipated has never materialized because of the Ukraine war that
+happened and the economy is shrinking there rapidly. What does that mean? Would Europe
+step up and take the whole baggage that the US was taking? We don't know. So, at this point,
+that's the only headwind that we see.
+Moderator:
+Thank you. The next question is from the line Dharani, an individual investor. Please go ahead.
+Dharani:
+My question is the promoter stake has been increasing over the quarter, like it has reduced
+from 51.68% in the last quarter to 40.82% in the September quarter. So, I just wanted to know
+the reason why it has been reducing and over the years, if I look at it, it has reduced from
+around 60% to 62% to 40% currently.
+Niranjan Chintam:
+We did some selling of our shares last quarter. That's the partial reflection of that and partial
+reflection is related to some of our reporting requirements we have done. Other than that
+there's nothing else. To answer your question about 60 to where it is now, that is, we've been
+reporting that consistently, it's nothing that we have not reported. Everything has been
+reported. It is just over a period of time there were some sales that happened and that is
+reflected and also some dilution because of employee stock options that were issued. So,
+there's a dilution because of that.
+Moderator:
+Thank you. As there are no further questions from the participant, I now hand the conference
+over to Mr. Niranjan Chintam for closing comments.
+Niranjan Chintam:
+Folks, sorry, I apologize again. I've been coughing on the call. Thank you for joining this
+quarter to the Earnings Report. So, we'll be happy to get you on another call in the next
+quarter or if you are in Hyderabad and or Gurgaon, please look us up. We'll be happy to talk
+to you and answer any further questions you might have. Thank you again, goodbye.
+Moderator:
+Thank you. On behalf of Kelton Tech Solution Limited, that concludes this conference. Thank
+you for joining us and you may now disconnect your lines. Thank you.

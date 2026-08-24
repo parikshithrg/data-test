@@ -1,0 +1,849 @@
+                              
+        
+ 
+ May 02, 2025 
+The Secretary 
+National Stock Exchange of India Ltd 
+Exchange Plaza, C/1, Block G, 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai - 400 051 
+NSE Symbol: TEJASNET 
+The Secretary 
+BSE Limited 
+P J Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+BSE Scrip Code: 540595 
+ Dear Sir/Madam, 
+Re: Q4 FY25 Earnings Conference Call – Transcript 
+ 
+Please find enclosed the transcripts of the Q4 FY25 Earnings Conference Call held on     
+April 25, 2025. 
+ 
+This is for your kind information and record. 
+ 
+ Yours sincerely  
+ For Tejas Networks Limited 
+ 
+ 
+ N R Ravikrishnan 
+ General Counsel, Chief Compliance Officer  
+ & Company Secretary 
+RANGACHARI 
+RAVIKRISHNAN
+Digitally signed by 
+RANGACHARI RAVIKRISHNAN 
+Date: 2025.05.02 17:51:19 
++05'30'
+
+ 
+ 
+ 
+“Tejas Networks Limited 
+Q4 FY'25 Earnings Conference Call” 
+April 25, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: 
+MR. ANAND ATHREYA – CHIEF EXECUTIVE OFFICER & 
+MANAGING DIRECTOR – TEJAS NETWORKS LIMITED 
+MR. ARNOB ROY– CHIEF OPERATING OFFICER AND WHOLE-
+TIME DIRECTOR – TEJAS NETWORKS LIMITED 
+MR. SUMIT DHINGRA – CHIEF FINANCIAL OFFICER - TEJAS 
+NETWORKS LIMITED 
+DR. KUMAR SIVARAJAN – CHIEF TECHNOLOGY OFFICER - 
+TEJAS NETWORKS LIMITED 
+ 
+ 
+MODERATOR: 
+MR. MOHIT MISHRA – ICICI SECURITIES 
+ 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 2 of 16 
+ 
+ 
+ 
+ 
+Moderator: 
+Ladies and gentlemen, good day and welcome to Q4 FY25 Earnings Conference Call of Tejas 
+Networks Limited, hosted by ICICI Securities. As a reminder, all participant lines will be in the 
+listen-only mode, and there will be an opportunity for you to ask questions after the presentation 
+concludes. Should you need assistance during the conference call, please signal an operator by 
+pressing star, then zero on your touch-tone phone.  Please note that this conference is being 
+recorded. 
+ 
+I now hand the conference over to Mr. Mohit Mishra from ICICI Securities. Thank you and over 
+to you, sir. 
+Mohit Mishra: 
+Good evening, everyone. Thank you for joining us on Tejas Networks Limited Q4 FY'25 Results 
+Conference Call. We have Tejas Networks Management on the call, represented by; Mr. Anand 
+Athreya, CEO and Managing Director; Mr. Arnob Roy, CEO and Whole-Time Director; Mr. Sumit 
+Dhingra, CFO and Dr. Kumar N. Sivarajan, CTO. 
+ 
+I would like to invite Mr. Anand Athreya to initiate with opening remarks, post which we will have 
+a Q&A session. Over to you, sir. 
+Anand Athreya: 
+Thanks, Mohit. Good evening, everyone. So thanks for joining the Q4FY25 Earnings Call. I'm here 
+with Arnob, Kumar and Sumit in this room. So I would like to give you a very key update. The 
+first one is, as of yesterday your company completed 25 years. It was incorporated on April 24, 
+2000. So I have the Founders here, Kumar Sivarajan, Arnob Roy and Sanjay Nayak, who was our 
+previous CEO. I want to thank them and congratulate them on this fantastic milestone. Thank you, 
+guys. 
+ 
+So one key important update I would like to give you is that, we shipped 100,000 sites on the BSNL 
+4G project, that's something that we were on for the last one and a half to two years. So that it's a 
+great milestone that we have accomplished as of last quarter. 
+ 
+In terms of revenue, Q4, we landed up at INR1,907 crores. It was 1.4x  year-over-year. And for the 
+financial year, FY25, we hit INR8,923 crores, which is more than $1 billion and it's 3.6x year-
+over-year. In terms of profit after tax, we were negative INR72 crores for Q4FY25 and FY25 profit 
+after tax, we ended up at INR447 crores. The order book at the end of Q4 was INR1,019 crores. 
+ 
+And some of the key business highlights is, as I just said, we shipped close to more than 100,000 
+sites for the BSNL 4G/5G network. This is one of the largest single-vendor RAN network in the 
+world ever delivered in record time. So I think I'm very proud of the team and also the consortium 
+of TCS, C-DoT and also our customer BSNL for actually helping us make this happen. 
+ 
+We also signed a very strategic technology collaboration agreement with NEC Corporation Japan. 
+And this is for the development of advanced wireless technologies, RAN technologies, and also 
+the Core and EPC and also a joint go-to-market. So as two companies, we can take it to our 
+customers. 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 3 of 16 
+ 
+ 
+ 
+We also have had several key wins for our leading-edge optical platforms, both on the PTN and 
+FTTX, mobile backhaul and also for broadband services and power utility networks. And we also 
+are expanding our sales footprint in Americas and EMEA and ANZ. 
+ 
+In terms of corporate update, on the occasion of 25 years completion of registering the Tejas 
+Networks, and considering the performance of the company in the last fiscal year, the Board has 
+recommended a dividend of 25%, which turns out to be INR2.5 per share, subject to the approval 
+of the shareholders. We also received around INR123 crores of PLI incentives for FY24 and the 
+first tranche of INR189 crores for FY25. We won the best mobile technology breakthrough award 
+from ET Telecom recently. 
+ 
+From a summary point of view, I'm really proud of what Tejas has accomplished. In fact, this is 
+the largest revenue that we've had in 25 years and it's a major milestone and a big number. So I 
+want to thank our shareholders, our investors and also our employees and our customers for helping 
+us achieve this fantastic milestone. 
+ 
+I'll hand it over to Sumit, who will go through the financials and other details. Thank you. 
+Sumit Dhingra: 
+Thanks, Anand. Good evening, everyone. For the financial year FY25, we had revenues of 
+INR8,923 crores, EBIT of INR905 crores, profit before tax of INR698 crores, and PAT of INR447 
+crores. 
+ 
+Looking at the fourth quarter, the revenues were INR1,907 crores which is 1.4x year-on-year. EBIT 
+for the quarter was INR18 crores and PBT of negative INR45 crores. The profitability for the 
+quarter and to that extent the full year is partly impacted because of the provisions for inventory 
+obsolescence and write-down of about INR117 crores that we did in this quarter, Q4. The number 
+for the full year was INR181 crores. We also wrote off certain expenses related to intangible assets 
+under development during the quarter, so that suppressed the profitability for the quarter. 
+ 
+Moving to the key financial indicators, inventory at the end of the quarter stood at INR2,367 crores. 
+This will get converted to finished goods and get shipped over the next few quarters. Trade 
+receivables at the end of the quarter stood at INR4,884 crores. The increase is mainly because we 
+had higher shipments, particularly for the BSNL 4G project during the quarter. 
+ 
+We collected about INR1,900 crores during the quarter and we expect to make further collections 
+over these receivables over the next few quarters as the milestones get completed. Cash position at 
+the end of the quarter was INR827 crores and borrowings of INR3,269 crores, implying a net debt 
+of about INR2,442 crores. 
+ 
+I will hand it over to Arnob to take over the business update. 
+Arnob Roy: 
+Thanks, Sumit. I just wanted to add a little bit of color to the business of FY25 and the upcoming 
+year. So for FY25, the revenue mix was the following. Indian government was 3% of our overall 
+revenue. This is a year-over-year decline of 66% and that's primarily because, as you're all aware, 
+the Indian government business is very tender-driven and depending on the timeline of the tender 
+and the timeline of the execution of the tender i.e., depending on the particular time and the quarter 
+and the financial year in which they get executed,  this part of the business  tends to be very lumpy. 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 4 of 16 
+ 
+ 
+ 
+India Private grew significantly and had the dominant share. Of course, as we have mentioned 
+earlier, our BSNL 4G shipments through TCS is considered as part of the India Private business. 
+But apart from that, I think we saw a good amount of growth of our wireline business in the India 
+Private segment among the private mobile operators. 
+ 
+International business had a year-over-year increase of 18%. In the overall scheme of things, it's 
+still a small number. It was like 3% of our overall business. It was driven mainly through key 
+shipments to the US, Africa, South Asia, both our existing customers, and a few new strategic 
+logos as well. We closed the year with an order backlog of INR1,019 crores, where INR900 crores 
+plus of that was from India and INR100 crores plus from International. 
+ 
+Moving on to FY26, as you can make out FY25 was a milestone year for us in terms of our revenues 
+and was driven by the large BSNL 4G project. So obviously, FY26 will be different in terms of 
+revenue, revenue profile, and so on. And our business of FY26 has to be seen in the perspective of 
+the revenues of the previous years, such as FY24. 
+ 
+So, the good thing is that our portfolio got expanded significantly in FY25 and has increased our 
+addressable market. During the year, we invested significantly in R&D and sales to support the 
+development and execute on the roadmap for our products, especially in wireless where we have 
+significantly enhanced our product offerings. So, now we support 5G over multiple bands, and that 
+gives us a really good opportunity to upgrade 4G networks, not only in India but worldwide. We 
+enhanced our portfolio with advanced 5G Massive MIMO Radios. Moreover, we have now a 
+portfolio of not only our own 5G radios, but also the ones available through our partnership with 
+NEC. We will be able to leverage some of the advanced beamforming technologies to support more 
+sophisticated and advanced features in our radios as well. We also acquired a field-proven 4G-5G 
+Mobile Core, through the NEC partnership. 
+ 
+A lot of future development in the Core is going to happen with the baseline of this core software, 
+which has seen a lot of international deployments. We also expanded our IP and wireless router 
+family. As you know, we deployed a very large network in the BSNL network for the 4G-5G 
+backhaul. 
+ 
+And over the year, we completed the commissioning of that network, which is carrying a significant 
+amount of their mobile traffic as well as their broadband services. We also added to the family an 
+additional set of products, both in the modular as well as fixed platforms. 
+ 
+We enhanced our optical portfolio from 400Gbps to 800Gbps and 1.2Tbps per channel DWDM 
+systems. This is kind of absolute state-of-the art in terms of what's available across the world. And 
+with this, it puts us in the league of leaders in the optical networking space. We also enhanced our 
+FTTH portfolio with XGS-PON or basically the 10GPON products and shipped a few initial 
+customer orders. And with this, we expect to see a lot more traction coming for our 10GPON 
+products internationally. Apart from that, I think the markets for our product segments, all the 
+product segments, as you know, we have a wireless product segment with a RAN and Core. And 
+in the wireline segment, we have products for Routing and Switching, FTTH or fixed-line 
+broadband services, and for Optical Networking including Packet-Optical and WDM transmission. 
+These are the three product lines in wireline. And all of those product segments are projected to 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 5 of 16 
+ 
+ 
+grow globally, not only in India, but also in the international market. That gives us a great 
+opportunity, especially with the expansion and the maturing of our existing products.  
+ 
+The domestic opportunity pipeline that we have includes large projects in the government sector, 
+which we have discussed before. Many of them are in a very advanced stage of negotiations and 
+hope to continue for the next one or two quarters. We’ve had several new customers and new 
+application wins in both private and government sectors, many of which we announced during the 
+year. 
+ 
+And we have deployed, executed these projects very successfully. And those businesses, we expect 
+to expand in FY26. We had a significant event in terms of the partnership with NEC, which not 
+only gives us access to advanced technologies, but also access to global customers, which includes 
+NEC's existing and prospective customers, which helps us in joint go-to-market opportunities with 
+NEC. So we expect our international wireless business to get a significant boost with this 
+partnership. 
+ 
+We also invested in expanding our global sales footprint. So we set up more offices in Southeast 
+Asia, in ANZ, and expanded our sales operations in the Americas. And on the back of a few 
+strategic wins in those markets, we believe we have a strong momentum for increasing our 
+international business in FY26. So that concludes our presentation of the results of Q4 and the 
+outlook for FY26. And we'd like to open up the floor for questions. 
+Moderator: 
+We have our first question from the line of Vimal Gohil from Alchemy Capital Management. 
+Vimal Gohil: 
+Firstly, a question for Sumit sir. Sumit sir, on this inventory, obsolescence, and various other write-
+downs of intangibles, which is amounting to roughly INR140 crores, in this case is there any 
+spillover expected in FY26? 
+Sumit Dhingra: 
+I think evaluation of inventory for obsolescence, write-down, etcetera, or even charging of certain 
+expenses, is an ongoing evaluation that the company does every quarter whenever we offer our 
+results. So that, in various shapes and forms, it keeps on getting evaluated. I think as we completed 
+this project and we were coming towards the end of this year, this initiative was taken and we took 
+these obsolescence and write-downs and provisions. 
+ 
+It's an ongoing exercise, so there'll always be certain provisions that we'll continue to make every 
+quarter. But this is also sort of a one-time significant effort that we have put in at the end of this 
+large project. 
+Vimal Gohil: 
+So basically what you mean is there can be, these provisions will happen, but the magnitude may 
+not be as large as this one? 
+Sumit Dhingra: 
+Yes, inventory evaluation is a regular ongoing exercise, on a quarterly basis, that any organization 
+would do. 
+Arnob Roy: 
+This is Arnob. I'd like to add that, you know, given the nature of our business and being a product 
+company, we have to continuously invest in newer products in anticipation of technology changes 
+or building in newer innovations in our products. And all of them don't often come to commercial 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 6 of 16 
+ 
+ 
+fruition. 
+ 
+So from that point of view, I think this is expected that some amount of our effort that we put in or 
+the investment that we put in, may sometimes be needed to be written off for inventory which is 
+out there, which is not sellable. 
+ 
+So it is the nature of our business, given that we are a product company. And as Sumit said, we do 
+this determination at the end of every quarter and every year to see what kind of provisions we 
+need to do. 
+Vimal Gohil:  
+Sir, is there a chance that this particular quarter, because we finished a large contract, a mega-sized 
+contract, is there a chance that this particular quarter, the expenses would have been particularly 
+higher? Because I would have imagined that this kind of a provision would have been scattered 
+over four quarters or maybe more, or over the year rather, which has happened in one single quarter 
+almost. So how should we look at this? 
+ 
+I mean, INR140 crores, of course, it will depend on how much is expensed out or what is the kind 
+of revenue we build for FY26. But my point is that if we continue to have such large provisions 
+going forward, it is going to hamper our profitability when we are entering FY26 at a significantly 
+lower revenue base. 
+Sumit Dhingra: 
+I think typically at the end of the year, always this exercise is undertaken. And given that this is 
+one of the large provisions that we've taken, we wouldn't expect such large numbers going forward. 
+I think progressively as we continue, normal provisions will continue to happen. So to some extent, 
+I can say that this is a one-time initiative. 
+Vimal Gohil:  
+Fair enough. So the next question is, I need a bid on four specific contracts that we've consistently 
+spoken about in our previous calls. One is on the follow-up contract from BSNL for 4G and 5G. 
+The second one is on the VIL order win that we had last quarter. The third one is on Rail Kavach. 
+And the fourth one is on BharatNet. If we can briefly touch upon each of these, where are we in 
+terms of either tender or execution? 
+Arnob Roy: 
+Yes. So for the add-on on BSNL, I think we are in advanced stage of discussions and will hopefully 
+close in this quarter. But as you can see, these opportunities often take time beyond what you can 
+plan for.  
+ 
+Regarding VIL, we won that last year. We did our shipments for Phase 1 and successfully executed 
+the project. We got an add-on business as well. And that business is expanding and we hope to 
+expand that business going forward in FY26 as well, as their networks expand.  
+ 
+Rail Kavach, I think the tender is getting delayed. We've completed our POC successfully. But I 
+think they are taking more time for issuance of the tender and finalizing the specifications. 
+BharatNet, as you know, in most of the circles, the SIs have been assigned the tender. Many of 
+them have the POs and there are ongoing discussions with the system integrators on the particulars 
+of the products and the quantities that will be shipped.  
+ 
+ They are also in the part of the OEM selection process and finalizing the quantities. So we are 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 7 of 16 
+ 
+ 
+again at a very advanced stage of discussions with them. And this is also something that we hope 
+to close in this quarter. 
+Vimal Gohil:  
+Fair enough. Arnob sir, in your commentary, in your notes, you mentioned that FY26 will have a 
+different kind of a revenue structure, which is understandable coming from this kind of a base. 
+However, for FY24, we had closed the year at a revenue growth of close to INR2,500 crores. With 
+an order book of a INR1,000 crores, how do we expect to beat INR2,500 crores in FY26? 
+Arnob Roy: 
+Well, as you know, we don't give revenue guidance. But if you look at our opening backlog and 
+the business pipeline that is in front of us, I want to give you a flavor of that, both in terms of the 
+large projects as well as the run rate projects from the private sector.  
+ 
+If you look at all of that, I think there is a very good opportunity of having a pretty significant 
+business in FY26 as well. And there is a good amount of business pipeline built out there. And 
+especially with our expanded set of products, I think we are looking at FY26 very positively. 
+Vimal Gohil:  
+And sir, just one clarification on what you mentioned here. Some of the orders that you got are 
+expected to execute for the newer products. Will it be fair to say that this will be a bit more short 
+cycle in nature as compared to what we've done for BSNL? Some of the order intake which will 
+come within FY26 will get executed within FY26 and which is why the order book for Q4 may not 
+give you a correct picture of what is to come in FY26. There could be a positive surprise. 
+Arnob Roy: 
+Let me put it this way without getting into any specific guidelines. I think most of the opportunities 
+that I talked about, we do expect them to close and a large part of them getting executed in FY '26. 
+Of course, in the case of the larger orders, there will be some overflow onto FY '27 also, but a 
+significant part of the opportunities we expect to get completed in FY '26. 
+Vimal Gohil: 
+Just one last data point, if you can help me with the number of employees that will be closed in FY 
+'25 and the employee cost which is capitalized this year. 
+Sumit Dhingra: 
+Roughly around 2,370 employees at the end of the year. Sorry, what was the other question? 
+Vimal Gohil: 
+Sir, your employee cost that is capitalized this year? Last year it was around INR250-odd crores. 
+Sumit Dhingra: 
+Yes, so about INR289 crores of cost was capitalized. 
+Moderator: 
+We have our next question from the line of Akash Mehta from Canara HSBC Life. Please go ahead. 
+Akash Mehta: 
+So my question is, I mean, in continuation to the previous participant. So just wanted to understand 
+in terms of the order book, which is at about INR1,019 crores, we are expecting. So what kind of 
+addition we are expecting from the major projects that are there in terms of Rail Coverage, the 
+Vodafone Idea One, additional BSNL and BharatNet and other projects that we could see over the 
+next, I mean, getting executed probably over the next couple of years. If you could just help with 
+that. 
+Arnob Roy: 
+Yes, I think we don't share specific numbers with respect to each and every deal. And many of 
+them are yet to materialize. We are very close. Since we don't give specific numbers, it is very hard 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 8 of 16 
+ 
+ 
+to say what FY '26 is going to look like and what are the numbers that we are expecting from them. 
+But as you know the sizes of the projects and the opportunities you can probably make an estimate 
+about those. And we look forward to a fairly successful FY '26, but not comparing it with FY '25. 
+Akash Mehta: 
+But any broad, I mean, if you could just help us with any broad opportunity size from that 
+perspective, that would be kind of helpful. I mean, not guidance in terms of revenue, but what you 
+are internally targeting in terms of these projects. 
+Arnob Roy: 
+No, I don't have any specific numbers to share for any of them. I mean, each of those large 
+opportunities of BharatNet and the BSNL add-on and others are like several hundred crores and 
+some of them upwards of a thousand crores also. But beyond that, I don't have any specific number 
+to share for each of them. But these are large opportunities. 
+Akash Mehta: 
+Understood. Fair enough. And second is on you mentioning that there are certain large projects in 
+government sector that could come through in the next couple of quarters. So can you help us in 
+terms of what kind of projects this could be? 
+Arnob Roy: 
+Yes, so those are the ones that I think Vimal was referring to, the add-on BSNL, the Railway 
+Kavach project, BharatNet and so on, both at the central and the state level. So each of these 
+opportunities is fairly large. Some of them are several hundred crores, some of them are several 
+thousand crores as well. So those are the large projects where we are hoping to win a significant 
+share of. 
+Moderator: 
+We have our next question from the line of Manish Oswal from Nirmal Bank Securities. 
+Manish Oswal: 
+I have a slightly longer-term question. From last couple of years, we have expanded capability, 
+product basket and the geography and we have built teams in different markets also. And you said 
+in FY '26 outlook, our addressable market is expanding. So if we take a three to five-year view on 
+the business, where the size of opportunity -- can you quantify the size of opportunity which we 
+are targeting to capture or participate in? 
+ 
+And secondly, in terms of performance evaluation internally of delivery against our budget, what 
+are the key metrics you look at internally to judge the performance benchmark? So can you share 
+details around these two things? 
+Arnob Roy: 
+Well, outlook over the next few years is good because overall in all the product segments that we 
+operate in, they are all expected to grow significantly anywhere between 3%-4% to going up to 
+6%-7% globally. In India, the investments are also growing substantially. India is one of the fastest 
+growing markets. 
+ 
+So from an overall environment point of view and and the relevance of our products point of view, 
+I think we are in a very good position right now. We have, especially in India, incumbency in many 
+of the customer accounts. Our key challenge is really growing our international business as well. 
+ 
+And it's mainly a question of execution of successful business in a growing market for us. So I 
+think the market growth and opportunity is not a challenge. It's a question of being able to execute 
+successfully, especially with the newer products and the enhanced portfolio that we have. 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 9 of 16 
+ 
+ 
+ 
+So the second part of your question was regarding KPIs. I think it's very simple. The KPIs are again 
+just the financial numbers in terms of revenues, margins, profits, cash flows. So I think all of this 
+has to work out to the numbers and the financial performance of the company. So those are the key 
+parameters that we monitor and we evaluate ourselves on. 
+Manish Oswal: 
+Sir, the NEC tie-up which we have, so as per some credit rating notes, we have to pay certain 
+royalty yearly basis. So can you quantify the amount? And secondly, from this tie-up, what is the 
+size of opportunity we can invest for Tejas Network? And corresponding to this question, when 
+you say we have increased the size of opportunity from this different aspect. 
+ 
+But in terms of competitive landscape for participating that opportunity, can you talk about the 
+competition level in terms of cost structures, in terms of where we are losing bids? Can you name 
+a few competitors also in this pitch where we are competing one-on-one? 
+Arnob Roy: 
+So as Anand mentioned the NEC agreement is for development of advanced wireless RAN and 
+core technologies. And as part of that also licensing of their products and for joint go-to-market. 
+So this gives a lot of access to NEC’s customers worldwide who are deploying their products as 
+well as some of the newer opportunities that they're looking at globally. So this gives us a 
+significant boost to our joint branding and joint go-to-market with their existing as well as the 
+newer customers in the international market. 
+ 
+So that's the big value coming out of that. Quantifying the number is not possible right now. I 
+mean, we don't share that, but we are looking at, of course, significant revenues. And most 
+importantly, these are going to be international business. That's something that we are very keen 
+to really grow, and it's very important for our business to increase our footprint globally. And this 
+gives this initiative a significant boost. 
+ 
+Second part is the competitive landscape. One of the reasons that we invested significantly last 
+financial year and continue to support that is for accelerating our product roadmap. I think right 
+now, over the last 12 months, all the different initiatives that I talked about, all the product portfolio 
+expansion that I talked about, has now placed us in a very good competitive situation compared to 
+the leading-edge product manufacturers across the world. 
+ 
+And they are the people that everybody is familiar with. In wireless, there are Nokia, Ericsson, and 
+others. In optical, these are Ciena, Nokia, and so on. And in routing and switching for the service 
+providers, Nokia and Cisco, and so on. So all of them are global competitors against whom we 
+compete not only in India, but also in international markets. And with all the investment that we've 
+made, all the development that has happened, we find ourselves in a very good competitive position 
+with respect to them. 
+Moderator: 
+We have our next question from the line of Advait Lath from Nippon India Mutual Fund. 
+Advait Lath: 
+Yes, so just congrats on a great year. And just wanted to ask, what is the tariff-related news flow, 
+or what is the impact of that on us, and how are we looking at that risk in the long or medium term? 
+Arnob Roy: 
+Yes, so the full impact of the tariffs and how varied lands finally is yet to be determined, as you 
+know, there are discussions that are going on between the different countries. But the way we see 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 10 of 16 
+ 
+ 
+it is that we see it with respect to our competitive landscape. You know, most of our competitors 
+also manufacture outside of the US, right? I mean, in different geographies, including Asia and 
+various countries in Asia. 
+ 
+So I think whatever the tariff impact on India is, they're going to have the same tariff impact as 
+well. So from that point of view, I believe the impact is going to be neutral. Because I think they're 
+also going to get affected by that. I think the part that could potentially impact is that if there is a 
+negative sentiment in terms of business, global business, and the investments from our customers 
+go down based on the negative sentiment. 
+ 
+If there's a conservative approach that happens in terms of the investment in the network. I think 
+that secondary impact probably has a -- could be a larger risk than the exact tariff by itself. 
+Advait Lath: 
+And just a follow-on question on the PLI schemes, when do you think we are eligible till which 
+year? 
+Sumit Dhingra: 
+Till FY27. 
+Advait Lath: 
+And after that, that will cease to exist, right? 
+Sumit Dhingra: 
+Yes, that's right. Current scheme is for five years, so it will end in FY27. 
+Moderator: 
+We have our next question from the line of Sugandhi from Fedex Securities. 
+Sugandhi: 
+I wanted to understand in terms of the write-off -- if I see over the last, since FY22, our inventory 
+levels were around INR200 crores. And then since then, because of the BSNL contract, we 
+significantly expanded. We also added because there are some component shortages. So the write-
+off, what kind of equipment does it pertain to? 
+ 
+Because it should be very significant, in proportion to the FY '22 base. And also in terms of 
+intangibles, can we talk about, what kind of projects these are related to? That's my first question. 
+Also on the BharatNet contract, we've seen a lot of announcements from system integrators, from 
+other companies in the value chain, fiber optic companies. So and as for marketing, we've made an 
+announcement for Tamil Nadu for ourselves as well. So, are there any other companies on the 
+electronic equipment side that we are competing with? 
+ 
+And, what's holding back, an announcement coming from Tejas on, the scope and involvement in 
+the BharatNet project? So just, in terms of how much of the market share, in the project is, whatever 
+the estimate be on the total magnitude of the project, but what is the market share that we are 
+targeting for this contract? 
+Arnob Roy: 
+Well, specific to BharatNet, as I said, the announcements have mainly come from the system 
+integrators, who have won the deal. And those projects are a combination of a lot of services, a lot 
+of supply and deployment of fiber and all those kind of things. And then a significant portion is 
+also about the equipment, right? 
+ 
+So this is where I think the system integrators are working with the OEMs in finalizing the 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 11 of 16 
+ 
+ 
+equipment. All the OEMs, including us, are going through the testing and certification process, 
+which are part of the process, you know, without which you cannot be deployed in the network. So 
+all that is happening in parallel, the discussions and negotiations with the system integrators as well 
+as testing and certification of our products. So I think they will, as I said, they will probably close 
+in Q1. 
+ 
+And whether or not we announce it will depend at that point of time. Since this is a deal between 
+private entities we'll need to see what can be announced or cannot be announced. However, their 
+announcements is because it's like a public tender and that's what has got announced over there. 
+ 
+Regarding your first part of the question, regarding inventory and write-offs, as I said, that's the 
+nature of our business, that we have to do a lot of experimental development, a lot of trying out 
+new ideas, new inventions etc. And some of them may not lead to fruition, may not lead to products 
+getting commercially released. 
+ 
+Since we develop a significant amount of hardware as part of our products, there will always be 
+some amount of inventory which goes obsolete or which becomes unusable in terms of business 
+because of products that we couldn't take to production and so on. 
+ 
+And similarly, with projects as well. So this is the nature of the business, right? If you are in a very 
+direct services kind of business where we are only executing customer contracts and business was 
+based on that, then there is a very direct connection to the business as well as the customer business 
+and the investments in the company. 
+ 
+But for us, being a deep tech company, there's a lot of investment that goes on into innovation. 
+And, while many of them are successful, some of them are not. And that's the nature of the product 
+business. And this happens. I mean, I think this quarter, it has been a large one. 
+ 
+And as Sumit said, we don't always expect it to happen to the tune of this amount. But, this is the 
+nature of the business. This is nothing unusual. I think the number is maybe a little bit higher this 
+quarter. 
+Sugandhi: 
+Is it fair to say that on the inventory side also, there was some time with the experimental products 
+that we were doing and for that reason, there was an inventory write-off? I mean, I'm just trying to 
+understand the age, how old this inventory is on our books. I mean, because most of the build-up 
+has happened over the last two years in inventory? 
+Arnob Roy: 
+No, I think the development is ongoing, right? That never stops. It's not always connected to a 
+particular business kind of thing. As you can see, while we were executing the BSNL 4G network, 
+a huge amount of investment kept happening in 5G as well, in terms of looking forward for 
+business. So some amount of inventory is connected to that, right? I mean, maybe one particular 
+approach you tried, you tried multiple design and finalized on one of them, the one which gives 
+the best performance and, kind of a thing, right? 
+ 
+So those are experimental stuff that comes into the picture. Some of it is maybe inventory built 
+over to some customer, to some business forecast and may not have got consumed or kind of thing, 
+right, and or got end of life kind of thing. So it's like a combination of these. 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 12 of 16 
+ 
+ 
+ 
+As long as you're in the hardware business, these kinds of events do happen, especially in the 
+hardware product business. But maybe not always to the tune that you've seen right now. 
+ 
+And same thing to do with the project right now. There will be experimental projects which may 
+not reach commercial success and we write them off. And this has been one of large numbers this 
+year. 
+Sugandhi: 
+And just on my other question, what I was trying to understand, are we competing with 
+international vendors as well in the BharatNet contract? And, if you could give us, any light on the 
+number and the size of these other OEMs. I mean, how, what kind of pedigree of OEMs are we 
+competing against? You know, just to understand what is our right to win in the BSNL contract? 
+Arnob Roy: 
+Yes, I think you have to realize that any business that we do, any customer opportunity that we 
+compete in, are with the same international vendors. So it's not something new for us. When we 
+compete in a private operator like, Vodafone India or Airtel or Tata Communications, we are 
+always up against international vendors and we always have uniqueness and differentiators in our 
+products, which help us win whenever we compete against them. 
+ 
+So it's the same in the case of BharatNet. We have won the MAAN business for routers against 
+global competition that included all the vendor names that you know of and it's a similar situation 
+over here. So just because international competition is there, it doesn't mean our chances are any 
+less, we do that on a regular basis, not only internationally, but also in India because all those global 
+vendors also operate in India. It doesn't increase or decrease our chances of success in any 
+meaningful way, because that's what we do every day. 
+Sugandhi: 
+Sure. It’s helpful. Thank you. 
+Moderator: 
+Thank you. We have our next question from the line of Deepak Sharma, an Individual Investor. 
+Please go ahead. 
+Deepak Sharma: 
+Hello. Sir thanks for the opportunity. As a retail investor, just my concern is as Tejas is not covered 
+by any research analyst. So from the retail investor point of view, we are looking for some numbers 
+or at least a broader idea about the sector opportunities, but without numbers, very hard to judge 
+where we are and will be next two, three years. And after all, from stock price to salary or capex 
+or revenue, everything is numbers.  
+ 
+I'm not saying you give me the numbers of quarter-on-quarter or even the year, but can you please 
+give the hint what are the exact opportunity sites for the sector in India for BharatNet, Kavach and 
+Vodafone so and so and what are the opportunity sites globally you are looking for at FY26? 
+Arnob Roy: 
+So as I mentioned, we cannot discuss specific numbers and for specific customer opportunities. 
+For the large government tenders, as I said, they range from several hundred crores to several 
+thousand crores. So those are fairly large deals. I mean, may not be as big as the BSNL 4G deal, 
+but significant nonetheless. And so those are some of the significant projects based on which we 
+took on the base for our FY26.  
+ 
+But at the same time, a lot of our investment and focus is also on the private operators, both in 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 13 of 16 
+ 
+ 
+India as well as internationally. And with respect to these opportunities, I would say that the small-
+to-medium sized opportunities typically range from several million dollars, going up to $5 to $10 
+million. The larger opportunities could go up to $50 million to $60 million or sometimes even 
+bigger than that. 
+ 
+But it would be spread around a lot of customers, a lot of different operators in different parts of 
+the world as well as in India. And the combination of those would work towards making our FY26 
+numbers. 
+Deepak Sharma: 
+Now, sir, can you put some highlights or any idea about what is the correlation with the capex of 
+telecom companies and your revenue, not even the sectoral revenue? 
+Arnob Roy: 
+Well, yes, I think their capex spend has a direct relation to us. Of course, a lot of the capex spend 
+goes into passive infrastructure such as fiber or towers or power etc. But roughly 10% to 15% of 
+their overall capex budget goes into active equipment, the types of products that we sell. So when 
+you look at their capex spend numbers and projections, that's typically the factor applicable to the 
+active equipment space. 
+Deepak Sharma: 
+Okay. Now, sir, one more question. What is the capex growth rate you are expecting from the 
+domestic and international market from the telecom companies in the next one or two or at least 
+three years? 
+Arnob Roy: 
+So as I mentioned, I think the overall industry reports show a growth, a projected growth in all the 
+product segments that we address, ranging from 3% to 4% going up to 7% to 8%. And our 
+addressable market is fairly large over here. With reference to the service provider market, the 
+wireless market is multiples of tens of billions of dollars and the same with wireline also. It's 
+upwards of $30 to $40 billion globally which is a pretty large addressable market and growing at 
+a fairly good clip. So from that point of view, I think we are very bullish and encouraged about our 
+prospects going forward, not only in FY26, but also beyond that. 
+Deepak Sharma: 
+Okay, sir. Just a part of this question, this last question. Sir, BSNL, you have computed the 1 lakh 
+sites of BSNL. So if, suppose you are a BSNL, if you are competing with Bharti Airtel, Vodafone, 
+or even Jio, then, at least, how many towers means how many 4G expanded towers required by the 
+BSNL to compete with at least these three companies? 
+Arnob Roy: 
+So roughly from what I know the BSNL has 100,000 towers, but many of the private operators 
+have upwards of 200,000 towers. So we do look forward to a lot of the expansion of BSNL network 
+for them to be able to compete with those operators. And that is a significant opportunity for us, 
+both in terms of expanding the 4G network as well as upgrades to 5G, which is part of the tender 
+that came out.  
+ 
+I mean, there's a significant number of 5G upgrades as well. So a lot of work is going on in that 
+area, a lot of trials and testing and POCs are going on. And hopefully we should see some good 
+business coming out of that, out of that incumbency that we have in the network. 
+Deepak Sharma: 
+Okay, sir. Thank you. 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 14 of 16 
+ 
+ 
+Moderator: 
+Thank you. We have our next question from the line of Hiren Kumar Desai, an Individual Investor. 
+Please go ahead. 
+Hiren Desai: 
+Thank you for the opportunity. My question was regarding employee benefit expenses. For last 
+three, four quarters, it's around INR100 crores to INR110 crores. I'm assuming that this is all fixed 
+costs. So what kind of revenue and EBITDA is required to have break-in on a quarterly basis?  
+Sumit Dhingra: 
+Yes, so employee cost is predominantly fixed in nature. I think as we progressed over quarters, 
+there has been an increase in the employee cost, mainly coming out of investments that we need to 
+do in R&D and sales and marketing and other functions. So a part of our employee cost is also 
+capitalized based on R&D projects that we are working on. So I think from the perspective of 
+quarterly revenue and the revenue required to break even, I think a large part of this cost, our 
+general cost structure, other than the material cost is fixed in nature. 
+ 
+So depending on the - well, not giving the exact number, but depending on the margins that you 
+assume, which is basically between 20% to 30% range, that could give you the implied revenue 
+required to be recovering the fixed cost that we have. 
+Hiren Desai: 
+Okay. Yes, that answers my question.  
+Moderator: 
+Thank you. We have our next question from the line of Vimal Gohil from Alchemy Capital 
+Management. Please go ahead. 
+Vimal Gohil: 
+Yes, thank you for the follow-up, sir. Sumit sir, can you help me with one more data point? For 
+this particular year, what was the ESOP cost that we recorded in our P&L? Last year, I think we 
+were at INR107 odd crores. What would be that number for this year? 
+Sumit Dhingra: 
+Vimal, it would be roughly around INR80 crores. We can give the exact numbers later. 
+Vimal Gohil: 
+No problem. But this run rate is expected to be at this level or will reduce? 
+Sumit Dhingra: 
+Look, I think it's a function of how we choose to reward employees over time. I think over the last 
+couple of years also because of RSUs that were part of the transaction and otherwise, I think the 
+expenses may have been a bit higher. But I think it would generally continue to be broadly at 
+similar levels as well. 
+Vimal Gohil: 
+Fair enough. And sir, this NEC capital outlay? 
+Anand Athreya: 
+Finish. Why don't you finish? 
+Vimal Gohil: 
+Sir, my question was on the NEC initiative. The capital outlay has been recorded in our balance 
+sheet already and which line item can we see that in? 
+Sumit Dhingra: 
+No, it is not yet recorded. I think as we go along, as the project delivery milestones get completed, 
+you would see that progressively over the coming year. It will show up in intangible assets under 
+development to begin with. Right now only a small portion has been recognized in the books. 
+Vimal Gohil: 
+Right. Sir, I interrupted you in between. You may complete your response? 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 15 of 16 
+ 
+ 
+Anand Athreya: 
+It's time for one last question, please. 
+Vimal Gohil: 
+No, I'm done. Thank you so much. 
+Moderator: 
+Thank you. 
+Anand Athreya: 
+Okay, can we close the call? 
+Moderator: 
+As you see, sir. If you want to take another question, I will take another. If you want to close, you 
+can close. 
+Anand Athreya: 
+Okay, we'll take one more. 
+Moderator: 
+The next question is from the line of Manoj Shah from Lexcorp Investments. Please go ahead. 
+Manoj Shah: 
+Thank you for taking my call. I just wanted to check on this BSNL 4G upgrade order. Does that 
+involve any contract for the maintenance part also or it was just the one-time up gradation? 
+Arnob Roy: 
+No, the BSNL contract includes maintenance. There's a period of seven years after the network is 
+commissioned. In fact, in general, any business anywhere we supply and deploy our equipment 
+always comes with multi-year maintenance and sometimes they get renewed year-over-year. But 
+in this particular case, it's over multiple years. I think seven years of maintenance, which comes 
+along with the contract. 
+Manoj Shah: 
+And what will be the run rate per year for the maintenance? 
+Arnob Roy: 
+There's no specific number that we can share for this. 
+Manoj Shah: 
+Okay. And regarding this BSNL 5G, there is a news item that says that the government wants to 
+upgrade it to 5G. So your company will get a first priority of some part of the order will be reserved 
+for you for that. Can you elaborate on that or it will be on a competitive bidding basis 5 G? 
+Arnob Roy: 
+It's a combination. I think a lot of the 5G upgrade, which is going to happen in the same existing 
+bands in which 4G is deployed, that will come through the upgrade of our equipment. And our 
+equipment is designed for that. And even the original tender which we executed has scope for this 
+5G upgrade in those bands.  
+ 
+So those upgrades will come through our equipment. But there will be newer bands, some of the 
+performance bands of 3.5 gigahertz and so on. So there we expect new tenders to come out. So 5G 
+upgrade is going to be a combination of these. 
+Manoj Shah: 
+What could be the size of this 5G order that you expect to get from this BSNL order? 
+Arnob Roy: 
+Again, no specific numbers and it all depends on the number of sites they upgrade. But obviously 
+it will not be as large as a fresh 100,000 site deployment, but based on the number of sites the cost 
+will be a fraction of the total base cost since these  will be 5G upgrades. And it depends on the 
+number of sites that get upgraded. That will determine our revenue. But again, it's definitely 
+significant in terms of several hundred crores for sure. 
+
+Tejas Networks Limited 
+April 25, 2025 
+Page 16 of 16 
+ 
+ 
+Manoj Shah: 
+So it will be like for the 1 lakh sites which you have upgraded to 4G, so those will get upgraded to 
+5G, those 100,000 sites? 
+Arnob Roy: 
+No, I don't think that all of those sites will get upgraded to 5G.  
+Manoj Shah: 
+It will be a fraction of that. 
+Anand Athreya: 
+Okay. Guys, its 8.30. So I want to thank everyone for participating in this call. Have a good 
+evening. Thank you. 
+Moderator: 
+Thank you, sir. On behalf of ICICI Securities Limited, that concludes this conference. Thank you 
+for joining us and you may now disconnect your lines. 
+ 
+Note: This transcript has been edited for readability and does not purport to be a verbatim record of the proceedings 
+ 

@@ -1,0 +1,846 @@
+ 
+Mastek Limited 
+804/805, President House, Opp. C. N. Vidyalaya, Near Ambawadi Circle, Ahmedabad – 380 006 
+Tel: +91-79-2656-4337 | Email: info@mastek.com | Web: www.mastek.com | CIN: L74140GJ1982PLC005215 
+ 
+ 
+ 
+SEC/88/2023-24                                                                                                                 October 26, 2023  
+  
+ 
+Listing Department 
+BSE Limited 
+25th Floor, Phiroze Jeejeebhoy Towers 
+Dalal Street, Fort,  
+Mumbai-400 001 
+SCRIP CODE: 523704  
+Listing Department 
+The National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400 051 
+SYMBOL: MASTEK  
+ISIN: INE759A01021 
+ 
+ 
+Dear Sir(s) / Ma'am(s), 
+ 
+Sub: Transcript of the earnings conference call for the quarter & six months period ended on 
+September 30, 2023 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 and with reference to our Letter No. SEC/78/2023-24 dated October 10, 2023, please find enclosed 
+herewith the Transcript of the earnings conference call on the financial performance for the quarter and 
+six months period ended September on 30, 2023, conducted after the meeting of Board of Directors held 
+on October 19, 2023, for your information and records. 
+ 
+The Transcript of the conference call can also be accessed from the website of the Company at 
+https://www.mastek.com/investor-financial-information/  
+ 
+ Thanking you, 
+ 
+Yours faithfully, 
+For Mastek Limited  
+ 
+ 
+ 
+Dinesh Kalani 
+Vice President – Group Company Secretary 
+ 
+Encl: A/A 
+ 
+DINESH 
+KUMAR 
+KALANI
+Digitally signed by 
+DINESH KUMAR 
+KALANI 
+Date: 2023.10.26 
+15:03:20 +05'30'
+
+Page 1 of 16 
+ 
+ 
+“Mastek Limited 
+Q2 FY ‘24 Earnings Conference Call” 
+October 19, 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. HIRAL CHANDRANA – CHIEF EXECUTIVE 
+OFFICER – MASTEK LIMITED 
+ 
+MR. ARUN AGARWAL – CHIEF FINANCIAL OFFICER – 
+MASTEK LIMITED 
+ 
+MODERATOR: 
+MS. ASHA GUPTA – E&Y INVESTOR RELATION 
+ 
+ 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 2 of 16 
+ 
+Moderator: 
+Ladies and gentlemen, good day, and welcome to the Q2 FY '24 Earnings Conference Call of 
+Mastek Limited. As a reminder all participant lines will be in the listen only mode and there will 
+be an opportunity for you to ask questions after the presentation concludes. Should you need 
+assistance during the conference call, please signal an operator by pressing star and then zero on 
+your touchtone phone. Please note that this conference is being recorded. 
+I now hand the conference over to Ms. Asha Gupta from E&Y Investor Relations. Thank you, 
+and over to you, ma'am. 
+Asha Gupta: 
+Thank you, Michelle. Good day to all of you. Welcome to the Q2 FY '24 Earnings Call of 
+Mastek. The results and presentation have already been mailed to you, and you can also view it 
+on our website, www.mastek.com. To take us through the results today and to answer your 
+questions, we have the top management of Mastek, represented by Mr. Hiral Chandrana, CEO; 
+and Mr. Arun Agarwal, CFO. Hiral will start the call with a business update, which will be 
+followed by Arun, providing financial update for the quarter. Post that, we will open the floor 
+for Q&A session. 
+As usual, I would like to remind you that anything that is said on this call that reflects any outlook 
+for the future or which can be construed as a forward-looking statement must be viewed in 
+conjunction with the risks and uncertainties that we face. These risk and uncertainties are 
+included but not limited to what we have mentioned in the prospectus filed with the SEBI and 
+subsequent annual report that you can find on our website. 
+Having said that, I will now hand over the call to Mr. Hiral Chandrana. Over to you, Hiral. 
+Hiral Chandrana: 
+Thank you, Asha. Good evening, everybody. Hope everyone is doing well. I will start off with 
+the financials and highlights, talk about some of the business updates, briefly spend a few 
+minutes on our progress in the data cloud business and Generative AI and give some glimpse of 
+how we are seeing the second half of the year. 
+Our revenue growth was up 13.5% year-on-year. This amounted to about 18.6% in U.S. dollar 
+terms and was greater than 22% in INR terms. 13.5% was year-on-year constant currency. 
+Quarter-on-quarter, revenue growth was 4.4%, again on constant currency. We've transparently 
+provided the acquisition-related revenue, which was from BizAnalytica, that is USD 2.5 million 
+for the quarter. This essentially translates to our U.S. business growing 5% quarter-on-quarter 
+on an organic basis. So that 5% quarter-on-quarter constant currency on an organic basis was 
+without BizAnalytica. We are pleased with this progress as we believe this is a pivot of how our 
+U.S. business will grow going forward. 
+Our 12-month order backlog has been strong and continues to grow year-on-year, again, roughly 
+about 13.4% year-on-year on a constant currency basis, with much higher numbers in INR and 
+USD terms. 
+Given the growth and the opportunities that we are seeing ahead, we have completed wage 
+increases and salary increments in the quarter. This did hit our EBITDA margins for the quarter, 
+and we'll talk about that a little bit more and how we are planning to offset that in the coming 
+quarters. 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 3 of 16 
+ 
+A little bit about the market and the business. We had some fairly strong recognition from 
+TechMarketView, which is a leading analyst in U.K. tracking the central government, where 
+Mastek was recognized as one of the suppliers on the rise. In fact, we talked about cabinet office 
+having GBP 600 million of technical debt, which signals the resiliency in that sector in terms of 
+legacy modernization and cloud spend that is going to happen in the future. We are well 
+positioned in that sector. 
+We won a marquee deal, which we briefly touched on, which was in final stages last time we 
+spoke. That announcement has now been made as of yesterday, where this is essentially a front 
+door for all the government accounts and services, about 300-plus of them, where we've created 
+a One Login program and supporting that for multiple millions of users. 
+While decision delays still continue in terms of deals, we have seen strong pipeline and growth 
+momentum in terms of our order book. And we are pleased to inform you that our efforts in 
+getting market recognition is paying off. Everest Group, one of the leading analysts in the U.S. 
+recognized Mastek as one of the top five Oracle Cloud Applications provider. This is a marquee 
+milestone for us. The only other four providers, they were Accenture, Deloitte, Cognizant and 
+Infosys, and Mastek was in that top 5, a very critical milestone in many ways for us because this 
+was after scrutiny and various months of diligence by Everest Group of 40-plus system 
+integrators. 
+We did attend and participate in Oracle CloudWorld and Dreamforce, which were two 
+significant conferences that happened in September. This is helping us generate more mind share 
+with the channel as well as looking at how we can grow those respective businesses. 
+We had some interesting wins. One of them in Middle East was a healthcare company, a platform 
+company where we are going to implement Oracle Cloud and transform their business decision-
+making processes and financial planning processes. In one of the large investment firms in the 
+U.S., we're consolidating all their data into the cloud so that they can take more informed 
+decisions for not just their equities but other portfolio assets as well. 
+We've been talking about account mining as a key strategic focus. That continues to progress. 
+So, one of the healthcare companies, one of the Blue Cross Blue Shields in the U.S, we had 
+informed last time about the progress that we are making to take that to a USD 10 million-plus 
+account, we are happy to inform that we are likely to end the year for that particular account 
+with USD 15 million run rate for FY '24. 
+As we look at the customer deal momentum, it's important to make sure that we deliver well. 
+So, there is a significant number of customer go-lives and engagements that we have delivered 
+in the quarter, which continue to help with building credibility in not just our core digital 
+engineering areas but also Oracle Cloud, Salesforce and now with data cloud. BizAnalytica, 
+while it is still early stages two months into the quarter, we have started to see some synergies 
+and joint deals, and pipeline is building up where Mastek and data business of Mastek is going 
+together to multiple accounts in the U.S. and even in the U.K. geography. 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 4 of 16 
+ 
+Our operating metrics have improved. Quarter-on-quarter, our utilization has improved we are 
+now at 82.5%. In fact, if we exclude leaves, that number is at 84.1%. Pipeline is still strong, and 
+cash flows have improved. Great job done by the team, all across functions, operating teams as 
+well as our delivery teams to ensure that we continue our operating rhythm going forward. 
+We had informed that in the case of Generative AI, we are taking a three-pronged approach. One 
+is looking at very specific customer use cases across a few different processes and verticals. 
+Second is partnering with our platform partners such as Salesforce, Snowflake, Oracle and 
+Microsoft. And the third is our own internal digitization order to cash as well as various functions 
+in terms of how we develop applications and deliver projects. 
+Across those tracks, we have a go-to-market positioning that we plan to amplify in the coming 
+weeks and quarters as we look at not just creating solutions but also transforming and delivering 
+solutions, which further gets amplified with our data cloud investments as more and more 
+companies move their data to the cloud, which becomes a foundation for setting some of the 
+large language models that are required for Generative AI use cases. 
+Our nonlinear platform efforts are starting to pay off. We informed last quarter that we have won 
+a couple of deals in the Enterprise Workforce Scheduler platform as well as on Warehouse 360. 
+We also got an award recently in U.K. for that platform, the Enterprise Workforce Scheduler 
+platform. It was an innovation award for the thought leadership that we are displaying there. 
+As we look at the second half of the year, we believe that account mining will continue to be a 
+critical focus area as well as converting some of the deals that we have in the pipeline. Our order 
+book in U.K. geography has been strong, and we believe that some really marquee deals where 
+we are well positioned for the second half of the year in that geography, mainly driven by the 
+central government and public sector business. 
+Margins is a big focus area. We are running a series of cost optimization initiatives, and Arun 
+will talk about a few of those. At an overall portfolio level, we have started getting much more 
+careful about what business that we are taking, particularly in the Middle East, to make sure that 
+we are taking higher-margin business and larger accounts where we can make a difference. 
+All in all, our U.S. business has demonstrated good organic quarter-on-quarter growth. Our U.K. 
+geography has demonstrated strong order booking. And as we look at our combined value 
+proposition, we're feeling strongly about the portfolio that we now have across the value chain 
+to make a bigger difference, both in terms of mining existing accounts as well as looking at 
+larger deals in the future. 
+With that, I'll turn it over to Arun, and we'll be happy to answer Q&A later. Thank you. 
+Arun Agarwal: 
+Thanks, Hiral. Good day, everyone. While the deck has been circulated in advance, I will focus 
+on the key highlights for the quarter. 
+During the quarter, we completed the acquisition of BizAnalytica as Hiral alluded to, and it was 
+consummated effective August 2023. Revenue for the quarter was INR 766 crores, up 5.6% 
+quarter-on-quarter and 22.4% year-on-year. In constant currency terms, it reflects quarter-on-
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 5 of 16 
+ 
+quarter growth of 4.4% and year-on-year growth of 13.5%, respectively. Since we consummated 
+BizAnalytica into our numbers, organic quarter-on-quarter growth reflects 2.7% growth in INR 
+terms. 
+We added 29 clients during the quarter across our verticals and geographies. Order booking in 
+U.K. has improved significantly, as Hiral mentioned. While delay and right shifting in decision-
+making continues, we have seen consistent improvement in our order booking, and the same is 
+reflected in our 12-months order backlog, which has grown by 5.6% quarter-on-quarter and 
+22.3% year-on-year in INR terms. 
+Our operating EBITDA stood at 16.1%, a reduction of 140 bps quarter-on-quarter. The reason 
+we see a reduction in the current quarter is primarily because we have done the wage hike across 
+the organization effective August this year. So, there is two months of impact, which is 
+approximately 130 to 140 bps in quarter. And also, as we stated earlier, the low-margin profile 
+of BizAnalytica as we consummate them and gradually will improve the margin profile, but in 
+quarter, the 30 to 40 bps dilution, which has happened because of BizAnalytica, which will come 
+into company profile next year, as we highlighted in the last quarter call. 
+We are consistently working with our operating levers, whether it's grade mix, pyramid. Looking 
+into subcontractors' conversion into employees, our utilization has been consistently improving. 
+We feel confident those operating levers will continue to bring our EBITDA profile back in the 
+coming quarters. 
+Our PAT stood at INR 65.3 crores versus INR 73.5 crores in last quarter. We have done 
+significant cash collection in the current quarter. Our DSOs have come down. Consequently, our 
+gross cash stood at INR 312 crores versus INR 220 crores in the previous quarter. During the 
+quarter, we have transferred dividends and repaid one installment of loan as per the repayment 
+schedule, which led to INR 312 crores of gross cash at the end of September. 
+Our borrowings stood at INR 477 crores as of 30th September. As we mentioned in the last 
+quarter, we have borrowed USD 16.7 million during the quarter for BizAnalytica acquisition, 
+and the balance was paid from internal cash accruals. 
+Our headcount stood at 5,598 at the end of the quarter, which reflects marginal increase quarter-
+on-quarter as our utilization is improving out there, but we welcome BizAnalytica colleagues 
+into Mastek family during the quarter, and net increase is marginal, as I mentioned. 
+Let me thank all of you for your continued trust in Mastek and I'm transferring back to the 
+moderator, and we can take your questions. Thank you. 
+Moderator: 
+Thank you very much, sir. We'll take the first question from the line of Jayalaxmi Gupta from 
+Anand Rathi Shares and Stock Brokers Limited. 
+Mohit Jain: 
+This is Mohit. First question was on U.K. So the growth appears to be a little slower. Now order 
+backlog has already improved. So should we expect U.K. momentum to also come back? Or do 
+you think it will be like between U.S. and U.K. depending on which quarter we look at? 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 6 of 16 
+ 
+Hiral Chandrana: 
+Yes. So Mohit, it's a good point. We've had the regions fire, but it has been in different quarters. 
+I think if we have all the regions fire at the same quarter, we'll really have an amazing profile of 
+growth. But having said that, the order booking in U.K. has been strong, like I said. Now as we 
+look at Q3, which is the new current quarter, there is a furlough and December time frame, which 
+does impact seasonally our U.K. business because of the holidays. But as we look into Q4, 
+because of the strong order booking and the deal momentum that we have, we believe that U.K. 
+will continue to grow in Q4 as well. 
+Mohit Jain: 
+Okay and second, U.S., as you alluded in your opening remarks, now is it on a steady path based 
+on the deals that you have signed? Or do you think it may take a few quarters before you have 
+that confidence on U.S. growth sustainable? 
+Hiral Chandrana: 
+Yes. So as I mentioned, our confidence in U.S. is getting stronger by the quarter. It has taken us 
+a couple of quarters longer than we originally anticipated and expected. But given the organic 
+growth of 5% quarter-on-quarter that we've delivered, we believe it sets a strong foundation for 
+us. We've crossed USD 100 million run rate as a combined U.S. business for the first time in 
+Mastek after many years. 
+And so we believe from here on, there should be more positive momentum. We're trying to up 
+our profile in that geography, as you know, to look at larger clients and the larger deals, so that 
+does come with some risks of longer cycles. But having said that, we feel confident that we have 
+a seat in the table for some of these, and we should be seeing continued growth again in the U.S. 
+as well. 
+Mohit Jain: 
+Right, sir. And one for Arun, sir, like margin, there was a drop. Now U.S. is also picking up. So 
+to that extent, the impression I got was that we will have stayed big on the margin front. So once 
+now that wage hikes are done, how should we look at steady-state margins for Mastek as a 
+whole? 
+Arun Agarwal: 
+So Mohit, as you rightly pointed out, wage hike is done, again there will be quarter-on-quarter, 
+two months versus three months impact, but we have multiple operating levers which we are 
+working upon, including, as you rightly said, the growth profile of U.S. will further help us in 
+terms of the EBITDA profile. There should be consistent improvement and we should come 
+back to our 17% to 19% range, which we always said we want to operate within. So we believe 
+that can be done in the coming quarters. 
+Mohit Jain: 
+Sir, the question was like, will that range change a little bit now that U.S. is doing well or is 
+looking to do well. So, could it be like you will be closer to upper end than say, 17% when we 
+were investing in the U.S. region? 
+Arun Agarwal: 
+Let us get into 17% to 19% range first, Mohit, and definitely, our endeavor will be to further up 
+it and keep it more closer to 19%. But let us first come back to that range. 
+Mohit Jain: 
+ 
+All the best. Good quarter. 
+Moderator: 
+ 
+We'll take the next question from the line of Ravi Menon from Macquarie. 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 7 of 16 
+ 
+Ravi Menon: 
+Congrats on a good quarter. First question is on BizAnalytica. I think if I heard right, you're 
+talking about USD 2.5 million contribution. I thought that looking at the run rate when we 
+acquired it, we were expecting it to be more like USD 1.8 million. So has the acquisition done 
+much better than expected? 
+Hiral Chandrana: 
+Ravi, thanks for the question. The BizAnalytica business is two months, is what we've counted 
+because we completed the acquisition effective August, and that is the USD 2.5 million that we 
+have recorded. I mean, obviously, it's going to be slightly higher in Q3 given that it will be full 
+three months of revenue. But it is in line with what we had reported because it was in the range 
+of about USD 14 million, USD 15 million annualized number is what our expectation was, Ravi. 
+So at least as far as Q2 is concerned, with the two months, it's in line. We definitely see more 
+potential to grow that business, but it's in line with what we had reported. 
+Ravi Menon: 
+You've done a couple of acquisitions so far. Everything has been on the services side. Do you 
+think that there are any white spaces in your service portfolio? Or you think you are now 
+comfortable that this is good enough to face the market in the U.S? 
+Hiral Chandrana: 
+We definitely have filled out a lot of the gaps like you rightly pointed out, Ravi. The Salesforce 
+business gave us a lot of the customer front office journey with sales, service, marketing cloud. 
+We have a strong Oracle Cloud business with the back office. We need to do more in taking 
+some of our digital engineering capabilities in the U.S. that is still undertapped. As Mastek, we 
+do a lot of work in that space in the U.K. and now with the data business. Probably one area 
+which has been part of our overall thesis where we're not completely tapping into is the 
+hyperscaler kind of market with Azure and AWS. 
+And while we do some work in that space, but it is really not significant enough. But we feel 
+comfortable about the components of our portfolio. If I were to call out one area, that would be 
+it. 
+Ravi Menon: 
+And the U.S., such strong growth. I mean could you give us a little bit of sense of which verticals 
+are what's been in? Is it still developing, the healthcare, life sciences side? 
+Hiral Chandrana: 
+Healthcare has definitely picked up, both in terms of pipeline and order book as well as in terms 
+of revenue, I mentioned about one of the Blue Cross Blue Shield accounts that has definitely 
+given us stronger confidence that potentially we have a story that we can take to 10, 15, 20 other 
+Blues. There is still continued spend in the healthcare market in the U.S., we're just scratching 
+the surface. 17.8% to 17.9% of U.S. GDP is impacted with healthcare spend and there are many 
+healthcare providers that are evolving with the consolidation that we see. So healthcare definitely 
+contributed. 
+There are some interesting deals like we won a reasonable size deal with one of the hospitality 
+companies in the U.S. to look at their customer experience in their airports. So 
+manufacturing/retail are the other two verticals that we're operating. 
+One area which has not kicked off as much in the U.S. is our state and local government. We 
+anticipated that, that would play a key role, so behind there. But going forward, we have gotten 
+into a couple of states where we have a license to sell now. So that could also start growing in 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 8 of 16 
+ 
+the coming quarters. But yes, in that order, I would say healthcare and manufacturing have done 
+well. 
+Moderator: 
+ 
+We'll take the next question from the line of NGN Puranik from Enam Holdings. 
+Ngn Puranik: 
+Hiral, you've made an interesting observation about the technical debt the U.K. cabinet carries, 
+USD 600 million kind of opportunity. How do you analyze the content of this technical debt in 
+terms of various systems and applications sitting there? And are you getting ready with 
+solutioning to seize those opportunities? 
+Hiral Chandrana: 
+Yes. Puranik, it's an excellent question. In fact, there was a much more detailed report that was 
+published in this area, where certain departments are actually projecting that they will have two 
+sort of cycles of spend, which is essentially four years plus four years, eight years where they 
+will have to continue to invest to get out of that technical debt, partly because of maybe 
+historically, they have not invested in some of those legacy landscapes. 
+So the way we're looking at this is in three buckets. One is that many of these departments, and 
+we have now looking at U.K. public sector from a policy lens. There are these departments, but 
+we are also looking at which policies that we can play. So that is one dimension because that 
+gives us some way to narrow down and prioritize where we put our focus on. 
+The second is the technology and the skills needed. So this is based on the framework that we 
+are participating in. In the last couple of quarters, we announced we got into a couple of new 
+frameworks like the DSP, the digital specialist framework, the data and analytics framework. So 
+that gives us another indication of where the potential spend will happen. These are large 
+frameworks, multibillion frameworks. So there are many other vendors, but we have a seat at 
+the table to get a share out there. 
+And the third is the cloud journey is still in its infancy in many of these departments. So while 
+they will continue to move their applications and infrastructure and data to the cloud, with some 
+of our partnerships that we have with Salesforce and now Snowflake, there is an opportunity to 
+take a look at that spend as well. 
+So those would be the three areas that we are looking at. One is at a policy level because there's 
+a lot of legacy and technical debt. It essentially means that's the spend that they need to have to 
+get out of it. Second is some of the frameworks which gives us an idea of the skills. And third is 
+the technology, and the partnership. 
+Ngn Puranik: 
+And is the standard legacy modernization is large opportunity or customized legacy 
+modernization, which is unique to Mastek is a bigger opportunity? 
+Hiral Chandrana: 
+I mean I would not say it's unique to Mastek. I mean these are modernization programs.  
+Ngn Puranik: 
+ 
+If you are deep understanding of the government perspective. 
+Hiral Chandrana: 
+Yes. As you probably know, there are not that many Indian IT services high-rated firms that play 
+a significant role, so Mastek is one of them. And so we do have that advantage of knowing the 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 9 of 16 
+ 
+sector for the last 20-25 years, knowing that the route and the roadmap, these departments have, 
+how they will spend the buying behavior. We also have a lot of security-cleared resources and 
+experience. 
+So that does put us at an advantage. But the nature of the work is not necessarily unique. We 
+have an upper hand because of our presence out there and because of our expertise that we've 
+had in the last couple of decades.  
+It's a combination of our engineering, application engineering and development work, which is 
+managing many systems like, for example, in the past, we've done a lot of work in borders, 
+immigration, asylum services. So now there are new programs and new departments, like 
+customs, this One Login program that we won recently, the environment and development.  
+Ngn Puranik: 
+What you are talking about that deal looks very interesting. And is it very hugely referenceable 
+deal in terms of seeking opportunity elsewhere in other markets? Because that looks interesting 
+deal. 
+Hiral Chandrana: 
+Yes. So you brought up a good point. That particular deal is definitely something that we can 
+potentially replicate in the playbook to take it to not just other departments in U.K. but even 
+other geographies potentially. 
+Ngn Puranik: 
+ 
+And the technical debt can give you a lot more USD 10 million deals to follow? 
+Hiral Chandrana: 
+Yes. We definitely are seeing more pipeline, which have larger deals. But at the same time, we 
+are being selective in these where we have a really good shot at competing and winning, because 
+there are multiple deals that will come to the table. We want to make sure that we're leveraging 
+our sweet spot as well as our relationships and picking the policies and the framework where we 
+believe there's a better shot at winning. So we may not go after all those, but yes, some of them 
+will definitely be USD 10 million, USD 20 million-plus deals. 
+Moderator: 
+We'll take the next question from the line of Darshil from Crown Capital. Please go ahead.  
+Darshil: 
+I think we've spoken about margins that we feel that it will go back to the trajectory that we had. 
+But where do we see our growth with the new deal wins? And how does the environment look 
+like and can the growth now become in an accelerated manner? Or what are we seeing in terms 
+of environment and growth, maybe not this specific year, but maybe 2025. Any color on that 
+you could give? 
+Hiral Chandrana: 
+As you know, the broader macro uncertainty continues to persist. There is still a lot of wait and 
+watch that some of our customers are evaluating and scrutinizing. But what we've seen in the 
+last couple of quarters is that they are eventually making decisions. The delays are there, but 
+they are making decisions. 
+And so the cycles have definitely turned out to be longer because of the approval process and 
+the scrutiny. I would say that for us and for a company like Mastek, the micros are also much 
+more important. While there are some macro elements that come into play for sure whether it's 
+inflation, interest rates, geopolitical, et cetera. But then as we look at our specialist areas and our 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 10 of 16 
+ 
+specific geographies and specific accounts, even in some cases, that's where we are focused on 
+to make sure that we can get more out of account mining. Even in our hunting, new logos are 
+being selective in terms of which logos to go after. 
+So I would say it's a combination of the macro and micro that we are looking at, and we are 
+cautiously optimistic at this stage because we do have pipeline and demand. But we do 
+appreciate the broader uncertainty that will continue to persist. So we are seeing a reasonably 
+good growth potential in our major markets. It may not be at the same levels as from the past. 
+But I think we've set a good foundation with some of the investments that we've made. 
+Our new CHRO has just joined us. So our leadership team is complete. We had one other 
+leadership position, which was open, which was the healthcare account in U.K. So we've hired 
+a new leader for that. So we feel the foundation in terms of portfolio, in terms of leadership, and 
+our order book backlog is steady going into the next few quarters. 
+Darshil: 
+So, sir, I'm sorry, but by reasonably good, could we have a range of growth that could be 
+expected or any broad range could also maybe work like maybe around 15% is a good 
+assumption? Or how would you quantify that? Any range is fine if you could help us with that. 
+Hiral Chandrana: 
+Sure. We never provided guidance, but we have guided that we will always aim for a few 
+percentage points better than the industry. Now I realize that the industry has provided much 
+more muted guidance, particularly with the larger players. But with our size of business, we 
+definitely want to aim for double-digits of year-on-year growth. And that's what we would want 
+to continue doing for in the coming quarters. 
+Darshil: 
+So that's great to hear, sir. And with regards to order book, what would be the average time 
+duration for completing an order? 
+Hiral Chandrana: 
+That's a tough one. We just opened a new logo in the U.S. It's a USD 7 billion organization. It's 
+not a very big deal, but that, start to finish, order book was in three weeks. There have been 
+instances where we've had a few deals that has taken seven months.  So I would say there is a 
+spectrum of anywhere from a month to seven months depending on the complexity of the 
+decision-making and the size of the deal. 
+So average would be obviously somewhere in the middle, but it really varies from customer to 
+customer, deal to deal. And I think that, that kind of general delay in decisions will persist for 
+the next one or two quarters, at least. 
+Darshil: 
+Okay. Sir, just last questions, if I may. In terms of the risk, as we are cautiously optimistic, we 
+are maybe at near to start of a good growth journey or how do we see it in terms of any risk that 
+you personally see in terms of environment? And with regards to BizAnalytica, what will be the 
+timeline that you will start directly come to the margin that Mastek makes? 
+Hiral Chandrana: 
+Arun, why don't you take the second question first on BizAnalytica and then I'll take the first 
+one. 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 11 of 16 
+ 
+Arun Agarwal: 
+Sure. Darshil, as our plan is this year, they will come back to a double-digit margin by the end 
+of the year. And next year, they will come closer to the Mastek margin profile. That's the target. 
+Hiral Chandrana: 
+Yes. And, I guess in terms of just overall risks as it relates to the growth, interestingly the next 
+12 months in both our major geographies, U.K. as well as U.S. are election years, Darshil, as 
+you know. 
+And there's always certain nuances as it relates to policies, as it relates to spend, healthcare, 
+economy that comes with these elections. It has no direct impact, in some cases, indirect impact 
+to us because of the slowness and the cautiousness of some industries. So I would say that in the 
+near term, in the next three to four quarters, that would be one kind of thing weighing in our 
+mind. 
+The second, of course, there's geopolitical elements, as you know, that are continuing to happen 
+at the macro level, but we don't see any major kind of impact because of that because our 
+presence in Europe, which is the non-U.K. Europe, is not that significant. Of course, we have a 
+presence in the Middle East, but we don't see any near-term impact. 
+And then as an opportunity, which is always a risk, but as an opportunity, customers are 
+continuing to look at cost consolidation as well as now evaluating how Generative AI is going 
+to play a role in their future. So we see that as a potential opportunity for us to look at, maybe 
+even looking at upsetting some of the incumbents, some of the larger incumbents. But that's too 
+early to tell. We are definitely investing in some specific vertical areas. But in general, cost 
+consolidation, some customers are starting their own global capability centers, GCCs, in India. 
+So there is that element of it. But keeping that aside, we feel strong about at least our current 
+view and visibility on both demand and pipeline as it relates to U.S. and U.K., which is where 
+we're focused on. 
+Moderator: 
+ 
+We'll take the next question from the line of Amit Chandra from HDFC Securities. 
+Amit Chandra: 
+So my first question is on the healthcare vertical. So obviously, we have seen healthy growth 
+there, which was led by U.S. and also the acquisition impact. But if you can highlight what's 
+happening in the NHS? Is there stability there or some recovery there in the NHS part of the 
+business? And when we can expect acceleration in the NHS? 
+Hiral Chandrana: 
+Yes. So Amit, the couple of quarters back, I think we had updated that we do see sort of a 
+bottoming out, in that account, and we're being conservative as it relates to growth in NHS for 
+FY '24 because by design, and we sort of got hit by it over the last few quarters. 
+Having said that, there are two or three deals that we have in the pipeline. Some of the decisions 
+on those deals have actually taken longer to my earlier commentary that, seems to be a general 
+sort of trend in terms of time it's taking for some of these decisions. But we are playing a role 
+still in some of those deals. And these are some newer opportunities as they're looking at their 
+API integration. They're looking at their CRM for the patient portals. So there's some interesting 
+newer areas including secondary care and arm's length bodies, which kind of are downstream 
+elements of NHS. 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 12 of 16 
+ 
+So we believe that as we look at FY '25, NHS is still a significant spend area. We have gotten a 
+new leader for that, as I mentioned earlier. And so we don't see any major kind of incremental 
+growth in Q3 or Q4. But we do see some deals and potential order book that might set the stage 
+for a stronger FY '25 on NHS. 
+Amit Chandra: 
+Okay. And sir, on the overall U.K. government, obviously, it has been an overall driver for 
+growth for us. So how things are shaping up there? Obviously, we have gained some good deals. 
+So are we seeing higher industry or higher than the company level growth in the U.K. 
+government? Or it will be in line to what we have been doing for the company? 
+And also in the U.S., now we are at USD 100 million kind of run rate and we have shown good 
+organic growth bump up in the quarter. So based on the deals that we have, how sustainable you 
+see this growth to be? And earlier, we had a target of reaching around USD 200 million in the 
+U.S. geography, both organic and inorganic. So how that thing holds up. 
+Hiral Chandrana: 
+Yes. So Amit, there's two or three questions there. Let me try to kind of break that up. Let's start 
+with the U.K. because it obviously continues to be a strategic part of our business, particularly 
+U.K. public sector, and the secure government services within that, which is a key part of our 
+portfolio. 
+I mentioned earlier on some of the frameworks and the policies, we are expanding that purview 
+a little bit. We are currently present in borders, immigration, customs, defense, and of course, 
+we're working with the higher education and state and local councils as well. 
+So as we look at the next two to three years even, we have created a game plan of looking at a 
+few different departments beyond the areas that we are already present in, and running 
+campaigns and some of this has been going on for the last few quarters of how we can look at 
+getting market share or entering into newer programs in those departments. I mentioned 
+Environment, Food & Rural Affairs is one area. We got into the cabinet office with this digital 
+services, One Login program. So these are some examples. There's police protection, which is 
+another area of a policy. 
+So slowly but surely, we are expanding our purview of how we look at the secure government 
+services. So the short version of that answer is that, yes, we continue to see opportunity in the 
+U.K. secure government services. 
+As far as U.S. momentum and growth, like I mentioned, we feel strong about the portfolio that 
+we now have. There's still work to do. I mean we're not going to sit on this in terms of the USD 
+100 million run rate. There is much more opportunity. We're still a small player in the grand 
+scheme of things. Healthcare, just as one vertical, is a huge opportunity. 
+We have interlocked very closely with particularly Oracle and Salesforce in the U.S. as it relates 
+to healthcare to identify joint go-to-market and opportunity. And we believe that healthcare itself 
+as a single vertical in the U.S. can become USD 100 million vertical, in the next three to four 
+years. 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 13 of 16 
+ 
+So as we look at the next two to three years, I think the selective bets that we are making both 
+in U.K. as well as in U.S. Now we do have a reasonable and sizable business in AMEA and 
+Middle East as well. So that will continue to steadily grow as well as very selectively, we will 
+be looking at opportunities in the Europe geography, depending on the countries that we want 
+to play with. 
+So all in all, the inorganic play that we have made in the last 12 to 14 months will start to pay 
+off in more joint synergy deals, much more account mining. I gave a couple of examples earlier. 
+It is starting to show into greater than one million accounts. You would have noticed that our 
+Fortune 1000 clients have gone up. 
+The number of clients where we're doing greater than one million run rate has gone up. We will 
+start eventually showing you how much three million, five million, 10 million accounts that we 
+have, and that will start to truly reflect the strength of our account mining. So that's kind of the 
+direction that we're moving in. 
+Amit Chandra: 
+Okay. And sir, in the U.S. geography, what kind of margins we are targeting, because the 
+margins are suppressed there because of the investments. So with the growth coming back, can 
+we expect it to come to company average? Or what kind of margin profile you're looking at? 
+And also, on the overall margin for the company that we had this quarter, we had impact of wage 
+hike and the integration impact. Apart from that, were there any other one-off costs related to 
+acquisition in the margin impact? 
+Arun Agarwal: 
+So, in terms of additional impact, yes, there is onetime acquisition cost, which always comes in 
+the quarter of integration. That is included in the current profile of the margin. And in terms of 
+U.S. margin profile, as it starts growing 5% plus kind of quarter-on-quarter and whatever growth 
+we can deliver down the road, the margin will continue to improve. 
+Our first target is to make it double digit in the geography. And then gradually, as the growth 
+continues, we will aim to bring it closer to the company average. But I think immediate target is 
+how can we bring it to the double digit. 
+Hiral Chandrana: 
+And Amit, our kind of expectation is that the faster growth given the current size that we are, 
+we're comfortable with 2% to 3% difference maybe, but we want to be closer to company 
+average in steady state in the next two to three quarters. But we will have at least a couple of 
+percentage points delta as far as U.S. margins are concerned. And the same holds good for our 
+Middle East region as well. 
+Amit Chandra: 
+Okay. So Arun, can you please quantify the additional impact that we had from the acquisition 
+in terms of the cost and also the amortization impact like the incremental? 
+Arun Agarwal: 
+So roughly and that is there in the disclosures, INR 4 crore is the amount which we have incurred 
+onetime, and it is quantified separately under the exceptional line, which is all one time on these 
+accounting requirements, which you have to follow. So that amount is captured separately, and 
+that will not be there next quarter for sure. So the PAT will not get impacted next quarter for the 
+same item. 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 14 of 16 
+ 
+And purchase price and other amortization will continue as has happened this quarter because 
+it's amortized over next couple of years. And then that has been given if all the amortization was 
+not there, which is again notional amortization for PPA and unwinding of interest, profitability 
+in terms of PAT would have been much better. But again, those are accounting rules and 
+regulation. So we need to ensure those amortization happens into the P&L. 
+Moderator: 
+Thank you. We'll take the next question from the line of Jalaj from Svan Investments. 
+Jalaj: 
+I wanted to understand what is the next payment due for Evosys and what is the timeline for it?  
+Arun Agarwal: 
+Evosys, last tranche of CCPS buyout will happen between quarter three and quarter four, mostly 
+between December and January. Again, the numbers are getting finalized. All this valuation and 
+things are happening. But give or take, it would be in the range of INR 120 crores to INR 130 
+crores. Roughly 67% will be paid in cash, and one third will be in form of Mastek stock what 
+we have done similar thing in the last two years as well. That was a part of the agreement. And 
+as I said, that will be done between December and January. 
+Jalaj: 
+Okay and could you give us a margin walk for the drop in the EBIT margins quarter-on-quarter? 
+Arun Agarwal: 
+As I mentioned, roughly 130 to 140 bps is the in-quarter impact for wage hikes, and roughly 30 
+to 40 bps is the impact because of the consummation of BizAnalytica business, which is at the 
+lower margin, offset by a couple of operating levers that we mentioned others that are helping 
+us to compensate partially in the quarter. 
+Jalaj: 
+Okay and could you talk about attrition because we see that at least from a peer standpoint right 
+now, their attritions have reached to a 14% - 15% level. We still stand at 19% - 20%. So any 
+aspiration there? Or how do we see about it? 
+Hiral Chandrana: 
+Our overall business mix is heavily weighted towards digital engineering, digital experience, 
+cloud transformation, implementation, complex programs, and projects, and the reason I'm 
+giving that context again is that the skills are definitely much more niche as well as specialized 
+in some cases. 
+So that is clearly talent that is much more in demand. And that's one of the reasons why we want 
+to make sure we do the right thing for our employees who have contributed to the growth and 
+make sure that they are rewarded. So the salary increments, even though some of our peers might 
+have deferred it, we wanted to make sure that, that salary increment was completed. 
+Now having said that, we'll continue to see a gradual reduction in attrition. But given the profile 
+of the skills and the areas that we operate in, it's typically going to be a little bit higher in general 
+compared to the market. 
+Jalaj: 
+And could you talk a little about the subcon cost because there's no discussion about it in the 
+disclosures as of now, quarterly. 
+Arun Agarwal: 
+Subcontractor cost, again, we have a combination of our U.K. public sector business where there 
+are certain requirements for operating in public sector onshore, and certain skills are available 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 15 of 16 
+ 
+in the subcontractor market. So we have a little bit unique situation than the competition. 
+However, still subcontractor as a percentage of revenue continues to be on the higher side, and 
+we see as a potential to continuously improve the margin. 
+So that will continue to be a lever. And as and when we get the opportunity and there is a team 
+which work separately to convert subcontractors to employees, not only with the help of 
+converting them as the same person but also in terms of hiring the other person replacing the 
+talent. So that kind of endeavor continues as our operating levers in general. 
+Jalaj: 
+Okay. And a quick last one. Could you talk about in the deal wins or the order book, what stands 
+as a proportion from U.S. right now? 
+Arun Agarwal: 
+We don't give exact breakup, but there is a consistent improvement in the backlog in the U.S., 
+and that is what is reflected into our revenue growth. 
+Jalaj: 
+So should I be assuming that it is different from what is the revenue mix as of now? It is more 
+towards U.S. as of now. Should it be a right assumption that way? 
+Hiral Chandrana: 
+So just maybe overall, our order book is dependent on some large deals and some deals which 
+are closing in any given quarter. So on an average, we look at this in the last two or three quarters 
+because some of this buildup of the last two, three quarters of order book is really what's going 
+to reflect in the revenue growth for the next two, three quarters. 
+So in that sense, we've had, on an average, steady growth, both in U.K. and in U.S. In any given 
+quarter in this particular quarter that we just completed in Q2, U.K. order book was much better 
+and really gives us confidence. In Q1, we had a much stronger order book in U.S., but it typically 
+kind of balances out when you look at H1 in terms of proportionate to revenue. 
+Moderator: 
+Ladies and gentlemen, I would now like to hand the conference over to the management for 
+closing comments. Over to you, sir. 
+Hiral Chandrana: 
+Thank you. So just to summarize, we wanted to take this opportunity again to thank all our 
+employees, our Mastekeers, our customers as well as our investor shareholders and analysts who 
+have continued to provide guidance and trust in Mastek. 
+As you can see, we've demonstrated steady and decent revenue growth and strong order book 
+momentum, which gives us confidence going into H2. We have work to do. The environment is 
+still uncertain, like I mentioned, but given the progress that we have made in the last many 
+quarters in setting a strong foundation across service lines, across capabilities, across new 
+solutions combined with our new capabilities through the acquisition gives us a confidence that 
+we have a much better value proposition in mining our existing accounts as well as going after 
+some of the large deals. 
+The U.K. public sector is resilient for us. The U.S. has turned around, and we see a good pivot 
+going into the next few quarters. And the key will be to execute on some of the operating levers 
+and efficiencies, which we will continue to do so that we get our operating EBITDA and margins 
+at levels which we were at in Q1. 
+
+ 
+ 
+Mastek Limited 
+ 
+ 
+October 19, 2023 
+ 
+Page 16 of 16 
+ 
+Having said that, there is a pretty big market opportunity that is evolving in Generative AI. 
+We've continued to invest and refine our strategy. And you will hear in the coming quarters more 
+about it, but we have started winning deals as well as training our people and building very 
+specific capabilities around a few solutions. So we see that as an interesting disruptive area that, 
+combined with our BizAnalytica and data cloud business, gives us a stronger value proposition 
+as customers move from proof-of-concept pilots into much more larger use cases across the 
+enterprise. 
+Once again, thank you, everyone, for joining the call. Great questions, and thank you for all the 
+support. 
+Moderator: 
+Thank you, members of the management. Ladies and gentlemen, on behalf of Mastek Limited, 
+that concludes this conference call. We thank you for joining us, and you may now disconnect 
+your lines. Thank you. 

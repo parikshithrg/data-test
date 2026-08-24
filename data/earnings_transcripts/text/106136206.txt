@@ -1,0 +1,1025 @@
+www.ideaforgetech.com  
+ 
+ 
+ideaForge Technology Limited 
+(Formerly ideaForge Technology Private Limited) 
+EL-146, T.T.C. Industrial Area, M.I.D.C. Mahape, Navi Mumbai - 400 710. Maharashtra (India) 
+Ph.(O): +91 (22) 6787 1000 (F) +91 (22) 6787 1007 
+ 
+Email: info@ideaforgetech.com CIN No. L31401MH2007PLC167669 
+February 04, 2025 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, Dalal Street,  
+Fort, Mumbai – 400 001. 
+BSE Scrip Code: 543932  
+To,  
+The National Stock Exchange of India Limited 
+“Exchange Plaza”, Bandra – Kurla Complex, 
+Bandra (EAST), Mumbai – 400 051 
+NSE SYMBOL: IDEAFORGE 
+ 
+Sub: Transcript of Earnings Call for the quarter and nine months ended December 31, 2024, of ideaForge 
+Technology Limited (“the Company”). 
+ 
+Dear Sir/Ma’am, 
+ 
+This is further to our letter dated January 29, 2025, whereby the Company had submitted the link to the 
+audio recording of the Earnings Call hosted by the Company on Wednesday, January 29, 2025, at 11.00 a.m. 
+(IST) post announcement of Unaudited (Standalone & Consolidated) Financial Results for the quarter and 
+nine months ended December 31, 2024. 
+ 
+Pursuant to the Regulation 30 and 46 read with clause 15 of Para A of Part A of Schedule III of the SEBI 
+(Listing Obligations and Disclosure Requirements), Regulations 2015, please find enclosed the transcript of 
+the Earnings call held on Wednesday, January 29, 2025, at 11.00 a.m. (IST). The Transcript is also available 
+on Company’s website at below link: 
+ 
+https://ideaforgetech.com/investor-relations/news-and-announcements 
+ 
+Kindly take the same on your records. 
+ 
+Thanking you, 
+ 
+Yours faithfully 
+For ideaForge Technology Limited 
+ 
+ 
+ 
+Nilesh Jaywant 
+Company Secretary and Compliance Officer 
+Membership No. A26554 
+ 
+ 
+Encl: as above 
+ 
+ 
+ 
+ 
+ 
+ 
+NILESH 
+RANJAN 
+JAYWANT
+Digitally signed by 
+NILESH RANJAN 
+JAYWANT 
+Date: 2025.02.04 15:20:17 
++05'30'
+
+Page 1 of 18 
+ 
+ 
+ 
+ 
+ 
+“ideaForge Technology Limited 
+Q3 FY '25 Earnings Conference Call” 
+January 29, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+          
+ 
+ 
+ 
+MANAGEMENT: MR. ANKIT MEHTA – CHIEF EXECUTIVE OFFICER – 
+IDEAFORGE TECHNOLOGY LIMITED  
+ 
+MR. RAHUL SINGH – VICE PRESIDENT, ENGINEERING 
+– IDEAFORGE TECHNOLOGY LIMITED 
+ 
+ 
+MODERATOR: 
+MR. PARTH PATEL – ORIENT CAPITAL 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 2 of 18 
+ 
+Moderator: 
+Ladies and gentlemen, good day, and welcome to the Q3 FY '25 Earnings Conference Call of 
+ideaForge Technology Limited. As a reminder, all participant lines will be in the listen-only 
+mode and there will be an opportunity for you to ask questions after the presentation concludes. 
+Should you need assistance during the conference call, please signal an operator by pressing star 
+then zero on your touch-tone phone. Please note that this conference is being recorded. 
+ 
+I now hand the conference over to Mr. Parth Patel from Orient Capital. Thank you, and over to 
+you, Mr. Patel. 
+Parth Patel: 
+Thank you, Michelle. On behalf of Orient Capital, I welcome you all to ideaForge Technology 
+Limited Q3 and 9 Months FY '25 Earnings Conference Call. From the management side, we 
+have Mr. Ankit Mehta, Chief Executive Officer, and Mr. Rahul Singh, VP - Engineering. I hope 
+everyone had an opportunity to go through our investor deck and press release that we have 
+uploaded on our exchange and company's website. 
+ 
+A short disclaimer I would like to say before we begin the call. This call may contain some of 
+the forward-looking statements, which are completely based upon our beliefs, opinion and 
+expectations as of today. These statements are not a guarantee of our future performance and 
+involve unforeseen risks and uncertainties. 
+ 
+With this, now I hand over the call to Mr. Ankit Mehta. Over to you, sir. 
+Ankit Mehta: 
+Good morning, everyone. Thank you for joining us today for the earnings conference call for 
+Q3 and 9 months FY '25. I hope this message finds you all in great health. I have my colleague, 
+Rahul, who is our VP of Engineering, with me to provide us with deeper insights into our 
+technology and product development efforts, along with our Investor Relations partner on the 
+call with us. 
+ 
+I would like to extend my heartfelt gratitude to our investors, stakeholders and employees for 
+their continued support to ideaForge. Your unwavering belief in our vision of building an IP-
+driven technology powerhouse from India for the world keeps us firmly committed to this 
+journey. 
+ 
+The year so far has been a mixed bag for us and the drone industry. While a lot of development 
+is happening on new use cases, products and technologies, the demand-to-order conversion in 
+the first 3 quarters of the year has been below industry expectations. 
+ 
+This is majorly attributable to the national general elections in the first part of the year and a 
+substantial delay in the government coming up with the impending larger procurement 
+opportunities. Most of the demand this year has been driven by the run-rate business, which 
+continues to be in line with our expectations at the beginning of the year so far. From an Indian 
+demand standpoint, once we see the larger opportunities getting floated, which is expected 
+shortly, the industry will again be on track for the projected long-term growth. 
+ 
+To boost the run-rate business even more, industry-wide efforts are being made to exemplify the 
+role of drone technology in evaluating security and governance effectiveness for both 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 3 of 18 
+ 
+government and enterprise use cases. For example, widespread awareness is created about the 
+coastal management program that is being serviced by our drones and the promotion of private 
+use of geospatial data, coming from drones as well, apart from satellite data, in the Operation 
+DRONAGIRI by the Government of India. 
+ 
+From an international business standpoint, starting from almost no opportunities outside India 
+before this financial year, ideaForge is tracking more than 25 opportunities globally, with over 
+a dozen opportunities being tracked in North America, and half a dozen opportunities in Africa 
+as well. We are the only technology in consideration for some substantial and some large 
+opportunities in these geographies, which also form a part of our L1 pipeline of INR 400-plus 
+crores now. 
+ 
+Our international motion is also aided by our recognition of being placed third amongst the 
+world's top dual-use drone manufacturers in the Drone Industry Insights’ Global Drone Review 
+2024. We are the only Asian company to feature in the top 20. This marks the third consecutive 
+year where we have been featured in the top 10 and made an upward move. It's a testament to 
+our relentless focus on innovation and indigenization, and is thus elevating the Indian drone 
+industry on a global stage. 
+ 
+The second piece of good news I wanted to share is that ideaForge's SWITCH MINI UAV has 
+obtained the coveted ‘Fit for Indian Military Use’ certificate from the Directorate General of 
+Quality Assurance, Ministry of Defense. The SWITCH UAV is the first and only UAV in its 
+class to receive this certification. It is not only a testament to the level of delivery excellence at 
+ideaForge but also showcases how inherently customer requirements are incorporated into our 
+product development efforts. 
+ 
+We're immensely proud of our drones being part of a groundbreaking initiative with the 
+Department of Fisheries, Maharashtra, aimed at enhancing coastal surveillance, curbing illegal, 
+unreported and unregulated fishing, and also protecting marine ecosystems across seven coastal 
+districts of Maharashtra, with the project set to run for an initial duration of eight years. This 
+collaboration underscores our commitment to driving impactful change through innovation and 
+partnerships. 
+ 
+Our efforts to prove the effectiveness of our Drone-as-a-Service efforts got a huge shot in the 
+arm when our customers were able to prevent theft on several occasions wherever we are present. 
+This exemplifies the usefulness of both drones as a technology and its deployment on a pay-per-
+use basis. 
+ 
+I'm pleased to inform you that two of our next-generation products, NETRA 5 and SWITCH V2 
+are now ready for customer demonstrations, and we'll be officially unveiling them at the global 
+flagship event in the coming month, the Aero India 2025. 
+ 
+These platforms are designed by keeping in mind the ever-evolving nature of warfare and 
+conflicts around the globe. They will future proof the forces with their high-end performance, 
+resilience to operate even in modern electronic warfare-infested environments, and will feature 
+the ability to upgrade their autonomy in the field as well. These next-generation platforms will 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 4 of 18 
+ 
+be game changers for the security forces, and be it their use in peacetime patrolling, counter 
+insurgency, counterterrorism operations or their use in large-scale conflicts. 
+ 
+We also developed ship-based landing capability on our quadcopter platform, which is ready for 
+testing in the seas now. This new capability will widen our offerings and open up seaborne 
+opportunities for us, which we were not able to service earlier. On the development front of our 
+larger platforms, we have completed more flight tests, including demonstrations in front of some 
+end users and are finalizing the design for our tactical UAV platform. 
+ 
+For the middle-mile logistics platform, a 500 kg maximum take-off weight aircraft with a 
+payload carrying capacity of 100-plus kg to over 100 kilometers, even in high altitudes, we have 
+progressed from the initial concept design and analysis phase and are in the advanced stages of 
+the prototype design and execution. 
+ 
+We are confident about the progress we are making with both these platforms and our ability to 
+meet our planned development milestones here. We will also share the first glimpse of these 
+platforms in the Aero India 2025. 
+ 
+We are making progress in the right direction on our Drone-as-a-Service business. Our drones 
+are deployed for enterprise safety and security, traffic management and law enforcement, and 
+urban cleanliness and encroachment monitoring use cases as well now. We launched the 
+FLYGHT Franchisee, a franchisee-owned, franchisee-operated model for the DaaS business in 
+Q2 and are in discussions with several potential partners here. 
+ 
+As a part of our effort to create a drone innovation platform and an end-to-end ecosystem, we 
+are extensively working with partners to integrate third-party payloads on our platform, enabling 
+even more use cases, and developing an automated workflow discovery platform, which is called 
+FlyghtCloud. 
+ 
+We have made significant strides in developing solutions for power line infrastructure 
+inspections, addressing the challenges in maintaining India's 14 million-kilometer circuit of 
+powerlines. Our next-generation drones are equipped with advanced imaging and LiDAR for 
+3D mapping and thermal sensors to detect critical issues like powerline sag, hot spots, and 
+vegetation encroachment. These will enable teams to receive real-time actionable insights, 
+improving efficiency and reducing costs, while ensuring uninterrupted power supply across the 
+nation. 
+ 
+We've also unlocked solutions related to the mining sector on our FlyghtCloud platform, which 
+will help customers with an end-to-end stitched solution and actionable insights in one place. I'd 
+also like to speak about the Operation DRONAGIRI, which was launched under the India's 
+National Geospatial Policy 2022, a pilot project, which is aimed at integrating geospatial 
+technology into key sectors like agriculture, logistics, and transport, implemented in a few sites 
+in Uttar Pradesh, Haryana, Assam, Andhra Pradesh and Maharashtra. It features the integrated 
+geospatial data sharing interface to provide seamless access to geospatial data for stakeholders, 
+fostering collaboration, innovation and informed decision making. We're excited to announce 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 5 of 18 
+ 
+that we are participating as an official data provider for this initiative, supplying high-resolution 
+drone data to support sustainable development and demonstrate practical applications of 
+geospatial technologies both to private and public users. 
+ 
+On the international side of the business, learnings from our successful Early Adopter Program 
+initiative in the United States helped us conceptualize and launch a new quadcopter platform, 
+the Q6 V3, in the United States for law enforcement and public safety use cases. This will 
+strengthen our current portfolio of SWITCH UAV and NETRA V4 PRO in the North American 
+market. The Early Adopter Program with some of the customers is in the advanced stages, and 
+we expect commercial conversion from there very soon. 
+ 
+As we move forward, I'm confident that ideaForge will continue to lead the way in 
+revolutionizing industries through cutting-edge drone technology. Our commitment to 
+innovation, operational excellence and stakeholder value remains steadfast. 
+ 
+I will take you through financial highlights for the third quarter and 9 months FY '25. Our order 
+book as of 31st December stood at approximately INR 21 crores, with an L1 opportunity pipeline 
+of INR 400-plus crores now as compared to INR 300 crores earlier. Consolidated revenues for 
+the current quarter stood at INR 17.6 crores versus INR 90.9 crores in Q3 FY '24 and INR 141 
+crores, 9 months FY '25 as compared to INR 212 crores, 9 months FY '24. 
+ 
+For the quarter, gross profit stood at INR 8.1 crores, with a gross profit margin of 46%. For 9 
+months FY '25, gross profit stood at INR 45.9 crores, with a gross profit margin of 32.6%. 
+EBITDA for the quarter was minus INR 12.6 crores and minus INR 14.1 crores for 9 months 
+FY '25. PAT for the quarter stood at minus INR 24 crores and minus INR 36.6 crores for the 9-
+month FY '25. 
+ 
+Thank you. And now I'd like to open the floor for questions and answers. 
+Moderator: 
+The first question is from the line of Hardik Rawat from IIFL Capital. 
+Hardik Rawat: 
+Ankit, the first question that I had was with regards to the guidance. Now we've been consistently 
+guiding for FY '25 to largely be at least flattish and a slight growth versus FY '24. Is there any 
+revision to this guidance in light of the Q3 numbers? 
+Ankit Mehta: 
+Yes, Hardik, we were expecting that some of these large opportunities will come much earlier 
+in the time frame. And the expectation was that they will get into the bidding phase in the quarter 
+prior to this. But that, as we all know, has not happened. 
+ 
+And therefore, while they will potentially be available for bidding this quarter, but closure will 
+be difficult, and the execution, of course, will be even more challenging in this time frame that 
+is remaining right now. So yes, there will be a revision overall on that. 
+Hardik Rawat: 
+So what are our expectations for the revenue growth for FY '25, if you could dwell on that for      
+this year? 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 6 of 18 
+ 
+Ankit Mehta: 
+Yes. While I'm not able to give you a very specific number, but mostly the conversion that will 
+happen in this year in the remaining quarter is going to be from the run-rate business that we get. 
+And there are several opportunities within that. We are awaiting closure of many of those 
+opportunities so that we can quickly build them and grab revenues as well. 
+Hardik Rawat: 
+Right. So now just getting back to the L1 pipeline that we had, we were sitting on roughly                 
+INR 300 crores plus out of an L1 pipeline at the end of 2Q. That would be correct, right? 
+Ankit Mehta: 
+Yes, yes. 
+Hardik Rawat: 
+So there, it seems to be that there's been significant delays in confirmation of those orders as 
+well. 
+Ankit Mehta: 
+Yes, absolutely. So while the L1 pipeline has actually gone up in the last quarter, but conversion 
+is still taking more time because of several challenges in the, you can say, dynamics of those 
+deals in terms of not the deal itself but, let's say, peripheral issues around governments, etcetera. 
+Hardik Rawat: 
+What part of this INR300 crores plus L1 pipeline that we had at the end of 2Q was from the 
+Indian Army or Army in general? 
+Ankit Mehta: 
+So, a lot of this L1 pipeline is actually emanating from our international efforts right now. So 
+there, we don't have that immediate dependency from the Indian MOD right now in this L1 
+pipeline. 
+Hardik Rawat: 
+So any approximate percentage if you could tell us, a large part is coming from abroad, right? Is 
+that the case? 
+Ankit Mehta: 
+Yes, yes. All of it is coming from abroad. 
+Hardik Rawat: 
+Then what is the challenge in the international geographies? I understand that in India, there's 
+been a government issue and delays in overall capex, and that's not particular to ideaForge but 
+all defense companies in general. But for the international orders, what is leading to this delay? 
+Ankit Mehta: 
+I think some of these opportunities are in Africa, where a bunch of government changes have 
+also happened. So there has been that as an issue. 
+Hardik Rawat: 
+All right. That makes sense. Another next question I had was with regards to FPV drones. There 
+were some news headlines recently that the Indian Army is looking to acquire roughly 20,000 
+plus FPV drones. Do we operate in that segment? Or do we have any offering in this segment? 
+Ankit Mehta: 
+Presently, we don't have. And we are, at this point in time, approaching it slightly differently. 
+FPV drones, while are the mainstay of the way the wars are currently being fought from the 
+point of view of what is happening in Ukraine and Russia, but there are several challenges and 
+inefficiencies there. 
+ 
+And from what we understand across world, everyone's looking at slightly more evolved 
+solutions in that direction, which is the area that we are also investigating for our forces. And 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 7 of 18 
+ 
+once we have the right configuration to build, we will definitely progress in the right direction, 
+based on the opportunities that are expected to come there. 
+Hardik Rawat: 
+All right. And now coming to the R&D efforts, and I think Rahul can also touch upon this. We 
+had 2 major drone platforms that you were investing in. So, where do we stand with the 
+development? How close are we to trials and then probably monetization of these platforms? 
+Ankit Mehta: 
+Maybe I'll request Rahul to take this question. And maybe I can talk more about the 
+commercialization part of it. 
+Rahul Singh: 
+Sure. So, these 2 platforms broadly remain on track in terms of the development that we had 
+planned. Both of these are significant project efforts, which we have started from scratch and, 
+hence, not just a revision of any of the existing platforms. And the original plan itself included 
+a reasonably long effort in concluding them. But broadly, we remain on track. 
+ 
+As Ankit highlighted earlier that we have taken the tactical platform to a few rounds of test 
+flights, where flight testing has started and a lot of data generation has happened. And broadly, 
+the test flights remain on track as expected, in terms of the data that is generated. As well as 
+initial demonstration to the end user, to take end user feedback on these platforms at an early 
+stage have also happened. 
+ 
+We would be getting into the next revision of the prototype development, which will get closer 
+to what the user final configuration is going to be. The exact time lines, we will elaborate 
+subsequently, but we should be getting into an advanced prototype stage for that platform 
+sometime in the coming financial year. 
+ 
+For the larger logistics platform, as Ankit highlighted earlier, again, we are on track. It's a much 
+larger, much more capable platform. And unlike the smaller platforms, where we start the 
+prototyping and keep making iterative evolutions, here the design and analysis phase is 
+something, which is heavier and more in-depth work. 
+ 
+And we have broadly concluded the first phase of the design and analysis, and we are now 
+entering the first prototype development phase, which should start flying and giving us data 
+generation over the next quarter. And based on that, we will take it ahead and take it to the 
+following prototype stage along with user involvement at every stage, for more aligned product 
+development. 
+ 
+Ankit, do you want to add something? 
+Ankit Mehta: 
+Yes. So yes, Hardik, absolutely. So broadly, what Rahul said, right, that these are substantial 
+efforts, and we are seeing good results so far as the design and testing phase is concerned. We 
+are sort of tracking the tactical project based on the time lines with our end customers. So 
+because it's a part of some development programs that we have signed up with the end user, so 
+those time lines are being tracked, and we are presently on track on those time lines. 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 8 of 18 
+ 
+ 
+And in terms of the middle-mile logistics platform, I think once we do the concept really at the 
+Aero show this year is when we will actively get into the mode of taking the conversation with 
+end customers forward in this direction. 
+ 
+So we've largely worked on the broad concept. We've come up with an innovative concept that 
+we have protected as well in the form of IP, and now we are going to be revealing it and then 
+taking conversations forward for end user feedback and potentially building to the demand as 
+well. 
+Rahul Singh: 
+Yes. Just to add to that, at least particularly for tactical, the opportunity is linked to not just one 
+but multiple end-user opportunities, which the end user is actively engaged in. And the end user 
+time lines for certain evaluation phases will happen over the next few quarters and should 
+conclude in final, sort of approval of the project within the next 12 months or so. 
+Hardik Rawat: 
+Got it. That's helpful. Any other projects that we are working on as part of our R&D right now? 
+Or these are the 2 major platforms that we're working on? 
+Rahul Singh: 
+So these are the largest system-level platforms that we have highlighted. But apart from that, we 
+have had not just a hardware platform-based approach, but the Drone-as-a-Service                        
+that Ankit had mentioned, that we have been prototyping and piloting for a while and now getting 
+into early commercial stages with that is also a product for us. It is both a business model product 
+as well as a technology      product for us. So that continues to get a lot of our attention, and we 
+see a lot of opportunity there, both domestically and internationally possible over the next few 
+years. 
+ 
+Apart from that, as Ankit mentioned, we are also creating data analytics and data providing 
+platform, which is called the FlyghtCloud, where GIS data could be processed as a marketplace 
+and can be served for various government and public users. That also is a product mindset for 
+us, where hardware is not necessarily the central part of it, but the broad software platform and 
+the ecosystem around that. 
+Hardik Rawat: 
+Got it. 1, 2 last question, if I could squeeze in. Our R&D expense for FY '24 was roughly 18% 
+of the top line at about INR 50 crores, INR 53-odd crores. What are we looking at our R&D 
+expense for the current fiscal for FY '25? 
+Ankit Mehta: 
+Hardik, the percentage, of course, will be determined at the end of the year, but the R&D 
+expenses will go up slightly from last year, for sure. 
+Hardik Rawat: 
+So on an absolute level, there should be an increase from the INR 53-odd crores we had in FY 
+'24, right? 
+Ankit Mehta: 
+Yes, there will be, yes. 
+Hardik Rawat: 
+Got it. And lastly, coming back to the point on order confirmations. Now we are 1 month into 
+the fourth quarter. Could you share any sort of order finalization that you've seen from the large 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 9 of 18 
+ 
+L1 pipeline that we have now, INR 400 crores plus? And could we see any major order 
+confirmation in the balance 2 months that are left for the fiscal? 
+Ankit Mehta: 
+Yes. So from the L1 pipeline, there is at least one that is imminent. We will announce it the 
+moment we have it in our hands very soon. And then apart from that, the run-rate business will 
+continue to happen, and we'll have many closures from that. The large opportunities from Indian 
+MOD, they will get into the bidding stage in this quarter. So, conclusion of those will happen in 
+the first, max, second quarter of the next year. 
+Hardik Rawat: 
+So the contracts that you're bidding for, these will be the new contracts, right? These are in 
+addition to whatever INR 400 crores you have? 
+Ankit Mehta: 
+Yes, yes, yes. 
+Hardik Rawat: 
+And this -- sorry, but this order that you just talked about, that is largely in your hands and should 
+be awarded anytime now. What will be the size of this order or an approximate range? 
+Ankit Mehta: 
+Hardik, it will be tough for me to give a range right now, but we'll announce it very soon. 
+Moderator: 
+We'll take the next question from the line of Dipen Vakil from PhillipCapital. 
+Dipen Vakil: 
+Yes. So my first question is that if we understand correctly, last quarter also we had an order 
+book of close to around INR 20 crores. We have executed this in this quarter of close to around 
+INR 18 crores. And we still have an order book of close to around INR 20 crores. 
+ 
+So, the one thing I want to understand is that what have we executed in this quarter? When did 
+we get that order? And what are the balance orders that are there in our current order book? So 
+that was my first question. 
+Ankit Mehta: 
+Sure. So INR 16.8-odd crores is what was the new order booking that happened in the last 
+quarter, which was about INR 4 crores in the quarter prior to that. So essentially, that saw a little 
+bit of an increase in the last quarter from the run-rate business standpoint. 
+ 
+And the order book we had at the beginning of last quarter was, I think, about INR 20 crores, 
+but the order opening right now is about INR 21 crores. So essentially, we have another INR 21 
+crores of execution that is due, that is, some of it would have happened already, and some of it 
+is going to happen within this or the next quarter mostly. And then there will be new additions 
+to the order book as well. 
+Dipen Vakil: 
+So my question was that, which areas are these orders from? Is it from international business? 
+Is it from domestic business? Is it from the defense business? 
+Ankit Mehta: 
+These are all civil and some defense business from India itself, run-rate business. 
+Dipen Vakil: 
+Okay. Can you explain a little bit on the run-rate business, what it is? And what are we looking 
+at going ahead because at least last couple of quarters and this quarter itself, it is now turning 
+out to be an entire execution. So can you explain a little bit on your run-rate business? 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 10 of 18 
+ 
+Ankit Mehta: 
+Yes. So see, we have 2 broad areas in which we operate with our end customers. One is the area 
+of ISR - intelligence, surveillance and reconnaissance, which includes customers in the civil 
+market, which implies various, you can say, police forces, central armed police forces. That is 
+one vector where we get a lot of opportunities that convert from, and then we get a lot of 
+opportunities converting from some government departments or from private enterprises. Many 
+of them can also be geospatial data creators and providers or service providers. So that's broadly 
+the bucket where we get civil opportunities from at this point in time. 
+ 
+And the run-rate business in the defense again happens at the command and the battalion level, 
+wherever there is an immediate opportunity that needs our support and execution. And 
+sometimes there is the repeat. There is order for spares and batteries and those kinds of things 
+as well. 
+Dipen Vakil: 
+Got it. Sir, now my next question is on our near-term vision. So I completely agree with your 
+long-term vision and the long-term opportunities that lie for ideaForge ahead, but I'm more 
+concerned about the near-term execution challenges, which we are facing currently because of 
+the lack of ordering. So you have mentioned that there are INR 400 crores worth of orders that 
+where you are already in the L1 space, which includes completely from international 
+opportunities. 
+ 
+So now I want to come back to the local side of it as to what kind of opportunities from the 
+defense standpoint? And why are we  still facing challenges when the government has already 
+started rolling out some orders, especially in the drone side of it? Because last week itself, we 
+heard that one of your competitors from Odisha has won an order from the Indian Army. So 
+where do we go about it in defense -- specifically on the defense side of business for India going 
+ahead, say, next quarter, next couple of quarters? 
+Ankit Mehta: 
+So, one of the things that we don't do is that we don't announce every small order or order win. 
+So, that is probably the reason why it appears that other people are getting and we are not. But 
+that's not the case actually. We don't have any evidence that within our categories, there is 
+anything that has gone away. 
+ 
+So -- and there are certain categories where small procurements may be happening, where we 
+are not participating. For example, we don't make an FPV drone right now. So if there is any 
+small procurement happening there, definitely those would be opportunities that are being 
+spoken about. But we don't talk about every win, and that's probably the reason, why you will 
+see that there may be a lot of news. But of course, you've seen that last quarter itself, we won 
+about INR 16-odd crores of new opportunity. So that we keep winning like a lot of opportunities. 
+It is difficult for us to talk about each and every win. 
+Dipen Vakil: 
+So was INR 16-odd crores related to defense orders you are saying? 
+Ankit Mehta: 
+No, no. So, there may be some defense orders within that, but there are many civil orders as 
+well. So, I'm saying that because the number can be quite large for us, given our scale and size 
+and presence, it's very difficult for us to talk about each and every one of them in the market. 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 11 of 18 
+ 
+Dipen Vakil: 
+Sir, got it. So that's what I'm -- my question is that in near term, what are the contracts? Or what 
+are the areas in the defense? Because the INR 400 crores pipeline that you mentioned where we 
+are L1 are largely related to international opportunities. So again, I'm trying to understand is that 
+what kind of opportunities because you have said that Indian demand opportunity is there in the 
+long term. So what areas where the Indian opportunity lies? And when can we expect that turning 
+around? 
+Ankit Mehta: 
+Right. So there are many opportunities, many RFPs where we have bidded, done trials, where 
+we have technically qualified as well. Because they are competitively big, they don't form a part 
+of our L1 pipeline presently, right, because the financials may not have opened, etcetera. So 
+that's why they are outside the L1 pipeline. 
+ 
+So there is a bucket of opportunities, where we would have qualified technically, but they are 
+not yet opened financially from the customer's end. And then there are close to overall, we are 
+tracking close to 300-odd opportunities, right? Of them, about 25-plus, like I said, are from 
+international and rest of them are Indian opportunities that we are tracking. 
+Moderator: 
+The next question is from the line of Ritesh Kochhar from Riverland Capital. 
+Ritesh Kochhar: 
+Ankit, I want to ask you, while chasing your dream of building a technology-focused company, 
+do you believe that or do you think that somehow ideaForge has become more and more inward-
+looking organization and, in that process, completely ignoring the outside world? When I say 
+outside world, it's mainly the customer and the potential customers. Because for me, it is very 
+hard to believe that a growing industry, a nascent industry, some military order or Indian 
+government defense order not coming and the revenue dropping 70%, 80% quarter after quarter. 
+ 
+It just doesn't look right. I mean on your business development team, marketing team, are they 
+not able to find some technical opportunity outside of Indian customers, which are not your 
+routine customers? So I want to ask you, do you think that while you are filing patents and 
+launching innovative things and manufacturing newer drones, see, there is no point if those 
+efforts don't get converted into revenue, right? So I want to ask you this inside versus outside. 
+And what is your marketing and BD team doing? 
+Ankit Mehta: 
+So yes -- so Ritesh, I think... 
+Ritesh Kochhar: 
+Yes, my name is Ritesh, Ritesh Kochhar. 
+Ankit Mehta: 
+Yes, yes. Ritesh, I think from the standpoint of efforts, right, when we review -- and we review 
+this every day. I think one of the most important vectors for us at ideaForge is that we want to 
+build technology for it to be useful, right? 
+ 
+So first of all, I want to dispel that notion, that we are inward looking and we create technology 
+for the sake of creating technology. I think there is no other company in the country that has as 
+many active systems in deployment and duty, as we have. This implies that we don't build 
+technology for the sake of technology, right? 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 12 of 18 
+ 
+ 
+The first response is that because I would be very upset myself, if we are building technology 
+that's not useful. And on-ground feedback that we have from what we have delivered is that -- I 
+don't want to sort of take it to extreme, but we've had comments all the way down to saying that 
+this is one of the best technologies that we have ever received in many parts of the country. 
+ 
+So I don't think that there is any gap in what we believe our customers require and what we 
+build. In fact, all the certifications, etcetera, we are getting them only after the product has been 
+inducted and has been exploited and has been found to be satisfactory in its exploitation as well, 
+right? It's now that we are receiving some of these certifications because of that background and 
+that history. So I would definitely make you feel comfortable that none of what we are doing 
+and building is not relevant to our customer base or not helpful to our end customers. 
+ 
+The business development efforts, like I said, we were at 0 opportunity outside India. So having 
+an L1 pipeline from outside India of more than INR 400 crores, even though conversion has 
+taken more time -- and it is taking time because the dynamics we are realizing and discovering 
+ourselves that even outside India, the dynamics are not that linear, like we have challenges here. 
+ 
+I think the nature of the beast is similar elsewhere as well, is what we are realizing. And 
+therefore, we will gain a lot of momentum once we have a much larger base of opportunities 
+even outside. So that work is on, and we are not leaving any stone unturned from investing 
+behind that opportunity creation. 
+ 
+So, I would definitely say that wherever we have found opportunities, we have some 
+opportunities that are only meant for our type of product or our capability. It's our technology, 
+which is getting a win there. And therefore, I would be definitely telling you that, I don't think 
+that is the challenge. We've been making drones for the last 20 years. And we've been around 
+doing this for our forces, almost for the last, I would say, 14-plus years in terms of selling to our 
+end customers. 
+ 
+So there are vagaries of this business, and we haven't let the initiatives slip in terms of -- I don't 
+see anybody else also getting something dramatically out in this current environment to believe 
+that there is a challenge in terms of how we approach the market. 
+ 
+It is genuinely an issue on the system side, which we are continuously tracking and working 
+towards. And we have seen such phases earlier. It's not like we haven't seen. We've been around 
+for long enough to know these are phases and they go away. And when they go away, it comes 
+back strongly as well. I mean at least that's our experience from our history. 
+Ritesh Kochhar: 
+All right. So I mean it's heartening to know. My second question, Ankit, is if this is the case that 
+the inward/outward, you are managing both things, then I want to ask you why this whole idea 
+of drone has not taken off in our country. What are the problems? 
+ 
+I'm assuming -- the performance of ideaForge, I'm assuming the same performance for the other 
+industry players also in this hypothesis. So, do you think that this is a temporary lull? Or do you 
+think that the Indian government, the defense department or the Indian military, there is a 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 13 of 18 
+ 
+strategic, I mean, thinking to push back on drone usage? Because the first use is going to be the 
+defense, and then it's going to be the civil. 
+Ankit Mehta: 
+No, no. On the contrary, actually, on the ground, the need for the technology, see, there is a big 
+gap between the desire for procurement and plan for procurement also and execution which is 
+the reality of this market. 
+ 
+So I have not yet seen a dip in the number of opportunities we are needing to bid for. So I haven't 
+seen that yet. Now conversion is where the challenge is, because the demand is there and 
+customer is opening demand in many segments. Some of those segments, we don't participate 
+in. But that's the phase we are in right now, where the customer is also trying to make sure that 
+they can use this technology in each and every vector that they can drive towards. 
+ 
+Now, there are many industry nuances that will have to be understood deeply to sort of 
+understand how exactly does this whole thing work, right? For example, if something goes into 
+the M     ake programs, then immediate RFPs don't come out because they're expecting that 
+technology was not there in the country, it's going to be developed, which is a part of what we're 
+doing in the tactical opportunity, and then that developed opportunity or that developed 
+capability will be inducted through subsequent orders, etcetera. 
+ 
+So there are nuances on that side. So you will see that in the phase of development, those 
+opportunities will fructify in terms of RFP later. In terms of existing categories, where the user 
+has demand, there are many variables like, when have they last inducted the technology? And 
+have they exploited, have they gained experience for them too, again, order more of the same or 
+a minor modification from the same? 
+ 
+So, there are many nuances like that, which also have to be accounted for on the ground, which 
+is what we work towards and grapple with, right? And the priorities also from a geopolitical 
+situation sometimes evolve. So those also have to be taken into account. 
+ 
+So, it's very difficult for us right now when we assess it to say that we are missing a beat here or 
+there or the market opportunity has seen a lull. In fact, it's only growing. It's just that the civil 
+business is at a very small base, and each opportunity is not as large as it will be on the defense 
+side. And if there is any lull on the defense side, it will impact the industry heavily in the short 
+term. So the overall market becomes large. So even on the civil side, the business has grown 
+only it's not come down. 
+Ritesh Kochhar: 
+Okay. Wonderful. And lastly, I want to ask you. I met one of your competitors. It's not a listed 
+company. And I got to know that there are some 18, 20 now drone manufacturers which are 
+there. So, basically, can you tell me, is it the competitive landscape over the last 2 years in which 
+there has been no orders or a little bit of procurement from the Indian government? 
+ 
+Has the competition landscape changed meaningfully and you believe that whenever this 
+opportunity comes, then earlier -- say, for example, do we have like -- you were getting 2 or 3 
+in L1 bidding, and now it's going to be like 10, 12. Is it going to be like that scenario now? Can 
+you confirm or deny this? 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 14 of 18 
+ 
+Ankit Mehta: 
+See, our experience on the ground has been that we have in -- even as recently as probably a 
+quarter or 2 quarters prior to this moment, we haven't seen in specific opportunities more than 
+two players qualify in one opportunity, right? It's not like that there is competition, but the 
+credibility of the competition also is something that, see, there will be many players who will 
+attempt, right? But getting there to the finish line is a hard problem. It's not an easy problem 
+because the environments our users are operating in are hard environment, like they're difficult. 
+ 
+So yes, if you say that are we the only ones? No, I mean that is a known fact. But, are there too 
+many of them who can build to the same performance grade or quality? I would still say the 
+evidence is not of that nature on ground. 
+ 
+And the reason why competition is good and competition helps because it's what leads us to 
+build better capabilities for our end users, right? So end users are buying capabilities they believe 
+that they can exploit today. But when they actually deploy technology, they also realize that they 
+need more than what they've just expected because it's like buying any other gadget, right? If 
+you buy it and then you realize, okay, maybe two more features would be helpful. 
+ 
+So, that development effort and that technology effort goes hand in hand. So, anybody who does 
+not have that deep technical capability, it will be a very tough challenge for them to keep up 
+with this cycle. It's a very hard cycle to keep up with, and we have to invest, like I haven't found 
+a scenario where we cannot invest behind building new capabilities and continue to be 
+comfortable. 
+ 
+I mean the whole world, if you know, technologically has moved on and is constantly evolving 
+at a very rapid pace. So that control is going to be very important to drive the next generation of 
+systems that the forces will really need to use. 
+Moderator: 
+The next question is from the line of Mithun Aswath from Kivah Advisors. 
+Mithun Aswath: 
+Obviously, the last couple of quarters have been a little bit tough in terms of the revenues and 
+order booking. I just want to take you back maybe post the listing and the kind of opportunity 
+size that you see in India and globally. I think you are also trying to capture some portion of the 
+US market as well on the homeland security side. 
+ 
+So I just want to understand in terms of the big picture, what is the kind of size of opportunities 
+that present themselves? And, what are you doing potentially to make the business a little bit 
+more secular so that you have some big sort of revenue and are not so dependent on these kind 
+of order wins, which are inconsistent? 
+ 
+So I just want your thoughts because I think at that point, there was an expectation or, I don't 
+know, some sort of guidance that you could get to INR 500 crores or INR 1,000 crores revenue 
+sort of a business. And I'm sure your aspirations would be towards that. If you could articulate 
+that, I think that would help? 
+Ankit Mehta: 
+So thanks for the question, Mithun. So I think in terms of opportunity -- so let me answer the 
+diversification question first, right? I mean it was one of the clearly articulated strategies for us 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 15 of 18 
+ 
+that we will have to go to the international markets, and we plan to go to the international markets 
+to pitch our product. 
+ 
+Of that, like I mentioned earlier as well, we've started doing that, and we have started to see 
+some results, in terms of opportunities, and some of them will convert very soon. So there is that 
+from a diversification standpoint, from a geography perspective. 
+ 
+From a use case point of view, I did mention that we are continuously unlocking more and more 
+use cases of our technology. So we build very good hardware platform. And that platform needs 
+many sensors, and it needs a lot of analytics to deliver end outcomes to the end customer. So we 
+have partnered with many third parties to try and build more payloads that can serve different 
+kinds of use cases for the end customer. 
+ 
+And then we have also partnered with analytics providers. We are building a platform that can 
+allow many analytics providers to help us serve our customers who can deploy the technology 
+for their users like, for example, power line inspections; for example, users in mining, users in 
+hydrology projects, etcetera, etcetera. 
+ 
+There are a large number of use cases on the enterprise side. So we are constantly unlocking it 
+by creating new payloads along with our partners and ourselves as well. And we are unlocking 
+it by solving for the customer's problem, which is the end outcome that the customer wants. And 
+that each, field by field, it keeps getting unlocked and becomes a little bit better. So that is one 
+part of how the opportunity base is expanding as well as how we are geographically expanding 
+and doing that work. 
+ 
+And then, of course, we are also experimenting with a new way of going to the market, which is 
+Drone-as-a-Service. And the idea is to scale that with your franchisee-operated-and-owned 
+model. So that model, again, is something that we have started to put into the works. So far as 
+Drone-as-Service is concerned for enterprise safety and security, we are doing paid efforts for a 
+few customers, and we are increasingly finding that it is a very effective solution. So I would 
+say that that's one technology and one use case where it's actually working out very, very well 
+for our customers. 
+ 
+So again, those kinds of inflection points are getting arrived at, where the technology use case 
+and the scale of the opportunity are coming together, where we can be more aggressive about 
+taking it to the market and creating a larger customer base from. 
+ 
+So those are the areas, where efforts are going on at this point in time. And because it's been 
+only a few quarters, some of these strategies, given some of the fundamental challenges of how 
+exports, for example, from India take time, or we have to take many Type Certifications and 
+certifications in India, before we can commercialize a lot of technologies. So, it takes a little bit 
+longer than usual to get out of the gate in some of these things. For example, in the international      
+market, every time I open a new market, it takes us 3 months to take a license that allows us to 
+take the product into a demonstration there. 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 16 of 18 
+ 
+ 
+So there are many hurdles that we have to cross. And these are all tactical hurdles, but we have 
+created an engine that solves for it, but we have to wait for that time line in any case, irrespective 
+of what we are trying to do. So there are certain delays of that nature, which are very tactical, 
+but we are seeing that despite all of that, motions are in the right direction, and there are 
+opportunities that we can serve and service in some form of fashion. 
+Mithun Aswath: 
+Right. I'm just trying to understand on the longer picture, in terms of the size of opportunity, 
+both locally and globally. I'm just trying to understand from your own road map, you've 
+obviously been disappointed since the listing in terms of how the revenues have manifested 
+themselves. So I just wanted to understand what is your confidence level of how FY '26 or '27 
+is going to pan out? 
+Ankit Mehta: 
+See, in terms of some of these opportunities going into the motions, we do expect that 
+conversions will happen over the next few quarters. However, in terms of confidence over the 
+next few quarters, I would say, for example, in the US, there is a tectonic shift in terms of moving 
+away from the large dependency that they had on the Chinese ecosystem. And that's a very large 
+market opportunity, which is where we launched our Q6 V3 platform as well. And we are going 
+to continue to track where are those right price-to-performance products, where we can play a 
+large role in addressing that demand over there. 
+ 
+So there is a lot of conversation, a lot of excitement and a lot of traction in that direction as well. 
+So we are also exploring all vectors we can to gain more traction in that geography. And once 
+some conversions happen, I think a lot of conversions will happen because we've started to get 
+traction there. And that's what we are gunning for, and we'll have some conversions soon. 
+Mithun Aswath: 
+Sure, sure. But any kind of your own assessment in terms of could you get back to FY '24 sort 
+of revenues in FY '26? Or is it going to be a little bit more slow journey of recovery? 
+Ankit Mehta: 
+I think it will happen fast, definitely. I think when the conversions happen, it will happen very 
+fast. We just have to wait for those conversions to happen before we make a projection fully. So 
+that's the place we are at right now. 
+Mithun Aswath: 
+Okay. Let me put it this way. In FY '24, you would have had maybe INR 200 crores of visibility. 
+You have now INR 600 crores of visibility, something like that, if we could kind of understand 
+that opportunity set that it is manifoldly larger than what it was. 
+Ankit Mehta: 
+Definitely, definitely. I think the opportunity has grown in terms of how many opportunities are 
+clear to us that will get bidded once they become available for bidding. So the challenge, if at 
+all, is when they become available for bidding more than anything else. 
+Mithun Aswath: 
+And just lastly, some conversations I was having with other people in the defense space were 
+mentioning that the government is very keen on implementing drone technology, and then 
+ideaForge is one of the key companies that the government looks to, in terms of while making 
+the policy. I just wanted to understand how closely you work with the government on this. 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 17 of 18 
+ 
+Ankit Mehta: 
+Absolutely. I think we are quite plugged in because, first of all, I think the depth that we have in 
+terms of understanding this technology and what's possible in the short term and what's possible 
+in the medium to long term is definitely very high, and we've always been involved in various 
+policy initiatives. 
+ 
+I'm also the Co-Chair of the FICCI Committee on Drones. So we are consulted as a committee 
+as well, and I am directly involved in many conversations on that side. In fact, in a way, we 
+motivated the PLI a few years back for the first time. So yes, I mean, we are quite involved as a 
+group. 
+Mithun Aswath: 
+Right. And do you think this -- is it because of lack of funds or lack of implementation in some 
+of these state governments? I think I was hearing Maharashtra is also a large opportunity. So I 
+just wanted to understand, do you think maybe post the budget, a lot of decision-making will 
+come to fruition? 
+Ankit Mehta: 
+Yes, states and all -- I mean, see, there are opportunities I know that the teams are working on. 
+However, there are some states who are looking at statewide deployments, and there are some 
+who aren't. But I would say that if there were only two states earlier looking at state-level 
+deployments of this technology, then I would say now there are maybe five states who are doing. 
+But conversion cycles being government and being in the state, they remain of a similar nature, 
+if the opportunity size is large. 
+Moderator: 
+The next question is from the line of Jayesh Parekh from JMP Capital. 
+Jayesh Parekh: 
+Ankit, my question is slightly different than I would request you to please take it in a very right 
+spirit. We came for IPO in July 2023. INR 240 crores came to the company, and about INR 327 
+crores has gone to offer for sale to those shareholders. 
+ 
+At that point in time, various electronic media interactions took place with the management and 
+promoter. And from then onwards, if you see the third quarter, June 2024, there is a small profit 
+of INR2 crores. So my -- and then a INR12 crores loss and then INR20 crores loss. 
+ 
+So my humble request to you is that, even management team could not predict the third quarter 
+at the time of IPO or offer for sale. So how do we believe -- in spite of giving due respect to all 
+your technological working, all your efforts, in spite of everything, how do we believe what you 
+are telling us now? 
+Ankit Mehta: 
+So only -- Jayesh bhai, the only thing I can add to what I've said so far is that -- and I've said that 
+earlier as well that we've seen such cycles. When we deal with several government customers, 
+things do become a bit unpredictable from the point of view of predicting when the things will 
+close or when they will start. However, I think it's my experience that once the government has 
+decided that they want to do something, it does happen sooner or later, and we end up getting 
+benefit of that. 
+ 
+Now, the main challenge that we face is that can we say that it will happen in this specific time 
+line? Those are some of the gaps that are not easy to address, but we are trying our level best to 
+
+ 
+ideaForge Technology Limited 
+ 
+ 
+January 29, 2025 
+ 
+Page 18 of 18 
+ 
+become better at it, and we are constantly trying to improve as much as we can in terms of what 
+we can do in that direction. But definitely, they are looking to induct the technology, and I 
+haven't seen that intent gap so far. 
+Jayesh Parekh: 
+Ankit bhai, you are collecting INR 600 crores plus from the public, and in the third quarter, you 
+are giving a profit of INR 2 crores. You are not able to predict the third quarter, fourth quarter, 
+where there is a loss of INR 12 crores, no, I think it's an issue of corporate governance. Because 
+if you see -- if you replay all your electronic media interviews, you never gave an indication that 
+third quarter onwards, even management can't predict the third quarter. 
+ 
+I'm sorry, but I'm not able to digest this. I thought the third quarter, this is the one-off, but then 
+fourth quarter, INR12 crores, then fifth quarter, INR20 crores. So I don't know what's happening, 
+Mr. Ankit bhai? Thank you. 
+Moderator: 
+Ladies and gentlemen, in the interest of time, this would be our last question, and I would like 
+to hand the conference over to Mr. Ankit Mehta for closing comments. Over to you, sir. 
+Ankit Mehta: 
+Thank you. So, I think just to sort of briefly address the last question, I think it is very important 
+to note that the orders that we may have in hand, may predict a certain outcome. And then we 
+are always looking at closing more things in the interim. And if there is a slippage in that closing 
+is why the variations will happen in terms of what the outcomes are. And that's one of the reasons 
+why we don't specifically give a concrete guidance because of knowing the industry challenges 
+and the environment that we operate in. 
+ 
+And therefore, I would definitely sort of suggest that as long as we are continuing to govern the 
+method that we know works for our business, I would request that we take that into account 
+when thinking about this. 
+ 
+Once again, I would like to thank all of you to keep faith in ideaForge and for your continued 
+support. We have been working with drones, like I said, for the last two decades now and are 
+very confident in the potential of the technology and the disproportionate change that it is able 
+to bring to the sectors that we touch. The current headwinds are temporary, and the whole drone 
+industry will soar to new heights very soon. We hope to make that journey together with all of 
+you. Thank you. 
+Moderator: 
+Thank you, members of the management. On behalf of ideaForge Technology Limited, that 
+concludes this conference. We thank you for joining us, and you may now disconnect your lines. 
+Thank you. 

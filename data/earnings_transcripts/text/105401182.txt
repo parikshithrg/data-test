@@ -1,0 +1,1456 @@
+Sona Comstar – Adding a New Pillar of Growth 
+Page 1 of 33 
+SONA BLW Precision Forgings Ltd. (Sona Comstar) 
+Adding a New Pillar of Growth – Call Transcript 
+January 09, 2023 
+The webcast recording and the presentation referred to in this transcript are available on the website of the 
+Company and can be accessed through the following link:  
+https://sonacomstar.com/investor/investor-presentations 
+Moderator: 
+Ladies and gentlemen, good day, and welcome to Sona Comstar's 
+Conference Call. At this moment, all participants are in the listen-only mode. 
+A question-and-answer session will be conducted after the presentation 
+concludes. At that time, you may click on the video question button below 
+the media player to ask your questions. Please note that this conference is 
+being recorded. Some of the statements made by the management team 
+in today's conference call may be forward-looking in nature, and we request 
+you to refer to the disclaimer in the earnings presentation for further details. 
+The management will not be taking any specific customer-related questions 
+or confirm or deny any customer names or relationships due to confidentiality 
+reasons. Please refrain from naming any customers in your questions. 
+I now hand the call over to Mr. Vivek Vikram Singh for his opening remarks 
+and the presentation. Thank you, and over to you, sir. 
+Slide 3: 
+Vivek Vikram Singh: 
+Thank you, Aman, and I hope everyone had a great New Year. On behalf of 
+Sona Comstar, I'd like to welcome all of you to the addition of a third pillar in 
+our growth story, one of sensors and software. Now, as the automotive world 
+moves into the future, it is becoming what we call EPIC. In the last couple of 
+years, all of you must have read or at least heard extensively about chips. 
+Well, another term for chips is integrated circuits or IC. That is the same IC in 
+NOVELIC. It is the same IC, which is in another form in our view of the future 
+of mobility. 
+So we've coined this term EPIC to capture all the four big ships, which are 
+electrification of the powertrain, personalization of the vehicle to match and 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 2 of 33 
+ 
+ 
+suit driver preferences, the increasing intelligence of vehicles in the systems 
+inside them. And lastly, the connectedness that makes all of this possible. So 
+in the EPIC, IC also stands for intelligent and connected, and that is the IC in 
+NOVELIC that it is novel, it is intelligent, it is connected. 
+In this, I'd say, brave new world that is coming, sensors and software will play 
+an oversized role in the automotive. This realization has been there with us for 
+a long while, but it really hit home when we were making our IMCM module, 
+the Integrated Motor Controller Modules for the intelligent suspension. And 
+we realize this is that just a single module in a vehicle requires 2 million lines of 
+code, which is about 5x the software that goes into an average space 
+shuttle.  
+And that's not a very surprising thing. An average modern car has around 100 
+million lines of code, whereas the more advanced ones can go up to 200 
+million, and a fully autonomous vehicle will have more than 500 million lines 
+of code. With this context in mind, we have embarked upon the next phase 
+in our long-term strategy.  
+Slide 4: 
+Once again, we have been listed for almost 18 months, and I want to 
+reiterate our purpose as a company. Why we exist as a company is to be one 
+of the world's most respected and valuable auto technology companies. This 
+is important to keep in mind with why we do the things we do. There is a 
+purpose. We are a company that's led by a purpose, and that is why it's 
+important to keep in mind when you look at any decision that we take.  
+Our automotive industry, as all of you already know, has a technology 
+megatrend called electrification. And we expect that by 2035, EV 
+penetration would be over 80% at least. On that trend, we acted early. We 
+started our journey on electrification in 2016. And that has allowed us to take 
+a leadership position in the global driveline space as well as the Indian motor 
+space. 
+Now today, a new technology is emerging, which is one of increasing 
+autonomy and intelligence of vehicles and systems within these vehicles. And 
+in the same Sona Comstar spirit of moving not where the wall is today, but 
+where the wall will be in the future. We are taking a meaningful step in the 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 3 of 33 
+ 
+ 
+direction of electrified autonomous vehicles or E-AV with the NOVELIC 
+acquisition.  
+Slide 5:  
+Now building an autonomous vehicle, in simple terms, is a matter of replacing 
+with machinery, the three things that humans need to drive – the hands and 
+feet that operate the controls, the senses that perceive their surroundings 
+and the brain that turns the data into decisions. Now the first bit is mostly 
+mechanical and electrical. 
+The second one, the one of perception, is achieved through sensors, whether 
+they be cameras, LiDAR or radar sensors. And the third, the intelligence to 
+turn this input data into decisions, is software. Software plus and iteratively 
+learning general intelligence or, in simpler terms, AI. This is what is driving 
+autonomous.  
+What this does and what NOVELIC helps us is in adding the second and third 
+set of capabilities of semiconductor chip design of radar sensors, software 
+and ML/AI tools to add to what we already have in mechanical, electrical 
+and electronic abilities. This would help us to start building the third business 
+vertical of sensors and software.  
+Slide 6: 
+Now why NOVELIC specifically? So we have five compelling reasons for this.  
+One, extremely, extremely few companies share our DNA of being high 
+technology, high growth and very high profit. I mean, their 27% net profit 
+margin is rare. And when we saw that NOVELIC has achieved all three of 
+these without any external funding ever, metaphorically speaking, at least it 
+was love at first sight. 
+Second, we've done a lot of research in the last six months to validate the 
+hypothesis that radar sensors are the best technology to solve the in-cabin 
+sensing problem. We'll speak more about this and why best, as I've said 
+repeatedly, best is not just high performance. It is high performance and low 
+cost and, importantly, with a zero invasion of passenger privacy.  
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 4 of 33 
+ 
+ 
+Third, which is very very important to us and very close to our hearts. And it is 
+also a fact that most M&As fail mostly due to cultural integration issues. With 
+NOVELIC, although, if you can see them on your screen, you will later, they 
+may not look like us totally. But culturally, we are very very similar with shared 
+middle-class values of integrity and frugality and respect for money. They are 
+also committed to vitality and agility in innovation and engineering 
+excellence.  
+Fourth, and this one is a slightly technical one that, this is one of the rare 
+vertically integrated companies in this field with capabilities spanning the 
+entire gamut from chip and sensor design to signal processing software; very 
+rare to have the whole capability set at one place. 
+And last but not the least part of it. So we expect this deal to be EPS accretive 
+from the first year itself while providing us the opportunity to grow this into 
+another $100 million vertical in the next six to seven years.  
+Now we'll talk about each of these details in the next few slides.  
+Slide 7: 
+So first, the market. Because of increasing autonomy and intelligence in 
+vehicles and vehicular systems, more-and-more perception is required. This 
+perception is achieved through sensors, as you can see on your screen, 
+whether they be camera, LiDAR or radar. And according to McKinsey, 
+increasing adoption of ADAS and autonomous or semi-autonomous driving 
+will propel this ADAS sensor market to $43 billion by 2030, which is a 3x jump in 
+the next seven to eight years. Now today, most ADAS applications are sold 
+by single sensor solutions. 
+However, as autonomy advances, this can only be achieved through a 
+multisensory approach and sensor fusion, which means a combination of 
+camera, radar or LiDAR and the ability to integrate it. Today, there are very 
+few companies globally that have innovative single-sensor solutions, let alone 
+having multi-sensor. So no one company actually today is working on all three 
+types. NOVELIC is very proficient in radar technologies and can offer sensor 
+fusion algorithms to its customers. 
+Slide 8: 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 5 of 33 
+ 
+ 
+In addition to its technology prowess, NOVELIC is unique in its approach to 
+high profitability and sustainable growth. It has been profitable every single 
+year since its inception. It has grown revenues at a phenomenal 53% CAGR 
+over the last 10 years. And all of this without ever raising any external equity 
+capital. So there is a lot I admire in these three gentlemen that I may not have 
+told them personally, but I'm telling that publicly that the journey they have 
+taken is inspirational to us in many ways. 
+And this is so much like Sona in how we value money, technology and growth 
+that - I mean, this is only our second acquisition in eight years. So it goes that 
+we look very hard and we are very selective. But when we do find someone, 
+it is someone very aligned with us. So together with NOVELIC, we are going 
+to be one of the very few companies in the world to have a large and 
+growing revenue share from the twin automotive megatrends of 
+electrification and autonomy while achieving and maintaining a high growth 
+and remarkable financial performance in terms of profit and return on 
+capital. Now I'll hand over to our Group CTO, Mr. Deshmukh, to talk more 
+about the technology and its application. Mr. Deshmukh, sir. 
+Slide: 9 
+Kiran Deshmukh: 
+Thank you, Vivek. Good evening, ladies and gentlemen. Radar will play a 
+significant role in ADAS world. Radars can detect distance and speed of the 
+vehicles on the road, obstacles in the car's path, the position of the car 
+relating to the road and other vehicles and the car's blind spots. Mainly ADAS 
+functionality, such as adaptive cruise control, automatic emergency braking, 
+lane-keeping assistance and autonomous driving, cannot be performed 
+cost-effectively without ADAS. 
+Another critical application of radar technology is in-cabin sensing. Children 
+and pets left behind in locked cars have resulted in thousands of deaths 
+worldwide due to heat stroke. In new car models, government regulations 
+and car Safety Assessment guidelines mandate Child Presence Detection or 
+what is called CPD. Euro NCAP 2023 requires CPD for a 5-star rating. Major 
+OEMs have joined hands and have announced that they will provide CPD on 
+their own in the cars. 
+NOVELIC's radar technology detects life presence, child presence and seat 
+occupancy through vital signs such as heart rate and respiration sensors. The 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 6 of 33 
+ 
+ 
+technology works under any lighting conditions, including behind the car 
+seats and even in the car seat-well. Moreover, as Vivek mentioned, the 
+sensing happens anonymously, so there can be no previous concerns like 
+those in sensing by cameras. 
+In short, NOVELIC's mmWave radar technology is the best solution for in-cabin 
+sensing. The in-car sensing that NOVELIC's technology makes possible can 
+also be used for other applications such as optimized deployment of airbags 
+and other safety systems, driver monitoring through the science of drowsy or 
+distractive drive or gesture control infotainment and human-machine 
+interface. Let's look at this technology through a video. 
+Slide 10: 
+[Video Plays] 
+[Video Stops] 
+Slide 11: 
+We have seen a glimpse of NOVELIC's technology. Next, we introduce you 
+to the three founders of NOVELIC who are behind this innovation. Darko, who 
+is the CEO; Veljko, who is the CTO; and Veselin, who is the Chief Sales Officer. 
+With that, I hand over to Veljko to talk about their innovation and their 
+capabilities. Over to you, Veljko.  
+Veljko Mihajlovic: 
+Thank you, Mr. Deshmukh, and hello, everyone. This is a very exciting moment 
+for us and the whole NOVELIC team, and we are happy to be here today. 
+Well, I think Vivek and Mr. Deshmukh have given quite good top overview of 
+our technology. And I'm actually happy to see how quickly Sona team 
+understood NOVELIC's story. I hope also that the video was helpful to 
+everyone else joined today to get better understanding. 
+So I'm not going to talk about technology purely, but also about our story 
+from our perspective a bit. Veselin, Darko and I, we have been working 
+together for the last almost 16 years. And for the last 10 years, we put all our 
+working energy and our time in a company we founded together with our 
+amazing team. We are engineers by background, specialized in mmWave 
+systems, algorithms and systems on chip. And NOVELIC was founded with 
+clear mission to develop end-to-end capabilities in mmWave radar sensors 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 7 of 33 
+ 
+ 
+and also to commercialize it through various product lines in different 
+industries, wherever possible, with major focus on automotive. 
+We built our know-how step-by-step, experiment-by-experiment, project-by-
+project. Our speciality is short-range radar and applications requiring 
+miniature hardware and smartly engineered embedded software, such as in-
+cabin radar, parking radar, collision avoidance, side or rear radars, guiding 
+and docking radars, etc. Those examples you could have seen in the video. 
+We started as a team of 5, and today we are over 160 people with 130 
+engineers, 10 of which are PhDs, who are developing product platforms in 
+several European developing centres. Like Vivek mentioned, although we 
+have been working with a capital-intensive technology, we have managed 
+to develop that technology in an organic way. We engaged from day one 
+with customers. We provided them short-term value while also trying to 
+identify long-term road maps and how our radar technology can fit in those 
+road maps in three, four, five years. On that journey, we generated revenue 
+and profits with continuous growth year-on-year and used that profits to 
+reinvest. 
+And now, for moving to the next phase of our growth, we wanted to have a 
+strategic partner, a strategic partner in a real sense of that mean. The partner 
+with the same commitment to innovation and technology like we are. The 
+partner who supports us in scaling up our business and who gives us the 
+freedom to innovate further. And to be fair, when we met Sona Comstar 
+team, we knew that this was the one. Because we immediately felt great 
+alignment on the core values, and those are the main ingredient of an 
+organization.  
+Together with Sona Comstar, with access to their customer base and 
+marketing support, we believe that we can grow NOVELIC exponentially and 
+become a significant player in the global market of autonomous mobility and 
+automation in a broader sense. 
+Slide 12: 
+And now, on the next slide, let me briefly explain the new ecosystem being 
+built in automotive world and NOVELIC's capabilities across the value chain. 
+First, the value chain itself is changing and transforming. It's transforming from 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 8 of 33 
+ 
+ 
+traditional hierarchy of tiers to hierarchy combined with the need for much 
+more collaboration and orientation to domains of competencies. And that 
+happens in both megatrends of automotive industry in electrification and 
+also in autonomous driving. We are preparing NOVELIC for that shift. Basically, 
+what our -- now big brother Sona Comstar did in the electrification domain, 
+we are going to do in the autonomous driving domain. In our case, this means 
+that we would keep integrating and improving all subsystems of other sensors 
+we develop. Here, we speak about electronic boards, antennas, mechanics 
+embedded software, application software or machine learning. 
+On our supply chain, due to our modular and chip-agnostic system, we can 
+partner with all leading chip suppliers. So actually, we want to combine 
+modularity of independent subsystems with vertical integration. And we 
+believe that this approach, in combination with changed value chain 
+ecosystem, will give us potential to deliver to and collaborate with basically 
+all tiers, with OEMs, with Tier 1s, with Tier 2s, with autonomous driving 
+integrators, with anyone. Depending on the context and customers' 
+demand, we can supply what they need, that can be hardware, software or 
+the fully integrated autonomous driving subsystem. This will give us resilience, 
+and we consider it one of our biggest strengths in the times that are coming 
+for autonomous industry. 
+I'll now hand over to Rohit to tell you more about the transaction. Thank you. 
+Slide 13: 
+Rohit Nanda: 
+Thank you, Veljko. Good evening, ladies and gentlemen. Let me now walk 
+you through the structure and the key financial parameters of the 
+transaction. We have structured the transaction in a way that it's a win-win 
+for the shareholders of both Sona as well as NOVELIC. Sona will be buying 54% 
+equity in the company for EUR 40.5 million through a combination of primary 
+and secondary routes. This will mean that NOVELIC founders will continue to 
+contribute and participate in its growth story in a meaningful way. 
+At the mentioned consideration, NOVELIC is valued at a pre-money EV of EUR 
+64.5 million and post-money valuation of EUR 75 million. It puts the implied 
+valuation at 26 times the estimated PAT for the calendar year 2022, which 
+also happens to be the financial year for NOVELIC. Purchase consideration 
+will be discharged in three instalments, with 60% to be paid out at the 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 9 of 33 
+ 
+ 
+transaction closing and the balance 40% in two equal instalments, each at 
+the end of 12 and 24 months from the date of closing. The transaction will be 
+funded primarily from Sona's existing resources, and we expect it to be closed 
+by the end of March. We expect the transaction to be EPS accretive for Sona 
+from the first year itself. 
+This brings us to the end of our presentation, and I'll now hand the 
+proceedings back to the Chorus team for Q&A. Thank you.  
+Moderator:  
+Thank you very much. We will now begin the question and answer session.  
+Anyone who has a question may click on the video question button below 
+the media player to ask your question. When your name is announced, you 
+will receive a pop-up on your screen, choose the option ‘join as panelist’, 
+accept the prompt, unmute your audio video and proceed with your 
+question. Ladies and gentlemen, we will wait for a minute while the question 
+queue assembles. 
+While we wait for the queue to assemble, we have our first text question that 
+is received from Chirag Jain from Catamaran. 
+ 
+So the question is, basis the press release and the presentation, it seems 
+NOVELIC's key solution is in In-cabin sensing. Is NOVELIC solution also being 
+built for the core autonomous driving? If yes, what is the content per vehicle 
+today? And what can it increase to? 
+Vivek Vikram Singh: 
+So I kind of expected this because this is a -- NOVELIC team, apologies. But 
+this is one of the key questions that you get in India as a listed company. 
+content per vehicle is somehow term that is used. So, Chirag, it is more about 
+the capability that is there. The applications are immense. I will request Veljko 
+to talk a little bit about the applications, because -- and I think that's what 
+Veljko tried to form for you, the pyramid that it's changing so much that who 
+provides what kind of content in a system and what is the shape of that final 
+system is very different. 
+I think that question of content per vehicle is very rooted to the world that we 
+showed, the Tier 1, Tier 2, OEM world. Here, NOVELIC has the ability and 
+already does provide service to all four levels. So, their customer could be a 
+chip designer itself. It could be a global Tier 1. It could be the OEM, and it 
+could be could become mobility solution providers people like Waymo, Uber, 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 10 of 33 
+ 
+ 
+who are providing you the final autonomous solution. All four of them are 
+currently, all four of these categories are already customers and will continue 
+to be. However, the framework that one uses to ask a question will be 
+different in this world. But Veljko, you can talk more about what other solutions 
+this capability set can be used for. But for everybody on the call, it is this, it is 
+radar sensing. And then processing that sense or that perception when it 
+comes back, processing that for meaningful decisions. That's the capability 
+in very simple terms. But Veljko, please. 
+Veljko Mihajlovic: 
+Okay. So when we speak about in-cabin solution, we speak about a 
+completely new application in the automotive. So this road map was defined 
+pretty recently. We were working on that since the beginning, since our 
+inception, we knew that this application will be on the road of new vehicles. 
+And we build the technology for that. So the road maps, like we could have 
+seen on one of our previous slides, are starting the production of that sensor 
+that is mandated by regulatory bodies from 2024, 2025 onward. And all OEMs 
+will have to be ready for that solution.  
+Radar is actually has proven over the years of competition on the 
+technological level and stories among, let’s say, regulatory bodies, etc., as 
+the most suitable choice here. So the best product market fit. And we, as the 
+company, are now ahead of the market regarding the maturity of the 
+solution that we are preparing and regarding the -- also its cost side, which is 
+not neglectable while partnering with our chip suppliers. So we at the tiny 
+software to resolve several critical applications. So when we speak about 
+regarding the content, we speak about applications which are mandatory, 
+which we will have to provide, actually which OEMs will need to have as the 
+functions for 5-star safety. This is the child presence detection. 
+But we also speak here about add-on functions that we build by smartly 
+engineering the software, which are the seat occupancy detection, so 
+detecting the occupied seat and therefore replacing the current 
+technology, which is existing there, which is actually basically the cables and 
+sensors put in the seat. So by using radar, we can get rid of those existing 
+sensors and basically get the new product at a very little cost.  
+And also in addition to seat occupancy, we speak about intrusion and 
+proximity alert; when basically in one sensor, we will also have the alarm 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 11 of 33 
+ 
+ 
+function completely integrated in serial production. So that this is for the 
+generation one of the products. So, child presence detection, seat 
+occupancy and intrusion alert. Of course, and these are the feature on road 
+maps of all OEMs. Of course, we are not sitting still knowing already what can 
+happen in the generation two, and the work has been done also on more 
+advanced features. 
+Vivek Vikram Singh: 
+Now, to add to what Veljko said and to give an analogy that I think maybe 
+everyone is familiar with, to say content per vehicle in a software-driven world 
+is trying to, let’s say, how much does SAP cost or how much does Microsoft 
+cost per machine. It's a very hard question. It depends on the optionality and 
+modularity that you choose. If you choose just one function, Veljko told you 
+about three, it could be one, it could be done in -- how many features do 
+you want to add, depends on each provider, and it will be a choice between 
+the OEM and between the Tier 1 and the chip designer.  
+Similar thing, if you had asked us in 2017, that what is the content per vehicle 
+of a driveline and electric vehicle, we won't be able to answer you. We are 
+trying to do things which are at the cutting edge of what is available in the 
+world today. To be the best, you have to be that person because -- if we 
+that's a classic innovator's dilemma thing, to ask, how much is the 
+addressable market and you think about what was asked to IBM in 1980, that 
+how many computers do you think you can sell to our industry, go to and ask 
+to Mr. Jelenic and Daimler, when the car industry started, that how many cars 
+do you think you can sell? 
+The question, I don't think it's the right question at this moment. The track 
+record is there. The growth record is there. Like we said, we are going to grow 
+very strongly and profitably. I don't think these subtilities of model making 
+devices, like content per vehicle, need to fit in. And trust me, within 10 years, 
+you'll realize that, that's not the question anymore. I think another request 
+because he said about general autonomy, I think how radar perception can 
+be used for enabling autonomous vehicle in its mobility function that I think 
+you should also address. 
+Veljko Mihajlovic: 
+Yes. So when we speak about autonomous driving, so basically, we have two 
+worlds. One is inside of the cabin, and one is the outside. Basically, the most 
+of the attention is focused on the outside now. Our solution was focused on 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 12 of 33 
+ 
+ 
+inside of the cabin. So detecting what happens inside, I mean, one of our 
+product lines. However, we do develop the other product lines, which are 
+also based on the same radar technology, which resolved the exterior 
+functions. Some of them are also already mandatory, some of them on the 
+road maps, every of them basically on the big road map of having fully 
+autonomous vehicles. 
+And radar is the inevitable sensor that must be used if we want to have to 
+achieve full autonomous driving. In the exterior world, we are focused on 
+what we call short-range detection, so let’s say vicinity of the vehicles. So 
+around the vehicle to allow what we call low-speed autonomous driving 
+functions such as helping with parking, such as emergency brake in city-drive, 
+such as detecting the pedestrians, and also providing not only that but 
+interaction between the car, the people approaching or the passengers 
+while detecting the gestures and other commands to unlock the car or 
+protect the doors of the car. So this is where we are focused today. 
+Vivek Vikram Singh: 
+Thank you. Veljko. And Darko or Veselin, if you want to add anything on ASPER 
+as a product or how ASPER helps autonomy, please take it. 
+Veselin Brankovic: 
+We are speaking about automotive, but we should have actually a much 
+broader spectrum of the observation, the needs and what is our technology 
+doing is addressing mobility world. Mobility is not only pure passenger 
+vehicles. These are also transportation vehicles we already have in today, the 
+agricultural construction, mining vehicles. There is also vehicles who have two 
+wheels or three wheels. So, all of them will come and need to merge with 
+new technologies together.  
+The advantage of another growth, which is not purely automotive is that 
+deployment of technology potentially a little bit faster, considering 
+automotive design process and deployment of technology. Our ASPER 
+platform can offer typically protection from potential collisions, which are 
+coming from the back or rear radar observation for transportation vehicles 
+and also for two and three wheel vehicles as well as a lateral protection. In 
+many cases, in automotive world people are addressing only corner type of 
+radars and front radars, and we are addressing rear radars and lateral radars. 
+The main also difference between our approach and other approaches is 
+that a lot of intelligence and signal processing is done on a module itself. 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 13 of 33 
+ 
+ 
+That means that ASPER type of products can be used for the aftermarket 
+approach and also for approach where such are called EC unit or processing 
+unit like we have in classic automotive vehicles is not existing. So that means 
+we strongly believe that radar will be deeply employed in transportation 
+vehicles like heavy vehicles and also will be deployed in vehicles like 
+motorcycles, like e-bikes, where actually the size matters, where processing 
+power matters and power consumption matters. 
+Vivek Vikram Singh: 
+Thank you, Veselin, that was actually -- yes, we missed that point that it is 
+much broader than what is currently called automotive. We can move on to 
+the next question, but every one of you who's here you are invited, and 
+please do visit us all at the Auto Expo. You will get to see the technology live 
+when in action. The demonstrator that some of you saw in the video would 
+be there. I think it has landed in India today. 
+You will also meet these three gentlemen and their teams. And you will also 
+see the other perception applications of radar at our stall. So please do 
+come. Seeing is much better than seeing on a video or a slide. So please try 
+and come to our show. 
+Moderator: 
+Thank You. We invite our next questioner, that is from the line of Kapil Singh 
+from Nomura. 
+Kapil Singh: 
+Maybe, first of all, congratulations for embarking on a new journey for third 
+dimension of growth, really. So look forward to all the developments here, 
+and to the entire Sona Comstar as well as NOVELIC team. I'll start with the 
+NOVELIC team first. As somebody who is on the outside, what I would like to 
+understand first is you are a profitable, high-growth kind of a company. And 
+you've never raised capital as well. 
+So when you look at this transaction, obviously, you are looking at something 
+very strategic that comes to your table. So I heard you talk about the 
+strategic fit. But if you could also share some - one or two examples of what 
+you think, for example, Sona brings to the table from your perspective? 
+Vivek Vikram Singh: 
+Yes. So Darko, Veselin, Veljko, anybody wants to answer that. Please go 
+ahead. I'm not going to help you with this question. This is just for you guys. 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 14 of 33 
+ 
+ 
+Veljko Mihajlovic: 
+So maybe I can start and then we can all add on. So for us, we see a very 
+serious company with high technology focus. So the company that was built 
+on the innovation and that was able to commercialize its innovation on the 
+market and which built the, lets say the spirit and the culture for that. And this 
+is not something that you can build quickly or you miss some steps.  
+Basically, you see that by doing conversations by moving on in tracking 
+whether you have alignment. So this was the most important aspect from the 
+beginning. We see that we can and will be mentored on our journey to grow 
+NOVELIC in a very similar way just on the lets say another technological field. 
+So like I said on my slide, we want to do in the world of ADAS sensors and 
+autonomous driving what Sona already achieved in another pillar. Also, what 
+is important for us is that they will give us the support, but they will give us also 
+the freedom to operate. 
+They believe in us, they will believe what we have built is on the healthy pillars 
+and that we could execute. And we think this is important in these kinds of 
+deals that you keep the momentum. You keep the momentum of your vision 
+because it will take some time until we really align on all details, and we are 
+sure we will. And by that time, we feel that we will get the freedom to operate 
+and to build a NOVELIC like we envisioned. So, I don't know, if Darko and 
+Veselin can add on. Darko, maybe you? 
+Darko Tasovac: 
+Yes, I would like to add. I think we get the experience. If I may summarize. 
+Guidelines, and we can be taught also by Sona how to become a big 
+company. We see it as a big brother and also not just that capital investment, 
+but also like having a teacher who can provide us and lead us to this success, 
+if I may summarize in a short sentence. 
+Veselin Brankovic:  
+I will add only one sentence. What we really respect the Sona is dynamic. 
+Dynamic movement. We are facing that all automotive world is dramatically 
+changing. You had a new ones approaching fast. We have the old ones, was 
+still slower try to adapt. In a world of Tier 1 worlds where the Sona is -- because 
+we engage with a lot of Tier 1 as a customer. This is our customers. You see 
+that the organization matters are very old fashioned, which cannot allow 
+them to act fast and to move -- they are not inventing, they are reacting on 
+the needs for ones. You need to predict what one will need. You need to 
+engage with ones in early stage. You need to invest in relationship with ones 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 15 of 33 
+ 
+ 
+to understand their need before they are raising RFQs. And this dynamic is 
+something that we'd like to follow-up together with Sona. We recognize this 
+as a huge Sona advantage. 
+Kapil Singh: 
+Thank You. One question is on just the growth opportunity. How should we 
+think about it going ahead for this business? Is it a manufacturing capacity 
+driven business where we need to make investments? What will the 
+investment plan in next say two, three years? What is the capacity utilization 
+if that is a relevant metric? And there was also a mention of a potential to or 
+option to acquire a chip designing company, I believe. So, if you could just 
+touch upon that as well? 
+Vivek Vikram Singh: 
+So Darko can take that one. But it's not a potential to acquire. We have a 
+chip design company already. 
+Kapil Singh: 
+ 
+The transaction scope also includes acquisition of Nirsen. 
+Vivek Vikram Singh: 
+Yes. So Nirsen has been -- it is a company owned by the NOVELIC founders in 
+the same proportion. So this, as part of the transaction, Nirsen will be acquired 
+by NOVELIC as a form of having the full integration going from chip design 
+and putting the software on that the sensors and then the software. The one 
+thing I'd like to add, and thank you guys for all the love. But also getting to 
+mass manufacturing in millions takes a bit of experience. That's something we 
+can bring. 
+Everything else they can do independently, and we don't really, they don't 
+require us as much. Yes, we're always there to mentor and guide but they 
+already all of that. But yes, going from a few thousand to a few million is not 
+a journey that is -- I mean, if you do it first step, it's much harder and longer, 
+you go together, it's a bit easier, and we've been there. So that's a good 
+advantage to have in that space. But the second point, Darko, you can talk 
+about that also, what Kapil asked. 
+Darko Tasovac: 
+So, regarding the first, focus of the growth is definitely in the technology you 
+have seen on the video. As Veljko already mentioned, this is a mandatory 
+NCAP for car OEMs to have it in order to get the safety stars and safety points. 
+So also, our road map is this something that we are pushing to be focused on 
+our investment. We are in this field for a long time. We know the technology. 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 16 of 33 
+ 
+ 
+We have also a lot of patents there. And it seems for us, the first lets say 
+success as the in-cabin that we mentioned on the video. 
+Vivek Vikram Singh: 
+So Kapil, because you also covered tech, that will be easier for you to 
+understand. A lot of it, the investment is people because you're writing code, 
+how many lines of code is basically the functionality. The board, you're not 
+going to manufacture anyway, right? That comes, the chip is also -- its chip-
+design, you're going to get the software part. It's just the manufacturing of 
+just the sensor bits. That's the only bit that is there. So, capacity is a derivative 
+of people, we are putting in primary so that the first three-year business plan 
+is going to be self-funded after that primary. 
+And beyond that, should right now doesn't look like. So, when I said 100 
+million, the money is already there. I hope that this $100 million happens much 
+earlier. And I hope then we need more money to do something bigger. Like 
+we have, as you have seen with solar, I mean, if you say how much would 
+the capex that we have previously outlined last time we spoke, what was 
+about $120 million. $120 million, yes, is enough to service what was our order 
+book till the end of last quarter? Next quarter's order book will increase and 
+hence, funding increases.  
+But yes, we are fairly good with, I would say, capital deployment, capital 
+allocation and capital uses. We have a very -- I'd say, like I said, and this you 
+would also appreciate, it's a very middle-class strong value on how to take 
+every rupee, every euro and extend the maximum use out of it while not 
+sacrificing our technology goals. It is extremely rare. And that's why, I mean, 
+we acquired Comstar, I think in 2018 and for 4.5 years, we haven't done 
+anything, because you rarely need somebody like that, if you need really 
+high tech, high-growth company, then you have to talk about cash burn and 
+all and we are not the people who can digest cash burn. We don't have that 
+in our system. Or you meet people who only talk about things like, yes, this 
+content per vehicle, $10 per vehicle, so many vehicles, this multiple, give me 
+8 multiples, those. Why should I do something that I can buy the equipment 
+and do myself. If you're not gaining any capability. If you're not adding 
+anything to yourself as an organization as a human being, what are you 
+doing? We are trying to make technology that the world looks to us for, which 
+is why it started with our purpose. It is never purely financial, but it has to be 
+financially sound. Finance is the second part of it, but it has to be highly 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 17 of 33 
+ 
+ 
+profitable and able to stand on its feet. But this transaction that we've 
+envisioned in the business plan that we've drawn out together, that funding 
+is there. So we should be able to, on our own steam get to, like I said, the $100 
+million target is because we all joke about it, but that's the time we become 
+a real company. So that's the goal. And then, when we see how we take it 
+from there and how quickly. 
+Kapil Singh: 
+Sure, look forward to that. Just one clarification. This $100 million includes what 
+all, does it include in-cabin technology only or what all does it include? 
+Vivek Vikram Singh: 
+So ACAM. ASPER, am I missing something Darko? So ACAM is a short form for 
+in-cabin advanced. I don't know. You guys can take, Darko, Veljko can 
+explain. And ASPER is the sensory perception one, plus we have IoT products 
+also. Darko? 
+Darko Tasovac: 
+Yes. 
+Vivek Vikram Singh: 
+So, in 100 million, what would be the breakup like? 
+Darko Tasovac: 
+It's more a question for Veselin, I think. 
+Veselin Brankovic: 
+So, we would have two different main approaches is one a little bit smaller. 
+The direction is that we are hoping that we are approximately equally strong, 
+having us the type of the platform. And from other side, inside of the Cabin 
+platform. 
+There will be the main pillars of that what we are expecting as a revenue 
+stream. You need to understand and we have in a space of the sensors, 
+you're speaking in defining smart commodity hardware. If you get smart 
+commodity hardware. After that, you can bring up new functionality 
+considering 
+machine 
+learning, 
+new 
+functionality, 
+considering 
+new 
+applications who are actually like a software. This software content together 
+with hardware will make a difference. The value for the customer will be not 
+necessarily -- actually, you will have a smart sensors, which we are going to 
+develop.  
+So in our road map, all type of platforms, the basic platforms which we are 
+designing for the hardware point of view will be enhanced by 
+comprehensive software updates for the different application, which will 
+come constantly. So we are expecting that in this area, we will have having 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 18 of 33 
+ 
+ 
+two major platforms, a lot of family of different products for different type of 
+concrete applications, covering complete mobility. And we are starting the 
+advantage like detecting people. Detecting people are means you can 
+detect people inside of the vehicle. You can get detect people outside of 
+the vehicle. You can detect the people also in an industrial environment.  
+So all those things are there. But as said, we are focusing at the moment of 
+mobility solution, where automotive itself, passenger vehicle is one part of the 
+story. And the second part of the story is the rest of the applications in 
+construction, the transportation, two and three wheel vehicles. 
+Vivek Vikram Singh: 
+So Kapil, in short ACAM, a cabin sensing, ASPER, which is sensory perception, 
+which is outside the vehicle. These are the big two from product side, plus 
+there will be engineering services and licensing. There is a lot of licensing 
+income that we get because there are customers who want to deploy on 
+their own. They just want you to design and get them the sensor software and 
+you get paid for as many units they sell. So these are the three revenue 
+streams. 
+And licensing, currently, a large part of it is licensing and there, trust me, if you 
+can think of any major European OEM, it is already there. So yes, that will also 
+continue. However, over time, ACAM will be the biggest revenue stream. 
+ASPER second biggest and licensing and software services as the third 
+revenue stream. 
+Kapil Singh: 
+Thank you. I have other questions but will get back to the queue. 
+Vivek Vikram Singh: 
+Yes. But the thing is in this changing world, where the product versus service 
+or product versus solution, actually, it is solution now. The solution could be a 
+piece of hardware or it could be a few lines of code. Now, you don’t 
+manufacture lines of code. But you've got to do it together. I mean, you have 
+come to our Chennai plant, and you've seen our IMCM. What does it look 
+like? It's just a board with a lot of electronics, and you would wonder why is it 
+so expensive is because of the millions of lines of code that go into. And that, 
+I mean, somebody asked me once that what is the weight? How would that 
+matter? 
+I think, we all and hopefully, as people understand us as a company more, 
+and I hope we can do that job. We sometimes are not that good at it. We 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 19 of 33 
+ 
+ 
+can also help people realize that it is a very fast-changing world in a car that 
+has 100 million to 200 million lines of code the old way of how much does it 
+weigh and how much is value addition. Those days are going and very fast. 
+So let's see how well we communicate this, that's always been a challenge, 
+especially in India, right? I mean, I think it would be easier to communicate 
+this in San Francisco or Israel or Stuttgart, but in India, it gets a little difficult 
+because we are also used to what we see around us, and that still, perhaps, 
+is a little behind where global mobility has already moved. 
+Kapil Singh: 
+Sure, Thank you 
+Moderator: 
+We move to our next question that is from the line of Hitesh Goel from CLSA.  
+Hitesh Goel: 
+Hi, everyone. Hello, Vivek, Rohit and Sona team and also the NOVELIC team 
+and congratulations for a great deal. I just wanted to understand, I missed 
+that structure part on the transaction first. Can you please explain that is it -- 
+as founder how much going into the company, if you can explain that? And 
+I also... 
+Moderator: 
+ 
+Hitesh, I'm sorry to interrupt. May I request you please speak a bit loud? 
+Hitesh Goel: 
+Can you hear me now? Yes. So, I just wanted to understand the structure of 
+how much is there a stake sale of founders in this transaction? How much is -
+- or how much is going to the company? And in EV Euro 64.5 million. So there 
+is around Euro 23.5 million debt, right, in the company? Just wanted to 
+understand the structure because I missed it. 
+Rohit Nanda: 
+So, I'll clarify. So, post-money valuation is Euro 75 million. And Sona will be 
+acquiring 54% stake as a mix of primary and secondary. So, what Sona will 
+pay out would be Euro 40.5 million as total consideration. And the payout is -
+- has a staggered sort of cash outflow. So, 60% on closing and then 20% each 
+at the end of 12 and 24 months, respectively. 
+Hitesh Goel: 
+ 
+Okay. And is there a debt in the company or it's totally? 
+Rohit Nanda:  
+No, no. It's near to zero, let's say. 
+Hitesh Goel: 
+Okay, so my second question would be, can we understand much better the 
+background of the promoters on NOVELIC before starting NOVELIC. Just 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 20 of 33 
+ 
+ 
+wanted to understand how they worked with -- in which companies so that 
+we can understand some relationships? 
+Vivek Vikram Singh: 
+Sure. So, who -- first of all, hi, Hitesh, I haven't seen your face for like in 1.5 
+years. Darko, Veselin, who wants to take this one. 
+Veselin Brankovic: 
+I will tell as a couple of words. So, the company Novelic just celebrated 10 
+year anniversary, recently. But generally, the core team, that means three of 
+us, we have been working together previously in a German-based Tier 2 
+company in Stuttgart. So, we were actually delivering solutions to Tier 1 
+companies in Germany. 
+And we were working together in this area for more than, I would like to say, 
+I think, seven years before. So that means we are working quite a long time 
+together. That was very important because it's not easy to make an 
+innovative company, which also brings some money. It's not easy to make 
+innovative company which can stand how to make a product. This is an 
+essential thing in order to have this unique experience of how to make a 
+product. 
+This is a basic classical startup. He has excellent ideas. Maybe they can have 
+a -- like a prototype but doesn't know how to make a product. So that means 
+in this parallel world, you need to beat the other competencies to deliver 
+maturity of the product and also to bring up the new ideas in front. So I think 
+we managed to do it through our long experienced work in this area.  
+Vivek Vikram Singh: 
+Veselin was their boss, Darko and Veljko, when he hired them. And then the 
+three of them came back from Germany. Actually, if you understand a little 
+bit about the European structure, a lot of people, the bright people from 
+Serbia had to go and work in Western European countries like Germany, It 
+happened in India as well. Like a lot of our brighter engineers went to the US 
+and now we are also seeing that. And then all three of them thought why 
+can't we do this in our home country. And that's why I said when he shared 
+values and lot of things, but I'll let Darko speak on why they came back and 
+started an entrepreneurial unit? 
+Darko Tasovac: 
+Yes. At that time, it was more than 10 years ago. Now we’re sitting on the 
+table -- at the table, and we then decided -- we're speaking about any of 
+these ideas we're discussing because we were based in Stuttgart. We had 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 21 of 33 
+ 
+ 
+many connections with automotive industry. And then we came to the idea 
+and be able to see how the mmWave radar sensor is going to be developed 
+in the future. And we decided to go back in Belgrade and set up and 
+founded the company. We started with five people. And today, we have 
+more than 150 people. 
+All three of us are -- have electrical engineering background. So, at the 
+beginning of NOVELIC, we all were also designers, software developers. We 
+did also the programming of these FPGA chips. We designed the chips. So, 
+we have also skills there. And slowly as the company progressed and 
+became larger and larger. We actually started to see that there is really a 
+potential that needs to be used in order to develop this idea. 
+Hitesh Goel: 
+And just one more question. Do you think you will also get benefit from Sona 
+relationships, global relationships in some of the OEMs or customers that they 
+have? In Europe, you have a good relationship, but they had who have a 
+relationship in China, US as well. So, is that a thought process while going with 
+Sona? 
+Darko Tasovac: 
+Yes, also having access to these customers going hand-in-hand with our big 
+brother. That's definitely something that can be useful for us and getting 
+experience also from these relations with the OEMs with Tier 1s, how to deliver 
+the products, how to communicate with them, how to set up these deals. 
+How to go at the end into the production also of these products, that's 
+something that definitely can Sona help us. 
+Hitesh Goel: 
+Great, and I wish all the best to you – both Sona and NOVELIC. 
+Moderator: 
+ 
+We take our next question from the line of Jinesh Gandhi from Motilal Oswal. 
+Jinesh Gandhi: 
+Hi, a couple of questions from my side. One is on the structure of the 
+transaction. So, can you talk about for the balance, 40%, is it linked to any 
+milestones or it’s just the timing? 
+Vivek Vikram Singh: 
+Just timing. I assume you’re asking about the payment transaction. 
+Remaining 46% of the equity will be held in equal proportion by the three co-
+founders. 
+Jinesh Gandhi: 
+And any road map for – or any call options that Sona has to acquire balance 
+46% stake or that's not yet part of the transaction? 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 22 of 33 
+ 
+ 
+Vivek Vikram Singh: 
+No, it isn't, and it's also not part of our ideology. We are not chip designers, 
+they are. We need to know what we are good at and what we bring to the 
+table and what they bring to the table and respect that. It's not an asset 
+acquisition, Jinesh, this is a capability. Capability lies within the individuals, not 
+in a building or a machine. 
+Jinesh Gandhi: 
+And what sum of money goes into this EUR 40 million, how much goes into the 
+company? You indicated the $100 million revenues would be largely 
+funded... 
+Vivek Vikram Singh: 
+Actually, the details that Rohit shared, it is easy to do the math. The founders 
+requested that we don't speak out how much they are getting. But the pre-
+money and post-money valuation if it is provided in the slide, I think it's very 
+easy to work the math backwards. 
+Jinesh Gandhi: 
+And this funding into the company will be good enough to take it to EUR 100 
+million is what you indicated? 
+Vivek Vikram Singh: 
+Yes. So, if we stay on the business plan, the funding plus obviously, the cash 
+that is being generated by the company itself. This is a very high cash 
+generation business. As you saw 27% of the net profit. So, with that and the 
+growth is also a lot of free cash being thrown out. So that plus the primary 
+infusion should in all probability get us to our business plan and frankly, a little 
+beyond, but it's best to be a little conservative with these things. 
+Capital will not -- we will not let it become a constraint to the growth of this 
+company. Neither have we for ourselves. We started, if you remember, in 
+2016, we were INR 350 crores company. And we have got this path, we have 
+not really -- and we are still, I think, pretty much debt free and we can 
+accomplish a lot if we use our cash wisely. 
+Jinesh Gandhi: 
+Got it. And lastly, can you talk about the competitive landscape for this 
+solution, I mean not the technology, but the solution for in-cabin sensing and 
+that way, where are we, NOVELIC is in terms of market share might be the 
+wrong word, but where are we in terms of our competitiveness, if you can talk 
+more about that? Thanks. 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 23 of 33 
+ 
+ 
+Vivek Vikram Singh: 
+It's a very good question, but yes, solution and technology are both linked in 
+a way. But Veljko, Darko, Veselin, who wants to take this one? And please be 
+gentle on your competition. Don't say that one. So please go. 
+Veljko Mihajlovic: 
+So maybe I can try on this one. Good question, actually, a very good one. 
+So, first question started among technologies basically. So, like for every 
+sensing problem. So, at the beginning, there was the mmWave radar that we 
+were doing. There was camera. There were some other technologies. And 
+from recently, there is almost a consensus in the industry... 
+Vivek Vikram Singh: 
+Veljko do you want to show the slide of camera versus radar versus LiDAR, if 
+you have it. Pratik, do we have that? Actually, it's a very good question, 
+Jinesh, in many ways, because this perception problem, there are -- like 
+people asked about hybrid versus electric versus hydrogen. We bet on 
+electric. It's proven true. Right now, that same thing is going on. Although I 
+think it's a multi-sensor thing. LiDARs, I don't know but it's okay. LiDAR is very, 
+very, very expensive. Camera is the cheapest, but it suffers from a lot of 
+problems. Not just privacy in many environmental conditions, it just doesn't 
+work. And it is invasive. So not everybody appreciates that. So, radar is a bit 
+of both plus the mmWave that Veljko is talking about is so accurate that and 
+he has written a paper on it, by the way, and I might send it to you later that 
+you can actually do ECG, you can detect skin movement. You can get the 
+heart rate, you can do an ECG using radar waves, it's that accurate. So 
+insanely high level of accuracy, which is far beyond cameras; at a 
+reasonable cost and not the cost of LiDAR. And that's the big, big advantage 
+between the technologies. And Veljko, again, you can go on with the 
+competition within radar. 
+Veljko Mihajlovic: 
+Yes, exactly. So the choice among technologies, then they are narrowed 
+down for -- to the mmWave radar for the applications that we are 
+mentioning. Of course, here is important to say, and we will follow the story, 
+that for the other applications that also existing in-cabin but also outside. So 
+there is no single sensor, which is the best solution in all terms. So, there will be 
+always coexistence of those. And that's why we built our competencies 
+focused on radar, but also ready to do the sensor fusion when the time 
+comes. 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 24 of 33 
+ 
+ 
+But now we are focused on the radar and on these particular features that 
+we mentioned for the in-cabin. In that world regarding the competition, so 
+basically, today, there is one Tier 1 who is working directly on developing the 
+solution. And there are many others who are from the companies like us. And 
+in that domain, basically, we do have a couple of competitors who joined 
+quite late compared to us. So we started this about 10 years ago. We could 
+have not been right, but luckily or maybe knowing some things about 
+technology, we were right. So we were ignored for the first five years that the 
+radar will be technology for in-cabin. 
+So the people were quite reserved for that function. But it proved to be the 
+best performing and also safe on the other hand. So now we are, a lot ahead 
+of what those others are developing in terms of maturity, like I said on my part 
+of the presentation and the performance.  
+So we really understand both the technology but also the problems of the 
+scenery and the application. So there, we are quite confident that, of course, 
+there is competition, there will be, like in all automotive value chains, I mean, 
+it's unhealthy to have one supplier for any application. But we are very 
+convinced that our solution has good, unique selling point. And I would dare 
+to say also, the unfair advantage when we are now taking off while receiving 
+the RFQs from OEMs. 
+Vivek Vikram Singh: 
+So Jinesh, I think we can take a few names here, Veljko, because those are 
+public, like Veoneer is doing something in sensors. Who else that we can 
+name? There was an Israeli company that got acquired by Harman right now, 
+Caaresys. 
+Veljko Mihajlovic: 
+Yes. Then we have the company called Bitsense from Asia also, who is doing 
+a similar solution. We have the company Vayyar. Those are the companies 
+who are, in the value chain on the level where we are. And some of the Tier 
+1s are publicly working on that. Some are working, some are actually 
+exhibiting today the solutions that also come from us. But like I said, in the Tier 
+1 world, there is only one company, where we are doing in-cabin radar. 
+Jinesh Gandhi: 
+And that Tier 1 is working with you. The name which were taken is the same 
+one Infineon? 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 25 of 33 
+ 
+ 
+Vivek Vikram Singh: 
+So the Tier 1 who is working in most advance is working with the NOVELIC 
+team. They are obviously customer name, they don't want to take. But it's a 
+traditional Tier 1, which is fairly advanced, and they are using NOVELIC 
+chipsets on these things. 
+Veljko Mihajlovic: 
+Just to correct, they use our software and models. So and we are, by the way, 
+regarding the chip for this technology. So, although we have the 
+competencies for the chips like Vivek mentioned. And this is in, let's see, also 
+in alignment with the philosophy of the new value chain that I mentioned 
+before. So we need to make smart partnerships and collaboration a lot more 
+and a lot stronger to get the products that we develop, which are quite 
+complex. So in this particular thing for the in-cabin, and that's also the public 
+information, we are the preferred partner of Infineon. So on their website, you 
+can see NOVELIC is the preferred partner for in-cabin also on our side. So that 
+means we are using their chip. And we are using our software and our 
+module development part so that we make the fully integrated smart sensor 
+for in-cabin. 
+Jinesh Gandhi: 
+Got it. Thanks, and all the best. 
+Veljko Mihaljovic: 
+Thank you. 
+Vivek Vikram Singh: 
+Thanks, Jinesh. Good to see you.  
+Mr. Deshmukh, I think, has a flight actually at an airport trying to board, I think 
+Darko and Veselin are also at different airports. So this is a truly global team. 
+We have one person in Belgrade, one in Mumbai, two in Delhi, one in 
+Amsterdam and one in Las Vegas at the CES show. So they're going straight 
+from CES to India auto expo. So while the next questioner comes, please, do 
+visit. I think you'll be able to understand much more at our stall. 
+Moderator: 
+We invite the next question that is from the line of Chirag Shah from Nuvama. 
+Chirag Shah: 
+My question is, a very wonderful insight that you have shared and 
+congratulations to both the teams for this wonderful transaction. Two 
+questions. From NOVELIC perspective, what is the inflection point as far as 
+ADAS is concerned? Level 2 itself is the inflection point or Level 4 and 5. And 
+if it is Level 4 and 5 in your assessment today, realistically what -- how much 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 26 of 33 
+ 
+ 
+time will need to achieve those levels because -- and the enablers over there, 
+which -- where you can commercialize that? 
+Vivek Vikram Singh: 
+Great question. Before we go to level to level 4, 5, actually, the biggest 
+inflection point has come last year, when NCAP, the rating to get 5-star rating, 
+you have to have in cabin sensing. Second will be when 2025, this becomes 
+a compulsory, a mandate. So you know that in many of our technologies that 
+exist in automotive today, they got pushed because of safety reason by 
+regulators, airbags, seat belts. Similarly, in-cabin sensing. That's why I said that 
+will be the biggest revenue stream. 
+The inflection point will come when it becomes mandated by law, which 
+should be 2025. In NCAP ratings, it has already come. So that is already there. 
+On other the inflection point on the ASPER part, which is the sensory 
+perception or autonomous part, I’ll let Veljko or Darko answer on what level 
+would it become even more, although Chirag har level pe (at every level), 
+there is something. But Veljko, do you want to take this? 
+Veljko Mihajlovic: 
+Yes. So basically, for in-cabin sensor formally, I think it's classified in Level 2, but 
+I'm not sure. And -- but what’s more important than the level is -- the need 
+and the regulation which requires it and that we have a solution to that. So 
+this is what gives us the confidence that this product is needed and it will 
+reach in time to the market. Regarding the exterior function. So basically, how 
+should I say, yes, there are many players now working on all levels. So the 
+ones that do the thing they claim they are on the level 5. There is a journey to 
+get there. And on that journey, I think what the industry realizes is that there 
+will be very tough to -- for many single companies, even the biggest ones to 
+resolve those functions. So what we think is that -- and what our strategy 
+would be that we would share a couple of, independent solutions, which are 
+covering some niche aspects of all levels of autonomous driving, where we, 
+own the complete product. And for the ambitious systems for full autonomy, 
+we think that we will be partnering with the others. 
+And we would provide not necessarily the complete solution, but also the 
+domain-specific subsystem, which results for a particular function within that 
+level of autonomy. So this is the more the, the road in which we believe in. For 
+example, I can give you concretely. So for example, within the short range 
+radars. So you have like in the Level 3 already, you have like a dozen already 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 27 of 33 
+ 
+ 
+to really have even the partial automation. And whereas many are speaking 
+about their advancements in all domains, we are still facing the products 
+which are at the best level in the radar world, they are Level 2 plus, or even 
+the ones that claim they have Level 5 there. So, this is how this story is 
+complex. And we think that if one has a good product, which resolves a 
+particular niche and set of applications, then there would be definitely the 
+need for that one. 
+Vivek Vikram Singh: 
+Yeah. So Chirag, it's more linear than exponential. So Level 2, there are 
+already 10 or 12 sensing needs you require. At Level 3, you get to parking, 
+kick sensor, doors, if you come to or proximity. Level 4, you increase more 
+because more systems become semiautonomous or autonomous. So it is a 
+curve on which it keeps going up, but it's not a step function. So it's a linear 
+45-degree kind of thing, and it just keeps increasing a return of increase. So 
+that will be a better way to picture it. 
+Chirag Shah: 
+In your assessment, moving one step away from Level 2 to Level 3 or Level 3 
+to Level 4, how much time would it take? Is it a five to six year journey, or you 
+expect regulations to be helpful and it could happen much sooner? 
+Vivek Vikram Singh: 
+That's a very good question, and I don't think any of us can know the full 
+answer. I would say, the world is today at Level 2.5 already very comfortably. 
+Actually, the journey from 4 to 5 is the tricky one to predict. But I don't know, 
+Veselin or Veljko you want to take a shot, 2.5 to 4, that's slightly easier to 
+predict. Full driving by the vehicle or something to do claim it. That's quite fine. 
+That's I think about 10 years easily, maybe 15, maybe I don't even know. But 
+2.5 to 4 Veljko or Veselin, do you want to take a shot? 
+Veljko Mihajlovic: 
+I just wanted to add that there is even now the debate in the industry whether 
+Level 3 and 4 actually make sense to be deployed. Because they give you 
+the freedom to hand over to the vehicle to operate, but they also keep you 
+accountable be react at any time. So, from that perspective, there is a 
+debate whether it be deployed. But anyhow, like Vivek said regarding the 
+development, this must go in this linear way. So from Level 1 to 2 to 3 to 4 and 
+so forth. So how long basically so. 
+Chirag Shah: 
+It's a tough one, I understand that. It's a tough one. Sir, lastly, let me squeeze 
+in one question. On the investment areas that you're looking at, so whatever 
+money that is coming in the company and even beyond that, what are the 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 28 of 33 
+ 
+ 
+areas where you're looking to put the money to use? Is that more capacity, 
+is it more capability? Within capabilities, what are you looking at? 
+Vivek Vikram Singh: 
+That I'll let the NOVELIC team answer. Again, the investment, the current one 
+and the business plan that we have spoken about is only restricted to ACAM, 
+in-cabin, ASPER, which is outside cabin and licensing and services. That's it, 
+these three revenue stream. There is potential to add actually many more. As 
+you heard, now realized with us that what we started out with even when we 
+IPOed, only three, four products. Every year, we add at least three, four new 
+products, so revenue streams keep getting well, right now, that is for that. 
+However, this – what is the capex deployed for, Veljko if you want to or Veljko, 
+actually Veljko's in charge of spending the money. So he should answer 
+where this is going. 
+Veljko Mihajlovic: 
+So basically, most of that will go into the developing the programs that we 
+are in today. So it's really the investment in competencies. Of course, some 
+parts would go in investing in preparing for the serial production and 
+manufacturing, especially for this exterior radar that you mentioned, the 
+ASPER and especially for the aftermarket and also here in machine and two, 
+three-wheeler segments. Because there, we also plan to ship the complete 
+modules with hardware and software. 
+Chirag Shah: 
+So, you do the investment in human capital, you need to add more people 
+as you move to $100 million, you will need to add more people or that all the 
+developments of that has been invested already? 
+Veljko Mihajlovic: 
+So we will grow in the number of people also definitely, yes. 
+Vivek Vikram Singh: 
+But, Chirag, to add to what Veljko already said, we also need to add in 
+people side, because we're getting into serial production now, also product 
+people. So, I think already hiring great product guys from fairly-fairly reputable 
+companies like Microsoft, etcetera. So, we are getting a good product and 
+program and serial production, as I said earlier, when you go from a few to a 
+few million, there is a journey. So apart from just machine and infra and 
+assembly benches, we also need to get the right people for the right kind of 
+growth. 
+Chirag Shah: 
+Thank you very much and all the best. 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 29 of 33 
+ 
+ 
+Moderator: 
+ 
+We invite the next question from the line of Siddharth Bera from Nomura. 
+Vivek Vikram Singh: 
+So while Siddharth joins, Aman, if I may request, we would, you know us and 
+we ordinarily never close the call early. It's been 1.5 hours. Mr. Deshmukh 
+already left for his flight, two other gentlemen have to leave for flights since 
+we've been on this deal closing for the last week or so, we haven't any of us 
+have not slept really for a long time. So, if this could be the last question, we 
+love to talk again, please visit us, and we'll talk there, but it's been a long, I’d 
+say seven, eight days for all of us. 
+Siddhartha Bera: 
+Hi Sir, thanks for the opportunity. Sir, most of the questions have been 
+answered. Just I think on the addressable size which you had indicated, will it 
+be fair to say that, the mix will be more skewed towards products and less of 
+a tech or it can be more of tech and less of products? And even within that, 
+in terms of the addressable market, will the in-vehicle and outside vehicle will 
+be similar, or there is a segment which is bigger, so some clarity on this 
+aspect? 
+Vivek Vikram Singh: 
+Sure. But I would say, if you are looking at NOVELIC 2028, the larger part of 
+revenue comes from products. In product, the largest product should be 
+ACAM just because value per unit would just be higher. Second largest 
+should be ASPER followed by the third category of the products. We’re still, 
+and I'm trying to break Siddharth the technology, everything is technology, 
+the product that you use, the way we are speaking to each other is 
+technology, right? However, the device that you use, it’s a product and the 
+services are the solution that you can't see, but you're getting charge for. As 
+core OS, the operating system or the service provider or the telecom network 
+provider. So we will be doing both. Any guess, Darko, or Veselin, what is the 
+ratio of product to service? 70:30, is that fair? 
+Veljko Mihajlovic: 
+Yes. That's fair, roughly, Vivek that you mentioned. 
+Vivek Vikram Singh: 
+So, 70-30, 70 products, 30 services and licensing. Licensing is repeating 
+recurring revenue without extra effort or expense. Those are great revenue 
+streams to have, and we don't want to let go, which is why it's harder. Like I 
+said, this is a combination, like we already started doing it. When we started 
+realizing and some people ask us why your margins higher than others in the 
+industry, because we are not a pure product company even now. A lot of 
+what we do is because the product is high technology, a lot of services are 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 30 of 33 
+ 
+ 
+being attached and we are getting the money for it. So, it's similar but even 
+more, I would say, tech intensive. 
+Siddhartha Bera: 
+Understood. Thanks a lot, sir. 
+Moderator: 
+Thank you. We have one last text question. That is from the line of Prateek 
+Poddar from Nippon India Mutual Fund. 
+Could you please talk about how would you charge the OEMs for mmWave 
+radar products? Would it be SaaS-based or based on price path? Also, which 
+third-party chip suppliers are we using to embed our software on? 
+Vivek Vikram Singh: 
+That actually is a very good question. I have to complement Prateek. I think 
+the best question for the last but, okay, who wants to take this one. It is a very, 
+very relevant question on how the pricing model also will be developed. And 
+is it a SaaS-based model or is it product plus both? And which chipset, Veljko 
+you can go with which chip are we embedded with. 
+Veljko Mihajlovic: 
+So yes, regarding the chips that we are using, we are partnering with Infineon 
+with Texas instruments, returning fees for, let's say, various product 
+developments, particularly for in-cabin solution, we are partnering with 
+Infineon. Because we identified their chip as the best fit for that product and 
+to put in our software. 
+Regarding the pricing model, I think Veselin can amend on that. So, SaaS is, 
+of course, something that is envisioned for the future. And I think there, we will 
+accommodate basically to how the complete value chain behaves. So, I 
+think the OEMs now need – have the way to go on their pricing model and 
+then that will respectively translate to all the Tiers in the, say, with different -- 
+with – for their different features that we are providing. 
+So, we can imagine in the future, which is not so distant that this sensor, for 
+example, has like a mandatory function, which is regulated by law, which is 
+child presence detection. And then one can pay for intrusion detection. 
+So, to share let's say, the alarm feature set on or off depending whether he's 
+spending summer in some isolated island or some dense city or so. So, this is 
+the future that is definitely coming. But for the third generation of the 
+products, we are definitely going to the model where we charge per piece 
+of our IP or product delivery. Maybe Veselin can comment more on that. 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 31 of 33 
+ 
+ 
+Veselin Brankovic: 
+Just I would like to say also if you look at carefully new experiences now for 
+our Auto Show in Las Vegas. I think there is changes in the future in 5 to 10 
+years that at least many car manufacturers say, yes, software company. So, 
+we have a software vehicle. I say, it's very nice to say you've software vehicle 
+but need to have hardware component. So, enabling this software that are 
+differentiating. 
+So that means there is this tendency to try to put some kind of -- how should I 
+say new business model. We are listening this carefully. We just want -- do not 
+want to come to the position to act on the classical purchasing pressure 
+given the price down. So, we would like to say how can I help you to make a 
+more interesting business model so that you are happy about it. So, this is 
+something which we are seriously thinking, we cannot discuss this too much 
+right now, but we are trying also in a very dense communication and 
+exchange with Tier 1s. But I need to say also with OEMs, and this is actually 
+what we previously said, I don’t think it is changing. So, Tier 2 companies can 
+go and engage with OEMs directly. So, to try to find what is the best solution 
+for the business model, which is convenient for both sides. So I think I’ll let the 
+things still happen. But we think that the classical type of approach will keep 
+for the next years. But I really don't know how much and how fast the things 
+will change after 5 years, time. We will see a lot of changes in the business 
+models. 
+Vivek Vikram Singh: 
+Yes. So I'll just summarize, Prateek, because it is an excellent question, and 
+one we wondered about the 10 years later, how do you monetize 
+technology, so revenue monetization models would be one and I think at 
+least for both ACAM and ASPER large part would be still the traditional, the 
+OEM buys the module on which we can play one of two parts exactly like we 
+do in differential, we could either be the software guys and we can be in the 
+software plus the hardware guys. Same as we do in, let's say, our driveline 
+business, we can either be -- the guys who do the whole gearbox or we can 
+be just the differential assembly guys. So that's why the two levels. That should 
+still stay the largest form of the monetization model. 
+Second one would be in licensing and Veljko talked about, like imagine your 
+car has a device like your smartphone, you can download apps on it, all the 
+apps exist. And if you pay, there is a paid version or a not, and then some of 
+the apps which are only paid. So, if you pay for intrusion alarm, that intrusion 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 32 of 33 
+ 
+ 
+alarm will become active. The hardware for it is being inbuilt by default. The 
+software becomes active. And per use, the provider or the licensor gets paid. 
+That should become our second revenue stream. 
+Third, not directly to OEM, but even Tier 2, Tier 1, like I said, the boundaries 
+have just gone away. The same guy can be your competitor, the same guy 
+would be a customer. And currently, a lot of leading OEMs are integrating 
+very large systems with sensing software and sensing hardware, which 
+NOVELIC already provides today. And these things should also continue to 
+grow as functionalities increase. 
+But yeah, many avenues to monetize as mobility itself starts shifting, I mean if 
+you go very into the future, Mobility as a Service would become there that 
+for a person, it is the journey from point A to point B. it could be done using 
+many devices that are all provided by the same integrator. You could get 
+into a subway get out, get into a bus, get into a car and then in the end take 
+a scooter if that is the best thing that your mobility provider face. 
+And you pay by using. So, a lot of this is evolving. We have prepared for all of 
+that. But even if nothing happens, like I said, the traditional way of tipping the 
+whole product that works, you fit it in, as they said, plug-and-play that should 
+still remain a large part of it. 
+On the chipset part, we work with literally every chip provider. However, for 
+the in-cabin sensing, we are embedded with Infineon. For other applications, 
+we work with Texas Instruments, NXP and Infineon and others. But excellent 
+question, Prateek. 
+Moderator: 
+That would be our last question for today. I'll now like to hand the call over to 
+Mr. Vivek Vikram Singh for closing comments. 
+Vivek Vikram Singh: 
+So, thank you so much, everyone, for listening. We are available to explain 
+this and more. And even the NOVELIC team would be available 12th, 13th, 
+14th and 15th at the Auto Expo in Pragati Maidan, Delhi, hope to see as many 
+of you as possible. As you know, we are fairly approachable as a team. We 
+also really, really love feedback. So as much feedback as possible. It helps us 
+iterate, improve and get better. So thank you so much. 
+
+ 
+ 
+ 
+ 
+Sona Comstar – Adding a New Pillar of Growth 
+Page 33 of 33 
+ 
+ 
+Moderator: 
+Thank you very much. Ladies and gentlemen, on behalf of Sona Comstar, 
+that concludes today's session. Thank you for your participation. You may 
+now click on the exit meeting to disconnect. Thank you. 
+ 
+Disclaimer: This is a transcription and may contain transcription errors. The transcript has been edited 
+for clarity. The Company takes no responsibility for such errors, although an effort has been made 
+to ensure a high level of accuracy. 
+ 
+ 

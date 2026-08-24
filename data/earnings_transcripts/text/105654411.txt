@@ -1,0 +1,937 @@
+ 
+ 
+  26 October 2023 
+ 
+The Manager, Listing 
+BSE Limited 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai  400 001 
+ 
+The Manager, Listing 
+National Stock Exchange of India Ltd 
+Exchange Plaza, Plot No. c/1, 
+G-Block, Bandra-Kurla Complex, 
+MUMBAI  400 051 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Transcript of the Investor(s)/Analyst(s) call 
+ 
+Further to our intimation dated 20 October 2023, please find enclosed the transcript of the 
+Investor(s)/Analyst(s) 
+call 
+which 
+is 
+hosted 
+on 
+the 
+website 
+of 
+the 
+Company 
+at 
+https://www.mphasis.com/content/dam/mphasis-com/global/en/investors/financial-results/2024/transcript-
+of-earnings-call-q2-2024.pdf  
+ 
+We request you to kindly take the above on record as required under the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015. 
+ 
+Thanking you, 
+                             
+Yours faithfully, 
+ 
+For Mphasis Limited  
+                                 
+ 
+Subramanian Narayan 
+Senior Vice President and Company Secretary 
+ 
+Encl: As above 
+ 
+ 
+
+Page 1 of 18
+Mphasis Limited
+Q2 FY 2024 Earnings Conference Call
+October 20, 2023
+MANAGEMENT: MR. NITIN RAKESH CHIEF EXECUTIVE OFFICER 
+MPHASIS LIMITED
+MR. MANISH DUGAR
+CHIEF FINANCIAL OFFICER 
+MPHASIS LIMITED
+MR. GIREESH SONNAD
+CHIEF EXECUTIVE OFFICER
+SILVERLINE
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 2 of 18 
+ 
+Moderator: 
+Good morning, ladies and gentlemen, and thanks for joining the Mphasis Q2 FY 2024 Earnings 
+Conference Call. I am Zico Pereira, your moderator for the day. We have with us today Mr. 
+Nitin Rakesh, CEO of Mphasis and Mr. Manish Dugar, CFO. As a reminder, there is a webcast 
+link in the call invite mail that the Mphasis management team would be referring to today. The 
+same presentation is also available on the Mphasis website, www.mphasis.com, in the Investors 
+section under Financial and Filing as well as on both the BSE and NSE websites. Request you 
+have the presentation handy. 
+ 
+As a reminder, all participant lines will be in the listen-only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during the conference call, please signal an operator by pressing star then zero on your touchtone 
+phone. Please note that this conference is being recorded. 
+ 
+Before we begin, I would like to state that some of the statements made in today's discussion 
+may be forward-looking in nature and may involve certain risks and uncertainties. A detailed 
+statement in this regard is available in the Q2 results release that has been sent out to all of you 
+earlier. 
+ 
+I now hand over the floor to Mr. Nitin to begin the proceedings of this call. Thank you, and over 
+to you, Nitin. 
+Nitin Rakesh: 
+Thanks, Zico, and good morning, everyone. Thank you for joining us today. As you may have 
+noticed in the opening slide, Mphasis has just turned 25 last month. A lot of you have been 
+following us since the early days. On behalf of the management and the Board, I would like to 
+thank you all for your interest, investment and camaraderie over the years. We look forward to 
+the next 25 years of being a hi-tech, hi-touch, hi-trust organization. Thank you again. 
+ 
+I understand you may have had lesser time than the previous quarters to go through our MD&A. 
+Hopefully, this call will help with the deep dive in answering any questions you may have. As 
+we begin the second half of FY '24, I would like to start by discussing a few macro trends before 
+double-clicking on Mphasis' performance numbers. 
+ 
+There are a few themes playing out in the market right now, namely, varied growth trends. There 
+is a duality in growth across segments. BFS and Insurance are moderating, while health care, 
+utilities and travel continue to have tech spends. 
+ 
+On the discretionary client spend, clients want a  transformation partner and consolidation and 
+cost takeout plays are dominant themes. Adoption of AI continues to be a strong theme. GenAI 
+is automating, augmenting and accelerating multiple areas across service offerings. 
+Additionally, we see relentless prioritization in the market.  
+There is this construct of digital duality playing out. On one hand, there's extreme focus on 
+spends, especially discretionary. And on the other hand, there's a healthy desire for continuous 
+transformation and innovation, especially in application of AI across enterprises. Forward-
+thinking enterprises are strategizing to streamline their operations, scale their processes and find 
+means to conserve cash. As the deck gets reshuffled, transformation partners are likely preferred 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 3 of 18 
+ 
+over traditional vendors. Tech budgets are focused on quick wins even as executives tend to be 
+more pragmatic in these uncertain times. 
+ 
+McKinsey's AI survey report states that leaders are automating most data related processes 
+which can both improve efficiency in AI development and expand the number of applications 
+they can develop by providing more high-quality data feed into the AI algorithms. In the past 
+year, early adopter high performers have become even more likely than other organizations to 
+follow certain advanced scaling practices such as using standardized tool sets to create 
+production-ready data pipelines and using an end-to-end platform for AI-related data science, 
+data engineering and application development  that they've developed in-house. 
+ 
+Since we were founded 25 years ago, we've been relentless in our commitment to design and 
+architecture, combined with an engineering DNA, allowing us to create a portfolio of cutting-
+edge offerings and services, combined with domain expertise. This is reflected in our build- buy- 
+partner strategy as well. We have built -Vectors of our growth strategy are aligned around 
+technology capability expansion, vertical focus and geography expansion axis, increasing our 
+repeatability of deal archetypes using the Tribe and Squad model, which we have discussed 
+before. Additionally, we have been consistently building our leadership teams. We've added new 
+leadership across geographies such as Canada as well as in select verticals such as insurance, 
+while continuing to strengthen our coverage in our strong verticals like BFS. We are very happy 
+to welcome Ayaskant Sarangi, who joined us earlier this week as our CHRO. 
+ 
+We have partnered with several hyperscalers as there are specialized market-leading AI 
+platforms and solutions companies such as Kore.ai, WorkFusion, Databricks, etcetera. We 
+expect additional deal archetypes as we expand on these offerings. 
+ 
+While you already know of our past acquisitions, this quarter, I would like to tell you a bit more 
+about Silverline and invite the CEO, Gireesh, to share his perspective in a few minutes. Silverline 
+is a Salesforce Summit Partner, the highest Tier in Salesforce partner program. 
+ 
+Silverline's deep Salesforce expertise and scale, combined with our execution muscle and reach, 
+will not only assist us in designing next-gen digital capabilities, but will also help establish us 
+as a dominant player in the Salesforce ecosystem. This acquisition will complement our key 
+strategic initiative of driving the intersection across customer experience transformation, contact 
+center modernization and conversational AI-enabled automation, thus enabling tech 
+transformation to meet the evolving and dynamic needs of our customers. 
+ 
+With that, I invite Gireesh to share details on the company he has founded and built. 
+Gireesh Sonnad: 
+Thank you, Nitin. The Silverline team is very excited to now be a part of Mphasis, and we are 
+already hard at work aligning our teams to create value and drive innovation for our mutual 
+clients. As you have mentioned, Silverline offers digital transformation consulting services on 
+the Salesforce platform. We are a U.S.-based consultancy and a Salesforce Summit Partner, 
+which is currently the highest tier in the Salesforce partner program. With over 400 consultants 
+around the world, we guide clients through every stage of their digital transformation journey 
+with consulting and advisory services, implementation and managed services and specialty 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 4 of 18 
+ 
+platform capabilities. We are known for our expertise in the full suite of Salesforce technology 
+and for our deep industry knowledge. 
+ 
+Together, these capabilities allow us to help organizations take a data-driven and technology-
+focused approach to better connecting with and serving their customers. With nearly 15 years of 
+performance history, we have delivered thousands of successful transformations and bring to 
+Mphasis deep Salesforce ecosystem relationships, a talented team that is globally recognized for 
+its Salesforce expertise and expansive industry knowledge in key verticals, including financial 
+services, retail, health care, life sciences and media and entertainment, many of which naturally 
+align with the industry focus at Mphasis. 
+ 
+Our positioning in the Salesforce ecosystem is particularly powerful. In addition to operating at 
+the highest level of partner accreditation, we were part of the Salesforce Ventures investment 
+portfolio for over 10 years and have built strong, long-lasting executive-level relationships. 
+These deep connections to Salesforce power our growth and extend our influence in the 
+ecosystem. 
+ 
+We are a close partner to Salesforce in its industr
+ first strategy, and Silverline has been one 
+of a select group of product launch partners for Financial Services Cloud, Health Cloud and 
+Media Cloud, and are a preferred partner to several key ISP industry solutions. All this manifests 
+in benefits such as enhanced pipeline generation through joint client pursuits, strong delivery 
+partnerships with Salesforce and product development insight through our involvement as 
+partner advisory board members. 
+ 
+For Silverline, as the Salesforce ecosystem continued to grow and the opportunity for AI and 
+data-driven innovation increased, we saw an opportunity to accelerate our own growth journey. 
+Mphasis was the natural place for Silverline to do that. As part of Mphasis, we immediately 
+expand the breadth of Silverline's capabilities and the global reach of our insights. And together, 
+we align complementary capabilities that will help us build even more compelling digital 
+experiences for our combined set of clients. 
+ 
+Silverline's digital transformation approach with Salesforce matches well with the service 
+transformation approach of Mphasis. 
+ 
+With this combination, Mphasis now has access to the fast-growing Salesforce ecosystem for 
+continued growth. Specifically, we see 3 vectors to drive growth through our combined 
+capabilities. First, we will accelerate Silverline's core growth current strategy and we continue 
+to support our current clients and engage more organizations in digital transformation work. 
+Second, we will bring our Salesforce services to the impressive roster of marquee clients at 
+Mphasis. 
+ 
+And third, Mphasis and Silverline will explore new growth opportunities as we go to market 
+together in this AI-led revolution. As we look to the future, we feel the possibilities are endless. 
+Our teams have a shared vision for success and are already hard at work making this a reality. 
+I'm excited for our people, for our combined set of clients and for the continued growth at 
+Mphasis. Thank you, Nitin. 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 5 of 18 
+ 
+Nitin Rakesh: 
+Thank you, Gireesh. I'm personally thrilled with the opportunity of artificial intelligence to 
+maximize business outcomes. At Mphasis, cloud and cognitive-led solutions have been central 
+to our unique Front2Back approach to transformation. The Mphasis.ai business unit delivers 
+various benefits to enterprise clients that include offerings that drive business outcomes, starting 
+with the AI Advisory unit to help assess and identify key AI interventions to complete archetypes 
+such as contact center transformation, customer experience transformation, etcetera. 
+ 
+Further, our clients have access to an array of Mphasis-patented AI assets with over 250 ready-
+to-use models available on the hyperscaler marketplaces and frameworks created at the Mphasis 
+Next Labs. These frameworks can be seamlessly integrated into existing systems and processes. 
+Access to state-of-the-art conversational AI platforms powered by generative AI technology and 
+large language models transform customer experience management, employee engagement as 
+well as to drive operational efficiency and increase NPS scores. 
+ 
+We've also turbocharged the Mphasis Sparkle Innovation Ecosystem which has enrolled over 50 
+domain-specific startups, including those that are AI-focused and can accelerate the co-creation 
+of robust, go-to-market solutions for enterprises. Examples from the business unit's suite of 
+intelligent service offerings are now being created as additional deal archetypes in true Mphasis 
+fashion. Contact center and customer experience transformation is a solution that helps 
+enterprises, for example, deliver great customer, agent and employee experiences, reducing 
+digital leakage and delivering operational efficiencies by introducing AI-based intervention into 
+the ecosystem. 
+ 
+In addition, our early investments and partnerships in AI are bearing results. We see 29% of our 
+TCV being AI-led as of the first half of FY '24. We see AI influencing additional new archetypes 
+in and around areas I just mentioned before, including productivity transformation and delivery 
+efficiency, expanding our addressable market further into these services. 
+ 
+Almost all our pipeline continues to be tribe-driven, archetype-led and is up 2% sequentially and 
+33% year-over-year despite record conversion from pipeline to new sold TCV in the first half of 
+FY '24. Our pipeline is also well distributed across verticals. BFS continues to generate a high 
+share of pipeline at 38%. However, the other verticals have also increased their share now to 
+62%, suggesting that our investment in growth diversification is working. We've also seen a shift 
+towards large deals in the pipeline, suggesting that digital transformation and accelerating digital 
+adoption continue to be core themes for our clients. 
+ 
+Our pipeline generation in some of the smaller verticals such as health care has been particularly 
+robust with pipeline in this vertical being 3x on a Y-o-Y basis. More than 2/3 of our pipeline 
+continues to be application-centric, further reflecting the strength of our application 
+transformation and modernization engineering process. Pipeline is also well distributed across 
+key themes such as data, modernization, cybersecurity, Agile Ops and platforms. Expertise in 
+these themes continues to be resident in our tribes, as we've discussed with you in the past. 
+ 
+As I mentioned earlier, our TCV for the first half is at USD961 million, one of the highest levels. 
+There are a few things that I would like to highlight further on this aspect. TCV wins in the first 
+half include 10 large deals, of which 3 of them were won in this quarter. Six of the large deals 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 6 of 18 
+ 
+in the first half are in verticals outside of the BFS, which shows that our vertical cohort strategy 
+is working across the board. 
+ 
+This quarter, we are also pleased with the deal momentum revival seen in the mortgage business 
+after several months. Notably, significant TCV wins also continue to be from beyond our top 10 
+accounts and are well distributed between our various service lines. More than 70% of our deal 
+wins continue to be powered by next-gen technology adoption. 
+ 
+We've mentioned on our previous calls that we are seeing lengthening of sales cycle in 
+converting pipeline into TCV and TCV into revenue due to greater scrutiny of the tech spends. 
+While the conversion of pipeline into TCV seems to have normalized, we note that TCV revenue 
+conversion cycle is still elongated and somewhat sluggish in a few deals. We expect further 
+improvement on this during the course of FY '24. 
+ 
+We continue to push for revenue growth, which is anchored in our strong client mining model 
+and tech-led offerings. Our second quarter FY '24 revenue came in at USD398.4 million, 
+marginally high over previous quarter in constant currency terms. We continue to be impacted 
+by overall macro environment, of course, as well. 
+ 
+Our Direct business accounted for 95% of our overall revenue in second quarter '24. The 
+mortgage business declined sequentially by about 7% in this quarter. The contribution of Digital 
+Risk, our mortgage BPO subsidiary, now stands at approximately 6% of overall revenue in Q2 
+versus 11% a year ago in Q2 of FY '23. 
+ 
+As mentioned, we see incremental stability in this segment based purely on the market share 
+gains from new and existing clients who are increasingly looking at best-in-breed solution 
+providers for a combination of cost takeout and transformation programs, giving us visibility to 
+an order book that signals the bottoming in this segment without calling for a change in the 
+macro conditions. While we expected some of these deals to be revenue accretive in Q2, we saw 
+some -- we've seen a pushout of conversion due to transition in ramp-up timelines towards the 
+later part of Q2, and we're now expecting to see that revenue to pick up in Q3. 
+ 
+Our direct revenue increased by 0.3% sequentially in constant currency terms and declined by 
+8.9% Y-o-Y in Q2 FY '24. Direct ex mortgage increased by about 1% quarter-over-quarter in 
+constant currency terms, continuing to reflect relative tightness in discretionary spends in some 
+of our clients and the macro overhang. 
+ 
+Our anchor geography, U.S. declined 11.9% direct Y-o-Y and declined 2.2% sequentially as 
+remnants of macro overhang in the banking sector persist. The EMEA region and the Rest of the 
+World grew Y-o-Y basis as well as sequentially. We've seen good client wins and traction there. 
+Our core service line of enterprise applications consisting of 70% of revenue marginally declined 
+by 0.3% sequentially in constant currency terms in the direct business impacted by tightness in 
+discretionary spending in some of our clients and select pockets in BFS. 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 7 of 18 
+ 
+The BPO segment, which has suffered from the downturn in the mortgage segment over the last 
+4 quarters declined 26% Y-o-Y, but grew 4% on a sequential basis. We see further potential for 
+AI-led gains in this service line. 
+Moving to vertical performance. Our mainstay vertical, BFS, was down 20.5% Y-o-Y on an 
+overall basis, weighed down by the mortgage business, excluding the impact of DR, BFS 
+declined 11.4% Y-o-Y.  
+We saw good growth in the TMT vertical with our client wins in recent quarters ramping up 
+well. Similarly, our smaller verticals in direct, such as healthcare are growing quite well, as 
+reflected in the 6.5% Y-o-Y growth in Q2 in the others segment. 
+Pursuant to a merger between 2 of our top 10 clients, the client metrics of previous periods have 
+been accordingly restated. Our top 10 accounts declined 9.3% year-over-year on an LTM basis, 
+going down by the mortgage business pressures in the past few quarters and tightness in 
+discretionary spends.  
+Note that our top 10 clients, ex the mortgage business remained flat Y-o-Y despite the pressures 
+from regional bank crisis earlier this year. Our 11 to 20 client segments marginally increased at 
+0.3% Y-o-Y in a tough macro environment. 
+As mentioned earlier, the contribution of Digital Risk now stands at 6% of overall revenue in 
+Q2 versus 11% a year ago. To ensure scalability and facilitate the next phase of growth, a 
+realigned vertical GTM structure was implemented in April '23 to align the GTM organization 
+and drive better sales synergies and enable scalability, repeatability with the vertical focus. 
+Results of this are bearing fruit as we see our clients from 21 to 30  at a healthy pace, 22.5% on 
+a Y-o-Y basis. Our new client acquisition revenue continues to grow double digits as well. Client 
+mining stats remain steady, both sequentially and on a Y-o-Y basis. 
+The Y-o-Y movement in clients in the 75 million and 100 million plus categories is purely due 
+to market softness on a Y-o-Y basis. We expect this to come back as the mortgage spends 
+resume. We're using this opportunity to continue to consolidate our wallet share gains and our 
+market share with our mortgage clients. 
+Coming to our financial metrics, our margin philosophy affords us the flexibility to manage our 
+profitability in the face of revenue headwinds. This quarter, our EBIT margin stood at 15.5%, 
+within the stated margin guidance band of 15.25% to 16.25%. Reported operating profit declined 
+5.8% Y-o-Y due to revenue headwinds and improved 1.4% sequentially. Losses in cash flow 
+hedges impacted margins in Q2 by 60 basis points. 
+Our EPS of INR20.8 for this quarter is a decline of 1.1% sequentially despite higher operating 
+margin mainly due to reduction in other income due to lower investible surplus on account of 
+dividend payout. Cash flow generation for the first half of the year was USD120 million, which 
+is 100% plus of PAT for the half year. 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 8 of 18 
+ 
+We generated highest ever quarterly operating cash generation of USD86 million in Q2, which 
+is 180% of our net profit. Adjusted for the one-timers of USD21 million of delayed Q1 
+collections, the cash generation in Q2 would be USD65 million, which is 137% of our net profit 
+for the quarter. Our DSO also improved by 8 days to 70 days at the end of Q2 '24. 
+While many of the deals we saw last quarter have converted, there are still some deals that are 
+taking time from a conversion standpoint. In Q2, we remain focused on ensuring revenue 
+stability with margin expansion theme. I'll leave you with a few points.  
+Macro-driven overhang continues in select verticals while we focus on the micro and account-
+specific efforts.  
+Despite multiple pressures, we saw stability in sequential revenues, driven in part by the 
+visibility from the highest ever TCV closure in the first half at USD 961 million. Further, we 
+saw continued stability of DXC segment, while making gains in the mortgage business order 
+book, setting us up for subsequent quarters.  
+Our efforts towards diversification of TCV and pipeline beyond BFS and non-top 10 clients 
+continues to bear results, while BFS pipeline also grew by 21% Y-o-Y. AI-centric deal 
+propositions are paying off, accounting for nearly 29% of the total TCV in the first half, driven 
+by continued acceleration in the Mphasis .AI business unit as well as continued investments in 
+capability building across categories including the recent acquisition of Silverline as well as our 
+strategic partnership on professional services at WorkFusion. 
+Our market share continues to be robust with continued wallet share and consolidation deals in 
+play with most of our top clients. We've delivered expanded margin despite revenue challenges- 
+sustained focus on utilization productivity and offshore leverage have been the key drivers of 
+this space. 
+As we come to the remainder of the year outlook, we continue to take a forward leaning stance 
+on our tech-led positioning. We have a strong pipeline entering the second half of the year led 
+by AI, cloud and transformation deals. We expect sequential revenue growth through the 
+remainder of FY '24, driven primarily by the fact that the mortgage segment has bottomed out 
+with signs of order book pick up.  
+And while there continues to be an overhang from the regional bank crisis, we also have 
+seasonality trends and tighter macro conditions driving slower uptick in revenue in Q3. Our 
+revenue diversification of non-BFS outside top account continues to bear results. 
+On the margin front, we retain our message of margin stability, excluding M&A charges, 
+operating margin will remain in the 15.25% to 16.25% throughout FY '24 with a continued focus 
+on operational rigor, giving us increased confidence in the trajectory of our performance. 
+On that note, moderator, let's open it up for questions, please. 
+Moderator: 
+Thank you very much. We will now begin the question-and-answer session. Our first question 
+is from the line of Nitin Padmanabhan from Investec. Please go ahead. 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 9 of 18 
+ 
+Nitin Padmanabhan: 
+Also for the quarter, if you could, one,  characterize the weakness that you saw during the 
+quarter, was it a surprise? So that's one. Second, is the -- you have sort of restated the top client 
+contribution numbers. So, some context on that. 
+And finally, from an H2 perspective, do you think the leakage on the book will still be high and 
+revenue accretion from the deals -- or do you think that revenue accretion from deals can sort of 
+compensate and H2 can actually be reasonably stronger than H1, right? So, those were the three 
+questions. 
+Nitin Rakesh: 
+So, I think on your first question on the -- whether it was a surprise. I think  there were a couple 
+of deals that we thought would pick up sooner than they are, primarily driven by either additional 
+scrutiny or in some cases ask from the clients for a longer ramp-up period, given just the 
+transition timelines that we estimated versus where they want us to be. That actually was very 
+evident in a couple of deals, including one in mortgage. 
+No loss of revenue, no loss of share. I think it's just a timing phase-out issue. What should have 
+ramped up in August, September is probably going to ramp-up in October, November, December 
+timeframe.  
+So, from that perspective, I think the timing of that push out definitely had a little softer impact 
+on the quarter. But as such, we still made up and more for some of the other discretionary spend 
+cuts, the leakage, as you called out. 
+I think the -- select pockets, as I called out in BFS, that tightening is fairly evident across the 
+industry. We do believe, as we continue to convert order book into revenue, which means sold 
+deal for the first half, we should be able to make up for a fair bit of that. Keeping in mind the 
+seasonality effect in Q3, I think we are still reasonably confident that we should be able to deliver 
+sequential growth, but we believe it will actually pick up as we get out of the seasonality impact 
+and accelerate further in Q4. 
+In terms of client restatement, as I mentioned in my script, 2 of our top 10 clients merged. So, 
+we had to restate that with our top 10 client metrics and we've gone back 4 quarters and given 
+you the analysis for you to be able to do a like-to-like comparison. And from that perspective, I 
+think, that's probably the best we could do to give you a very similar feel to -- so you can actually 
+compare numbers. Second half I think already answered that in Q3 and Q4. 
+Nitin Padmanabhan: 
+Yes. Sorry. So essentially, second half should, on a progressive basis, be better Q3 obviously 
+furloughs but... 
+Nitin Rakesh: 
+Yes. 
+Nitin Padmanabhan: 
+Do you think furloughs are -- compared to last year, how does it look? The last year was bad. 
+Do you think this time it's better or there is more... 
+Nitin Rakesh: 
+Hard to predict comparatively. We definitely know that this has been a tougher year. Segment-
+wise, last year, the furlough impact was in different segments, than I think it's going to be in this 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 10 of 18 
+ 
+year because last year, high tech was the first one to call a furlough. This year, BFS seems like 
+this is probably the leader in the pack, when it comes to having some impact. 
+I think we are, at this point in time, focused on making sure that we are able to minimize that 
+impact. We've taken certain estimates in our current visibility, and we'll hopefully be able to 
+manage that through additional business ramp-up as we talked about and still show sequential 
+growth. 
+Nitin Padmanabhan: 
+Sure. Perfect. That's helpful. And just one last one. In the last quarter, we spoke about capacity 
+build-up in the home equity business. And that should sort of lead to growth in Q3. So for that 
+business, if you look at the numbers, it doesn't look like the head count has sort of improved. So 
+just wanted your thoughts there. Is that the one that you mentioned is sort of pushed out or... 
+Nitin Rakesh: 
+Yes, that's kind of what's driving that than one particular program that we talked about. But 
+what's happened since further update is that, we've seen actually pretty good deal closure in that 
+segment in Q2. That should result in some uptick in Q3 as well. Obviously, as I mentioned that, 
+there is a certain transition and ramp-up time line that will also go into Q4. So Q3, Q4 definitely 
+look better sequential quarters for the mortgage business. 
+Again, I want to reemphasize that, this is not a call on the macro. We are not saying volumes 
+will pick up or we think the interest environment has bottomed out. This is purely based on the 
+fact that we've gone and we've been able to open new opportunities, close deals with customers 
+that are now starting to think about a best in breed provider who can actually give them a 
+transformation plus a cost lift. 
+That's kind of -- this is really a pure market share. Our biggest competitors in the space are either 
+not able to provide that same level of transformation and cost play. And in some cases, they are 
+still captive to our customers, and hence, we are a pretty credible alternative for them to be able 
+to use in a downturn like this. So it's purely based on our deal wins and our order book versus 
+being based on the macro. So I just want to make sure that was clearly understood as well. 
+Moderator: 
+Thank you. Our next question is from the line of Sulabh Govila from Morgan Stanley. Please go 
+ahead. 
+Sulabh Govila: 
+Yes. Hi, thanks for taking my question. So I have three questions. So first is on the banking. 
+Nitin, just wanted to understand, how are we internally thinking about it, especially within the 
+top 10 customers? When do you think things will start recovering? I know there are multiple 
+moving parts. But given there was some excess supply created at some of the banks and there's 
+a discretionary cut, which is offset by some of the deal wins that are happening. So just trying 
+to understand, in your internal estimates, how are you thinking about the banking, especially 
+from a top 10 perspective? 
+The second question is on the supply side. There's a moderation in head count, but a much 
+sharper decline in utilization despite organic revenue not declining as much this quarter. So just 
+trying to understand, how should one look at that? 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 11 of 18 
+ 
+And the third question is on the outlook piece. So this progressive growth -- sequential growth 
+in Q3 and Q4, would that hold true on an organic basis also? And what's the impact of M&A 
+charges that we are thinking about, given that guidance has some update excluding M&A 
+charges? 
+Nitin Rakesh: 
+Okay. So let me take those in that order. I think you talked about growth view for banking top 
+10 customers, and you already called out for a couple of the answer items that I was going to 
+talk about, which is discretionary spend cut primarily driven by overcapacity at the banks. That's 
+definitely playing out through 2022 and -- later part of '22 and most part of '23. 
+Hard to call when that will shift or change, except that this concept of an annual budget exercise 
+that has started at the banks didn't quite hold true for '23 because many of them, given the 
+uncertainty in the macro and the promise of recession that we are still waiting for, has kind of 
+given a lot of pause to that budgeting exercise, and many of them went into a monthly budget 
+model itself. 
+So it's very hard to call what happens in that segment. We can't control the macro, so we are 
+focused on the micro, which is account specific actions, not just in top 10 accounts, but also in 
+accounts that we acquired in the last two years or three years where we are more of a challenger, 
+a lot less to lose and we can be a lot more disruptive with our deal archetypes. 
+So net-net result is, of course, seasonality of the quarter will definitely play up there, but we do 
+expect -- we do think that, we continue to focus on account-specific actions. Hopefully, the 
+regional banking headwinds have kind of stabilized. So we should definitely see stability in that 
+segment this quarter and potentially growth in the next quarter given the order book, again, and 
+I called that out as well. 
+On the supply metrics, head count utilization, revenue correlation, given that more than 50% of 
+the revenue is really managed outcome of some form, there are certain milestone-based 
+deliverables that lead into the revenue number. And of course, the head count metrics also -- our 
+head count revenue correlation also gets impacted by on-site and offshore. 
+If you see our offshore percentage, it's up 4% yoy. But at the same time, we've seen some pickup 
+in these transformation deals that definitely played into that revenue to head count model. I think 
+utilization dropped marginally driven primarily by, as I mentioned, late quarter actions on the 
+head count and the billability. 
+So from that perspective, not too much to read into or call out into that. In a way, it gives us a 
+little bit more room to grow with the current head count and ramp-up as we start some of these 
+deals from a delivery standpoint. So we'll continue to keep a very close watch to see how much 
+room we need. We are still fairly forward leaning on fresher adoption and pyramid corrections. 
+So I think that, we are fairly well equipped to handle that change of supply-demand dynamic. 
+On the outlook, if we look at the organic number, we definitely think, we'll be able to eke out 
+growth in Q3. The extent of that will depend on how much seasonality plays in. But the outlook 
+we gave you was not inclusive of the inorganic actions. Of course, the inorganic number will 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 12 of 18 
+ 
+show up in the reported numbers and that will definitely give a boost to the overall number as 
+well. 
+Manish Dugar: 
+The last question, Sulabh, on the M&A charges. Since we just concluded the transaction, we are 
+going through the purchase price allocation discussion. And it will govern how much is the cost 
+of amortization other than the transaction costs that will come into the P&L and the retention 
+bonuses, plus the synergy expenses. Excluding the acquisition charges and M&A charges, our 
+belief is that the margin will be sustained or expanded. 
+So if you were to look at the margins without the M&A charges, it will look as an expansion in 
+the coming quarter as well. Currently, the estimate of the M&A charges is in the zip code of 
+0.7% to 0.8%. But we will get the confirmations once the purchase price allocation discussions 
+are over and we'll be able to communicate that once that is done. 
+Sulabh Govila: 
+Sure. So just a quick follow-up, Manish. If I understood this correctly, the estimate of purchase 
+price allocation impact is 0.7% to 0.8%? 
+Manish Dugar: 
+No. The current estimate of total charges, excluding what is the transaction cost, is 0.7% to 0.8%, 
+which includes the cost of retention bonus, the synergy investments that we will make in the 
+initial period plus the amortization of purchase price allocation. However, that will get fructified 
+once the PPA is complete. 
+Sulabh Govila: 
+Understood. Thanks for taking my question. 
+Moderator: 
+Thank you. Our next question is from the line of Manik Taneja from Axis Capital. Please go 
+ahead. 
+Manik Taneja: 
+Hello and thank you for the opportunity. First of all, with a clarification question, trying to 
+understand the contribution of the HP subsidiary that we had acquired at the end of last quarter. 
+And if that is -- and if that number is still driving the strong sequential growth on the TMT side? 
+That's question number one. 
+The second question was with regards to getting some qualitative commentary in terms of the 
+revenue growth trends that we've seen for us in the logistics and the transportation business, 
+along with that also on the BFS business, ex of DR? 
+Manish Dugar: 
+So Manik, on your first question on the eBECS transaction, as we spoke about it last quarter, the 
+idea was to acquire the capability that we can utilize for all larger customers at Mphasis. A lot 
+of the client and the revenue that we acquired were not necessarily something that we intended 
+to continue with. 
+So while you would have seen an LTM basis reported number of the entity that has been 
+acquired, what has actually got consolidated in our books does not have any significant material 
+impact. And obviously, since we have consolidated full quarter last quarter, this quarter anyway 
+is having no impact of any growth of that over the previous quarter. And so, if you want to talk 
+about the logistics part? 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 13 of 18 
+ 
+Nitin Rakesh: 
+Yes. I think on the question on our logistics and travel, I think there's a tale of two cities. While 
+the travel piece has actually done fairly okay, especially the airlines business has actually grown 
+quite well. There is obviously more work to be done from a macro perspective for us to see 
+growth come back. We've seen signs of stability. The part of the reason why we are making in 
+some forward-looking estimate on our sequential growth is also coming from the fact that we've 
+definitely seen I would say, there is good order book buildup in that segment as well including 
+the logistics and both logistics and travel sites. I think sequentially, things will probably look 
+better as we go forward. The pace of growth will depend on how quickly we are able to convert 
+those to revenue as well. But at this point in time, I think stability to cautious optimism is the 
+best way to look at the logistics and travel segment. 
+Manik Taneja: 
+Sure. And the last one was a clarification with regards to segmental margins that is reported for 
+the TMT vertical. They've gone up to almost 39% in the current quarter. Is there some element 
+of both onetime revenues that's driving the strong uplift there? And are these segmental margins 
+sustainable? 
+Manish Dugar: 
+So Manik, as you would have noticed in our financials, we have disclosed that there has been a 
+contingent consideration that has been reversed. So as you would expect, there are bonuses that 
+are planned and they are dependent on delivery of certain numbers. Since, we believe that, we 
+are going to fall short of what potential opportunity of 100% payout was, we did a re-take on 
+what that payout will be and the excess that we were carrying has been reversed. So, a large part 
+of that actually was in the TMT vertical and that's what's reflected in the margin up lift. 
+Moderator: 
+Thank you. Our next question is from the line of Ankur Rudra from JPMorgan. Please go ahead. 
+Ankur Rudra: 
+Hey, thank you. Hi, Nitin Manish. Just a quick question on the visibility of growth and where 
+the confidence is coming from. If the macro conditions remain unhelpful in terms of banking 
+budgets and pricing rates, do you think that your comments or the performance in the period 
+might change. There's a risk to, what you expect in terms of growth recovery. That's part one. 
+Second part, if you can talk about, how you feel the budgeting conversations on the monthly or 
+quarterly budgeting cycle is happening with your top customers on the banking side? And any 
+early indications of how CY'24 will pan out? Will it be similar to this year? Or do you think 
+there's a chance of it being better or worse? 
+Nitin Rakesh: 
+Ankur, on the first one, as I mentioned, right. We are not taking a call on the macro when we 
+talk about outlook on the business because this is a very micro bottoms-up account-by-account 
+pipeline, TCV, order book view. It is very hard to take a call on the macro. If the macro worsens 
+like it did in the middle of last quarter, then of course, there's always going to be an uncertainty 
+because we are definitely in a time where it's hard to have a forecast. I think the best of central 
+bankers are struggling to figure out next moves on the macro front. The 10-year spike has 
+obviously surprised everybody this week as well. So, I think it's very, very hard to take a macro 
+call and we are not taking a macro call. 
+We are based on what we see today, based on the visibility we have from our, not just top 
+customers but also other segments, we are kind of giving an estimate. I spent through fairly 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 14 of 18 
+ 
+detailed analysis of what's going on in the mortgage business. That's a good example of how we 
+are making the visibility from an order book perspective versus from a macro perspective. 
+There is definitely at least some level of visibility on the fact that there is work to be done that 
+cannot be pushed out for long periods of time. End-of-the-year budgets will obviously get 
+extinguished and rebudgeting of 2024 will kick in. So we are seeing, at least in some pockets, 
+customers taking decisions to actually execute programs. I wouldn't quite call it a year-end flush, 
+it's not that prominent, but it's definitely some level of decision-making has moved on, especially 
+for programs that require them to move because that will help them take the cost out of integrated 
+program -- integrated platforms that they don't need to carry into next year. 
+On the budgeting front, too early to call, also a little bit more nuanced, especially on the banking 
+side. I think if you think about multiple segments of banking and I think I talked about it last 
+time as well. Very highly capital market focused businesses- I don't think there will be an uptick 
+in spend. If anything, they'll continue to watch, the environment very closely. Watch the deal 
+close, watch the M&A activity, capital market activity and that will drive a lot of the incremental 
+decision making. 
+On the consumer front, on the consumer banking and wealth management front, things are a 
+little bit better because I think there is continued investment from almost every bank making a 
+pivot into annuity-based businesses, wanting to go away from transaction-based businesses to 
+fee-based businesses. So that's where we are seeing continued interest from banks in helping set 
+up those platforms for wealth and asset. 
+So I think it's a little bit more nuanced than just having a singular view of banking budgets for 
+next year. I think the -- in general, the larger universal banks probably are better place to weather 
+this. Of course, individual bank ratios will determine what budgeting they will carry in. 
+But, I think, from the point of view of the monthly versus quarterly versus annual cycles, I think 
+it's hard to say what each of them will do given just the uncertainty they are themselves dealing 
+with. Expecting spiking interest rate that already has happened to lead into deterioration of 
+consumer , obviously provisioning plays in and if it doesn't play out, reversal will happen and 
+budgets will open up again. So there's a lot of moving parts to that equation. 
+Ankur Rudra: 
+Thank you. Appreciate the color. A quick question on the signings. While first half is very 
+strong, if I just look at the quarter, this seems to be slightly on the softer side compared to what 
+we've been used to seeing from you for the last six, seven quarters. And slightly in contrast with 
+many of your peers have reported relative to this improvement in momentum this quarter. Is this 
+a function of timing? Or is this a function of maybe a lack of signing in banking, which is a 
+much bigger exposure for you? 
+Nitin Rakesh: 
+So, Ankur, just to give you some color, almost half the deals this quarter are in banking. The 
+lumpiness of large deals is what is driving the 700 million to 250 million swing. Also, as you 
+can expect, there is a certain tenure a deal has to stay in the pipe for it to actually go from 
+origination to conversion. 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 15 of 18 
+ 
+And because we converted a bumper quarter in Q1, which we're very pleased with because that 
+gives us visibility into a good order book. I think the -- as we normalize and come back in, I 
+think you will see the trailing 12-month number will continue to actually be a good indicator of 
+that versus just the quarterly number. 
+Ankur Rudra: 
+Excellent. Just last question on Silverline. It looks like an interesting acquisition, best of luck. 
+Maybe elaborate a bit more on the cross-sell opportunity here? Is this more on your banking 
+customers? Or is it for the rest of the portfolio? And if you can comment, Manish, on the impact 
+on margins and earnings accretion, etcetera, over the next -- this year, next year, etcetera? 
+Nitin Rakesh: 
+Ankur, I'll address the first part. I think the impact is definitely synergy opportunities with almost 
+every segment of our customers because given the strength that Silverline brings in and Girish 
+talked about it in great detail around the product -- visibility into the product council, more 
+importantly, the role they've had in the vertical cloud strategy at Salesforce, this actually makes 
+it very interesting for not just banking, but even nonbanking customers for us. 
+Especially health cloud, also we don't do a lot of media, so this definitely gives us a tip of the 
+spear on the media side and you've seen we've acquired some decent customers along with the 
+acquisition in the media space. Tier 1 media companies are in the client roster there. So definitely 
+capability acquisitive, accretive and it's definitely leadership accretive. 
+We are pleased with the level of leadership and the calibre of leaders that come along with this. 
+We will definitely try to make sure that it continues to be growth accretive because we're opening 
+a TAM that we were not really that well positioned in. We had an existing Mphasis Salesforce 
+business but it was not quite not as-deep-as what Silverline brings to us. 
+And finally, I think there is a very large ecosystem on the customer experience transformation 
+side that this can unlock as well. And if you include what we've done over the last two years 
+between Blink, the whole contact center modernization approach, conversational AI embedded 
+into it and Salesforce, the portfolio platform, there's actually a pretty strong synergy there from 
+a large deal creation as well. 
+Manish Dugar: 
+So from a P&L impact perspective, Ankur, Manish here. There are, as you would expect, three 
+things that need to be considered. One is the intangible and amortization of the intangible that 
+gets frozen once we have the purchase price allocation done, which is in progress. 
+Second is the investment that we would make in the first 90 and 180 days to make sure that the 
+integration program runs perfectly smoothly for the synergy benefits to get realized, revenue 
+synergies as well as cost synergies. And third, cost that has been incurred for the transaction, 
+including some of the retention bonuses that we want to make sure keeps the management and 
+the leadership team of of Silverline excited. 
+Current view of all of these expenses put together is in the  zipcode of 0.7% to 0.8%. However, 
+we will know once the PPA is done in terms of exactness of what that number is. 
+Moderator: 
+Our next question is from the line of Dipesh Mehta from Emkay Global. Please go ahead. 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 16 of 18 
+ 
+Dipesh Mehta: 
+So implication, I think you indicated 2 of 10 clients merged. So if you can help us understand 
+implication of this thing from near term to medium term, from growth potential perspective 
+because their tech spending might be now combined and it has some implications. So if you can 
+provide some sense about it, integration initial benefit in the medium term some kind of negative 
+implication? 
+Second question is about the -- if I look, we used to give correlation between deal intake and 
+revenue. It used to be fairly high for us. If I look for last few quarters, it is not playing out that 
+way. Your TTM deal intake is 30% as higher. Revenue growth is still in the negative territory. 
+So if you can help us understand how one should think about it? Thanks. 
+Manish Dugar: 
+So Dipesh, Manish here. I'll take the second question first, which is the correlation between the 
+deal closures and revenue. As you would expect the correlation coefficient also signifies renewal 
+of the business and no runoffs. Two primary things that has been impacting the renewals. One 
+is what's happening in the mortgage business. And there, while it does not so much reflect in 
+TCV closures because most of the revenue growth comes from volume increases, the same thing 
+happens on the negative side as well. 
+And that volume decline has had a significant impact on runoff, causing the mortgage business 
+to come down from 11% of revenue last year same quarter to 6% this quarter, and that has a big 
+impact on the correlation coefficient other than the fact that a lot of small discretionary budget 
+spends that were being -- that were coming in has stopped coming in or has significantly reduced 
+because of all the uncertainties that are in the environment, especially in the banking segment 
+because of the regional banking crisis as well as the bank sitting on larger than required head 
+count and that also means that the renewal rates are much lesser. 
+The same thing will reverse and reverse to maybe more than 1% -- more than 1 correlation 
+coefficient once we see these volumes come back. But as Nitin mentioned, we are not factoring 
+in any macro changes or any changes in interest rates for us to give that guidance at this point in 
+time. But if and when that happens, it should start reflecting in the correlation coefficient as well. 
+Nitin Rakesh: 
+And on the first question, Dipesh, on combination of customers and budgets going forward. I 
+think we are not thinking out that far because right now, we are focused on monetizing the 
+opportunity that this current merger presents to us because there is a fair amount of integration 
+spend that will be unlocked. 
+As we obviously get through the integration program over the next few quarters, I think we'll 
+continue to reassess how we stack rank and what our wallet share is and how we can unlock the 
+visible markets. But I think at least for the short to medium term, I think there is a little bit more 
+of an opportunity than a threat purely given just the fact that the programs are now starting to 
+begin. 
+Moderator: 
+Our next question is from the line of Sandeep from Equirus Securities. Please go ahead. 
+Sandeep: 
+Nitin is it fair to assume that there could be a sizable growth push from 3Q to 4Q because of a 
+lot of TCV in the order book, which is waiting to convert from TCV in the revenue. Is it fair to 
+assume that? 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 17 of 18 
+ 
+Nitin Rakesh: 
+Yes, I think that's part of the reason why we are talking about acceleration in growth as we see 
+through Q3 and Q4. Definitely, some of it is linked to the order book and some of it is linked to 
+the conversion. And as the sluggishness eases off based on not again any macro call, but based 
+on just the fact that we stay very focused on converting that to revenue, some of that will 
+definitely aid in this tailwind. 
+Sandeep: 
+Okay. And, Manish, just wanted to understand how to model the hedge losses in the revenue 
+line? How does that look like entry in Q3? And I do agree, eBECS has been immaterial to the 
+revenue, but if you can still quantify the revenue contribution in second quarter. 
+Manish Dugar: 
+So Sandeep, we have been watching the premium that exists in the hedges as we go forward. As 
+you would know, it used to be in the 4% to 5% range, and it is now at 1% to 1.9%. And that 
+essentially means that we have been relooking at our hedge book. We have reduced it from, what 
+we would have had around 75%, 80% covered to around 50%, 55% covered. 
+Every quarter, we are getting the benefit of higher exchange conversion rates. For example, this 
+quarter, we were able to convert at INR82.5. But because the closing exchange was at INR83, 
+which was almost INR1 higher than the previous quarter, we still ended up having hedge loss in 
+our books. So it's an opportunity loss. We could have gained more if we had not hedged at all. 
+We still believe from a principal and philosophy perspective, certainty of cost currency and a 
+sustained policy of cover of exchange at least for next 4 quarters and then the following 4 
+quarters on a reducing percentage basis, is the right strategy to adopt. We might be having a 
+negative hedge loss at this point in time because of significant volatility and depreciation of 
+rupee. But if it continues to be at the current levels, we expect that maybe in another couple of 
+quarters, we should be back to hedge profits with reducing hedge loss on a quarter-on-quarter 
+basis. 
+Your question on eBECS, like we said, it is not a material number, and we would prefer not to 
+give a number in terms of what it has actually come into the books. But it has been consolidated 
+for the full quarter, and we have taken calls on what of it we want to continue and what we want 
+to take haircut on. 
+Sandeep: 
+Okay. And likely consolidation date for Silverline in the October or maybe starting November? 
+Manish Dugar: 
+So based on the principle of convenience accounting, while the signature happened and the 
+closing happened on the 12th of October, we would consolidate effective 1st of October. 
+Moderator: 
+The last question is from the line of Abhishek Shindadkar from InCred Capital. Please go ahead. 
+Abhishek Shindadkar: 
+Just two questions. The first one, Nitin, we had called out strong traction in Canada, both from 
+a deal win and a pipeline perspective in the first quarter. Given the recent challenges, do we -- 
+any early indications in terms of potential impact of processing Visa or delaying transitions? 
+And the second part to it is, it seems like the acquisition Silverline has a subsidiary based in 
+Toronto. Any color in terms of what's the exposure to public services or to the business of 
+Canada in terms of geography? That could be helpful. Thank you for taking my question. 
+
+ 
+Mphasis Limited 
+ 
+ 
+October 20, 2023 
+ 
+Page 18 of 18 
+ 
+Nitin Rakesh: 
+So I think you're absolutely right. We've seen massive expansion in both TCV wins and pipeline 
+coming out of Canada. I think we talked about the fact that we sold more business in a quarter 
+there than we had for eight quarters in terms of revenue. I think that deal momentum has 
+continued, both in terms of pipeline, and we expect that to also continue in terms of closure as 
+we go through the remainder of the year. 
+Given that at least from an Mphasis standpoint, our exposure to public services, public sector is 
+fairly minimal. That hasn't really shown up in any major dislocations of existing ongoing deals 
+or conversations. Also, given that sensitivity will be higher if there is a pause or stoppage in 
+immigration services in Canada. So far, that hasn't happened yet either, but we are keeping a 
+close watch on it. 
+So I think at this point, no major red flags to call out. And based on what I'm hearing from Girish, 
+I don't think there is any major impact coming out of the same issue in Silverline's Toronto 
+subsidiary either. 
+Moderator: 
+Thank you. As there are no further questions from the participants, I now hand the conference 
+over to Mr. Nitin Rakesh for closing comments. 
+Nitin Rakesh: 
+Thank you all for your interest in Mphasis and your questions. While the macro remains 
+uncertain, we are cautiously optimistic, focused primarily on converting our TCV, our pipeline 
+and partnerships, and we are very, very focused on execution. Happy Navratri to all of you and 
+your families. Have a great weekend. 
+Moderator: 
+Thank you. On behalf of Mphasis Limited, that concludes this conference. If you have any 
+further 
+questions, 
+please 
+reach 
+out 
+to 
+the 
+Mphasis 
+Investor 
+Relations 
+at 
+investor.relations@mphasis.com. Thank you for joining us, and you may now disconnect your 
+lines.  

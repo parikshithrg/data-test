@@ -1,0 +1,958 @@
+May 25, 2026 
+ 
+The BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai-400 001.  
+Scrip Code: 543398 
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex Bandra East, 
+Mumbai 400 051 
+Scrip Symbol: LATENTVIEW 
+Dear Sir/Madam, 
+ 
+Sub:   
+Transcript of Earnings Call for the quarter and financial year ended March 31, 2026, 
+held on May 18, 2026 
+Pursuant to Regulation 30 read with Part A of Schedule III and 46(2)(oa) of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed the 
+transcript of the Earnings Call held on Monday, May 18, 2026, post announcement of financial 
+results of the Company for the quarter and financial year ended March 31, 2026. 
+The 
+transcript 
+is 
+also 
+available 
+on 
+the 
+Company’s 
+website 
+at 
+https://www.latentview.com/investor-relations/. 
+This is for your information and records. 
+ 
+ Thanking you, 
+ For Latent View Analytics Limited 
+ 
+ 
+ 
+  P. Srinivasan 
+  Company Secretary and Compliance Officer  
+ 
+Membership No.  F11519 
+ 
+PARTHASAR
+ATHY 
+SRINIVASAN
+Digitally signed by 
+PARTHASARATHY 
+SRINIVASAN 
+Date: 2026.05.25 
+19:38:50 +05'30'
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“LatentView Analytics Limited 
+Q4 FY26 Earnings Conference Call” 
+May 18, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. RAJAN SETHURAMAN – CEO  
+ 
+MR. RAJAN VENKATESAN – CFO 
+ 
+MODERATOR: MS. ASHA GUPTA – E&Y LLP, INVESTOR RELATIONS 
+ 
+ 
+ 
+ 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 2 of 19 
+ 
+Moderator: 
+Ladies and gentlemen, good day, and welcome to the Latent View Analytics Limited Q4 FY26 
+Earnings Conference Call. As a reminder, all participant lines will be in the listen-only mode and there 
+will be an opportunity for you to ask questions after the presentation concludes. Should you need 
+assistance during this conference call, please signal an operator by pressing star and then zero on your 
+touchtone phone. Please note that this conference is being recorded. I now hand the conference over 
+to Ms. Asha Gupta from E&Y LLP, Investor Relations team. Thank you, and over to you, ma'am. 
+Asha Gupta: 
+Good evening, everyone, and welcome to Q4 FY26 Earnings Call of Latent View Analytics Limited. 
+The results and presentation have already been mailed to you, and you can view them on the website, 
+www.latentview.com. In case anyone does not have the copy of press release and presentation or 
+you're not marked in the mail, please do write to us, and we will be happy to send you the same. 
+ 
+To take us through the results today and to answer your questions, we have the CEO of the company, 
+Rajan Sethuraman, to whom we will be referring as Rajan. And we have the CFO of the company, 
+Rajan Venkatesan, to whom we will be referring as Raj. This is just to avoid confusion while doing 
+the transcript. We will start the call with a brief update on the business and financials, which will be 
+then followed by the Q&A session.  
+As usual, I would like to remind you that anything that is mentioned on the call that reflects any 
+outlook for the future or which can be construed as forward-looking statements must be viewed in 
+conjunction with the risks and uncertainties that we take. These risks and uncertainties are included, 
+but not limited to what we have mentioned in the prospectus filed with the SEBI and subsequent 
+annual report that you can find on our website. 
+ 
+Having said that, I will now hand over the floor to management. Over to you, sir. 
+Rajan Sethuraman: 
+Thanks, Asha, and thank you all for joining the call. I'll take some time to cover 4 topics on which I 
+thought I'll provide some additional color in addition to the information that's been already made 
+available to you as part of the press release and the investor presentation. And then I'll hand over to 
+Raj for further commentary on the financials. 
+ 
+The first topic I want to talk about is the whole AI thrust for the organization as well as what you all 
+have probably been hearing about in the external media and within the IT services world. We are 
+seeing fairly strong traction for all the AI work that we have been doing. Internally, we have been 
+looking at AI work as work that we do using traditional AI, generative as well as the new agentic 
+solutions that are being implemented.  
+And we did an internal check on the work that's been done last year in relation to all these three - 
+traditional, generative and agentic. And we are happy to share that about 28% of our revenues for last 
+year involves one of these three, where the AI aspect is clear and visible to the client, which means 
+that they can experience the generative AI interactions or the agentic solutions directly in the 
+implementation that we have done for them, which we feel is a fairly strong traction for the work that 
+we've been able to do on that front. So, we call this primary AI, where the AI solution is directly 
+visible in the hands of the end customers that we are working with.  
+In addition to that, there is a fairly good chunk of work where the AI is kind of under the hood, but it 
+is still powering either the decision-making or the modeling of the workflow or the process aspect as 
+the case might be. And that is to the tune of another 21% in the work that we did last year.  
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 3 of 19 
+ 
+So overall, almost half the work that we have been doing has involved AI in some shape and form, a 
+good chunk of it being directly visible right in the hands of the end customers. 
+ 
+There is a fairly broad spectrum of work which we are doing within the agentic space itself, and I'll 
+touch upon that in a few minutes. But in terms of the tooling and the technology that's used, it's 
+covering all the major names that you're familiar with, whether it's Codex from OpenAI or Claude 
+Code and Claude Cowork from Anthropic, Gemini Antigravity, right? All of these are being put to 
+good use in the work that we are doing. 
+We are also doubling down significantly on the AI partnerships and the work that we're doing, and I'll 
+come back to that in a minute. But before that, just giving a bit more color on the nature of the work 
+that is being done using generative and agentic, in particular. There's work that we are seeing in the 
+payments, invoice reconciliation space where agentic flows are being implemented. 
+There is quite a bit of work that we are doing on market intelligence gathering and orchestration and 
+making it available in the hands of decision-makers, running campaigns in an automated fashion using 
+agentic frameworks that have been implemented. 
+A significant amount of work is being done for marketplaces and platforms around fraud analysis, 
+counterfeit detection and quite a bit of work also, again, in the manufacturing space in relation to 
+warranty claims handling. So these are some examples where fully agentic workflows and 
+orchestration have been implemented, and that is actually starting to yield business impact that is 
+directly visible to the client. 
+From our perspective, we are really doubling down on further strengthening our AI capabilities, both 
+on the go-to-market (GTM) front, as well as on the internal capability building. So there is a Claude 
+certification program that's currently underway, where over 200 people have signed up and almost 40 
+people are in final stage of launch. So there's a great deal of enthusiasm for all actions related to that. 
+I was in the U.S. the last 3 weeks, and I had the opportunity to meet a lot of clients and also our 
+partners. And one of them that we are starting to work with is Anthropic and the person who leads the 
+Anthropic partnership, and there is a good amount of traction on that conversation as well. 
+From a capability standpoint, we are going to be building further strength in terms of the agentic focus, 
+especially senior architects that we'll be hiring. And the entire model, you are probably also hearing 
+that it's kind of like shifting to what is being termed within the industry as forward-deployed engineers 
+where people with full spectrum skills, in some sense, it's a bit of full stack engineers from the past, 
+but with additional AI capabilities and domain understanding and customer interaction capabilities, 
+right, all that rolled into one is what is termed as the forward deployed engineers. 
+We are again looking at building capabilities around forward deployed engineers who are able to bring 
+the data engineering, BI, data science as well as AI skills together in designing and implementing the 
+solutions, right, that make a difference in the client organization. 
+One final point on the AI. The announcements by OpenAI and Anthropic that they are going to be 
+forming joint ventures to create services arms, and extend their capabilities not just beyond the models 
+that they are building to directly getting into enterprises. While there have been concerns around that 
+in terms of what it means for services companies, I think it's also a validation that a very strong services 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 4 of 19 
+ 
+layer is required. 
+And just the models by themselves cannot deliver value until the services layer is available to take 
+care of a lot of the orchestration, not just the business process and the decision-making and the 
+embedding within the workflow, but more importantly, topics around transparency, governance, 
+evaluations, validation, provenance, ability to prove something, right? All of these things are important 
+questions. And this is what a strong services layer can help accomplish so that AI solutions are not 
+just some model that's sitting in an ivory tower, but it's actually seeing practical application with very 
+defined business benefits. So, I just want to give you that perspective from a traction standpoint. 
+The second topic is our partnership with Databricks. Again, a lot of traction on this trip to the U.S. I 
+had opportunity to meet multiple people on the partnership ecosystem. Our partnership in the 
+consumer goods manufacturing and technology space continues to evolve and strengthen. I also had a 
+chance to meet with the person who heads up the professional services partnership. We have a small 
+foothold there. And this conversation helped push that further in the right direction. We are also 
+evaluating potential inorganic acquisition opportunities where these firms come with a much stronger 
+professional services partnership with Databricks. And this is something that, again, we validated with 
+the Databricks leadership team on whether that will actually help propel us right into the next orbit. 
+So this is something that we will double down on in the coming months and quarters. The Databricks 
+Summit is coming up in June, and we will have a very strong representation there with many of our 
+leaders being in attendance. We also organized several exclusive dinner events with several of our 
+clients and prospects and I'm expecting more traction on the back of that. 
+Finally, we are continuing to make investments both on the go-to-market front as well as on the back 
+end capability experts, architects and so on. And this action will continue in the coming quarters. So 
+this year, two strong pillars of growth will continue to be the AI traction and the partnership with 
+Databricks. And we are expecting that these will yield profits not only in this year but in the coming 
+year as well. 
+The third topic I wanted to briefly touch upon is the investment that we made in Healtheon. You would 
+have seen the press release that came out earlier in the last quarter. It’s a small investment, but we are 
+the first investor into Healtheon. 
+Healtheon, when we started looking at them and evaluating them, they came with an exceptionally 
+strong business problem and a use case. But more importantly, a very, very well thought out technical 
+architecture and an agentic framework that can solve the revenue cycle management problem within 
+the healthcare space, using largely, right, 80%, 90% of it being done using an agentic orchestration. 
+And of course, there is a human in the loop aspect to that as well, but the solution that they had built 
+and that they had conceptualized and designed was something that resonated with us.  
+They are currently in the process of building out the agentic suite and the technical solution. They 
+have also signed up two charter clients with whom they are working to build out these agents. As part 
+of the access to the full suite of agents that they will be building, which we can then leverage and use 
+them in other conversations, both from a showcase perspective as well as using them as components 
+in the solutions that we deliver. Plus the revenue cycle management solutions that they are building 
+will be available in a composite fashion if we intend to take it into other health care clients. So I'm 
+expecting that there'll be more traction in the coming months and quarters, and we'll keep you posted 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 5 of 19 
+ 
+about it as we move forward. 
+Finally, the last topic I wanted to cover was the technology industry and some of the headwinds that 
+we have talked about in the previous quarter. We did start this new fiscal with a bit of a gap down 
+because of the headwinds that we witnessed in the last quarter. But I'm happy to report that there are 
+several strong opportunities that we are pursuing, especially on the back of the AI push that we are 
+seeing in these accounts. In fact, in our largest account, as part of this trip, I was able to participate in 
+three fairly large deal conversations. And one of them is almost at the point of fructifying, which will 
+be a $3 million-plus deal in total, but the other two are also $1 million, $1.5 million in size. So, while 
+they have not completely covered the gap down that we had, they do bring us back to a reasonable 
+level of confidence. And we are expecting that if the momentum continues through the course of the 
+year, we'll be able to claw back much of what was lost because of the headwinds in the last year. 
+One other thing is that we're also engaging with their vendor ops organization, and we are providing 
+analytics support to them, bringing us closer to the procurement organization and getting us more 
+visibility with what is happening within the rest of the organization. So, these are the four broad topics 
+I wanted to cover. 
+Otherwise, as an organization, we continue to double down on our client partners on hiring the right 
+go-to-market people, making some internal tweaks as well so that we are fostering greater 
+collaboration and cross-pollination across our entities. But these are things that will pan out over the 
+next few quarters, and we will keep you posted in terms of any specific mentions that we may have. 
+Very happy about how we closed out last year, and I'm seeing a reasonable amount of optimism as we 
+step into the year. 
+So with that, I'll hand it over to Raj for further commentary on the financials. 
+Rajan Venkatesan: 
+Thank you, Rajan. Good evening, everyone. And welcome to the last investor call for the fiscal year 
+FY '25, '26. One of the, I would say, big positives for this year as we close the year was going past the 
+INR1,000 crores mark, which is a fairly significant milestone for us. Even in dollar terms compared 
+to the year in which we IPOed, we've roughly grown about 2.2x in about the 3-year time frame. 
+So, I would say from the sort of growth that we've delivered and consistently with profitability, we 
+were fairly happy with the numbers that were achieved for the last fiscal. And this was also in line 
+with the guidance that we had given earlier in the year where we've indicated that on a full year basis, 
+we'll deliver between 19% to 20% growth with an EBITDA of about 23% to 24%. So pretty happy 
+with the way the year has turned out to be. 
+In terms of specifically what's happened in this quarter, of course, Rajan already touched upon the fact 
+that we did start the year with some level of shrinkage in one of our large accounts, technology 
+accounts, where there was a fair bit of consolidation that happened within this one large account as 
+well as deprioritization of some of the work that we were doing. 
+So, we are fairly happy to note that despite the shrinkage that happened in this large account, we were 
+still able to grow in dollar terms by about 0.5% on a sequential basis compared to the previous quarter. 
+This was, of course, driven largely by the strength that we witnessed in the BFSI as well as the CPG 
+retail practice. And we'll talk a little more about what drove growth in these accounts. But BFSI 
+continues to deliver fairly strong numbers. Even as we head into the next year, we expect this practice 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 6 of 19 
+ 
+to continue to deliver strong growth. For the last year, we're very happy to report that the BFSI practice 
+grew in excess of about 80% compared to the year before. 
+In terms of the Y-o-Y growth, for this particular quarter, in dollar terms, the revenue came in at about 
+17% higher than the previous year. And in rupee terms, of course, because of the INR depreciation, 
+the year-on-year growth came in at about 24.3% compared to the same quarter in the previous year. 
+I'll talk a little bit about what sector specifically. So, you will see that the technology vertical for us, 
+historically used to contribute in excess of almost 70%. I mean if you go back almost 8 quarters, right, 
+if you go back to Q1 of FY25, the technology vertical used to contribute almost 70% of our revenues 
+at that point in time. From there to now, you will see that the share of technology from the 70% has 
+come down to about 55%. While technology has continued to grow, what is heartening to note is some 
+of the other verticals, which are primarily BFSI and CPG retail, their share of revenue has grown 
+substantially. One, obviously, based on the organic growth that we witnessed in BFSI, but two, also 
+Decision Point acquisition, which has led to the increase in the overall CPG and retail business. 
+We're also happy to note that the share of revenues from the rest of the world, I mean at one point in 
+time, maybe 8 quarters back, U.S. used to contribute 94% of our overall revenues, whereas the rest of 
+the world, including Europe was about 6%. We're happy to note that for the most recent quarter, our 
+share of revenues from the rest of the world has increased to about 15% compared to 6%, 8 quarters 
+back.  
+So, both from a geographical concentration standpoint as well as from a vertical concentration 
+standpoint, we have seen some of the other verticals as well as geographies expand, and that is again 
+heartening to note.  
+I'll talk a little bit about the profitability itself for this particular quarter. You would have noted that 
+our EBITDA for this quarter, and this I'm talking about adjusted EBITDA. The adjusted EBITDA 
+came in at about 24.1%, there was, of course, a benefit of forex, which was to the tune of about 1.1% 
+on the overall EBITDA for this quarter. But this particular quarter, we also had some benefits in terms 
+of certain costs that were there in the previous quarter, which did not recur in the current quarter. So, 
+you will all recollect that the last quarter, we had made corrections to our wages to comply with the 
+Labor Code. And also, there was severance pay that was paid for some level of headcount 
+rationalization that we had done in the last quarter. Those two items contributed almost 1.5% of costs 
+in the previous quarter, which did not recur in the current quarter. So we did get some of those benefits. 
+However, the positive impact of forex and the labour code-related restructuring was offset by higher 
+spend on travel as well as SG&A, other items like visa. 
+Even though our visa cost as compared to the previous year has come down, but then we did have a 
+fair amount of visa costs for H1B filings that we had to do, and those costs were incurred in the end 
+of Q4. Both of those meant that the consolidated impact of higher travel plus visa cost was about 1.1% 
+on our overall EBITDA. And of course, we continue to sort of spend on certain other aspects, we still 
+want to increase some of the leadership hiring, specifically as far as the AICOE is concerned. 
+Hiring client partners for some of our key accounts as well as continuing to build our Databricks 
+practice. So, we had some level of higher SG&A spend in relation to some of these hiring efforts that 
+we had to make. Net-net, from the 23%, the items that I spoke about meant that for this particular 
+quarter, we came in at about 24%. But on a full year basis, again, in line with what we had guided 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 7 of 19 
+ 
+before, our business EBITDA for the full year came in at 23%, in line with what we had guided. 
+This is also the last quarter in which the transaction-related retention cost expense that we were 
+adjusting for the purpose of reporting EBITDA that would be incurred. Going forward, you will not 
+see that line because you will not have this cost going forward.  
+Coming to the PAT and the EPS, this quarter also had a small benefit coming through on account of 
+deferred tax asset that was created in relation to unexercised ESOPs that were there in the U.S. Please 
+note that this is only for the U.S. and this was an accounting charge in some sense, and it was not 
+charged. This was an accounting sort of asset that we had to create, which resulted in the ETR dropping 
+from the typical 25% to about 22% levels for this particular quarter. Going forward, we will not see 
+any such impact. And this, I'm talking about the current ESOPs that have been issued to the employees.  
+On the EPS line, again, EPS for this quarter, while you did see a small degrowth compared to the 
+previous quarter, the degrowth is largely on account of lower other income that you would have seen 
+compared to the same quarter in the previous year. You will see that for Q4 of FY '25, the EPS came 
+in at about INR2.59 against that we are at about INR2.55. But please bear in mind for the last year, 
+there was almost INR4.5 crores forex gain that we had recognized in relation to some intercompany 
+loans and advances that were given out. If you were to strip that out, the EPS even on a comparative 
+basis had grown by about 8%, compared to the previous year. 
+So, with that I would like to close my opening remarks saying that we are happy to note that FY '26 
+concluded on a fairly strong note. While there has been some level of headwinds in the technology 
+vertical, we are impressed particularly by the strength in the BFSI and the CPG practice. Our 
+Databricks practice again continues to generate significant traction in terms of deal pipeline and 
+inbound sort of referrals. 
+We're also fairly excited about the transformation and the winds of change that we are seeing on the 
+AI side. So close to about 28% of the projects that we delivered in the last year had a significant AI 
+component. And we believe that this number is only bound to increase even in the current year as we 
+continue to execute through this year. With that, I will hand it back to Asha and we can open up for 
+Q&A. 
+Moderator: 
+The first question comes from the line of Aditi Patil from ICICI Securities. 
+Aditi Patil: 
+My first question is on the technology vertical. The sequential drop in technology vertical appears to 
+be higher than what we had called out in Q3. So, correct me if I am wrong, we had called out around 
+$5 million, $6 million annual drop we are expecting in one of our top tech clients. So if you consider 
+that, then the sequential drop in Q4 seems to be slightly higher. Is my understanding correct? And is 
+there any other client-specific issue in the technology vertical? 
+Rajan Venkatesan: 
+Yes. Aditi, specifically in this particular account, while the initial estimate was the drop will be closer 
+to about $5.5 million, $6 million, that was the estimate that we had given out in the last quarter. In 
+reality, some of the rationalization that happened subsequently as well or continue to happen meant 
+that the total value of shrinkage was closer to about $6.5 million to $7 million. That is the total value 
+of shrinkage that happened in this particular account. 
+But with this, the one thing that we want to confirm is all the renewals, all the rationalization are all 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 8 of 19 
+ 
+done. So, it was not $5.5 million to $6 million, it was closer to about $7 million, but coming back to 
+Rajan's point, we are in active discussions even with this particular account on several other threads  
+at this point in time. Which definitely gives us confidence that we will be able to recoup more than 
+50% to 60% of the revenue lost in this account in the next one or two quarters in terms of the overall 
+book of work that we execute with them. So there are already some very advanced discussions that 
+we are in with this particular client to recoup the revenue lost. 
+Aditi Patil: 
+Okay. Got it. And apart from this client, what is the traction we are seeing in other clients? And 
+therefore, like what kind of growth should we expect in technology vertical in FY '27? 
+Rajan Sethuraman: 
+I can cover the traction and Raj you can comment on the percentage number. The other two large 
+accounts that we have in the technology space, in general, with one of them, it's been fairly even keel, 
+right, at this time. They have also gone through some leadership change at their end at the very top. 
+And the third one, they've been going through some consolidation and related exercises over the last 
+couple of years. But at this point in time, again, the interactions that we have had so far indicates that 
+we will actually pick up in the next year. 
+Other than these 3 top accounts, in general, the sentiment in the technology space, given the amount 
+of activity that is happening in relation to AI seems to be more positive rather than negative at this 
+time. Of course, clients want to do a lot more on their own. But there is also the general feel that 
+whatever initiatives were kept on the back burner whatever was shelved earlier can all be picked up. 
+And there could be movement on many of them because the economics of getting initiatives done has 
+improved significantly. I mean you can do many of these things with much higher velocity with lower 
+effort. And that is creating a revival of interest in exploring and doing a lot more things in comparison 
+to budget constrained approaches. That were there in earlier quarters.  
+So, in general, I feel more optimistic. I mean the percentages and stuff we will obviously see as things 
+pan out over the next one, two quarters. But at this point in time, that's the headline. 
+Aditi Patil: 
+Okay. That's helpful. And my next question is on the BFSI vertical. So we had a very strong growth 
+in this vertical for last the few quarters. But in Q4, if we see the sequential growth, it was flattish. So 
+was there any onetime revenue in Q3, which were not there in Q4? Or what can explain this? 
+Rajan Venkatesan: 
+Aditi, even in relation to what we delivered for the last quarter, the share of BFSI revenue from 14% 
+has gone to almost 16%, in this particular quarter on a sequential basis. So there is a definite increase 
+in this particular quarter in relation to the previous quarter. 
+Aditi Patil: 
+Okay. I will just check my numbers on that. 
+Rajan Venkatesan: 
+Yes. I'm happy to answer this offline. But at least for this quarter, there was fairly strong momentum 
+even in BFSI. So, BFSI ended the year with close to about $18 million in revenue, and as the business 
+continues to scale, you will see the incremental rate of growth dropping because obviously, they are 
+on a higher base as well. So that is something that we will start to witness. But in absolute terms, the 
+current business has continued to grow. 
+Moderator: 
+The next question comes from the line of Karan Uppal with PhillipCapital India. 
+Karan Uppal: 
+Rajan, You mentioned about the AI impact on the business is like that almost half of the work has 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 9 of 19 
+ 
+some bit of AI involved. So if you can give some examples in terms of the nature of services, which 
+we are delivering as well as the deal sizes. And if you can also comment how the deal sizes are different 
+from the traditional deal size of around $0.5 million to $1 million or maybe $1 million to $2 million. 
+And how much of it is, let's say, the token cost, which could be a pass-through revenue and how much 
+is retained by LatentView, so that's my first question? 
+Rajan Sethuraman: 
+Yes. The last question is easy to answer. Whatever revenue that we are reporting is all our revenue. 
+It's got nothing to do with the token cost because the model that we use with pretty much all the clients 
+that we are engaging with is that they take care of the infrastructure tokens, whatever LLM access and 
+all that. So everything that we are talking about is our revenue. I did give some examples when I did 
+my opening remarks around the agentic workflows and processes. That we are impacting around 
+payments, invoice reconciliations, market intelligence orchestration, campaign analytics, fraud, 
+counterfeit analytics, warranty claims and so on.  
+It's fairly broad-based in the sense that any area where the process is known and the parameters are 
+understood and guardrails can be established, guardrails in the sense that you want to make sure that 
+there isn't hallucination, there is transparency, traceability. All of that stuff in terms of what is the 
+decision that is being made and why is the decision made, right? And then you can clearly connect the 
+dots, especially in a multi-agent orchestration framework when agents hand off from one to other, it's 
+important to have that kind of recognition. 
+So in those type of situations where there is a good understanding of the traceability parameters, there 
+is enough traction. Of course, simpler ones, right, where when I say traditional, when I gave those 
+numbers, it included the combination of all three, traditional, generative and agentic. A lot of the work 
+that we are doing is having some AI component in some shape and form. 
+So going back to your question on deal sizes, it is the full spectrum. I mean we are seeing examples 
+where a particular use case or something simple is being done with trillion-dollar spend. But we are 
+also seeing examples where the initiatives are fairly larger. In fact, the three initiatives that I referred 
+to with our largest account, all of them involve AI in some shape and form because I mean, which 
+technology clients are not leveraging AI. Its pretty much a given. 
+I mean you cannot do any work without the AI either under the hood or directly being implemented 
+in the form of either a generative AI interface or an agentic orchestration of the workflow. So the 
+spectrum of work from a deal size also ranges all the way from $0.25 million to $2 million, $3 millions. 
+Karan Uppal: 
+Second is on this OpenAI and Anthropic launching their services arm, it's a very recent phenomenon. 
+So any anecdotal evidence of, let's say, enterprises maybe giving more work to the services arms of 
+OpenAI and Anthropic and maybe rationalizing third-party vendors, not LatentView, but anyone else 
+you have seen in the industry, any observations there? 
+Rajan Sethuraman: 
+It's too early to comment on that. I mean, obviously, they just have announced these launches. I think 
+OpenAI acquired a company, if I remember, I think called Tomorrow or some, that was the name I 
+saw. And the others are in the process of setting up their JVs and hiring people. Anthropic plus OpenAI 
+probably had put out, recruited 500-odd people, okay, of forward deployed engineers, that I mentioned 
+earlier. 
+So they will be building out these teams. But obviously, they will focus more on the areas where they 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 10 of 19 
+ 
+see friction with respect to the model usage. There is a fairly large amount of work that needs to be 
+done. And we see by any stretch of imagination that an OpenAI or Anthropic will be able to do 
+everything because the model is just one aspect of it. Everything that I talked about that needs to sit 
+on top of that. That all needs to be done by some services company or the other. 
+Of course, these can range all the way from boutique firms to the OpenAI and Anthropic service arms, 
+right, doing it themselves. But I'm sure that they are also announcing multiple partnerships. Anthropic 
+has received applications for some 40,000 people like partners and they're working through the 
+mechanics of these areas. 
+These two firms are also taking very specific approaches. I mean Anthropic has been more enterprise 
+focused. OpenAI has been more consumer focused, but I'm sure that there will be some amount of 
+meeting point, right, that will happen over the next few quarters. In general, my feel is that thesis play 
+will be a significant play in the scheme of things. I mean that is the point I wanted to make. 
+That is not going away. Of course, the nature of the work will change in terms of the power deployed 
+engineering model coming into play. But there is a tremendous amount of work that needs to be done 
+on all the points that I mentioned, whether evaluation, observability, traceability, right, all of that stuff. 
+Karan Uppal: 
+Okay. Got it. Next is on FY '26, in dollar terms it is 20% of growth but if can you clarify what is the 
+organic part in it? And for FY '27, how should we think about the overall growth for the company? 
+Rajan Venkatesan: 
+Yes, the organic growth for the business would be 18.2% or 18.3% because please recollect that there 
+is only one quarter of Decision Point revenue, which was not consolidated last year. We started 
+consolidating Decision Point revenues from 1st of July last year. So, we had 3 quarters of revenue. So 
+it is only one quarter that was missing. So, the rest of the business delivered 18% growth. In terms of 
+your growth guidance for the next year, and maybe, Rajan, do you want to take it or do you want me 
+to take that question? 
+Rajan Sethuraman: 
+Yes. You can take it. I can add on the color. Go ahead. 
+Rajan Venkatesan: 
+Yes. So, Karan, right now, what we definitely can see at the beginning of the year, of course, when 
+we're looking at planning for the next year, we actually want to split that answer into a couple of sort 
+of data points. So right now, the way we are looking at our current order book as well as pipeline, we 
+have a reasonable level of confidence in terms of high visibility pipeline and order book to deliver 
+about 12% to 13% of growth, and that is, of course, at the beginning of the year. As we see in any 
+year, typically, whatever you have visibility for, you will end up adding more to the order book and 
+pipeline through the rest of the year, right, and that is where we obviously are making investments in 
+the go-to-market side as well as on the capability building side. 
+All those investments are obviously targeted to deliver a growth rate, which is very similar to what we 
+delivered this year. This is all organic that I'm talking about. I'm not talking about including inorganic. 
+But right now, the level of visibility that we have is to deliver a 12% to 13% growth. But with 
+investments that are being currently made to deliver a similar growth to what we delivered, which is 
+18% to 20%. 
+Rajan Sethuraman: 
+Yes. The only data point I'll add is that in the previous years, compared to when we start the year to 
+when we end the year, this high visibility number that Raj talked about has typically gone up in the 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 11 of 19 
+ 
+range of 8% to 10%. So, it kind of adds up, I mean we are targeting a 20% kind of a growth, and if 
+things pan out well, then we should be able to get there. 
+Moderator: 
+Thank you. The next question comes from Vimal Jamnadas Gohil from Alchemy Capital Management 
+Private Limited. 
+Vimal Jamnadas Gohil: 
+Yes, thanks, gentlemen. My first question is on the overall outlook that you just provided. Partly, 
+you've answered my question, but I just wanted to get a sense of what are we building in, in terms of 
+tech and non-tech verticals? Are we building the headwinds to continue for the tech vertical because 
+you mentioned that despite strong conversations with our top clients, we'll still see the revenues won't 
+fully cover the decline that we've seen. So that essentially means that the non-tech verticals will do 
+the heavy lifting. Correct me if I'm wrong. 
+ 
+And I just want to understand the nature of the decline in the technology vertical. Is it because of 
+absolute cancellation of projects? Or has there been a severe deflation in the amount of work we've 
+done. So basically, what I mean is the volume of work that we've done has possibly increased, but the 
+deflation around that has been higher than our volume growth. Has that been the case? 
+Rajan Sethuraman: 
+I'll take the second part of the question. And Raj, you can comment on the percentages question. The 
+nature of the decline is twofold. One is a consolidation where they have decided to work with one of 
+several partners. This has led to some amount of the decline. 
+ 
+The second part of it is taking the work in-house. Specifically in this account, there was a new leader 
+who came in to head up a big chunk of the work that we were doing. And their preferred model is to 
+work with internal full-time employees as opposed to work with the vendors. That's what they are 
+familiar with and comfortable with from their previous organizations. And therefore, the moment they 
+came on board, they very clearly made their intent known to us, that this is the direction in which 
+they're going to move. 
+ 
+There is no impact on account of work staying the same, but revenue falling or anything like that. I 
+mean the way the whole industry anyway is moving is that budgets are either staying the same or 
+going up in general. They're just getting more work done because of the increased productivity that is 
+now possible through the use of AI, right, in all shape and form. So, if you take a baseline two years 
+back and compare it to today across the board, right, in all industries, all sectors and more so in the 
+technology sector, you will feel that for the same amount of budget, 30%, 40% more work is being 
+done. 
+ 
+There has not been any shrinkage of budgets itself that we have seen. They've either been a reallocation 
+to internal mechanisms or consolidation with other partners. You haven't seen instances where clients 
+have said that do the same work for us, but we're going to pay you less. In general, they said that we 
+are going to pay you the same amount, but more work can be done with the money as well. Raj, maybe 
+you can give color on the percentage. 
+Rajan Venkatesan: 
+Yes. So, Vimal, in terms of percentage, your assessment is right that it will be the non-tech vertical, 
+which will have to do the heavy lifting this year. But having said that, I think right now, the visibility 
+or I would say, the sort of confidence that we have is that technology will deliver anywhere between 
+and I'm giving you a range over here because right now, we are working on certain pipeline 
+opportunities depending on, one, the size of these pipeline opportunities eventually and also the timing 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 12 of 19 
+ 
+of when we close them, the revenue that we'll be able to book for the year may sort of change, right? 
+ 
+So, technology vertical for this year, our sense is that it should be between 5% to 8% growth on a 
+year-on-year basis. This is adjusting for the loss. They will still be able to recoup some of the losses. 
+Of course, also there are some new conversations that are going on with some new logos as well in 
+the technology vertical. So adjusting for the losses that we've already witnessed, we should be able to 
+deliver a Y-o-Y growth of about between 5% to 8%. That's the confidence that we have.  
+Consumer should, our sense is right now, should grow anywhere between 18% to 22%. So that's the 
+sort of range that we're looking at. And BFSI, obviously, the growth rates for the next year will come 
+down compared to the previous year. But our sense is they should grow at least at about 40% for the 
+next year, based on where we stand right now. 
+Vimal Jamnadas Gohil: 
+Understood, Raj. Raj, just on margins, we've had benefits around, of course, the USD. We've also had 
+some employee adjustments that we have done, plus we have had our utilization levels around 90%. I 
+do understand, I mean, the utilization going up because of employee adjustments. But to some extent, 
+I feel we've sort of stretched our levers in terms of margins. In case there is any normalization as far 
+as these levers are concerned, how should we think about margins going ahead? I mean I don't see any 
+levers that we can sort of leverage at this point in time. 
+Rajan Venkatesan: 
+So, your point on utilization for this particular quarter going up from the 85% to almost 89% levels is 
+very valid, Vimal. The only point that I would want to reiterate is one of the reasons why the utilization 
+levels have significantly gone up in this quarter is owing to some one-off. When I say one-off, this is 
+certain large one initial project that we have won with certain consumer clients. And they are actually 
+cutting across two different quarters. So, some of these projects were won in February and March. 
+And they continue to be delivered through May and June as well. So, in order to deliver these projects, 
+of course, we had to deploy all the people that we had on the bench, and therefore, that's the reason 
+why you have seen utilization levels going up. Having said that, I think one of the things that we 
+continue to work through is this large client consolidation that we spoke about, a lot of the work 
+historically used to happen on site. 
+ 
+One of the things that we are actively pursuing with the client is as we open new threads with the 
+client, we want to do a lot more work either offshore or nearshore. So, that is one lever where definitely 
+from a margin standpoint, we will be able to make better margins on some of these projects.  
+Two, I think while on a full year basis, you may not have seen the impact, the favorable dollar to INR 
+ratio right now as we see it, should continue to positively impact us. I mean if they continue to stay at 
+these levels, for sure, I think there will be a positive impact on margins for next year. So, I think there 
+is sufficient cushion both in terms of the movement to doing more nearshore and offshore work for 
+technology clients plus the favorable INR USD ratio right now. 
+Vimal Jamnadas Gohil: 
+The CPG vertical should see normalization next quarter, Raj, because there was a one-off this quarter? 
+Rajan Venkatesan: 
+Yes, there will be some level of, I would say, normalization for the next quarter because some of these 
+large projects that we executed, they will start sort of tapering off in the next quarter. Of course, there 
+are some conversations in the pipeline for follow-on work, but you will see a little bit of tapering off 
+for at least the next quarter for CPG. 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 13 of 19 
+ 
+Vimal Jamnadas Gohil: 
+Fair. Thank you so much. I'll fall back in the queue. 
+Moderator: 
+Thank you. The next question comes from the line of Pritesh Thakkar from PL Capital. Please go 
+ahead. 
+Pritesh Thakkar 
+So, I was referring to the earlier question of Karan. You were indicating 12%, 13% of revenue that we 
+are anticipating. So that is majorly on the existing accounts or the qualified debt pipelines that we 
+have. That's what we are referring to, right? as per my understanding. 
+Rajan Sethuraman: 
+It's not just existing accounts. When we say we have visibility of 12% to 13%, it will be a combination 
+of growth we are expecting from existing accounts as well as the high probability opportunities that 
+we see in the pipeline with the new stakeholder groups and existing accounts as well as completely 
+new logos. What Raj referred to is the ones where there is high probability and high degree of 
+confidence. The full pipeline will have many other opportunities that are at a lower level of probability, 
+right, which we want to progress. 
+ 
+In addition to that, we still have more than 10 months available, right? And we will keep adding new 
+opportunities. The point I made was that in general, in the past, compared to the high visibility number 
+that we talked about at the beginning of the year to where we will likely end up, we have seen an 8% 
+to 10% kind of an addition, okay, if things go well. So that's what we are expecting for this year as 
+well. 
+Pritesh Thakkar: 
+Understood. I was just looking at the client additions that we had on a $5 million plus band. If you can 
+provide some color on the industry profile and the scope of engagement with this particular account. 
+Rajan Venkatesan: 
+Yes. So, this actually is a financial services account that we've added. 
+Pritesh Thakkar: 
+Okay. Understood. And lastly, on the bookkeeping side, two years back, if I look at our DSO was 
+around 65 in FY '25. It was 73 a year back and now it is 80 in FY '26. So if you can provide some 
+color why it is inching up and what should be the steady state going forward? 
+Rajan Venkatesan: 
+Yes. So, I would say two things. One, as the share of Decision Point revenue to the overall company's 
+revenue increases, you will see a small uptick. I think we are already maxed out in terms of what that 
+impact is. But Decision Point, because they do a lot of work with CPG companies, CPG companies in 
+general tend to have credit terms ranging between 90 to 120 days, and for this particular quarter, 
+specifically because of the uptick in CPG revenue, which is largely driven by Decision Point, you did 
+see that DSO days go up. 
+ 
+Having said that, purely from a bookkeeping standpoint, we are very well aware of the fact that the 
+DSO was high at year-end, but we've realized a lot of those collectables subsequent to the year-end as 
+well, right? So, some of those were billed out or were in unbilled revenue, which has been 
+subsequently invoiced. So, there has been a fair bit of progress as far as even the collectibles are 
+concerned. 
+Pritesh Thakkar: 
+Okay. Understood. Lastly, on the margin side, given our appetite for investments, even if I look at last 
+year, there was a lot of rupee depreciation benefit that came into our bucket, but we made a lot of 
+investments there. So even if I were to include quarter three one-offs that we had on an adjusted basis, 
+if I look at FY '26 margins are, I would say, marginally lower than what we delivered in FY '25. So, 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 14 of 19 
+ 
+can we expect FY '27 to replicate a similar trend of yours? Or you believe the investments are largely 
+done and dusted? I heard Rajan saying that we have some seniors onboarding process. And at the same 
+time, we are hiring forward deployed engineers there. So just wanted to understand the investment 
+strategy that we are introducing. 
+Rajan Venkatesan: 
+So yes, I would say consistent with what Rajan already alluded to, there will be some senior level 
+hiring that we will continue to make specifically in the AI space, right, including a potential hiring of 
+a Chief Technology Officer. So, some of these investments will be made to obviously future-proof the 
+organization. We will continue to add people on the AI side across all industries as well because that 
+is something that I think from how we lead conversations with clients, I think an AI-first narrative is 
+absolutely important. We need to hire people who deliver some of these projects at scale, right, for 
+large enterprises, and we will continue to make investments in bringing some of these senior level 
+folks, Pritesh. 
+ 
+So I don't think from an investment standpoint, all the investments that we had to do, it's not like we've 
+done all of them. Specifically on the capability side, we will continue to invest. Maybe on the go-to-
+market side, we don't need to do a lot more investments. I think there is a fair amount of investment 
+that is already there. Here and there, depending on it, it could be geography-specific investment, could 
+be in Europe, right, specifically, we may do one or two hires. But on the GTM side, we are largely 
+done as far as the investment is concerned. Databricks, again, we will continue to invest in this 
+partnership channel for growth.  
+So, I would say the two big areas of where we will continue to make investment would be Databricks 
+as well as the AI center of excellence. 
+Pritesh Thakkar: 
+And how much is our revenue from Databricks currently this year, if I look at FY'26 full year absolute 
+terms? 
+Rajan Venkatesan: 
+So, on a full year basis, our revenue from the Databricks ecosystem put together is closer to about 
+$17.5 million. 
+Pritesh Thakkar: 
+And the Y-o-Y growth, how much that we delivered in yearly terms? 
+Rajan Venkatesan: 
+So, the previous year, the similar number was close to about $12 million. 
+Pritesh Thakkar: 
+Understood. Yes, thanks a lot. Thanks a lot for answering this question. 
+Moderator: 
+Thank you. The next question comes from the line of Srinath V. with Bellwether Capital. 
+Srinath V.: 
+Hi, guys. Three questions. I'll just put all the questions together. Raj, first question would be the growth 
+outlook shared in the call, would that be in USD terms or constant currency terms? If you could clarify 
+that, that will be great.  
+The next set of questions are on Databricks. I want to understand the outlook for Databricks for FY 
+'27. What's the kind of growth you guys are working with? And would it be fair to assume that 
+Databricks-funded or cloud partner-funded projects will start coming in this year? And would it 
+largely show up in CPG and industrials? 
+ 
+And the last one would be the Financial Services business, could you kind of cover it a little more in 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 15 of 19 
+ 
+detail, the sequential growth, Y-o-Y growth, momentum seems to continue. So again, kind of how is 
+the outlook for FY '27, new logo additions? Or is it all coming from these existing set of customers 
+spending more? So, these are the large three areas. If you could please address that will be great. Thank 
+you guys. 
+Rajan Sethuraman: 
+Raj, you can take the first question. I will address the second and third. 
+Rajan Venkatesan: 
+Srinath, to answer your question, the growth guidance that we put out at the beginning of the call is 
+all in USD terms, not INR. 
+Rajan Sethuraman: 
+On Databricks, Srinath, the expectation is that the Databricks portfolio of work will continue to grow 
+at about 60% plus. Last year, I think we went from between $11 million and $12 million to about $17 
+million plus, okay. This year, in fact, it should accelerate more on the back of the points that I made 
+at the beginning of the call. There is good traction. There is a lot more engagement. We are talking to 
+all the right people, the senior people. They are bringing us into their QBRs. When they do their QBRs, 
+they call all of their account executives and salespeople, and we are able to showcase the solutions 
+that we are building. 
+ 
+So, in general, there is good recognition. I talked about the professional services trust as well, right, 
+where they could bring in partners. And even on that, I mean, professional services in Databricks 
+context in the past has focused more on migration type of work because that's a fairly big chunk of 
+where Databricks gets its revenue. But they are now starting to say in the recent conversations that 
+industry solutions and building on top of the migrated data will be an important component as well. 
+And that's where they see somebody like us bringing in more differentiation than the typical migration-
+only partners that they have worked with in the past. So, in general, I'm expecting that the trajectory 
+of 60% kind of growth should continue. 
+On the Financial Services, it's going to be a combination of growth with the existing account, the large 
+account that Raj has talked about, and then there is also a follow-up question, getting into the financial 
+services. We're expecting that there will be momentum with that account going into this year. But 
+even as we have started this year, I think we have signed up two other accounts. 
+And I had meetings with two more in the wealth management, asset management space as part of this 
+trip. So, I'm expecting that there will be traction in all the spaces, payments, asset wealth management 
+and also credit card as another space. Insurance is something that we are looking to get in. But the 
+sectors where we are already present, I'm seeing good conversations in all of them. 
+Moderator: 
+The next question comes from the line of Rohan Nagpal with Helios Capital Management. Please go 
+ahead. 
+Rohan Nagpal: 
+Just a couple of quick questions from my end. So, the first one, I think you said that you'll be able to 
+recover 50% to 60% of the book that was eroded in your top customer by the end of the year. . Is that 
+on a run rate basis? Or do you expect to recoup 50%, 60% of that for revenue that you booked this 
+year? 
+And then the second question was, I missed a bit on Anthropic. Have you signed up with Anthropic 
+as a partner on that professional services front or as their customer? 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 16 of 19 
+ 
+Rajan Venkatesan: 
+On the first question, obviously what I meant was, we are looking to sign deals which will ensure the 
+value of the deals itself, we'll ensure that at least we'll recoup 50% to 60% of the total annual contract 
+value with these clients. Now depending on the timing of when we sign some of these deals, they 
+could sort of have an impact on the revenue for the full year. But right now, as we speak for this 
+particular client, the current projection is that we will be at least at 95% of the revenue that we 
+delivered with this client for the last year. That is the target that we set out for this client on a full-year 
+basis. 
+Rajan Sethuraman: 
+Yes. So, it's in kind of absolute revenue terms, just to confirm that point. Not just ARR. 
+Rajan Venkatesan: 
+Yes, that's right. Yes. 
+Rajan Sethuraman: 
+This is discussion with Anthropic as a partner, not as a client at this time. I don't know if any requests 
+or anything that is there on that side. I mean the good thing, though, is that we are talking to fairly 
+senior people. And in fact, the person with whom we are engaging, he used to be at Databricks before. 
+And we have actually started helping him directly on his analytics requirements. So, there is a 
+possibility that we might be able to extend. But right now, it's all limited to the partnership with 
+Anthropic. 
+Moderator: 
+The next follow-up question comes from the line of Aditi Patil from ICICI Securities. 
+Aditi Patil: 
+My question was on margins. So, I think at the start of the year, we were expecting Q4 margins to be 
+slightly higher, maybe 24.5% plus adjusted EBITDA margin. So, were there any unexpected cost 
+headwinds in Q4? And given that we will be investing in AI and Databricks and other capability 
+building, so do you expect the margin could be below FY26 levels in FY27? 
+Rajan Venkatesan: 
+So Aditi, yes, I mean, this quarter, like I said there were a few items on this, even when I did the 
+EBITDA walk last quarter to this quarter, there were some professional charges that were incurred in 
+relation to some senior level hiring that we are looking to do on the Databricks side as well as the AI 
+CoE side. 
+So, there were some hiring costs or consultants that we had to engage to bring on some of these senior 
+level hires. So that was incurred in this particular quarter, which did have, I would say, a marginal 
+impact on EBITDA for this quarter. Adjusted for that, obviously, we could have been closer to the 
+24.5% that you spoke about. 
+Now in terms of what we would like to guide for the next year, Aditi, see, like I said, I think this year 
+will be a year where specifically on the AI CoE as well as the Databricks side, we feel the need to 
+bring in fairly strong leadership to drive conversations with clients. In fact, like I alluded to before, 
+there are some senior level hiring that will be done on both these fronts, which will mean that at the 
+beginning of the year right now, what we would like to guide. And of course, this is not adjusted for 
+currency, there will be some benefit of currency. When we did the planning, of course, all this planning 
+was done based on USD to INR conversion ratio of INR92. Right now, where we are, we are talking 
+about INR95, INR96 or even higher levels for the rest of the year. 
+But when we've done the planning at INR 92-odd levels, what we planned for is an EBITDA between 
+21% to 22% for the revenue growth that we will deliver primarily on account of some of these upfront 
+investments that we are making in the leadership hires on the AI CoE side as well as the Databricks 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 17 of 19 
+ 
+side. 
+Aditi Patil: 
+So, on gross margin front, I wanted to understand the gross margin profile of the AI project, AI revenue 
+versus traditional revenue, and then also you mentioned of some of the work moving to offshore and 
+nearshore, so is there scope for improving gross margins further because of these two factors? 
+Rajan Venkatesan: 
+Yes. So, you would have seen that we started reporting the gross margins in the investor presentation 
+also, we reported gross margins for the first time in line with what the feedback that we heard from 
+you folks. 
+So, we started publishing gross margin number. So, for the full year, we reported close to about 50.8% 
+of gross margins for the last year. When you compare this with the gross margins that we are seeing 
+on the AI-led projects, we are seeing gross margins in the range of 55% to 58%. 
+So, it's a fairly broad spectrum, but depending on the size of the project as well as the nature of the 
+projects, we are seeing that the gross margins on those projects are definitely higher at about 55% to 
+58%. We do see levers to improve gross margin by doing more nearshoring as well as offshoring work 
+Aditi. 
+But the planning that we've done and the guidance that I gave out is without factoring in any significant 
+change in the current levers. So, we are assuming the current sort of model to continue. So, to the 
+extent we're able to execute better, we should see some upside on gross margins from these fronts. 
+Moderator: 
+We will take the last question from the line of Karan Uppal from Phillip Capital India. 
+Karan Uppal: 
+Just wanted to understand from the pricing perspective, how much of our work is time and material 
+versus fixed price? And how is the trend of these two line items? Is T&M decreasing in the last few 
+years? And second part of this question is that how much deflation are we seeing in the T&M line 
+item because of AI productivity benefits? 
+Rajan Sethuraman: 
+Raj, you can go ahead. I will add in some color on that. 
+Rajan Venkatesan: 
+Yes. So in terms of our overall share of fixed-bid to T&M bid, so within T&M, again, we're including 
+the way we internally review or classify contracts is pure staff or T&M contracts, and there is a concept 
+of managed services, which essentially, again, while the pricing is headcount-based or capacity based 
+and there is a fixed monthly sort of revenue that comes to Latent View, it is still, to some extent, based 
+off a headcount number. And then, of course, you have the fixed-bid. We don't do a lot of outcome-
+based pricing today, but fixed-bid you have. 
+So today, the ratio of fixed-bid to T&M for us will be closer to about 18% to 20%. So, 20% from 
+fixed-bid, fixed type of work and then T&M would be about 80%. But within that 80%, almost 65% 
+to 68% of that would be in a managed services construct, what I mean to say is it's not based off time 
+sheets that someone is entering in the client systems. These are essentially people where we are 
+contracting for a certain level of capacity and the client pays us a monthly fixed amount for those 
+resources there. So, there is no linkage to, one, the time that is clocked or, two, the sort of deliverables 
+that we have to deliver as part of the projects. So that's how we internally view it. What was your 
+second question, Karan? 
+Karan Uppal: 
+Yes. I was just asking what is the deflation in the T&M projects because of AI productivity if at all? 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 18 of 19 
+ 
+Rajan Sethuraman: 
+I will add color to the first question also before I take up the second one. So, Karan, the plan though 
+is to shift a bit more to both milestone and deliverable based as well as outcome-based. So that 20% 
+that Raj referred to, we want to bump it up, okay. I'll tell you the reason. The reason is that productivity 
+gains that you can get by building an agentic foundry or a suite of agents that can be deployed, along 
+with the people who do the work or even productivity benefits by building a full-fledged solution, 
+nonlinearity or even the pace at which we can do work, these can be accrued to us only if we contract 
+differently. 
+If we continue to contract either in a managed services model or in a T&M model, then the benefit of 
+having a suite of agents that are doing a bit of work, our own people being more productive, they will 
+only accrue to the client. So internally, we have launched an initiative where we're incentivizing our 
+project teams, in areas that are well understood where the process is known. 
+And we are able to build good bounded agentic solutions that we encourage the client to contract with 
+us in alternate models, as opposed to just a managed services or a T&M model. We'll keep you posted 
+on the results of how that is panning out. But internally, our teams have been incentivized to move a 
+bit more to that model. 
+The second part of the question, there is no deflation on the way it works is that clients continue to 
+engage our people. In fact, in many instances, they will be willing to pay a bit more. That's why Raj 
+was referring to an earlier question, he was saying that gross margins could be higher if you're doing 
+agentic or AI work. 
+But the expectation, of course, is that though they are paying more for the people, they will expect a 
+lot more work to be done by them, okay, within the time frame. So therefore, in terms of margin, there 
+is no deflation. There are no rate reductions or margin deflation that is happening. It's just that people 
+will be more productive. So, more initiatives will get done with the same set of people and same 
+capacity. 
+Karan Uppal: 
+ 
+Got it. Thanks. Thanks for the color. And all the best for FY’27. 
+Moderator: 
+As there are no further questions from the participants, I now hand the conference over to the 
+management for closing comments. 
+Rajan Sethuraman: 
+Yes. Thank you. Not too much to add. I think we covered quite a bit of the stuff. I mean this will be 
+an important year. It will be an inflection point year, in many ways, whether we are talking about the 
+whole AI agentic shift that is happening in partnerships with the likes of Anthropic and so on or 
+whether we are talking about Databricks and the work that we are doing even with, say, CPG and 
+Microsoft and so on. So, there is a lot more action that we expect to see on those fronts. 
+Of course, everybody is trying to understand how the entire agentic shift will play out. My own read 
+on the matter is that there is going to be a need for a lot more complex design engineering of the 
+agentic frameworks, which brings in all of the governance and transparency aspects that I have talked 
+about. And we need good people who are able to marry not just the technical understanding, of how 
+to use Claude Code or Codex or how to create agentic orchestration. But people who can marry that 
+with the business process, the underlying risk and the transparency and the governance requirements 
+and then bring it all together. So, in some sense, this will be a year where this whole forward deployed 
+engineering concept that brings together many of those things will start seeing a significant play. 
+
+LatentView Analytics Limited
+May 18, 2026
+ 
+Page 19 of 19 
+ 
+We are gearing up for that in all ways on the capability, expertise, certification, hiring front as well as 
+how we evangelize this, how we talk about this to our clients and show them what needs to be put in 
+place so that they can get the benefits of it. So, we are expecting traction on all of those fronts. 
+Obviously, we'll keep you all posted on a quarterly basis on how this unfolds. But thanks for your 
+wishes. And hopefully, we will continue to execute on the initiatives that we have set in motion. 
+Moderator: 
+Thank you. On behalf of Latent View Analytics Limited, that concludes this conference. Thank you, 
+everyone, for joining us, and you may now disconnect your lines. 
+Note:  
+This transcript has been edited for readability and does not purport to be a verbatim record of the 
+proceedings. 

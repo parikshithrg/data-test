@@ -1,0 +1,677 @@
+                              
+        
+ 
+ July 28, 2023 
+The Secretary 
+National Stock Exchange of India Ltd 
+Exchange Plaza, C/1, Block G, 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai – 400 051 
+NSE Symbol: TEJASNET 
+The Secretary 
+BSE Limited 
+P J Towers,  
+Dalal Street,  
+Mumbai – 400 001 
+BSE Scrip Code: 540595 
+ Dear Sir/Madam, 
+Re: Q1 FY24 Earnings Conference Call 
+ 
+Please find enclosed the transcripts of the Q1 FY24 Earnings Conference Call held on        
+July 21, 2023. 
+ 
+Kindly take the above information on record. 
+ 
+ Yours sincerely  
+ For Tejas Networks Limited 
+ 
+ 
+ N R Ravikrishnan 
+ General Counsel, Chief Compliance Officer  
+ & Company Secretary 
+RANGACHARI 
+RAVIKRISHNAN
+Digitally signed by 
+RANGACHARI RAVIKRISHNAN 
+Date: 2023.07.28 16:52:39 
++05'30'
+
+ 
+ 
+ 
+“Tejas Networks Limited” 
+ Q1 FY ’24 Earnings Conference Call” 
+July 21, 2023 
+                                                                              
+                                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: 
+MR. ANAND ATHREYA – CHIEF EXECUTIVE OFFICER AND 
+MANAGING DIRECTOR – TEJAS NETWORKS LIMITED 
+MR. ARNOB ROY – CHIEF OPERATING OFFICER AND WHOLE-
+TIME DIRECTOR – TEJAS NETWORKS LIMITED 
+MR. VENKATESH GADIYAR – CHIEF FINANCIAL OFFICER - TEJAS 
+NETWORKS LIMITED 
+DR. KUMAR SIVARAJAN – CHIEF TECHNOLOGY OFFICER - TEJAS 
+NETWORKS LIMITED 
+ 
+MODERATOR: 
+MR. RUSHAD KAPADIA – ICICI SECURITIES 
+
+Moderator: Ladies and gentlemen, good day, and welcome to Tejas Networks Q1 FY '24 
+Earnings Conference Call hosted by ICICI Securities Limited. As a reminder, all participant 
+lines will be in the listen only mode. And there will be an opportunity for you to ask questions 
+after the presentation concludes. Should you need assistance during the conference call, please 
+signal an operator by pressing star then zero on a touchtone phone. Please note that this 
+conference is being recorded. 
+I now hand the conference over to Mr. Rushad Kapadia from ICICI Securities Limited. Thank 
+you, and over to you. 
+Rushad Kapadia: Good evening, ladies and gentlemen, and welcome to the Q1 FY '24 results 
+conference call for Tejas Networks. We have with us from the management, Mr. Anand 
+Athreya, Chief Executive Officer and Managing Director; Mr. Arnob Roy, Chief Operating 
+Officer and Whole-time Director; Mr. Venkatesh Gadiyar, Chief Financial Officer; and Dr. 
+Kumar Sivarajan, Chief Technology Officer. So without further delay, I would now like to 
+hand over the floor to the management for their opening comments. Thank you, and over to 
+you, sir. 
+Arnob Roy: This is Arnob Roy, the Chief Operating Officer of the company, and welcome, 
+everyone, to our quarterly earnings call. On the first slide, we start with a quick update for the 
+quarter. So we had a net revenue of INR 188 crores for Q1, as opposed to INR 126 crores in 
+Q1 of FY '23. We also had a loss of INR 26 crores as opposed to a loss of INR 7 crores in Q1 
+of FY '23. We are a zero-debt company with cash and cash equivalents of INR 943 crore. And 
+we also had a healthy order book at the end of Q1 of INR 1,909 crore. 
+Some of the key highlights that happened during the quarter are that our business momentum 
+for wireline continues to be strong. Some of the significant events were receiving initial orders 
+for the deployment of our GPON OLT supply to a Tier 1 telco in India, and this is for their 
+nationwide deployment. 
+We also commissioned a nationwide end-to-end Tejas product-based network across GPON 
+access, packet aggregation, and OTN/DWDM core for a large customer in Italy. This is a very 
+significant showcase network for us in Europe, and it is managed end-to-end by our network 
+management software. 
+We have also turned up a very high-capacity DWDM long-haul link connecting data centers 
+for an operator in Africa, using our state-of-the-art 400 gigabit per channel WDM technology. 
+In the wireless business, the highlight was the successful commissioning of a pilot network of 
+200 sites for BSNL's 4G network in Punjab. And so, from this quarter on, we will be ramping 
+up volume supplies. 
+And the BSNL has also announced a successful beta launch of the network on July 15 based 
+on these 200 sites that we deployed. On the supply chain front, we've appointed Sembian 
+Venkatesan as our Chief Supply Officer. Sembian is an industry veteran of 30 years in 
+manufacturing and supply chain management. 
+We also significantly increased our capacity for executing the upcoming large shipment 
+volumes for BSNL network. We have also received several awards during the quarter. We were 
+awarded Dataquest's Pathbreaker of the Year Awards for our outstanding work and 
+contributions to India's ICT industry. Saankhya Labs received a Mark Richer Industry 
+
+Leadership Award from ATSC for their contribution to the standards as well as their innovative 
+products in this area. We also granted 50 patents during the year, taking our total patents to 
+267. 
+I'll now hand it over to our CFO, Venkatesh Gadiyar, to walk us through our dedicate numbers 
+for the quarter. 
+Venkatesh Gadiyar: Yes. Thank you, Arnob. We'll have a financial update for Q1 FY '24. 
+Our net revenues were of INR 188 crore. We saw a year-on-year growth of 49 percent. While 
+we have ramped up our revenues during the 4 quarters of the last year, during this quarter, 
+especially Q1, there was a disruption in the EMS planned transition, and there were also a few 
+component delays that have resulted in the overdue delay. 
+This was a short-term issue, and we have faced it in this quarter. We have fixed it now and will 
+improve on our supply chain deliveries from Q2 onwards. In addition to this, we had to pay 
+some spot charges to secure our components, where costs could not be fully passed on to our 
+customers, and the margins remain challenged in this quarter. And we have been reviewing 
+closely and talking to our vendors, and we believe the situation is expected to improve at the 
+close of this financial year. 
+The quarter's EBIT loss and PBT loss were INR81 crores and INR66 crores, respectively. In 
+terms of the cost, we have been continuing to invest upfront primarily on account of the hiring 
+on the R&D front, which is meant for future readiness. We incurred losses during Q1 as we 
+could not absorb some fixed costs, and the product margins have been impacted due to the 
+increased component prices. 
+The PAT includes the additional deferred tax credit on account of the tax loss and the MAT 
+credit amounting to INR18.7 crores, which has been recognised during Q1. And the earnings 
+loss was INR1.56 per share. 
+Next slide. Yes. The cash outflow from operations for the quarter was INR289 crores, primarily 
+due to inventory growth. We continue to build on inventory, and we have secured a long lead 
+component for expediting the delivery of several critical large orders. Inventory has increased 
+by INR 225 crores during Q1, and the total inventory stands at INR 872 crores as of June 30, 
+2023. 
+The working capital has been increased in Q1 by INR 263 crore, primarily due to an increase 
+in inventory, which has been built up for the expanding delivery of current critical large orders. 
+Receivables have been marginally reduced, and the closing receivables as of June 30 were INR 
+501 crores. We have healthy cash and equivalents as of June 30, 2023, of INR 943 crore, and 
+we don't have any debt. And finally, the net worth is strong at INR 2,984 crore as of June 30, 
+2023. 
+With this, I'll hand over to Arnob once again. 
+Arnob Roy: Thanks, Venkatesh. We move to the next slide. So, this gives a profile of the 
+business that we executed in Q1. The right-hand side chart shows that run rate revenues were 
+79% of our overall business in Q1. There was growth in all segments of our business, including 
+India government, India private and International. However, while the run rate business is 79% 
+
+right now, we expect the India segment to dominate for the next 12 to 18 months because of 
+the large BSNL 4G orders. 
+We also have a healthy closing backlog of INR 1,909crore, and about 50% to 60% of this will 
+be executed in this financial year. And we also have a situation where largely the backlog is in 
+India, and a portion of that is for the international sector. 
+Next slide. Yes. This is just to refresh for those who have not been tracking our products and 
+business. So we now have a comprehensive end-to-end portfolio across wireline and wireless. 
+In wireless, we have a comprehensive solution of 4G and 5G products where we continue to 
+invest and grow our R&D investments in. In Wireline, we also have products that can build 
+end-to-end networks for carriers and service providers across access with a wide variety of 
+access solutions and metro aggregation solutions around packet technologies and OTN, and 
+the metro core and long-haul technology built on high capacity, WDM transport, and OTN 
+specifically. 
+So with this portfolio, we address a very large addressable market globally. And so with this 
+portfolio, we have the ability to build a network across wireless and wireline and provide 
+optimised solutions to customers that reduce their capex and opex costs. 
+Yes. So in summary, with a healthy order book of INR 1,909crores for wireline business and 
+the outlook for significant wireless business this year, we expect to accelerate our quarterly 
+revenue growth significantly. We have successfully commissioned the pilot network of 200 
+BSNL 4G lines. The product is working very well. 
+And with the state of the network, BSNL has launched a soft launch of the network, and we 
+expect to ramp up our supplies or deployments from this quarter. We continue to make 
+significant investments in R&D and manufacturing operations as we scale up our business and 
+look forward to healthy business growth over the next few quarters and years. 
+So I come to the end of the presentation, and we'll open the floor for questions. 
+Moderator: The first question comes from the line of Vimal Gohil from Alchemy Capital. 
+Vimal Gohil: I formally welcome Mr. Anand Athreya on his first earnings call at Tejas. Sir, I 
+just wanted to understand. I mean, the company has had or has faced numerous challenges in 
+terms of raw material shortages with vendors because of which they could not execute their 
+order book. How different are the challenges at this point in time? And given the outlook that 
+you've offered, do you see us crossing our quarterly revenue run rate of INR 300 crores next 
+quarter? That would be my question number one. 
+Arnob Roy: So we don’t give quarterly revenue guidance. But yes, as you mentioned, there 
+were challenges in the past. And they are there while it is coming down slowly they are still 
+there. However, this quarter, we also had the one-time event of one of our EMS partners 
+moving their plant from one location to another. So that caused the one-time disruption of our 
+supply chain business, but we hope to catch up on our shipments for supplies and shipments in 
+the subsequent quarters. 
+Vimal Gohil: And, sir, would you be able to quantify this impact? 
+
+Arnob Roy: Do you mean quantifying the impact of the EMS transition? 
+Vimal Gohil: Yes, yes, sir. And what was the impact of their vendor transitioning to 
+Arnob Roy: I would not like to quantify that, but we would have had a larger quarter for sure 
+with this impact of 6 to 7 weeks that we had. And so, but this is behind us now, and we have 
+caught up, and I think things are in full swing right now. So we'll be in much better shape than 
+before. 
+Vimal Gohil: Right. No, because if I were to look at the quarterly decline, it's quite large, close 
+to 40%. So the majority of it has come because of that discovery? 
+Arnob Roy: Yes. That's correct. 
+Vimal Gohil: Understood. Now coming to the order book, sir, over the last year in FY '23, we 
+consistently reported improvement in our cable order book. We started FY '23 with about INR 
+1,200 crore in order book and ended with almost INR 2,000 crore. This quarter, we have not 
+seen that order accretion, which we would typically expect on a quarter-on-quarter basis. So 
+why has that happened? That is part one. And the second part is just a clarification. This is just 
+a wireline order book, right? This does not include wireless at this point in time. 
+Arnob Roy: That's correct. That's correct. 
+Vimal Gohil: Okay. So, this does not include the wireless business, right? 
+Arnob Roy: This does not include the wireless business. 
+Vimal Gohil: Okay. Okay. And sir, what would be the reason why we're seeing a slight decline 
+in the order book on a Q-o-Q basis? 
+Arnob Roy: Yes. So there is—first of all, we do not give Q-o-Q numbers. We just gave you 
+the outstanding order book. And one of the reasons is that, of course, we executed part of the 
+order book. And secondly, because of our outstanding supplies to many customers, right, what 
+is happening is that a lot of the customers are waiting for the shipments to happen for 
+backfilling the order book as -- so that should come back, it should get filled up soon, as when 
+we start executing and delivering on our supplies. 
+Vimal Gohil: So Q2 of FY '24 should also see some improvement in the outstanding order 
+book. Fair assessment, sir? 
+Arnob Roy: Yes. Well, it's—I don't want to quantify that right now. But yes, our bookings and 
+all as we progress along the year, yes. From the business outlook that we see, our order book 
+will remain strong for the year. 
+Vimal Gohil: Understood, sir. And the last question for me is on margins. I understand. I mean, 
+in terms of component prices, what we have been reading, if you can correct us, has been about 
+the raw material prices pulling down for several components. Whereas our margins don't really 
+reflect that. So what is the issue at hand? When can we see a significant improvement in 
+margins purely because of the reduction in your raw material prices? 
+
+Arnob Roy: Yes. So yes, while we have been hearing and experiencing improvements in the 
+chip supplies, this has not happened across the board enough for us to be able to control the 
+process. This is because what happens on the cost of goods or margins is that when we don't 
+get time to supply, we have to look around and source components at higher costs with expedite 
+fees or spot buys and all, which are basically one-time events that don't reflect our product 
+costs and margins. But basically, the lead time is what leads to this. As and when this 
+component supply situation and lead time situation come under control, our product margins 
+will return to normal. 
+Moderator: The next question comes from the line of Sugandhi Sud from InCred Asset 
+Management. 
+Sugandhi Sud: I wanted to understand; we get a lot of information on the scope of the contract 
+at BSNL, but you already... 
+Arnob Roy: We lost you, Sugandhi. 
+Moderator:We have lost Ms. Sugandhi. Next in line is Mr. Vimal Gohil. 
+Vimal Gohil: Yes, sir. So, sir, my follow-up would be in terms of the breakup at this point in 
+time. Would it be fair to say that our entire revenue is coming from Saankhya, which is about 
+INR 20 crores? That would be wireless business, and the rest of the INR 167 crores will be 
+wireline. Would that be a fair breakup of our business for wireless and wireline? 
+Arnob Roy: Yes, that would be a fair breakup. I mean, wireless is a combination of the 
+different products they have for broadcast, platforms, and all those combinations of those. And 
+all of the Tejas’ business is entirely wireline. 
+Vimal Gohil: Sir, just one clarification. In the India government piece. I think last year or last 
+quarter, we saw about INR 87 crores worth of orders for the India government, which has fallen 
+quite substantially despite servicing some of the government, or rather BSNL, contracts. So 
+why has the revenue fallen? Is it that we have executed the order and did not build them? Or is 
+it that the money has yet to come from that? 
+Arnob Roy: So, the question was, Why has the India government business fallen? 
+Vimal Gohil: Yes, yes. That's it. 
+Arnob Roy: As compared to last quarter, yes. So one of the reasons was that last quarter was 
+the initial ramp of the major supplies for one particular customer, where the major shipments 
+happened for this project. And so that time we saw a big jump—a bigger number over there—
+because the majority of supplies happened in the last quarter and the tail-end of that and other 
+government supplies happened in this quarter. So that's why it's kind of a one-off event. 
+Vimal Gohil: Right. Sir, can I go ahead with one more if it's okay? 
+Arnob Roy:Sure. 
+Vimal Gohil:Yes. So sir, in terms of the EMS supplies that we are working with, I'm sure these 
+are not exclusive suppliers; they will be working with some of the other players as well. So is 
+
+it that for temporary, maybe our size is a bit of a disadvantage with our scale and our 
+competitors in this space will be much larger -- so they would probably be given more priority 
+in some sense, in terms of components, in terms of tech component supplies? So is it an 
+industry-wide problem? Or is it that our scale is a bit of a disadvantage for the moment? 
+Arnob Roy: Okay. No. First of all, I think the EMS partners manufacture. The sourcing or 
+component suppliers are different from the EMS partners that we have, who basically put the 
+product together, run it significantly, and stuff like that. So those people have a lot of capacity. 
+One of these is with large EMS vendors who have a lot of capacity, and we have not seen any 
+shortage of capacity from them to execute on our business. I think whatever shortfall we have 
+is because the components did not arise in time, okay? And so that has been the root cause, not 
+the capacity at the EMS. 
+However, having said that, in anticipation of much larger shipments happening over the next 3 
+quarters, we have proactively scaled up our EMS capacity also by signing up for three more 
+EMS partners in addition to what we have right now, okay? 
+Vimal Gohil: Understood. And sir, what would be our order book in the wireless segment right 
+now? 
+Arnob Roy: Yes. So we don't state that. And as you know, as we mentioned, our current order 
+book is entirely wireline, and our wireless order book will be driven largely by BSNL 4G, 
+among others, but that would be the dominant part. And we are yet to disclose that right now. 
+Vimal Gohil: Okay. So in the future, are we looking to disclose that? 
+Arnob Roy: We will disclose that as and when we can. As I said, we are ramping up for 
+supplies this quarter. The process of the PO and execution is happening as and when the POs 
+come in, we will certainly disclose. 
+Moderator: The next question comes from Aashka Trivedi from Kedia Securities Private 
+Limited. Ms. Trivedi, please go ahead with your questions. 
+Aashka Trivedi: So my question is that we've seen the initial orders on GPON OLT supplies 
+from a Tier-1 telco in India. So can you quantify the order size for this order? 
+Arnob Roy: No, because this is also a run-rate customer, and with run-rate customers, we have 
+a multiyear agreement for sourcing quarter-by-quarter. So while we have an idea of the 
+business that we're going to execute over the next 3 years of the 3-year cycle, There is no one-
+time order or one-time number that we can talk about, and we also don't disclose the customer-
+specific business. We just wanted to indicate that the Tier 1 customer has a long procurement 
+cycle and a long-term price contract as well. 
+Aashka Trivedi: So as far as I understand, it is an incremental order, like this is not a one-time 
+order, right? 
+Arnob Roy: So this is like the Tier I process, which happens like that. Once you get qualified 
+and once we finish our field trials and early deployments because we have an agreement in 
+terms of the number of years or quarters of supply and they keep buying every quarter and 
+deploy, okay? There's no one-time buy, which happens for 1 or 2 years, kind of thing. It's not 
+
+a tender. It's like a running forecast and run rate order, which happens. So there is no—so that's 
+how it happens. I mean, it's not really what we termed as incremental. It is a run-rate order, 
+which will happen quarter-over-quarter over the next 3 years. 
+Aashka Trivedi: Okay. And sir, we have successfully launched the Beta launch of the BSNL 
+network in Amritsar. So, sir, what is the plan going forward? Like, which city are we targeting 
+next? If you can just highlight that, 
+Arnob Roy: Yes. So the supply deployments will happen as per the BSNL plan. So they are 
+doing a nationwide rollout. So they are kind of telling us circle-wise where they will be 
+deploying, what quantities, what brands, and all those kinds of things. So as and when we 
+manufacture, we will be shipping as per that requirement. So it is not a target for us to say that 
+this city or that city It will—the next few supplies requirements will happen across multiple 
+cities at the same time based on their deployment plan. 
+Aashka Trivedi: Okay. And sir, apart from supplying the wireless, we are also maintaining 
+contracts for BSNL? 
+Arnob Roy: So maintenance contracts, yes. For any product supply, always follow with 
+service orders, AMCs, and stuff like that. For supporting the products and the networks that 
+we have supplied, that's typical and always happens with any product supply. So yes, that 
+should also be part of our business. 
+Moderator: Thank you. The next question comes from Sugandhi Sud from InCred Asset 
+Management. 
+Sugandhi Sud: Okay. Thank you. So I wanted to understand the wireless contract for BSNL. 
+Is there any? Can you give us an indication of the pace of rollout of the broad scope of the 
+contract over the next 1 to 2.5 years? How do you want to spread it out in terms of 30% or 20% 
+per year? 
+Arnob Roy: Yes. So I'll give you an overall idea. The entire supply chain and rollout are 
+expected to take 12 to 18 months. And this range will depend on how fast we supply and how 
+fast BSNL is able to deploy, but there is a very aggressive rollout plan as of now because BSNL 
+wants to roll out that network very quickly and get into the 4G business. So 12 to 18 months is 
+our understanding and agreement with them is the time line for supplying and deploying the 
+network. 
+Sugandhi Sud: Sir. And I understand. So how can we expect -- what kind of impact should 
+we expect on the -- in terms of your inventory situation or the receivable situation given that 
+this would be a compressed order -- in terms of -- we've seen some pressure on receivables in 
+the past with government-related contracts? So if you can give us some indication of what kind 
+of broad terms, in terms of the number of DSO days, etc., can be expected or compared to 
+where we are currently, how would that trend? 
+Arnob Roy: Yes. You asked several questions over here for both with respect to the inventory 
+situation. As you have seen and as Venkatesh mentioned, we have already started pulling in 
+components and started manufacturing for executing the volume supplies. So definitely, what 
+happens is that manufacturing happens in a particular quarter, and shipment happens towards 
+
+the end of the quarter or early next quarter. So you will see a lot of inventory build-up as well 
+as shipments happening over the next few quarters along with this network, right? 
+And so as regards payments and all our concerns that we have, we fully understand the 
+milestone-based payment of supplies in this project for supplies, deployment, etcetera. And we 
+have worked out our processes with TCS, our SI partner, to ensure timely project execution 
+and collections. 
+Sugandhi Sud: Got it. So another bookkeeping question is that, in terms of last year, you 
+capitalised R&D to the tune of around INR 180 crore. And I noticed that your R&D headcount 
+has also doubled—nearly doubled. So could you give us an outlook on how much more 
+capacity creation you would be doing over the next 2 years on the employee front? 
+Arnob Roy:  I think we're in a significant investment mode right now because what we're 
+seeing—the opportunities right now—is basically the start of what we see—what our plans are 
+for the people. We want to definitely see it in our current business. We want to go international 
+and scale our international business significantly. And as part of this, we will also expand our 
+product portfolio. 
+So, with that kind of vision, we're continuing to invest in order to grow. So the growth of R&D 
+headcount and supply chain capacity will certainly happen over the next few quarters. That's 
+certainly going to continue over the next few quarters. 
+Sugandhi Sud: So we can expect similar terms of growth this year? 
+Arnob Roy:  Yes, yes. 
+Sugandhi Sud: And could you give us some idea about how the government, which is 
+becoming a very large portion this year, would impact your gross margins? I mean, changes in 
+the component supply side—if that were to remain as it is today, what kind of margin change 
+can we expect? 
+Arnob Roy: Given the size of the business, given the size of the volume of the government 
+orders, and given that we knew what was coming and what was generally manufactured, we 
+are working closely with our component suppliers to be able to manage optimise costs based 
+on this large volume. Yes, it is a challenging deal, but we are managing it with our design 
+optimisation and our negotiations with our partner. So overall, I think the margins will be well 
+within our expectations, and we are fully prepared to manage this. 
+Sugandhi Sud: Sir, my question was more along those lines. Traditionally, you've done 40% 
+sort of gross margins, and wireless is becoming an international business for us, and this is our 
+first quarter. So as an investor, what kind of impact can we expect the changing product mix to 
+have on gross margins? 
+Arnob Roy: So see, the product drops slightly in terms of mix, and because of this government, 
+you understand the business size is also very large, right? So given the size of the business, we 
+can also work with slightly lower product margins because of the overall size of the business, 
+right? 
+
+But as I said, the impact of this is in terms of being able to negotiate with component vendors 
+and having a slight impact on our other businesses with common components. Overall, the 
+blended margin for our business will not be impacted. I think there will be—it will be as we 
+see it right now. 
+Moderator: Next question comes from the line of Ritesh Poladia from Girik Capital. 
+Ritesh Poladia: Sir, in wireline business, is the GPON OLT for broadband, or is the application 
+different? 
+Arnob Roy: Yes. The application is residential and enterprise broadband. 
+Ritesh Poladia: Okay. Yes. Sir, on BSNL 4G, one of your other consortium partners has 
+already declared an INR 3,900 crore purchase order. So why is there a delay in signing up for 
+a purchase order with Tejas? 
+Arnob Roy:  No, no, no, there is no—okay, we are not aware of that, but the consortium has 
+received the purchase order from BSNL, as you are aware, right? And you know the full scope 
+of their order as well. So what is happening is that our purchase order is based on circles and 
+deliveries to each and every circle, right? So we are expecting our purchase orders to come in 
+circle-wise. 
+So that's the reason why it's not a one-time order. And as and when these orders come in, we'll 
+be sharing with you the business that we're getting for BSNL 4G. So there is no delay. It's 
+basically breaking up the plan into smaller units based on states, circles, and all these kinds of 
+things. And that's what we will receive. We'll keep receiving as we execute our projects. 
+Ritesh Poladia: So apart from that consortium partner, all the sites would be done by you? Or 
+will there also be another partner sharing it? 
+Arnob Roy: So all of the RAN (radio access network) equipment, the radio and the baseband 
+units, and all the sites will be supplied by Tejas. There's another consortium partner i.e C-DoT 
+that will be supplying the core software; that's what they will be supplying. And we'll be 
+supplying the RAN; the radio equipment is what we'll be supplying, but for the entire network. 
+Ritesh Poladia: Okay. I'll be a little clearer. See, there is extreme filing by ITI Limited. And 
+they have said that they will manufacture the RAN for the 23,633 sites. So if you can give us 
+some clarity on this. 
+Arnob Roy: They are basically going to manufacture Tejas equipment, okay? Our equipment 
+is what they're going to manufacture, and we have a manufacturing agreement with them to 
+manufacture and supply for their purchase order, but it's going to be on all of Tejas equipment. 
+Ritesh Poladia: Okay. So ITI is going to manufacture Tejas equipment only? 
+Arnob Roy: Yes, yes. That's correct. 
+Ritesh Poladia: Okay. So this INR 3,900 crore order book for 23,000 sites would be the ITI 
+portion, or some of that will come to Tejas also? 
+
+Arnob Roy: So the ITI portion is going to be executed with Tejas equipment for the equipment 
+portion of that; a large portion of that is going to come to Tejas. 
+Ritesh Poladia: Okay, will this also come to Tejas only? 
+Arnob Roy: Yes, yes. 
+Ritesh Poladia: Okay. So all the sites—about 1 lakh sites—that's what the newspaper is 
+talking about. Everything is made by Tejas. Some portion will go to ITI, and they will supply 
+the BSNL base? 
+Arnob Roy: Yes. So the supply, all of it, will be Tejas equipment, some of it supplied by ITI, 
+some of it supplied by TCS. 
+Moderator: The next question comes from Mukul Garg from Motilal Oswal Financial 
+Services. 
+Mukul Garg: First on this whole ITI versus TCS issue of -- so just to understand this better 
+than ITI's kind of sharing that they will have a specific amount of production capacity for this 
+order, Does that not give us visibility in terms of how much revenue is generated? 
+Yes, so I was just trying to understand the ITI part of the equation. I understand that for the 
+other part, shareholder approval has happened, and I think the final purchase order is still not 
+in place. But for the ITI, what they have announced is the order portion, their portion of the 
+order; does that mean that you have received the order from them? Or is it mostly indicative of 
+their end? 
+Arnob Roy: Yes, it is -- like, as you know, the consortium has also received the purchase 
+order, right, of a very large amount of -- INR15,000 crores or so were published at the 
+consortium. So they need a whole deal size before they are published. And similarly, ITI has 
+published the size of the order. But when it comes to supplies, that will be broken down into 
+circle-wise purchase orders as well for ITI, okay? So it will be the same mechanism, except 
+that here, ITI will be the supplier, and there TCS will be the supplier, and we will be the 
+equipment supplier to both of them. 
+Mukul Garg:  Right. And is it fair to assume that the inventory build-up that has happened 
+over the last few quarters is mainly to kind of prepare for this large order given that the time 
+lines will be quite compressed? 
+Arnob Roy: You got it right. That's exactly correct. Distribution of compressed delivery time 
+lines. We have ordered, and we have started building up inventory of components and finished 
+goods so that we can deliver quickly. 
+Mukul Garg: Understood. The second question was on this DWDM order in Africa. Is it fair 
+to assume that this is a long-haul order? 
+Arnob Roy: Yes. So basically, it is for one of our regular customers. It is not—I mean, this is 
+not just one order. As you know, we build pan-African networks for this customer. It is more 
+of where -- the point was more of a -- some of our new technologies have gone into turning up 
+
+some of the links or some of the very high capacity links connecting data centres of some of 
+their web-scale customers. 
+As a result, this was a new high-end technology. And so this was a significant milestone from 
+our side. So that was highlighted. But it's not a single order. The same technology is going to 
+be rolled out across their network across Africa. 
+Mukul Garg: Right. But does this imply that you guys have expected it to be a long-fall set of 
+optical networks as well with this kind of client confirmation, and that would kind of expand 
+your addressable market there? Or is it more of a client-specific thing? And you really are not 
+putting too much on the long-haul side of the equation? 
+Arnob Roy: So we are in long-haul WDM, okay? This was more of a capacity expansion with 
+high-speed data carrying waves, let me put it that way, right? So like people build the long-
+haul network, they can build it with 100 gigabit lambdas or waves, 200 gigabits, 400 gigabits, 
+so we have all the technology. So this was more of a show-case network for demonstrating a 
+very high-capacity long-haul WDM technology. But we have been building long-haul networks 
+with our WDM technology for a while. 
+Mukul Garg: Okay. Coming to this, the GPON OLT order each order, which you have 
+received, in what sense was this in the pipeline for a long time? Are you kind of getting signs 
+from this customer that they are finally starting to accelerate meaningfully? Or is this still the 
+case that the visibility on this client's spending acceleration is quite low? 
+Arnob Roy: No. I think they have started their rollout significantly. We are getting rolling run 
+rate orders, kind of quarter-over-quarter. So now the rollout is accelerating right now, and our 
+business with them is growing. So we have passed the initial phase of the supplies and piloted 
+them for government and trials and then software integration and all those kinds of things. I 
+think, Basically, this means that we have passed all that phase. And now it's just ramping up 
+supplies and deployments for the customer. We are in that phase right now. 
+Moderator:  Thank you. The next question comes from Sohan Joshi from ASC Consultants. 
+Sohan Joshi:  I just want to ask, when are the benefits from our partnership with Renesas going 
+to come? I mean, what was the partnership with Renesas? Was it into manufacturing, designing, 
+or end-to-end solutions, or was it going to help sort out our profitable supply chain because the 
+government has intended to spend more on BharatNet, and with massive strength like private 
+telcos and capex for 5G, the opportunity is massive. 
+I just wanted to understand -- I mean, the Renesas, the management of Renesas recently on a 
+visit to India, and also the top official of the government. So did we progress more on that 
+partnership? I just wanted to get the colour of it. 
+Arnob Roy: Yes. I think Renesas partnership was two-dimensional. One was as a supplier for 
+our new products, especially in wireless. So they are one of our suppliers. So that's one part of 
+the partnership. The other part of the partnership is also the joint development of some new 
+technologies, which we cannot disclose right now. But we are also working with them to 
+specify the next integration—integration of semiconductor components—that we are going to 
+use. So we are not getting into specifics. So these are the two dimensions of our partnership 
+agreement with Renesas. 
+
+Sohan Joshi: Okay. Okay. That's it from my side. Thanks. I wish you good luck. 
+Moderator: The next question comes from the line of Vimal Gohil from Alchemy Capital. 
+Vimal Gohil: Yes, Sir, I have a slightly long-term question, given the fact that we are seeing 
+a lot of growth ahead. Of course, that comes with the opportunity that is present at this point in 
+time. How is the top management, who seem to balance revenue growth and profitability, 
+taking that approach that we want to capture as much growth as possible? And probably after 
+that, we will be looking to stabilise our profitability goals, or will it be a balance of both? How 
+should we look at this over a longer period of time? 
+Arnob Roy: I think this is a good question. And, the short answer is yes; we are driving towards 
+profitability over the year, and we have taken all steps, as we understand. So we have some 
+short-term challenges right now. The products are very well optimised and designed, and we 
+expect the standard margins that we have had over the years. 
+We've run into component supply issues since COVID. And very recently, some of our EMS 
+partner challenges have been logistics challenges. But we expect these are all one-off events; 
+there are short-term events, and very soon, things will stabilise, and we'll be back to normal 
+business with the normal margins that we've been enjoying all along. So this is not a question 
+of buying out the business with zero margins and then looking at how to improve our margins. 
+It's not like that. I think we are working with healthy margins. 
+So some of the deals may have lower initial margins than our standard, but we have a clear cut 
+margin recovery plan in place so that over time we can get back to normal and recover our 
+margins. And so we are not distracted by short-term events happening that have been 
+addressing our supplies, business, and margins. But long term, we don't see any issues going 
+away and coming back to a steady state with our normal operations and normal costs. 
+Vimal Gohil: So it's going to be growth along with profitability—it's not either or? 
+Arnob Roy: Absolutely, absolutely. 
+Vimal Gohil: It's great to hear that. Thank you so much, and all the best. 
+Moderator: The next question comes from Mubasher Hussain Ansari from the Hyderabad 
+Investment Forum. 
+Mubasher H. Ansari: Yes. My concern is also about the margins. Recently, the CEO of TCS 
+gave an interview, saying that this 4G project of BSNL is for nation-building and not for 
+margins. So in this context, are we also going to get some margins? Or is it going to be like a 
+communist enterprise? Just focus on the top line and don't make any profit. So I need some 
+clarity on this. 
+Arnob Roy: Yes. I think that was a comment from his side, which basically indicated the 
+commitment of TCS towards this business and building this network. And so just to qualify 
+that, he kind of said that, which is more important than anything else and profits and all this 
+kind of thing. And this is more about the vision of the business, but no one is in this business 
+to lose money or not make any money. And certainly not us, I can assure you that. 
+
+And our products are designed to be profitable even in our highly competitive industry. And 
+the good thing is that the large volumes also allow us to drive down product costs to ensure 
+that we are healthy and profitable in this field. 
+Moderator: The next question comes from Aditya Mehta from G. K. Capital. 
+Aditya Mehta: So my question is with regards to the BSNL 4G order that the consortium has 
+seen. So what will be Tejas share in the overall order? And how much do we plan to execute 
+in this financial year? 
+Arnob Roy:  As far as execution is concerned, as I said, the goal is to start this quarter and 
+finish within 12 to 18 months. Regarding a specific share of the orders that the consortium has 
+received, I mean, I cannot share any numbers right now. But as we told you, we are going to 
+receive the circle-wise POs and start shipping. And as soon as we receive this deal, we're going 
+to disclose the size of the business. Upfront, we don't want to disclose the absolute numbers or 
+the size of the overall deal, and you can work out whatever the equipment portion is and all 
+those kinds of things. 
+Aditya Mehta: Okay. So this INR 15,000 crore advance purchase order that we have received 
+would cover 1 lakh sites because there were some articles that said the deal value would be 
+around INR 24,000 crore. 
+Arnob Roy: This covers 1 lakh sites of 4G equipment. 
+Aditya Mehta: So that INR24,000 crore order has been revised to INR15,000 crore? 
+Arnob Roy: Yes, because it's 100,000 sites and it's 4G. And as and when the number of sites 
+increases, those will go up. But I think once we start executing on the orders, all those things 
+will come. 
+Aditya Mehta: And last question on our receivables: So will we be getting payments from 
+BSNL or via consortium? 
+Arnob Roy: We'll be getting payments from TCS. 
+Moderator: The next question comes from Venkata Suresh Kumar from Burrams Financials. 
+Venkata Suresh Kumar: My two questions My question is whether Tejas is planning to take 
+over Saankhya Labs. You are going to semiconductor? This is my first question. The second 
+question is: 
+Arnob Roy: I couldn't hear your first question. Your voice clipped in between. Something 
+related to semiconductors, you are saying? Could you please repeat? 
+Venkata Suresh Kumar: Sir, your takeover of the Saankhya Lab in Bangalore You are 
+planning on going for business transient in semiconductor business? 
+Arnob Roy: Yes. So I think, as you know, we are very big consumers of semiconductors in 
+designing our products. And so with Saankhya's capability, that also gives us the opportunity 
+
+to design, optimise, and begin to serve other markets, where semiconductors are required, 
+right? 
+So we are kind of crafting our strategy in this space. But yes, we do intend to use Saankhya's 
+capabilities in semiconductor design and manufacturing to both grow and impact our business, 
+as well as other opportunities in other sectors. 
+Venkata Suresh Kumar: Okay. And one other question. Actually, you got the BSNL long-
+back tower. You are making total equipment; your Tejas is making any other partners like ITI 
+and Valiant; CT somewhat is giving another order? We will be a bit stimulated. You can 
+understand my question. 
+Arnob Roy: Yes, I can understand. So basically, for this BSNL 4G order, all of the radio access 
+network equipment will go from the base station to the tower, which includes the radio 
+equipment at the top of the tower and the baseband equipment at the bottom of the tower. All 
+of that equipment is completely designed and manufactured by us for all 100,000 sites. 
+As I previously stated, ITI is another partner, like TCS, who will source equipment from us 
+and supply it. But all of the requirements are going to be pure Tejas equipment. 
+Venkata Suresh Kumar: Okay. Okay. Any other CT consultants and Valiant also at the 
+partner -- if any equipment, any other orders, sir, CT... 
+Arnob Roy: Not in this network. We do work with Valiant for other applications in our 
+wireline sales, but in this particular application, again, there is no partnership with Valiant for 
+this... 
+Venkata Suresh Kumar: Only for wired networks. 
+Arnob Roy: For our wireline business, we have some partnerships for some complementary 
+equipment, but not into the wireless space inside the safety piece? 
+Venkata Suresh Kumar: And Cybersecurity. 
+Arnob Roy: Cybersecurity? 
+Venkata Suresh Kumar: Cybersecurity products in some Tejas market stalls in conducting 
+U.S.A. exhibitions with Valiant 
+Arnob Roy: No, we are not into making cybersecurity products. We use cybersecurity 
+products, but we do not make cybersecurity software or hardware. We don't do that. 
+Venkata Suresh Kumar: Actually, you are conducting a stall in the U.S.A., Tejas, and joint 
+Valiant. You're conducting the stall. That company is only for your joint products. 
+Arnob Roy: You were talking about the trade show in the U.S. So I think one of the trade 
+shows is for the utility sector, and we participated in that. And as I said, some of our solutions 
+in the wireline space, especially for the utility sector, are in partnership with Valiant, where we 
+make complementary products that work together for the smart grid. And that is the solution 
+we demonstrated at one of the U.S. trade fairs. 
+
+Venkata Suresh Kumar: Okay. You are a utility partner, a utility sector joint venture of... 
+Arnob Roy: No, no, there is no joint venture. There's a joint solution with our product solution, 
+yes. 
+Moderator: Our next question comes from Hirenkumar Thakorlal Desai, an individual 
+investor. 
+Hirenkumar T. Desai: Yes. My questions have been more or less answered. I have just one 
+question. So to be able to build this huge BSNL order inventory, will you be required to take 
+on some debt on our book? 
+Arnob Roy: Take on what? 
+Hirenkumar T. Desai: Some debt loans. 
+Arnob Roy:  So as of now, I think we have planned our cash flows, balancing our supplier 
+payments, our receivables, and our collections. So as of now, we have worked out the cycles 
+that ensure that we will be able to manage our working capital properly to execute these orders. 
+So maybe one last question, please. 
+Moderator: Thank you. Should I take the last question? 
+Arnob Roy: Yes. 
+Moderator: All right. The next question comes from Bhavya Doshi, an individual investor. 
+Bhavya Doshi: Yes, I have two questions. One was on the geopolitical side. We are seeing the 
+U.S. ban some chips and China ban some new materials that are going to affect some 
+semiconductor supplies. Are you seeing any component disruptions happening within our 
+supply chain? Is there any kind of early stress? That was one. And second, if you can shed 
+some light on the TATA Tele deal that we have won recently and also what kind of order book 
+we are going to get during this financial year of INR 1900 crores. 
+Arnob Roy: Yes. So first of all, it's the U.S.-China geopolitical tensions. I think that has been 
+going on for a while, right? So I don't think this issue has particularly impacted our supply 
+chain or our semiconductor supplies. A lot of the high-end semi-conductor components anyway 
+don't come from China, or the use of Chinese components is very low in our products. So this 
+particular issue has not created any problems. In fact, our good diplomatic relations with the 
+U.S. have only helped us in this regard. So this has not been a problem. That's first of all. 
+Second, relating to Tata Tele. So Tata Tele uses several technologies and several kinds of 
+products in its network. They have been using WDM equipment. And very recently, they also 
+bought our GPON equipment, so it's like a combination of equipment that they have bought. 
+Very recently, they have also bought switches and all those kinds of things for building their 
+network. So Tata Tele also has customers that use multiple products as a solution for building 
+their network. So it's not one product, and they are also a pretty good run-rate customer for us. 
+Bhavya Doshi: Okay, and how much of the order book has been executed in this financial year 
+out of the INR 1900 crores? 
+
+Arnob Roy: Yes. As I mentioned, around 50% to 60% of that will be executed in this financial 
+year. 
+Bhavya Doshi: Okay. And just one last question, if I can squeeze it in. So on the profitability 
+side, you've explained that you're trying to strike a balance between growth and margin. But 
+do we have any internal targets? And at what time are we expecting to become cash flow 
+positive, at least on the operating level? Do you have any further internal targets? 
+Arnob Roy: Yes. As I mentioned, we are driving for profitability for this financial year. 
+Bhavya Doshi: Okay. This financial year, you're expecting to be cash flow positive on an 
+operating level, at least? 
+Arnob Roy: We are working towards that, yes. Thanks, everyone, hand over to Anand, our 
+CEO & MD, for any last closing comments. 
+Anand Athreya: Yes. So the closing comments are that, actually, I'm pretty excited to be here. 
+We have a good, healthy order book for this year and beyond to execute and I’m also excited 
+about the significant wireless business. This actually puts us on the global map. I'm also very 
+excited about the successful pilot of 200 sites for BSNL 4G, and we are planning to pull out all 
+the stops to ensure that the supply for deployment happens in Q2. 
+And, as we consider profitability, we will invest to expand. At the same time, we want to very 
+closely operate, manage our manufacturing operations to scale up our business, and also control 
+costs. So I think we are going to be on a trajectory, and I'm pretty excited to be part of that 
+trajectory. Arnob? 
+Arnob Roy:  Yes. So thanks, Anand, and thanks everyone, for attending the call, and we look 
+forward to interacting with you over the quarters in the future as well. Thank you very much. 
+Moderator:  Thank you. On behalf of ICICI Securities Limited, that concludes this conference. 
+Thank you for joining us. You may now disconnect your lines. Thank you. 
+ 

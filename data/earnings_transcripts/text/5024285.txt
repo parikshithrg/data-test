@@ -1,0 +1,895 @@
+ 
+ 
+  
+ 
+ 
+ 
+ 
+www.stl.tech 
+Sterlite Technologies Limited 
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.                                 
+CIN - L31300PN2000PLC202408 
+May 02, 2022 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, 
+Plot No. C-1, G Block, 
+Bandra Kurla Complex, Bandra (East)    
+Mumbai - 400 051. 
+ 
+BSE Limited 
+Phirozee Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001. 
+ 
+ 
+Sub.:  TRANSCRIPT OF EARNINGS CALL - FINANCIAL RESULTS Q4 FY22  
+Ref.:   Scrip ID - STLTECH/ Scrip Code - 532374 
+Dear Sir/Madam, 
+In furtherance of our letter dated April 19, 2022, please find enclosed transcript of earnings call held on April 28, 2022 
+in respect of Company’s Q4 FY22 financial results. 
+The same has been hosted on the website of the Company and is available under the tab ‘QUARTERLY INVESTOR 
+EARNINGS CALL TRANSCRIPTS’ drop down available at https://www.stl.tech/downloads.html#qiect 
+Kindly take this on your record and acknowledge the same.  
+Thanking you. 
+Yours faithfully, 
+For Sterlite Technologies Limited 
+ 
+Amit Deshpande 
+Company Secretary & Corporate General Counsel (ACS 17551) 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Sterlite Technologies Limited Q4 FY22         
+Earnings Conference Call Transcript 
+ 
+April 28, 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: 
+   MR. ANKIT AGARWAL – MD, STL 
+                                                MR. MIHIR MODI – CFO, STL 
+                                                MR. PANKAJ DHAWAN – HEAD IR, STL 
+ 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 2 of 19 
+ 
+ 
+ 
+Pankaj Dhawan: 
+Ladies and gentlemen, good day and welcome to the STL Quarter 4 and full year FY22 earnings 
+conference call. I am Pankaj Dhawan, Head Investor Relations at STL. To take us through the 
+Quarter 4 and full-year FY22 results and to answer your queries, we have Mr. Ankit Agarwal – 
+Managing Director, STL and Mr. Mihir Modi – CFO, STL.  
+Please note all participant lines are in the listen only mode as of now. There will be an 
+opportunity for you to ask questions after the presentation concludes. Please note that this call 
+is being recorded. You can also download a copy of the presentation from our website 
+www.stl.tech. Before we proceed with this call, I would like to add that some elements of 
+today's presentation may be forward moving in nature and must be viewed in relation to the 
+risk pertaining to the business. The safe Harbor clause indicated in the presentation also applies 
+to this conference call. For opening remarks, I now handover the call to over to Ankit Agarwal. 
+Over to you Ankit 
+Ankit Agarwal: 
+Thank you Pankaj. Good day to everyone. Thank you for joining our Quarter 4 FY22 earnings 
+conference call.  
+At a macro level the overall digital infrastructure is very well-poised for rapid and sustained 
+growth. We see four key themes playing out; first the network creators and governments 
+continue to invest heavily in the digital infrastructure. We can see various instances for the 
+same. Just to quote some of them as you can see on the slide, for example AT&T is increasing 
+its CAPEX from about 16 billion to 20 billion in 2022, Fiber Co. which is out of Italy is looking to 
+invest in fiber to the home coverage of 60% of Italy by 2026. Lumen, Meta, Airtel and so on as 
+you can see are all invested in multi-billion dollars across whether it's on telecom operator side 
+or on the data center side to build out massive networks for their future requirements.  
+On the government side also, we see various incentives and programs that have been 
+announced. The biggest one we clearly see globally is the US government as part of the 
+infrastructure bill is committed to $65 billion investment in broadband infrastructure. Similarly, 
+the Italian government has also looked at $2 billion to provide 5G and connectivity which is 
+now approved and will go into the rollout. Also, another example is Germany where historically 
+they've had largely copper networks across the board are now investing clearly in switching 
+from copper to fiber at a massive speed and scale. The government is continuing to invest 
+about €12 billion to provide gigabit capable fiber connectivity.  
+Second, we see that this CAPEX investments are powering deployment of 5G, FTTH data centers 
+and Open RAN. It's extremely important to understand that all of these things are happening 
+in parallel. 5G is clearly the fastest growing technology in the world today. Operators will invest 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 3 of 19 
+ 
+more than $500 billion in 5G from 2022 to 2025. The number of subscribers is projected to 
+grow from 660 million currently to about 4.4 billion by 2027. Leading the 5G deployments 
+globally is China which plans to triple its base stations from 1.4 million to 3.7 million by 2025. I 
+do want to call out here that historically in the last 5 to 10 years every single projection by the 
+Chinese government has not only been met but by exceeded before time. FTTH is clearly 
+becoming all-pervasive. In Europe Italian broadband operators Open Fiber plans to connect 24 
+million households, up from 13 million households currently. In the US, Altice is planning to 
+spend $1.8 billion of CAPEX for fiber to the home. And another example, a customer of ours, 
+city fiber is rolling out and is on track to reach 8 million homes in the UK by 2025 which is just 
+3 to 4 years away. The data center CAPEX is also set to grow by 10% over the next 5 years to 
+$350 billion. Google announced $9.5 billion investment in building offices and data centers in 
+the current year in 2022.  
+Lastly, Open RAN is moving from pilot phase to initial deployments globally in 2022 and large-
+scale deployments look likely by next year. In our own conversations with telecom operators 
+at Mobile World Congress it was no longer a concept. It was very clear with our engagement 
+that operators do believe into this technology and are now looking at how to roll this out 
+globally at a certain speed and cost. While Vodafone's first 5G Open RAN site has gone live in 
+UK, Telefonica is scaling Open RAN in more than 800 sites. These are many examples where 
+Open RAN we believe will start taking center stage towards the end of this year and into next 
+year.  
+The third theme is that in terms of we see playing out large scale fiber deployments globally. 
+In the UK, for example Openreach an important customer of ours is planning to reach 25 million 
+homes by 2026. Netomnia another important customer of ours is planning to pass 1 million 
+homes by 2023, that's just next year and Hyperoptic is planning to target 3 million homes by 
+2024. Many such examples where clearly a massive amount of fiber in developed countries. 
+Another example in Europe, we talked about the government investing in Germany but 
+Deutsche Telekom is investing to touch 2 million homes by 2022. Open Fiber planning to touch 
+24 million homes by 2031. A very important example as well for us is North America, AT&T 
+plans to deploy FTTP to additional 30 million homes by 2025. In India, in our home market apart 
+from BharatNet, private telecom operators expect to deploy 200,000 cable kilometers of 
+network in FY23 and going forward for the fiber backbone.  
+I think this is a very important chart in terms of forecast from CRU, which is the leading provider 
+of the forecast and research in our sector. Clearly as you can see on the chart, 2022 we were 
+at about 544 million fiber kilometers of optical fiber cables. That will continue to grow at least 
+at 5% rate arguably stronger than that into the next 4 to 5 years. This is clearly on the back of 
+all those demand requirements that we had shared earlier. In terms of CRU the global OFC 
+demand is supposed to expect to reach 648, so close to 650 million by 2026. My own estimate 
+and our own view is that probably be even stronger than that given the kind of focus that 
+government and other operators are playing in. STL’s focus markets of north America and 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 4 of 19 
+ 
+Europe are clearly high potential, fast growing and also have high realizations. This is an 
+important element also again looking at CRU data which is industry wide, very important to see 
+that as you look at the pricing we've all gone through this over 2018 into 2019 and 2020. We 
+really believe 2021. Now clearly into 2022 all these tailwinds of the market demand are playing 
+out and starting to look at the trends in terms of prices to starting to go up. If you clearly see 
+from 2020 on to ‘21 and now into 2022, between about 10% or 20% of price increases are what 
+we expect through the course of the current year. Across again as you see in terms of our core 
+markets of north America, Europe and APAC non- China where we are currently focused on 
+markets like India and Australia. Based on all these four themes that we have just discussed; 
+we confidently reiterate that we're in a multi-year network build cycle across the globe. This is 
+clearly the best network build cycle I have witnessed and as a company we're extremely excited 
+with the potential that that presents to us. The three investment cycles of 5G, FTTH and 
+hyperscale build-out have coincided and we expect that these will continue for the next 7 to 
+10-year timeframe. With these favorable industry tailwinds our growth strategy is on track. In 
+the following section we shall talk about this in more detail. FY22 as a pivotal year in terms of 
+global expansion, product development and getting tremendous and professional leadership 
+onboard.  
+Before we deep dive into the strategy I want to take a moment to look at the year gone by and 
+summarize the progress we have made during the year. On the financial front I'm proud to 
+share that we have achieved our highest ever revenue of (+5700) crores, a growth of 19% year-
+on-year and we are very poised to grow further in FY23. We have a stable order book at north 
+of 11,500 crores out of which UK services in particular, we are proud to share is now stands at 
+1,000 crores. We have crossed many strategic milestones we have a long outlined for ourselves. 
+We have increased our OFC, our cable capacity from 18 million to 33 million fkm. We have 
+established a foothold in Americas and proud to share that now we have 6% market share of 
+Americas in a very-very short period of time. We have also clearly established ourselves in the 
+UK for the services business by acquiring and integrating Clearcomm which is an acquisition we 
+had done earlier. Clearly, we have delivered cutting edge solutions in FY22. We launched 
+Garuda, a 5G small cell and programmable fiber to that solution providing 10 gig speed. All of 
+these are currently undergoing field trials not only in India but with our global customers.  
+We continue to develop our intellectual property and extremely proud to share as an Indian 
+company we have more than 733 patents which are global patents and will serve us very well 
+for the future. I'm also proud to inform you that Gartner has recognized STL as one of the key 
+players in the 5G small cell market which is not a small feat for us. Last but not the least, we 
+have moved towards world-class standards. I'm very proud to share that we are now certified 
+great place to work for third time in a row. We have really committed ourselves to net zero by 
+2030. We have also onboarded world-class leadership to further build and create a global 
+business.  
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 5 of 19 
+ 
+Looking at the key growth levers as we have shared in the past, we could not have achieved 
+this 19% growth in FY22 with a clear focus on these three growth levers. Just to reiterate them, 
+firstly grow the optical business, second globalize the system integration and third build a 
+strong wireless solutions business. We shall talk about our progress in each of these in detail 
+in the subsequent slides.  
+As you can see from the chart here, we have consistently gained our market share across all of 
+our focus markets. In the nine months of FY22 we have reached 10% market share globally 
+minus China, up from 8% in FY21. In Europe we have reached 25% market share from 16% in 
+FY21. This is something we're really proud of. I want to reiterate in terms of Europe where we 
+have clearly laid out as a strategy of focus. We're now at one-fourth of the market in terms of 
+cable. And finally in north America and Latin America combined, we have now reached 6% 
+market share from just 2% a year ago.  Clearly with this market opportunity and the potential 
+that lies for us, our target and our vision is to be a top three global player in the near term and 
+achieve this global leadership.  
+In terms of establishing a foothold in US and scaling up the optical interconnect facility, we 
+have now established a foothold in the US and now are strengthening our presence by putting 
+up a world-class manufacturing facility for our optical fiber cables. As you can see on the photo 
+on the left, that's the current facility. We're in final stages of setting this up and running this, 
+so very excited as that facility comes on stream. This facility will go on stream in Q3 FY23. Also, 
+we have established our facility in India for optical interconnect with more than 300 resources 
+and a vast portion of those are women which again I'm very proud of to share with you. We 
+have also increased our optical interconnect attach rate from 3% in FY21 to 11% in FY22. For 
+some of you who may not be familiar with this concept of attach rate, it is essentially for every 
+dollar of cable that you sell how many cents or dollar can you sell or are selling of your optical 
+interconnect and that is the attach rate. As we ended FY22 we were at 11% which is a very 
+strong growth from the 3%. This was at the back of our Optotec acquisition that we have done. 
+I'm proud to share that we are now projecting it to go to 20% by FY23 as we had also been 
+guiding in the past. Our vision continues to be at 100% which is for every dollar of cable we sell 
+we will sell a dollar of interconnect and that's clearly a task cut out for us in the next few years. 
+Coming to the second growth lever of globalizing system integration; in the UK we expanded 
+our partnership with Netomnia. As part of this partnership, we will provide integrated network 
+deployment services along with our optical solutions. We will enable Netomnia to increase 
+home pass speed and reduce the total cost of ownership. This partnership validates our 
+strategy of providing end-to-end solutions to our customers. Overall, in terms of our services 
+business in the UK we have an open order both of approximately 1000 crores. In the UK market 
+we have ramped up our talent and execution to convert order book to revenue. The market is 
+faced with a tremendous shortage of trained resources and currently it is the only constraint 
+for network deployment in the UK. I'm happy to share that we have multiple customers looking 
+at us as a partner for their multi-year buildout. We are actively looking at how do we augment 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 6 of 19 
+ 
+our resources and bring in additional resources to the UK to support this build out. We are 
+building a unique competitive advantage by training resources at our own academy STL 
+Academy, providing them the certification in the areas of project management, installation, 
+testing and quality assurance and keeping the deployment team ready for UK deployment. A 
+second batch of 100 trained telecom engineers will be deployed in this quarter, Quarter 1 FY23. 
+We aim to increase our UK revenue contribution to 25% of global business services by FY24.  
+In the wireless business our product development is on track. On the back of efforts by 
+engineers we have over 120 patents on our name now. Again, something to be very proud of 
+as an Indian company to build this kind of IP in the wireless and access space. We now have 
+eight products that have reached general availability milestone which is a critical milestone to 
+now bring these products into the market and large-scale requirements. We have also 
+announced general availability of Garuda, a 5G small cell, programmable FTTH which will 
+provide 10 gig speeds and WiFi 6. We are targeting general availability of our very important 
+5G radio unit and RAN intelligent controller and therefore full portfolio of our offerings in the 
+current financial year. In terms of customer engagements on the wireless side, as I shared one 
+example being the Mobile World Congress, we continue to engage with our customers globally. 
+We have secured more than 10 engagements currently which are anywhere between early 
+stage to POCs. We are also very happy to report that we have got very good response at the 
+Mobile World Congress where we showcased all of our 5G solutions and customers are actively 
+looking at how to take these discussions forward. In line with our industry, we aim to acquire 
+customers and build order book for this business in FY23. That we believe will start generating 
+meaningful revenue in FY24.  
+To just summarize the business priorities again; really want to reiterate that our core is the 
+optical business and we are very clear, we want to be a global leader in this space. In the global 
+services business, we want to focus on profitable segments both in India and the UK. We want 
+to be very straightforward here. We are not chasing revenue out here for sake of it. We're 
+looking at profitable businesses, both in UK and in India to grow this forward. Lastly on the 
+wireless business; we believe that we have built some very positive products. We have started 
+to get some customer traction. We've continued to build out our product portfolio and, in this 
+year, start building some of our order book.  
+We shall now discuss the financials for Quarter 4 FY22 and the outlook for FY23. I would now 
+like to hand over to Mihir, who will discuss the financials.  
+Mihir Modi: 
+Thanks Ankit. Hello everybody, very good day to all of you. Let me dive straight into the 
+financials funnel; right at the top is the order book. Our order book at the end of Quarter 4 of 
+FY22 stands at 11,639 crores. The spread between a FY23 and ‘24 plus is about 5,000 crores in 
+FY23 and 6,600 crores in ‘24 and beyond. I think it's important that we are moving into the 
+right customer segments that we want across all of our businesses for the order book. We also 
+have a significant O&M order book which will start to yield revenues from FY23 onwards.  
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 7 of 19 
+ 
+Moving down the order; in the funnel coming to revenue. The revenue mix is also shifting to 
+the right customer segments that we are deliberately focusing on and the geographies of our 
+choice. If you notice the 55% of our revenues in FY22 are from EMEA and America. 
+These are the key markets that we are focusing on. Of course, India remains a large chunk as 
+well. We are happy with the shape that the mix is taking. In terms of notable wins this quarter, 
+we've already talked about Netomnia and PGCIL orders. In addition to that this quarter we've 
+also won multi-million dollars’ worth of multi-year fiber cable contracts with the leading Italian 
+telco. We have also won new cable orders in the north American market. Overall good progress 
+this year and continuing to win orders in the areas, geographies, segments that we desire to. 
+Looking at our project execution, pretty much on track amongst the India public projects. The 
+T- fiber project is 50% complete including all the packages, PGCIL is close to 47% complete. On 
+the India private side, the fiber roll-out for a large Indian telco is 88% complete for its Phase 1. 
+Of course, we have the second phase which is yet to start for that client. We are also starting 
+the execution of fiber rollout for yet another Indian private customer.  
+Looking at the UK, the fiber to home rollout has started in the UK in a good way. All projects 
+combined we are at 3% completion and we expect that to continue to improve. In the data 
+center connectivity projects, we have completed 58 projects and are currently working on 21 
+projects. That continues to have its good momentum. 
+Looking at the middle line now; as I had mentioned in my newsletter a few weeks back, we are 
+seeing some headwinds in the raw material and logistics costs particularly in the optical 
+business. I'd like to go into one more level of detail into that. If we look at our raw material mix, 
+we can look at four broad categories, polymers, metal, gases and specialty resins. If I look at 
+indices or proxies for these, crude oil prices which can be looked at as a proxy for polymer 
+prices it went up by 29% in Q4 of FY22. The LME index which is a decent proxy for metals went 
+up by 15% in Q4 of this year. Similarly natural gas prices went up by 49% in this quarter. We've 
+seen some key raw material price increases in Q4 itself. Similarly on the freight side if we look 
+at the Freightos index and if we look at the route from China to north America as a 
+representative indicator, it went up by a whopping 175% in FY22 in the full year. Almost three 
+times freight cost increase and it does remain at elevated levels particularly to the US route. I 
+must add here that this in some senses also an accelerating effect for us as our US sales as we 
+saw in the earlier charts continued to go up, US and Europe sales. Our mix requires more freight 
+costs. If we add the pricing of that freight that just makes it a little more adverse for us. But 
+we're tracking this very closely and I'll come to some of the actions that we are taking there. 
+But for now, let me get back to the revenue growth. Our quarterly revenue grew to 1,582 crores 
+which is about 17% growth quarter-on-quarter and 7% growth year-on-year. We expect to 
+maintain the quarterly momentum as we enter Quarter 1 of FY23. Of course, our Quarter 4 
+EBITDA and PAT stand at 122 crores of EBITDA and negative 22 crores PAT for the Quarter 4. 
+As I mentioned in the previous chart this was largely impacted because of the raw material 
+prices and logistics cost increases. Obviously, there was a global supply chain disruption and 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 8 of 19 
+ 
+we were impacted by that as well. I must say that despite that and looking at the potential 
+opportunities as well as the momentum on the demand side, particularly in the UK on the 
+services side where we are expanding, we continue to invest and not hold back in that 
+particular area while we will focus on the right areas. As an overall thought process in the 
+optical business, we're working to optimize costs and we have gone back and started having 
+conversations with our customers for price increases and they've started to trickle in. This 
+should compensate for the raw material and logistics cost increase is what we believe. Of 
+course, the services revenue increase will also help absorb the fixed costs overall resulting in 
+the right direction for the profitability. 
+Last but not the least; like I mentioned earlier very calibrated and focused approach for our 
+investments will also help us improve the EBITDA margins. As we've shared in the past, we 
+expect our EBITDA margins to normalize by H2 of FY23. We have placed an abridged version of 
+our quarterly and full year financials for your perusal. These are available in the presentation 
+on our website.  
+If we look at the Quarter 4 and the breakup of our revenues, we delivered 1070 crores of 
+revenues in the optical business. We delivered 502 crores revenue in the services business and 
+54 crores in the digital and wireless businesses. We expect as a whole to grow between 23% to 
+25% in FY23 over the full year of FY22. We believe that our revenue mix will continue to be 
+very likely in favor of the optical business in terms of margin, our sustainable quarterly EBITDA 
+margin in the optical business is in the range of 20% to 22% and the services business is in the 
+range of 10% to 12%. As I mentioned earlier, we plan to reach sustainable margins by H2 of 
+FY23. In the optical business the increase in US revenue share, increase in in the cable pricing, 
+the cost saving initiatives, increase in the optical interconnect business which is high margin 
+that attach rate as we know continues to go up and we will continue to push that up will be the 
+key levers for our margin expansion. 
+In the services business not just the incremental profitable revenue from India but also the 
+increase in UK revenues shall be key to margin expansion for us. In terms of capital allocation, 
+a clear priority is timely investments in the optical business. We continue to invest in our optical 
+fiber cable capacity expansion. In addition to the maintenance CAPEX that we need to incur. 
+On the services side we aim to generate strong cash flows from the business and that remains 
+an important focus area. At the same time, we will continue to divest non-core assets in FY23 
+as well. As you would recall last year in FY22 we sold interests in METIS or adda247 and MTCIL 
+in this quarter. Our goal is to move towards the 20% ROCE at a steady state operation post the 
+investment phase. I think it is important to mention that there's a fine balance that we need to 
+maintain between not missing investment opportunities at the same time keeping our debt 
+under control. Therefore, in terms of cash flows we plan to maintain our net debt levels at 
+flattish FY22 or slight improvement levels. But our investments, particularly in the optical fiber 
+cable side of the business will be from internal accruals. The cash generated from operations 
+will be used to fund CAPEX. Even on the working capital side we plan we have focused to reduce 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 9 of 19 
+ 
+the outstanding in the services business. As we grow the optical business, we will kind of 
+improve our working capital levels, we will try to keep it flat at least in terms of the absolute 
+numbers for the US markets.  
+Overall, the year FY23 is in a way a year of inflection for us. As feedback from all of you we are 
+moving away from giving long-term guidance to providing a more short-term to one year 
+outlook. In that context we want to share our thought process and expectation for FY23.  
+Our revenue for full-year shall be in the range of 23% to 25%. Of course, our aspiration is to 
+grow more than that but we expect that to be 23% to 25% over FY22 our absolute net debt 
+shall remain flattish to slight reduction. The objective is to move towards a steady state ROCE 
+of 20%. Besides the financial that we were also very committed on our ESG targets. I think STLs 
+endeavor, our endeavor is to be a responsible leader in ensuring a connected and an inclusive 
+world. If we just look at some of our key and very proud achievements, we have diverted 45000 
+metric tons of waste away from landfills in the your FY22 we've reduced emissions worth 7500 
+tons of CO2 carbon dioxide equivalent through various initiatives in the plants in this year. We 
+have announced our commitment to become carbon neutral company by 2030. All in all, we 
+believe and continue to work in this area and have set ourselves environment friendly targets, 
+inclusive targets for ourselves for STL. Net-net through our various initiatives in education, 
+training, livelihood upliftment, we have impacted 1.47 million plus lives cumulatively over the 
+last 2 years. For our work we have won 29 ESG awards in the FY22. Very proud of our focus and 
+work in this area. In summary I'd like to say that the decade long cycle of network creation is 
+in full swing. The global optical fiber cable volumes and pricing are both expected to grow in 
+the next 12 months in FY23. Our capital allocation shall be focused as we said earlier as well on 
+the optical business, we have established ourselves in the US market already by reaching a 6% 
+market share. We would want to continue to grow there. We have increased our attach rate 
+which is what Ankit earlier mentioned. The attach rate of the optical interconnect through the 
+fiber cables to 11% now. And we would want to continue to push that upward as well. In the 
+services business we're focused on profitable projects and cash generation. We already build 
+a good order book in the UK and are ramping up our execution there. The wireless business 
+products are gaining traction and the focus is to now build order book and eventually deliver 
+those products in the form of revenues. Overall, we aim to grow between 23% to 25% in 
+revenues, keep net debt flat and move towards an ROCE of 20% after the investment phase in 
+the optical business. 
+Pankaj Dhawan: 
+With this we come to end of our opening commentary. We shall now move to Q&A. First 
+question we will take from the line of Mr. Pranav Kshatriya.  
+Pranav Kshatriya: 
+My first question is regarding the news article which talked about Sterlite Technologies is 
+considering demerger of various businesses into different entities. What is the management 
+thought process around it? Is this a possibility in the near to long-term and how should 
+investors see this? Second question is regarding the margin trajectory; you talked about margin 
+reaching to broadly the sustainable margin of around 18% odd by H2 FY22 but will H1 FY22 see 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 10 of 19 
+ 
+the current level of margin or how the trajectory will be that is what I would like to know? 
+Lastly what should be the CAPEX for FY23? 
+Ankit Agarwal: 
+I will just comment on the first part. The company has taken in principle approval from the 
+board that if the need arises and only at a right valuation price, we may consider raising funds 
+at the equity route. The company is currently investing in new verticals as you're aware and at 
+the current juncture these investments are being made primarily through the internal accruals 
+and the company does not plan to increase as Mihir was sharing to increase the consolidated 
+debt of the company any further. Keeping all of these aspects in mind the company has sought 
+in principle approval to keep the options open and if the need arises at the right time and place.  
+Mihir Modi: 
+On the margin, Pranav, so you're right that we've spoken about the H2 margins. All I will say is 
+that we expect it to improve quarter-on-quarter if not by significant amounts certainly in the 
+right direction in Q1 and Q2 till we get to the H2 numbers that we're talking about. I will not 
+be able to comment specifically on what's the order or magnitude of that because these are 
+variables which are still moving. As you saw it saw the significant increases in Quarter 4 by the 
+indices that we shared. Therefore, talking about a specific number may be difficult at this stage 
+but our objective will be and aim will be to certainly not let it get worse. Lastly on the CAPEX 
+side, we are looking at a cash flow. We are looking at about 500 crores CAPEX, out of which the 
+400 will be new CAPEX and about the rest will be maintenance.  
+Pranav Kshatriya: 
+If I can just follow up with one small question on the first part. The demerger is primarily for 
+equity raising and the value unlocking or is it for debt reduction? What exactly is the 
+management thought process if there's a demerger? 
+Ankit Agarwal: 
+So, what I'll just comment. See, one at a high level we are operating clearly four business units. 
+They are also in different stages of maturity. So, you have the core business, so to speak of the 
+optical where we have been for the 30 years is mature. Services business is in India and now 
+UK. Then we have the emerging businesses so to speak of digital and wireless where we 
+continue to put-in investment for future growth. Also, from a capital allocation perspective 
+very clear focus and prioritization is to invest in growth of the optical business. There are 
+certain ongoing investments in the tune of 160-180 crores per year in the current year that we 
+will do in the digital and wireless part. That's the current plan that we have. To the extent that 
+we want to look at opportunities for example of inorganic growth for further growing again in 
+broadly the optical space, we do believe that it will be important to capture this market 
+opportunity. To that extent we will continue to evaluate those opportunities in the current year 
+as well. We've also talked about growing in our focus markets in north America and Europe. 
+Again, there any investments required to grow our capacities, if required based on market 
+demand we will continue to focus on that. So that's the overarching theme. Clearly as we've 
+said while we're not seeing options today to substantially reduce debt. At the very least we're 
+saying we want to maintain the debt we are at or reduce it partially. That's where we stand 
+from a focus and priority. As we have said and also shared in response to the article, currently 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 11 of 19 
+ 
+there's no immediate plans for any of this demerger or hiving off. We'll continue to evaluate 
+and update the market at the appropriate time.  
+Pankaj Dhawan: 
+We'll take the next question from the line of Mr. Neerav Dalal.  
+Neerav Dalal: 
+One is on the India tendering. When do you see the India tendering to happen on the BharatNet 
+Phase 2? Second is on the investment phase. When do you see the investment phase ending? 
+If one looks at your presentation, you were talking about US being completed by third quarter. 
+There were also plans about UK. If you could clearly articulate what you're going to add in US 
+and then whether you're going to add UK or not? Third piece was on you just commented that 
+you would be putting in 160 to 180 crores in the digital wireless side. If one looks at this year, 
+you have on the P&L side you have put in about 155 crores plus 51 crores that's gone to the 
+balance sheet. How should one look at this 160-180 moving between the P&L and the balance 
+sheet, that is number three. And lastly on the EBITDA side you did answer the question but so 
+you clearly trying to say that EBITDA sustainability will come in second half of FY23 and not by 
+second half of FY23, right? Within that when you are still not clear on that? 
+Ankit Agarwal: 
+I think good set of questions. I think definitely we are in a very positive investment phase in 
+India overall both on private sector as well as BharatNet in particular. Clearly with 5G looking 
+fairly promising to happen soon and getting rolled out, our own view is that 5G should get 
+accelerated particularly in the Tier I cities and a pretty large network investment will be 
+required both to connect your 5G towers and small cells which will need to be almost between 
+70% to 100% back hauled on fiber so that timing of that looks quite promising. Probably by end 
+of year or early next year 5G services should start coming through and the network build out 
+that will be required are we believe will at least be 3 to 4 years of network for that. On your 
+question of BharatNet, government is looking at some changes to the model versus what they 
+had earlier announced and this has come on the back of some concerns that have been raised 
+in terms of ability to generate revenues and the requirement where the essentially the private 
+sector or the bidders would have to generate the revenues from connectivity in the villages. To 
+that extent the model is getting shifted more to a kind of CAPEX and OPEX model. We do 
+believe the quantum of investment will also increase plus there is a good amount of urgency 
+to create this network probably in the next 2 to 3 years. We do see this as a positive momentum 
+both for our services business as well as our optical business and clearly a large opportunity for 
+STL to take leadership in permanence. 
+Neerav Dalal: 
+Just on this piece. At the moment there is no clarity from the government in terms of first half, 
+second half, when they would start tendering? 
+Ankit Agarwal: 
+So, as I said because the model is getting shifted itself that consultation is going on both 
+internally as well as with the industry. I won't be able to comment on what is the final model 
+but certainly there is a high urgency from the government and a very positive discussion to 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 12 of 19 
+ 
+conclude the model and then take this out for bidding. Definitely at some point this year that 
+will happen and my own guess it will happen sooner rather than later. 
+Mihir Modi: 
+Coming to the CAPEX question Neerav, so as I mentioned earlier there's expected to be about 
+500 crores of cash outflow on account of CAPEX. To answer your question about approximately 
+300 out of that will be on account of UK and US so both included to specifically answer your 
+question. And there is some maintenance cashflow and some past year cashflow that kind of 
+adds to the 500 therefore. We expect that to be it. Of course, some shifts of cash flows between 
+this year and next year maybe possible where if we have an opportunity to get the right terms, 
+we may push out some cash flow on to next year but these are good numbers to anchor on 
+from a cashflow standpoint and a spend standpoint. The next question is on the digital and 
+wireless investment. So, 155 and 51, yes these are numbers for FY22. We expect the OPEX to 
+be a little higher and CAPEX to be a little lower than this, adding up to the number that we 
+mentioned earlier for the total investment benefit also.  
+Neerav Dalal: 
+The OPEX for last year was about 155 crores and we are talking about 160 to 180 so? 
+Mihir Modi: 
+That's right so in short...  
+Neerav Dalal: 
+Largely it will be OPEX? 
+Mihir Modi: 
+That’s correct, yes. On your EBITDA point you're right. The EBITDA when we say it will be at 
+normalized levels in H2 or by H2, it is indeed in H2 to be clear about it. We expect that to 
+happen in H2 given all these headwinds that we are facing, we believe that is the kind of time 
+it will take for us to, not just optimize the cost but also our effort on the prices to be increased 
+from our customers. That's the time frame that I see we will need. 
+Pankaj Dhawan: 
+We'll take the next question from the line of Mr. Mukul Garg.  
+Mukul Garg: 
+I just wanted to follow-up on the margin question. Is it possible for you to break the margin 
+impact adjusted of provision for last quarter between raw material cost, freight and increased 
+investment? If you can just help us kind of gauge exactly how much hit came from which 
+particular element? 
+Mihir Modi: 
+Sure. I'll give you a high-level number. I think about a 100 bps came from increased investment, 
+about 200 bps came from freight and thereabouts came from raw material. 
+Mukul Garg: 
+Also, Ankit, just wanted to check on the revenue guidance. The commentary overall seems to 
+be that demand environment continue to improve meaningfully and certainly was better 
+versus last quarter. Then in that scenario what drove the change in revenue guidance versus 
+the previous one which was focused on Q4 23? It seems that guidance has come off a bit? 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 13 of 19 
+ 
+Ankit Agarwal: 
+Absolutely Mukul and I think this is one at a macro level, there's no question in terms of the 
+tailwinds and the positive tailwinds. Again, growth in our focused markets of North America, 
+Europe and India are clearly there. As some of these capacities come on stream, the price 
+realizations come on stream as well and for example, as we continue to scale our UK services 
+these will all help drive that top line toll. So that gives us a comfort. I think what we are very 
+consciously driving also is both profitable growth as well as ensuring the cash. So, we want to 
+make sure that the projects we're involved in that the cash cycle is at the right levels that we 
+wanted to be. With that intention in mind, we have taken conscious calls in our plan for the 
+current year. We don't want to just drive revenue for sake of it but drive the right kind of 
+revenue growth and so that's been the decision, the focus and also the communication with 
+our teams and that's where we've come out with our plans.  
+Mukul Garg: 
+Probably another word. Does it imply that the caution is more on the India services element 
+where the cash obviously has been stopped for a while? 
+Ankit Agarwal: 
+Yeah absolutely. One, I do want to iterate there has been positive developments in the cash 
+collections and it continues even into Quarter 4 and into the Q1 that we are quite positive 
+about. And then in terms of the services I think there is two parts. One, what we are saying 
+very categorically, we will only do services in India whether it is for private sector, BharatNet 
+or Defense at a certain profitable, minimum profitable threshold so that's one part. And then 
+the second part is so far, we have invested in services opportunities in the UK while we have 
+borne some costs currently; we do believe that as we start scaling up some of these fixed costs 
+will get covered through that revenue. That's the focus for the services business but to answer 
+your question very specifically yes, we've been very mindful of what services opportunities we 
+pick up in India. We had also talked about this in the previous quarter and some of our 
+discussions and that is clearly the thought process in our teams. While there are significant 
+opportunities also that they get played out in India, we're very mindful of which of those we'll 
+pick up at what profitability levels.  
+Mukul Garg: 
+If I may ask just one clarification Mihir, what portion of your product order wins this quarter 
+had a higher price baked in. Is it fair to assume that especially given the price chart which you 
+had showed that at least 10% of the value increase compared to Q3 would be from the higher 
+prices? 
+Mihir Modi: 
+Before I answer that I think it's not necessary that way because a lot of the revenue that got 
+booked in Q4 was actually dispatched much earlier and therefore it's not necessary that this 
+quarter revenue has those higher price increases. So, to answer your question I mean the 
+revenue increase that we've got is on the back of volumes as well in addition to some price 
+increases that we have taken in the last quarter or so. 
+Mukul Garg: 
+No, Mihir I was talking about the booking? 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 14 of 19 
+ 
+Mihir Modi: 
+Order book, yeah, so order book I think we can safely say that about 10% to 15% of our order 
+booking in the cable side was on higher pricing and we continue to have that journey. 
+Pankaj Dhawan: 
+We'll take the next question from the line of Mr. Sunny Gosar.  
+Sunny Gosar: 
+My question is related to the margin and sorry for repeating it again but basically in the current 
+quarter margin, we are at about between 7.5% to 8% versus if we look at our Q3 FY22 adjusted 
+margins, adjusting for the write-off and the provisions was about 11.5%-12%. We have come 
+down by about 5%. What I wanted to understand here is that what elements are being 
+contributed incrementally on the cost side and do we have provisions even in this quarter 
+which has also impacted the margin? Because I see your other operating costs was 449 crores 
+in Q3 and this quarter it is 429 crores and if I remember correctly in last quarter your other 
+operating cost included about 130 crores of provision. So that hasn't moved much. So, some 
+clarity on that will be helpful? 
+Mihir Modi: 
+Yeah, indeed absolutely Sunny. So first at the macro level the 500 bps or the 5 percentage 
+points that you mentioned, I broadly shared that about 1% or 100 bps is because of our 
+increased investments in the digital and wireless space. About 200 bps is in raw materials and 
+about 200 bps is in the freight. Now these are the broader elements, of course these are Q4 
+versus Q3 exactly the way you're asking. These would appear primarily in the line item that 
+you're referring to. So, 429 crores include the freight, the investments and some of these 
+packing materials etc. So, some of those increases are sitting in that category itself. If you adjust 
+for so that's one point. Second is the line items where the provisions were sitting last quarter, 
+were spread across a few line items and in this particular line items there was about roughly 
+about less than 100 crores sitting in this particular line item. If you adjust for that you will find 
+the increases that are sitting in those line items. Last question on the provisions. No, we don't 
+have any one-off provisions or abnormal provisions this quarter. This is a routine operational 
+business this quarter. 
+Sunny Gosar: 
+But I don't see a that bigger drop on the gross margins assets or is it the right way to look at 
+gross margins because your revenue will also include service revenue. So how should we look 
+at that? How do we compare that? 
+Mihir Modi: 
+Service revenue also, yeah, I mean some direct costs are a part of service revenue as well. If 
+you take only material then yes, the service revenue, gross margin will not show up, I mean the 
+cost will not show up, only the revenues will show up and therefore you'll have to adjust for 
+the service revenue gross margin because the direct cost sits in largely manpower costs. 
+Sunny Gosar: 
+And going forward I understand that the normalized margins will likely come from H2 FY23 but 
+basically how quickly will you be able to pass on the increasing RM cost and have the contracts 
+started to get repriced already or how does that work? 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 15 of 19 
+ 
+Ankit Agarwal: 
+Yeah sure, happy to take that thought. At a macro level as we've been sharing our teams have 
+been extremely focused on going after what we call our key accounts and that's been the 
+progress that we've also been sharing. These are typically where we work with our customers 
+for their multi-year build out. Some of the examples we have been sharing like Openreach, DU, 
+more recently Netomnia and some of the others and the whole thought process is to partner 
+with them and have multiyear arrangements with them to give them also surety of supply. In 
+each of their cases, there is typically a conversation and negotiation that happens. What we 
+have definitely found is across the board every one of the players in the market is having the 
+same conversations with the customers. It's clearly something that we continue to be 
+convinced is a global phenomenon. Our customers also not surprised with the conversations 
+or our requests for the price increases. They clearly see the underlying elements getting, the 
+costs getting increased. It's typically just a function of (a) the conversation happening, agreeing 
+a certain amount of price increase which is different depending on product portfolio and the 
+negotiation and then as Mihir was referring to, there is a time lag between when the 
+negotiations conclude, then we manufacture and then we sell it and be mindful of the fact that 
+a large portion of our sales today is today coming from pockets of Europe and Americas and 
+also we do see some growth in Australia in the current year. Given just the time period between 
+say 2 months to even up to 3 months there is that time period between when we negotiate, 
+conclude and then be able to see that visibly in our P&L. That's where also where we are saying 
+while we will go through this period lot of the conversations are going on with these large 
+accounts between when we conclude these over the next few months and be able to see it in 
+our P&L, we will see largely the benefits of these towards end of Q2 and into H1. 
+Sunny Gosar: 
+One last question on the margin side that you have guided say 20% to 22% on your optical 
+products and 10% to 12% on your services side. So, on a blended basis when you talk about 
+17% to 18%, does this factor in the 3% to 4% R&D spends that you are passing to the P&L or 
+that will be over and above that? 
+Mihir Modi: 
+No, that will be the over and above that. So, depending on how much we invest in the R&D 
+area and particularly in the digital and wireless space; it will offset that to that extent. That's 
+why this time Sunny we've kind of broken it down for a more clearer communication so that 
+our stakeholders including yourself understand the different pieces that are building up others.  
+Sunny Gosar: 
+Just to confirm you are saying that 17% to 18% is pre-R&D EBITDA or margins for at a company 
+level? 
+Mihir Modi: 
+The way I would put it is that for the optical business, we believe 20% to 22% is the sustainable 
+margins, for services business, it is 10% to 12% sustainable. Now if we choose to and if we have 
+to make investments in R&D like I said in digital and wireless space, then we'll adjust it 
+accordingly but we are going to follow a very calibrated investment approach. And to that 
+extent we'll take calls as we go further and whatever impact comes; yes, mathematically we'll 
+have to adjust that to reduce that at a company level when we add it up all.  
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 16 of 19 
+ 
+Ankit Agarwal: 
+Just to add probably to it, one is clearly there is a certain amount of confidence in this 20%- 
+22%. A very important factor also is how we can quickly grow our optical interconnect attach 
+rate. As we have historically shared, we do get better margins in that part of our business and 
+so a very important focus for us is to grow that optical interconnect globally. The second part 
+is that we have incurred certain costs as we have scaled up particularly in UK and we're looking 
+to have very strong margin discipline in our business in India. With these two effects we do 
+believe the margin profile will improve and go to that steady state of 10% to 12% that we have 
+stated. I think these two I would say the steady states that we have shared we do see that 
+panning out especially as we get into H2. On the R&D part and certainly investments in say the 
+new growth areas of digital and wireless, we're very mindful and also feedback from the 
+investors in terms of how do we look at these businesses. We're very closely evaluating what 
+is the investment we want to put into those businesses in the current year. While I've shared 
+that guidance of 160 to 180 crores, we'll continue to evaluate that and share the update on a 
+quarterly basis. 
+Pankaj Dhawan: 
+We will take the next question from the line of Mr. Tejas Sheth. 
+Tejas Sheth: 
+One on the margin trajectory side, which you highlighted for H2, how much of that is 
+dependent on the negotiations with the clients and how much of that is dependent on 
+softening of these cost, a thought towards softening of these costs? I just wanted to know 
+where is we more dependent lies for this achieving or moving towards the sustainable margins? 
+Mihir Modi: 
+Tejas, the way we look at it is so we're looking at about 7% to 9% margin improvement. I mean 
+to break that down we are approximately at about 12%-13% this quarter for the optical 
+business and we are saying it we'll get to a 20% to 22%. Now let me break that down not just 
+in the two elements, two buckets that you mentioned and I'll cover that. There's a third 
+element as well which is the growth of our optical interconnect attach rate in that business 
+because that is inherently higher margin than the fiber cable businesses. If I have to kind of 
+spread it across all three, I expect it to be pretty much so the 7% to 9% will come evenly from 
+each of the three categories as we see currently. If you have to ask me, what would I prefer? I 
+think clearly the customer pricing we are trying to push for more than the cost is what it is to 
+some extent and customer pricing is something that is more valuable also in the long term as 
+we see right now. But if I have to just kind of at a broad level these are three pretty much 
+spread evenly across the 700 bps to 900 bps that we're talking about. 
+Tejas Sheth: 
+On the demand side, Ankit you mentioned in that the demand guidance cuts or the revenue 
+guidance cut for FY23 is mainly because you don't want to chase a low margin business kind of 
+thing. But I believe that when you said that the sector tailwinds are so strong; wouldn’t the 
+business come at a higher margin proposition? I mean why you believe that the margins or the 
+business itself is coming at a low margin. I mean when peers like Corning are talking about, 
+they are running short of supply to meet the high demand scenario. Why we are believing that 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 17 of 19 
+ 
+or why we are stating that the business which is coming is a low margin business and we don’t 
+want to increase that? 
+Ankit Agarwal: 
+Maybe I will just clarify, that was a completely aligned with what you said. On the core optical 
+business, we continue to focus on our large accounts. We see very strong demand and growing 
+demand and the intent very much, very clearly laid out is with our current capacities, with our 
+new capacities coming on stream and our efforts on price realization improvement, margin 
+improvement that will be a core focus for the team to grow that and I think that will happen 
+profitably. And what we just spoke in terms of growing from this 12%-13% going towards 
+(+20%) that is the core focus for the company going forward. Where we have historically also 
+shared is that we have made a conscious shift where a good portion of our business which is 
+government dependent today has moved more towards the private sector, working with the 
+Tier I operators in particular and we are also making a second shift in terms of just being India 
+dependent to India plus UK. As we do this shift certainly over the next 3 to 6 months etc., we 
+are very conscious that there are margin challenges for example in private sector in India and 
+while that is an important part of our business, we really want to be very selective with what 
+kind of business we pick up. All the operators in my opinion would want to give more 
+opportunities for STL given our quality of execution but we are mindful from our perspective 
+of what of that opportunity we want to pick up given our margins that we want to ensure. 
+That's really the area where we are very conscious of how much revenue vis-a-vis profitable 
+growth.  
+Tejas Sheth: 
+Just last on the clarification of what Mihir mentioned about 7% to 9% equally divided. That 
+broadly is that the price hikes will be assumed in the range of 2% to 3% but again when in your 
+opening remarks you mentioned that the optic fiber prices are seeing a very upward trajectory, 
+why it is becoming difficult to pass on even 5% to 7% price hike to get the margin back? 
+Mihir Modi: 
+What I said is 2% to 3% of the EBITDA contribution will come from there. How do I put it? So, 
+we will get higher price increases but then part of it will be offset and again we're not 
+necessarily going to get price increase on 100% of our portfolio. The net impact on that so 
+directionally you're right. We are not taking 2% to 3% price increase on any single customer. I 
+mean it's all higher than that but there'll be a mix and the net impact we expect on the EBITDA 
+to be that range, in H2 again. So, we don't want to go beyond that. It's looking quite good like 
+we said in the opening remarks beyond that but if we stick to just the H2, this is a reasonable 
+assumption that we can make there. 
+Ankit Agarwal: 
+Also, just a one important element in this year is as we start running our US operations and 
+scaling that up, at least to that extent whatever we can manufacture and supply for the current 
+year; to that extent at least some of these say container cost etc. would be minimized. These 
+are some of the plans we have to then further improve the margins. 
+Pankaj Dhawan: 
+We will take the last question from the line of Mr. Saket Kapoor. 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 18 of 19 
+ 
+Saket Kapoor: 
+Currently if you want to sum up; what are the key areas of concern for our organization and 
+what steps are in the anvil that will guide us to better margin proposition going forward 
+especially from the H2 part?  
+Ankit Agarwal: 
+To almost summarize our conversations today; clearly on the positive side very robust market 
+demand. We believe fundamentally a lot of our strategies and our thought process is starting 
+to play out. Addressing your point on the concerns; very clearly, very important for us as we 
+continue to grow our business globally, we've talked of 23% to 25% growth, very important 
+two things to do that at the right profitability level and to generate cash as a business. I think 
+those are some things that we are very clear of. We're also mindful that we have a certain debt 
+level at the same time we want to make certain investments. So, ensuring that the cash gets 
+generated for the business itself, we are able to utilize that for our CAPEX, also start making 
+our working capital more efficient. These are very important focus areas for our business. I 
+continue to believe that with the market opportunity that we have and the leadership that 
+we've brought in over the last 3 to 6 months; we are very well placed to make those shifts. I 
+also would say that our strategy over last 3 to 4 months in sight of these price increases, our 
+global disruptions, I'm very confident of our own supply chain team and planning team that we 
+will continue to push forward on our cost reductions not only from operations but also from 
+supply chain and from planning side. This is what I would put it this way that while these are 
+concerns, we also have clear plans in place and management in place to execute on these areas.  
+Saket Kapoor: 
+On this 300 crores investment for UK and US which you are planning for this year, the CAPEX 
+part; where is it this going into and what kind of turnover are we going to generate out of it? If 
+you could elaborate where is this investment exactly planned out? How much we have already 
+invested and with 300 crores is the balance amount I think so? 
+Mihir Modi: 
+This is for the fiber cable factory, manufacturing factory that we're putting up in the US and in 
+UK and we've just started that process of investing there. The 300 is the expected total amount 
+that we'll spend across these two. With this we expect to increase our cable capacity, 
+manufacturing capacity by about 8 to 9 million fiber kilometers. That is where it is going. The 
+whole thought process behind this is to get closer to customers in terms of our manufacturing 
+capability and of course local manufacturing in those locations to be able to be more agile, to 
+shorten the delivery times and so on and so forth and that's the reason why we are going ahead 
+with building our facilities in US and UK. 
+Ankit Agarwal: 
+Just to add one thing. If you can see the screen, a lot of focus is also as you go closer to the 
+customers, you also build a very interesting product portfolios for their requirements. This is 
+what I'm holding is as an example of world's largest fiber optic cable. Almost 7000 strands of 
+fiber in it. In India for example they put 48 or 96 strands in a cable. But for this data center 
+customer in US, we are putting 7000 strands in a cable and selling it for their global 
+requirements. This gives you example as, as you go closer to customers, you also build such 
+
+ 
+Transcript of Sterlite Technologies Q4 FY22 Earnings Call      
+Page 19 of 19 
+ 
+kind of niche products for them and that then gives you a long-term relationship and profitable 
+business. 
+Saket Kapoor: 
+So, on an incremental turnover, can you give us some ballpark number? What kind of a business 
+for the 8 million fiber optic kilometer being added? What kind of incremental revenue are we 
+expecting going forward? 
+Ankit Agarwal: 
+Ballpark you can take an average of $15 for the cable. So, 8 million into $15 essentially. 
+Mihir Modi: 
+Of course, Saket ji I should clarify that the capacity will be built over a period of time and this 
+is a number; once the full production capacity is in place; this is the kind of incremental 
+revenues that this capacity will be able to generate. I think if we have to look at just FY23, we 
+expect the growth in revenue overall blended to be about 23% to 25% versus FY22 for the year. 
+Saket Kapoor: 
+Mihir question on the net debt level on an absolute number. What is the net debt level and 
+absolute number and what is the cost of debt currently and the current maturity for FY23?  
+Mihir Modi: 
+The net debt levels are around 2700 crores. The cost is approximately at 7% blended. We have 
+a reasonably phased out maturity period over the next kind of 5 to 6 years so that's not a huge 
+concern for us in terms of the maturity period. That is in a comfortable zone as well. 
+Saket Kapoor: 
+We have also seen this increase in inventory over a quarter-on-quarter for December also and 
+now for March? 
+Mihir Modi: 
+That's right. The primary reason for that is that as we increase our revenues or if I may say 
+dispatches to the US and UK, it requires an additional transit time of anything between 45 days 
+to 90 days and that we have to carry it as inventory and that's the sharp increase in inventory 
+that you see because of our revenue mix being more and more skewed in favor of overseas 
+markets. Just to link it back to the question you asked earlier on the manufacturing facility in 
+the US and UK; as we get closer to the customer and as we improve our response time or 
+delivery timelines, this inventory obviously will also come down because then we may not need 
+to see these 45 days to 90 days kind of inventory which is in transit. 
+Pankaj Dhawan: 
+With this we come to the end of our Q&A session and I now hand it over back to Ankit Agarwal 
+for closing remarks. 
+Ankit Agarwal: 
+Thank you Pankaj. I would like to thank everyone for attending this call and showing interest in 
+our company. I hope we were able to address and clarify all your queries and comments. For 
+any further questions and discussions, feel free to contact the Investor Relations team which 
+includes myself, Mihir and we really look forward to continue the conversation with you in the 
+future. Thank you. Jai Hind. 

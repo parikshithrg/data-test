@@ -1,0 +1,1387 @@
+ 
+ 
+Date: December 9, 2025 
+ 
+To, 
+ 
+BSE Limited, 
+20th Floor, P.J. Towers, 
+Dalal Street, 
+Mumbai - 400001. 
+BSE Scrip Code: 544606  
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051 
+NSE Scrip Symbol: PINELABS 
+ 
+Sub: Transcript of the Analysts / Institutional Call 
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 30 and 46 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, we are enclosing herewith the transcript of the conference call that was organized with the 
+Analysts/Investors on Wednesday, December 3, 2025 and the same can be accessed at 
+www.pinelabs.com/investor-relations/financial-results?tab=quarterly-results. 
+ 
+We request you to kindly take the above on record. 
+  
+Thanking you,  
+  
+For Pine Labs Limited 
+ 
+ 
+  
+Neerav Mehta  
+Company Secretary and Compliance Officer 
+Membership Number: A20949 
+ 
+Encl. a/a 
+ 
+NEERAV 
+MEHTA
+Digitally signed by 
+NEERAV MEHTA 
+Date: 2025.12.09 
+12:10:15 +05'30'
+
+                                                
+                                                                                                               
+ 
+ 
+Page 1 of 33 
+Pine Labs Limited 
+Q2 FY’26 Earnings Conference Call 
+December 03, 2025 
+ 
+ 
+Moderator: 
+Good evening everyone. A very warm welcome to the maiden Zoom 
+conference Earning Call of Pine Labs Limited to discuss the operational and 
+financial performance of Q2 FY’26. 
+We are delighted to have with us today Mr. Amrish Rau – Chairman, Managing 
+Director and Chief Executive Officer. Mr. Sameer Kamath – Chief Financial 
+Officer. 
+Before we begin, I would like to remind you that some of the statements made 
+during the course of this discussion may be forward-looking in nature. Actual 
+results may vary significantly due to various external factors. This Zoom 
+conference call is intended solely for Investors and Analysts. If we have any 
+members from the media or journalism community on the call, we request 
+you to kindly log off from this session. We will be happy to connect with you 
+separately if required. 
+We will start the call with the management showcasing a few product demos 
+followed by an overview of the company's business, key operational 
+development and financial performance for the period under review. This will 
+be followed by a Q&A session. 
+With that, I would now like to invite Mr. Amrish Rau to commence the 
+presentation. Over to you. Thank you, sir. 
+Amrish Rau: 
+Thank you very much. Thanks for attending our call today. 
+One of the things that we are going to do a little bit differently is we are 
+actually going to do a couple of product demos, just talking about some of 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 2 of 33 
+the things that has been quote-unquote cooking in the labs. We feel quite 
+proud about some of the experiments and some of the products that we are 
+working on. So, we will first do two product demos, and then I will do a very 
+quick overview of the business and how I am looking at the opportunity in 
+front of us, and then hand it over to Sameer, who is here in the room with me, 
+to just walk you through the financials. With that, what I am going to request 
+is I am going to request my colleague to flash a demo. 
+I will give you a little bit of a background on this one. One of the things which 
+is happening when it comes to online payments, more so globally than in 
+India, is that consumers are finding it very difficult to remember the 16 digits, 
+the CVV, the expiry number. Also, what we are getting to see is transmitting of 
+data just by inputting it on somebody's webpage, instead of using card, is 
+generally less secure and also more costly. So, we have come up with a 
+completely new online payments technology where we think you can use 
+your card, touch it to your phone, and the payment transaction can be 
+completed. This is on the consumer side. 
+Let me show you a demo of what we built together. We have actually gone 
+ahead and patented this technology. We are now trying to figure out how we 
+could do a GTM for this, both globally and in India. 
+Audio Visual Presentation 
+“Online shopping is fast and easy. One-tap orders, instant deliveries, 
+everything happens within seconds, except the payment part. There we 
+are supposed to remember the card number, the expiry date, the CVV, and 
+then wait for the OTP, which adds friction to your so-far seamless 
+experience. We at Pine Labs wanted to bring the tap-and-go experience at 
+the online checkout, therefore launching Tap to Pay Online by Pine Labs. Go 
+to any online shopping app, be it e-commerce, ride-hailing, or food 
+delivery. Simply select your product, go to the checkout page, and where it 
+says payments, select the Tap to Pay Online. This invokes the NFC of the 
+phone. All you have to do is take your card and tap, and done. Faster, 
+secure, and more convenient. No need to remember the card number, no 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 3 of 33 
+need to save your card number, no CVVs, no OTPs. We at Pine Labs want to 
+turn every phone into the fastest checkout experience on the internet.” 
+Amrish Rau: 
+As I mentioned to you we have got a patent for this one. Now we need to figure 
+out what is the GTM? So, this is some of the experiments that we are doing on 
+online payment site. Also want to talk about what we are doing on the pre-
+paid side. Everybody thinks of us from the pre-paid side as purely as a pre-
+paid card, debit card or gift card. But we do a lot of work from the wallet side 
+where we actually end up storing money. One of the concepts that you would 
+have seen around the world is also about how money is becoming 
+programmable. So, what we did was, we said, how can we make our wallets 
+programmable and deliver value through that? And this is a live example of 
+what we are doing for Air India, where in the case of Air India, we manage the 
+entire wallet for Air India, but we have also come up with very interesting use 
+cases around it. I am going to let one of my colleagues, Anand, explain to you 
+what we have built for Air India. 
+Anand Kuppuswamy: Thanks Amrish, I hope my screen is visible. Amrish laid the ground here. I 
+would say that you probably know us as the pioneers of gift cards in India and 
+globally with prepaid also being there. While that has been the case of it, I am 
+going to today talk about the programmable currency. What programmable 
+currency really means is that a currency that can be used for very specific 
+purposes. Now stable coins and CBDCs have been in the headlines for some 
+time now and they call the programmable money as a big part of their 
+vocabulary. But what we have been doing successfully so far, many many 
+years now, is to use the same concept to bring up through the stored value 
+constructs and the prepaid card constructs the programmability of it. 
+I am going to show you quickly how Air India, in a very interesting way, use the 
+prepaid constructs to solve their business problems through our abilities. So, 
+for this example, just a moment, assume that I am a US-based individual who 
+frequents to India. I have just done a cancellation of a ticket that went on to 
+be refunded to me in a cancelled amount from Air India and it is sitting in my 
+Air India wallet. What you will see now is that I, as a consumer, go on to the 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 4 of 33 
+website of Air India and I could come to this path many different ways, but I 
+just wanted to show you that when you click on some of these paths, Air India 
+will flash that this particular program is run by Qwikcilver, which is the Pine 
+Labs issuing part of the business and taking it to a site where this particular 
+site is entirely managed and operated by Pine Labs for the benefit of Air India 
+in the technology sense of it. Within this is an embedded wallet that can be 
+used for different purposes. I am just going to quickly move around without 
+trying to show you the specifics here and showcase that this particular 
+element is already loaded. I am sorry, just hold on for a moment as I move 
+the browser out. Yes, let us say that I have already logged in and I have a 
+logged in session in terms of what I can achieve. So, what you see here is 
+really because I am based in US, I am able to see a US dollar denominated 
+wallet that is belonging to me and that is the base currency that has been 
+defined and what it really means is that we have provided a product that is 
+globally usable by Air India in this particular case. Now what you will also get 
+to see is that this is not a singular wallet, it has its own different ways and 
+purposes of using this particular program for Air India. There could very well 
+be different pockets like one that is related to gift cards where my friends and 
+relatives have given me some gifts that I get to store here. There are 
+compensation vouchers that are provided for some service that has not been 
+provided satisfactorily and there is a goodwill gesture of providing the 
+currencies and there are refunds and cancellations that have happened. 
+Underneath each one of these things are different instruments. They 
+themselves are an aggregation so there are very very granular ways that the 
+program can be structured and run by the airlines. 
+Quickly I will also demonstrate to point of view to say that let us say that in 
+one of the trips that I made to India I happened to have a refund that is kind 
+of captured here as a INR 15,000 worth of it but remember that I am a US 
+based traveler so I need to understand as to what exactly happened when 
+this particular value comes into my base currency which is the US dollars. 
+What we provide for is an automatic conversion of a foreign exchange here, 
+ability to understand as different currencies into the same pocket and this is 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 5 of 33 
+a significant value, a significant benefit for Air India in structuring and 
+delivering programs for the global consumers. 
+Let me now quickly move on to the aspect of the interesting note of 
+programmable currency that we spoke about. I am getting into a refund 
+scenario where some of these instruments have been issued to me and here 
+is the more interesting part of how the voucher program runs for airlines. 
+What you could see is that this is a voucher issued but very very specifically 
+meant for certain use cases or specific purposes. So, this particular voucher 
+has been constructed in a way that it can be used for only certain routes 
+within which this can be applied. It is not possible to use in certain particular 
+dates which are called the black code dates maybe for managing the peak 
+seasons and it is not transferable. The same person who traveled with the PNR 
+number of a certain number is the only person who can make use of this 
+particular voucher. This kind of a construct of making use of very very specific 
+purpose-bound mechanisms are what makes these vouchers and 
+currencies unique and allows the airlines to administer very powerful 
+programs that are otherwise not possible with traditional systems. These 
+conditionalities are also the ones that allow for very targeted promotions, 
+revenue assurance programs, margin management programs on the same 
+platform. So, what you are getting to see here is really in another way an 
+airline making use of a configurable element of platform. The same platform 
+that we have been able to use it as a very universal program and can achieve 
+multiple use cases across various industries. For example when a 
+government be it a central government or a state government wants to give 
+a direct benefit to a particular individual that can be used only for a 
+healthcare benefit. We could issue a currency which is programmatically 
+managed in such a way that they get accepted only in health center 
+locations. 
+So, now let me quickly move on to show how this particular voucher can be 
+applied on the purchase path of the trip which is my next trip and I am going 
+to make use of a quick video to demonstrate knowing that we are running out 
+of time here right. So, I am going to run the video and parallelly speak about 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 6 of 33 
+it if that is okay. So, here you see that I have a card, a voucher issued, a refund. 
+As we spoke about there are specific dates within which we can apply it or 
+not. I go to the main site, choose a Delhi San Francisco flight in the month of 
+March which that particular voucher that I happen to select had a black code 
+date. So, when I go on to now apply that particular mechanism in the 
+payment path, I choose the wallet as my means of application. You will get 
+to see that the voucher cannot be applied because of the black code period 
+that has been done. This is a very instantaneous recognition by Pine Labs in 
+terms of what is possible or not possible to be done. Now if I change my mind 
+and say like I want to travel in January, choose the same path which is outside 
+the black code date, it gets applied and we can continue to work through in 
+terms of whatever the value that was presented by the voucher. 
+So, what I really demonstrated here, I just want to quickly recollect, is to say 
+that we offer our customers a full stack programmable currency platform 
+and this is usable across our issuing, processing, distribution and solutions 
+that we support, every bit of conditionalities and a multi-currency 
+mechanism that allows to deliver contextual commerce, be it for airlines, 
+government, retailers and any bit more. So, as the world is today talking about 
+stable coins, CBDCs with programmable currency as the future, Pine Labs 
+Issuing business I want to mention that is already delivering to that context 
+today in production for enterprises like Air India and the same thing is 
+extensible to a very different and very big audience of use cases and 
+industries and that is us on the Pine Labs Issuing side of it. 
+Thank you. Back to you Amrish. 
+Amrish Rau: 
+Thank you Anand and great job on the timing. Guys now moving on to the 
+other part of the discussion which is really the financials that we came up 
+with. So, we have got a formal deck which is very similar to what we have sent 
+out as our earnings report. So, I would like to talk you through how our quarter 
+has been. As you know, quarter two and quarter one are generally the softest 
+quarter in the four quarters of the year. However, what I am glad to inform you 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 7 of 33 
+that we have had a fairly powerful start and that is what we will share with 
+you just now. 
+Just a few initial slides, I want to remind everybody what is our vision 
+statement. We want to build the best commerce and fintech platform from 
+Asia but we want to build it for the globe. I also want to remind you that we 
+are a fully diversified fintech platform operating in all areas from Online, 
+Offline, using the Digital Payments Infrastructure. We just saw what Anand 
+explained about the Issuing platforms and the opportunities on the Issuing 
+platform but also in terms of revenue, we continue to be extremely diversified 
+between merchants, banks and financial institutions and also enterprises, 
+corporates and brands. 
+Something which we did not talk enough about and I wanted to take the 
+opportunity to mention here. Pine Labs is one of the only companies which is 
+powering all the top five banks in India. Every one of them uses Pine Labs 
+platform and we are the dominant partner, point number one. Point number 
+two, when it comes to the top five retailers in the country, we are a dominant 
+partner. We are not number two to anyone in that space. In the case of the 
+top three petroleum companies, we are with all the three petroleum 
+companies, may that be BPCL, HPCL or IOCL. We power all of these three 
+petroleum companies in the country and when it comes to online payments, 
+bill payments and also the whole prepaid card instruments, we today have 
+deep relationships with all the top three e-commerce companies of India. 
+Also, with all the three Q-commerce companies of India, Pine Labs is the sole 
+provider. So, one thing I do want to highlight is there is no other payments 
+company in India which is actually delivering solutions to all of these large 
+stakeholders in the country today. 
+Again, in a very quick recap of what we do, we pretty much call out four large 
+pillars. One is what we do in terms of transaction processing, both in the 
+offline world and in the online world. In the offline world, as you know, we have 
+a large component of revenues which comes out of subscriptions, rentals on 
+a monthly basis. When it comes to VAS and Affordability, we do a range of 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 8 of 33 
+services on and above the merchant relationships that we have built. Here 
+we take a peak rate on the value which gets processed on our platform. One 
+of the things that Sameer is going to tell you is in the first pillar in Q2 on the 
+terminal, the subscription and rental related revenues is now down below 
+30%. It is at 29%. So, 71% of our revenues are not linked to subscription and 
+rentals associated to the POS business. I have been taking a bet with my 
+colleagues out here. I said whatever we say at the end of this call, when the 
+Q&A starts, the first question will be about the POS business. Let us talk about 
+the 71%, what we are doing outside of the POS rental business. The third 
+component is what we do on the DPI side. On the DPI side, when it comes to 
+fintech infra, we continue to power a humongous amount of payment 
+volumes when it comes to bill payments. We are powering many API based 
+transactions on consumer identity. We, in this case, get paid by the API ping 
+or we do get paid by the number of transactions there. And finally, on the 
+Issuing side, we are one of the global leaders when it comes to Prepaid, 
+Issuing, processing, both in terms of prepaid as well as gift cards. We are 
+doing a lot of work on the credit card side. We are doing a lot of work on credit 
+link UPI. So, that is what we typically do. I just wanted to cover it. These two 
+slides will typically be then all my opening introductions. 
+Going into this quarter and what we are doing as in terms of the results for 
+Q2, we actually came in with record breaking numbers on all fronts. By the 
+way, I have to tell you this, if I am not mistaken, over the last six quarters, we 
+have generally come in with record breaking numbers when it comes to 
+revenue, when it comes to contribution margin. Our revenues grew by about 
+18% and we hit a number of about INR 650 crores. I want to again remind this 
+because I have seen some analyst reports where I think there is some sort of 
+a disconnect. We continue to record our revenues on a net basis. What I mean 
+by that is we take out the payment processing cost and we only record the 
+net numbers. And hence what we call as net revenues or globally, this 
+generally gets called as adjusted revenues. And that is where we came in at 
+about INR 650 crores because we have taken out anything related to pass 
+through revenues there. Second, interestingly, contribution margin grew at 
+21%. So, how does this happen when the revenues are growing by 18% while 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 9 of 33 
+contribution margin is growing by 21%. The reality on this is over the last two 
+years, we have been working very hard that the subscription revenues that 
+we earn largely remains on the software side. And we encourage Banks and 
+Financial Institutions and Merchants to buy hardware on their own. Because 
+of that, what happens is there is a lag effect out there. So, while revenues have 
+grown 18%, contribution margin has actually grown by 21%. Now that has 
+multiple benefits which Sameer will talk to you about. The adjusted EBITDA 
+actually came in at 60% plus improvement on a year-on-year basis, we 
+came in at about INR 122 crores of adjusted EBITDA. And what we have now 
+been able to do is we have now been able to deliver back to back PAT of about 
+INR 6 crores in our business. Now this is coming on backs of some solid 
+performance. 
+So, on the platform side, we came very close to about $50 billion of GTV 
+processed on our platform. One thing which is real is if Pine Labs is present 
+with any merchant, any bank and financial institution or any enterprise, we 
+are choice number one. There is nobody who is beating us today. We are 
+winning when it comes to the marketplace. Even when it comes to a number 
+of transactions that was at about 1.9 billion, the total touch points reached 
+about 1.9 million. And we have crossed the number of about a million 
+merchants and corporates which are working with us. Net-net, very, very 
+powerful execution in seasonally weak quarter. The H1 is now past us. As you 
+know, in quarter one, we came in at about INR 121 crores of adjusted EBITDA 
+adjusted only for ESOPs. And in this quarter, we have come in at INR 122 crores. 
+Now the seasonally strong quarters of Q3 and Q4 are starting off. I am really 
+looking forward to how this Q3 and Q4 goes. 
+With that, I am going to hand it over to Sameer for the next few slides. 
+Sameer Kamath: 
+Thank you, Amrish. And thank you everyone for joining in. I will take forward 
+from what Amrish was saying. The four pillars that we have continue to deliver 
+stellar growth of almost 18% for this quarter. As Amrish said, we are reiterating 
+again, we report our revenues net, which means that all network charges and 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 10 of 33 
+other processing fees, etc are netted off from revenues. And that is translating 
+into a very high contribution margin of close to about 77%. 
+Coming to contribution, if you see that this quarter, we have delivered a 21% 
+year-on-year growth on the contribution side. And some of that is largely 
+driven by our conscious strategy to build on certain high quality, high value 
+tech-based revenues and slightly lower the take on the hardware sales that 
+is a component of our top line. Overall, as Amrish said earlier, there is a 
+seasonality element to our revenues. However, this quarter, despite being a 
+non-seasonal quarter, we have reported a 9% growth over the peak of last 
+year's full quarter and also a 64% growth on a two-year basis. 
+Coming to some specifics, some of our new business initiatives like the 
+Issuing and the VAS side have delivered a 30% plus growth margin. And our 
+international business, which is seeing a lot of traction, where we earn in 
+dollars for almost every transaction that we do across Southeast Asia, 
+Australia, UAE, and the US, continued its growth momentum, registering a 
+year-on-year growth of close to about 30%. Again, reiterating our POS-based 
+revenues, which is driven by subscription is about 29% and 71% comes from 
+SaaS and tech-based services. 
+Coming to adjusted EBITDA, our adjusted EBITDA grew at about 3.4x the 
+growth rate of revenues, that is about 64% year-on-year, registering a margin 
+expansion of 500 bps from about 14% a year back to 19% this quarter. In fact, 
+even on an H1 basis, on a total basis, our adjusted EBITDA is about 50%. This 
+expansion is led by a conscious strategy to improve our value-added tech-
+based businesses and drive productivity gains at scale. We do believe that 
+these margins are sustainable and can expand as businesses build scale. 
+Similar flow-through has happened at the PAT level as well, where we 
+delivered two quarters of consecutive positive PAT. The operating leverage 
+has clearly been visible and this quarter we have reported a PAT of INR 6 
+crores, which against a loss of INR 32 crores reported a year back. 
+Coming to some of the levers which have been driving operating leverage, 
+over the years we have been able to demonstrate revenue growth without a 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 11 of 33 
+significant increase in headcount or employee cost. This has been achieved 
+through a conscious effort to drive productivity through use of AI and 
+operational efficiencies. This is also now reflecting in our ratios as employee 
+cost as a percentage to top line has significantly come down to 37% for this 
+quarter versus almost 50% two years back. 
+Our overall headcount also has marginally increased by only 6% which is 
+about INR 4500 crores. Our tech, engineering and product team is roughly 
+about 1000 people strong and we do not expect any significant headcount 
+increase as we scale our businesses across all the four pillars. Our operational 
+team remains at the same headcount level which is a validation of the 
+operational efficiency that we will bring in. 
+ESOPs is an important component of compensation for our employees. As we 
+step into the public markets, we have taken a conscious call to align ESOP 
+issuances to shareholder value creation, which also helps value for all 
+shareholders including the employee ESOP shareholders. The new ESOPs are 
+now done at FMV versus deep discount that was done earlier and that is 
+translated into a lower P&L impact. The overall effects of this change is 
+reflected in our P&L where ESOPs cost as a percentage of revenue has come 
+down to about 4% from 7% a year back. 
+Depreciation, I think we continue to win exciting mandates on the asset-light 
+businesses. Few examples to just reiterate this point. Emirates NBD, one of the 
+largest banks in Dubai has taken us as a tech platform provider for the 
+acquiring merchant business across the entire Dubai where we have zero 
+CAPEX deployment but entirely a tech stack led business growth. Similar 
+arrangements are seen for example in GCash in the Philippines and CIMB in 
+Malaysia. One of the largest banks in India is working with us now on fully us 
+providing a tech stack versus a POS plus a tech kind of initiative which is 
+making our business more and more asset light. As a consequence of all 
+these conscious shifts, we have seen a significant reduction in the CAPEX 
+dependency of our business which is also translated into a depreciation as a 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 12 of 33 
+percentage of our revenues coming down from 12% of our top line to about 
+5% over the last few quarters. 
+Going to the next slide. I think this is an interesting slide where we thought how 
+should one look at our business from an operating leverage perspective. With 
+scale and build out of the tech led high margin businesses across India and 
+international markets, we are definitely going to see operating leverage play 
+out. We have built a small matrix to give you a better understanding. For every 
+incremental contribution mark of about INR 100, we are going to see almost 
+about INR 50 to INR 57 and we are giving a range of that getting translated 
+into adjusted EBITDA. That is because of incremental contribution. Our 
+incremental employee cost will only be about 35% to 38% including employee 
+cost, the tech cost, etc. Obviously, the other infrastructure cost will be another 
+about 9 to 12 bucks. Therefore, a very high number of INR 50 to INR 57 for every 
+incremental INR 100 of contribution margin earned will flow through the 
+adjusted EBITDA. 
+Moving on to how it will translate to PBT. As I said earlier, the conscious 
+strategy around the depreciation CAPEX and ESOPs is also going to translate 
+into a better flow through to PBT. A similar translation will happen from 
+adjusted EBITDA to PBT and there will be marginal savings across other 
+expenses which are there which means from the incremental contribution 
+margin of INR 100, we can expect in a range of Rs.45 to INR 55 translating as a 
+flow through to PBT. So, as business builds operating leverage and scale, you 
+see our profit and EBITDA margins improve significantly from here on. 
+Coming to some specific business related KPIs and how we look at how these 
+are shaping up as we build into the quarters. 
+Coming to the in-store business, Pine Labs is a market leader in the enterprise 
+and the mid-market merchant segment who have very unique and complex 
+needs and require a solution approach to build long-term sticky 
+relationships. To give some examples, almost every hotel chain in India today 
+trusts Pine Lab for its checkout experience as we have built deep integrations 
+into their portfolio management ERPs which help them provide seamless 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 13 of 33 
+checkout experience for their guests. Large retailers trust us because we have 
+helped them build and manage multiple banking relationships into a single 
+POS with full flexibility while integrating multiple backend ERPs to provide 
+them periodic reconciliations and MIS. This demonstrated mode has helped 
+us expand our DCP footprint now to 1 million plus merchants as Amrish was 
+saying it is a milestone deployed across 1.9 DCPs which is a growth of 19% on 
+a year-on-year basis. Having said that, an interesting fact is that the potential 
+is still highly untapped. Only one out of the four DCPs today actually are active 
+on value-added services and affordability which means there is a huge 
+potential within our existing network to kind of scale up these businesses 
+because the same DCPs are the DCPs on which these rails run. Having said 
+that, the overall in-store business is about 29% of our top line. 
+The value-added services business continues to grow at a massive speed. 
+We have grown our volumes at about 37% on a year-on-year basis. This 
+quarterly momentum is driven by a unique position to bring together 400 
+brands and almost about 40 credit institutions to our affordability platform. 
+While we continue to see strong growth across consumer durables and the 
+mobile segment, we are also seeing meaningful growth across new 
+categories like automobiles, furniture, fashion, healthcare, and wellness. We 
+continue to keep innovating in this space and in this quarter we have 
+launched new products like offers on UPI and EMI World Pro. 
+Having said this, we are also significantly scaling up our online platform 
+gateway. Our online payment aggregator business has seen a 75% year-on-
+year growth with partnership with some of the largest e-commerce platforms 
+now use the Pine Labs plural gateway. This includes the likes of Myntra, 
+Meesho, Big Basket, Swiggy, Lenskart, to name a few. 
+The Fintech infrastructure business operates some of the best-in-class tech 
+platforms across bill payments, UPI, and the account aggregator framework. 
+We partner with some of the largest bill processing institutions across both 
+ends of the spectrum that is the Biller Operating Unit and the Consumer 
+Operating Unit, making us probably the top two players in the segment. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 14 of 33 
+We also power digital KYC and customer validation for some of the largest 
+financial services firms through the account aggregator framework. And our 
+platform is operating at scale with this quarter about 275 million transactions 
+processed in Q2 itself, which is an 80% growth year-on-year. 
+Lastly, coming to our Issuing and Acquiring platform, we have seen some of 
+the use cases that Anand presented earlier on in this presentation. It is one of 
+the fastest-growing segments within the payments industry at about 26% 
+and Pine Labs is a market leader in this segment. Our overall volumes in this 
+segment grew at about 25% to about INR 16,000 crores with an improving 
+take-rate. What differentiates Pine Labs in this segment is our ability to do 
+deep integrations on workflows across multiple use cases of wallets, refunds, 
+transit, and we are partnering with brands to also expand their distribution 
+footprint. 
+The India business within Issuing grew at about 31% powered by its strong 
+partnerships with top e-commerce companies and quick commerce 
+companies in India. Our international business in this space also grew by 
+about 35% year-on-year. We have built meaningful presence with key client 
+wins across Australia, say Woolworths in Australia, the Al-Futtaim Group in the 
+UAE, Capita Land in Southeast Asia are some of the large wins that we have 
+had which are kind of fueling this growth. We have been able to establish 
+strong use cases and you have seen today Anand presented now 18 airlines 
+globally use Pine Lab as their trusted partner for their wallet business. We 
+have a proven track record of winning and successfully implementing 
+programs across international markets and we remain extremely optimistic 
+on the size and scale of this opportunity. 
+With this, I kind of come to an end to our formal part of the presentation. We 
+open up the floor now to the moderator to invite questions and we are happy 
+to take them. 
+Moderator: 
+Thank you, sir. We will now open the floor for question and answer session.  We 
+have our first question from Peran Engineer. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 15 of 33 
+Amrish Rau: 
+Hi,Piran. Go ahead, please. 
+Peran Engineer: 
+Yes, I am unmuted now. Yes, congrats on the quarter, another second quarter 
+of profit and thanks for this detailed PPT. Just firstly, I wanted to understand in 
+the INR 63,000 crore GTV in the VAS and affordability platform business, how 
+much of that would be lending and what else is there apart from lending in 
+that? 
+Amrish Rau: 
+So, first of all, it is not lending. What we are doing out there is basically 
+powering for affordability solutions where we do not take any balance sheet 
+risk, we actually power for other banks and financial institutions on our 
+platforms. In terms of GTV, I would say somewhere around one third of the 
+volumes would be coming out of affordability, two third of that will come out 
+of the rest of the services. In rest of the services, we have everything from 
+classic aggregator related revenues, we have revenues which is related to 
+UPI and any fees which we get on UPI transactions. We also have things like 
+other fintech partnerships we might have in the market with some of the Q-
+Commerce companies or some of the consumer fintech apps out there or 
+Sodexo and that would be all about two third of the platform. 
+Peran Engineer: 
+Got it. Okay. Thanks, Amrish. And this one third, which is the affordability bit of 
+it that would be majority of the revenue from the INR 63,000 crores? I am sure 
+it would be one third, two third revenue split also. 
+Amrish Rau: 
+No, it is actually, I would think that it is reverse, which is, it would be somewhere 
+between 50% to two third of the revenues, that sort of a range it will be in. 
+Peran Engineer: 
+Of the revenue from the VAS and affordability platform part of it, right? 
+Amrish Rau: 
+That is correct. 
+Peran Engineer: 
+Got it. Okay, fair enough. Secondly, your plural business, GTV, Sameer 
+mentioned it grew 75%. Where exactly is that? Under which section is it put in? 
+Sameer Kamath: 
+That section folds up under in-store and online Piran, where we basically 
+report two kinds of revenue streams, which we, it is the subscription-based 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 16 of 33 
+revenues, which we earn on the POS devices and the online we earn as a 
+percentage to the GTV done. 
+Peran Engineer: 
+Got it. Okay. Fair enough. Yes, that was it from my end. Thank you and wish 
+you all the best. 
+Amrish Rau: 
+Thank you. 
+Moderator: 
+Participants are requested to mention your name and organization before 
+asking your question. Our next question is from Mr. Keyur Kumar. 
+Amrish Rau: 
+Go ahead, Keyur. Keyur, you are unmuted. You can go ahead with your 
+question. 
+Keyur Kumar: 
+Hello. Am I audible now? 
+Amrish Rau: 
+Yes. 
+Keyur Kumar: 
+Congratulations on good sets of numbers sir and for the new tech 
+development. So, my question is from this 25% of the DCP contribution, which 
+is coming from the VAS. So, right now we are including that the further 
+development will happen through the VAS. So, I just wanted to understand 
+that this contribution will be come from the like chain businesses and all, 
+right? So, how is the TAM is basically here, because the machines and the POS 
+will be also on the single merchant sites? 
+Amrish Rau: 
+Yes, very interesting question. You know, your voice cracked a bit, but what I 
+am going to answer is, if you actually look at our earnings, really, we have 
+actually come up with a new set of numbers, so that it gives you more clarity. 
+What it says is that out of the 1.9 million touch points that we have in the 
+market today, about 24% to 25% of that has at least one of our services added 
+on to those terminal platforms. So, may that be an aggregator or DCC or 
+affordability or any of the consumer apps. So, only 25% of our terminals today 
+are contributing to the value added services which exist in our business. And 
+that is the opportunity for us. You would also see over the last five quarters, 
+that number has moved from 21% of the total DCP base to now 25% of the 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 17 of 33 
+total DCP base. Having said that, on the other hand, when it comes to 
+transaction value and volumes that has grown by almost 37%, while the 
+number of DCP has only increased from 21% to 24% across the entire DCP 
+base, it has been explained well in the earnings report that we have sent out. 
+Keyur Kumar: 
+Okay. And another thing is sir, like, in our gifting, the issuing, the acquiring 
+platform. So, it should be like, it is coming with the new logos and on boarding 
+and all the things, right? So, if you can provide any quantitative number, like, 
+how is the per logo ticket size varying or means the coming from the revenue? 
+Amrish Rau: 
+We have not shared that information right now and we are not in a position 
+to share that. Just in terms of, just in terms of understanding on that one is, 
+you could very well have a logo which could be a chain of 10 restaurants. But 
+at the same time, you would also have a logo as big as something like a 
+Meesho, which is actually a client of ours. But you could have just two 
+extremes of it and the revenue expectation out of them could completely 
+differ. And hence, we have not actually explained what is the per logo revenue 
+for our issuing business. 
+Keyur Kumar: 
+Okay, got it. But can you share the, like, how many logos we have right now?  
+Amrish Rau: 
+Sameer, you have a number to that one? 
+Sameer Kamath: 
+I think we have multiple logos there. 
+Amrish Rau: 
+I think about 650 is what I would say as the highlight. Do not hold me to that. 
+I will get you more information. 
+Keyur Kumar: 
+Okay. And lastly, on the tech side, you have developed the tap and pay. So, I 
+understood from the RHP and all that we were very aggressive for the 
+payment gateway segments for our new vertical, right? And now your tech 
+basically shift that vertical entirely if we compare with the other players, right? 
+So, first thing, because this is like a new tech, how you are developing the 
+security side basically, because this feature unlocks very much of potentials 
+for our business, but also enables the security sides. So, how you are 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 18 of 33 
+developing that thing? And on more level, you can explain about the GTM you 
+are thinking right now for this tech. 
+Amrish Rau: 
+Fundamentally, let us understand this piece that the technology required in 
+the offline payments business is way more complex than what is required in 
+the online payment side. As you know, over many, many years, we have 
+invested into building out highly secure platforms when it comes to offline 
+payments. When it comes to online payments, I would want to think that 90% 
+of our technologies have been able to be reused on the online platform side. 
+And hence, we think our platform is as rugged as the platform that we have 
+in the offline world. In terms of security, we follow the best standards which 
+has been laid out there by governing bodies in terms of security only, but also 
+in terms of what the local bodies and the local regulators have asked for. As 
+far as GTM is concerned, as Sameer mentioned to you before, we have some 
+great new logos already in place when it comes to online payments. We just 
+announced some days back, Lenskart has already gone live with us on our 
+platforms, Myntra is live with us, Cred is live, Apple resellers are with us, 
+Samsung.com online is entirely with us. We are making tremendous progress 
+in asset-live businesses, may that be on the bill payment side or may that be 
+on the online payment side. 
+Keyur Kumar: 
+Okay sir. And lastly, should we expect any upside on the headcount on future? 
+Amrish Rau: 
+See, you know, one of the things which we actually wanted to talk and I guess 
+both Sameer and I forgot to mention out there is that in our company, we 
+have totally about 1000 engineers, technologists and product managers in 
+the company. I do not know why it would require more than 1000 people on 
+the engineering and technology and product side. So, short answer on that 
+one is the answer is no. The longer answer on that one is in the next quarter, 
+we will actually talk about some of the AI-related initiatives that the company 
+has taken up. Today, we believe 18% of all code which is being written in Pine 
+Labs has been developed using AI. We are bringing a lot of AI on our customer 
+services side. We are bringing a lot of AI in terms of rewriting our legacy code 
+on some of the platforms that we have out there. So, the short answer is, I do 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 19 of 33 
+not think we are going to be requiring more headcount in our business. And 
+that is the reason we wanted to very clearly show to you that for every rupee 
+increase in the contribution margin, how will that flow through on the EBITDA 
+and on the PAT side. 
+Keyur Kumar: 
+Thank you, sir. And all the best for the future. 
+Amrish Rau: 
+Thank you. 
+Moderator: 
+Thank you. Our next question is from Mr. Arjun. 
+Arjun: 
+Thanks for the opportunity. With respect to the value-added services part, out 
+of INR 650 crores, 29% is POS. So, within the Digital Infrastructure, out of INR 440 
+crores, the remaining around INR 251 crore would be the Affordability and VAS 
+revenue? 
+Sameer Kamath: 
+It will be Affordability, VAS and also the Fintech Infrastructure, Arjun. I think we 
+combined three items with it, as you rightly said, four items. There will be the 
+POS business, there will be the online business, there will be the Affordability 
+and VAS business and the Fintech infrastructure business. So, the POS 
+machine, which is one of the four components within the digital infrastructure 
+is about 29% of it. 
+Arjun: 
+Okay. So, I was just trying to understand the take rate or realization in the 
+Affordability business, which was, which used to be around 39 odd bps. Now, 
+out of this INR 440 crores and INR 63,000 crore of GTV, how the realization over 
+here has been in the first half and how has it panned out in the festive season, 
+October, November, etc. And means how much is the kind of traction after the 
+GST cut, etc, in October, November, how do you see this Affordability and VAS 
+business playing out on realization and the GTV, if you could give some color, 
+it will be helpful. Yes. 
+Sameer Kamath: 
+So, the realization across the segments have been more or less constant. 
+There may be slight change in the mix here and there, like, for example, UPI 
+may go up and the yields are lower. But intra-segmental yields have 
+remained fairly constant in line with what we have put out in the DRHP as well. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 20 of 33 
+As far as the traction post Q2 is concerned, I think, as we said that the first two 
+quarters are slightly muted, we have seen good response in the Diwali season 
+where we have seen peak volumes come in. Obviously, as our next quarter 
+results come in, you will probably get a better clarity now the quarter is 
+underway. But yes, I think, even in the first two quarters, we have seen 
+meaningful traction. And that is why even in H1 versus H1 of last year, we have 
+seen meaningful growth of our GTVs while take rates continue to remain at 
+the same level. 
+Arjun: 
+Okay. So, broadly, we can assume out of this INR 440 crores, around INR 250 
+odd crores should be your VAS and Affordability revenue from there. 
+Sameer Kamath: 
+Plus minus that range. Yes. 
+Arjun: 
+Okay. Fine. Okay. And could you give some idea on the market share that is 
+there in this business? Because we also see competition getting into this. 
+Amrish Rau: 
+Yes. So, in this space, look, I will say that for the longest time we have been 
+above 80% of the market share. We just did a recent report on that internally 
+not ready to be shared externally. We continue to believe that we have about 
+80% to 85% of the market share in this space. 
+Arjun: 
+Great. Sure. Thanks, Amrish. Thanks, Sameer. Thank you so much. 
+Amrish Rau: 
+Thank you. 
+Sameer Kamath: 
+Thank you, Arjun. 
+Moderator: 
+Thank you. Participants are requested to mention your name and 
+organization before asking your questions. Our next question is from Mr. Mitul 
+Shah. 
+Mitul Shah: 
+Hello, sir. 
+Sameer Kamath: 
+Hi, Mitul. Go on. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 21 of 33 
+Mitul Shah: 
+Congratulations. First of all, I am from Ahmedabad. We have talked during 
+our roadshow that I will be there. And thank you for the wonderful, wonderful 
+result. I am so happy to see you on this call. And you told me that you will 
+provide the best of the disclosure and you did it. So, this is you are the only 
+company who have done the conference call like this. So, I am really happy 
+that I am an investor, as well as my fund is invested in yours. And second, I 
+want to understand. My question is, QR based payment system in China and 
+everywhere I go, the QR based payment system is taking over than the POS. 
+Everywhere I am going, I am seeing the trend. So, POS is our fairly, you know, 
+large contribution. So, when we are shifting or how we are coping up with that, 
+that is my basic question. 
+Amrish Rau: 
+Mitul, I will give you a very interesting fact, which again, I do not need to be 
+disclosing out here, but I will just share with you. Very interestingly, today on 
+our terminal estate, almost 66% of all transactions on our terminal estate are 
+actually QR based transactions. So, what we are getting to see is large 
+merchants still are looking for having a screen at the checkout, both to 
+publish the QR or to accept cards. So, in a very interesting manner over the 
+last two years, while you have seen the growth in our DCP on the business, our 
+transaction mix has already changed where 66% or two third of my 
+transactions are today coming on the QR side. The other thing is how UPI and 
+what UPI is going to do to our business. I have actually answered that in the 
+earnings report. Mitul, I do remember having met up with you. I want to make 
+another comment out here. In in my personal CEO letter, I have actually talked 
+about my experience of some of the questions I received in Ahmedabad and 
+Rajkot. So, have a look at my personal note also, which I sent out at the end of 
+the quarter. 
+Mitul Shah: 
+Yes. I am so happy that you have remembered all those questions and you 
+have written it. I am really happy. 
+Amrish Rau: 
+Thank you, Mitul. We will talk later. 
+Mitul Shah: 
+Yes. Thank you. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 22 of 33 
+Amrish Rau: 
+Thank you. 
+Moderator: 
+Thank you. Our next question is from Mr. Pranav. 
+Amrish Rau: 
+Hi Pranav. 
+Pranav Kshatriya: 
+Hello. Hi. Can you hear me? 
+Amrish Rau: 
+Yes. 
+Pranav Kshatriya: 
+Thank you for the opportunity. I am Pranav Kshatriya from NK. My first question 
+is, I see a very strong growth in Issuing and acquiring business, especially in 
+the international geographies. And my understanding is that we possibly 
+have a slightly inferior contribution margin in the international geographies, 
+but it seems that despite that the contribution margin for issuing and 
+acquiring business has increased despite the strong growth. So, how should 
+we see this business panning out in three to five years’ time? And what is your 
+view on that? 
+Sameer Kamath: 
+So, just to say, I think we have been making approach into a lot of new 
+counters because of the use cases that we have been mentioning, Pranav. I 
+think the take rates are slightly lower in the international business because as 
+we know that our business is a take rate business, which combines the work 
+we do not just on processing, but also distribution. We have a far stronger 
+distribution presence in India. And therefore, there is a slightly higher 
+contribution from the distribution part of the business, which comes in India. 
+As we build our capabilities and we build scale across counters in the 
+international geography, we should see some more take rates going up there. 
+So, I think intra-segmented take rates remain the same. It is just that our 
+distribution strength is stronger in India. And therefore, we get little higher 
+revenues in India. 
+Amrish Rau: 
+What I will add into this one is that over the last couple of years, one of the 
+reasons why you were getting to see the India business a little bit muted when 
+it comes to the prepaid side of the business was because there was an 
+overhang related to GST and application of GST on gift cards. In January of 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 23 of 33 
+this year, the government of India clarified that gift cards do not attract GST. 
+And because of that, we have again started to see a lot of brands pushing 
+out gift cards. Gift cards are being actually distributed at a much aggressive 
+level. If you actually see the quarter-on-quarter between Q4 of last year and 
+then Q1 and Q2 and the first half of the year, you would see that the India 
+numbers have started to come in with significant year-on-year growth also 
+on the prepaid issuing side. 
+Pranav Kshatriya: 
+Great. My second question is on the Affordability side. In your letter, you 
+mentioned that Q2 FY’25 was unusually strong quarter. But what I understand 
+is that last year actually the entire festivity was in Q3 and Q2 was relatively 
+quieter. So, what is the disconnect? Just curious on that. 
+Amrish Rau: 
+It was related to some one off large deals which we had pulled together in Q1 
+and Q2. Look, one of the reasons why I did not specifically talk about it right 
+now, because honestly, our job as operators have to continue to power on 
+and win market share as much as we can every year. But we just wanted to 
+give a color because what could happen is people get fixated only on the 
+number of year-on-year growth. But we thought, let us just clarify that when 
+you look at what is happening on the hardware and the reduction in 
+hardware, contribution margin is growing at 21%, revenues are growing at 18%. 
+And we had a little bit of a base effect which came from last year. And that 
+was largely because of some lump sum business which came through in 
+both in Q1 and Q2 actually. I personally believe that when you when you look 
+at a Q3 and Q4, the base effect would have gone away. What we had coming 
+out of last year when it was Q1 and Q2. 
+Pranav Kshatriya: 
+Okay. The second part of that question is on Affordability and VAS GTV. There 
+was a GST cut which happened, which sort of propelled some of the spends 
+for TV. Was there some impact of that in Q2 because it came on 22nd of 
+September? And should we see further acceleration in Q3 because of that? 
+Amrish Rau: 
+So, there was a marginal impact, but it was both positive and negative. So, 
+what happened is as soon as our Honorable Prime Minister Modi Ji actually 
+announced that the GST rates are going to get changed, we are almost 15 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 24 of 33 
+days of complete slowdown when it came to any purchases in the markets. 
+And we had basically transaction volumes completely drop off. I think it was 
+around 22nd of September when the new GST rates kicked in. So, we had 
+about an eight days which came in more or less, I would have said it would 
+have netted off the spectacular rise that we had in the, sorry, netted off the 
+drop that we had in the early part of September. As far as the Diwali season 
+is, that is going into Q3, I would not want to forecast anything on Q3 on this 
+call, please. 
+Pranav Kshatriya: 
+Okay, sure. Last question is on the devices business. If I back calculate 
+according to your disclosures, the ARPU implied is around INR 336 for Q2, 
+which is significantly lower than INR 380 odd, which was there for FY’25. I 
+mean, you did mention in the letter that you are deliberately moving away 
+from the hardware based deal to a software based deal. So, how should we 
+sort of see this panning out in coming years? 
+Amrish Rau: 
+While I let the CFO answer this one, I just want to give one headlines on that 
+one is, and that is the reason why even though we have 29% of our revenues, 
+we have the take rate actually dropping, our contribution margin has gone 
+up. Because what we are getting to see is much more of software led sales 
+happening when it comes to subscription revenues. And while our take rate 
+has gone down, and actually our contribution margin has gone up. 
+Sameer Kamath: 
+Yes, I think Amrish have covered it. So, as I said, Pranav fair observation. And 
+that is the conscious call we are taking where we are taking care, we are 
+basically, headline revenues may look slightly muted, because hardware is a 
+bit lumpy, but it is a low margin business. And that lower take rate there has 
+been compensated by the fact that our contribution margin has actually 
+grown by 21%, with revenues at about 18%. And that is a conscious part of our 
+strategy. 
+Pranav Kshatriya: 
+Fair enough. Thank you so much for the opportunity and all the best. 
+Amrish Rau: 
+Thank you. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 25 of 33 
+Sameer Kamath: 
+Thank you Pranav. 
+Moderator: 
+Thank you. Our next question is from Mr. Srinivasan. 
+Srinivasan: 
+Hello. 
+Sameer Kamath: 
+Yes. 
+Srinivasan: 
+Am I, am I audible sir? 
+Sameer Kamath: 
+Very clearly. Go ahead Srinivasan. 
+Srinivasan: 
+Yes. First of all, congratulations for the great set of numbers and especially 
+second consecutive PAT positive this quarter. My question is about the 
+operating leverage. You guided that INR 50 to INR 57 EBITDA for every INR 100 
+contribution. So, can you commit this for the next couple of quarters? 
+Sameer Kamath: 
+This is, I think, as a business, Srinivasan, the reason we have given this 
+guidance is because we have been demonstrating how our operating 
+leverage is playing out. So, if you see our top line has grown at about 20%-
+22%. Our adjusted EBITDA margins has moved up to about from 9% to about 
+19% to 20% already. And we have given the structural reasons why you are 
+seeing this operating leverage play out. Like we said, there is a focus on 
+building value-added services, tech-based revenues, international revenues, 
+which are high margin. We are seeing operating leverage come out of the 
+employee cost with productivity gains are headcount not increasing at the 
+rate of revenue. And therefore, this is a structural way we are trying to break 
+down our operating leverage to say that as a business moves on and builds 
+scale, you should expect at least about in the range and that is why we have 
+given a range that roughly about 50% to 55% of our incremental contribution 
+margin will fall through adjusted EBITDA. 
+Amrish Rau: 
+I will just add one thing is we try to be very careful by not trying to be 
+aggressive in this projection that we have given out here. So, yes, we do feel 
+comfortable with what we have sent out there. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 26 of 33 
+Srinivasan: 
+Okay, thanks for that. And my next question is about the tap to pay online that 
+you demonstrated initially. Does this support all types of cards like RuPay, 
+Master and also like RBI two-factor authentication and iOS and Android? So, 
+does this support all these combinations? 
+Amrish Rau: 
+I will give you the answer on two parts. One, absolutely it supports everything 
+what you just talked about. But the second part of the conversation is you 
+obviously have to go through certifications, getting approval, and only then 
+you can take it to GTM. All of that work is pending. We are taking this across 
+many, many markets as we speak just now, but that work is pending in terms 
+of getting approvals and getting all the local testings done. 
+Srinivasan: 
+Okay, so I have already used this product in some other place. The problem 
+that I used to see is always latency. Latency issues I see. Sometimes it fails. 
+Merchant finds it difficult to roll back. 
+Amrish Rau: 
+No, I want to clarify that. What you have seen as a product is where merchant 
+is using his or her phone to receive card payment transaction. What we 
+demonstrated is - consumer is using his phone to make a payment to the 
+merchant. It is a completely different product that we actually showed. So, we 
+are saying consumer is sitting at home, he is on an app, a food delivery app. 
+When it comes to a payment page, he just uses his card, taps on his own 
+phone and the transaction is getting initiated and completed. What you 
+would have seen is where you are giving the card and tapping it on the 
+merchant's phone, which is the other form factor. 
+Srinivasan: 
+I see. Thanks for the clarification. 
+Amrish Rau: 
+Thank you. 
+Srinivasan: 
+That is all from my side. 
+Amrish Rau: 
+Thank you, Srinivasan. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 27 of 33 
+Moderator: 
+Thank you. Participants are requested to mention your name and 
+organization before asking your question. Our next question is from Mr. 
+Himanshu Taluja. 
+Himanshu Taluja: 
+Hi, sir. Congratulations on a great set of the numbers and also very good 
+disclosures in the presentation. Just one question at my end. Given you have 
+a narrative to deliver a 20% to 25% growth over the near to medium term and 
+probably clearly VAS, Issuing and Acquiring businesses and the Affordability 
+solutions are delivering you a growth of 30% range, it is just the POS business 
+which is expected to grow at 15% to 18%. How will you build that narrative or 
+what expectations do you have around the POS business, device businesses, 
+if you can just help us? 
+Sameer Kamath: 
+Yes, so I think, look, the way we look at our POS businesses, our POS touchpoint 
+actually helps us monetize and build on the various rails of the value-added 
+and Affordability business. So, if you see the headline POS numbers, they have 
+also grown at about 19%, where we are at about 1.9 across about one million 
+merchants. So, I think we have not seen a slowdown of growth there. But 
+clearly the opportunity for us on the POS devices is to see how that 25% 
+number keeps increasing because that drives the monetization of the value-
+added services that we have. 
+Amrish Rau: 
+I just want to mention, Himanshu, just mention out here is when it comes to 
+just sequential quarter-on-quarter, we have actually moved from 1.7 million 
+deployments to about 
+Sameer Kamath: 
+1.9 that is 90% growth. 
+Amrish Rau: 
+So, it is about 1.9 is what we have been able to grow on that business. But as I 
+told you, materially, what is going to make a difference for us from an earning 
+standpoint, material difference is actually going to come out of what is going 
+to happen out of the 70%-75% of the rest of the revenues that we are getting 
+in the company. 
+Himanshu Taluja: 
+Yes, sure. Thank you. Thanks a lot. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 28 of 33 
+Sameer Kamath: 
+Thank you, Himanshu. 
+Moderator: 
+Thank you. Our next question is from Mr. Prakhar Sharma. 
+Prakhar Sharma: 
+Hi. Am I audible now? 
+Amrish Rau: 
+Yes. 
+Prakhar Sharma: 
+Thank you and congratulations. It has been a great journey and best of luck. 
+What I wanted to just ask you is if you could explain the seasonality on 1Q to 
+2Q. I know it is not the best half for you. So, if I look at your revenues between 
+1Q and 2Q, you have gone up by about INR 34 odd crores from INR 616 crores 
+to INR 650 crores. Your contribution has actually gone up by INR 17 crores, 
+which is about a 15% incremental contribution margin. And your EBITDA has 
+gone up by just about INR 1 crore. So, your margin has come down. So, if you 
+could just explain what is this seasonality? I am sorry, I got into numbers and 
+maybe you know. 
+Amrish Rau: 
+Prakhar, I am going to be completely transparent with you. What that 
+seasonality is between Q1 and Q2. Remember, I have been in payments for 25 
+years. I cannot tell you what the seasonality between a Q1 and a Q2. In fact, I 
+would say that there are enough and more years on which Q2 is generally 
+weaker than Q1. And that is largely because that is the rain period across the 
+country. So, I would say the seasonality in the payments and fintech business 
+in general are just bucketed into two parts. Q1 and Q2 would be weaker and 
+the stronger one would be a Q3 and Q4. I honestly cannot tell you. But 
+between Q1 and Q2, what will be the seasonality breakup you know. 
+Prakhar Sharma: 
+Yes, because I was just, I know it is a small number. I was just inquisitive to see 
+why have the margins actually come off sequentially, which is the point I was 
+trying to just get to. 
+Sameer Kamath: 
+I think the margins, the EBITDA margins are more or less on the same line, 
+maybe plus one percent minus here or there. I think some small numbers 
+change there. But largely on a trajectory that we are at, Prakhar, we are at a 
+19% to 20% adjusted EBITDA margin. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 29 of 33 
+Amrish Rau: 
+Yes, margin is very minuscule, I think less than 50 bps or 1% out there. But I 
+think more interestingly, going forward Prakhar, we have actually made it 
+super clear for everybody to calculate saying that if the Q3 and Q4 are going 
+to be stronger, what does that mean from a PAT standpoint. 
+Prakhar Sharma: 
+Of course. And is there any color you can share on the affordability, especially 
+the support that 
+Sameer Kamath: 
+Sorry, we lost you, Prakhar. 
+Amrish Rau: 
+Prakash, we could not hear you. We just heard affordability. 
+Prakhar Sharma: 
+Am I audible now? 
+Amrish Rau: 
+Yes. 
+Prakhar Sharma: 
+Okay. I was asking if you could throw some color on the affordability, 
+especially the EMI credit that is going through your pipes. How is that trending 
+for you and for the market? And are you able to improve some sort of take 
+rates on that side? 
+Amrish Rau: 
+So, I think Sameer has already answered on that one. In terms of the overall 
+transaction processing, VAS and the Affordability business, we believe that 
+individual segments, the margins have remained same as what we had 
+established earlier. In terms of affordability numbers, as you can see, it is 
+almost coming at about, sorry, the overall number is almost coming at about 
+35%-37% higher on a year-on-year basis. And by the way, that has been the 
+case for the last five years. So, it is not that this number is entirely surprising 
+where it is. I can only tell you that the Diwali this year has been just 
+stupendous, just an unbelievably strong Diwali we have had. 
+Prakhar Sharma: 
+But that will come in Q3. 
+Amrish Rau: 
+Of course. Yes. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 30 of 33 
+Prakhar Sharma: 
+This is perfect. And best of luck to you and the entire team. Thank you so 
+much. 
+Amrish Rau: 
+Thank you very much, Prakhar. 
+Moderator: 
+Thank you. Our next question is from Mr. Navneet Singh. 
+Navneet Singh: 
+Thank you for the opportunity. My voice is audible. 
+Sameer Kamath: 
+Yes, Navneet, go ahead, please. 
+Navneet Singh: 
+So, I have a couple of questions. One question pertaining to IPO. So, as per the 
+last private funding round, Pine Labs was valued at about USD 5 billion around 
+three years ago. IPO has happened at around USD 3 billion. So, what has 
+happened that led to fall in its valuation? 
+Amrish Rau: 
+Sir, I have answered this question five times. Whatever value is on the terminal 
+that is my value. I cannot do anything. 
+Navneet Singh: 
+All right. No issue. Another question. So, there are a lot of listed players and 
+some of the competitors of Pine Labs about to go in IPO. So, what is it that Pine 
+Labs has compared to these competitors? These competitors are aggressive 
+and they may trigger certain price war and margin may hit. So, what is your 
+strategy around these? 
+Amrish Rau: 
+Navneet, you know, it is not good to speculate about what competition is 
+going to do. I think one of the things I try to show out there is we continue to 
+win on all sectors. We continue to grow our platforms very well. I do not think 
+so. I am too much worried about my protecting my business or growing my 
+business. I feel very comfortable. Thank you. 
+Navneet Singh: 
+All right. Okay. Some of the colors on the revenue growth for Pine Labs and its 
+subsidiary for next financial year. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 31 of 33 
+Sameer Kamath: 
+We cannot make forward looking projections of this. I think this call is 
+restricted more to how this quarter has performed Navneet. So, that data is 
+there in the data that we shared. 
+Navneet Singh: 
+All right. Got it. One trivial question related to the product that are 
+demonstrated at the beginning of this call that tap and pay feature. So, is this 
+feature require a separate app to be installed on the consumer device? 
+Amrish Rau: 
+No, it does not. It is an SDK which will go into the app of the consumer Internet 
+company. 
+Navneet Singh: 
+Understood. Understood. Thank you. That is all from my end. And all the best 
+for next quarter. 
+Amrish Rau: 
+Thank you Navneet. We will just take one last question. Mr. Kush Shah go 
+ahead and then we will wrap it up. 
+Kush Shah: 
+Yes, Am I audible? 
+Amrish Rau: 
+Yes, you are. 
+Kush Shah: 
+Congratulations for the good set of numbers. My first question would be what 
+would be the monthly fee for the POS device you charge? 
+Sameer Kamath: 
+So, as we have said earlier on the call it is in the range of about, it is a blended 
+range of about INR 350 to about INR 380 and that range kind of splits 
+depending on whether how much of hardware or component is there in it. 
+Kush Shah: 
+Okay, perfect. And the second question would be what would be the software 
+as a side? How we are different from the competitor? Because the adoption, 
+the product development, everyone will be able to make software at one 
+point of time so are we different from the competitors side? 
+Amrish Rau: 
+Well, the answer on that one is it is exactly as different as the Apple software 
+is compared to the Android software. Did you understand what I am trying to 
+say? 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 32 of 33 
+Kush Shah: 
+Yes, I did, but. 
+Amrish Rau: 
+No, honestly answer is that only. What we do is premium in what we do. We 
+are very proud of the technology that we built over the years. The kind of ease 
+of use, the reporting, settlement, security, ease of configurations, existing 
+pipes and integrations that we have. It is a fairly complex and well-developed 
+platform. It is a full ecosystem which we have built out there. 
+Kush Shah: 
+So, the TAM wise, how would be the TAM wise compared to the quick 
+commerce or the travel platform so we can gauge the market around this? 
+Sameer Kamath: 
+As we have said on the call, each of the segments top players are already our 
+partners, Navneet. So, basically, if you see the top three quick commerce 
+companies work with us across some of our businesses, the top retailers work 
+with us, the top banks work with us, top petroleum companies. So, I think we 
+are playing across an entire ecosystem of the payment space across 
+merchants, brands and enterprises. And I think our product stack, our DNA as 
+a tech first of Fintech helps us kind of build deep integrations, create value-
+added services and be relevant to them in their journey of growth. I think that 
+is our economic that is our mode which we have been able to live up to and 
+we have seen our business grow within that cohort. 
+Kush Shah: 
+Okay, perfect. And on the ESOP side, I want to ask a question, how much would 
+be the expense that would go further on the higher side? 
+Sameer Kamath: 
+I think we have guided on our presentation on where we stand today. I think 
+more or less, we should be in the range of about 4% to 6% of top line and 
+trending slightly downward as we go into the amortization of the existing 
+ESOP. 
+Kush Shah: 
+Okay, so basically, it will be consolidated around between 4% to 6%. 
+Sameer Kamath: 
+Yes, it will keep going down. Obviously, we have made some new issuances. 
+That is why there is some upfront in Q1, but as a direction, you should see the 
+ESOPs was going down. 
+
+ 
+                                                                                                                 
+                    
+ 
+ 
+Page 33 of 33 
+Kush Shah: 
+My last question would be the gifting side at Qwikcilver. What would be the 
+TAM of a gifting in India so that we can gauge market size? 
+Sameer Kamath: 
+Yes, so I think we had a technical partner Redseer, which has given a very 
+detailed assessment of TAM of each of the segments, not just in India, but 
+across the globe. I think in the especially the markets we operate now, so if 
+you can look at those, then you would be able to get a deeper sense on that. 
+I think all of that is covered in our DRHP, which we put out just a few months 
+back, which we put out a few months back. 
+Kush Shah: 
+Perfect. Thank you so much. 
+Sameer Kamath: 
+Thank you very much. 
+Amrish Rau: 
+Thank you. 
+Moderator: 
+Thank you. That was the last question for today. With that, we conclude the 
+Q&A session. I will now request Mr. Amrish to share his closing remarks before 
+we end the call. 
+Amrish Rau: 
+Thank you very much for doing this. Please take a minute to read the note 
+which I had put out there. We are back to work. Thank you to all of you for 
+having welcomed us on the public markets. This was our first earning calls. 
+You guys have been fairly kind with us in these questions also. We will learn, 
+we will improve, and we will keep giving you more disclosures. Thank you very 
+much. 
+Sameer Kamath: 
+So, if you have any further questions or information, feel free to reach out to 
+us at the investor relations email that we have put out at the end of the 
+presentation. Thank you and have a good evening. 
+Moderator: 
+Thank you. You can now disconnect your lines. Thank you everyone for joining 
+us today. Have a great evening. 
+ 

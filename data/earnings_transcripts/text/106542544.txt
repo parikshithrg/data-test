@@ -1,0 +1,1018 @@
+ 
+ 
+ 
+ 
+Unicommerce eSolutions Ltd. 
+Registered Office: Mezzanine Floor, A-83, Okhla Industrial Area Phase-II, New Delhi 110020 India 
+Corporate Office: M3M Urbana Business Park, Tower B, 9th Floor, Sector 67, Gurugram 122001, Haryana, India 
+Tel +91-888 7790 22, email: contactus@unicommerce.com I Web: www.unicommerce.com  
+CIN: L74140DL2012PLC230932 
+ 
+23rd February, 2026 
+ 
+National Stock Exchange of India Ltd.  
+Exchange Plaza, C – 1, Block G 
+Bandra-Kurla Complex, Bandra (E), 
+Mumbai-400 051  
+Symbol: UNIECOM 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, 
+Mumbai 400 001  
+Scrip Code: 544227 
+ 
+Subject: Q3 and nine months FY26 Earnings Conference Call-Transcript 
+ 
+Dear Sir/Madam, 
+ 
+Greetings from Unicommerce eSolutions Limited. 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we are enclosing herewith the transcript of the Q3 and nine months 
+FY26 Results Conference Call held on Monday, the 16th day of February, 2026 at 9:00 
+a.m. IST for the quarter and nine months ended on 31st December, 2025.  
+ 
+The same is available on the website of the Company at https://unicommerce.com/  
+ 
+Please take the aforesaid document on record and oblige. 
+ 
+Thanking you, 
+For Unicommerce eSolutions Limited  
+ 
+ 
+_________________ 
+Anil Kumar 
+Company Secretary 
+Membership No. F8023  
+ 
+Encl.: as above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anil 
+Kumar
+Digitally signed by Anil Kumar 
+DN: c=IN, st=Punjab, 
+2.5.4.20=58f15bef8525d051b8f07aa1e4f0162c416e2f6
+0e02a9cae2696afb400324035, postalCode=160062, 
+street=SASNagar Mohali Sector 66, 
+pseudonym=08512c798a1d4bbdbbf36bbab934a0be, 
+title=4886, 
+serialNumber=5d6e52d6459cd6685d5083065c28340c
+3ba8b393d64e2829a6cad709a51ac2f9, o=Personal, 
+cn=Anil Kumar 
+Date: 2026.02.23 16:37:42 +05'30'
+
+Page 1 of 17 
+ 
+ 
+ 
+“Unicommerce eSolutions Limited 
+Q3 & 9 Months FY '26 Earnings Conference Call” 
+February 16, 2026 
+“E&OE - This transcript is edited for factual errors. In case of discrepancy, the audio recordings 
+uploaded on the stock exchange on 16th February 2026 will prevail.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. KAPIL MAKHIJA – MANAGING DIRECTOR AND 
+CHIEF EXECUTIVE OFFICER  
+ 
+MR. ANURAG MITTAL – CHIEF FINANCIAL OFFICER  
+ 
+STRATEGIC GROWTH ADVISORS – INVESTOR 
+RELATIONS ADVISORS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 2 of 17 
+ 
+ 
+ 
+Moderator: 
+Ladies and gentlemen, good day, and welcome to Unicommerce eSolutions Limited Q3 and 9 
+Months FY '26 Earnings Conference Call. This conference call may contain forward-looking 
+statements about the company, which are based on beliefs, opinions and expectations of the 
+company as on date of this call. These statements are not the guarantee of future performance 
+and involves risks and uncertainties that are difficult to predict. 
+As a reminder, all participant lines will be in the listen-only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during the conference call, please signal an operator by pressing star then zero on your touchtone 
+phone. Please note that this conference is being recorded. 
+ 
+I now hand over the conference to Mr. Kapil Makhija, Managing Director and CEO of 
+Unicommerce eSolutions Limited. Thank you, and over to you, sir. 
+Kapil Makhija: 
+Thanks, Pari. Good morning, everyone, and thank you for joining us for the quarter 3 and 9 
+months FY '26 Earnings Call. I am joined today by Anurag Mittal, our Chief Financial Officer, 
+along with our Investor Relations advisers, Strategic Growth Advisors. 
+ 
+We are pleased to announce another quarter of strong growth in revenues and profit in Q3 FY 
+'26. Our revenue stood at INR56.4 crores, growing 72.2% year-on-year and translating into an 
+annualized revenue run rate exceeding INR225 crores. This growth was driven by continued 
+enterprise additions, structured revenue expansion initiatives within Uniware and growing scale 
+of Shipway. 
+ 
+Adjusted EBITDA for the quarter stood at INR13.4 crores, growing 51% year-on-year. This 
+corresponds to an annualized adjusted EBITDA run rate of more than INR53 crores, marking 
+another milestone for the company. This improvement reflects operating leverage inherent in 
+our SaaS model as revenue scale, combined with disciplined cost management. 
+ 
+Before discussing platform-specific updates, I'd like to share our progress on integrating AI in 
+our business. Since the last few quarters, our AI journey has progressed in phases. We began by 
+integrating AI into our internal day-to-day operations, then introduced AI-enabled features 
+across platforms and are now becoming AI first, where core platform functionalities are 
+delivered through AI. 
+ 
+Given that our platforms function as the system of record for our clients' e-commerce operations, 
+AI, in general, is a boon for solution like ours. It allows operational data to become actionable, 
+strengthens decision-making and further deepens our integration within our clients' technology 
+stack and daily operations. 
+ 
+We have launched 3 core AI capabilities in the last two quarters. Catalyst AI Voice Agent for 
+ConvertWay in quarter 3, UniBot AI Assistant for Uniware also in quarter 3 and ShipSense AI 
+Courier Allocation in quarter 2. 
+ 
+Catalyst AI Voice Agent enables automated human-like outbound calls in multiple languages. 
+For example, it can proactively engage customers who abandon transactions at checkout by 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 3 of 17 
+ 
+calling them and resolving queries in real time, helping close sales without any human 
+intervention. This expands conversational commerce in a scalable manner. We will play a brief 
+audio demonstration at the end of our remarks. 
+ 
+UniBot AI Assistant is a GenAI solution. It acts as an e-commerce operations copilot that allows 
+Uniware clients to execute warehouse actions through simple, multilingual text prompts. Tasks 
+such as order processing, shipping label generation, inventory checks and operational queries 
+can now be completed through conversational inputs. This increases ease of use of our platform, 
+reduces training time and simplifies daily workflows for our users. 
+ 
+ShipSense AI enables intelligent courier allocation within Shipway. It optimizes courier 
+selection by balancing costs, delivery time lines and the probability of predelivery returns due 
+to delays. This improves both logistics efficiency and end customer experience. These initiatives 
+strengthen our product differentiation while expanding monetization avenues across our 
+platforms. 
+ 
+Now coming to key updates for our platforms. Uniware resumed growth momentum in quarter 
+3 FY '26, delivering 8.1% year-on-year revenue growth on a standalone basis. While consumer 
+demand showed partial improvement during the quarter, the primary drivers for this growth were 
+internal initiatives executed over the past few quarters. 
+These include continued enterprise acquisitions and structured revenue expansion programs 
+through launch of new products, positioning the business for stronger double-digit growth 
+beginning quarter 4 FY '26 onwards. 
+ 
+We added more than 110 enterprise clients across traditional and digital-first brands during the 
+quarter, including the likes of Action Tesa, Lehar Footwear, Interio by Godrej, Shein 
+Marketplace, and Underneat. Revenue expansion initiatives continue to gain traction, supported 
+by rising adoption of our newer offerings. 
+ 
+Quick commerce and B2B modules are now used by 35% to 40% of our enterprise clients and 
+UniReco adoption is 4% to 5% among enterprise clients within the first 6 months of the launch 
+of the product. UniCapture launched last quarter has seen strong interest driven by evolving 
+marketplace requirements for mandatory video-based proof  in return claims. Some 
+marketplaces have already made this a mandate while others are considering doing the same. 
+ 
+We would also like to share an important update about our top 10 clients. During the quarter, 
+one of our top 10 clients made a strategic decision to change its business model and discontinue 
+its multichannel operations. As a result, we saw a revenue impact from this account. 
+ 
+While such transitions are a part of the dynamic e-commerce ecosystem, our endeavor has been 
+to continue to diversify our revenue by adding new enterprise clients. As a result of which, our 
+concentration of revenue from top 10 clients is nearly 12% in Q3 FY '26 and has been 
+continuously coming down from 19% in FY '25 and nearly 27% in FY '24. 
+ 
+The impact of this change has been fully offset to growth from other existing clients as well as 
+new enterprise additions. The 8.1% year-on-year growth reported for the quarter is after 
+absorbing this revenue loss. Excluding this impact, growth would have been higher. We expect 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 4 of 17 
+ 
+the growth momentum to continue in the coming quarters and should result in double-digit 
+growth in revenues from quarter 4 FY '26 onwards. 
+ 
+Additionally, over the past few quarters, we have received several queries regarding Uniware's 
+transaction rate, which is calculated as revenue divided by transactions processed. As our 
+product mix has diversified with increasing contributions from B2B, quick commerce and value-
+added modules, the aggregated transaction rate metric has become less representative of 
+underlying performance compared to earlier periods when the mix was more homogeneous. 
+ 
+Accordingly, we do not believe that this is a high-quality metric to track our performance. 
+Instead, we internally evaluate Uniware's business using 3 primary levers: net revenue retention, 
+which we disclose annually to track expansion within the existing client base, enterprise client 
+additions, which we disclose quarterly to measure incremental growth through new customer 
+acquisitions and our profitability metrics, which we disclose quarterly to track our efficiency 
+and operating leverage. 
+ 
+With that context, we will discontinue reporting transaction-related metrics going forward. This 
+approach is intended to ensure that the data shared is meaningful, comparable and aligned with 
+how we internally evaluate the business. 
+ 
+Similarly, blended gross margin at the consolidated level is influenced by revenue 
+amalgamations across businesses post Shipway acquisition and does not fully reflect our 
+operating profile. We will continue to assess the relevance of this disclosure in light of our 
+evolving business mix and determine the appropriate reporting approach going forward. 
+ 
+Now coming to Shipway. Shipway continues to strengthen our SaaS portfolio and scale steadily 
+post-acquisition. In quarter 3 FY '26, Shipway Technology Private Limited, which includes both 
+Shipway and ConvertWay, achieved an annualized revenue run rate of approximately INR100 
+crores compared to INR71 crores in quarter 1 FY '25, its first full quarter post-acquisition. 
+We expect Shipway to also grow at a double-digit rate on a year-on-year basis, but at a pace 
+faster than Uniware given the size of the addressable market and its low penetration relative to 
+the market. Shipway SaaS logistics automation platform delivers value to clients beyond 
+aggregation through optimization, automation and analytics across the logistics life cycle for a 
+brand and its customers. 
+During the quarter, we launched a new mobile application to support operational workflows on 
+the move and Shipway Cargo for bulky B2B shipments, warehouse transfers and delivery to 
+quick commerce mother hub facilities from brand warehouses, enabling incremental revenue 
+opportunities. 
+ 
+For ConvertWay, we have already discussed the key update for the AI voice bot this quarter. 
+Given the large and underpenetrated addressable market and Shipway and ConvertWay's strong 
+structural foundation of running profitably for the last few quarters, we are inclined towards 
+making calibrated investments going forward. 
+ 
+Given our healthy cash generation and balance sheet strength, we plan to invest in AI, product 
+and technology and to expand sales and marketing capacity along with brand building in these 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 5 of 17 
+ 
+businesses. While this may result in slightly below breakeven adjusted EBITDA in the short 
+term in Shipway Technology Private Limited, we believe these will be high ROI investments, 
+supporting faster platform scaling and long-term value creation. 
+ 
+On the leadership front, we are pleased to welcome Gaurav Juneja as Chief Revenue Officer for 
+Unicommerce to further strengthen our business development, marketing and customer success 
+functions for driving growth. Gaurav brings an operator-led approach with deep experience in 
+B2B SaaS, technology and retail businesses. 
+ 
+Prior to joining Unicommerce, he served as Chief Revenue Officer at Kapture, Head of 
+Digitization at Google India and founded and scaled the StarQuik business under the Tata Group. 
+He also has experience with the Reliance Retail and Investment banking at Lehman Brothers. 
+Gaurav is an alumnus of the Indian Institute of Management, Lucknow. He further strengthens 
+the leadership depth at Unicommerce and adds to our management bandwidth for go-to-market 
+execution. 
+ 
+Looking ahead, we expect to continue benefiting from structural tailwinds in India's e-commerce 
+market, which remains significantly underpenetrated. Across Uniware, Shipway and 
+ConvertWay, we address a total market opportunity of over USD 1 billion with particularly 
+strong opportunities in courier aggregation through Shipway. 
+ 
+Over the coming quarters, management will remain focused on scaling Uniware revenues as 
+growth momentum increases, accelerating Shipway's penetration in courier aggregation and 
+ConvertWay's growth in marketing automation, along with disciplined investments in AI 
+capabilities and improving our platforms that expand use cases and drive cross-sell. 
+ 
+Improving profitability and cash generation provides flexibility to reinvest in organic growth 
+while selectively evaluating inorganic opportunities in adjacent areas, guided by strategic fit, 
+customer value and financial sustainability. As we enter the next phase of growth, our focus 
+remains on consistent execution, prudent capital allocation and strengthening our platform. 
+ 
+I will now hand over to Anurag to walk you through the financials in detail. 
+Anurag Mittal: 
+Thank you, Kapil. Good morning, everyone. We delivered a strong performance in quarter 3 and 
+the 9 months of FY '26 with robust top line momentum and continued improvement in operating 
+profitability. For quarter 3 FY '26, consolidated revenue stood at INR56.4 crores, representing 
+year-on-year growth of 72.2%. This performance was supported by growth across both Uniware 
+and Shipway. 
+ 
+Adjusted EBITDA, which reflects our operational profitability, grew by 51% year-over-year to 
+INR13.4 crores. The growth in adjusted EBITDA was driven by disciplined cost management, 
+AI-led operational efficiencies, strong operating leverage from Uniware and Shipway's 
+continued PAT positive performance. 
+ 
+Profit after tax for the quarter was INR7.4 crores compared to INR6.3 crores in quarter 3 FY '25. 
+Excluding the non-cash amortization expense related to the Shipway acquisition, PAT would 
+have been approximately INR8.2 crores, representing year-on-year growth of 24.9%. Earnings 
+per share also increased 12.5% year-on-year to INR0.63 from INR0.56 in quarter 3 FY '25. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 6 of 17 
+ 
+ 
+On a 9 monthly basis, the company delivered strong financial performance. Our consolidated 
+revenue for 9 months FY '26 grew 70.6% year-over-year to INR152.7 crores compared to 
+INR89.5 crores in 9 months FY '25. Adjusted EBITDA increased 75.8% year-year to INR34.3 
+crores surpassing FY '25 full year adjusted EBITDA of INR28.4 crores in just 9 months, 
+reflecting disciplined cost management and scale efficiencies. 
+ 
+Profit after tax for 9 months period was INR17.1 crores compared to INR14.3 crores in 9 months 
+FY '25. Excluding non-cash amortization related to the Shipway acquisition, PAT would have 
+been approximately INR21.1 crores, representing year-on-year growth of 45.2%. Earnings per 
+share also increased 18.1% year-on-year to INR1.50 in 9 months FY '26 from INR1.27 in 9 
+months FY '25. 
+ 
+Shipway has continued to deliver strong performance, achieving an annualized revenue run rate 
+of approximately INR100 crores in quarter 3 FY '26, up from INR71 crores in quarter 4 FY '25, 
+its first full quarter post-acquisition. 
+As Kapil mentioned earlier, we plan to increase investment in AI products and technology 
+capabilities and sales and marketing capacity along with brand building to drive further growth. 
+We expect these investments to help increase the platform scale and broaden our market 
+footprint over time. 
+ 
+At the consolidated level, annualised revenue run rate now exceeds INR225 crores with adjusted 
+EBITDA run rate above INR53 crores. A large part of our adjusted EBITDA converts into 
+operating cash flows for us due to the asset-light nature of our SaaS model and enables us to 
+reinvest this into growth. 
+ 
+Looking ahead, we remain focused on maintaining cost discipline while delivering sustainable 
+and profitable growth. As mentioned earlier, we expect Uniware to deliver double-digit growth 
+from quarter 4 FY '26 onwards as revenue expansion initiatives gain traction, while Shipway, 
+given its large addressable market and early stage of penetration has the potential to scale at a 
+relatively faster pace. 
+ 
+We will now play a short audio clip to demonstrate ConvertWay's AI voice bot capability. For 
+context, in this recording, Tanvi is the customer and the other voice you will hear is our AI 
+system engaging with her in real time. [Product Demonstration] 
+ 
+As you heard, the interaction  is designed to feel natural, contextual and outcome oriented. Since 
+launch, the voice bot has scaled quickly to approximately 1 lakh calls per month, reflecting 
+encouraging client interest. We hope you found the demonstration insightful. With that, we will 
+open the floor for questions. Thank you. 
+Moderator: 
+The first question is from the line of Ananya from Thinqwise Wealth Managers. 
+Ananya Nichani: 
+Sir, my first question is on account of pricing actually. I wanted to check if like maybe this is 
+the bottoming out of like a low pricing environment. And also if you're able to share what 
+percentage of the current clients are newly added clients and like if they are on the minimum 
+guarantee plan. That's my first question? 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 7 of 17 
+ 
+Kapil Makhija: 
+Ananya, I couldn't hear your questions completely. I'll just rephrase on what I understood. One, 
+you want to understand the trajectory of rate per transaction. Second, you mentioned that how 
+many of them are newly added clients. Is that correct? 
+Ananya Nichani: 
+Yes. 
+Kapil Makhija: 
+Okay. So as we mentioned during our speech that the transaction rate is a function of -- is 
+calculated as revenue per transaction and our transaction mix has become a lot more 
+heterogeneous with addition of capabilities of B2B quick commerce and the new modules that 
+we are launching. 
+ 
+So it does not accurately represent the progress of the business because our rate per transaction 
+is a function of the product mix as well as the client mix. So we don't feel that it's the most 
+meaningful way to assess the business. Having said that, the rate per transaction has been 
+consistent since last quarter. And while the number appears to be stable, it does not fully reflect 
+the two drivers of growth or expansion. 
+ 
+In terms of your question on the new acquisition, we've been talking about our new client 
+acquisition since post listing. So when we listed the first quarter, we added about 85-odd 
+enterprise clients in the quarter. Today, we are on a trajectory of anywhere between 110 to 120 
+clients per quarter. So we've seen a consistent improvement in the new client being added. And 
+this -- so from that, you can get a sense of what the share of new clients as a percentage of the 
+overall client base. 
+ 
+Also, I want to clarify to the entire -- all the listeners today that all the enterprise clients that we 
+onboard are on a minimum guarantee plan. Every enterprise client give us a subscription fee in 
+which we bundle certain number of transactions in this cost. And once they exhaust this quota 
+of allotted transactions, they pay us a usage-based fee. Hope that clarifies. 
+Ananya Nichani: 
+Sure, sir. I just had one more book-keeping question. Sir, in Q2, in which the account you 
+mentioned that about INR7.81 crores of amortization for Shipway was done for the half year. 
+And I can see for Q3 and also for the 9 months a similar amount is done. So am I to understand 
+that for Q3 nothing has been amortized? Could you just confirm? 
+Anurag Mittal: 
+Ananya, the amortization has been done this quarter as well for the Shipway Technology what 
+we acquired at the time of acquisition. It is similar and consistent to the previous quarters. In 
+fact, the number is almost same to what we reported in quarter 2 of FY '26. 
+Ananya Nichani: 
+Sir, can you confirm how much has been amortized in Q3 and how much was done in Q2? 
+Anurag Mittal: 
+So quarter 2 it was INR13 million and quarter 3 it is INR12.8 million, almost similar. 
+Ananya Nichani: 
+So for the full year, INR13 crores is what we have to amortize, right? So shouldn't it be at the 
+run rate of about more than INR3 crores per quarter? 
+Anurag Mittal: 
+So the overall capitalization we did around INR39 crores at the time of acquisition, and it has to 
+be amortized over a period of 8 years. So near about INR12 million or INR13 million of 
+amortization spend will come every quarter. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 8 of 17 
+ 
+Ananya Nichani: 
+It's over 8 years, sir, just to confirm? 
+Kapil Makhija: 
+Yes, that's correct. Yes. Just to give you a context, while we integrated our internally generated 
+technology, which is more advanced technology based on AI with the Shipway acquired 
+technology, the estimated useful life of the asset based on the technical assessments have 
+increased from 3 years to 8 years. So that is the reason that the estimated useful life of the asset 
+is now 8 years and the depreciation expense for quarter would be around INR13 million every 
+quarter. 
+Moderator: 
+The next question is from the line of Vansh Gupta from Prescient Capital. 
+Vansh Gupta: 
+So sir, I just wanted to get some understanding of the pricing power of the company. As you 
+mentioned, you're saying that because of the change in product mix, the metric that we calculate 
+using the revenue per transaction process, you're saying that's not entirely reflective or 
+comparable to last year. So just to get a sense of understanding on the pricing power of the 
+company, how is it that you now get a sense of -- how is it that the customers are really giving 
+you revenue? 
+ 
+So in my understanding, the revenue of the company has always been that -- and as you just 
+mentioned, there's a minimum slab of transactions that the company process and after that they 
+have to pay an incremental amount of revenue on a step-up basis. So then how do we get a sense 
+for how the pricing is changing for these customers? 
+Kapil Makhija: 
+Sure. Vansh, first of all, I want to clarify that we continue to operate at a premium compared to 
+other players. We continue to build strong enhancements in the product. And as you heard in 
+our speech earlier that we are leveraging AI to continue to justify this premium. We have been 
+not only launching enhancements to the product, we are also launching core functionalities using 
+AI. 
+ 
+Being AI first has ensured that we can continue to add meaningful value to the ecosystem 
+because of which we can justify the premium. The various products continue to have a very 
+different pricing profile. And because of that, an aggregate, the rate per transaction does not fully 
+justify meaningfully the nature of our business and the growth trajectory of our business. 
+Vansh Gupta: 
+So just to clarify, these new facilities that we are adding, these products that we're selling to the 
+clients, we're not selling them on a revenue per transaction basis? 
+Kapil Makhija: 
+Yes. The pricing for all our products is a function of the transaction. The transactions can be 
+different for different products. So for, let's say, UniReco, it is in terms of the number of items 
+that are being reconciled. For UniCapture, it is the number of videos or images being processed. 
+In case of Uniware, it is the number of items going out of the warehouse. So for different 
+products, the underlying metric is the transaction. The definition of the transaction can vary 
+according to the product. 
+Vansh Gupta: 
+Just one more question from my end. So I see that the revenue share of the top 10 clients has 
+decreased from about 20.1% since last year to 12.1% now and our revenues have grown by about 
+8%. So is it that we're losing some revenue share from the existing customers to our competition 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 9 of 17 
+ 
+or is it because of largely the client that we have lost this quarter and that's what causing the 
+dent? 
+Kapil Makhija: 
+Yes. So see, given the nature of our product, 100% of dropship e-commerce volumes for any 
+brand flow through us. It does -- a brand never uses multiple solutions for managing their e-
+commerce operations. So we will -- that will never be the case that we lose part of the volume 
+to some other player. 
+ 
+The relative share of top 10 customers has been consistently declining because we continue to 
+add enterprise clients on a consistent basis. And as the overall enterprise base increases and we 
+continue to see growth in the business, the relative share of top 10 customers continues to 
+decline. 
+ 
+And this has been a consistent trend over the last many years, where in FY '24, the concentration 
+was 27%, and it has now come down to nearly 12% in quarter 3 FY '26. It is a concerted effort 
+to ensure that our revenue continues to be diversified, and it has a fairly healthy mix of multiple 
+enterprise clients. 
+Vansh Gupta: 
+Got it, sir. Just one last follow-up from my end. Sir, could you just share the -- if you have a 
+sense of what is the total revenue percentage share that the company manages for its clients. So 
+my question really is I want to get a sense of what is the B2C business of all of your clients on 
+average that you are managing. So is it like 20% of the revenue, 30% of the revenue? Any sense 
+of that number if you can just provide? 
+Kapil Makhija: 
+So we'll not be able to share channel-specific information. But as I mentioned, 100% of the client 
+e-commerce dropship business gets managed through Uniware. So it's not a part of the business 
+that we are managing. 
+Moderator: 
+The next question is from the line of Siva from ithought PMS. 
+Siva: 
+You had mentioned that you had acquired 110 roughly clients this quarter. So if I compare our 
+enterprise client count with previous quarter, there seems to be a net addition of only 16 clients. 
+So does this mean we are having a higher churn? And if so, could you explain why we are facing 
+this high churn? 
+Kapil Makhija: 
+Sure. So e-commerce is a dynamic industry, Siva. So we continue to see churn in the long-tail 
+segment, primarily among clients with low volumes or those winding down operations due to 
+tough market conditions. So while you may see that the net additions are lower than the gross 
+additions that we're doing, but bulk of this churn happens through long-tail customers. 
+ 
+That is why in spite of these customers churning and more majority of them -- like the 3 key 
+reasons of churn for our platform continue to be a customer shutting down, customer deciding 
+to move away from e-commerce or customer deciding to move from dropship to an outright  or 
+a fulfilled by model as we have demonstrated in the earlier calls as well. 
+So bulk of the reasons of churn are that. And thus, in spite of this churn, we continue to 
+demonstrate a healthy growth for this quarter, the growth was 8.1%. And we are hopeful of 
+delivering a double-digit growth from quarter 4 onwards in the standalone Uniware business. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 10 of 17 
+ 
+Siva: 
+Understood, sir. Would it be possible for you to maybe quantify how much of those churn is 
+from those three reasons that you mentioned? 
+Kapil Makhija: 
+That's majority of the churn. 80% plus of our churn is actually because of these three reasons. 
+Siva: 
+Yes. That helps, sir. And my second question is regarding quick commerce volume. So how 
+much did they contribute this quarter? And again, with regards to Shipway, how much cross-sell 
+did we achieve? 
+Kapil Makhija: 
+Sure. So we continue to see quick commerce as a strong growth opportunity and we have 
+integrated with all leading quick commerce platforms. When we launched it full scale in quarter 
+4 of FY '25, we had seen about 20 million order items being processed. 
+We have seen that number jump to about 70 million-plus order items being processed in quarter 
+3 FY '26. So just in a 9-month time frame, we have seen a strong growth in the quick commerce 
+volumes. While we have seen a strong growth, they are still a small fraction in the overall 
+transaction mix. So hope that gives you a perspective on the relative contribution of quick 
+commerce. 
+ 
+In terms of the Shipway cross-sell, when we acquired Shipway, less than 5% of our base was 
+using Shipway services. And last quarter, we had mentioned that this number has already crossed 
+10% and continues to be in a similar trajectory even in this quarter as well. And we continue to 
+see a strong adoption of Shipway amongst Uniware base. 
+ 
+But I also want to clarify that beyond the Uniware customer base, Shipway also has a larger 
+market opportunity in terms of social media sellers, people selling on just their own website, 
+who may not need the services of Uniware because Uniware becomes relevant for anybody 
+who's selling on multiple channels. But anybody who's selling on social media, Instagram, et 
+cetera, will still need to ship the goods to the end customer and will need Shipway services. 
+ 
+So the market opportunity for Shipway is much larger. And while our focus is to continue to 
+have a strong cross-sell motion on the Uniware base, our focus is to aggressively expand our 
+sales and marketing to ensure that we are able to tap into customers which are outside of Uniware 
+base as well. 
+Siva: 
+Understood, sir. One last question. So with regards to our international market presence, are we 
+seeing any significant client wins? So how is the traction there? 
+Kapil Makhija: 
+Yes. So we continue to see a strong growth in our international business. It is growing faster 
+than our domestic business. We continue to add clients in the region. We continue to operate in 
+the same geographies in Middle East and Southeast Asia. And while we have seen strong growth 
+in the business, we continue to -- the international business continues to be profitable. 
+ 
+And in the recent times, we had also announced a partnership with Naqel Express, which is 
+Saudi Arabia's largest logistics and express delivery partner to deepen our presence in the KSA 
+e-commerce market. 
+Moderator: 
+The next question is from the line of Vinod Krishna from Avendus Wealth. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 11 of 17 
+ 
+Vinod Krishna: 
+So what is your opinion on long-term trajectory of dropship versus FUR model in India? That is 
+my first question. And any category concentration with our Uniware product? And my third 
+question is, why do we have such -- because e-commerce is having such a huge growth rate, but 
+our Uniware is not getting similar growth rate. So maybe I'm wrong in understanding, comparing 
+with the overall Uniware thing. So if you can answer these three questions. Like, what will be 
+the -- I think I'm clear, right? 
+Kapil Makhija: 
+Sure. So dropship model continues to grow faster than the other models, primarily on the back 
+of custom brands wanting to have greater control on the customer experience. Platforms also 
+preferring it because it is less capital intensive.  
+And now the ecosystem is available for brands to deliver a consistent customer experience on 
+the dropship model compared to 5 years ago when the ecosystem wasn't available. So we have 
+seen dropship model continue to grow faster. Today, it is contributing to nearly half the e-
+commerce market, but it is expected to contribute about 65% in the next few years. 
+ 
+On the -- the second question was about the growth of Uniware versus the market. Uniware is 
+processing a large portion of the e-commerce market. We are processing about 25% to 30% of 
+e-commerce dropship volumes, which means that we have effectively become an index to e-
+commerce market. We continue to grow faster than the market over many years.  
+ 
+So while there are certain pockets of within e-commerce that continue to grow fast, but there are 
+also large pockets which have seen sluggish growth, because of which the overall growth is not 
+at the same level as it used to be during the pandemic years. 
+But our growth is -- continues to be market plus, plus, because the -- as our existing clients grow, 
+that is -- the growth of our existing clients is reflective of the market growth. But on top of that, 
+we've added new initiatives of launching new products, adding new customers, because of which 
+we continue to demonstrate a market plus, plus growth. 
+ 
+I'm sorry, I forgot the third question that you had. Category concentration. So see, we are a fairly 
+well-diversified player, where we serve 45 plus product categories across fashion, lifestyle, 
+beauty and personal care, health and pharma, eyewear, FMCG, agri tech and many other players. 
+So as we have seen the revenue is not concentrated on a handful of customers, similarly our 
+revenue is not concentrated on any particular category. 
+ 
+Given that we process large volumes of India's e-commerce transactions, our category mix is 
+reflective of the market mix where we have seen lifestyle, beauty and personal care, electronics 
+being some of the largest categories. That is also reflective in our category mix as well, but our 
+category mix is fairly well diversified. 
+Moderator: 
+The next question is from the line of Pratik from Fermi325 Investment Advisers. 
+Pratik: 
+I just wanted some clarification. I just wanted to ask, when a client subscribes for Uniware, does 
+he or she -- does the client get access to all the modules or is it -- does it depend on the client 
+what they want? 
+Kapil Makhija: 
+Yes. So when we started our journey, OMS and WMS within Uniware were the first two 
+modules that we launched. So whenever an enterprise client signs up for Uniware, they get the 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 12 of 17 
+ 
+OMS and WMS. That's the most selling module for us. But as we've launched newer offerings 
+like omnichannel, UniReco, UniCapture, those are separate subscriptions that the brand has to 
+take up depending on their need. Hope that answers the question. 
+Pratik: 
+Yes. Just a follow-up on that. So would it be possible to give a cohort, basically, as and when, 
+when a client starts a journey and they start with a WMS and OMS platform, how do they scale 
+up their relationship over the following period? How many modules they start to subscribe? Any 
+sort of cohort that you could give? 
+Kapil Makhija: 
+Yes. So most of our additions, product additions are relatively recent, so we will not have any 
+long-term cohorts for you to be able to do any analysis on that. Having said that, we've just 
+disclosed in our call today that we have seen a strong adoption of B2B and quick commerce 
+modules where 35% to 40% of our enterprise clients use the B2B and quick commerce modules 
+and about 4% to 5% attach rate on the UniReco module. That has happened just within the first 
+6 months of the product launch. 
+ 
+Typically, when a brand starts their journey, as I said, they start with the OMS. And as they scale 
+up their volumes, they start implementing WMS within their warehouse. As they expand their 
+retail footprint, omnichannel becomes an important use case. And as their scale increases, they 
+would need UniReco to reconcile their payments, because there are many leakages that happens, 
+particularly on the returns workflow. 
+ 
+And similarly, UniCapture is a good complement to UniReco, because UniCapture helps capture 
+the proofs of the items that are going out and helps in the return validation as well. And similarly, 
+as these brands scale up, they would also want to expand to retail and wholesale, and hence they 
+would also need -- or even quick commerce, they would need our B2B quick commerce tool as 
+well. 
+Pratik: 
+Okay. Sorry, last question on just this cohort before I get in -- get back in the queue. So according 
+to you when would you be able to start giving a cohort? Is it 1 year down the line, 2 years down 
+the line? When do you think it would be meaningful enough for us to start reading into the cohort 
+data? 
+Kapil Makhija: 
+See, in any B2B SaaS solution, it takes time and it is a function of the product. There is a 
+gestation period for any SaaS. But in our experience, at least 12 to 18 months is something that 
+we feel for any product before  the cohorts mature. For some products, it may take longer as 
+well, but bare minimum is 12 to 18 months. 
+Moderator: 
+The next question is from the line of Sumeet Jain from CLSA. 
+Sumeet Jain: 
+Yes, Kapil. Firstly, congrats on a slight turnaround in the organic growth... 
+Moderator: 
+Sorry to interrupt, sir. Sir, can I request you to speak loudly or come closer to your device and 
+speak? 
+Sumeet Jain: 
+Okay, Yes. So wanted to check the double-digit growth guidance that you gave for the next 
+quarter. How sustainable you see that going forward and what is leading to that? Is it like the 
+more traction in your new products being launched or is it the revival in the overall e-commerce 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 13 of 17 
+ 
+market or are you guys gaining market share? Can you give us -- throw some light on that double-
+digit growth guidance? 
+Kapil Makhija: 
+Yes, Sumeet. So the double-digit growth, we strongly believe that it's sustainable, because it is 
+a result of the efforts that we have been implementing over the last few quarters, which includes 
+acceleration in our new enterprise acquisitions and revenue expansion initiatives, which are now 
+beginning to reflect in the growth outcomes. 
+ 
+We have consistently added 100 plus clients over the past several quarters and 125 plus 
+specifically in quarter 4 FY '25. These new acquisitions take time to fully mature and have now 
+started to give us incremental revenues, leading to year-on-year growth in quarter 3 FY '26 and 
+which gives us the confidence of delivering double-digit growth in quarter 4. 
+ 
+And along with this adoption of our new products where we are seeing strong adoption across 
+both B2B quick commerce suite as well as UniReco in the first 6 months of the launch. A 
+combination of both these factors give us the confidence that we will continue to sustain double-
+digit growth in Uniware from quarter 4 FY26 onwards. 
+Sumeet Jain: 
+Got it. That's very helpful. And a follow-up to that is, can you give us a sense as to how many 
+number of enterprise clients can you still tap into the market out there? I remember at the time 
+of IPO, you used to talk about some 10,000 enterprise clients can potentially be there for 
+Unicommerce to address. Can you just give us a sense as to how you look at the overall enterprise 
+client customer base? 
+Kapil Makhija: 
+Yes, sure. I think in terms of the enterprise client base, one is we continue to see strong launches 
+of various digital-first brands because in India -- because the Indian market is so large, a small 
+niche within the Indian e-commerce market also becomes a meaningful opportunity for any 
+brand. So we continue to see brand launches across various sectors, various niches because of 
+which we are confident that there's a large pool of enterprise customers that are available. 
+ 
+At the same time, we have seen many legacy brands still haven't adopted the dropship model. 
+And as more and more brands start adopting the dropship model, we will continue to see a pool 
+of enterprise acquisitions widening for us. 
+ 
+The third reason is that there are still many categories which have still not become -- and have 
+not adopted the dropship model, and that will add to the enterprise pool. I think the journey of 
+the dropship model and for Uniware in particular have just started. We have a large pool of 
+enterprise customers. 
+And we still feel confident that in the long term it should open up a market to the tune of 10,000 
+enterprise customers. So we should have significant headroom for growth in terms of the new 
+customer acquisition, in terms of new digital-first brands, legacy brands coming to dropship 
+model and new categories opening up on the dropship model. 
+ 
+And at the same time, we also want to continue to focus on the quality of acquisition, and that's 
+why we've got Gaurav on board, who has a significant experience in driving enterprise 
+acquisition. And our focus will now to be able to set up some high value -- looking at high value 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 14 of 17 
+ 
+deals in the enterprise segment with Gaurav's professional experience, which should help 
+Uniware tap into a large pool of enterprise customers as well. 
+Sumeet Jain: 
+Got it. That's very helpful. And secondly, I wanted to check, I think you guided for a breakeven 
+EBITDA in your Shipway business in the few coming quarters. So can you give us a sense for 
+how long that will stay? What are the nature of investments you are doing? And by when can 
+we see the EBITDA improving into the profitable trajectory for Shipway? 
+Kapil Makhija: 
+Sure. So the investment areas, Sumeet, are in the fields of AI, product and technology 
+enhancements. We want to enhance the sales and marketing capacity along with brand building 
+initiatives. Shipway is a challenger in the market. It's a relatively late entrant in the courier -- 
+large courier aggregation space. So we want to make sure that we are investing rightly into sales 
+and marketing, building a strong brand out of it. 
+ 
+At the same time, building a very strong and scalable product, which is AI first, so that we 
+continue to add value to the courier aggregation business. And hence, we feel that for the next 
+few quarters, it will operate at slightly below breakeven from adjusted EBITDA. But having said 
+that, we -- the only way we know how to operate business is to run them profitably. 
+ 
+We just want to make -- we are making a very calibrated investment approach to make sure that 
+we are able to put it on a strong foundation for fast growth in this. And we are hopeful that in 
+the next few quarters, we should be able to see them, like the Shipway business, both Shipway 
+and ConvertWay becoming profitable. 
+Moderator: 
+The next question is from the line of Karthi from Suyash Advisors. 
+Karthi: 
+So just wanted to understand one thing. You indicated that your profitability in the Uniware side 
+is 40% plus on an adjusted basis. So the adjustment would be only for ESOP expenses or would 
+there be anything else? Part two to that question is, is there any more juice left for profitability 
+improvement there? 
+Anurag Mittal: 
+Karthi, that's correct. We have done the adjustments only to the extent of ESOP expense. 
+Kapil Makhija: 
+For the second part, Karthi, yes, the business has an inherent operating leverage. So as the 
+revenue expands, we will continue to see an improvement in profitability in Uniware. And you 
+will continue to see a consistent growth in revenues and profits in the Uniware and the overall 
+Unicommerce business. 
+Moderator: 
+The next question is from the line of Chinmay Nema from Prescient Capital. 
+Chinmay Nema: 
+Sir, just wanted to follow-up on one of the questions about wallet share. So with respect to some 
+of the largest digital-first brands on your roster, like Lenskart or Mamaearth, do they typically 
+operate 100% through Uniware or do they split volumes in conjunction with some other 
+platforms as well? If you could give some colour around that? 
+ 
+And secondly, if you could talk about how customizable the software is? To what extent are you 
+able to customize it to best use and inventory systems of the clients? Some sense around that. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 15 of 17 
+ 
+Kapil Makhija: 
+Sure. As I mentioned before, given the nature of the product, it is difficult for a brand to operate 
+multiple systems. See, effectively, what we are doing, we are ensuring that the same inventory 
+pool is getting exposed to multiple marketplaces at the same time. 
+ 
+If they were using two systems, it is impossible for them to have a consistent inventory outlook 
+across different marketplaces. And if they were not using the single system, it would make it 
+very suboptimal for them, because a part of the inventory will be visible somewhere else and 
+part of the inventory will be somewhere else. 
+ 
+So given the nature of the product, a brand does not use multiple systems to manage their orders 
+and inventory. And that's why, by design, we have 100% of the e-commerce volumes for any 
+brand that is using Uniware. 
+ 
+The Uniware system, as I mentioned before, operates like a system of record, just like how an 
+ERP operates. You don't hear a brand operating with multiple ERPs, right? Very similarly, you 
+don't see a brand operating with multiple order and inventory management systems. Sorry, I 
+missed the second part of the question that you had. 
+Chinmay Nema: 
+Sir, if you could talk about how customizable the product is with respect to the needs of the 
+businesses? 
+Kapil Makhija: 
+Yes. So we have been building this platform for more than a decade now and have built this in 
+a fairly configurable way where different use cases can be easily configured, depending on the 
+category, the product mix, the scale, the complexity of the operations. 
+ 
+In majority of the situations, the plain vanilla configurations that we offer are available. If there 
+is a specific need of a customer, what we end up doing is that we understand that requirement 
+and build it in a very generic way so that it not only serves the needs of a particular customer, 
+but for a particular industry. 
+ 
+And over the last decade, while we were building this platform, we have got many requirements 
+from various customers, but we have not implemented it in a bespoke manner. We have instead 
+incorporated it as a general feature in the product so that it can be available to a wider customer 
+base. 
+ 
+So just as an example, if you are able to serve a fashion customer, they need unique serialization, 
+so they want to track each and every item. B2C customer, if they're selling cosmetics, so lipsticks 
+are very small in size, as an example, so they need to print labels which are very small in size, 
+can be pasted on the product itself. There are these small nuances that over time we have built 
+in the product, because of which, it's available to a wide variety of customer base, depending on 
+the product category that they are in. 
+Moderator: 
+Next question is from the line of Arvind Arora from A Square Capital. 
+Arvind Arora: 
+So my question is on, since if I see, like trailing 12 months basis, our data is all -- like, data 
+process is almost 1.1 billion. So any plan on data monetization, like using data analytics or 
+something like that? 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 16 of 17 
+ 
+Kapil Makhija: 
+So our focus is to keep adding new capabilities in our products. I think we are evaluating 
+internally on how we can look at data. We have amassed data over the last more than a decade 
+having served thousands of customers and have a rich view on the information. But we are also 
+cognizant of the new DPDP Act, so we are evaluating internally on what we can launch, which 
+is within the regulatory ambit, but at the same time adds meaningful value to our customer base. 
+Arvind Arora: 
+Understood. And the second question is on, since you mentioned that -- and even if I compare 
+the quarter-on-quarter standalone numbers, so our revenue increased 8%, but our PAT increased 
+drastically. So same will happen, like going forward, even you are guiding double-digit growth, 
+so our PAT would be at higher level due to operating leverage. Is my understanding correct? 
+Kapil Makhija: 
+Definitely, yes. So we have an inherent -- strong inherent operating leverage, because of which 
+our profits typically tend to grow faster than our revenue growth. But at the same time, we want 
+to invest in the business in terms of AI investments for product and technology. 
+ 
+As we mentioned in the beginning, for example, we have launched UniBot in Uniware, which 
+is a GenAI solution, enables faster decision-making, simplification of experience for our 
+customer base. And we anticipate more investment in the AI field for Uniware. So the kind of 
+growth in profit may not be visible every quarter, but in the long term, definitely a large portion 
+of our revenue growth flows to our bottom line, so our profits will continue to grow faster than 
+the revenues. 
+Anurag Mittal: 
+And just to add on, Arvind, here, that, during Q3 year-on-year, as you rightly mentioned, that 
+our revenue has increased 8%, which has contributed to an increase in adjusted EBITDA, PBT  
+and PAT as well. And Uniware operates with high gross margin profile.  Uniware’s gross margin 
+is around near about 80%. And incremental volumes have a direct positive effect on the bottom 
+line as well. 
+ 
+And as Kapil also mentioned that as our revenue growth momentum increases to the double-
+digit trajectory in quarter 4 FY '26 and onwards, this operating leverage should further expand 
+our profit pools and also help us to generate more and more cash. 
+Arvind Arora: 
+Understood, understood. And Kapil, just last one. As you mentioned, we are investing in AI 
+product and everything. So these will open up a new stream of revenue, correct, going forward? 
+Kapil Makhija: 
+Yes, that's correct. It will add meaningful revenue, add meaningful value to our existing 
+customers, plus it will open new monetization opportunities for us. 
+Arvind Arora: 
+Just last request, Kapil. So going forward, is it possible for you to disclose the numbers at a, like, 
+a different product level? And even like you said, for Uniware also, you are getting revenue from 
+two streams, like one is existing business and second would be the growth business. So if you 
+can disclose that from Uniware? And then for Shipway and ConvertWay also, if you can disclose 
+the numbers separately? Is it possible? 
+Kapil Makhija: 
+Yes. We disclose the net growth of our existing customers annually in the form of a metric called 
+NRR. NRR is Net Revenue Retention, which means that if NRR is 103%, if a customer gave me 
+INR100 last year, it gives me INR103 this year. So we disclose this metric annually. Along with 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+February 16, 2026 
+ 
+Page 17 of 17 
+ 
+that, we disclose about our new enterprise acquisitions every quarter. So that gives a good 
+perspective about the various levers impacting the growth. 
+ 
+The new products that we're adding contribute to our NRR. So as the new products start 
+maturing, we should see improvement in our NRR going forward. In the current year, given 
+these products are just recently launched, they may not contribute meaningfully to the current 
+year financials. 
+But as I mentioned, we are investing for future growth. As a result of which, in the subsequent 
+years, you should see a strong contribution coming from these new launches that we are 
+investing in the current year. 
+Arvind Arora: 
+Understood. But is it possible to disclose the revenue numbers and transaction process at a 
+quarterly level? So that for us, it's also easy to understand where we are going. 
+Kapil Makhija: 
+You mean for the new products, right? 
+Arvind Arora: 
+For new product, yes.  
+Kapil Makhija: 
+So as they become meaningful, we will definitely evaluate this internally. We also want to make 
+sure as a management team that it's easier to model the business and like have better 
+predictability on our financial path. 
+But like I said, today, these products are very nascent. It may not give a full picture. As the 
+revenue matures of some of these new products, we will definitely evaluate the possibility of 
+disclosing this so that it becomes more accurate to model the business. 
+Moderator: 
+Thank you. Ladies and gentlemen, due to time constraints, that was the last question for today. 
+I now hand over the conference to Mr. Kapil Makhija sir, for closing comments. Over to you, 
+sir. 
+Kapil Makhija: 
+Thank you, everyone, for joining the call today. We hope we have been able to address your 
+queries. Should you have any further queries or clarifications, please feel free to reach out to us 
+or Strategic Growth Advisors, our Investor Relations advisors. Thank you, and have a good day. 
+Moderator: 
+Thank you. On behalf of Unicommerce eSolutions Limited, that concludes this conference. 
+Thank you for joining us, and you may now disconnect your lines. Thank you. 

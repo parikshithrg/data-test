@@ -1,0 +1,877 @@
+ 
+ 
+ 
+ 
+30th December, 2022 
+ 
+To, 
+ 
+BSE Limited 
+Corporate Relationship Department, 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai 400 001 
+ 
+Scrip Code: 540735 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, Plot No C/1, 
+G Block, Bandra-Kurla Complex, 
+Bandra (East), Mumbai - 400 051 
+ 
+Symbol: IRIS 
+ 
+Dear Sir / Madam, 
+ 
+Sub: 
+Disclosure of Material Event / Information under Regulation 30 of SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 - Transcript of Analyst(s) / Investor(s) 
+Call. 
+The Company organized a call with the Investors and Analysts on Friday, December 23, 2022. 
+A copy of the transcript of the call held with the Investors and Analysts is enclosed herewith and the same is 
+also being uploaded on the Company's website at: www.irisbusiness.com. 
+Kindly take the same on record. 
+Thanking You. 
+ 
+Yours faithfully,  
+For IRIS Business Services Limited 
+ 
+ 
+ 
+ 
+ 
+Santoshkumar Sharma 
+Company Secretary & Compliance Officer 
+(ICSI Membership No. ACS 35139) 
+ 
+SANTOSHKUM
+AR 
+JAISHANKER 
+SHARMA
+Digitally signed by 
+SANTOSHKUMAR 
+JAISHANKER 
+SHARMA 
+Date: 2022.12.30 
+17:50:11 +05'30'
+
+ 
+ 
+Page 1 of 18 
+ 
+ 
+“IRIS Business Services Group Meeting” 
+ 
+December 23, 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. S. SWAMINATHAN – CHIEF EXECUTIVE OFFICER & FOUNDER, 
+IRIS BUSINESS SERVICES LIMITED 
+ 
+ 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 2 of 18 
+S Swaminathan: 
+If the whole COVID relapse had not happened I would have actually expected a significant acceleration, with this 
+relapse I don't think that any plans that have already been announced by countries will actually go into limbo. Well, 
+the good news is that post COVID relaxation countries did start using IRPs and the remaining countries have actually 
+invited us to come and give the presentations. The fact of the matter is that it takes its own sweet time, you know 
+implementing a regulatory filing platform is like a generational shift for a country. So, we had started applying and 
+we started sending out our proposals to various countries and things had started and this whole thing happened in the 
+last week or so. I hope it doesn't slow anything down. But Bhutan is in the bag, the reason we've not announced the 
+amount is because it's a bit of a moving number.  
+In the world of compliance while the core application for receiving the data, I can tell you what that cause. There is 
+the level of integration and other things that actually go with the back end, where it's difficult to estimate costs right 
+at the beginning itself. So, will actually make a trip to Bhutan in the next couple of weeks unless the country 
+shutdown which I don't think will happen, where we will have a better understanding as to what the value of the 
+project will be. If I give you a range you will basically come back and tell me, why are you giving me a range so 
+management will not give you a range at this point in time. But we will hopefully have something in place soon in 
+terms of what the value of Bhutan will be. And if you remember not just the last call, in the previous call I said we 
+have about four different bids which we have actually put in place. So, basically, I said Bhutan is in the bag and other 
+countries are yet to make up their minds. We are hoping it'll happen soon. We expect some traction to happen by 
+March end but your guess is as good as mine because the whole regulatory compliance platform business depends on 
+not only the whims and fancies of the regulator but also the ability to get funding.  
+So, the Bhutan project is funded partly by the World Bank and by the Bhutanese government. From what I know it's 
+60% funded by the World Bank and 40% by the Bhutanese government. So, I think the 60% World Bank thing is 
+they have already tied up. The larger thing is what they need to tie up internally. But Bhutan also depends on India 
+for a lot of these things. So, it's quite possible that India might jump in, I have no idea at this point in time, I will 
+have more to offer in the days ahead. The value of the Bhutan contract will not be very different from any other 
+regulatory implementations in a significant fashion. But having said that, the system integration partners go along 
+with is where the variability is.  
+What we also want to do today is to basically show you a couple of products that we have launched recently, each of 
+which could actually be very useful to you in terms of XBRL data consumption. Some of you may be aware that 
+SEBI is now looking at expanding the scope of XBRL compliance, more and more. Already the ESG reports are 
+being submitted in XBRL. So, all of these things open up more opportunities for us in the Create part of our business 
+the first part of the business is the Collect part, which is where the Bhutan thing comes in. The Create part is where 
+the new opportunities will come on account of filling mandates. The filing mandate in Europe in terms of additional 
+security, Anu will talk about it. There was also an XBRL Asia conference that was held in Bombay recently where 
+most of the participants turned out to be our clients, which is very good for us. Therefore, we will flex our muscles in 
+front of the international XBRL community, which again something also Anu will talk about. So, Anu will share 
+with us two things, one is what is happening with the FERC next phase mandate and also the carry with XBRL 
+conference that happened in Bombay recently, if you could do both then will be grateful 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 3 of 18 
+Anuradha: 
+Okay, great. So I start with the FERC overall mandate. So, this is actually applicable to all energy companies. Phase 
+one of the mandate started last year, and close to 800 companies had to comply with this mandate. Phase two of the 
+mandate what we hear is as close to 3000 entities will have to comply with the XBRL reporting. And I had kind of 
+visit US 2-3 months before, so I also got the opportunity to meet with the representative who's responsible for XBRL 
+implementation at the FERC, which is the energy regulator. So as per him, there could be more guidelines which 
+would come in early 2023 around that mandate. So that's more like informal communication that we got, but we are 
+hoping that there'll be more official communication coming from the FERC early next year. 
+S Swaminathan: 
+So, when do you see that mandate kicking off? 
+Anuradha: 
+So that information they haven't kind of clearly given any dates or timeframe. Usually what happens is once the 
+mandate is announced, there are various steps right once the regulator announces a mandate there is a taxonomy that 
+needs to be released, and the taxonomy goes through various iterations and stuff like that, software's have to be kind 
+of developed. So, I think overall from when the mandate is announced, maybe 1-1.5 years or two years is the 
+timeframe from when the mandate rollout kicks in. So, as per this conversation, if you're even expecting something, 
+let's say by the second quarter of next year, I think that itself will be a good next rollout for this broader scope of 
+reporting and that more entities will be covered under this. 
+S Swaminathan: 
+So just you're aware, the FERC phase two reporting, we have not factored in our internal revenue budgets going 
+forward. The internal revenue budgets going forward we have seen growth come largely from iFile implementations 
+that's the Collect implementation in different parts of the world. So, the FERC thing if it happened sooner will 
+actually be a positive surprise for us. As opposed to it being postponed, which will be neutral, it doesn't matter 
+because already everything is been factored into the numbers at this point in time. Anu go on. 
+Anuradha: 
+So, that wasn't the FERC overall rollout and separately if you see in the US, there's also a big reporting, which is 
+called the climate reporting, which is going to kind of come up. So, they also we kind of seeing that SEC will kind of 
+start making announcements, maybe next year, so those are kind of very early stages. But what we're kind of 
+anticipating is this FERC will be one very important opportunity that has come up. So secondly, this was at the 
+overall XBRL Asia roundtable conference, which was held in Mumbai. This was again last month. So, this is 
+primarily a regulatory event where a different regulator from Asia had kind of participated and this is an opportunity 
+for regulators and agencies who want to implement XBRL as a standard is kind of present. So, this conference was 
+kind of very well attended and there were representatives from RBI, SEBI, NSC and you know, various exchanges 
+and Central Bank so on and so forth. One very interesting topic in the event is, of course, there were presentations 
+from different regulators. there were close to 5-6 regulators that were kind of invited to kind of present. There was, 
+for example, a Securities Commission from Malaysia, there was a Jordan Securities Commission, there was Oman 
+Capital Markets Authority, Taiwan Stock Exchange, and RBI who were invited to present at this event, sort of these 
+five regulators if you see, companies commission from Malaysia, Jordan, Oman and RBI all the four speakers who 
+were kind of presenting the role of XBRL and how XBRL has helped them improve the overall supervisory role as a 
+regulator, it was kind of very polished. Some of the presenters also did have IRIS name in their presentations for 
+example, the Principal Advisor at RBI when he gave his presentation, so he did kind of mention how IRIS has 
+overall helped to improve the whole banking supervisory system in India. He was speaking also of NPAs and stuff 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 4 of 18 
+like that, and also early fraud, fraud detection and stuff like that. So, he did kind of also take our name in the 
+speaking slot, which he kind of presented which is very nice to hear by the way. So, similarly the presenter also from 
+Oman, Jordan, and Malaysia that kind of mentioned our name in the presentations, which is kind of very encouraging 
+to see. And, of course, they were presenters, like, for example, Taiwan Stock Exchange, so there in Taiwan we did 
+not do the implementation, but they were trying to kind of say, how that implementation has gone in their country 
+and now where they are also kind of looking for more improvements in the way they've kind of implemented. They 
+also want to move to this new reporting requirement, which is like IXBRL most of the regulators have adopted 
+XBRL but the next generation or the improved avtar of XBRL what is called as IXBRL, so countries like Taiwan are 
+also kind of considering to adopt IXBRL at some point in time, so they were kind of explaining their own challenges 
+in implementing and stuff like that. So, it was a very well attended event and it was very nice to see that out of five 
+speakers, 4 speakers were our customers on the regulatory division.  
+S Swaminathan: 
+So, what this does is the following. One of the consequences of this event that happened here is that neighbouring 
+countries and other Asian countries, we're keeping an eye on it. Many of them actually participated virtually in the 
+conference, and it nudges them in the direction that we would like them to go. So, we actually expect at least one or 
+two of these countries to start on their XBRL preparation going forward and very quickly. I think that's the big 
+purpose that events like this will actually serve. Secondly, when 4 out of 5 regulators come and talk about IRIS I 
+think that's a huge endorsement that also gives comfort to people. And on the sidelines at least 2-3 of the regulators 
+who actually invited us to come to their countries and basically see what more we can actually do. There's a thing 
+that we keep discussing internally, although we have hit 50 countries, by the way, we have hit 50 countries as of now 
+with Bhutan coming in. So, with 50 countries what's happening with either regulators or enterprises, we don't really 
+need to add to any more countries, though I secretly still has an aspiration of covering as many countries as possible. 
+The fact that we have these countries if we just deepen our presence in these countries that's enough for us to grow 
+quite literally and that's certainly an extremely important element of our strategy going forward. So, these 
+conferences where 4 out 0f 5 regulators stand up and say, we work with IRIS become a huge endorsement and a 
+source of comfort for each of them, wanting them to do what creates a situation where they want to do more with us. 
+And everybody from these countries, when they actually come here and receive a local simulator like RBI also 
+working with us. They basically are very satisfied, so that's the basic carry away with XBRL Asia as far as the Asia 
+Conference is concerned.  
+One of the consequences of that is some of you might be maybe aware that I talked about the CAG report, where 
+CAG had talked about data standards. So many state governments in India have taken heed of the CAG report, and 
+have started talking about data standards themselves. So won't be long before Indian states also move in the direction 
+of data standards. On the chat box, I posted a link of a document that's been put out by the Tamil Nadu government. 
+If you look at the document, Tamil Nadu government actually talks about XBRL being an optional adoption by 
+various departments of the state government in Tamil Nadu and it won't be long before it becomes mandatory. At the 
+first step when something new happens, it's the recognition in the second step, people start adopting it. So, I think 
+you can safely say that all the 29 states in the country will be paying heed to these things, and will actually be taking 
+it forward at their own pace. So, we're quite happy with the progress on this front.  
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 5 of 18 
+So that's where we are. I'm happy to shut up and take any questions that you have. We also have the Divakar here 
+from my office who can show you one of the big problems in XBRL filing in India is that nobody's using the data. 
+So, we have tools that we have created, which allow people to use the data time permit will ask Divakar to do a demo 
+and I would strongly urge you to start using it, it's free. We will start pricing it much later but in the meanwhile, if 
+there are questions happy to take them and download that link, it is in the chat box, please click on it and download 
+the link and take a look at it. 
+Siddesh Chawan: 
+Hi Vikas, please unmute yourself and go ahead.  
+Vikas Kasturi: 
+Hello Sir, couple of questions. One is could you please speak a little more if you have made any progress in terms of 
+the GST invoice filing and the second question was about your filing the press release that you made regarding your 
+tie up with Microsoft. Could you please speak a little bit more about these two? Thank you. 
+S Swaminathan: 
+Basically, the Microsoft thing means that our product is available through Office 365, it's nothing more than that. It's 
+not some major tie up with Microsoft. Every software company wants its partner ecosystem to basically work with 
+its own products to make them available. The number of people globally using Microsoft products is huge and I think 
+it works to our advantage. I would not read too much into it in terms of recognition and whatever, it is almost 
+hygiene factors. I am presuming you are referring to this cost management system and office 365 integration, Anu 
+you want to talk about 
+Anuradha: 
+Yes, I can speak about it. So far, if you see overall, at least on the IRIS Carbon business line what we have been kind 
+of doing is we are going after geographies and mandates where XBRL reporting is being introduced so that has been 
+our focus so far. So, what we want to kind of do is while XBRL comes in the last leg of the reporting, we want to 
+kind of get into the working process of the compliance reporting team, which is of course the preparation of Annual 
+Reports and going forward ESG is also a very hot topic, which is kind of coming up. So, with this overall office 365 
+integration with IRIS Carbon, we've got two opportunities here, one is for the existing customer were we have a 
+customer base already. We are in a nice position to go ahead and speak to the same CFOs office and have a selling 
+opportunity which means it's like a backward integration, you're going to work on the reports and stuff like that. So 
+that is one opportunity with our existing customers. The second thing is, of course, this also is going to help us go 
+beyond an XBRL mandate because the XBRL mandate is not in our control, there are so many factors which come in 
+like politics and also the interest of the regulator and stuff like that. However, what we feel is this, there is a genuine 
+need for compliance reporting, SAS solutions and a lot of companies right now prepare annual reports, quarterly 
+reports, and all sorts of reports in a very manual way. So, without SAS offering, we think we will also be able to go 
+after companies where there's a need for a solution like this and it is not XBRL dependent, it's not mandated 
+dependent. So that's like another area where we think there is potential. 
+S Swaminathan: 
+Also, we want to add a hygiene factor because many companies prepare their annual reports at the final stage using 
+Microsoft Office or one of its components. Therefore, it's imperative that they are on it to be able to ensure we don't 
+lose customers by not being on it. So, I would urge you not to look at it as a tie up with Microsoft, I shudder to use 
+that word. Understand that as a company, we are very conservative in terms of the way we say things. We disclose 
+these things in the market, not because we have a reason but we need to disclose it. So, we need to disclose these 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 6 of 18 
+things when they happen and we will disclose it and we will keep disclosing it. But as I said it's not a tie up in that 
+sense, it's allowing the product to be available on Microsoft platforms. It's available today because many people who 
+want to do backward integration and there are adjacent products that will be keep launching for which working with 
+Microsoft becomes very important and that's a way to look at it. As far as GST is concerned, the big churn we think 
+will happen once the e-invoice mandate is launched. We are still waiting for it to be launched. There have been some 
+hiccups on the government side but I think it's going to be under control. So, some churn is started happening, there 
+are no precise numbers. I think they will get more clarity by the end of the year in terms of where we are headed. So, 
+we are all waiting for the e-invoice mandate to kick in and that's really going be the next big driver of churn in the 
+market and that we think will start happening around January 1. 
+Vikas Kasturi: 
+Regarding Microsoft, I don't know what the correct word is maybe a partnership. So, I think wouldn't it be like you 
+are trying to say it's not such a big deal, but I would say it's a big feather in your cap because it signals something 
+that a large company is willing to partner with us and offer our product in conjunction with Office 365. So, I thought 
+it was something really big.  
+S Swaminathan: 
+Vikas, if you wrote a letter using Microsoft Word, are you using Microsoft Word to write a letter? Microsoft is not 
+going to be so proud that you use the product and that you wrote the letter using Microsoft Word. Similarly, if 
+tomorrow, for example, Tushar puts up a research report using Microsoft Word, they will not be very proud of it. The 
+point I am making, I am not saying it cannot be a big deal. If we are not in Microsoft, we stand the risk of losing 
+some business. By being in Microsoft, we're able to defend our term much better. It's also possible that they can grab 
+new business because of that, but I don't see that as being a huge big driver. I see this more as a hygiene factor than 
+anything else at this point in time. I see this more as a necessity than anything else at this point in time. It's not a 
+conscious strategy and it's not a partnership. So, there is no corporate agreement between us and Microsoft to be able 
+to work in office 365. If you're going to be offering solutions in the cloud, you will necessarily be working with 
+software also on the cloud and that's where things like this become very important. You will see many more products 
+coming up from us and from other people on such cloud-based platforms. See anybody can develop a product on 
+Office 365, I don’t think Microsoft has any objections because ultimately as far as Microsoft is concerned, they will 
+be able to sell new licenses out of them and they are doing that. So, I'm not saying dismissive, but I'm also saying 
+don't read too much into it. 
+Vikas Kasturi: 
+Sir, could I ask you a more like a product feature kind of question. So, this sort of partnership with Microsoft three 
+office 365. Does it allow them to sort of create the XBRL report in  Excel very quickly? So, the whole between the 
+IRIS carbon and Excel is that does it work more smoothly with this tie-up? Is there some product-level feature like 
+that? 
+Anuradha: 
+Okay, let me kind of explain how this works. So, the overall XBRL of course, it's like an open-source standard. 
+Overall, IRIS Carbon what we have kind of done is we have kind of gone ahead and use that standard in the whole 
+activity of what we call tagging. The tagging, review, and validation of all of those are modules inside IRIS Carbon 
+that we have built. So, all of that is Iris IP, so overall if you see integration with Office 365, what it allows is, for 
+example, it is not that it will allow a user to go ahead and do the tagging, that is not something which exists now but 
+the tagging is a model that we have brought in IRIS Carbon and that is proprietary to IRIS. So, in the Excel file, what 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 7 of 18 
+happens is usually when compliance teams prepare reports, most accountants and financials have Excel as the base 
+for all the numbers and it's like a data repository for numbers for financial tables and stuff like that. So, what happens 
+is with this overall integration is the ease of kind of preparing reports becomes much better because otherwise, just 
+imagine if there's a 10 member team who are preparing or authoring reports, I would be working on my desktop, you 
+will be working on your desktop and there is somebody who's kind of collaborating everything and gathering. So, all 
+of that manual activity gets eliminated and everything is done online, which means everybody is working on one 
+centralized document. And of course, this serves as a centralized spreadsheet which is linked to the word that's 
+another very important thing and your tags are embedded on IRIS Carbon, which means whenever a number changes 
+it can really smoothly be done on the Excel file, all the number of updates will flow directly into the Word and 
+finally to IRIS Carbon and whenever there is a number updates the XBRL tagging also gets retained. So, the XBRL 
+modules are not there in Excel or Word, the external modules are there in IRIS Carbon. Does that make sense? 
+Vikas Kasturi: 
+Yes, sure. So, my question is more of a very long-term kind of thing. 5 years or 10 years from now, what is the game 
+plan in your mind? Are you going to bring in professional management or something like that after the founders take 
+a backseat to what is the game plan there, if you could just you can just give me a high-level thought process? I'm not 
+looking for specific answers here.  
+ 
+I meant if you're gonna hire a CEO to run, not now say 10 years from now. Do you have plans of hiring the CEO 
+where the promoters take a more board-level kind of seat is that the thought process? What is the thing here, is my 
+question. 
+S Swaminathan: 
+When I asked Anu to be on a call, I said there are investors who would like me to step down and for people others to 
+take over. So, Anu see people want me to step down and others to take over, and that’s started. So, Anu, that's why I 
+wanted you to be on the call. See ultimately, everybody has an expiry date, I have an expiry date, and every founder 
+in the company has an expiry date. I am 60, Deepta is a few years younger, Balu is a year younger and we all have an 
+expiry date. So, what we need to do is we need to have a company in place that people should want to join. See, for 
+example, very few shareholders for a while know that I have not taken a salary for a long time, I have started taking a 
+salary. So, the company is getting stronger and today the company is financially much stronger than it ever was 
+before but to be able to attract good people you need to have a much stronger company. I am not saying that it's all 
+well settled and only then people will come. People will join a train that's accelerating and going faster. So, I think 
+the challenge for us is to show people that these things are possible. We are putting in place the runway for takeoff 
+and hopefully, we will take off and not crash. I think we had enough crashes, we have had so much bad karma over 
+the last 12 years and it’s time for some good karma to take over. So, we're hoping for that. So obviously I don't think 
+any of us expect to be here forever, we are first-generation entrepreneurs Deepta, Balu and I. And we all are 
+extremely mindful of the fact that we have an expiry date and therefore it's important for us to get the right team in 
+place, which is also why we keep inviting colleagues of ours to come and participate in this call so that they can get 
+the exposure that needed. Vineet is an outstanding colleague, Anu is an outstanding colleague, Divakar is more 
+recent, so I will not use any hyperbole or I will not use anything to describe what he does because he asked for a 
+higher increment next year. So, we are mindful of this and we are putting in place the systems for that to happen. 
+You said 10 years, I don't think I last in this company for 10 years, as of now I am giving myself 5 years in this 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 8 of 18 
+company, after which somebody needs to take over. Who will be at this point have no clue, it’s the question that we 
+keep asking ourselves. We have a solid next level of management. We have people like Anu who are extremely good 
+and we have several others who are extremely good. So, our ideal situation will be to find somebody from within and 
+if nobody from within is able to step up then we will look for somebody from outside. It's a complicated business, 
+just hiring somebody who has domain knowledge is not going to happen, it's not that simple. So, we need to find 
+somebody and that's what we are going to do.  
+Vikas Kasturi: 
+Alright Sir. Thank you very much.  
+Siddesh Chawan: 
+Karl Karkana. Please go ahead. 
+Karl Karkana: 
+Hi Sir, one of the things which I wanted to know I guess pertains more to the Create segment is what are the key 
+factors that make a prospective client select a particular SaaS platform? And who exactly is the main influencer? I 
+mean, when you're marketing your product, you have to convince the compliance officer, is it the CEO of the 
+company or is it that the regulators such as the RBI or the SEC give a diktat to all the regulating entities that these are 
+some of the platforms that are accepted for the entity to report? 
+S Swaminathan: 
+Karl it is a fantastic question. And it's a question that we keep grappling with all the time. And it's not one approach 
+that moves the mandate. It's not one approach that will help and it’s not one shoe that fits all sizes. Now the nature of 
+the compliance market is such that you need to be able to be seen by the person who's going to use your product. So 
+very often calling on makes a huge difference. So, Anu has travelled extensively across Europe, meeting across the 
+section of companies and persuading them to come and take our product. If you're selling a product worth anything 
+from say $5,000 to $10,000, making a trip to Europe to get even one or two customers is actually worthwhile 
+because of the Indian cost structure because these are SaaS offerings, and the customer stays with you for a long 
+time, that's one part. The second reason why a certain company comes to you is that other companies in the same 
+country have come to you. You know, I can never overstate my gratitude to a Belgian company called Colruyt, 
+which is the first to sign up with us. The moment Colruyt signed up with as many companies in Europe started 
+signing up with us. The endorsement that we got from Colruyt was absolutely deafening and I think Anu can talk 
+about it. There are several such marquee customers that I can talk about in every country in which we actually 
+operate. So, we spent a lot of time trying to identify these marquee companies, going and meeting them and telling 
+them how good we are. The third thing that's very important, is the fact that we are visible on the internet. See 
+ultimately in the world of compliance like in the world of medicine, we don't pick a doctor on the basis of just on the 
+basis of who is end one use, it’s on the basis of pricing. You don't have comfort in the doctor's ability to deliver. So 
+in the case of compliance, you will have comfort in the ability of the company you can work with to deliver your 
+compliance solutions. So, the fact that we work with regulators in so many countries, the fact that we work with RBI, 
+the fact that we work with Singapore, I think all of us in India need to be proud that we have a great regulator and 
+RBI. We don't realize the amount of respect that RBI commands globally. So, when you say you work with RBI, and 
+the banking system actually works with you I think it's a tremendous source of comfort for many millions of people 
+across the world. Price also makes a difference, but we are not at the lowest cost, there are people significantly lower 
+in terms of costs. And to answer the question that you asked about working with regulators. Yes, working with the 
+regulator, as we do in South Africa, India and a few other countries makes a difference, but you can't TomTom it and 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 9 of 18 
+you can't say I am the teacher Son, therefore, I have the question paper, it doesn't work like that. So I think we need 
+to be very careful, especially in the countries where we work with regulators, not to use that to gain customers. It's a 
+completely different process. I will not say that we have not gained customers because people have seen that also, 
+but to what extent that happens I don't think it's very significant. Anu you want to share with us how you pitch when 
+you go and call on customers in Europe, for example, or your US. And one last thing, I think a partner network we 
+are extremely grateful to I mean, our partner network has stood by us too thick and thin. Many people keep telling us 
+why we just use the partner's stuff to acquire a customer for a year and then get out. We don't do that, we want to 
+work with partners, we want to work with partners in the short term and long term. And I think the partners have 
+delivered absolutely good customers to us. So, it's also a question of choosing the right kind of partners that we need. 
+So, Anu, you can share with us the approach that you have taken when you have gone to Europe and US, 
+Anuradha: 
+The whole European mandate was supposed to start in 2020. So, I think Europe was one of the countries that started 
+off much earlier like in 2019 and stuff like that. So, I think it all comes through a lot of things, of course, we need to 
+have good product sales, and marketing, all of that matters a lot. But I think in Europe, what really helped us get the 
+initial customers was our overall experience in the thought leadership that we have shown in this space. So, for 
+example, we write a lot of materials on the latest topics for example ASAP mandate. So, we got the first inquiry 
+through a website by a company called Colruyt, which is the number one retail company in Belgium. So, they had 
+kind of reached out to us and of course, they had an IT division in India. So, the CFO's office from Belgium came 
+and that's how we went and met with them and presented our solution. And this was like almost in like 2018, as early 
+as 2018 actually. There were a series of presentations, and they kind of really liked the offering. They signed up with 
+us and then even before it was 2 years for the mandate to kick start off, they wanted to do a voluntary IXBRL, like a 
+dry run. So, they were one of the very early companies in the whole of Europe to adopt IXBRL and we requested 
+things like testimonials and stuff like that because they're kind of very happy and they did kind of give us a very 
+good testimonial overall around the entire offering. And with that one testimonial and of course, that is where I will 
+need to kind of connect with Deloitte. So, one of the Deloitte Belgian people was at Colruyt and they were one of the 
+consultants for Colruyt. So, through that Colruyt engagement, we got Deloitte Belgium and through Deloitte 
+Belgium, they wouldn't kind of sign up with anybody being like a big 4. So, they kind of started recommending, 
+there was kind of events that they kind of started hosting, so that's how we got invited. This was again like in 2019 
+and 2020, we got invited to participate in a lot of events. And because of Colruyt, we got a lot of Belgium area. And 
+similarly, if you see other examples we also got our early partners by the way from Belgium itself. So that gave us 
+very good momentum to kick start off. And similarly, if you see Italy is also another geography where we work with 
+Deloitte, Deloitte uses our products in 2014 for the Italian XBRL mandate and similarly, we started forming our sales 
+in 2019 for the Europe region, because we did see an opportunity coming up. So, another interesting customer that 
+we kind of signed up for, was a company called ENI, which is actually Italy's one of the largest energy companies, 
+they are into the petroleum industry. So, for them also, they were already working with another vendor for the US 
+SEC reporting and the European reporting was needed for them. So, I am not a salesperson, to be very honest. So, I 
+come with the XBRL background, I know carbon so I think our conversations were more like consultative, I would 
+say selling let's put it that way. So, I think they like the whole approach that we know our stuff and they decided 
+okay fine, we will sign up with you for the ease of reporting. So, 2 years ago, and this is going to be the third year 
+with them this year, they also decided to sign up with us for the US SEC reporting. So, they were working with one 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 10 of 18 
+of the very large players, other vendors for the SEC reporting and seeing how we kind of how the product is and the 
+overall experience that they have, they will also sign up for the SEC reporting this year. So similarly, we signed up 
+some very good partners. For example, Slovenia is a small country, but we signed up with a partner called ADD and 
+the through that partner we managed to get close to 90% of the market share in that particular country. So, being in 
+India and for example, our competitors like there's a company called Parseport, they had a very large sales team. So, 
+in each country they had a salesperson, if you see a minimum they would have 25-30 people and if you see from our 
+side, we had only 3-4 salespeople here and that too they were from India. It was much later that we had one 
+colleague in Spain. So, with a 3-4 member sales team here, I think we have managed to kind of get to 250-280 
+customers as of today, which I think is a good job that we have kind of done. And similarly, the US if you see the US 
+also has been a very different market  
+S Swaminathan: 
+One thing I want to add, we are also grateful for Indian embassies overseas. In many countries, we work with Indian 
+missions to try to do some local outreach. And, the government gets a very bad name very often, but I think if we can 
+actually talk to the missions overseas, and try and come up with the value proposition, they actually helped us. So 
+many companies in Europe, which went through the adverse COVID situation offered them free filing for one year, 
+and most of them convert to paying clients in subsequent years. So, I think I will also not underestimate the value 
+that accrued to us on the account of the Indian mission. I think we will go to the next question. 
+Rahul Bhansali: 
+Yeah, thank you, Sir. So, I wanted to ask about phase two of the FERC. So, I believe that in phase I, we had 
+partnered with someone and then I think that partnership has stopped post phase I. So, do we plan to go by ourselves 
+for phase II, or have we partnered with somebody else? 
+S Swaminathan: 
+As of now we going on our own, but if you find a suitable partner, we're open to it. Our partner in phase I has 
+launched their own product as well. So, there is something that I want to share with you. It's something I keep saying 
+to my colleagues internally. One big lesson for us, now that doesn't really change our behaviour towards our partners. 
+One big lesson for us is that choosing your partners is very important, choosing a partner carefully is very important. 
+Partner authorizations in terms of their own growth, we have to be mindful of that. And very often, there will be who 
+to talk about who your competitors are, I think who your partners are is also an extremely important question that we 
+keep asking ourselves and we are mindful of the aspirations of our partners in every market. So, in Phase II will go 
+on our own and as of now, yes if we find a suitable partner we will go with them, the answer is yes. Are we looking 
+for one? Well, we keep our eyes and ears open because our entire growth strategy in every market so far has been on 
+the back of our strong partners. 
+Rahul Bhansali: 
+Got it, thank you. And how big would this opportunity be for us in terms of how much would be the average 
+realisation for these kinds of deals and what kind of share are we looking to get for the FERC phase II? 
+S Swaminathan: 
+So, the per unit realisation in phase II will be much less than phase I, because they're smaller companies and 
+therefore the per unit realisation is gonna be much less. I think our realization will depend on whether we work with 
+a partner or not work with a partner. We also have to see the complexity of the taxonomy that comes out in terms of 
+the complexity of the filing that needs to be done. So, I think it's still too early to figure out a price point for that 
+activity. The moment we have clarity, we'll share that with you.  
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 11 of 18 
+Rahul Bhansali: 
+Okay. Sure. So, one question I had was on the recurring sales, so we are right now at around 50 crore of recurring 
+revenues. So, what kind of cost do we actually incur for the recurring part of the sales? So, I just wanted to 
+understand what kind of profit can we get just from that part of our sales? 
+S Swaminathan: 
+Again, it's a fantastic question. The cost of retaining a customer has two parts to it. One is the cash cost in terms of 
+engagement, that's more of a time cost in terms of people engaging with them and so on and so forth. There is no 
+additional cost except product gradation needs to be done anyway. So very often, in any company often people get 
+transferred up, new people need to be trained, and that's a cost that we need to be incurred. So, I think generally 
+speaking the more and more the customers will do things on their own. See in year one, in most mandates a lot of 
+hand-holding happens a lot of white blood is given to customers. But the more and more the customer can handle 
+things on their own as it is begun to happen in many markets, the greater the margins that recruit you. I think it varies 
+from customer to customer and we are completely mindful of that, so we have an internal system that keeps track of 
+P&L for each customer. So, for each customer, the numbers are very different. 
+Rahul Bhansali: 
+Okay, because for some of the companies in the SaaS space, their recurring revenues may earn as much as you know, 
+60-70-75% gross margin, so are we looking at that kind of a percentage? I mean, if you can just give some figures it 
+would be quite helpful. 
+S Swaminathan: 
+Sure, please note that one of the problems today with IRIS is that we have a complicated business with three 
+different divisions, and therefore the play of one division eats into the margins of another division quite literally. So, 
+when you aggregate over the company, you actually get various numbers. But if you go product by product in terms 
+of pure SaaS offerings, the numbers will not be very different from the kinds of numbers that you just talked about. 
+So, it's really also a function of at what stage of usage the customers are. So, we are one of the customer's uses the 
+product that does a lot of help component, service components. In year 2 we want to come down, in year 3 we want 
+to eliminate it completely. So, it's really over time the margins keep improving as the customer takes the product in-
+house. 
+Rahul Bhansali: 
+Got it. Thank you so much.  
+Saket Kapoor: 
+Thank you for the opportunity. Sir firstly in terms of doing business with the Reserve Bank, what kind of revenue 
+have we posted for the last year and what are the terms of the contract with the XBRL filings? 
+S Swaminathan: 
+Vineet you wanted the question. 
+Vineet Kandoi: 
+Hi Saket, this is Vineet. So, are you only asking about the revenue from RBI?  
+Saket Kapoor:  
+The business we need with RBI. I have knowledge about XBRL. 
+Vineet Kandoi: 
+Over the last two years from the XBRL project which we are implementing, we would have recognized around 10 
+crores over the last two years. 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 12 of 18 
+Saket Kapoor:  
+And what are the terms of the contract, for how many years have we signed it and every year what kind of revenue? 
+S Swaminathan: 
+RBI has been from 2008 onwards and they are not going anywhere. These are all long-term contracts. See we should 
+recognize one thing when you work with the regulator if you make a mistake the regulator throw you out. So even if 
+you have a 20 years contract with the regulator always has the finger on the button to the exit gate to throw you out at 
+any point in time. So, it's up to you to ensure that we don't make any mistakes and so on and so forth. Every regulator 
+that we work with, whether it be in Singapore or RBI, or any of the markets they have been with us from day one. 
+There are markets like Thailand where we did not scale beyond a certain time because our local partner took and ran 
+with it. So, there are situations like that, but regulators like Singapore's Accra, RBI in India, and several others have 
+stayed with us since the beginning and will continue to stay with us unless we screw up, which we hope we never do. 
+They keep getting renewed every time so often. 
+Saket Kapoor:  
+Okay, so just to take into account the pie of business that we can garner specifically from the regulator like RBI. 
+What is the scope of work or the size of the pie going ahead in terms of only pertaining to XBRL or further 
+initiatives also, which I think the Reserve Bank currently is working INDS with NBFC migration, which they have 
+been sending emails all across getting details from the NBFCs in terms of whether the same are filing, they're 
+submitting their accounts in INDS format or not? So are we working with RBI on that project also? I just wanted to 
+understand what is the total business opportunity from RBI in particular so on an annual basis, yeah. 
+S Swaminathan: 
+So, one of the challenges that companies like us have is the challenge to say no to any business that actually comes to 
+us. We define our business quite narrowly. You basically say that we are in the business of providing regulatory 
+filing solutions. that's what we do. We are not a software services company and we don't do bespoke software 
+projects. Unfortunately, in any regulatory implementation, some amount of system integration is inevitable and to the 
+extent, that ends up being a software project. So, while RBI is a huge opportunity from an IT industry point of view, 
+we have focused completely and narrowly on the regulatory compliance solution for RBI, which is where our eyes 
+are. Do we see any significant growth in that going forward, the answer is no. We will continue to maintain it. 
+Therefore, the routine tenders will keep coming and even in this current phase where there is a huge overhaul, the 
+hardware and all that stuff, we are actually working with TCS who actually have the large share of the contract to 
+make this happen. So are we interested in doing other things with RBI, as a matter of policy we don't want to stray 
+outside the area of our core competence. When it comes to bespoke software development, there are many great 
+companies in the country that are able to do these things. We are not in that space at all, we don't run a bench, and we 
+don't have people who will be able to work cross-technologies. We are a RegTech regulatory software provider, and 
+that's where we will continue to stay focused on, we will not do anything else. 
+Saket Kapoor:  
+In terms of that, are we looking for any work from CPC or the Income Tax department in terms of coming out with 
+simpler forms for ITRs synchronizing of data all that stock which are in the annual? So are we working with any of 
+them going ahead in terms of again that is going to be a simpler form of filings only going ahead? 
+S Swaminathan: 
+The regulator wants to move into an XBRL-based filing system. You will find this first in line waiting to do the 
+work. If a regulator simply wants a data collection platform, you will not see us there with any great degree of 
+enthusiasm. Basically, we have done it like this, if there is a demand for an iFile product, if there's a deployment 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 13 of 18 
+possibility of an iFile product, we will be there. If it's a bespoke software development project, we will not be there. 
+We are very clear about that. 
+Saket Kapoor:  
+And there's a small suggestion in terms of this filing aspect for XBRL for the RBI part. There is an aspect of a lot of 
+NBFCs are facing is the filing of Nil returns. So, if we could implement some executable files wherein the Nil 
+returns can be filed, that ease, the hassle of filing again and again for every quarter. There is one of this foreign, I 
+think so forms 13 if I am not wrong, wherein people having exposure to foreign exchange are to file and other 
+NBFCs are to file an annual return again in the XBRL format. So, if an EXE executable file could be created so that 
+we give a declaration for the entire year or for the period gone by that would suffice a lot of hazards that we have to 
+do for every quarter. So, if you could suggest some ways by which that filing part can be looked into? So that's a 
+quarterly basis wherein 90% of the small, medium-sized NBFCs are affected. So if you could look into that aspect, 
+that is the request from my side.  
+S Swaminathan: 
+So valuable suggestion. I will pass it on to my colleagues who deal with RBI and products that go into serving the 
+RBI ecosystem. So, thank you for your valuable position. 
+Saket Kapoor:  
+Thank you, Sir.  
+S Swaminathan: 
+So, in the 10 minutes that remains, I will get my colleague Divakar to share his screen and show each of you how 
+you can actually consume experience data. Divakar go ahead 
+Divakar Iyer: 
+Hi, everyone. I am just sharing my screen now. So first, I will take you to the web-based browser tool. 
+S Swaminathan:  
+So, just the background is the following, today 5000 companies are submitting data to BSE NSE in XBRL. 32,000 
+companies are filing with ROC in XBRL, the data is not being consumed. Because nobody knows how to use the 
+data. We have created a very simple tool by just dragging and dropping the annual report of a company to this tool, 
+that XBRL file will automatically get converted into an Excel file. That's what Divakar is going to show you with 
+this tool at this point in time. Divakar do on 
+Divakar Iyer: 
+I have just logged in. So, we will pick an NTPC company from NSE.  
+S Swaminathan:  
+So what is going to do is to download the NTPC file and drop it into this application. So, this URL is 
+www.xbrl.iriscarbon.com for any company filing in XBRL please feel free to go and use this to create an Excel file 
+from the XBRL file. It comes with XBRL tags if you want to consume it into your proprietary model. you can do that 
+automatically. So, the Excel file, generated from the XBRL filing of NTPC is now available for you. The tag used 
+the XBRL tags with a one-time mapping you can have labels correspond to the label that you are used to, it's that 
+simple. So, this tool can be used by you for any XBRL file or any IXBRL file of any country anywhere in the world. 
+So, if you want to compare an Indian company with some other company, you can't compare using this because the 
+taxonomies are different for that there is a different tool we will show you. But if you just want to download the 
+XBRL file of the company anywhere in the world, you can use this tool. So Divakar just types the URL in the chat 
+box. So please use this to download into Excel, the XBRL file of any company anywhere in the world., it's that 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 14 of 18 
+simple to do, of course, and it’s taken a lot of investment from our side to make it happen. And it's a tool that we're 
+offering across the country to everybody who wants to use it. The second thing Divakar will show is the Excel base 
+tool in office 365 which allows you to compare companies. So, Divakar over to you to show them the companies. 
+Divakar Iyer presented his screen and showed the entire process of comparing companies using the URL posted in the chatbox (Compared 
+NTPC with Tata Motors). 
+S Swaminathan:  
+So, the way this actually works is you have to download the little app from the Office Store, which will get installed 
+in your Excel sheet as an add-in. And once you have the add-in, you can compare any company with any company 
+that you want to. I would recommend that you first check the taxonomies are harmonized and normalized for it to 
+make a meaningful comparison otherwise the data will not flow. Now what we are doing is normalizing it and 
+harmonising the across the world, which is not an easy task but that's what we're working on right now. But for the 
+first tool, please start using it to download data. Divakar thank you very much. Just post on the chat box, a little 
+instruction on how people can get this data so people actually can start using it. If there are no other questions we 
+will close for the day. 
+VP Rajesh: 
+So, I just had a couple of questions more on the business side. What sort of the pipeline looking especially in the US, 
+and if you can also talk about the competitive landscape over there given all the turmoil we have out in the US 
+economy, that's really trying to just understand. 
+S Swaminathan:  
+So there is no material change from when we met last time after the half-year results as far as our outlook is 
+concerned, except for the fact that we have won the Bhutan mandate and as far as a most thing is concerned, 
+compliance is something that nobody can actually escape. Therefore, there will be no significant or even insignificant 
+changes in the timelines of implementation or rollouts of mandates that are already in the pipeline. I don't know to 
+what extent the FERC mandate is getting delayed because of COVID in America, I don't think it is. I think it's more 
+of the preparedness of the companies as opposed to anything else, though we will verify, there's been nothing 
+significant to report as far as changes in the outlook are concerned between the time we met in the half year and now, 
+except as I mentioned you for the Bhutan mandate which we actually won about a week ago. 
+VP Rajesh: 
+In terms of the competitive intensity, how are the other companies which are which we have talked about in the past 
+because of either balance sheet issues or the sort of funding drive drying up, especially for the private competitors 
+any colour on that side? 
+S Swaminathan:  
+So, globally for example, when you take a look at Workiva is going from strength to strength and doing extremely 
+well. And if you see their numbers, they are very powerful ahead. And they are the company that is the benchmark. 
+Compare to them, Workiva is the market leader and they don’t have funding issues of any kind they have a war 
+chest, which is they can decimate everybody. They actually took over Parseport, which is a company in Europe and 
+they've added a significant cloud to it but that's in a way good for us because by taking over Parseport, they actually 
+rationally ratcheted up the price to be able to increase the revenues. So the pricing pressure they brought is of 
+different kinds altogether. In India for example, the GST thing we expect some traction to happen after the e-invoice 
+mandate goes live, we see a churn happening. We see at least one or two of our competitors in the space, who are 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 15 of 18 
+currently paying the price for not being able to differentiate between the balance sheet and the P&L. But as I said, 
+globally, I think right now it's more a standstill situation. We see something happening in the new year as you know 
+the ESG mandate is kicking in from not next year to the year after that. Some of the preparations going into ESG 
+mandate. We have already got some customers like us like GAAP using our tool for the pilot filings. So, we see 
+some traction on the front. As of now, the driver we see for us is actually going to be from new regulatory 
+implementations of XBRL platforms, where we hope that we will have something good happening for us at least in 
+the four or five proposals that we have put out. One as I told you, Bhutan has come out in our favour. Others I hope it 
+comes out in our favour, some will some won't, you win some you lose some but that's where the growth driver will 
+be going forward more than the enterprise side at this point in time. 
+VP Rajesh: 
+And just lastly, I'm not asking for guidance per se but what kind of growth do you anticipate for the next 3-year 
+timeframe? 
+S Swaminathan:  
+The easy answer is I don't know. The difficult answer is it is really a function of how much cash we have to mount an 
+assault on the markets that we're talking about. So, we also have backup plans in terms of trying to attack those 
+markets without a war chest. We know how to live frugally I think the word uses cockroach we've survived. So, 
+cockroaches know how to survive and I say I am proud to be a cockroach, but that's where we are. So, if he had a lot 
+of money, I think we would approach it differently. If you don't have a lot of money we will approach it differently. 
+We are to some extent a prisoner of machine rules of the regulator. We hope some of them look at things very 
+seriously. We also believe that the G20 presidency is an opportunity for us. So, we are trying to figure out a way to 
+showcase ourselves in front of the world in everything G20, to tell the world that we can offer them solutions 
+because the fact is, out of the 200 countries in the world, only 70 are now implemented XBRL, the rest will actually 
+follow suit at a suitable time. So, we actually hope that because of G20 we will raise our visibility also the last two 
+years have compared many regulators to accelerate their plans to move to a new age regulatory filing platform. And 
+we are quite optimistic that this will give us the growth we will require going forward. I know I am not giving you a 
+number and specific answer to the question, but that's the best I can do at this point in time. 
+VP Rajesh: 
+That's fine. Thank you so much and all the best. 
+Saket Kapoor: 
+As you mentioned about the availability of funds that will define what the growth trajectory would be. So, as earlier 
+articulated by you that we were looking out for a rights issue, so what is the update on the same and anything that we 
+are presenting that you would like to share? 
+S Swaminathan:  
+So when we started working on the rights issue, I made it very clear that as promoters we have no money to 
+subscribe to it. People said you can still go ahead with it. And then the market tanked the price went down and then 
+the same people who said oh it's okay now are saying that if the promoters don't subscribe, it will send a very bad 
+signal. Therefore, you should not do a rights issue. So, our hands are tied. I think we will do what's appropriate to get 
+back to the question Rajesh ask. If we don't raise any funding we will continue to grow to 10-15-20% growth rate. If 
+we raise funds, we will do much better, if we throw up more cash we do much better. So those are all factors that will 
+actually get into the whole equation. So as of now, the rights issue is at a standstill situation nothing much is 
+happening at this point in time. 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 16 of 18 
+Tushar Sarda: 
+I am actually surprised with your answer. Raising money in this market is not very difficult. So if not rights, you can 
+you're open to preferential allotment right. 
+S Swaminathan:  
+We are but not at the current price, the way the market is. 
+Tushar Sarda: 
+Price is given in the market. If you want capital you should just raise it, you should not worry about the price.  
+S Swaminathan:  
+I hear you loud and clear.  
+Tushar Sarda: 
+How much are you planning to raise?  
+S Swaminathan:  
+So, we will looking between Rs.30-50 crores 
+Tushar Sarda: 
+Do it in 2-3 tranches, you don't have to do it in 1 trench. 
+S Swaminathan:  
+That's a great suggestion. We have also explored that. I think as I said right now it's at a standstill. We will come 
+back with reasonable answers going forward. Let me also add what is very important here, we are first-generation 
+entrepreneurs, and we don't trade in the markets but perceptions get framed in the markets very easily. Today with 
+37% holding by promoters we get pilloried by people at large in terms of the low promoter holding. If it goes below 
+a certain level it gives to be a very bad signal to the market is what we are advised from time to time. I don't have a 
+trading account, my colleagues don’t trade in the market. We don't go and buy when the price goes down and we 
+don't sell when the price goes up. But as I said, we preserve the market sentiments in these ways, in this manner. I 
+come from a point of view that when money is available you should raise money, but when all these factors are taken 
+into account, the board also come into the picture and says, do you want to do it now or do you want to do it later. 
+You know the only perfect science is hindsight. So, we have not done it is the correct answer as of now, what will we 
+do going forward, we will take your inputs as well. We will be guided by what the board says as well and we will 
+hopefully do what's appropriate.  
+Tushar Sarda: 
+So, but what kind of valuation are you looking? At what valuation you are comfortable raising the money  
+S Swaminathan:  
+Promoter is not to be greedy?  
+Tushar Sarda: 
+No. Because that's important as you said you are not happy with the current price. So what price are you happy with? 
+S Swaminathan:  
+It's not that is happy with the current price. When 37% was held by the promoters  
+Tushar Sarda: 
+That’s irrelevant because it's a professionally managed company. So, whatever your stake, I mean if somebody tells 
+you that your stake is low, they're idiots I am sorry for using that word, but they don't know what is to build a 
+company as a first-generation entrepreneur and to build it honestly without siphoning off money from the company.  
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 17 of 18 
+S Swaminathan:  
+The problem actually happens on account of a 25% threshold that SEBI has in terms of promoter holding and the 
+implications that come from going below 25%. So, I'm not an expert on compound secretarial matters. So, we turn to 
+our lawyers and Company Secretary to advise us on this matter. So, they keep telling us that whatever we do, we 
+should not go below 25%. 
+Tushar Sarda: 
+What happens if we go below 25%  
+S Swaminathan:  
+They might do nothing but that's what the legal advice and the Secretarial. 
+Tushar Sarda: 
+Nothing happened. Infosys is run with 5% equity by the founder. So nothing happens, and you are not getting the 
+right advice. 
+S Swaminathan:  
+Okay. But the point is Infosys is in the steady state where they actually reached the state where they didn't have to do 
+subsequent fundraisers.  
+Tushar Sarda: 
+So, I think Infosys also did a lot of fundraisers and promoters always had a low stake in Infosys. I don't know who 
+was advising you. And if you run a company honestly you're never going to have money. Unless you have some 
+three-five other businesses where you have cash or you siphon off money from here and then you put it back. 
+S Swaminathan:  
+We have no other business  
+Tushar Sarda: 
+You said that you are not even taking a salary.  
+S Swaminathan:  
+I am now taking a salary.  
+Tushar Sarda: 
+Now you are taking a salary, so how are you going to get money to put in?  
+S Swaminathan:  
+We don't have, your point is taken and let me take it to the board as well. I don’t have the answer to where we are, or 
+what we are going to do tomorrow. 
+Tushar Sarda: 
+I think you should not stop the growth of the company for lack of capital that will do more harm to the business than 
+good. And get a good adviser on board, what I would say because from what you are saying the opportunity seems to 
+be huge. You're still very small, and you can be unseated by somebody with more muscle power. So, for want of 
+capital, you should not worry about not raising the capital. I think it will harm the business. What you have built so 
+painstakingly over the years, growth is the only way to maintain the business. 
+S Swaminathan:  
+I agree totally. Vineet I hope you have heard and convey it to Balu as well. 
+Siddesh Chawan: 
+We will take the last question from Saket and we will close it. Saket Kapoor, please go ahead 
+
+ 
+              IRIS Business Services Limited 
+December 23, 2022 
+ 
+ 
+Page 18 of 18 
+Saket Kapoor: 
+Very brief point, you are looking for an Rs.30 crores infusion into the company. What would that translate into, what 
+kind of opportunity can that money bring on to two IRIS? Just wanted to have an understanding of what multiplier 
+effect it will create. 
+S Swaminathan:  
+Depends on how we use it and where we actually use it. There are currently new mandates coming up in America. So 
+the bulk of the money that we actually raised and when I say bulk, almost all the money that we raise will actually be 
+used to grow our business in America and Europe where we have not done too badly so far. The big mandate in 
+America is at the government level, where there are 90,000 filers who are expected to file their returns on a monthly 
+basis. We expect it to be a $10,000 per unit kind of revenue possibility. And so we have no basis to come up with a 
+number so what market share we can actually get, but the money will actually be used to chase that opportunity in 
+America if you have the money. Along with some similar opportunities in Europe, where there are ESG filings that 
+are coming up about 50,000 companies in Europe need to make their ESG submissions. We expect the price per 
+filing will be about 1000 Euro. So, these are the two broad mandates that we will actually chase and hopefully come 
+up with a reasonable benchmark in terms of what market share can get. That's where we will actually like to go. 
+That's the utilization of money. 
+Saket Kapoor: 
+One very small point, you spoke about that when you spoke to your investors earlier about the rights issue. What was 
+the feedback? I missed your point you were explaining that first, you went to your investors, I think we have only 
+3000 or 4000 shareholders very small shareholder base. But when I look at the pedigree of the shareholders holding 
+more than 1%, particularly Mr Madhusudan Kela who is an ace investor and also I consider that he may be having 
+deep pockets holding 6% equity and high per cent equity in the company. Just wanted to understand the feedback 
+from your investors when you have investors pedigree like Mr Kaushik Shekhar and Mr Madhusudan Kela's family 
+investing around 5-6% of the equity subscribing to it. So, where is the question of the problem of fund coming? Have 
+you explained your projections or plan to them? I think, these are the guys who can definitely help you with raising 
+funds and other activities if your growth plans have that understanding of what you are trying, you can get over a 
+period of time so what's the thought there? 
+S Swaminathan:  
+I don't do selective disclosures. I don't pick up the phone and make selective disclosure to investors. Secondly, 
+talking about Madhu and Kaushik Shekhar I want you to know that we have on this call Tushar Sarda who is a 
+legendary investor from India. He is one of the most experienced mutual fund investors for a long time, I have 
+known him since the day he entered the markets. So, we are fortunate to have people like this and I am very grateful 
+to him for his counsel. We will take it back to our board and to our management and decide what to do and what's 
+appropriate. Thank you all for joining this call. And I hope that we can keep reposting the faith that you have in us 
+and do good things for our shareholders. Thank you very much again. 

@@ -1,0 +1,960 @@
+ 
+Classification: Internal Contains PII: No 
+ 
+ 
+May 31, 2022 
+ 
+The BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai-400 001.  
+Scrip Code: 543398 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex Bandra East, 
+Mumbai 400 051 
+Scrip Symbol: LATENTVIEW 
+Dear Sir/Madam, 
+ 
+Sub:   
+Transcript of Earnings Call held on May 24, 2022 
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed the transcript of the Earnings Call held on May 24, 
+2022, post announcement of financial results of the Company for the quarter and year ended 
+March 31, 2022. The audio recording of the earnings call along with the transcript has been 
+uploaded 
+on 
+the 
+Company’s 
+website 
+at 
+https://www.latentview.com/investor-
+relations/financial-results-reports/ within the prescribed timeline.  
+ 
+This is for your information and records. 
+ 
+Yours Sincerely, 
+ Thanking you, 
+ For Latent View Analytics Limited
+ 
+   _________________ 
+   P. Srinivasan 
+   Company Secretary and Compliance Officer  
+ 
+ 
+
+ 
+ 
+Page 1 of 20 
+ 
+ 
+“Latent View Analytics Limited 
+Q4 FY22 Earnings Conference Call” 
+ 
+May 24, 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. RAJAN SETHURAMAN – CEO  
+MR. RAJAN VENKATESAN – CFO 
+ 
+MODERATOR :      MS. ASHA GUPTA – EY LLP, INVESTOR RELATIONS  
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 2 of 20 
+Moderator: 
+Ladies and gentlemen good day and welcome to Q4 FY22 Earnings Conference Call of 
+Latent View Analytics Limited. As a reminder, all participant lines will be in the listen only 
+mode and there will be an opportunity for you to ask questions after the presentation 
+concludes. Should you need assistance during the conference call please signal an operator 
+by pressing ‘*’ then ‘0’ on your touchtone phone. Please note that this conference is being 
+recorded. I now hand the conference over to Ms. Asha Gupta from EY LLP Investor 
+Relations. Thank you and over to you Ms. Gupta! 
+Asha Gupta: 
+Thank you Margreth. Good evening to all the participants on this call. Before we proceed 
+on this call let me remind you that the discussion may contain forward looking statements 
+that may involve known or unknown risks, uncertainties, and other factors. It must be 
+viewed in conjunction with our businesses that could cause future results, performance, or 
+achievement to differ significantly from what is expressed or implied by such forward 
+looking statements.  
+ 
+It gives me great pleasure to invite all of you to the Q4 and full year FY22 Earnings Call of 
+Latent View Analytics Limited. The results and presentation have been mailed to you and 
+in case anyone does not have the copy of press release or presentation, please do write to us 
+we will be happy to send the same to you.  
+ 
+To take us through the results and to answer your questions today, we have the CEO of the 
+company, Mr. Rajan Sethuraman whom we will be referring as Rajan and we also have 
+CFO, Rajan Venkatesan whom we will be referring as Raj to avoid any confusion while we 
+are transcribing.  
+ 
+We will be starting the call with brief update of the company given by Rajan which will be 
+then followed by financials given by Raj. After that we will open the floor for Q&A 
+session.  
+ 
+With that, I will now hand over the floor to Rajan. Over to you Sir! 
+Rajan Sethuraman: 
+Thank you Asha and thank you all for joining this earnings call. Since this is only the 
+second time that we are doing earnings call post our IPO I did want to take a few minutes to 
+provide a bit of an overview about the company, who we are and what we do so that you 
+better understand our business and what is the value that we deliver to our clients. I know 
+that it might be a bit of a repetition for people who have joined us on the earlier earnings 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 3 of 20 
+call or might have been part of the investor road shows but I would request your patience 
+and bear with us for a few minutes after you see this update. 
+ 
+So, first off, we have been in existence for over 15 years now. We are a pure play data 
+analytics company in a sense that we focus only on data and analytics, so unlike other IT 
+services organizations that you might be familiar with we do not do any custom 
+development or ERP implementation or application maintenance or any other stuff. Our 
+remit is just data analytics, but within the data analytics space we are a full spectrum service 
+provider, in many engagements we typically start off with what we call as a diagnostic or a 
+consulting exercise which is really aimed at helping our clients think through the odds of 
+possible and figure out what might be the most impactful initiatives that they can execute 
+under the data analytics umbrella and quantify the impact as well as the ease of 
+implementation and then help set up a roadmap of initiatives that they should be pursuing. 
+About 10%-15% of our work even today is of this nature and one of the things I wanted to 
+share is that in the last quarter especially we do see an uptick in client interest in engaging 
+us in helping them with thinking through the roadmap of analytics initiatives. 
+ 
+The second part of the work that we do is typically under the data engineering umbrella. 
+Once clients identify the set of analytics initiatives more often than not, they find that the 
+data that is needed is spread across multiple data ecosystems and silos and we do help 
+clients architect design, build the data platforms that are necessary for them to be able to do 
+the analytics. This is about 20%-25% of the work that we do today. In many instances 
+instead of ripping out and replatforming or replacing existing data ecosystems we typically 
+design and architect layers that can sit on top of that and pull all the data so that clients are 
+able to do whatever analytics they are interested in doing right using the data and these data 
+ecosystems not only pull data from internal sources but also from external sources and 
+could include both structured and unstructured data in addition to data around images and 
+videos and so on. Once we help with the design and architecting and the build of the data 
+platforms the bulk of the work we do the mainstay is really what we call as a lookback and 
+lookahead analytics are predictive, prescriptive and diagnostic descriptive analytics. 
+Diagnostic descriptive is typically of the lookback variety, answering questions around 
+what happened and why did it happen and predictive and prescriptive analytics revolves 
+around answering questions on what is going to happen an what should you do about it. 
+Most of the work that we do is really working with the business unit heads, the functional 
+heads and stakeholders including the Chief Marketing Officer, the Chief Supply Chain 
+Officer or the Chief Customer Service Officer and so on and mostly for fortune 500 
+companies and we help them tackle fuzzy business problems which could be around 
+customer churn, could be around marketing, return on investment or spend optimization, 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 4 of 20 
+could be around inventory modeling and network planning, could be around employee 
+hiring and employee retention or it could be around how can they work with their 
+ecosystem of partners and vendors. In many instances these problem statements tend to be 
+at a fairly high level and we go in and help diagnose the problem statements and then break 
+them down and decompose them into what we call as an issue tree or a hypothesis tree and 
+then set up the hypothesis that need to be validated using the data and the analytics that we 
+do. So therefore this forms typically a fairly integral component of the business planning 
+and execution that our clients need in order to generate the kind of revenues and to gain 
+market share to control their costs and whatnot, so that is the nature of the work that we 
+typically do and you are all seeing that over the last 12 months especially in the wake of the 
+pandemic, most clients and organizations are accelerating their own digital transformation 
+initiatives and we see data analytics as a fairly important component of these digital 
+transformation initiatives. So overall we are seeing a fairly good uptick in terms of the 
+demand for data analytics initiatives, and we are seeing that is playing out really well. 
+ 
+So, if I look at the last year and the last quarter it has been a very strong performance, it has 
+been a pretty good demand environment for us. In the last year we have added over a dozen 
+accounts many of them fortune 500 companies and we have been engaged across the 
+spectrum of work, so customer and marketing analytics still continue to be the bulk of the 
+work that we do about 60%-65%, but there is also an uptick in terms of work that we do in 
+supply chain, in people and HR analytics and also work that we do in finance, fraud and 
+compliance related analytics. We are also seeing that many organizations are looking at data 
+analytics initiatives as more mainstream now with initiatives moving away from just being 
+fringe initiatives that are being done by a business unit or a functional head to becoming 
+more holistic, integrated and central and core to the organization, so this also means that the 
+underlying data platforms and the data engineering needs to be upgraded and we are seeing 
+a good amount of work happening in that space and we are involved in much of the 
+rearchitecting that is required. 
+ 
+Another thing that we are also witnessing is that the problem statements are more sharper 
+and they also need the kind of domain intelligence and expertise and that is another area 
+that we have been focused on over the last year in terms of building both vertical industry 
+functional expertise as well as horizontal domain expertise whether it is customer analytics 
+or marketing analytics or population analytics. So what are the investments that we have 
+been making over the last year has really been aimed at three things first is the domain 
+expertise that I talked about both the vertical and horizontal, the second has been in terms of 
+the assets and the accelerators that we need in order to be able to deliver the analytics 
+capability and the third has been in terms of the front-end bandwidth that we need in sales 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 5 of 20 
+and business development so that we are able to articulate the value propositions that we are 
+building in these different areas, so overall a very strong year for us and a very strong 
+quarter as well in terms of the client logos that we have added, in terms of the caliber of the 
+work and the problem statements that we have been going after and in terms of the financial 
+results both in revenue as well as in EBITDA terms. I will now hand over the call to Raj to 
+take you through a little bit more of the details on the financials. 
+Rajan Venkatesan: 
+Thank you Rajan. Thank you for that overview. Good evening everyone, we welcome you 
+to the second earnings call post our IPO in late November, glad to be connecting with all of 
+you.  
+ 
+Like Rajan stated, we have had a very strong quarter again, we are overall happy with the 
+performance in the quarter as well as the full fiscal. Just talking about our Q4 financial 
+performance we have reported an operating revenue of about Rs. 117.5 Crores or about Rs. 
+1,175 million, which on a quarter-on-quarter basis if you compared to the immediately prior 
+sequential quarter there was a growth of about 9% and on a year-on-year basis the revenue 
+has gone up by about close to about 48%. This was possible because of a fairly strong and 
+robust demand that we witnessed across our existing portfolio of accounts where we saw 
+increased demand for the services that we provide from our existing client set as well as 
+new logos for the full fiscal we have added close to about 18 logos, which further validates 
+the strong growth momentum that we are seeing in the market today. 
+ 
+From a profitability standpoint, EBITDA for the quarters stood at about Rs. 35.8 Crores 
+growing 11.2% on a quarter-on-quarter basis and about 27% on a year-on-year basis. 
+Despite some of the supply side challenges which include availability of talent as well as 
+rising hiring cost as well as people cost, we were still able to sustain our EBITDA margins 
+at about 30.5% for the quarter, which further validates the strong fiscal discipline that we 
+exercise at Latent View. Profit for the quarter stood at about Rs. 35.6 Crores growing at 
+about 30.3% quarter-on-quarter adjusted for exceptional items. The Q3 of FY22 had a one-
+time benefit of about Rs. 22.6 Crores which was owing to the loan forgiveness in the US 
+that we had received and that was booked as a one-time exceptional item adjusted for that 
+our profits are still grown on a quarter-on-quarter basis and the profit for Q4 grew by about 
+49.6% on a year-on-year basis. The one other aspect that I would also like to highlight 
+specifically for this quarter is from a tax standpoint we had a benefit that came in from the 
+exercise of ESOP options this is specifically with regard to some of our employees who are 
+situated in our US subsidiary and therefore there was a tax benefit that came and that was 
+booked in Q4 of FY22 which is quite on a comparable basis our tax expense for the current 
+quarter is a little lower. 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 6 of 20 
+ 
+Drilling down a little further and looking at some of the verticals that we have CPG and 
+retail and technology continue to witness very, very strong growth momentum in FY22 
+more specifically CPG and retail if you look at it as a vertical grew by about 113% for the 
+full year and technology which is the largest vertical for us contributes close to about 65% 
+to 70% of our overall revenues grew by about 30% to 38% in FY22 validating the robust 
+growth environment and as well as our strong domain capabilities in these verticals. 
+ 
+Coming to the cost side, the employee cost grew by about 6.6% on a quarter-on-quarter 
+basis this was driven by variable pay as well as some of the benefits that we had to pay out 
+on account of the exercise of ESOP. The other expenses are the SG&A for the quarter stood 
+at about Rs. 119.1 million the increase mainly due to higher travel costs as well as some of 
+the investments that we are making on the marketing side where we have had higher 
+advertising and sales promotion expenses. 
+ 
+Coming to the full year performance, we clocked revenues in excess of Rs. 400 Crores 
+which is a record for us this is the first time we are going past the Rs. 400 Crores mark, the 
+last quarter we actually recorded revenues in excess of Rs. 100 Crores, which was the first 
+time we clocked that number in a particular quarter and we are very happy to announce that 
+for the full year we went past the Rs. 400 Crores mark. Our operating revenue for the full 
+year stood at Rs. 407.8Crores growing at 33.3% on a year-on-year basis. The EBITDA 
+stood at Rs. 122 Crores registering a growth of about 16.5% on a year-on-year basis. This 
+again despite two rounds of wage hikes and bonuses that were paid out to all the performers 
+in the current year we were still able to maintain a fairly healthy EBITDA margin. EBITDA 
+margin for the full year was at about 30% and PBT before exceptional item was at about Rs. 
+131.6 Crores at a margin of 30.7%. Our cash and cash equivalents excluding the proceeds 
+that we reached from the IPO as of March 31, 2022 stood at Rs. 483 Crores. In terms of the 
+overall geography mix the US continues to be our strongest geography contributing to about 
+95% of our overall revenues. Having said that some of the investments that Rajan spoke 
+about what we are beginning to do and we have already in fact initiated a lot of these 
+initiatives. We are building a fairly strong go-to-market team in the European region, which 
+is essentially for us it is UK, Germany and Netherlands we are making investments in each 
+of these geographies in fact in the just recent quarter we capitalized our UK subsidiary with 
+about close about £5 million which we believe will provide the European region with 
+sufficient run rate to chase the pockets of growth that we witness over there.  
+ 
+Further we would like to reiterate before we open up for the Q&A that we continue to 
+witness excellent momentum in the market, we look forward to enhance our capabilities, we 
+continue to invest both in the sales force as well as domain expertise, we will continue to 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 7 of 20 
+invest for growth in the coming quarters and also pursue inorganic opportunities, we are 
+trying to deliver healthy growth in the coming quarters as well. With that I will hand it back 
+to the operator and we can open the floor for question and answers. 
+Moderator: 
+Thank you very much. We will now begin with a question and answer session. The first 
+question is from the line of Karan Uppal from Phillip Capital. Please go ahead. 
+Karan Uppal: 
+Thanks for the opportunity and congratulations on a very strong FY22 performance. I have 
+three questions, first question is if you can elaborate some of the work which you are doing 
+on the predictive and prescriptive analytics side, and how big are the deal sizes here and 
+which are the verticals in which you are seeing demand, very strong demand in predictive 
+and prescriptive specifically? 
+Rajan Sethuraman: 
+Predictive and prescriptive analytics we are seeing across the patch. So we have been doing 
+such work with tech companies and digital native companies for quite some time, but we 
+are also seeing that in retail and then consumer products, we are seeing it in banking and 
+financial services as well. I can give you a few examples of the type of work that we do. So 
+for example for one of the large tech companies we have been helping them on their 
+collections sites like supporting the analytics that powers the collection efforts, so there the 
+analytics work is really around predicting which of the outstanding invoice items require 
+the kind of attention and engagement and effort given their triaging and tearing model that 
+they have put in place because not all of the outstanding invoices would require the same 
+quantum of effort or the type of involvement which outstanding invoices will get collected 
+easily versus which other require effort for example is one area where you have been 
+supporting them on. For another tech companies that actually sells all of its software 
+through a subscription format we have been helping them on understanding customer 
+segmentation using again a predictive AI model. Earlier they were doing segmentation on 
+the basis of demographics largely, now that most of their software is consumed through an 
+add-to-Service model. They now have a plethora of information in terms of the different 
+features and functionalities that customers are using and at what occasion are they using and 
+what purpose they are using it for. So we have been able to help them redo their entire 
+segmentation and then predict the kind of offers and marketing campaigns and discounts 
+that will appeal to them given what the nature of their usage of the software is. Likewise in 
+the consumer package good for example we have been able to help a lot on the innovation 
+side so we are currently engaged with one of the largest FMCG companies and we are 
+helping them figure out the trends within the ice cream business that they have in a specific 
+market and geography. This is really in terms of flavors, in terms of colors, appeal, in terms 
+of ingredients for example right, so this is again using some amount of machine learning 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 8 of 20 
+and consuming information that is available in the social media that helps understand what 
+is trending and therefore what should they be focusing on. We see a fairly strong demand 
+for predictive prescriptive analytics across the patch also in industrial area where we are 
+working with automotive companies for example we are currently working with iconic 
+European automotive company and using geospatial data to again predict the possibility of 
+what kind of services can be consumed that might be necessary by the use of all the 
+automobiles at various points in time. Overall if I look at predictive prescriptive analytics I 
+would say that the value of those engagements they still are smaller in comparison to the 
+traditional lookback analytics largely because predictive prescriptive analytics work is still 
+in some sense experimentation and it pilots that organizations undertake some of them tend 
+to become fairly large initiatives, but if I were to just compare lookback analytics with 
+lookahead analytics I would say that lookahead analytics are still typically fixed fee, fixed 
+scope engagements smaller in size, but as organizations start getting more comfortable with 
+the results of this work and they are able to incorporate them into their day-to-day decision 
+making they are expecting that there will be more work which would be of a larger nature 
+right that will materialize. 
+Karan Uppal: 
+But if you can quantify how much is the deal size of lookahead versus lookback or 
+relatively if you can give some color that would be very helpful? 
+Rajan Sethuraman: 
+Predictive prescriptive was we have seen its range all the way from about $250k all the way 
+to even $750kto million in size. Lookback analytics on the other hand which is more around 
+the diagnostic perspective and the reporting dashboarding and the storytelling that is 
+required typically we set that up in a COE or managed solutions format and there are 
+accounts where we are doing a ton of work right multi-million dollars in terms of the total 
+quantum of work that we are doing for them, so there is already enough evidence and 
+example where the lookback analytics is substantial in nature whereas on the predictive 
+prescriptive sites there is still more the fixed fee engagements in the scope that I indicated, 
+but we do see that there is an uptick and an uptrend in terms of the size of the predictive 
+prescriptive analytics work itself, but it is not at near the levels that we see in the lookback 
+analytics. 
+Karan Uppal: 
+Thanks for the elaborate answer. The second question was on margins and this is to Raj, so 
+Raj EBITDA margins in FY22 if I look at having a drop of about 400 basis points and pre-
+pandemic Latentview reach to operate at around 25% to 26% level so do you think that 
+given the current demand environment and also the supply side pressures and overall 
+inflation which we are seeing in US will we be able to defend the 30% EBITDA margins 
+for next FY23 at least? 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 9 of 20 
+Rajan Venkatesan: 
+While we will not give out a specific guidance in terms of what is it that we will be running 
+for just as a philosophy and the way we run our business even historically we have always 
+tried to grow profitably that is one mantra that we have always stuck to. Having said that we 
+are cognizant of the fact that there are ample growth opportunities that are out there what 
+we have achieved till now while we have grown to a certain level we crossed the Rs. 400 
+Crores mark the opportunity out there is immense and obviously we need to make full 
+utilization of the opportunity in hand and therefore we will be making investments both in 
+terms of higher marketing spends, improving our visibility out there in the market and as 
+well as hiring more frontend sales people who sit in the geographies where our customers 
+come from both in the United States as well as in Europe we will continue to make 
+significant investments in both people as well as marketing spends the other thing that we 
+are also very consciously trying to do is build capabilities around domains where we believe 
+there is significant growth potential. CPG, retail and BFSI Rajan spoke about them these are 
+verticals that we will continue to invest in terms of bringing on specific domain capabilities 
+and therefore we will be in an invest mode in the coming fiscal years. Having said that we 
+obviously spend on the right areas, we continue to invest in areas for growth, the intent 
+would be to spend money where it would set us up in the right way to sort of grow in the 
+coming years, but all in all what I would like to leave you with is while we will continue to 
+make these investments we will still aim to deliver healthy margins even in the future. 
+Moderator: 
+Thank you. The next question is from the line of Deep Gandhi from Astute Investment. 
+Please go ahead. 
+Deep Gandhi: 
+Thanks for the opportunity. First question I have is around competition so one of your 
+competitors has recently raised significant funding from a private equity firm, so just 
+wanted to get a sense from you that are you seeing an increased competitive intensity in the 
+industry and if you are facing any pricing pressures in the existing contracts as well as the 
+new contracts which you would be signing so I wanted to get a sense about this? 
+Rajan Sethuraman: 
+The competition at this time I would say is more for the talent that is available right in the 
+market rather than it is reflecting on any kind of pricing pressures, in fact in the last 12 
+months as part of not only the renegotiation of contracts that we have with existing 
+stakeholders but also the new contractors we have been able to sign up we have been able to 
+see a good uptick in the pricing power, this is also because of the fact that we focus on the 
+harder to solve fuzzier complex problems like that I talked about so I do not think there is 
+any issue on the pricing front at all. Overall while there is competition, I think the pie is also 
+expanding it is growing significantly and all of us have our respective niches in which we 
+are very strong so we are fairly strong in the technology and the digital native space and we 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 10 of 20 
+do see a lot of demand for our services in that space. If we look at packaging financial 
+services or retail or a CPG of course some of our competitors are a bit more entrenched 
+there and there we do have to look at how we can get a share of the expanding pie in those 
+markets. So competition is playing out in that perspective. Talent is another story though it 
+is fairly difficult to hire lateral talent whether we are talking about delivery or capability 
+building or domain expertise so that is an area where one has to really look at how do you 
+convince people right to get on board especially given that we are not only competing with 
+one another in terms of pure-play analytics, but you are also competing with other larger 
+systems integration players who are looking at their analytics practices or general 
+multinational companies who are ramping up on their internal analytics capabilities. So 
+overall I would say that not much of pricing pressure what we really need to handle is the 
+issue on the talent front. One thing that we have been doing on the talent front is to really 
+ramp up on our campus hire so as of now we have already made about 250 offers and 
+people are starting to join us and we believe that this will help address some of the pressure 
+in terms of people that we need for our upcoming engagements. We also instituted a fairly 
+robust internal rotation program that will help us have any new engagement at least one 
+third of those new roles with people who are tenured so that they are actively and 
+proactively looking at whom we release from our internal pools for new engagements while 
+maintaining the balance of tenure and experience in existing as well as new engagements. 
+Deep Gandhi: 
+Second question I had was if you can please elaborate on how easy is it for a pure-play data 
+analytics company like you to get more contracts. Contract within the size of maybe say Rs. 
+20 to Rs. 40 Crores and do you feel that pure-play analytics companies like you maybe face 
+lesser competition in the lower ticket size contracts where may be your bigger competitors 
+like say consulting giants like  McKinseythose kind of players might not be focused much 
+on and so a related question to this would be then a separate question but related to this, so 
+are the margins which you get in those bigger ticket size contracts are those similar to 
+maybe the lower ticket size or do you get better margins in the lower ticket size contracts so 
+if you can please explain this? 
+Rajan Sethuraman: 
+When I was answering an earlier question there was this nuance between predictive 
+prescriptive analytics type of work and lookback on diagnostic descriptive type of work 
+right. Some of the more complex projects on the advanced analytics like the lookahead 
+sometimes can get us a bigger premium because of the complexity of the modeling task or 
+the problem that needs to be solved, but barring that we do see that most of the work that 
+we do commands a reasonable premium in the market in terms of the pricing power that we 
+have, even on this data engineering front which is where typically you see a lot of low end 
+happening not just the lift and shift, the general platform migration type of work since we 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 11 of 20 
+are focusing more on the architecting and design and build out of the layers that can sit on 
+top of it, we are using more of the newer age technologies and tech practices are available 
+like a snowflake or a databricks for example we are able to command the kind of premium 
+there is enough work that needs to be done here itself so that we do not need to really look 
+at the lower end of the work just in terms of pure migration or lift and shift type of work, so 
+we are currently focused more on the higher value end of the spectrum and so therefore we 
+are not seeing too much of a difference between the spectrum of work that we do itself. 
+Now having said this I think whether this would sustain and how it will work out we will 
+have to look at how quickly and how soon larger organizations will ramp up on their data 
+analytics initiatives and how much of that will need a more robust core and a more 
+integrated and a holistic approach. As long as initiatives are done more by the business units 
+and by particular functions of owners using just the data that they have they will have a 
+certain size and they will have a certain kind of specification. However, we do see that 
+many organizations are taking that more integrated approach. So, in some sense it is like the 
+evolution that happened the several years back between custom development and ERP 
+implementation. So, we are starting to witness that especially have organizations 
+accelerated their digital transformation initiatives. So, we are expecting therefore there will 
+be more complex work which is also larger in size. The holistic integrated approach brings 
+its own challenges, and one gets the opportunity to really architect those larger complex 
+platforms, but also use data in a much more sophisticated fashion so therefore we believe 
+that there will continue to be a high value end of the spectrum where we can play and that is 
+what we are orienting ourselves towards. The other point is that as long as if it is only skills 
+and capability play then you attract a certain kind of pricing power, but if we take well 
+crafted value propositions into the market at the intersection of a vertical and horizontal 
+area so for example the shore sales optimization for retail company or inventory 
+management for CPG company if you take a very specific revenue growth management 
+there are very specific areas where one can define a value proposition and the analytics 
+approach needed to tackle that and if we are able to take those value propositions into the 
+market we see that it opens more doors and it also commands the kind of premium that we 
+are getting now. 
+Deep Gandhi: 
+Thanks for the elaborate answer I will join back in the queue. 
+Moderator: 
+Thank you. The next question is from the line of Akshay Kothari from Envision Capital 
+Services. Please go ahead. 
+Akshay Kothari: 
+Thanks for the opportunity. Sir could you give the revenue breakup of business analytics, 
+consulting, data engineering and digital solution? 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 12 of 20 
+Rajan Sethuraman: 
+For us the consulting revenue is roughly about 12%-13%, data engineering will be about 
+25% of the revenue, the balance will be all the business analytics which is the diagnostic 
+and prescriptive as well as the predictive and prescriptive so that will be about 60% I would 
+say about 40% in total is the diagnostic prescriptive variety and 20% in total is a predictive 
+prescriptive variety. Our digital solutions are not priced and sold separately we typically 
+embed them into the performance of our work whether it is data engineering or whether it is 
+some amount of diagnostic work which is used in consulting or whether it is in the delivery 
+of the diagnostic and the prescriptive type of analytics, so we do not look at that separately 
+the solutions are embedded where appropriate right in providing the rest of the services that 
+I talked about. 
+Akshay Kothari: 
+My understanding about the business is preliminary so you did mention about the 
+employees which play a lot of role and hiring which is being done so I just had a couple of 
+questions like what would be our attrition rate and how much of our what we can say work 
+is dependent on employees so regarding that can you elaborate? 
+Rajan Sethuraman: 
+We are largely still consulting and services organization, so much of the work that we do is 
+predicated on the people and the effort our people expect on the different engagements. 
+Having said that there are multiple assets that we have created assets and accelerators that 
+we have created over the 15 years of our existence that allow us to really create some 
+nonlinearity in terms of effort versus revenue, so in many of the work engagement that we 
+do not know whether it was around customer analytics or marketing analytics or even 
+people analytics we would have done pieces of work several times over right with different 
+accounts and therefore we have been able to abstract them and then encapsulate them, it 
+acts as an accelerator that provide us that nonlinearity so that is something that kicks in it is 
+not exact direct correlation between the number of people and the effort that we spend 
+versus the revenue that we create, but at the heart of it, we are still a consulting and services 
+business we do not have products that are creating nonlinearity from a revenue perspective. 
+Now going back to your original question on attrition, attrition was quite high in the last 
+fiscal I would say that attrition had started trending up even from the fourth quarter of FY21 
+and then it kind of continued to be fairly high in the first three quarters of the fiscal year that 
+ended, we used to operate in 25%-26% earlier but it went up significantly in comparison to 
+that number crossed the 30% mark during the period but Q4 has been okay in comparison to 
+the previous three quarters and Q1 this year we are again continuing to see the trend coming 
+down so we are kind of back to what it used to be in earlier times 24% or so 24%-25%. 
+Akshay Kothari: 
+What would be our total number of employees? 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 13 of 20 
+Rajan Sethuraman: 
+So as of March 31, 2022 we were at 860 people, we have been making additions but I 
+cannot share that number right now because it will be next quarter’s numbers. 
+Akshay Kothari: 
+Outside India lastly? 
+Rajan Sethuraman: 
+Out of the 860 approximately 120 people or so would be outside India. 
+Akshay Kothari: 
+Okay thanks a lot Sir all the best and I will join back in the queue. 
+Moderator: 
+Thank you. The next question is from the line of Chintan Shah from Chanakya Capital. 
+Please go ahead. 
+Chintan Shah: 
+Thank a lot for the opportunity and congrats on the results. Basically in the previous concall 
+you spoke a little bit about the smart insights pool and platform that you were developing if 
+you could provide me further information on what is the work we are going or ahead with 
+on the product and platforms please and any significant wins or traction that you are seeing 
+on the same? 
+Rajan Sethuraman: 
+Smart insights is really our AI platform that we have built for trends 40 essentially it is a 
+platform that is able to ingest vast amounts of data from multiple sources of information 
+could be social media sites, could be other blogs, it could be websites, basically we can 
+point it that any public source of information and we can ingest data either through APIs or 
+handles provided or even through web scripting and that is the capability that it has at the 
+front and in terms of ingesting data and then once the data is in we use the artificial 
+intelligence and machine learning algorithms that were built into the pool to be able to 
+identify, discern, quantify and qualify the trends that are emerging in that space. So we had 
+initially built it to identify trends for a beauty and cosmetics manufacturer and the intention 
+was to identify trends before they became substantially large and can they spot a trend 
+before it becomes large so that they can build an innovation or a product to capitalize on the 
+trend. So that was the original intention of what we built and then after that we have been 
+able to refine it over the course of several other engagements and now that product is 
+capable of it is a solution I would not call it a product that solution is now capable of 
+actually being pointed at any particular domain and then we have this data about that 
+domain and then identify the trends and the quantification, qualification, how long will it 
+take for the trend to pan out for it to become big who are the main influencers and the 
+categorization of the trends set into multiple categories from functional, technical, it could 
+be even things like governance for example, there are trends related to where is it 
+manufactured, labor conditions, all of these things can be identified. So that is the platform 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 14 of 20 
+that we have developed. I mentioned in a response to an earlier question that they currently 
+engage with the large FMCG company they are helping them identify trends in the food 
+ingredient space so that is a project that is ongoing at this point in time. We continue to 
+refine that based on new product market combinations so every new category as we call it 
+right category market combination is something that we have to train the data and we have 
+to build the model so that we are able to provide the kind of trend related quantification 
+right of the client so it keeps expanding with every new engagement. We are using it as a 
+conversation starter in many instances. Selling it as a full solution on a leave behind basis I 
+would say that we are still a little behind on that curve but what it is helping as 
+organizations that kick start their business transformation initiatives post the pandemic is 
+that it is a very, very interesting conversation starter for us just the whole trend spotting area 
+itself something that is fairly hard. We are looking at taking it into newer areas for example 
+one of the things that we are doing with the subscription commerce value proposition is to 
+help OTT platforms and content generators to figure out which content is resonating with 
+which kind of audience so we are currently working with one of the tech companies, which 
+has a short format video offering right on their platform and we are helping them with 
+analytics from which customers are interested what kind of content, so again that is the 
+place where the algorithms and the AI model that we have built as part of SmartInsights, so 
+sometimes we use it as conversation starters but in many instances we have been able to 
+take the components that we have built there and embed them into the engagement that we 
+are delivering. 
+Chintan Shah: 
+Alright thanks a lot for the elaborate answer and all the best for the future. 
+Moderator: 
+Thank you. The next question is from the line of Deep Gandhi from Astute Investment. 
+Please go ahead. 
+Deep Gandhi: 
+Thanks again for giving me an opportunity. Now the next set of questions which I have, just 
+wanted to know how have the top five clients for you grown in last few years and a related 
+question is what kind of churn have you historically seen in the top five clients? 
+Rajan Venkatesan: 
+So the top five clients for us we have an average relationship tenure in excess of five years 
+for all the top five clients in fact in terms of their overall contribution to revenue we have 
+seen steady and significant growth in all our top five accounts in the current fiscal compared 
+to the last year, in terms of the overall contribution itself you would see if you will take a 
+look at the investor presentation that we put out our top five clients contribute in excess of 
+board for the current year they have contributed close to about 59% of our overall revenues 
+and for the immediately preceding fiscal year their contribution to total revenue is close to 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 15 of 20 
+about 52% so you will notice that there is a healthy and a significant growth that we have 
+witnessed in each of these accounts and these are long-term sticky relationships that we 
+have, in each of these accounts we interact and provide services to multiple stakeholders 
+and therefore it is not just one group that we work with, for instance our second largest 
+account for instance that we have today apart from doing work in the United States very, 
+very recently we have had conversations with them to deliver work for them in Singapore as 
+well as UK where the stakeholders are completely different so therefore while from a 
+concentration standpoint these are relationships that contribute a significant amount to our 
+overall revenue pie we have relationships with multiple stakeholders which in the long run 
+to be a very sticky factor for us. 
+Deep Gandhi: 
+If you can give a sense what kind of churn rates have you seen historically in these top five 
+clients? 
+Rajan Venkatesan: 
+So for the top five like I said these are all sticky, the current set of top five clients that we 
+have we have sticky relationships and we have had relationships in excess of five years, in 
+the past and this I am talking about 2016 and 2017 one of our largest accounts at that point 
+in time decided to take the entire analytics capability in-house and therefore we did witness 
+some amount of that work ramping down over time of course that this particular client still 
+continues to be an existing account in fact even in the last year we clocked some revenues 
+from this particular account, but this was a fairly significant relationship that we had in 
+2016 which went down or ramp down over time, apart from that we have really not 
+witnessed any significant churn at least in our top client relationships. 
+Deep Gandhi: 
+So the next question I have was if you can give a number that in your total clients how 
+many of those are active fortune 500 clients? 
+Rajan Venkatesan: 
+In the current fiscal the total active fortune 500 clients will be close to about 30 odd clients. 
+Deep Gandhi: 
+How has this number changed over the last maybe 2-3 years? 
+Rajan Venkatesan: 
+It has actually grown at a steady pace we were at about 25 odd customers a couple of years 
+back and that number has grown to 30. 
+Deep Gandhi: 
+Last question I had was in FY22 you have mentioned that 95% of your revenue is from 
+clients based out of US so if you can clarify that are these clients stationed out of US and 
+that value segmenting the revenue or this 95% of revenue is specifically coming from US 
+geography? 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 16 of 20 
+Rajan Sethuraman: 
+I am not sure we understood the question correctly can you repeat that please. 
+Deep Gandhi: 
+I wanted to understand that in this 95% of the revenue which comes from US so is it 
+coming only from USA that is from USA country or is it that these are the clients who have 
+their headquarters in US and you would be getting the revenue from various geographies 
+but because they have their headquarters in US you are segmenting as revenues based out of 
+US clients so wanted to understand that? 
+Rajan Sethuraman: 
+It is a former what you said first they are actually clients located the stakeholders are 
+located in the US the relationship is for the stakeholder in the US and typically we are doing 
+work for that stakeholder; however, it is possible that, that stakeholder might have a global 
+remit meaning that analytics that they are doing might be supporting other geographies as 
+well, but the primary stakeholder relationship and the team that we are working with will be 
+in the US. There are a few instances where some of the clients that we work with they have 
+geographically dispersed team in which case we have engaged with stakeholders in the 
+respective geographies. So we currently have at least two, three accounts where the primary 
+relationship is in the US but they have their analytics team sitting in Europe or in Singapore 
+for example and when that happens then we will engage with the stakeholders in that 
+geography as well typically when we do that we classify the revenue into that geography 
+based on where the stakeholder relationship is with us. 
+Deep Gandhi: 
+Thanks a lot for answering all my questions. 
+Moderator: 
+Thank you. The next question is from the line of Karan Uppal from Phillip Capital. Please 
+go ahead. 
+Karan Uppal: 
+Thanks a lot for the followup. Just wanted to get a sense in terms of the captives, so in your 
+experience do you think that now data analytics is getting outsourced more as compared to 
+few years back, the reason to ask this question is maybe because of the clients may consider 
+this to be the core work and they do not want to share the data with service providers or 
+they do not want to work with it what is your experience on that, any color would be very 
+helpful? 
+Rajan Sethuraman: 
+I will answer that question in two parts in terms of core, non-core and the philosophy of the 
+organizations that we work with. We have seen all kinds of models and one kind of model 
+as you say core will be retained by internal teams and non-core or what they call peripheral 
+or enablement type of areas is where they engage with an outsourced service partner. There 
+are models where both core and non-core they are happy to do that and then there are of 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 17 of 20 
+course other models where they would like to do everything internally and then they want 
+to work with a partner only from a capacity augmentation perspective where they still retain 
+control and they retain their governance requirements on the engagement. So we see all 
+kind of model just as an example I mentioned the tech company that we work with I gave 
+the example earlier of how for one of the largest tech companies in the world we are 
+powering the analytics behind their short format video offering that they have on their 
+platform so we do that, that is a very core work, similarly for the same tech company we 
+have been powering the analytics around their shopping channel or around their payment 
+functionality for example. We also support them on non-core like collections for example 
+so it is a kind of a mixed bag that we see. It more depends on the philosophy of a particular 
+client rather than that everybody outsources non-core and keeps core areas internally. Since 
+this is a question that is typically asked of us I will go on to say that for tech companies and 
+for the hardcore techies who work in those companies inventing the next algorithm is a 
+more interesting and important thing as opposed to applying analytics to the marketing 
+function or the customer segmentation function, the techies will see these as non-core right 
+in some sense even though marketing or customer segmentation or publishing will be very 
+core and important to the business system, so it is just a question of how do you define a 
+core and non-core and from whose perspective like you are looking at it. In terms of trend 
+we see that organizations are ECCs in particular we see that there is a general uptick in 
+digital transformation initiatives and there are two issues that typically they will have to 
+face and handle one is whether they have the capability itself and sometimes some of the 
+newer digital initiatives tend to be more complex and challenging requiring a certain 
+amount of depth of expertise in new areas and capitals may not be able to easily ramp up 
+right for such channels so that is one deficiency sometimes that they have to face. The other 
+one is just simple capacity available, many organizations are very rapidly accelerating their 
+transformation initiatives and if they suddenly need to do 10 initiatives whereas earlier they 
+were doing only three or four they just would not be able to wrap up quickly and then in 
+those instances we do see being either in the form of capacity augmentation or even entire 
+projects or initiatives being picked up and handed over to an outsourced partner so we are 
+seeing both of those models. In the recent past I would say that there is a general uptick in 
+terms of demand everywhere because of most organizations coming out of the shell and 
+then starting to do more area of data analysis. 
+Karan Uppal: 
+That is really helpful. The second question was on the M&A so right now we are sitting on 
+a healthy cash balance somewhere around Rs. 900 Crores so are you considering any 
+significant M&A in FY23 maybe to diversify geographically or vertically? 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 18 of 20 
+Rajan Venkatesan: 
+As far as inorganic is concerned that is a clearly stated object for us, also in fact one of the 
+stated objects in the IPO itself was to pursue inorganic opportunities. Well the company 
+today at this point in time has a very clearly well articulated M&A criteria which we use to 
+filter the sort of targets that we want to. At this point in time we have actually done a fairly 
+active screening of all the opportunities that are out there and we are in fairly advanced 
+conversations with a few candidates. Of course the timing of closure as well as the certainty 
+of closure it all depends on multiple factors including strategic equipment, how does this 
+business culturally aligned with the latent view culture at this point in time, so those are all 
+aspects that we will consider carefully before we make any investment decision, but in 
+terms of the effort as well as the pursuit of inorganic opportunities there is a lot of work that 
+is happening within the system today. We are hopeful that in the coming quarters we should 
+be able to identify, narrow down on interesting targets as well as hopefully we should be 
+able to make an M&A investment in the coming quarters. 
+Karan Uppal: 
+Last is a bookkeeping question, if you can help us with the onsite offshore ratio utilization 
+level and the hiring target for FY23? 
+Rajan Venkatesan: 
+So the onsite offshore ratio for the current fiscal was close to about 1:5.8 or close to about 
+1:6 that is the ratio that we are currently working with. The utilization itself I do not want to 
+put out a number there because unlike a traditional IT services company we like to position 
+ourselves more as a premium consulting partner and therefore this business by itself 
+typically needs a certain level of buffer that you need to carry and this is more for the 
+people to ideate and build value props and therefore the business today needs a certain level 
+of buffer when I say buffer this is a level of resources that we need to carry at any point in 
+time and that in any particular quarter would range anywhere between 15% to 20%, but we 
+do not want to call it utilization instead what we want to call it as the buffer that we would 
+like to carry at any point in time for us to be able to position ourselves as a premium 
+consulting partner. On the hiring target itself we do not want to give out a target at this 
+point in time, but like Rajan mentioned we are actively going to campuses, a bulk of our 
+hiring requirement for the next year will come through campus hiring, in fact a lot of the 
+new joinees will be coming onboard, some of them have already joined us in May and a big 
+chunk of them will join us in June, so when we give you our Q1 update you will see what is 
+the sort of uptick that is there in the headcount. 
+Karan Uppal: 
+Thanks a lot for answering all my questions and all the best for the future. 
+Moderator: 
+Thank you. The next question is from the line of Akshay Kothari from Envision Capital 
+Services. Please go ahead. 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 19 of 20 
+Akshay Kothari: 
+Thanks for the opportunity again. Just two quick questions one is do we have something to 
+do with elections or we do not do anything to do with elections? 
+Rajan Sethuraman: 
+Sorry was it elections? 
+Akshay Kothari: 
+Yes, elections. 
+Rajan Sethuraman: 
+No we have done nothing on elections so far. 
+Akshay Kothari: 
+Okay that is great and I assume that the top three consulting firms and they would be having 
+their own consulting department as such, but there are a lot of opportunities wherein small 
+consulting firms they do not have these sort of analytics software developed in-house and 
+also since I am from a CA background so there is a lot of need for analytics in audit as well 
+so how do you see this opportunity panning up and are we supplying anything to them? 
+Rajan Sethuraman: 
+It is a very interesting question because this came up in two discussions that we have had 
+over the last couple of days. Yesterday internally when we were debating on the strategy we 
+saw that finance risk regulatory compliance is an area which could actually do with a lot of 
+analytics help, basically the CFO organization like the risk and compliance officer that is an 
+area that should actually need a lot of help and support and today when we were doing our 
+Board meeting and our auditors were presenting they actually showcased some data 
+analytics and algorithms that they use so it is a very interesting space I think it is only 
+probably I am sure that it is underpenetrated as we talk about, there can be a lot more 
+sophistication in the use of data and analytics to guide and actually make audits and 
+accounting risks and regulatory and compliance all more impactful. We have been working 
+with some of the Fintech companies in this space out of the US and we see that this coupled 
+with data governance and other kind of data lineage capabilities could be very, very 
+important and interesting just to establish and help with all of those areas that we talk about. 
+So this is an area that we will be looking at in a more closer fashion. Till now what we have 
+been doing is more in the nature of consulting services for the clients that have come to us. 
+Whether we can look at partnering with audit accounting firms and other firms engaged in 
+the business of risk and regulatory and compliance and provide an analytics backbone or a 
+platform is something that we can evaluate in the coming quarters. 
+Akshay Kothari: 
+That is great Sir. That is it from my side and thanks a lot and all the best. 
+Moderator: 
+Thank you. As there are no further questions from the participants I now hand the 
+conference over to the management for closing comments. 
+
+ 
+ 
+ 
+Latent View Analytics Limited 
+May 24, 2022 
+ 
+ 
+Page 20 of 20 
+Rajan Sethuraman: 
+Thank you. So thank you all for joining this second earnings call that we have done since 
+we are going public. We are fairly excited about the year that has gone by, but we are even 
+more excited by what lays ahead of us. While there is some amount of concern that has 
+been talked about in recent times because of the inflation and the possibility of some 
+slowdown in the US right now where we said we are not seeing any headwinds that clients 
+are talking about, retail is one area where the results that have come out recently by target 
+for example is resulting in a little bit of question around whether organizations should be 
+able to sustain the pace at which they were planning to invest on data analytics in the past, 
+but that of course we are not hearing any other concerns at this time. We do believe that the 
+next one, two quarters will be important for clients to hold out and continue to spend and 
+make investments in the area of data analytics. As always our data analytics is an area 
+which can help with revenue enhancement measures as well and not just around the cost 
+containment or optimization it is more an effectiveness play as opposed to an efficiency 
+play and that is what I tell our teams internally as well as clients are interactive. So we 
+believe that given the refocus that most organizations have in terms of revenue 
+enhancement they will continue to use the power of data analytics for several of these 
+initiatives. We see good momentum in the number of conversations and in line with that we 
+have been and we will continue to make the investments into the front end, into the 
+capability building, into the assets and the accelerators that we are putting in place and also 
+in terms of the geographic expansion into the European market, so these are all areas that 
+we have focused on fairly aggressively at this point in time and we believe that these 
+investments will start panning out in the coming quarters. With that we will close this call. 
+Thank you again for joining in and then we hope to connect with you again in the coming 
+quarters. Thank you. 
+Moderator: 
+Thank you. On behalf of Latent View Analytics Limited that concludes this conference. 
+Thank you for joining us. You may disconnect your lines. 

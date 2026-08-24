@@ -1,0 +1,1118 @@
+ 
+ 
+ 
+ 
+                      
+`
+June 3, 2022 
+ 
+The Secretary 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai- 400 001 
+Fax: 022-2272 2037/2039/2041/3121  
+BSE Scrip Code: 532348 
+The Secretary 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, Plot no. C/l 
+G Block, Bandra-Kurla Complex 
+Bandra (E), Mumbai - 400 051 
+Fax: 022-2659 8237/38; 2659 8347/48 
+NSE Symbol: SUBEXLTD 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Transcript of Earnings Call held on May 31, 2022 for the quarter and year ended   
+March 31, 2022 
+ 
+Pursuant to Regulation 30 of Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, please find enclosed the Transcript of the Earnings 
+Call of the Company for the quarter and year ended March 31, 2022 held on May 31, 2022.  
+ 
+The 
+same 
+is 
+also 
+available 
+on 
+the 
+website 
+of 
+the 
+Company 
+at 
+https://www.subex.com/investors/announcement-filing/#investor-analyst-call.  
+ 
+Kindly take the same on record. 
+ 
+Thanking you 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+ 
+ 
+ 
+ 
+           
+Subex Limited  
+Q4 FY2022 Earnings Conference Call 
+ 
+Event Date / Time 
+ 
+: 
+May 31, 2022, 3:00 PM (IST) 
+ 
+MANAGEMENT: 
+MR. VINOD KUMAR PADMANABHAN - MANAGING DIRECTOR & CEO  
+MR. SHIVA RODDAM – WHOLE-TIME DIRECTOR & COO 
+MR. SURESH CHINTADA - CHIEF TECHNOLOGY OFFICER 
+MR. SUMIT AGARWAL - CHIEF FINANCIAL OFFICER 
+MR. HIMANSHU SINGHAL - FINANCIAL CONTROLLER 
+MR. GV KRISHNAKANTH - COMPANY SECRETARY & COMPLIANCE OFFICER  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2 
+ 
+ 
+Moderator   
+ 
+Ladies and gentlemen, good day and welcome to Q4 FY2022 Earnings Conference Call of Subex 
+Limited. As a reminder, all participant lines will be in listen-only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during the conference call, please signal an operator by pressing * and then 0 on your touch-tone 
+phone. Please note this conference is recorded. I would now like to hand over the call to                        
+Mr. G.V. Krishnakanth. Thank you. And over to you, sir. 
+ 
+G.V. Krishnakanth   
+ 
+Thank you very much. Good afternoon to everyone who have joined the earnings call for the period 
+ended March 31st, 2022. Now, I'd like to introduce the members of the management who are 
+present for the call. Along with me I have Mr. Vinod Kumar, Managing Director and CEO; Mr. 
+Shankar Roddam, Executive Director, Chief Operating Officer; Mr. Suresh Chintada, Chief 
+Technology Officer; Mr. Sumit Agarwal, Chief Financial Officer, and Mr. Himanshu Singhal, 
+Financial Control of the company. I would like to start the conference call by going through the 
+safe harbor clause. Certain statements in this call concerning our future growth prospects, are 
+forward-looking statements, which involve a number of risks and uncertainties that could cause 
+actual results to differ materially from those in such forward-looking statements. The risks and 
+uncertainties relating to these statements include, but not limited to fluctuations, earning our ability 
+to successfully integrate acquisitions, competition in our area of business, client concentration, 
+liability for damages in our contract, withdrawal of tax incentives, political instability, 
+unauthorized use of our intellectual property and general economic conditions affecting our 
+industry. So, with this, I hand out the call to Mr. Vinod Kumar to take it forward. 
+ 
+Vinod Kumar   
+ 
+Good afternoon, everyone. At the outset, I thank you for joining this call. As you would have seen 
+from the FY22 published results last evening, the revenue for FY22 stood at that Rs. 333 crores. 
+The EBITDA for the year is Rs. 25 crores and the PAT is Rs. 21 crores. The cash and the cash 
+equivalent at the end of the year, stood at Rs. 118.5 crores. Obviously, the financial results have 
+been below our expectations. The delivery issues that we faced on the large deployments around 
+our legacy rock products had a significant negative impact on our revenues and is a primary reason 
+for the revenue dip last year. Having said this, the last quarter was exceptionally good from a 
+business acquisition standpoint, and this has resulted in increase of the total contracted backlog up 
+to US$ 117 million from the last quarter levels of US$ 106 million. 
+ 
+The financial results for the last year were definitely not in line with expectations and also not a 
+true reflection of the progress that we have made across our portfolio and directionally in general 
+for the last 12 months. HyperSense AI, which is our multi-personnel AI-ML platform has made its 
+
+3 
+ 
+mark and are seeing excellent traction from customers. Every vertical is adopting AI-ML and the 
+category of multi-personnel AI-ML platform is becoming an important one. Let me briefly explain 
+the problem and how we are solving it. In every enterprise, particularly who is looking at digital 
+transformation, the CXOs wants to make their enterprise into an AI-ML driven enterprise. 
+However, the lack of sufficient data scientists, their inability of the data scientists to discuss with 
+the business is resulting in a very small portion of the total models that they are developing, getting 
+deployed and generating business results. 
+ 
+These multi-personal AI-ML platforms solve this problem by significantly enhancing the 
+bandwidth of the data scientist and also creating a new category called Citizen Data Scientists who 
+are smart, analyst, both from the business side and the technical side to start solving data science 
+problems without being a data scientist by itself. Now, indeed, this is a new setback for Telcos, 
+and we are one of the only ones who are focused on this segment, I mean about the Telco Segment. 
+Our platform has received multiple accolades and recognition from the media and have also been 
+listed as a prominent player in this space by Gartner. I've personally seen the interest in meetings  
+with CXOs and I believe that we are sitting on a goldmine with HyperSense AI. Now, I would 
+request Suresh, our CTO to provide you a general update on our core portfolio. 
+ 
+Suresh Chintada   
+ 
+Thank you, Vinod. Thank you everyone. So, as a part of our vision to enrich lives through AI 
+driven trust, Subex has actualized several initiatives that allow organizations to leverage cloud, 
+5G, Big Data, and analytics to essentially unify the operations, optimize costs and enable faster 
+and better decision making using advanced and Augmented analytics. Vinod also mentioned our 
+award-winning platform, HyperSense has evolved over the past year, as we have now started 
+transitioning all of our core products, portfolio of products, like business assurance, thought 
+management, network and analytics on the HyperSense platform. 
+ 
+Our partner ecosystem management portfolio also is evolving smartly, as we look forward to 
+integrating some of the key standards into a product as we introduce here. You'll also see increased 
+traction on the platform given the inherent AI-ML capabilities that are embedded in the 
+HyperSense platform as Vinod had already mentioned, thanks. 
+ 
+Vinod Kumar   
+ 
+I now request Shankar our COO to provide you an update on IDcentral Identity Analytics. 
+ 
+Shankar Roddam   
+ 
+Good afternoon, everyone. Subex has a vision of enriching lives by leveraging AI for digital trust. 
+Identity today forms a key aspect of that vision of Subex, and in line with that, IDcentral is an 
+incubation which has been created with the vision of solving the problem of onboarding customers. 
+
+4 
+ 
+If you look at the journey in the last quarter, we launched the MVP of ID Central in Q1, followed 
+by GTM in Q2. We established the product market fit for IDcentral by Q3, wherein we secured 
+about 10 customer contracts, we were able to take that product into production, we were also able 
+to establish clients across different industries such as FinTech, gaming, banking, Agri-tech, and 
+many others. 
+ 
+In Q4, we exceeded our goal of 1 million APIs, we signed our first Telco customer, we also signed 
+our first customer for anti-money laundering, and additionally, we also registered Subex or 
+IDcentral, as a TSP with Sahamati. All of this is evidence enough to say that we are able to take a 
+product to the market, be able to serve the needs of enterprises, which is emerging more so with 
+the digital transformation that is happening across all industries and be able to make a mark for 
+ourselves. In the first phase, we have chosen consciously to focus on two markets, Indonesia and 
+India. 
+ 
+This is primarily based on the growth that we have seen in these two countries. And we continue 
+to build our relationships and interfaces into government databases and many others, which are 
+required as a part of this onboarding validation. From a customer standpoint, the other strategy 
+that we have started to look at is the possibility of trying to not only acquire more customers, but 
+also go after segments or customers with a much higher MRR. 
+ 
+The pricing mechanism for IDcentral is also based on a per API model, which is largely in line 
+with the typical SaaS kind of an industry. And we do believe that we are on track to be able to now 
+take IDcentral to the market and showcase the required velocity in terms of customer acquisition 
+and API growth. Thank you. 
+ 
+Vinod Kumar   
+ 
+Thank you, Shankar. I also wanted to update you that in line with what we had said earlier, we 
+have started providing details of IDcentral and Sectrio in our investor deck. Now, let me cover the 
+progress that we have made on Sectrio, our security portfolio. During the last year, we pivoted to 
+address OT security, which is a USD 10 billion market, which is expected to grow up to USD 10 
+billion market in 2025, and the current CAGR is for 25%. Now, this was done as we saw delays 
+in IoT deployment due to COVID and supply chain constraints. This also meant that it was 
+necessary for us to have a new identity for this product portfolio, and we launched a Sectrio brand 
+successfully. 
+ 
+During the last quarter call, I had indicated about significant bends both in private and the public 
+sector in India. We have provided those bends in our investor presentation. We are completing the 
+implementation at State Bank of India, and we hope to make it as a reference for the banking 
+segments, and this will be a very important segment that we are looking to cater with our security 
+portfolio. Our current focus for OT IoT security is in the markets of India, Middle East, particularly 
+Saudi and North America, specifically Mexico. In these markets, primarily we are in the evaluation 
+
+5 
+ 
+phase, when we talk about a deployment and post this evaluation phase from the customers, we 
+expect the market to move to a continuous threat monitoring and detection and remediation phase 
+in the coming months. 
+ 
+So, at this point in time, we are doing a lot of vulnerability assessment and visibility of assets, 
+those kinds of exercises. And once those exercises are completed, we will get into the phase of 
+deployment of product and continuous monitoring. Now, let me also provide you an update on the 
+delivery issues that I had alluded to earlier in the briefing. Now, this issue pertains to our old rock 
+platform where some of the contracts that we had challenges with delivering the contracts due to 
+multiple issues, some issues from a platform standpoint, some issues from a customer standpoint, 
+and all these things have resulted in a negative revenue impact. As we stand today, we have we 
+still have a few rock-based projects to be implemented. And we expect that implementation to 
+complete by the second quarter of this year post which most of the deployments if not all, will be 
+on our new HyperSense platform. 
+ 
+Now, with respect to the guidance, we are not specifically providing any guidance going forward. 
+However, let me also clearly tell you the transformations that we are undergoing as a company. 
+The first is from a license model, we are transforming into a subscription model. And most of the  
+contracts that we have secured in Q4 are of this nature. For sure, when compared with the earlier 
+license model, which was a very established model in the Telco verticals where most of our 
+business or core business comes from, having a subscription-based model it is something new. 
+Therefore, the contracting is taking significantly more time than otherwise will happen for a 
+licensed contract. However, directionally, I think it is the right thing for us to do. And we believe 
+that this will have the right impact both for customers and for us, and also it is significantly 
+increasing the competitive advantage that we have. 
+ 
+I also want to preempt some questions so that ESOPs based on some of the investor clarifications 
+that we have received. Now, the ESOPs have been provided to the current management in the 
+financial year, FY19 and FY20. And these were provided at a strike rate, which was more than the 
+prevailing market rate at that point in time. Now, as with any ESOP scheme, the success of the 
+ESOP schemes happens based on the increase in the market capitalization of the company, and in 
+that sense having ESOP scheme has been reasonably successful, because our market cap from the 
+FY2019, FY2020 timeframe is significantly higher. 
+ 
+However, as per this ESOPs scheme, the vesting and therefore, the exercising happens in a delayed 
+nature, and some of the, you know, listing that we have done to the stock exchanges with respect 
+to ESOP exercise, is the exercise of the ESOPs pertaining to the FY19 and FY20. Now, in the 
+history of Subex, I cannot recall a time when we had a portfolio, that we can engage with a 
+customer on an enterprise level. With HyperSense AI, we have that now, and with all the 
+enhancements that we are talking about, in our core portfolio, in Sectrio and IDcentral, we are also 
+generating interest from various other stakeholders of our society like government, public sector 
+undertaking research institutions. 
+
+6 
+ 
+ 
+This also made it pertinent to reframe from our old vision of being the leaders in digital trust. Our 
+new vision is to enrich life with AI Lab digital trust. We have made several changes to our 
+leadership, and now have a team that is balanced to try both of our core and new areas. While the 
+transition from a license to a subscription model for our core products, will come with short-term 
+financial impacts, we are confident that directionally it is the right thing to do. As I mentioned, all 
+of our new deals are our subscription plans. We also have a significant competitive advantage, and 
+the increase in the contracted backlog in Q4 is a validation to that effect. Looking ahead, we are 
+entering the new year with good momentum with a fantastic order book in Q4, and with a great 
+portfolio. 
+ 
+During the course of this year, along with migrating our existing customers of fraud and revenue 
+assurance onto our new HyperSense based platform, we intend to increase our market share for 
+our new solutions that is HyperSense AI, Sectrio, and IDcentral. I fully understand that the last 
+year results are not in line with the expectation. However, I would like to again reiterate that what 
+the financials do not come there is the tremendous progress that we've made, including the 
+possibility of creating a category in Telcos around multi-personal AI and ML platform and own it 
+as Subex. This is our future, and we will make it work for all stakeholders. Your continued support 
+means a lot to us. And also thank you for the same. Thank you very much. And now, we will open 
+the line for questions. 
+ 
+Moderator   
+ 
+Thank you, sir. Ladies and gentlemen, we will now begin the Q&A session. Anyone who has a 
+question may please press * and 1 on the telephone keypad and wait for your turn to ask the 
+question. If you would like to withdraw your request, you may do so by pressing * and 1 again. 
+Ladies and gentlemen, if you have any questions, please press * and 1 on your telephone keypad. 
+Our first question from Deepak Chokhani from Rade Capital, please go ahead. 
+ 
+Deepak Chokhani   
+ 
+Good afternoon, Mr. Vinod. Thank you for this opportunity. I come on this call every quarter. And 
+I ask this same question. Great assurance, great words, but nothing reflects in the number. When 
+will we see that? 
+  
+Vinod Kumar   
+ 
+Okay. Look Deepak, I understand where you're coming, we have done two things. We have 
+provided a lot more information with respect to the details on the progress that we are making the 
+investor deck that we have provided. That gives you sort of qualitative information about what is 
+happening. I've also detailed some of the key reasons why we had a particularly a dip in last year, 
+I would say the delivery issues, which was sort of towards the end of it, because as I said, most of 
+
+7 
+ 
+the ROC projects are getting to the end of the delivery and all the new projects on our new 
+platforms, which is significantly easier and faster to deliver. 
+ 
+The second aspect is with respect to the migration, the model change from a license to a 
+subscription. Now some of these things, we could not factor it aptly or looking back we could have 
+been more careful in factoring some of these things, but now, with the benefit of hindsight, we can 
+say that these will have some impact in a short-term basis. But I would say that if you look at the 
+contracted backlog that should give you some confidence as to the fact that we are securing new 
+logos and the ticket size, even though small, you know, the new logos that we are securing in a 
+much larger market, we should be able to grow and meet the expectation. 
+ 
+So, as I said, I'm not going to provide any specific guidance, but we will continue to provide 
+qualitative information that will help you to make a judgment as to how the company will perform. 
+I also feel that we will start providing more specific revenue-based, financial-based information 
+around the new portfolio going forward, but as I said, we were just waiting for the right time so 
+that it will convey the right story, Deepak. 
+ 
+Deepak Chokhani   
+ 
+This is all good Mr. Vinod. You know, the problem is we're not able to judge, because every time 
+we attend a call, it's all good talks. It's all good presentation. It's all good kind of assurances. There's 
+no research report. There's always good talks in the calls. So, we as retail investors just are not 
+able to judge. So, I think it's high time the management, even if it is you're not going to achieve 
+targets, even if we are not growing, we need to know, we need to know from the management 
+where we are heading. I mean, it's been like eight quarters. I don't know. I mean, like we keep 
+hearing the same thing again and again, I'm not pointing any faults, but let the truth come out, we 
+need to know where we are heading, we can't judge because just basis this call. 
+ 
+Vinod Kumar   
+ 
+Yeah. So, look, I think the reason why we are -- first of all, we don't want to give any guidance, 
+but even just this whole aspect of license to subscription conversion is the first time we are doing 
+at this scale, because as I told you, almost 90% of the contracts that were secured in Q4, which 
+was a very large order-booking quarter for us has been in the subscription, where earlier it used to 
+secure the revenue in a period of about 12 to 18 months, that is coming over a period of five years. 
+So, we will see revenue going up gradually. 
+ 
+But as I said, you would have to give me a one or two quarters more so that we can completely 
+profile this and provide you some more information on at least on the annuity base growth, or the 
+monthly subscription-based growth that we can kind of actually show that to you. At this point, 
+it's too early for us also to figure out how the whole thing will work out. But we are acquiring 
+
+8 
+ 
+customers, we are converting the customers and directionally, as I said, the whole effort is to make 
+this Subex known in the new category, with a large opportunity. So that's where we are Deepak. 
+ 
+Deepak Chokhani   
+ 
+Okay. Thank you, sir. 
+ 
+Moderator   
+ 
+Thank you, sir. The next question is from Pratab Maliwal from Mount Infra Finance, please go 
+ahead, sir. 
+ 
+Pratab Maliwal   
+ 
+Hi and thanks for taking my question. Well, one of the questions when it comes to Sectrio, so 
+you've called out SBI as a potentially referenceable client, as I understand Sectrio is offering that 
+they give clients on multiple sites, how should we look at it maybe how many branches of SBI 
+have deployed Sectrio in or if we can get some colour on this we've got some clients in 
+manufacturing and banking. So, is it more of a standard offering or are we giving different use 
+cases across industries and when it comes to SBI, how many branches have we signed, how do 
+you see the scalability that is my first question? 
+ 
+Vinod Kumar   
+ 
+So, just obviously, I do not want to get to the specifics of the deal, because there is security in 
+nature. Having said that, I will give you a scale. At this point in time, we are covering about 5000 
+devices and the total footprint that we intend to cover going forward is about 300,000. Now, is this 
+a standard offering, it is a module of our Sectrio which is around the deception. So, it's a standard 
+offering, it is repeatable in nature, so we are nearing the completion, and once this is completed, 
+we expect to make it referenceable and that will be a big feather in our cap. There are other verticals 
+that we have secured such market customers. You can see that in the list in investor presentations. 
+And there again, we are in the initial phase of deployments in one plant, in one factory and things 
+like that. And our expectation is that once this is completed, we will scale that to other sites and 
+factories of those entities. 
+ 
+Pratab Maliwal   
+ 
+Okay, thank you. Now, it comes to IDcentral, are we giving out maybe as a -- are we giving out 
+the ARR as the MRR number for the IDC and Sectrio right now? Is it possible to provide? Because 
+I believe last time, we heard the number like 100 to 150K, so can we get an update on that, please? 
+ 
+ 
+
+9 
+ 
+ 
+Vinod Kumar   
+ 
+Look, I think we are still in the in the range of about around 100K I mean by this quarter we will 
+get into the range of 100K. We will provide you the details because to let's provide it one by one. 
+At this point in time, we have provided the growth that we are seeing in the API poll, we were 
+comfortable in providing that, and as we go along, we will provide you the details both MRR and 
+ARR Pratab. 
+ 
+Pratab Maliwal   
+ 
+Okay, sure. Thank you, sir. Just one last question, maybe if I can squeeze in, when it comes to the 
+revenue composition, we feel that EMEA has fallen by 8% and APAC has risen by 8%. So, what 
+could be the reason behind it? And is this something that expected to reverse, or should we look 
+at this as a trend going ahead? 
+ 
+Vinod Kumar   
+ 
+So, I think it is just a question of the vendor that revenue was booked, and it could be movement 
+of, as I told you because we're delayed in some revenues get moved from one quarter to other. 
+From a trend perspective, there is nothing specific, we are extremely strong in the EMEA and 
+APAC region. In the in the EMEA region, we are exceptionally strong as you see a lot of business 
+coming from the Middle East region, in particular, followed by Europe and Africa. In APAC, again 
+things have been stable. Obviously, one more thing, let me take the opportunity to update that with 
+travels opening up, we are having much more, you know, fruitful and better conversations with 
+our customer, particularly for our new range of products. 
+ 
+Obviously, for our core range, if there isn't any requirement, we will come to know about it, 
+because we are a prominent player there. But for our some of the new products, like the 
+HyperSense AI, etc. There's a lot of market education that we have to do and set pitching to the 
+right level, those things were very difficult when we were not traveling, but with that opening up, 
+we have been a much better control and we are able to generate a much, much bigger impact. So, 
+directionally, there is not much of change. It might be just movement of some revenues from one 
+quarter to another. 
+ 
+Pratab Maliwal   
+ 
+Thank you. And that's a few other questions, we'll get back into the queue. Thank you. 
+ 
+ 
+ 
+ 
+
+10 
+ 
+ 
+Moderator   
+ 
+Thank you, sir. So, our next question from Mr. Abhishek Kale, Individual Investor, please go 
+ahead, sir.  
+ 
+Abhishek Kale   
+ 
+Am I audible, Vinod?  
+ 
+Vinod Kumar   
+ 
+Yes, Abhishek. 
+ 
+Abhishek Kale   
+ 
+Yeah. Vinod, question regarding the Sectrio deployment with SBI. Can you provide the details 
+around the revenue and the margins that we are expecting from this contract or is it more at the 
+POC level that we are in? 
+ 
+Vinod Kumar   
+ 
+Abhishek, I am unable to provide any specific details because of the security deployment etc. 
+However, I can tell you this is a commercial engagement going into production, it is not POC or 
+anything like that. We have an agreement as a tool to cover 500 devices, and we also have as a 
+part of the agreement extensible, the option to extend that to 300,000 devices. 
+ 
+Abhishek Kale   
+ 
+And Vinod, one probably concerns, or take it as in whichever ways you would like to, but in the 
+investors deck, I mean, we are talking more about the awards or we have more to talk about the 
+awards that our products have won, but not more about actually the contract wins. And you have 
+called it out yourself. But I would like to reiterate that for a retail investor like me, it doesn't matter 
+how many awards the product wins, so long as it doesn't translate into an order book, or an increase 
+in the order book or top line and bottom-line growth. It means nothing to me, right? I mean, yeah, 
+we have received accolades from Gartner, our product is referred here, and there point taken, well 
+said, but these are not translating into the top line and the bottom-line growth and at least for the 
+last three quarters, this has been the story and I’m a very patient investor, but now I mean, this has 
+started to bother me as well. So, I would like the management to comment on this as to what is the 
+way forward from here. 
+ 
+ 
+
+11 
+ 
+ 
+ 
+Vinod Kumar   
+ 
+So, Abhishek, I think, again, thanks for that question. So, let me start that, I mean it's a new area 
+and in the new area, as I told you, particularly in the Telco segment, this particular segment that 
+multi-personnel AI-ML platform is a new category. And if you look at the go-to market of a new 
+category, there's a lot of, you know, market teaching that we have to provide to say that this is the 
+value and this is how we can solve the problem. And towards that these awards and Gartner 
+mentions etc., it is very significant insight. In fact, I can tell you that the Gartner mention has been 
+one of the key significant achievement last year, because it's so huge that it gives us an immediate 
+kind of validation, and sort of it's not referencability, but at least a credibility is established for us 
+to engage with that. So, it's huge. So, if you look at Sectrio, which is a security, if you look at, we 
+had provided similar validation.  
+ 
+Now, we are not providing any more validation in the awards that we are winning in the Sectrio 
+side, we are providing you, providing the list of customers, which we are winning, which are big 
+logos, very, very critical logos and critical segments in each of the markets. So, it's a kind of, you 
+know, journey that we have to go through. At this point in time, HyperSense AI, I can also tell you 
+that we have secured the first customer each in Africa and in the Australian region. And we have 
+just secured it and this is very, very important because then probably just to reiterate again, this 
+product is the first time the other product that can engage into every part of an organization that 
+has CFO, CMO, CIO, CEO, CTO, everyone, they never had that capability and we are starting 
+with Telco, but this problem and this need is there across all other vertical. 
+ 
+Abhishek Kale   
+ 
+Vinod, one last question, if I may please, probably an ask more nature is, if while we announce the 
+deal and order wins, right, it would be helpful if we publish the deal sites or contractual numbers, 
+unless and until we are bound by some secrecy cases like with SBI, where we are not able to for 
+some security reasons disclose the revenue that we expect from this product or the order size. 
+Would it be possible to include these in our future communications that we send to the exchanges? 
+ 
+Vinod Kumar   
+ 
+Abhishek, our contracts specifically call out that that cannot be done. So, I guess, I mean, in some 
+cases, we cannot even provide the data, security in particular we will not be comfortable in 
+providing any details considering the fact that it is the security stage, but even other customers 
+getting the deal price etc., will be I mean, we cannot get the overall sense that a very multimillion 
+dollar those kinds of things we could broadly can be communicated which we are doing it at this 
+point in time. But otherwise, it's very specific. It's quite difficult, Abhishek. 
+ 
+
+12 
+ 
+Abhishek Kale   
+ 
+Thank you, Vinod. Appreciate that. I will get back in the queue if I have questions. 
+ 
+Moderator   
+ 
+Thank you, sir. Our next question from Mr. Akhil Arora, Individual Investor, please go ahead, sir. 
+ 
+Akhil Arora   
+ 
+Yes. Hi, good afternoon. Again, I mean, I know things haven't gone as per the plan, and you have 
+been explaining to us what we have been doing qualitatively. And I do see, like there has been 
+progress. They are just a couple of questions that I just want to understand why we fell short of the 
+plan here. So, and pardon my ignorance in terms of the implementation of the solution. So, if my 
+understanding is correct, our customers are still using our existing core revenue assurance and 
+Fraud Management Solutions. It's just that we haven't been able to move them to HyperSense or 
+convince them to move to HyperSense on a timely basis. Is that what is leading us in not meeting 
+our revenue targets? 
+ 
+Vinod Kumar   
+ 
+So, two things, Akhil. One is that our, we had an earlier platform, called ROC platform, where we 
+had most of our current deployments and that revenue is from that deployment of that product. 
+And some of those projects we had difficulty, multiple, multiple difficulties. One was that we had 
+some issues some challenges with our platform, which we got resolved only by the latter part of 
+last quarter. Then we had some challenges from the customer end, with delays on account of 
+providing the hardware because of supply chain issues. So, several issues meant that the project 
+that we secured is taking much more time than what it is otherwise taking, others should have 
+taken for deployment. So, this is point number one.  
+ 
+The second point is that all the new deals that we are getting for HyperSense, now, that our 
+preference and our interest in that is that it has to be of a subscription nature. So that means there's 
+no license implementation, which is you give a license implement and recognize the revenue, but 
+this is on a subscription basis. So, means that, that will get converted into a four year or five-year 
+term of similar to what the Microsoft has done for OS 365 or Adobe has done. And if you look at 
+some of the challenges, and if you look at the revenue profile of these companies who have gone 
+through the transition, when you make the transition for the license to a subscription, there would 
+be a dip in the revenue because whatever you are taking over 12 months or 18 months come over 
+much longer duration. So, we are going through that phase in all our new contracts. So, these are 
+the two things that are called out. 
+ 
+ 
+
+13 
+ 
+ 
+Akhil Arora   
+ 
+Okay. That's helpful. And the second thing that I want to understand, like, I think, these contracts 
+that we are winning recently, both on the newer areas of Sectrio and IDcentral is obviously focused 
+on India and Indonesia, but on Sectrio and some of the other products are more EMEA and APAC 
+based. Whereas the tie up that we have done in the past with snowflake, Tech Mahindra or even 
+for that matter with Telefonica, were on Europe and US. So, what's the reason that we haven't been 
+able to crack or been able to convince logos in the US and Europe? 
+ 
+Vinod Kumar   
+ 
+Okay, see, in this space, right, I mean, in the Sectrio space, if you look at the go to market, there 
+are three to four types of channels that we are using, one is the direct to customers through partners. 
+So, they are distributors, so we have appointed key distributors in the market that we are focused 
+on, which is India, Middle East, and North America. And through the distributors, we directly 
+approach a customer. So, for example, many of the manufacturing customers that we have listed 
+like Mabe, Godrej etc., we reach them through the distributors and local partners, so this is one 
+group. The second is through large OEMs, which are global in nature because when they talk about 
+operational technology, they are the OEMs providing those technologies and there is a lot of 
+influence, they have on the choice of a suggestion of the securities that we work with their 
+platform. 
+ 
+So, it's important for us to work with some of these partners, the OEM partners. The third is the 
+largest size. So, if you look at some of their size that we are talking about, Tech Mahindra, you 
+know, Telefonica etc., these are large MSS spaces, which have bundled our product offerings, and 
+taking into the market as a part of their offering. Now, what most of these partnerships initially 
+focused on was IoT security, because that is where we enabled them, and we created the product 
+offerings, and as I said, delaying this adoption of those things because IoT deployment projects 
+itself are delayed, and most of them are happening. Many expectations are to start this year or 
+towards next year, because of COVID, and supply chain issues and their inability to get on the 
+ground and deploy it. This is not our product I'm talking about the core IoT deployment that is 
+getting delayed. So, therefore, some of these projects, while we have enabled them, we have had 
+initial things, we have to scale back many of these efforts because of the lack of traction in the 
+market.  
+ 
+That's where we have pivoted ourselves to cover OT security, OT very, very hot and active with a 
+number of cyber-attacks on companies and factories. It is very, very hot. And so therefore, now 
+we completed the product offering is there, we are there, I think they are working very, very closely 
+with some of the OEMs and asides that are very focused on this market. So, it's not that we have 
+enabled and that will not be there, but because of the market realities we are focusing more on OT 
+and that's a separate set of partners and an aside that we are currently enabling. 
+
+14 
+ 
+ 
+Akhil Arora   
+ 
+Okay. That’s helpful. I just have one last question if you allow. So, that's on IDcentral. I mean, I 
+heard you saying that pillar revenue run rate is around 100K whereas the numbers in terms of the 
+KPIs that we are tracking, which is API, that has increased significantly, and that's encouraging 
+for us to see as well like, is there a trial period initially for some of these customers, and once they 
+get comfortable, do we start charging them? 
+ 
+Shankar Roddam   
+ 
+IDcentral. This is Shankar here. IDcentral is a self-serve platform where customers come in and 
+sign up. We tend to then talk to customers to understand the business case and propose a solution. 
+There are no free credits or anything like that, customers come in, buy a certain number of API's 
+and then start consuming itself. 
+ 
+Akhil Arora   
+ 
+Okay. That's helpful Shankar. And just so if we see that then I think from Q3 to Q4, the APIs have 
+almost tripled, like 1.5 million to 4 million. Why is it that like, it's still not reflecting in a run rate, 
+as an extension to that if you can also give us some guidance, based on your discussions on the 
+number of customers on the run rate that you see and any indication of the API? 
+ 
+Vinod Kumar   
+ 
+Look, I think overall, the customer acquisition, we are sort of almost doubling per quarter at this 
+point in time, but we are looking at also qualitatively improving the type of customers so that we 
+can get higher MRR, it's a very competitive market. And at this point, we are replacing the existing 
+providers based both on terms of the higher accuracy that we can provide and also the appropriate 
+commercial engagement. 
+ 
+Now that said, we had seen an increase in the MRR with additional, there is also a delay in 
+onboarding these customers, because after, as Shankar mentioned, they come in to buy an API, 
+there has been particularly with some of the larger customers, you know, this time taking that's 
+something which we're trying to resolve, it's a market reality that it's taking more time than 
+normally, a SAAS to get into a production kind of thing and full production or in particular from 
+the larger set of customers. So, we are going to in this case, it's not that MRR is not increasing in 
+line with our expectation. Look, I think as I told you, the next milestone is for us to get to an ARR 
+level of US$1 billion. And as soon as we get those details, we will come back to you and we hope 
+that, at least during the course of this year, we will get very, very close to that number, if not 
+crossed that. I'm talking about ARR, not MRR. 
+ 
+
+15 
+ 
+Akhil Arora   
+ 
+Okay. I mean, I was just curious, because we had that target to achieve by this year, so just thought 
+I will just ask this. Anyway, thank you best of luck for the next year. 
+ 
+Moderator   
+ 
+Thank you, sir. So, next question from Mr. Lalit Tomer from Contemi Trading Solution, please go 
+ahead, sir. 
+ 
+Lalit Tomer   
+ 
+Hello, Vinod. I mean, as you stated, I mean, we are in transition phase from license-based to 
+subscription-based model. So, I would just like to know I mean, how much time it will take and 
+plus, I mean, what percentage of customers are migrated and how much time it will be going to 
+take? 
+ 
+Vinod Kumar   
+ 
+Okay. There are two aspects to it. One is our existing customers, and we are migrating from the 
+current model to a subscription model. There are two things we have many customers already, but 
+of course, they will have to, you know, secure the budget etc. Because this will come at some cost 
+from there and even if let's say we are making it very, very compelling, so there is a budget to be 
+allowed to go to the budget cycle, but most of the customers are very, very interested because it's 
+a much better model.  
+ 
+The second part is that all the new deals that we are winning for new customers, both replacement 
+of existing vendor and brand-new customers, all of them are on subscription model. We are only 
+offering subscription model for the for the products like fraud and revenue assurance for 
+HyperSense AI and things like that. So, pretty much everything that we are signing up, except for 
+maybe some things which we are not ready, or the platform is not ready as yet on our HyperSense 
+platform, everything else we are securing on a subscription model at this point in time. 
+ 
+Lalit Tomer   
+ 
+Ok. I also have a concern related to dividend though I mean, I was not expecting it last year, but 
+just would like to know why we did not take a call on dividend this year, plus I mean how much 
+cash is lying in our books and what call we are going to take on it going ahead? 
+ 
+ 
+ 
+ 
+
+16 
+ 
+Vinod Kumar   
+ 
+So, this time because of the way the standalone entity, we did not have the sufficient accumulated 
+results to consider that. So, you know that might be aware that we have done a restructuring we 
+completed during the end of last quarter whereby we moved all the assets from Subex Assurance 
+LLP, which is bulk of our core offering into the standalone entity. So, that issue has gotten to solve, 
+and I guess that going forward based on how that vote based on both considerations, we will do 
+you know, what is the right thing and obviously, I guess that the emphasis is to have the growth 
+balance with other aspects, but as I said, this is not considered this time because of reserves not 
+being adequate. 
+ 
+Lalit Tomer   
+ 
+Okay. I mean, how much cash is lying in our books and what call we are going to take in future. I 
+mean, will there be any buyback, or we are going for any acquisition in near term, or I mean, it 
+will take no time. 
+ 
+Vinod Kumar   
+ 
+Look, as I told at this point in time, our closing cash and cash equivalents read about Rs. 118.5 
+crores that was where our cash and cash equivalents. At this point in time, you know, this is the 
+emphasis is that we have identified these areas of HyperSense AI, Sectrio etc. These are large 
+markets multi-vertical markets. At this point in time, we are focused on a small market because 
+we want to make an impact rather than spreading through things. We will definitely need a lot of 
+capital to scale it to the level that we want. That would be our priority, but as I mentioned the board 
+in its wisdom will consider what is the right thing to do once we get there. 
+ 
+Lalit Tomer   
+ 
+Okay. Thanks for the information. I'll wait in queue for more question. Thank you.  
+ 
+Moderator   
+ 
+Thank you, sir. Next question from Mr. Mahesh Kumar, individual investor, please go ahead, sir. 
+ 
+Mahesh Kumar   
+ 
+Good afternoon, Vinod Kumar. My question is, what is the order book as on today and how much 
+of that order book can be billed in the next year, FY 22-23? 
+ 
+ 
+ 
+
+17 
+ 
+Vinod Kumar   
+ 
+We have provided that information in the investor deck. The total contracted book is about USD 
+118.5 million out of that about USD 36 million what is revenue coming for this financial year.  
+ 
+Mahesh Kumar   
+ 
+Okay. So, my next question is Mr. Anil Singhvi, he was the chairman of the board, he has sold all 
+his shares. Now what is his skin in the business and he’s not attending any investor call. So, what 
+is his value addition to the board and to the company? 
+ 
+Vinod Kumar   
+ 
+Mr. Singhvi has been on the board for several years and has been very instrumental in turnaround 
+from a completely debt-ridden company to where we are today. So, he has been providing the 
+direction on some of the new things that we are doing and very, very actively involved in guiding 
+me and the management on taking the company forward. With respects the investments etc., that 
+is his personal thing, and that’s not something, which I would like to comment in this call. 
+ 
+Mahesh Kumar   
+ 
+See, he’s coming on television for Digvijay Cements, but he has never come for Subex, what is 
+the reason for that? 
+ 
+Vinod Kumar   
+ 
+So, I think he’s here is an independent director and there he is an executive director that is main 
+reason, but that’s what I can say. I just want to confirm that he is very, very actively involved on 
+an ongoing basis and how to help me and the management in taking our strategy forward. 
+ 
+Mahesh Kumar   
+ 
+See, we expect him to be present in the investor call even though he’s independent. So, if 
+independent he will be more useful to us, to analyze the future? 
+ 
+Vinod Kumar   
+ 
+Okay. I will take that feedback and we will see. 
+ 
+ 
+ 
+ 
+
+18 
+ 
+Mahesh Kumar   
+ 
+I have one suggestion you need to take somebody on the board who has a global experience in 
+SaaS business, so that he can guide you where are the pitfalls like whatever problems you have 
+been facing for last one year. Such person would have in advance told you that these are the 
+problems we need to address upfront. So, you should get somebody global experienced person. 
+ 
+Vinod Kumar   
+ 
+So, this is precisely the right reason why the augmented that the board with George Zacharias. 
+George comes with tremendous SAAS experience and has been associated, both as a director and 
+a mentor to many of the SaaS successes in India. That's the reason. And we are taking a lot of his 
+help in driving that. So, SaaS business takes time for us to set up and that's why I think if you look 
+at, we are very, very focused in a small market, small-large market to create an impact. So, if you 
+look at the way we are learning SaaS, it is very, very different than what we are doing core. And 
+this is some of the guidance or mentorship that we are getting from George. We also have Nisha 
+on our board, Nisha is also very well connected with SaaS business. And so, we are at this point, 
+we see that we have sufficient cover for both core and new areas. 
+ 
+Mahesh Kumar   
+ 
+I'm not seeing any global person on the board. All are local Indians. 
+ 
+Vinod Kumar   
+ 
+Okay. Yeah, I hear you. 
+ 
+Moderator   
+ 
+Thank you, sir. Our next question from Mr. Vivek Kumar, individual investor, please go ahead, 
+sir. 
+ 
+Vivek Kumar   
+ 
+Thanks, Vinod for this presentation. And I have been an investor with Subex since 2015, since the 
+era of Surjit Singh, and when the company was debt ridden, as you mentioned, and the company 
+has turned around. So, two things I am invested in Subex for lifetime that I when I invested, I took 
+that call. So, I have only two questions. I understand when we are transiting from one kind of 
+business to another, there will be a time lag. Like I remember in 2015 also Surjit Singh had told 
+that we would become US$100 million dollar revenue company in two years. We haven't become 
+so far yet. So, my first question, what is the vision, I know you are not giving guidance, though, 
+
+19 
+ 
+you had given last year that we will be having a double-digit growth, and we are reducing, there 
+is no growth. So, what is the vision for 10 years, in 10 years, where do we see Subex? 
+ 
+Vinod Kumar   
+ 
+Look, I think the vision is, as I mentioned, to enrich lives with AI like digital trust, what does that 
+mean? In a near term basis by FY24, that is in the next 24 months, we want to ensure that we 
+enable about 100,000 business users with AI. And the second thing is that if you have to also have 
+to do that, we should make Subex a place where we are able to attract exceptional minds coming 
+together to create great results while having fun. So that's where we want to have that. This would 
+also ensure that from a stakeholders’ standpoint, or investor stakeholder standpoint, if we can get 
+to that we will establish as a key player in the space of multi-personnel AI-ML platform, which is 
+I think it is our future. And we have an opportunity as a Subex to own it, and particularly in the 
+Telco space. So that's our focus at this point in time, I know that this is, I mean, this some of the 
+numbers is hard, to chew for us as well, but I think that's not deterring us from the single focus of 
+getting the execution right in this area. Now, once we get that I just again to don't want to hazard 
+a guess and give you a number, but we will be a significantly larger company once we get to that 
+phase. So, our near term is whether we can, we are able to enable 100,000 business users with our 
+HyperSense AI. 
+ 
+Vivek Kumar   
+ 
+Anyway, I was not expecting. As I said, see when I invested, I knew that this company has potential 
+that I can see in my old days also to become a global leader. So, and I agree with our previous 
+investor, that perhaps there is some lack of vision, like as you said that you were not giving 
+guidance, but though I saw that potential that you are going to give a vision when you spoke to us 
+last year, and you were so confident that we will definitely have a double-digit growth. I could see 
+that there is not so, I don't know so much focused on the number per se but the vision of the 
+company or the business per se, but though number also, at some point of time that has to be 
+reflected and translated into the number also.  
+ 
+That's something when I see missing, I feel a little bit of dent in my self-confidence because I can 
+be, I can leave my investment in Subex for my future generation. So that thing I feel somehow 
+now that somebody who has a long-term vision, like I can give you one example of Infobeans, a 
+very small company like yours for same market cap and almost same revenue. Though they have 
+a better EBITDA. I also don't understand why EBITDA has gotten dent on your revenue side. 
+When you had a long, a very large amount of interest outgo, I couldn't understand that your 
+EBITDA was negative. Now, there is no interest outgo, but your EBITDA is still coming down, 
+down, down and your employee benefit is increasing multifold, so when you are giving the benefit 
+to. 
+ 
+ 
+
+20 
+ 
+ 
+Vinod Kumar   
+ 
+Vivek, I think, at that point in time, you're right, we had the interest thing, but we already have 
+three product portfolios. We had fraud, RA and partner management. Today, these are our core, 
+obviously, these are. I wouldn't call it as not important. It's important, we are progressing it. But 
+today we have portfolio that I mean, when we talk about enriching lives with AI, like digital trust, 
+what do we mean by that, that it's working on a very large space and making a significant impact 
+in the market. Now, we are very excited by that vision, obviously, like you said, somehow, at some 
+point in time, the numbers should reflect the progress, not the portfolio alone.  
+ 
+And I sincerely hope that that will happen. And it will happen soon. But I think the fact that we 
+have now three core new portfolio added, would mean that we have more resources, striving those 
+things, because that's the future, right? I mean, as you hopefully agree that that's the future. So, we 
+are investing on the future, so that's why, you know, I mean, our view is that we will continue to 
+invest even though as I said, this has been a big dent for us. We'll chew this, and we will get on 
+with it, and probably in the coming quarters, slowly we will build this up. 
+ 
+Vivek Kumar   
+ 
+Oh! Thank you. 
+ 
+Moderator   
+ 
+Thank you, sir. So next question from Mr. Arun Thirumalai, Individual Investor, please go ahead, 
+sir. 
+ 
+Arun Thirumalai   
+ 
+I represent the company called Earthwise Investor. Just wanted to check, you know, Vinod in terms 
+of the EBITDA, the previous question also. So, you have a steady state, kind of an employee, you 
+know, expenditure on a quarterly basis of about Rs. 50 to Rs. 55 Crores, right? So just wanted to 
+understand that, you know, since you're going to be SaaS based in terms of the revenue model, so 
+is there a platform effect to these businesses? So, because I'm assuming that the entire USD 117 
+million of order-book going forward is completely on a, you know, on SaaS based kind of revenue 
+model?  
+ 
+So, would that entail an operating leverage to your, you know, business? Because I just see that if 
+you’re, for example, as your revenue uptake happens, your costs would not increase 
+proportionately, right? So, will that happen going forward, and also because you more or less 
+guiding for a flattish growth, right? Because you’re saying that executable order book for the next 
+year is only going to be about USD 36 to USD 40 million? So even if it started about USD                        
+
+21 
+ 
+10 million a quarter, so would that be cost is about five, you know, as of now say about Rs. 55 
+crores, will that remain or where do you see your employee costs going up, and will there be some 
+kind of operating leverage inherent in this business, because I'm sure the development costs would 
+already be, you know, undertaken for most of you. 
+ 
+Vinod Kumar   
+ 
+Okay. So, see, the cost would remain more or less at this level, at the current revenue levels, as the 
+revenue goes up, as you rightly said, it could not be a proportionate increase, but there will be 
+some increase as we will have to increase the delivery capacity and things like that. So, the 
+EBITDA levels on a steady state basis will come up, because this year, the EBITDA is much lower, 
+because we had the revenue dip, but as that gets resolved, we will get back to EBITDA that we 
+normally are setting the expectation of, you know, 15% to 20%.  
+ 
+But I just want to also caveat with that if we find a huge opportunity to scale any of our new 
+businesses, we will not hold back and we will actually, we will definitely make that investment to 
+scale that because, you know, it's early days for us for some of the new areas. And if you think that 
+even we are just moderated the investments in line with what we are expecting the market to 
+absorb, but if you see a fast traction there, our investments will go on, but by and large, right. We 
+will be at the current levels of spec. 
+ 
+Arun Thirumalai   
+ 
+So just to rephrase that, so what I’ve been saying, so for example, the USD 117 million of Order 
+book you have so that would it costs in terms of see as of this month, which is roughly the same 
+revenue, you know, on an annualized basis of what we've done last year or something, right 
+approximately, I'm not asking you for this one. So, the employee costs, which is the main 
+component of the thing, right, so would it remain in those Rs. 200 or Rs. 250 crores? So, for 
+example, if the following year, your order wins increase at 23-24, to charge you, you’re expecting 
+the product to catch up.  
+ 
+So, if we hit a say revenue run rate of say, Rs. 500 crores per annum, then would you see that entire 
+thing translating into EBITDA agreed, I agree that you would want to invest a little bit more on 
+future, but at least on the current core, which is IDcentral, and the three products right, the security 
+product, the other one, so that should start the scaling and give you the operating leverage, right, 
+at least on those particular products? 
+ 
+Vinod Kumar   
+ 
+Yeah, look, I think that expectation that problems we want to set is that we will still operate around 
+20% EBITDA, that’s what we are looking at in a steady state basis. Obviously, as we really scale 
+
+22 
+ 
+this business, it will go up, but at least for the next two to three years, that’s what we are expecting 
+our view is that we will be around that range of EBITDA. 
+ 
+Arun Thirumalai   
+ 
+And also, just one last question in terms of the execution of your order book, right? For example, 
+currently you’ve said that about USD 36 million will happen in 12 months, is there any upside to 
+that or either only these existing orders which are going to be you know, executed, will something 
+new come through the year or you expect something like that to happen through the current year? 
+ 
+Vinod Kumar   
+ 
+Obviously, there will be some new contracts that we will book and recognize during the course of 
+this year, so that will definitely happen on top of it. 
+ 
+Arun Thirumalai   
+ 
+No, but in terms of contract win to the actual revenue, what is the kind of timeframe which you 
+generally foresee on an average across order? 
+ 
+Vinod Kumar   
+ 
+Look, I think that has changed significantly, right. As I said, typically, otherwise, I would say that 
+within the 12 to maximum 18 months, the entire contract will get executed. However, now that is 
+getting extended to the contract duration, which would be either three years or in many cases five 
+years. So that’s the way I would put it that it is currently getting executed over a period of five 
+years. 
+ 
+Arun Thirumalai   
+ 
+Okay. Thank you. I’ll come back in the queue. 
+ 
+Moderator   
+ 
+Thank you. Our next question from Mr. Aditya Sharma, ICICI Mutual Fund, please go ahead. 
+ 
+Aditya Sharma   
+ 
+Hi Vinod, I just sort of wanted to understand, you know, over the last five years that I’ve been 
+tracking this company, we keep talking about turnaround, empowering, additionally, adding, 
+attracting talent and all. The way I see this basically I had a Rs. 60 Crores interest outflow which 
+we all sort of dilute our equity, you know, stop that interest outflow. And then somehow, we just 
+
+23 
+ 
+managed to, you know, just take care of those Rs. 60 crores by using my employee cost. I just want 
+to understand, is there an actual… lot of previous questions were also revolving around this, do 
+we actually have a vision because I see this company for the last old almost a decade or so, just 
+hovering around that, you know, Rs. 300 to Rs. 350 crores of top line number? Is there an actual 
+plan that we, you know, sort of intend to scale it up really like, actually scale it up or just sort of 
+keep floundering around these numbers and making stories? Thanks. 
+ 
+Vinod Kumar   
+ 
+Yeah, so first of all, I don’t know the interest that you’re talking about. But that is over five years 
+back that might be there, but off late there is no interest or anything like that. Again, on the vision, 
+I’m not going to repeat it because I hope you heard that. The key is like I agree with you Aditya, 
+unless we get the this translates to the number, the basic delivery will be there, but I think if you 
+look at the SaaS businesses, take more time and we were also hit, we just have the new portfolio 
+and we were hit by COVID also, so we lost some time on. This is a new area, and new areas, new 
+domain which will take time for us to try to tell the customer what this new value is all about. So, 
+it is taking more time, but I'm confident that it will show up in the numbers and then we'll start 
+believing the story. 
+ 
+Aditya Sharma   
+ 
+So, the number that I'm talking about is 2015, I had a Rs. 60 Crore interest outgo in my P&L, you 
+know, I don't know if you have that number or not. Then diluted my equity, I increased my share 
+capital, you know, at whatever Rs. 13 to Rs. 14 bucks got in equity, you know, repaid my debt, or 
+converted my debt to equity and basically today, if I would have done nothing and just simply just 
+selling the same business, I would have had a Rs. 60 Crore EBITDA. 
+ 
+Vinod Kumar   
+ 
+You know, I agree with you. You would have had an EBITDA, but no portfolio to sell and grow 
+the future. So, what we have done today is that we have a portfolio, which we can make, otherwise, 
+it would have been a declining business. Today, we can talk about it because we have a new set of 
+portfolios, which is an emerging growth market, that should that is giving us the confidence that 
+we will be able to grow the company, if you have not done anything, it would have been, I mean, 
+we could have managed this, like that. But I think we have managed to grow and create a portfolio 
+competing well in the market and the numbers will come Aditya.  
+ 
+Aditya Sharma   
+ 
+Fair enough. Thank you so much Vinod and best of luck. Thank you.  
+ 
+ 
+
+24 
+ 
+ 
+Moderator   
+ 
+Thank you, sir. Ladies and gentlemen, that would be the last question. I would now like to hand 
+over the floor to the management for closing comments. 
+ 
+Vinod Kumar   
+ 
+We thank you all for taking time for attending this call. And thank you again for your continued 
+interest in Subex. You can always reach out to us at the investorrelations@subex.com, if you need 
+any further clarification, thank you again. 
+ 
+Moderator   
+ 
+Thank you, sir. Ladies and gentlemen with this we conclude our conference for today. Thank you 
+for your participation and for using Doorsabha’s Conference Call Service. You may disconnect 
+your lines now. Thank you and have a good day everyone. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+                 Note:    1. This document has been edited to improve readability 

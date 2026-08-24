@@ -1,0 +1,796 @@
+                              
+        
+ 
+ October 29, 2023 
+The Secretary 
+National Stock Exchange of India Ltd 
+Exchange Plaza, C/1, Block G, 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai – 400 051 
+NSE Symbol: TEJASNET 
+The Secretary 
+BSE Limited 
+P J Towers,  
+Dalal Street,  
+Mumbai – 400 001 
+BSE Scrip Code: 540595 
+ Dear Sir/Madam, 
+Re: Q2 FY24 Earnings Conference Call – Transcript 
+ 
+Please find enclosed the transcripts of the Q2 FY24 Earnings Conference Call held on 
+October 20, 2023. 
+ 
+Kindly take the above information on record. 
+ 
+ Yours sincerely  
+ For Tejas Networks Limited 
+ 
+ 
+ N R Ravikrishnan 
+ General Counsel, Chief Compliance Officer  
+ & Company Secretary 
+RANGACHARI 
+RAVIKRISHNAN
+Digitally signed by 
+RANGACHARI RAVIKRISHNAN 
+Date: 2023.10.29 20:43:36 
++05'30'
+
+Page 1 of 16 
+ 
+ 
+“Tejas Networks Limited 
+Q2 FY2024 Earnings Conference Call” 
+ 
+October 20, 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANALYST: 
+MR. SANJESH JAIN – ICICI SECURITIES 
+ 
+MANAGEMENT: MR. ANAND ATHREYA - CHIEF EXECUTIVE OFFICER & 
+MANAGING DIRECTOR - TEJAS NETWORKS LIMITED 
+MR. ARNOB ROY - CHIEF OPERATING OFFICER & WHOLE 
+TIME DIRECTOR - TEJAS NETWORKS LIMITED 
+MR. VENKATESH GADIYAR - CHIEF FINANCIAL OFFICER - 
+TEJAS NETWORKS LIMITED  
+DR. KUMAR N SIVARAJAN - CHIEF TECHNOLOGY OFFICER 
+- TEJAS NETWORKS LIMITED 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 2 of 16 
+Moderator: 
+Ladies and gentlemen good day and welcome to Q2 FY2024 Earnings Conference call of Tejas 
+Networks Limited hosted by ICICI Securities. As a reminder all participant lines will be in the 
+listen-only mode and there will be an opportunity for you to ask questions after the presentation 
+concludes. Should you need assistance during the conference call, please signal an operator by 
+pressing “*” then “0” on your touchtone phone. Please note that this conference is being 
+recorded. I now hand the conference over to Mr. Sanjesh Jain from ICICI Securities. Thank you 
+and over to you Sir! 
+Sanjesh Jain: 
+Thanks Yashashri. Good evening everyone. Thank you for joining on Tejas Networks Limited’s 
+Q2 FY2024 results conference call. We have Tejas Networks Management on the call 
+represented by Mr. Anand Athreya, Chief Executive Officer & Managing Director; Mr. Arnob 
+Roy, Chief Operating Officer & Whole Time Director; Mr. Venkatesh Gadiyar, Chief Financial 
+Officer; Dr. Kumar N Sivarajan, Chief Technology Officer. I would like to invite Mr. Anand to 
+initiate with opening remarks post which we will have Q&A session. Over to you Sir! 
+Anand Athreya: 
+Thank you. Good evening and good day. This is Anand Athreya. This is about Q2 FY2024 
+results. I am happy to report that we have had the best quarter ever in Tejas history with revenue 
+of Rs.396 Crores and with a year-over-year growth of 80% and we have had the largest backlog 
+of Rs. 9,271 Crores and a healthy booking. Also I want to say in the last earnings call we talked 
+about supply chain management issues I am happy to say that those things are also under control 
+and we have also begun to ship the 4G wireless equipment to BSNL starting in Q2. Now I will 
+hand it over to my colleague, Arnob Roy to go through a slide deck. Arnob! 
+Arnob Roy: 
+Thanks Anand. So just to add some color to Anand’s introduction we had the highest ever 
+quarterly revenue till date; however, we had a PAT loss because as we continue to invest in 
+growing our R&D teams we also added new facilities in Bengaluru and also increased our 
+manufacturing infrastructure significantly to address the large upcoming shipments not only in 
+BSNL 4G Wireless but for the other business growth that we are seeing. In addition we had some 
+expenditure in terms of expedite fees for pulling in delayed components for critical customer 
+shipments, a combination of that led to a small PAT loss for us in the quarter. We also have the 
+highest ever order book till date and not only the BSNL 4G wireless purchase order from TCS 
+but also due to strong order booking for wireline products across all the product lines. For the 
+wireless business of course one of the highlights was winning the large PO from TCS for 
+supplying the 4G/5G RAN equipment for BSNL. We also received a mobilization advance of 
+Rs.750 Crores from TCS for executing the order. On the wireline business side too as I said we 
+had a strong business growth and booking growth across all product lines; however, a few 
+highlights the first one was our recent press release about FibreConnect in Italy launching the 
+broadband services in Italy using a complete portfolio of Tejas wireline products, this is kind of a 
+showcase network for us which uses all of our access technologies, metro aggregation and the 
+long-haul technologies. It is a single vendor network built solely using our products and 
+technologies across all the applications and managed by our single network management system. 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 3 of 16 
+We were also selected as GPON vendor for OLTs and ONTs by two leading regional ISPs in 
+India and thirdly another strategic win was our selection for the backbone network of a leading 
+Media and Entertainment company in the US. 
+In terms of awards, we won a very prestigious global award as the “Public Company of the Year” 
+in the 2023 Leading Lights award by Light Reading. Light Reading is a most respected industry 
+publication based in US and we were selected in this category for our deep technology expertise, 
+our strong balance sheet, long-term investment outlook and deep customer relationships. So this 
+has been a very strong endorsement by a global publication and recognition of our strategy, our 
+technology, our innovation and our long-term play in our business. Also I’m happy to note that 
+we got 15 more patents granted this quarter which brings our patent count to 282. I now hand it 
+over to Gadiyar to walk us through the details of our financial numbers. 
+Venkatesh Gadiyar: 
+Thank you Arnob. Good evening everyone and during the current quarter Q2 we have improved 
+on the supply chain deliveries and done the catch up of Q1 shortfall on revenues. Currently we 
+have scaled up and ready to handle the larger volume as we grow from this quarter onwards. As 
+mentioned by Arnob earlier this was the highest ever quarterly revenue done till date. Q2 
+consolidated revenues were Rs.396 Crores and for year-on-year there is a growth of 80%. Now 
+with the increased revenue and the contribution thereon we are slightly above the breakeven at 
+EBITDA level during the quarter; however, our consolidated EBIT loss was at Rs.29 Crores on 
+account of the investments that we have done in the R&D and team and additional facilities to 
+accommodate our future growth and the increasing manufacturing infrastructure spends to 
+address the large shipments going forward. Including the other income net of finance cost the 
+consolidated loss before tax was 18 Crores for Q2, the consolidated loss after tax was 13 Crores 
+for Q2. Our EPS for Q2 was Rs.-0.74 and also during Q2 our subsidiary Saankhya Labs made a 
+profit after tax of Rs.5.19 Crores. Going to the half yearly number for the half year ended our 
+consolidated revenues were 584 Crores and year-on-year growth of 69% and the consolidated 
+PAT loss of 39 Crores for the half year ended. 
+In Q2 our net worth was Rs. 3,007 Crores. During the quarter the inventory levels have been 
+increased to Rs. 1,401 Crores primarily on account of securing the long-lead components for 
+expediting the delivery of the several critical large orders we expect to get this converted into the 
+finished goods and get those shipped in the coming quarters. Despite increase in the revenues 
+during the quarter our trade receivables for Q2 was down to 487 Crores from 501 Crores in the 
+previous quarter and the collections during Q2 is the highest quarterly collection ever we have 
+done it. We have collected about Rs. 452 Crores during Q2. During Q2 our net working capital 
+was Rs.671 Crores and significantly decreased by Rs. 527 Crores during the quarter primarily on 
+account of the mobilization advance of Rs. 750 Crores received from Tata Consultancy Services 
+for the supply towards 4G supplies. As a result of this we had a positive cash flow from 
+operations of  Rs.532 Crores for Q2 which is again the highest ever quarterly cash flow from 
+operations and finally with this our cash and cash equivalents position at the end of the Q2 was 
+improved to Rs. 1,371 Crores. So in net-net as a summary during Q2 we had seen improved 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 4 of 16 
+performance on account of the financial performance as well as the financial position and as a 
+strategy we will continue to focus on all these things going forward as well. With this I will hand 
+over to Arnob once again. 
+Arnob Roy: 
+This is a little bit more color on the revenues that we shipped during the first half as compared to 
+last year. If you see the profile of business the split between India Government, India Private and 
+international pretty much remains the same as before and where the India Private was almost 
+50% of our revenues and the rest was kind of close by in terms of India Government was 29% 
+and the international was 23% and the closing backlog was Rs. 9,271 Crores where India 
+obviously dominated because of the wireless purchase orders received, the Rs. 9037 Crores of 
+India and Rs. 234 Crores of International. I would like to highlight over here is that while in this 
+quarter the wireless shipments revenue has been a relatively smaller portion of our revenues and 
+it has been a largely wireline revenues. On wireless we shipped around 1000 sites initially and 
+got our manufacturing engine ramped up in this quarter. For our BSNL 4G business that revenue, 
+since our direct customer is TCS, we will be categorizing that revenue under India Private. And 
+we historically do this because whenever we ship to private system integrators where we do not 
+look at what their end customer is whether sometimes to the government, sometimes it is private 
+operator, sometimes it is international. So we categorize that business as an India Private 
+business when we sell to system integrators. So going forward as our BSNL wireless shipments 
+go up you will actually see the India Private sector starting to dominate in this pie chart. 
+This is just a recap refresh of our portfolio as you see on the right hand side we have this 
+historically a very strong wireline portfolio and we added the wireless portfolio of 4G, 5G and 
+the satellite and also 5G broadcast as well, so our products address a pretty large market. The 
+wireless market is growing from $45 billion to $50 billion over a few years and even the wireline 
+market TAM is going to go to around $36 billion, so as you can see as a combination we are 
+addressing a fairly large global market and also by having this wide breadth of portfolio we are 
+able to address many, many applications starting with 4G, 5G mobility services, to mobile 
+backhaul applications, to wholesale services, to the utilities, to critical infrastructure enterprise 
+services. So given the wide range of applications that we actually are able to service using a 
+combination of our products a lot of the addressable market becomes open to us and as you have 
+also seen we have now started  winning larger applications where a lot of combinations of these 
+products are used for building these networks. And also want to add that we are continuing to add 
+and evolve and refresh and upgrade and innovate on all the products and technology in all of 
+these segments because all of them are growth segments for us. 
+Now I come to a brief corporate update. Mr. Venkatesh Gadiyar, CFO has resigned from Tejas 
+after more than 10 years to attend to his personal commitments and also pursue other interests 
+and we wish to place on record that he has made invaluable contributions to the company and we 
+are grateful to him for all the contributions to the company which has brought us this far and 
+going forward Mr. Sumit Dhingra will take over as CFO from December 1, 2023. Sumit 
+currently works as Assistant Vice President in the Group CFO’s office at Tata Sons and he has 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 5 of 16 
+led multiple strategic business planning, capital deployment and investments, initiatives across 
+the group companies. He comes with a wide variety of experience across wide varieties of 
+companies across the group and he brings us a rich experience on finance management into the 
+company going forward. Sumit has done his MBA from IIM-Calcutta and Bachelor of 
+Engineering in Computer Science from Delhi Institute of Technology. So I will now hand it over 
+to Anand for summarizing our quarterly performance and key messages. 
+Anand Athreya: 
+Thanks Arnob. First of all I would thank Mr. Gadiyar for your tremendous contributions for the 
+last 10 years Tejas is immensely grateful to what you have done for Tejas and we wish you 
+nothing but the best in your future endeavors and in your personal life. Thank you. Having said 
+that I would like to welcome Mr. Sumit Dhingra as our next CFO he is going to be joining us in 
+the coming month, so again he is also very experienced and I am pleased to welcome him to 
+Tejas as our next CFO. Having said that the key takeaway is the business is good, we have lots of 
+opportunities, and the backlog is good. With a healthy backlog of 9271 Crores, it will help us 
+accelerate our revenue growth in the coming quarters. We are seeing increasing options and we 
+also have growth across all of our product lines both in wireline and wireless and we definitely 
+continue to make significant investments in R&D and Manufacturing operations as we scale up 
+our business. And a lot of things are coming under control which means we have a lot of 
+opportunity to execute consistently in the coming quarters. With this we will open up for Q&A. 
+Thank you. 
+Moderator: 
+Thank you very much. We will now begin the question and answer session. We have a first 
+question from the line of Vimal Jamnadas Gohil from Alchemy Capital Management Private 
+Limited. Please go ahead. 
+Vimal Jamnadas Gohil: Thank you for the opportunity and heartiest congratulations on a very strong quarter. I would like 
+to take this opportunity also to wish the best to Mr. Venkatesh Gadiyar. Thank you so much Sir. 
+My questions firstly if you could just quantify the expediting cost that took place in this quarter 
+for our supply and the expected credit losses of roughly 8 Crores how is this expected to pan out 
+and what was the reason for the same that is question number one and secondly if you can just 
+highlight what is the progress being on the international piece we have won a couple of very 
+large orders if you just highlight the timelines of the execution that will be great? Thank you so 
+much. 
+Venkatesh Gadiyar: 
+On the expedite fees more or less it was in line with what we saw in Q1 where we have incurred 
+similar kind of expedite fees. And secondly coming back to the ECL it is particularly related to 
+two particular customers wherein the payments have got delayed and we do expect to get the 
+payments during Q3 and Q4 of this financial year. And that ECL which has come as a provision 
+expected to get that in the next one or two quarters and it is temporary in nature. And it is not a 
+kind of write-off, particularly the payments have been delayed hence the provision has been 
+made. 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 6 of 16 
+Arnob Roy: 
+Just to add to the question on international orders, so the international orders are typically to be 
+fulfilled in the next quarter within 16 to 20 weeks and that is the timeline for doing that. And also 
+wanted to mention that these are very strategic orders, when you mentioned the large 
+international orders. Yes they are relatively large from a size point of view but not as large as the 
+others that you are looking at. But we consider them very strategic because as we focus on 
+growing our international business significantly going forward these deals and these applications 
+serve as very important references for us in the market that we are targeting. 
+Vimal Jamnadas Gohil: Right Sir so just one clarification on the expediting cost for supply of components when do we 
+see normalization, at what scale are our component suppliers comfortable, at what point will we 
+be sitting at the same level as them in terms of negotiations in terms of being at having an upper 
+hand in terms of negotiating well with our suppliers, I know as and when we scale but I just want 
+to know what exactly is that scale, is there a number that you are looking at, at what point will 
+these component challenges normalize or reduce to a significant extent? 
+Anand Athreya: 
+Vimal there are two components to this from a supply chain side there are some components 
+which have very long lead items till 50 weeks around and there are some components where it 
+has come down to let us say 20 to 26 weeks. Now having said that I would expect this to be 
+under better control in the coming quarters because we have two very large orders where we 
+required to ship them in the next I would say 12 to 18 months and we have already begun 
+shipments so one quarter is done. So I would say the next couple of quarters we expect this to be 
+under control because at that point we would have planned all of the production and those things 
+will be in place. 
+Arnob Roy: 
+It is to do with the supply chain management across components with widely varying timelines 
+and as Anand said in a couple of quarters will be in a much better shape in terms of being able to 
+manage this variability for shipment. It is not connected to the size of the business you are 
+delivering it is connected to managing the variability of lead times of components for our 
+products. 
+Vimal Jamnadas Gohil: Understood Sir. Thank you so much and all the very best. 
+Moderator: 
+Thank you. We have a next question from the line of Deep Mehta from Bank of India Mutual 
+Fund. Please go ahead. 
+Deep Mehta: 
+Thank you for the opportunity and congratulations for achieving highest ever revenue as well as 
+highest ever order book. Sir if I have to take slightly longer term view that is three years or even 
+five years how should the international part of our business plan both in terms of as a percentage 
+of our revenue as well as if we can talk about that would be helpful? 
+Arnob Roy: 
+Deep as you can see while currently our revenues are skewed towards India we are fully focused 
+on growing the international business so our strategy is as follows. India is a growing market is 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 7 of 16 
+one of the fastest growing markets in telecom and we do not want to miss out any opportunities 
+in this market. So while having said that we are putting a lot of investments in growing our 
+international sales teams, in doing international business development, working with partners and 
+so on, so our focus fully remains in making sure that our international business pipeline becomes 
+very strong in the next few quarters. And our ambition is to make sure that this business becomes 
+a significant portion of our overall business. 
+Deep Mehta: 
+Thank you Sir that is very helpful. If I can just ask one more question what are the key 
+geographies or key components or key technologies which we are targeting? 
+Arnob Roy: 
+You asked about market and the technology so market point of view as you know up until now 
+we have been focusing a lot on emerging markets such as Southeast Asia, Middle East, Africa 
+and lot of the international markets we have been working with OEM partners. But now our 
+focus is to go direct in the markets in Europe and US and a lot of investment and focus is going 
+on those markets because those are also one of the some of the largest size telecom markets out 
+there. In terms of the technology that we are pushing out there it is really all of what we have as 
+you have seen there is a large growing market for all our technologies wireless and wireline and 
+we serve a lot of pretty wide variety of applications. And all of those applications are applicable 
+to those markets as well so we are targeting all possible applications that I talked about earlier. 
+Deep Mehta: 
+Sure Sir this is very helpful. Thank you. 
+Moderator: 
+Thank you. We have a next question from the line of CA Kanwaljit Singh from Balaji 
+Finvestment. Please go ahead. 
+Kanwaljit Singh: 
+Good evening and congratulations for the best topline numbers but when we will be seeing the 
+profits and second we have completed a project in Italy are there any such projects in pipeline or 
+we have bid for some similar contracts elsewhere? 
+Arnob Roy: 
+As far as the first question is concerned as I told you the PAT loss in this quarter was connected 
+to our forward looking investments that we have been making in anticipation of larger business 
+growth and also execution on the business on hand. So while we do not give a guidance on the 
+absolute future numbers as well as profitability as you can see we are in a positive trajectory and 
+we hope to continue that going forward. So as we do more revenues and we shift more we should 
+see a very positive direction in terms of the profitability without having to say any absolute 
+number right now. As regarding the international business of Italy as I said this network in Italy 
+is a very good reference and showcase network for us, we talk to customers we say that hey I am 
+going to go and show you this network which is built using end-to-end Tejas products for  access, 
+the metro aggregation and core. So basically built out using all of our state-of-the-art 
+technologies. So right now while there are other customers and business pipeline which are there, 
+there are a combination of small and large and all and as I said there are multiple applications 
+that we serve with opportunities across wholesale operators, mobile backhaul, mobility and stuff 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 8 of 16 
+like that, so that is where things are regarding the business internationally and specifically 
+Europe. 
+Kanwaljit Singh: 
+There is another question what will be the strategy for Saankhya Labs? 
+Arnob Roy: 
+Saankhya as you know is a very strong in satellite communications and broadcast technology and 
+of course in semiconductor design so we are going to leverage all of their skills. Their business 
+has also been also going quite well and they were independently profitable in this quarter. And 
+they will continue to focus on the satellite communications as well as the broadcast business and 
+we have some strategic decisions and options regarding the semiconductor design using the skill 
+set that Saankhya has which we are finalizing and that is the part of the business we are going to 
+focus on as well. But initial focus is developing chips for our own internal products, for our 
+internal consumption right now. But yes, in a nutshell, they are a very key part of our business 
+strategy going forward. 
+Kanwaljit Singh: 
+Thank you very much. 
+Moderator: 
+Thank you. We have a next question from the line of Agam from Raj Trading. Please go ahead. 
+Agam: 
+Can you give the gross margin for this quarter versus the previous quarter? 
+Arnob Roy: 
+We do not disclose the gross margin numbers but has been remaining pretty much the same 
+across the last couple of quarters. 
+Agam: 
+If you can guide to what will be the gross margin towards the execution of this order? 
+Arnob Roy: 
+Which order? 
+Agam: 
+BSNL order. 
+Arnob Roy: 
+We do not disclose deal wise or customer wise or product wise margin. It is like a blended kind 
+of thing and one deal in terms of having common components across deals. Each and every deal 
+as part of our sourcing strategy helps in the margins of all other deals so we could not usually 
+break down details about customer wise or product wise margins. 
+Agam: 
+All the best. 
+Moderator: 
+Thank you. We have a next question from the line of NGN Puranik from Enam Investments. 
+Please go ahead. 
+NGN Puranik: 
+Hi Arnob Congratulations you have first stage of getting the topline hurdle you have broken I 
+think getting the operating leverage is more important now from here on. So I want to understand 
+a couple of things how is your deep IP factory working here because you have several IPs, 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 9 of 16 
+several people working on it, you yourself are deeply into it how is that getting leveraged 
+because when I see you have a 9000 Crores plus odd book over time when these IP is leveraged 
+there is a lot of potential profits and cash flows sitting in this 9000 Crores and if you use your IP 
+because you have a huge IP character in your business so how do you think that will pan out and 
+also you must have done a profitability test and liquidity test on this 9000 Crores order so can 
+you give you some sense? 
+Arnob Roy: 
+So first of all thanks Puranik for your encouraging words. Yes I think this pipeline is very 
+important for us and gives us a runway for next several many quarters. So in terms of our IPs, the 
+IPs that we develop goes into the heart of our products into our core products and these IPs also 
+leverage across multiple products. As you know one of the strengths of our product portfolio is 
+the convergence of products across different applications and most of the IP that we develop in 
+wireless and wireline go into designing these products and making them very efficient. So you 
+are right since this IP and the optimization of IP is what leads to efficient product designs and 
+better margins and improves our product margins. The other question was that about have you 
+worked out the financials of this deals and something so the answer is short…. 
+NGN Puranik: 
+I am not asking you on a single contract I am asking you have aggregation of various contracts 
+public sector India, government India, private sector India, private sector outside, everything so 
+on a blended basis you must be having a lot of profits cash flow sitting here so if you can give 
+some sense of that? 
+Arnob Roy: 
+Puranik we do not give financial guidance.. 
+NGN Puranik: 
+No I am not asking for guidance see the potential see otherwise what happens you are such an IT 
+company IP you may become meaningful when it is monetized so one day it has to happen so 
+you tell me what is IP doing otherwise IP is not working at all you are having several patents it is 
+not people are not respecting that when they are not paying for that. 
+Arnob Roy: 
+I think I understand your question to monetizing of the patents correct? 
+NGN Puranik: 
+Yes absolutely that has to come through your product network that you create and sell it because 
+when you can sell cheap because you have an IP character so you can still compete well but you 
+still need to get your supply chain this which most important to this business right? 
+Arnob Roy: 
+Puranik as I mentioned the IPs that we develop and all our patents are first of all used in our 
+products and right now we are building patents in terms of our innovative ideas and also it is like 
+a kind of a defensive portfolio. So right now with the focus on building products and selling and 
+building networks globally the current focus is not in terms of going into where I can license IP 
+or can I generate patent licensing revenues. We are not really focused on that yet because our 
+hands are full in terms of product development and shipments and customer wins and so on. So 
+to be honest we have not yet started looking at how do I monetize the patents individually. 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 10 of 16 
+NGN Puranik: 
+Individually but use them into your product so cost come down your buildup material comes 
+down when there is IP already utilizing I am saying from that context? 
+Arnob Roy: 
+Yes of course the IP that we developed it brings down our cost in multiple ways we reuse it 
+across multiple products, brings down our product development time and since we also realize it 
+on a similar kind of hardware we get the benefits of volumes. So yes, the IP that we have as I 
+said our biggest leverage is in the products that we develop and the efficiency and the 
+competiveness that it brings right now. 
+NGN Puranik: 
+What plans you have for Saankhya Labs will they be developing homegrown chipset for you, 
+silicons for you long-term, they seem to understand DSP space also well? 
+Arnob Roy: 
+Correct so as I mentioned there are three areas one part is the satellite communication products 
+they are very innovative set of products for satellite communication and they are developing 
+applications and bidding into very strategic deals using the satellite communication technology. 
+The other part is 5G broadcast technology for multiple applications such as data distribution as a 
+service, direct to mobile etc. They have an innovative portfolio through which they are 
+addressing multiple opportunities. And the third part is their silicon design skills. So as I said for 
+the Silicon design skills we are first of all focusing a lot on in terms of how we can apply those 
+skill sets and the devices that they have for use in our products to get competiveness and this 
+connects with your IP question. So our first goal is to leverage what they have and also the 
+design skills in terms of developing new semiconductors into our products so that is the part of 
+the strategy. We are not yet looking at how we can get into the semiconductor market of building 
+chips and selling it globally. 
+NGN Puranik: 
+Then you can take them to the market if it succeeds internally for yourself? 
+Arnob Roy: 
+Correct. 
+NGN Puranik: 
+Good so you are not telling me what those secrets are sitting in the 9000 Crores order book. 
+Excellent. All the very best to you and the best wishes to Venkatesh on his future endeavor. 
+Moderator: 
+Thank you. We have a next question from the line of Nitin Gosar from BOI Mutual Fund. Please 
+go ahead. 
+Nitin Gosar: 
+Thank you for this call just taking from the previous participant question wanted to understand 
+again on the IP part at what stage we are in terms of IP utilization or are the IP capabilities that 
+we have developed allowing us to bid for complex projects or the IP capabilities that we have 
+developed are allowing us to bid at a lower price, how should we distinguish between these two? 
+Arnob Roy: 
+If you look at the IP that we have that consists of several things one is the semiconductor IP that 
+we have, the other part is the software IP that we have in terms of software protocols and related 
+elements, then there is the system design IP that we have. So these are all the techniques and 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 11 of 16 
+innovations that has resulted in those patents and these are the ones that are also used in our 
+products. So if you look at what does it give us three things: the innovative solutions which gives 
+us competitiveness against our competitors, it gives us cost benefit by being able to use our 
+internal IPs and using it efficiently across multiple products. So, overall, in a nutshell, it makes us 
+more competitive both from a technology point of view as well as from a cost point of view. 
+Thus the IPs that we use span across multiple areas including software, semiconductors, 
+hardware and system design. 
+Anand Athreya: 
+If I may add Arnob because of the leverage it also reduces our time to market. 
+Nitin Gosar: 
+Got it and that is what you indicated the speed is the essence in terms of servicing the market. 
+Second question is with regard to a cost metrics keeping in mind now we are in position to scale 
+up our business should we expect the cost metrics at least the fixed cost part to grow or to stay 
+where it is how should we look at that? 
+Arnob Roy: 
+As I said we have invested ahead of our growth curve so at some point of time this fixed cost will 
+stabilize and when we know that we have invested adequately to take care of our growth it will 
+be stabilized and the business growth will be addressed by what we have. So the investments that 
+we are making in, people and infrastructure and manufacturing lines, we have to scale it to the 
+level we need for executing on our business and then the cost increases will come down 
+significantly. 
+Nitin Gosar: 
+Got it and Sir last bit I know you are not for the competitive reason in position to dwell out on 
+the gross margins but would it be good enough to understand the current quarter where we are 
+and the gross margins we could be having are the appropriate margin the business would 
+command or there is some kind of one-off or something? 
+Arnob Roy: 
+Yes in the sense that as I said gross margin has remained very similar across the quarters. And if 
+you see one of the factors you also mentioned was the expedite fees component and supply chain 
+variability. So once that part comes under control that will help us in reducing our product costs 
+and improving our margins. 
+Nitin Gosar: 
+Perfect Sir this was very helpful. 
+Moderator: 
+Thank you. We have a next question from the line of Arpit Kapoor from Ashmore Investment 
+LLP. Please go ahead. 
+Arpit Kapoor: 
+Thanks Anand and Arnob and congrats on numbers on the topline specifically but just continuing 
+with Nitin’s question the last one on the gross margin bit at least in the near term so given that a 
+lot of chip shortage which was probably impacting in the last 18 months that has been addressed 
+but given the order book that we have which we need to execute in the near term how 
+comfortable are we would be in a position to execute the order without let us say incurring those 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 12 of 16 
+extra cost because of the delays in supply chain which may get addressed let us say in the next 3 
+to 6 months? 
+Arnob Roy: 
+First of all for those large orders the good thing is that we have already placed our purchase 
+orders, we already kind of locked the prices and working towards pulling in the components as 
+per our shipment plans. As I said if your question was that are we going to continue to pay 
+expedite fees over multiple quarters we do not expect that, I think that portion of our cost will 
+slowly come down as we get more predictable in our ordering and our supply chain management. 
+Earlier the whole chip supply situation was so unpredictable and so variable that it hit us badly. 
+We are as I said reaching the tail end of these issues. The variability was a key factor. While the 
+lead times are still long but as long as they are constant we are able to plan more effectively and 
+that is what is happening. So we expect that slowly quarter-by-quarter we are getting under into 
+better control on supply chain and the expedite costs will progressively come down. 
+Arpit Kapoor: 
+Related to this is some of the incentives that the government of India had given on the PLI front 
+so would that have any impact on the numbers so let us say what we would have produced last 
+year and what we would be producing this year in the next so would part of our business qualify 
+for some of those incentives and how would you want to account that? 
+Arnob Roy: 
+Yes we have been approved for PLI so all products that we manufacture and do business in 
+qualify for PLI incentives. As of now we have applied for the PLI incentives for last fiscal and 
+that is currently going through the process. We took some time to fill in the application because 
+we wanted to go through our internal and external audits and then we finally put in the 
+application and are waiting for clearance. We will announce it once it is approved but yes PLI is 
+something that we are applying for all products and all shipments that we make. 
+Arpit Kapoor: 
+Last one slightly on the medium term so as Anand said to the fact that we also want to build a big 
+export order book so how should one look at it on the medium term in terms of the margin profile 
+for the company so would you want to be someone like some other telecom equipment 
+manufacturers which have been there listed across other geographies or how to look about how to 
+look at the margin profile let us say 3 years or five years down the line when the order book is 
+much more diversified and not reliant solely on Indian order book? 
+Anand Athreya: 
+Yes so look as we begin to grow and we have better purchasing power or bargaining power and 
+also we have a good mix of both domestic and international government and non-government 
+customers so we will definitely see better margins. And also as you do more international 
+business if that split becomes good then I am sure we will be comparable to other large OEMs in 
+this world and our goal is to strive to get there. Now I think with a complete portfolio and with 
+this delivery especially with BSNL I think we will be viewed as a very credible player in the 
+wireless place also in addition to the wireline space and as we build more I think we will be 
+recognized as one of the leading OEMs in the world. 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 13 of 16 
+Arpit Kapoor: 
+Sure thanks and best wishes to you. 
+Moderator: 
+Thank you. We have a next question from the line of Sachin Jain, an Individual Investor. Please 
+go ahead. 
+Sachin Jain: 
+Hi my question is once you have done with the BSNL order and roughly execute in 18-24 
+months you are talking about 4000 Crores plus kind of topline and once you are done with this 
+order are you confident of sustaining these kind of run rates that is just my question? 
+Anand Athreya: 
+The answer is look I think it is imperative that we deliver successfully and this is a huge win and 
+a lot of things are at stake here. So it is imperative that we stay focused, but my belief is that once 
+we execute this we will also achieve a lot of credibility which means we expect a lot more 
+companies to trust us to deliver more and I think opportunities will come that is a belief. Now do 
+we have that on hand today, no. 
+Arnob Roy: 
+Also wanted to add that in terms of business opportunities that we see in front of us in India of 
+course after the 4G and the 5G upgrade there are other opportunities coming in 5G from where 
+BSNL themselves are looking at a larger 5G Network. There are government investments coming 
+in BharatNet Phase-III which government has announced which could again be large 
+opportunities. Apart from that all the 5G-driven bandwidth growth in the country and upgrading 
+of the backhaul networks are strong opportunities for us in India. I think the question is how do 
+we accelerate our international business growth based on these successes and whatever we have 
+done in India with especially with deals like this has given us a huge international visibility as 
+well because this is one of the largest single 4G wireless network orders so our brand is getting a 
+lot more recognition elsewhere. So while we have this huge pipeline of India business to really 
+leverage, our focus is that we leverage our success over here to build a similar kind of pipeline 
+internationally. 
+Sachin Jain: 
+Thank you. 
+Arnob Roy: 
+In a nutshell opportunities are all visible it is a question of really winning them converting them 
+and building on that success. 
+Moderator: 
+Thank you. We have a next question from the line of Aditya Mehta from G.K Capital. Please go 
+ahead. 
+Aditya Mehta: 
+Good evening Sir Congratulations on a good set of numbers. So Sir can you please share the 
+quantum of expedite fees and the investment that we have done in this quarter? 
+Anand Athreya: 
+So we do not really disclose the specifics of expenses in each of those categories whether the 
+investments or the expedite fees etc. As you mentioned that had an impact on our product 
+margins and as the next few quarters get over as our supply chain processes get more and more 
+mature and the supply chain stabilizes I think we expect that to steadily reduce and go away in 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 14 of 16 
+the future. But unfortunately we do not quantify what is the quantum of the margin hit due to 
+expedite fees. 
+Aditya Mehta: 
+Secondly how much of the order book do we plan to execute in FY2024? 
+Anand Athreya: 
+Wireless 50% of the wireless roughly and then wireline is over 24 months. I think this is more of 
+a 24-month pipeline of wireline and wireless that we have. 
+Aditya Mehta: 
+Thank you. 
+Moderator: 
+Thank you. We have a next question from the line of NGN Puranik from Enam Investments. 
+Please go ahead. 
+NGN Puranik: 
+I have a follow on question what is the feedback on the ground level feedback on 4G 
+implementation today from the user? 
+Kumar N Sivarajan: 
+The customer has not published the details I would say that, pretty much it is satisfactory. Many 
+commercial users are using it, lot of data is being downloaded but exact figure since it is 
+customer confidential, I would not like to disclose, but yes the initial deployments have gone. 
+Arnob Roy: 
+Also the fact that the customer has existing wireless network so he compares us with his existing 
+deployments as well from other vendors. 
+NGN Puranik: 
+I was coming to that next question so you answered it so it compares very well with other 
+vendors on a 4G basis? 
+Arnob Roy: 
+Yes that is very minute and detailed comparison that we go through in terms of our performance. 
+NGN Puranik: 
+How long will the implementation take to complete on next 2 year-3 year one or how long will 
+that be? 
+Anand Athreya: 
+I would say 18 to 24 months. 
+NGN Puranik: 
+18-24 months and my another question is about from 4G to 5G when you developed is it an 
+incremental effort or is it a long haul effort to develop your backhaul? 
+Anand Athreya: 
+So there are two components to it there is an incremental effort to upgrade from 4G to 5G but 
+there is also a new development that has happened for the last couple of years already so we are 
+going to get ready with even 5G radios and stuff very, very soon. 
+NGN Puranik: 
+Excellent so that does not require much capital or people investing? 
+ 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 15 of 16 
+ 
+Anand Athreya: 
+As Arnob said earlier the R&D investment is ahead of the ROI. 
+NGN Puranik: 
+So when do you see that 5G launch? 
+Arnob Roy: 
+It will happen sometime next year. In various phases so because there is one part of it is a 5G 
+upgrade of the 4G side and the other part is 5G for the newer bands and then multiple different 
+radios.So there is a wide range of 5G products that we will be launching over next year. 
+NGN Puranik: 
+So there are a lot of upgrades from 4G to 5G so that is again incremental while you are 
+implementing it? 
+Arnob Roy: 
+So lots of IP we are going to leverage of course, in terms of software, in terms of design. In 5G 
+because of the support of new bands and many new applications there will be a good amount of 
+new development that is also going to happen both in hardware as well as software. But a lot of 
+the core technology and development and designs will be reused. 
+NGN Puranik: 
+Most of these implementations are outsourced or? 
+Anand Athreya: 
+Everything in-house. 
+NGN Puranik: 
+In house so how many people you added in the last six months-one year? 
+Arnob Roy: 
+We almost doubled R&D team and then similar kind of growth in all other manufacturing… 
+NGN Puranik: 
+On the implementation team? 
+Arnob Roy: 
+Implementation meaning you are talking about field teams or? 
+NGN Puranik: 
+The people who implement this at the network level. 
+Anand Athreya: 
+So the primary investment has been in R&D but there have been marginal investments support 
+and other functions but in this particular case because we were using TCS they will do the 
+deployment. 
+NGN Puranik: 
+TCS will be doing the deployment? 
+Anand Athreya: 
+Yes. 
+NGN Puranik: 
+Excellent. Thank you. All the best. 
+Anand Athreya: 
+In the interest of time I think we are open for one last question please. 
+
+ 
+ 
+ 
+ 
+    Tejas Networks Limited 
+October 20, 2023 
+ 
+Page 16 of 16 
+Moderator: 
+Sir there are no questions currently. 
+Anand Athreya: 
+Again all great questions and thank you very much and thanks for your support. 
+Moderator: 
+Thank you. On behalf of ICICI Securities that concludes this conference. Thank you for joining 
+us. You may not disconnect your lines. 

@@ -1,0 +1,981 @@
+ 
+UGRO CAPITAL LIMITED 
+Registered Office Address: Equinox Business Park, Tower 3, 4th Floor, LBS Road, Kurla (West), Mumbai - 400070 
+CIN: L67120MH1993PLC070739 
+Telephone: +91 22 48918686  I  E-mail: yougrow@ugrocapital.com  I  Website: www.ugrocapital.com 
+ 
+29th July,2022 
+ 
+BSE Limited 
+25th floor, Phiroze Towers,  
+Dalal Street,  
+Fort, Mumbai- 400001 
+ 
+Scrip code: 511742  
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, Plot No. C/1,  
+G Block, Bandra - Kurla Complex,  
+Bandra (E), Mumbai - 400 051 
+ 
+NSE Symbol: UGROCAP 
+Subject: Transcript of the Earnings Call with Analysts/Investors held on 25th July, 2022.  
+ 
+Dear Sir/ Madam, 
+ 
+We refer to our intimation dated 25th July,2022, informing uploading of the video recording of the earnings 
+call hosted by the Company on the same date to discuss the Financial Results for the quarter ended 30th 
+June,2022 on its website.  
+ 
+ 
+In this connection, pursuant to Regulation 30 of the SEBI (Listing Obligations & Disclosure Requirements) 
+Regulations, 2015, please find enclosed the transcript of the said earnings call. The said transcript is also 
+being uploaded on the website of the Company.  
+ 
+ 
+This is for your information and records. 
+ 
+Thanking You, 
+ 
+Yours faithfully,  
+For UGRO Capital Limited 
+ 
+ 
+ 
+Namrata Sajnani 
+Company Secretary and Compliance Officer 
+ 
+NAMRATA 
+SAJNANI
+Digitally signed by 
+NAMRATA SAJNANI 
+Date: 2022.07.29 
+16:51:53 +05'30'
+
+                                                                                 May 25, 2022 
+ 
+
+                                                                                 May 25, 2022 
+ 
+Rhave Shah: 
+Ladies and gentlemen, good afternoon and welcome. Emkay Global Financial Services takes great pleasure 
+in housing the Q1’FY23 results conference call for UGRO Capital Ltd. We have with us from the management 
+Mr. Shachindra Nath who is Vice Chairman and Managing Director; Mr. Amit Mande, Chief Revenue Officer; 
+Mr. Anuj Pandey, Chief Risk Office; Mr. Amit Gupta, Chief Financial Officer; Mr. Nirav Shah, Chief Strategy 
+Officer and Head of Investor Relations; Mr. Rishabh Garg, Chief Technology Officer; Mr. Subrata Das, Chief 
+Innovation Officer. So, without any further delay, I would now like to hand over the floor to the 
+management for their opening comments. Thank you and over to you sirs. 
+ 
+Shachindra Nath:  
+ Good evening, everyone, I am Shachindra Nath. Thank you all for joining our Q1 result presentation.  
+ 
+Shachindra Nath:  
+We started with this in our last quarter. Our belief is that like consumer credit business in India, the small 
+business financing is also rapidly embracing the data driven underwriting. Since start of demonetisation 
+and advent of GST and creation of three layer of India data stack is ensuring that in over next two to three 
+years, the entire SME credit space would move to a data driven underwriting. The identity layer, the 
+payment layer, and the data layer combined with the power of multiple alternative sources of data would 
+move the credit into three different forms of credit which we call embedded credit, flow-based credit, and 
+buy now pay later and this is also massively supported now. Once fully implemented the OCEN Network 
+and the ONDC would make the merchant financing business very permanent. We have been saying this 
+over a period of last many quarters that there is a transformation of NBFC lending space is happening. The 
+NBFC lending space is getting divided between some very large-capitalized, owner driven NBFCs, and the 
+larger ecosystem which must converge to lending as a service. We have seen the LaaS companies across 
+Europe, UK, and US, but India is now seeing an evolution of lending as a service. What basically it means 
+that unlike conventionally all of you have seen that lending outside the bank through NBFC is a business of 
+leverage versus now it is becoming business of service. On one side of the spectrum, where we specialize, 
+in being able to find or what we call source filter underwrite the customer. On the other side of the 
+spectrum, we have the owners of the liability or the liquidity which are banks and large financial institutions. 
+The way we design ourself that while we are a principal lender, we have a highly capitalised balance sheet 
+and we borrow on our balance sheet, but our eventual goal is to be able to service the large ecosystem of 
+small businesses in India, being able to filter them, use our data driven underwriting and clear them through 
+our score and finally the balance sheet belongs to the large banks and that creates a very large fee 
+generating model for businesses like NBFCs or Fintech whatever we may want to call it. Our next few slides 
+we will explain that how we are evolving from a leverage business to LaaS as a business but over this Q1 
+we have been able to prove that this is happening. We have been able to cumulatively disburse 6000+ 
+crores over a period of last four years of which roughly around two years were lost. We have an asset under 
+management of 3650 crore which is a growth of almost 700+ crore over a period of one quarter and we 
+have an off-book AUM of 780 odd crores. So, from a 16% of our balance sheet, which was off our books, 
+now we have moved to 21%. We are now servicing 25,000 plus customers. We have a physical footprint of 
+95 plus location. Beside we have roughly around 1300 to 1400 people, we have around 1000 plus partners 
+who services our customer base and for our supply chain business, we have very strong base of 75+ OEMs 
+
+                                                                                 May 25, 2022 
+and anchors in our ecosystem version. And finally, I think UGRO over period of last five to six quarters have 
+become a company which services the need of an SME or MSME customer right from a small ₹1-lakh loan 
+to ₹5-crores of credit in different format of what we call the product through multiple distribution. So, we 
+have ability to do secured business loan machinery, unsecured business loan, and micro enterprises loan, 
+supply chain financing and merchant financing which is a digital platform which will be coming soon. I hand 
+it over to Anuj to talk to you about how the data ecosystem in UGRO has evolved and what data could be 
+doing to the MSME financing ecosystem in India. 
+ 
+Anuj Pandey:   
+Thank you Shachindra. So, over the next couple of slides, I will just take you all through how the digital 
+ecosystem has evolved and how we seem to be in the right place at the right time with right set of design 
+and execution capabilities to have a meaningful impact on the very large lending opportunity which is 
+present across SME lending in India. And first thing first, a very quick review on how we have evolved in last 
+three-four years. How we have been able to apply data analytics in technology not only in the very core 
+area of underwriting, which I will explain in detail in later slides but also in other aspects of our institution. 
+In fact, we have been readily using comprehensive data lead insights in early warning systems. We have 
+applied the same approach in our operations and collections team at the origination level. Right from day 
+one, we have been using it to a very large extent, in fact, to open our new branches in micro locations, we 
+have used data science extensively. So, overall, not only in underwriting we have seen and found a lot of 
+advantages in using technology and data platforms across. So, we will probably be one of the first large 
+scale NBFCs to do that. At the very heart of what we have done is what we call a GRO Score. When we 
+started in January 2019 with our first loan, we were using the first version of our GRO Score which was 
+based on a simple hypothesis and design that when you look at the customer via the lens of the sector in 
+which it operates, one is able to understand his cash flow in much better way and hence one is able to 
+predict the portfolio performance much better and this got severely tested and we passed that test 
+successfully during both pandemic one and pandemic two. Our portfolio has remained intact and is in much 
+better shape vis-à-vis competition and during that impact we learnt that the banking behaviour also is a 
+very key contributor in predicting future portfolio performance for SMEs. So, we launched our GRO Score 
+2.0 version which made use of not only the repayment behavior analysed through the lens of ecosystem 
+but also the banking behavior and it became a very-very powerful tool. We implemented that in July of 
+2021 and as of March 2022, data is now sufficiently analyzed, and we can see that directionally we have 
+found a way to template and standardise and scale an underwriting methodology for across SMEs in India. 
+Our ambition now is to include the GST data as well and internally we called this GRO Score 3.0. The target 
+is to launch it by the end of 3rd quarter in this year and once we do that, then it becomes a real tripod and 
+one of the most powerful tools in underwriting to SMEs and this has been done by our own portfolio 
+generated data, has been very thoroughly tested statistically. We have analysed more than 45,000 bank 
+statements and more than 21,000 applications have been processed post our GRO Score 2.0 application. 
+So, from as far as statistical rigor is concerned, we haven't left any stone unturned, and we really want our 
+GRO Score to become the benchmark as far as underwriting to SMEs is concerned. Just a little more on how 
+the GRO Score works and the basis of that of how what we can do is a very extensive library of about 25,000 
+plus data features which we have been collecting methodologically since day one of launch. So, for all 
+customers, whether we approve them or reject them, we collect last 12 months of banking data in a 
+
+                                                                                 May 25, 2022 
+machine learning format and last 24 months of GST returns and from that, the machine learning tool keeps 
+extracting data features which can eventually be used to correlate with portfolio performance and now a 
+third layer of GST is planned to being added there. This, we had referred to in our last call as well but this 
+is a very important slide because it is telling us that directionally it is possible to completely templatize the 
+way SMEs are underwritten. Very simply our new GRO Score 2.0 which is live since July of 2021 classifies all 
+customers which we underwrite in five risk bands and depending on that risk band there is a probability of 
+default which is assigned and now we have already seen data for customers who are now more than 6 
+months and up to 12 months where the risk stacking where a GRO Score “A “ customer which is the least 
+risky versus a GRO Score “E”  customer which is the most risky, their performance both on our books and 
+both off books where we have been tracking their performance with other financiers is stacking up the way 
+it should be. In the longer run, we would want to reach a situation where physical underwriting inference 
+and input becomes as low as possible. The underwriters’ role would be to do a quality reference check and 
+apply his mind to improve the scorecard and the machine taking over and, in that direction, this is a very 
+important step. All this was made possible if you recall people who have been listening to our story because 
+we are focused on our customers via the lens of the sector in which they operate. So, when we started and 
+the endeavor was to look at sectors which are large, where the macro and microeconomic parameters were 
+favorable in short to medium term and there was enough data available to make use of. So, we had done 
+a very large exercise with CRISIL and we have chosen eight sectors in which our target segments were 
+smaller SMEs where we can give loans up to ₹5-crores and these eight sectors were healthcare, hospitality, 
+light engineering, auto components, education, electrical equipment, chemicals, and food processing. We 
+also, during our journey about one and half years back, introduced a new sector which we called micro 
+enterprises because we realised and industry data was telling us that this differentiation basis sector was 
+not really applicable if the size of the enterprise is very small. The size itself was a differentiator. So, we 
+included a new sector called micro enterprises where the focus was on very small businesses with loans up 
+to 25-Lakh. So, today we have focused on these nine sectors, eight of our original plus ninth which came 
+about last year. And now I will ask Amit to take over and he can take you through how we have designed in 
+terms of technology, our product structure, and the financial numbers over to you Amit. 
+ 
+Amit Mande:  
+Thank you Anuj. And like you rightly said this is to all due to our GRO Score, our proprietary GRO Score, we 
+call it the magic sauce, sometimes we call it the Coke formula, remains at the heart of everything that we 
+do. So, around this GRO Score is what we have really built the robust tech platform. There was a need for 
+a strong platform. There was a need for differentiated platforms to harness the power of data. This remains 
+at the heart of our robust technology platform. There was a need to have customised differentiated 
+platforms to harness every ecosystem and what this slide really shows is a different platform. Our GRO+ 
+platforms look at, intermediary distribution in the prime branches. Our GRO Direct is where we go direct to 
+the customer. GRO Chain is an interesting, high end platform that allows us to harness the ecosystems of 
+the anchors and the suppliers on a supply chain business and the most important Mr. Nath did touch upon 
+this as our route to becoming lending as a service entity, our extremely important platform, our GRO 
+Xstream  actually connects the fintechs and the NBFCs on one side, the public sector banks on the other 
+side making us a truly lending as a service platform. All these really revolve around this one thing that we 
+are proud of what we have done as a proof of concept, understood the test of times is our GRO Score 2.0. 
+
+                                                                                 May 25, 2022 
+With this, really what are we doing is, we are servicing every credit need of every MSME. So, we have 
+designed products starting from ₹50 Thousand to ₹5 crores. Products that have tenures from 30 days to 
+around 15 years and all kinds of needs being serviced. What really this GRO Score does is a GRO Score really 
+credit evaluates customer and then if he is worth delivering credit to depending upon what kind of product 
+he wants is the customer price, the customer is priced depending upon what kind of security he brings on 
+the table and so we are able to do multiple products like loan against property, we do a productive asset 
+financing, unsecured loans, supply chain and our micro enterprise loans all of these revolve around this one 
+simple concept of GRO Score and is supported by our platform. More importantly on the distribution side, 
+we are now at about 96 locations. So, I was talking that our distribution strength continues to improve 
+quarter-on-quarter. We are now in 96 locations, more than 1000 GRO partners. Our ecosystem of anchors 
+and OEMs who power our supply chain and the productive asset financing machinery finance business again 
+has been growing quarter-on-quarter and of course our employee strength at the front end now is more 
+than 700 people that work on all these platforms. If we were to look at how our distribution is we have 
+realised that there are multiple customer cohorts that we want to reach to and we have very different 
+distribution models. Our branch lead channel looks at the Prime branches and the micro branches, they 
+service the intermediary distribution, they take to the customers our loan against property, our affordable 
+LAP, our unsecured loans business, our ecosystem business, distribution model actually harnesses the 
+ecosystems of the anchors for the supply chain both on the vendor and the distribution side. It harnesses 
+the ecosystem of the OEMs for the machinery finance business. On the GRO Xstream platform, on one side 
+there are large number of partnership and alliances, NBFCs and Fintechs where we do very differentiated 
+products with them to reach to the last mile and most importantly direct to customer digital channel that 
+will now get enhanced by end of August to really step up our customer acquisition engine and this will be 
+one of its kind direct to customer channel that we will launch in August. We will of course see the launch 
+that will be a visible launch and we will be able to divulge lot of more information possibly in the next 
+quarter. But as we continue to build our distribution as we continue to build our asset book, one important 
+thing I wanted to talk about the lending as a service platform. As we continue to build this, our partnerships 
+with the PSU Banks and the NBFCs for co-lending and SFCs continue to increase. In last quarter we had 
+about five, we are now increasing this. We have got Punjab and Sind Bank on board, we have signed with 
+Punjab and Sind Bank for all products. By next quarter, we will have another two banks having signed up. 
+So, that takes care not only of just our liability position but our ability to off book our AUM, look at how 
+beautiful the off booking of AUM continues to grow quarter-on-quarter. So, last quarter we were at about 
+16%, this quarter we are at 21% of our AUM off book and this is thanks to all our partnerships with the PSU 
+Banks and some large leading NBFCs where we do co-lending and co-origination 
+ 
+Amit Mande:  
+We kept saying that we wanted to do lending as a service. When we spoke last time after our annual results, 
+we said that we wanted to build a 7000 crore AUM by end of the year and this is really where we are saying 
+that we are absolutely on track to deliver. We had a great first quarter, our AUM stands at about 3,656 
+crores, off book AUM is at 21%. Our net total income remains healthy at 10.5% and importantly our credit 
+cost is very much under control and so it is at about 1.4%. Overall, I think the real message here is that we 
+started this year to get to a 7000 crore AUM or 35% off book out of that and more than 2% ROA and I think 
+
+                                                                                 May 25, 2022 
+we are completely on track to get to those numbers. The first quarter has been a testimonial of that. With 
+that thank you and I open this floor for discussion. 
+ 
+Nirav Shah:  
+Rhave, I think we will just take up the questions one-by-one. 
+ 
+Rhave Shah:  
+Anonymous Attendee Question-What percentage of sourcing is done through the DSA channel? 
+ 
+Amit Mande:  
+At this point of time 55% of our business comes from the Prime branches in which there is also Machinery 
+finance business so amongst our book about 48% to 50% of our book will be generated by the 
+intermediaries. The rest 50% is through direct and through other partnerships. 
+ 
+Rhave Shah:  
+Okay, we have a question from Mr. Chinmaya Bhargava.  
+ 
+Chinmaya Bhargava:  
+Hi, good afternoon. Nice to see you all and congratulations on the numbers this quarter. I have about three 
+questions on the business. So, let's get started. The first question is on our GRO Score and we spent a lot of 
+time explaining this, but I have a few more basic questions with the GRO Score itself. We have 25,000 data 
+points as you have said, right, but the more data points we add to a model, the more complex relationship 
+becomes between the data and more noise and contradictions you will have between different data points. 
+What framework do we use to choose which data amongst that huge set to prioritize and could you tell me 
+for using like a Bayesian Framework, Stochastic Framework how are we using our probability models and 
+more basically if we take a case study right like if we discuss nursing homes for example can you tell me 
+how our understanding of this single business has changed from GRO one to GRO three where we are now? 
+ 
+Subrata Das:  
+The first part of question which says there are 25,000 attributes and the method used. So, first of all it is a 
+future library. It is a total universe of parameters which could be potentially used to predict the probability 
+of default and you are right in saying that not all of them could be used without loss of significance. The 
+approach that we take is we make as many parameters as possible based on our functional and business 
+expertise and that maximizes our chances of fitting a very powerful model which holds the test of 
+blacklisting. Having said that there is a scientific and elaborate method of reducing those dimensions into 
+eventually a set of around 35 to 40. The approach that we use you mentioned Bayesian and Stochastic 
+processes what we use is basically supervised learning techniques because we are predicting zero or one 
+outcome or a good or bad outcome on a training dataset and we follow a very well-defined objective 
+framework to gradually reduce the 25,000 to the set of 35 or 40 most important significant parameters 
+which have least correlation with each other; however, in conjunction are most powerful in predicting the 
+default. The exact formula or the system of base which is used to arrive at the probability of default that is 
+the part which we keep as proprietary to ourselves.  
+ 
+
+                                                                                 May 25, 2022 
+Chinmaya Bhargava:  
+Okay, that makes sense. Could you just tell me a little bit about how our understanding has changed from 
+GRO 1 to GRO 3? 
+ 
+Subrata Das:  
+So, when we did GRO 1, we had very little data of our own and we were working in conjunction with a Large 
+Credit Bureau and developing models on something that we call look alike population one that best 
+resembles our target segment; however, they were not our datasets. From there, we moved onto 2.0 which 
+is currently invoke since July 2021 which has two major components, one that being developed on our own 
+incoming data and with all in-house models predicts much more sharply. Second, it combines the Credit 
+Bureau history of the borrowers both the commercial entity as well as the individual applicants as well as 
+the bank statement into one consolidated scoring model. And 3.0 is going to incorporate the GST records 
+of the entity and thereby it is going to be first of its kind a very robust predictive model which captures the 
+intensity of business in a real time GST. The financial discipline of the intent to pay through the Bureau 
+record and the ability to pay through so let say the current cash situation and the credits and debits visible 
+in the bank statement. 
+ 
+Chinmaya Bhargava:  
+Okay. Two follow ups there, so one the recent push from the RBI to on board the PSU banks to the account 
+aggregators, do you think that is a significant data point for us to improve our model? 
+ 
+Shachindra Nath:  
+Yes. 
+ 
+Subrata Das:  
+Definitely, yes, it is. I think it just depends on how much of participation we see in what span of time but in 
+a destination state where account aggregator has the participation of the entire banking sector that it can 
+change things. 
+ 
+Shachindra Nath:  
+Currently the problem is a friction. So, today banking which is one of the most important component to 
+assess the cash flow of a customer so what we say ability to pay come from a physical bank statement and 
+the conversion and the friction from physical to a data and being able to analyse that requires multiple level 
+of curing and intervention but when the same dataset would come from account aggregation it becomes 
+very efficient and second one of the big constraint for a non-bank lender is that our ability to refresh this 
+data on a periodic basis. So account aggregation not just for the bank but also GST being part of that would 
+allow us to fetch the same data on periodic basis and update our model and look at the point of lending 
+what is the risk associated but it improves our AWS model early warning signals model, Anuj if you want to 
+add something to that. 
+ 
+Anuj Pandey:   
+Yeah right, so basically today whenever they are getting data it is at the time of acquisition and there is no 
+way that we get data for monitoring purposes. Once account aggregation is fully live and all the banks are 
+participating and a lifetime consent framework is also established then not only at the time of acquisition 
+
+                                                                                 May 25, 2022 
+but during the life cycle of the loan as well, we would be continuously monitoring this cash flow data and 
+that would be much more robust. 
+ 
+Chinmaya Bhargava:  
+I can imagine. So, it is real time data which allows you to understand very quickly how sensitive the models 
+are to change. Okay, last question on the proof of concept here, the proof of concept that we have uploaded 
+so far is for GRO 2.0. Will we have anything out for the newer models like do you expect it to be better? 
+ 
+Anuj Pandey:   
+The new model is expected to go live only in December 2022. So, it is right now in the development phase. 
+So, once we implement that we will require some time for some data to get set and established and post 
+that we will do that, but there is a framework already of whenever we launch a new model what kind of 
+testing we want to do in terms of back testing and once it goes live then at what rate we should do proof 
+of concept. 
+ 
+Chinmaya Bhargava:  
+Brilliant, thank you. 
+ 
+Shachindra Nath:  
+I think I just want to add that the difference between 2 and 3, the 2 predict the default, categories the 
+customer in five band. 3 would be able to predict the default as it is being done in 2.0 but also would be 
+able to predict the ability of the customer whether the customer can afford 100,000 worth of loan or a 
+250,000 worth of loan which is today is estimated through a policy and product program on the front end 
+so that is the core difference. 
+ 
+Chinmaya Bhargava:  
+Okay. So, your approval rates, false positives all of that will improve, your Early Warning Systems with real 
+time data all of that will improve. I have one last question from my side which is if I look at now our sector 
+mix this quarter and I compare it to Q1 FY 22, I can see that education and hospitality which comprised 
+about 15% of our book is now down to below 5% for example, I know this was because of restructuring but 
+my question is what is our plan for education and hospitality going forward? Are we going to be looking at 
+a different sector? Do you see it returning to giving us the scale that we choose it in the past months? 
+ 
+Anuj Pandey:   
+So, we are already seeing a lot of encouraging signs in both these sectors, both in terms of our own portfolio, 
+which is a good portfolio which has been restructured and lot of demand also seems to now getting up 
+especially in education with children coming going back to school. So, slowly the plan is to keep building 
+this up. 
+ 
+Chinmaya Bhargava:  
+Okay. Thank you so much and all the best.  I will just back in the que. 
+ 
+Rhave Shah:  
+Right the next question we have from the line of Samyak Shah. 
+ 
+
+                                                                                 May 25, 2022 
+Samyak Shah:  
+Hi, thanks for the opportunity. So, I just wanted to understand how this OCEN Network that is used by the 
+company and how is it integrated with the GRO ecosystem that you have? 
+ 
+Anuj Pandey:   
+Okay, I will answer that. So OCEN, is Open Credit Enablement Network. The broad concept of this network 
+is to have data in a marketplace which is driven data storage which is given by a protocol which is 
+standardised across. The first used case of OCEN in India is a platform called GeM SAHAY where we were 
+the first lender. So, the way it works is that GeM (Government e Marketplace) is a marketplace, SAHAY is 
+the OCEN Network over and above that where on one side the sellers are SMEs and the buyers are PSUs 
+and the data of their transaction is stored in that marketplace in a format which is universal. That data we 
+have integrated with the GeM SAHAY platform. We were the first ones but there are many more financers 
+which are doing that. It accesses the moment any SME gets an order on GeM, then their previous history 
+of that transaction and SMEs demographic is available for a financer to make use of form business rules 
+around that data and do an instant approval for that case. We are already live in that. More and more OCEN 
+framework-based platforms will keep coming up once more and more people start adopting that and as far 
+as we are concerned, our business rule engines and the API network is ready whenever need arises to 
+further integrate. 
+ 
+Samyak Shah:  
+Okay, okay, understood. The other question is regarding the expansion model. So, would it be more branch 
+based going forward or would the focus be more towards digital penetration like any numbers on this? 
+ 
+Amit Mande:  
+In our earlier plan we did have a large expansion plan this year on the micro piece. Now the micro branches, 
+we do micro secured which is a high yield secured product and is a focus product for us but today with 75 
+branches over next two quarters we want to make it highly profitable and then focus on further expansion 
+of micro branches. Any expansions further from here will only be on micro branches, on the prime branches 
+where we do the intermediated business, we don't see any large expansion plans. That is number one. 
+Number two, the expansion will be in products of machinery finance, supply chain, and direct-to-customer 
+which essentially means that to some questions that somebody earlier asked what our direct distribution 
+is and what is our intermediate distribution. Our focus is to keep improving our direct distribution going 
+forward with micro branches and with the businesses where there is direct to ecosystem and there are no 
+intermediaries. So, did I answer your questions in terms of what are the plans on distribution and 
+expansion? 
+ 
+Samyak Shah:  
+So, it will be selective in terms of which areas require intermediation like a personal contact with customer 
+so like as you said in the micro area? 
+ 
+Amit Mande:  
+The answer is that we will continue to expand our micro branches where there is a direct to customer 
+digitally assisted footprint and a direct to customer digital acquisition. 
+ 
+
+                                                                                 May 25, 2022 
+Samyak Shah:  
+Alright, alright. And my last question, so just a lot of people would still not know how to go about a loan 
+approval or loan application process, so is there anything you are doing for improving awareness about 
+how to go about this online loan application procedure? 
+ 
+Amit Mande:   
+Two things, one the moment I said that we are going micro branches, direct distribution we have feet on 
+street. So, it is in customer assisted model and we will assist the customers to run through their customer 
+journeys. On the direct to customers, we will start with very simple small tickets, small tenure products 
+where the data requirement is very low and eventually take this up to a more complex product where we 
+need data on their GSTs, where we need data on their securities, their properties or whether its machinery. 
+Initially direct to consumer will always be a little simple journey, simple data requirements and over a period 
+we will graduate with the customers to a higher end product. 
+ 
+Samyak Shah:  
+Okay, okay, and one last question. Could you possibly give me a split between off book and on book 
+disbursements for last 2 or 3 years? 
+ 
+Shachindra Nath:  
+If you look at few of our slides you can see that. As of March-22, 16% of our book was off book, as of Q1 
+and it is 21%. As of we are targeting as of FY23 to be 35%. 
+ 
+Samyak Shah:  
+I was talking about the disbursements that I think is the AUM correct. 
+ 
+Amit Mande:  
+Right, so the disbursements month-on-month will be at in the range of between 35% to 40% off book. 
+ 
+Samyak Shah:   
+Alright, thanks a lot. That's all from my side. 
+ 
+Rhave Shah:  
+We have the next question from the line of Manisha Agarwal.  
+ 
+Manish Agarwal:  
+Hello Sir, am I audible? 
+ 
+Nirav Shah:  
+Yes.  
+ 
+Manish Agarwal:  
+Congratulations on good set of numbers sir. Just a couple of questions I have like this time in presentation 
+there is no mention about provision coverage ratio or NIMs. So could you help me with that number, what 
+are the NIMs in this quarter. 
+ 
+Shachindra Nath:  
+Yeah, Nirav can take this but I will just, broadly I think some of the conventional matrix which are applied 
+to NBFC, gradually we are saying is not relevant to us because the net interest margin which is a function 
+
+                                                                                 May 25, 2022 
+of our blended portfolio yield minus cost of borrowing is actually not relevant for us and is not a right 
+parameter to judge us because we may have a higher cost of borrowing vis-a-vis some of the large rated 
+NBFC but our liability come from co-lending or off balance sheeting because that may be at much lower 
+rate. Our gross income component is our interest income plus the fee income which comes from off balance 
+sheet minus our cost of capital and that's why broadly it has not been given but just to get you a sense of 
+our portfolio it is around 16.5% and cost of borrowing is 10.5%, Nirav if I'm correct unless you can clarify. 
+ 
+Nirav Shah:  
+No, I think Shachin is right absolutely. 
+ 
+Amit Mande:  
+In fact, that is represented by the net total income that is being given in the Shachin what you said is really 
+represented in the results as well which is 10.5% for the quarter.  
+ 
+Manish Agarwal:  
+that is net total income. Is it the NIMs as well, 10.5%? 
+ 
+Nirav Shah:  
+So Manish, this includes the income from co-lending, so the net total income has been calculated is total 
+income minus the interest expense right. 
+ 
+Manish Agarwal:  
+Okay, okay. 
+ 
+Nirav Shah:  
+So that is how it is.  
+ 
+Manish Agarwal:    
+And sir what is the provision coverage ratio around. 
+ 
+Anuj Pandey:   
+So, on the total book total provisions are about 1.7%, on stage 3 the provision coverage is around 28%. 
+ 
+Manish Agarwal:  
+28%? Okay. And sir just one thing I just need to qualify, I heard somewhere that the company is making 
+fund for the employees where they would be buying the shares from the market. Is it the right information 
+or just news? 
+ 
+Shachindra Nath:  
+No, it is a right information sir. So, I think if you look at our exchange disclosure in our result board meeting, 
+our Board has approved and fresh ESOP scheme. This ESOP scheme is only for purchase of shares through 
+secondary market as at per SEBI regulation we can do that up to 5% and in a particular year we can do up 
+to 2% of the total market capitalization so our Board has approved a loan to an employee welfare trust 
+which is the quantum is roughly around 30 crore and this money would be utilized to buy shares from the 
+market which would be held in this trust for the employees pool and employees can vest these shares, I 
+think so in the year 25 if I'm not wrong. So as an when there is a market opportunity this employee welfare 
+
+                                                                                 May 25, 2022 
+trust independently would buy from the market and hold it and then it is like an ESOP scheme.  These shares 
+would be held in the trust for the benefit of employees. 
+ 
+Manish Agarwal:  
+Okay. So, the money would come from the loan given to the employee. 
+ 
+Shachindra Nath:  
+Loan given to a trust, so SEBI regulation on ESOP allows this that either they have an ESOP which can be 
+directly given by the company, or you can implement in ESOP through a trust. So there is a loan which would 
+be given to the trust and that loan money can be utilized to buy share from the secondary market. 
+ 
+Manish Agarwal:  
+Okay. Thank you so much sir. 
+ 
+Shachindra Nath:  
+And the shares would vest till 2025, employees would pay the cost of acquisition to the trust and trust 
+would then return that money to the company. Or employees can ask the trust to sell the shares and pay 
+the difference to the employees and the principal amount would come back to the company. 
+ 
+Manish Shah:  
+That’s very good. Thank you so much. That was so all from my side. 
+ 
+Rhave Shah:  
+Thank you. We have the next question from the line of Chet. 
+ 
+Chet:   
+Hi! congratulations on the good set of numbers especially in AUM and fee income. I had 4 questions which 
+have accumulated. I will just start with the most recent conversation we had. So, on ESOPs, will this 
+transaction count towards the 8% cap in the Articles of Association. 
+ 
+Shachindra Nath:  
+So, we have Sir 5.88% which is the ESOP and I think so you are right this will be roughly around 8% in total. 
+I think so we're going for a shareholder approval, so absolute quantum is 30 crores and if this quantum 
+because we don't know what real percentage of shareholding we would be able to acquire because it is a 
+function of price and in a particular year you cannot do more than 2% but if its process that cap percentage 
+of 8% when we are going for shareholder approval whatever is the calculation we will request for 
+shareholders to approve for that change. 
+ 
+Chet:   
+That's great, okay. Then the second question was on the competitive landscape in co-lending. So if in co-
+lending the fees say that we are the leading partner for banks especially PSU banks who have issues with 
+you know front book growth and front book quality who is our next competitor and you know how far 
+ahead are we you know in terms of using the data tripod etc.  
+ 
+
+                                                                                 May 25, 2022 
+Shachindra Nath:  
+So, sir it’s very difficult to talk about who is our next competitor, we can only talk about ourselves. So, in 
+terms of this co-lending as a business model let me give you some perspective. So, there are, look at from 
+a large public sector banks perspective, think of an SBI or Bank of Baroda, or a Union Bank most of them 
+would like to partner with an NBFC of substance. NBFC of substance means that they would look at some 
+significant amount of capital, they will look at a profitable track record, they will look at healthy portfolio 
+quality and some vintage and then would like to partner. So this is what banks want, now if you look at in 
+terms of the market participant you have 3 types of and last but not least co-lending is only for priority 
+sector so the asset class which can go in co-lending is either MSME, agri, or you know almost of them and 
+nothing beyond that. So fortunately, then you look at the market participants so there are three types of 
+participants. You have AAA to AA diversified large NBFCs, I think so for them because not necessarily that 
+most of them are in priority sector, so there are lot of assets these large NBFCS do which is beyond priority 
+sector and also for them it is much easier to do take a leverage on the balance sheet and continue doing 
+the business as they want, because they there balance sheet could have a combination of wholesale, 
+corporate credit, wheels business, you know SMEs, gold loans, so on and so forth. So, that is why most of 
+those top 10 are large NBFCs are today not entering into co-lending and most of their asset classes are also 
+not suited for a bank, and we have roughly around 50+ NBFCs, which are wide SME or Agri segment but are 
+neither well capitalized nor the portfolio track record wherein they can get accepted by the bank. Anything 
+between BBB- to a BBB+ companies and that’s why that segment of the market is also getting excluded. We 
+at UGRO with a 1000 crore of capital with A rating and 5-year of vintage with very mass portfolio quality 
+and focus on digitization, are becoming a preferred player for multiple banks to do co-lending with us. I'm 
+not saying that we would only be the one who would be doing it, over a period there will be a convergence 
+which would happen. The large NBFC would also start doing co-lending and smaller NBFC would become 
+little, larger and do co-lending but we think so that we have a you know window of becoming market leader 
+in next 3 years by the time this catch up happens. 
+ 
+Chet:  
+Okay, and in terms of in terms of micro branches, are they like a strong contributor in this co-lending 
+portfolio and you know how do we avoid cannibalizing you know with our partner you know PSU banks? 
+ 
+Shachindra Nath:   
+I don’t understand the question on cannibalization.  
+ 
+Chet:  
+So basically, you know our micro branches they don't compete with you know the likes of Bank of Baroda 
+you know Punjab and Sind Bank right, we make sure that they don't compete with them. 
+ 
+Shachindra Nath:  
+Sir our segment of the market doesn’t compete with the banks. I think across every segment of the market 
+I think it is proven by time that the segment of the market which a fintech or a an NBFC service while banks 
+have much bigger larger massive presence, we cater to different need right. You know even if in a same 
+location a bank’s branch would be there, their method of underwriting onboarding a customer and 
+assessing a customer is completely different. If you look at a longer-term time horizon 10 to 15 years banks 
+would learn through these NBFC and co-lending partners and adopt our method of underwriting process 
+
+                                                                                 May 25, 2022 
+and technology, but they have many other priorities also right. So that’s why they have adoption of this on 
+their own would be slower, so I don't think so there is any cannibalization.  
+ 
+Chest:  
+Are these micro branches like we are focusing on micro branches in our next phase of growth like to a 
+limited extend, my question was are these micro branches a strong contributor in our co-lending portfolio? 
+ 
+Shachindra Nath:  
+Sir, yeah, micro branches would be bigger contributor in terms of the overall portfolio yield and profitability. 
+In terms AUM growth, they may not be a very large contributor as of now, but they are increasing.  All our 
+banking partners are accepting our micro enterprises credit policy as a product for co-lending and gradually 
+as the funnel would increase that would also start going into the co-origination lending.  Amit if you want 
+to add something to that.  
+ 
+Amit Mande:  
+No absolutely Sachin and to answer the question the micro secured product that we have, is a great high 
+yield product. It's behaving extremely well and so at this point of time it also makes sense to keep some 
+high yield secured business on our books and so it will continue to be on books for a while and at the same 
+point of time like Mr. Nath said we have already started doing micro secured co-lending in couple of banks 
+and it will continue to slowly move into the co-lending. 
+ 
+Chet:  
+A follow up on that is you know are we are applying stringent collateral checks on this micro secure 
+business? 
+ 
+Amit Mande:  
+Absolutely. So, there is a there's a clear policy on what we accept as a collateral, and these are very much 
+in lines with what are acceptable by the banks and so that is essential reason Chet why even this product is 
+today acceptable in a large PSU bank because of these. 
+ 
+Chet:  
+Yes, I got my answer. If SBI and Bank of Baroda are comfortable taking it so it needs to be one of list of 10 
+items. Great. Last question was on the QIP or the you know our leverage ratio basically so right now we are 
+at a debt to equity of 2.3, you know obviously with co-lending it's not going to rise fast but as and when we 
+reach 3 to 4 you know we would need to raise funds to expand considering that the stock price you know 
+is a function of people you know volume as well we may need to do a QIP near book value, is this is 
+something we have considered and have we considered the options. I don't need to know the options, but 
+have you considered our options you know 6 months 9 months down the line. 
+ 
+Shachindra Nath:  
+Absolutely, so I was writing an answer to Tushar, I do not know the same person is speaking or not, I was 
+just writing answer to him. So, first and foremost regulatory we are allowed to do up to 6 time of leverage 
+but as a company in our initial first 5-7 years, we have said that we would lever ourselves only up to 3.5 or 
+3.8 times, but that is also a tool available to us. We have other tools which is co-lending. We have target 
+35% of our balance sheet to go in co-lending but depending upon market condition we can push pedal and 
+
+                                                                                 May 25, 2022 
+increase that 35% to 45% and our leverage would remain the same what we are targeting. Third, I think so 
+that our peers set currently the public market is very muted when it comes to the lending.  No faults have 
+occurred. The public market is muted because majority of the public market investors are worried about 
+impact on the balance sheets of banks and NBFC and what is the adjusted book value and that's why they 
+are not being able to ascribe a price and that is you know that is muting the interest in the lending as a 
+segment of the market. Now we are completely out of that. We have no correlation, because pre-pandemic, 
+post-pandemic we have demonstrated portfolio quality but once you are in a mix, you are in a mix and you 
+cannot go beyond that but our view is that in you know as we continue to improve and show our growth 
+there are you know intelligent set of investors who would come dedicated for us in that should improve 
+our both price and also liquidity. Having said that our source of capital is not necessary only public market, 
+our source of capital is multiple you know in a listed company will raise roughly around 950 crores of capital 
+not going to the public market but from 4 large private equity investors. So source of capital today is 
+available from private equity, DFIs, big family offices and multiple others who will compare or who are 
+comparing us to the private market transactions where multiple NBFCs on fintech who are raising equity 
+capital anything from 3 time price to book value to 7 or 8 time price to book value and you know while you 
+get benchmark to you listed price but I think so that is the fair value where we should be and hopefully 
+some of the private investor would look at from that eye and angle. 
+ 
+Chet:  
+Okay sounds good. So, I think it's fair to say that you know my calculations that 6 to 9 months is that can 
+probably be you know considered that they were too short, the assumption was too short, so we can still 
+sustain you know quite a few more months or few more quarters.  
+ 
+Shachindra Nath:  
+If we can sustain a full year we can sustain even beyond if we want to. 
+ 
+Chet:  
+Sounds good. That's all from my side thank you. 
+ 
+Rhave Shah:  
+Thank you. We have the next question from Mr. Atul Prakash.  
+ 
+Atul Prakash:  
+Yeah, actually this thing, wanted to understand so we have mentioned that we are at 7,500 crore is our 
+plan by FY23 AUM. 
+ 
+Shachindra Nath:  
+7,000 crores. 
+ 
+Atul Prakash:   
+Pre-book from FY20 the AUM was approximately 800 to 900 between. So, we're growing a book to 9x in 
+the matter of 3 years and then there is GRO Score card 1, there is GRO card 2, and GRO scorecard 3.0 is 
+coming up so how we are very much confident this is also backed by the GNPA numbers. If we see, I think 
+2.13% I think was the GNPA this time. So, if you back test it at FY20 your GNPA number would be very high. 
+So how we are checking these things? 
+
+                                                                                 May 25, 2022 
+ 
+Shachindra Nath:  
+So, I would say 3 things, I think so you are only looking the headline number, but you are not looking the 
+incremental Opex which is being incurred to build a base. So, we raised our capital in July 2018, ILFS 
+happened in September 2018. We started our business in April 19 even between the July 2018 to April 19 
+a base infrastructure for the company was created but given the liability market was extremely soft post 
+ILFS, we decided only to deploy our capital. So out of 958 crore of capital we deployed 850 odd crores 
+without leveraging our balance sheet and immediately after that the pandemic first round hit very hard and 
+we shut down our business in first 6 months, but we were confident that we have to increase our 
+infrastructure so as of FY20 were a company of 170 people, as of FY22 we were a company of 1,111 people. 
+As of FY20, we are a company of 8 physical location as of FY22 we are a company of 91 physical location. 
+As of FY 20 you know our technology team infrastructure was consisted of 5 people, as of FY22 it was 90 
+people, as of 20 to 22 our data analytics team was you know roughly around grown 5x. So, the growth is 
+coming because this company has taken very early big Opex to build physical and digital infrastructure and 
+basis that you know the growth is now coming. So, it's a base effect. Number 2 in terms of the portfolio 
+quality I think so you know you can't back test its basis lower AUM because our first year AUM obviously 
+we suffered from pandemic but we have demonstrated that during the pandemic we can control the 
+portfolio quality much better than our peers set and only business than has to look at you know gross NPA 
+on the basis of an expanding portfolio and you know by cohort portfolio quality and what is the early 
+indicator. So, we are showing you an early indicator of how our portfolio quality basis data analytics is 
+building up and what we think it would be the portfolio quality at future. Anuj, you want to add something 
+please feel free.  
+ 
+Anuj Pandey:    
+So, I just want to add for a business model like ours, where now 21% of the book is off in form of co-lending 
+and co-origination and eventually at the end of this year around 35% and in 2025 50%. A good perspective 
+one can get if I look at the GNP by total AUM. So, in this quarter actually our GNPA is 1.7% if we add net 
+NPA at 1.2% if you look at a total AUM, which is much more reflective of how the portfolio is doing and in 
+addition to what Shachin you said in a growing portfolio specially the first year the denominator being lower 
+and then facing two pandemics, post that whatever has come out we are quite confident that directionally 
+we are stacking up well. 
+ 
+Atul Prakash:  
+Okay just one more thing wanted to understand on your GRO Score card. So basically, there was a 
+presentation where you are mentioning there was A band, B band, C band and then there was disburse 
+loan and there was undisbursed loan. So, if a loan is getting A band in your scorecard, then why you were 
+not disbursing the same and basically how this scorecard is coming up there. 
+ 
+Anuj Pandey:    
+So, the scorecard is primarily to predict probability of default, which is based on the financials and 
+repayment behavior of the customer but many times a customer with good financial track record may not 
+have a good collateral and we have to say no, in terms of LTV. He has come for a 1 crore loan against 
+property, but his property value is 80 lakhs, so many times we have to decline that case. And there could 
+be other reference check reasons as well. Ideally yes, we should not but the practical way the way it works 
+
+                                                                                 May 25, 2022 
+is that there can be reasons over and above that. Directionally what we want to establish is that GRO Score 
+stacking works and eventually once enough data is there then we are able to increase our throughput much 
+more in desirable segments basically GRO Score A and B. 
+ 
+Atul Prakash:  
+Okay, one more thing out of this restructuring portfolio which you have gone through. So can we just have 
+a figure what is outstanding as of June end and out of which how much is in the 0+, 30+ and 90+. 
+ 
+Anuj Pandey:   
+So, our total restructured portfolio at the end of June is 120 crores, which is approximately 3.3% of the 
+AUM and out of this 20% has become NPA. Rest 67% is current and 4% is in 30 to 90 bucket. 
+ 
+Shachindra Nath:  
+You can also give color of the restructured portfolio by segment of the market, overall.  
+ 
+Anuj Pandey:   
+We can do that, so overall if you look at the total restructured portfolio by product then approximately 60% 
+of that portfolio is under secured about 25% under unsecured and rest in supply chain and by sector about 
+85% of the portfolio is under education, hospitality, or light engineering. What we have seen in terms of 
+repayment behavior. We are seeing that education and light engineering is back to normal at pre-pandemic 
+levels. In hospitality though overall segment is now looking up but the stressed customers continue to be 
+stressed and we had done an internal analysis in last quarter where we had predicted of how much more 
+NPA can come in specially from the unsecured hospitality sector from our current restructured portfolio 
+and we have planned for approximately 7-8 crores more NPA coming from there. 
+ 
+Shachindra Nath:  
+And our current provision is more than sufficient to cover it. 
+ 
+Anuj Pandey:   Yes. 
+ 
+Atul Prakash:  
+Okay, just one more thing I wanted to understand we are going with such a high growth plan, and we are 
+on the on the track to perform it, so there will be a capital adequacy ratio that you need to be maintaining. 
+So, what are the strategies where we want to fix it on the capital adequacy ratio where we will be 
+maintaining it. 
+ 
+Shachindra Nath:  
+So, I think so this has been answered multiple time. It is showcased in our presentation as well. I've said 
+this in our previous answer, and I will try to summarize that. Regulatory we know we have to maintain a 
+capital adequacy of 15%, which means at a leverage of 6 but we would like to ideally maintain our leverage 
+of not more than 3.8 times you know maximum 3.5 times and by virtue of that with 35% of our business in 
+off balance sheet we would be looking at raising this capital. Now raising this capital, you know the timing 
+of it and when and source we will you know consider at an appropriate time but the company has multiple 
+triggers to continue maintaining its growth without raising the capital as well if it wants to. First you know 
+
+                                                                                 May 25, 2022 
+with our targeted leverage of 3.5 we can go further. Second our targeted off-balance sheet asset of 35% 
+can be increased to 45% and leverage would remain the same. So, I think so we have this completely in our 
+control and this does not worry us too much. 
+ 
+Atul Prakash:  
+One last query, see the market or the news is there that there will be some inflation will be striking in MSME 
+sector specially will have some struggle during this period and we are corely into the MSME where we see 
+our business going on that place. 
+ 
+Shachindra Nath:  
+So, sir, I think so SME and MSME is a very generalized term which is being used. I think so SME and MSME 
+should be looked by you know the segment of the market in which one operate and now in the revised 
+definition even a 200-crore company, a manufacturing company is also an SME. We service customer below 
+5-crore of turnover. Large focus of this company is to service the retail trade in within our define segment 
+and most of our sector are domestic consumption driven economy. Our view is that domestic consumption 
+driven economy the interest rate rise, and inflation would not mute the demand. One of the problems of 
+controlling inflation in our country that you have to increase the supply side. Constraining demand doesn't 
+help. So, within our customer set what we have seen till date neither the credit demand nor the cash flow 
+is getting a stretch because we service very small businesses. 
+ 
+Atul Prakash:  
+Okay thank you so much and all the best for the upcoming results as well and congratulations on the good 
+numbers.  
+ 
+Rhave Shah:  
+Thank you. We can take up a few questions in the Q&A session. We have a couple of questions from the 
+line of Mr. Vijay Chauhan. They are as follows what will be co-spreading income as percent of total topline, 
+example 3.2% has been taken in the example given on the last slide of the PPT. And second question is 18% 
+target ROE by FY25. Will this revise further if you prioritize co-lending or plain vanilla lending? 
+ 
+Shachindra Nath:  
+Nirav, the first one can you take? Second one I will explain. 
+ 
+Nirav Shah:  
+Yeah absolutely, so right now I think so basically the 10.5% that we are we are talking about includes the 
+co-lending or you know the co-origination income that we see, the spread will be about 5.6% and the rest 
+will be co-lending income in this quarter. 
+ 
+Shachindra Nath:  
+Next question on the ROE target 18%, obviously on a 20,000 crore or current, you know first it is very hard 
+for listed companies to give projection for the year and for next 3 years. Now when you do that you do a 
+most achievable targets and don't make blue sky assumptions while the ecosystem of co-lending is 
+improving with every passing day when we made this prediction in 2021 there was a general skepticism 
+about co-lending or you know lending as a service model in India; however, we are proving our hypothesis 
+right by going from 16% to 21% and we are taking it to 50% by FY25 we know and understand that if we 
+
+                                                                                 May 25, 2022 
+increase it by another you no 10 percentage point, our ROE will kick in further but we believe that pure 
+marketplace model does not you know go well with when it comes to the lending as a business. All our 
+banks and partners who are on the liability side want to see us as a principal lending partner so having in 
+skin in the game having its own balance sheet helps and that's why we have made an estimate of half in 
+half and half. 
+ 
+Rhave Shah:  
+Thank you next question is from the line of Mr. Manan Modi. With the transformation of U GRO to lending 
+as a service model do you see the partnerships and alliances piece going down.  
+ 
+Shachindra Nath:  
+Answer is no. Our aspiration is that we create a bridge so on one side and partnership and alliance is one 
+of our channels, it is a very good question. On one side we have a large ecosystem of small fintech, small 
+NBFCs who otherwise can't get access to a large bank. So today on one side we are doing co-lending with 
+them on the other side our originated asset we are doing co-lending with banks. Our constant endeavor is 
+through our experience, our GRO Xstream platform and our ability, you know we would like to bring some 
+of our large banks to become a direct co-lender to some of our partners, wherein we work as a bridge of 
+providing technology, some form of credit enhancement and service. So, once one of such banks become 
+a partner for our larger ecosystem, we think that over a period of time our P&A partners would benefit 
+from the co-lenders which we were bringing on our platform.  
+ 
+Rhave Shah:  
+Thank you. The next question is from the line of Chet. Instead of declining customers who have less 
+collateral can we opt for leading best practice to offer them smaller loans on different terms.  
+ 
+Shachindra Nath:  
+So, Amit and Anuj, I can answer. So, look I think so we don't differentiate the customer when we are 
+assessing them. So, at that point of time our GRO score doesn't differentiate whether the customer is 
+bringing a property as a collateral or machine as a collateral, or it is an unsecured loan it says yes or no and 
+categories the customer in 5 different bands so to that extent theoretically we can offer the same customer 
+an unsecured loan, but the issue is about affordability. The customer who wants to borrow against a 
+collateral want a much longer tenure loan because that fits in their cash flow and want a lower yield. So, a 
+customer who is coming for a secured loan would not be satisfied with a very small unsecured loan and 
+from a risk perspective we offer up to 3 crores in secured but we offer only up to 25,00,000 lakhs in 
+unsecured loan. Amit, you want to add something that. 
+ 
+Amit Mande:  
+No absolutely, you have answered question Shachin. 
+ 
+Rhave Shah:  
+Thank you. The next question is how many micro branches we plan to open this year. How is the 
+performance of the branches launched last year in terms of productivity and payback period?  
+ 
+
+                                                                                 May 25, 2022 
+Amit Mande:  
+Okay. I'll take this question. So, we opened about 70 odd branches in Q3 and Q4 as per our projections we 
+have a 12-month breakeven plan for each of these branches. By end of this quarter, the first set of branches 
+have broken even. We will see all these branches at a break even and delivering high profitability by 
+December. Once proven, so while the first few branches have proven that they can be profitable in the first 
+12 months of launching and so once proven I think we will look at the next stage of expansion, depending 
+upon how these branches behave and how early they breakeven. We will look at anywhere between 25 to 
+50 branches by this yearend possibly in the quarter 4. 
+ 
+Shachindra Nath:  
+And overall, in our 2025 plan in our identified 5 state Telangana. Tamil Nadu, Karnataka. Rajasthan, and 
+Gujarat. We have done massive data and tricks of roughly around 3000 plus pin code and this is a cluster 
+approach, and we believe that there are 280 clusters in these 5 states where we would eventually like to 
+be present purely from opportunity and credit quality perspective. 
+ 
+Rhave Shah:  
+Thank you. The next question is co-lending is a space for banks who have good cash and co-lender has good 
+presence in areas where the bank is not present, but with U GRO we have very few touchpoints how can 
+we benefit the most among competitors? 
+ 
+Shachindra Nath:   
+So, I think it is not a question of, it is not necessary only physical touchpoint which matters. Over a period, 
+our touchpoint would also increase but our origination and sourcing engine is multi force. So, while our 
+physical branch footprint in the top 25 location and what we call prime customer contribute 40 %to 50% of 
+India's MSME credit outstanding within these 25 locations. So, you can get as much volume as you want 
+within that 25 location. Our current 70 location they are the first prominent point of credit origination 
+purely from a corresponding cluster perspective and that would continue to grow. Third we have machinery 
+financing business which does not necessarily require every point physical presence because our source of 
+origination is our OEM partners today there are roughly around 180 OEMs in India. We are live with many 
+of them, and it is increasing and as that increases you know customer origination keep increasing.  Our 
+supply chain financing business again is you know as you continue to increase the number of anchors the 
+distribution channel the distributor, the retailer they can be anywhere but the entire collection engine for 
+that is driven digitally you know that also will go in co-lending, our P&A channel service is almost you know 
+the entire universe of you know India and their collection and infrastructure is being serviced by our partner 
+and we know whenever merchant financing platform would go live you know you can be anywhere and we 
+would be able to finance that would also go with co-lending. So I don't think so that physical presence is 
+any constraint. Our digital infrastructure, our partner’s infrastructure is what drive and propel our co-
+lending partnership and as well as our own balance sheet. 
+ 
+Rhave Shah:   
+Thank you. The next question is from the line of Mr. Chinmay Bhargava. How soon do we expect to finalize 
+a co-lending partnership with a private bank? 
+ 
+Shachindra Nath:   
+We have signed over first co-lending partnership with a private bank. 
+
+                                                                                 May 25, 2022 
+  
+Rhave Shah:  
+Thank you. Next question is from the line Mr. Manan Modi. Regarding geographical expansion are there 
+any key states that might contribute to grow especially West Bengal has seen some issues lately? Have you 
+seen any stress in that state as well. 
+ 
+Shachindra Nath:  
+This is very interesting questions. I think so in our last board meeting some of our dependent director raised 
+this question and represented the data to this Board.  Anuj, you want to take this. 
+ 
+Anuj Pandey:   
+Yeah. So, overall, where we are present currently and as Shachin was eluting to when we had selected 
+sectors and we had launched initially we have mapped the sector concentration with the geographies 
+where they were prominent and we are from our coverage perspective recovered about 75% of total 
+available target segment through our distribution network. Today, we are seeing healthy growth across all 
+geographies. In certain sectors owing to pandemic, we had deliberately slowed down but for other sectors 
+and across all geographies we are seeing a very-very healthy growth. In Kolkata too, although in Kolkata we 
+are present only in Kolkata city and in our kind of target segment with turnovers of businesses up to 5 
+crores, we are not seeing any stress at all. 
+ 
+Rhave Shah:   
+Thank you. Ladies and gentlemen, do we have any other questions.  Thank you, as there are no further 
+questions from the participants, I would like to hand the conference over to Mr. Shachindra Nath for any 
+closing comments. 
+ 
+Shachindra Nath:  
+Thank you so much. Our endeavor has been over the last two quarter is to explain our business model, 
+leave the evolving landscape of how data and digitization would transform the SME financing in India, while 
+we know that from an outside this seems to be a crowded space. People look at multiple number of NBFCs, 
+I keep hearing this question what is the co-differentiation. We are trying to explain that differentiation and 
+I think so we are gradually making the breakout of how multiple platforms in the West has benefited and 
+how our customer can benefit from that. From day one, while we have never done formal IPO but we 
+started as a listed company, raised all our capital in that, in hope that the broader public market would 
+appreciate the business model because one of the things which is very unique that when we look at our 
+peers set who are not listed most of the investors who are putting in capital is in very threshold and 
+eventually they come to the public market in most of the public market investors are buying them very-
+very expensive versus we think that we showcase an opportunity to public market investor to benefit like 
+a private equity investor of benefiting from our growth quality of business and huge infrastructure both 
+digital technological and also people infrastructure which we have built. Please feel free to ask any question 
+if you have, Nirav is here to support, and we will see you next quarter very soon. Thank you. 
+ 
+Rhave Shah:  
+thank you Sir and the entire team for patiently answering all the queries I would also like to thank the 
+participants for making this an interactive session. Thank you for joining us and you may now disconnect 
+your lines. Thank you. 
+
+                                                                                 May 25, 2022 
+ 

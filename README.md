@@ -97,6 +97,7 @@ call from inside a signal):
 | Credit rating actions | `dtest/data/credit_ratings.py` | Apr 2023–2026, 1,080 actions, 6 agencies | The feed's own `Symbol` field is unreliable for most records — only 64.5% resolve to a real symbol, via a best-effort name-match, the rest correctly left null |
 | India G-Sec yields | `dtest/data/gsec_yields.py` | 2011–2026, 2 tenors (10Y, 3M), monthly | Only 2 tenors, not the full curve — RBI's own richer data needs an obfuscated JS-only download mechanism, not built |
 | Corporate announcement feed | `dtest/data/corporate_announcements.py` | 2004–2026, 117,121 announcements, 3,043 symbols | Best-behaved NSE source found this session (both `symbol` and date-range genuinely filter). `seq_id` is null on every pre-2013 record — falls back to a synthetic `symbol\|an_dt` key rather than silently dropping 9 years of real disclosures, a real bug found and fixed mid-session |
+| Earnings call transcripts | `dtest/data/earnings_transcripts.py` | 2010–2026, 19,045 full-text transcripts, 1,436 symbols | Same source feed as corporate announcements, filtered on the raw filing blurb (not NSE's own noisy/drifted category). ~90% of volume is 2022-2026 — a real regulatory-adoption curve, not a gap. Pre-2010 transcripts have no real attachment on file at all (NSE's own placeholder, not a broken link) and are correctly excluded. ~1.7% of matched filings fail extraction (a handful of non-PDF/non-zip attachments); some successfully-extracted filings are only a short cover letter pointing to the transcript on the company's own website, not the full text — real source-side variance, not a parsing bug |
 | Macro cross-asset stress | `dtest/data/` (macro fetch) | varies by series | US VIX, USD/INR, DXY, gold |
 
 **A real landmine in the existing `fno.db`, found 2026-08-24, worth
@@ -146,6 +147,7 @@ dtest/
     credit_ratings.py        multi-agency rating actions (NSE corporate-credit-rating)
     gsec_yields.py            India 10Y/3M yields (FRED mirror of OECD MEI)
     corporate_announcements.py  M&A/contract-win/dividend/buyback bulletins (NSE corporate-announcements)
+    earnings_transcripts.py     full-text earnings call transcripts (NSE corporate-announcements, zip/PDF)
   features/             point-in-time feature layer (technical, fundamentals, pairs, regime)
   signals/               one file per hypothesis (11 built, see Status)
   engine/
@@ -212,8 +214,8 @@ not.
     download, not built
 11. ~~Corporate announcement feed (M&A, contract wins, dividends/
     buybacks)~~ — done
-12. Earnings call transcripts — richer than existing RSS headlines, next up
-13. Macro series (RBI repo/M3/forex, MOSPI IIP/CPI/GDP, GST collections)
+12. ~~Earnings call transcripts~~ — done
+13. Macro series (RBI repo/M3/forex, MOSPI IIP/CPI/GDP, GST collections) — next up
 14. Global cross-asset (FRED rates, crude, EM-FX, global equity indices)
 
 **Once collection is declared done**, the honest next analytical step is a

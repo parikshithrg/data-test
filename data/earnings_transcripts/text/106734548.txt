@@ -1,0 +1,1195 @@
+ 
+ 
+www.capillarytech.com 
+ 
+Capillary Technologies India Limited  
+CIN- L72200KA2012PLC063060 
+Regd. Office - 360, bearing PID No: 101, 360, 15th Cross Rd, Sector 4,  
+HSR Layout, Bengaluru, Karnataka 560102 
+Email: secretarial@capillarytech.com 
+Website: www.capillarytech.com 
+Tel: 080-41225179 
+ 
+Date: August 10, 2026 
+ 
+To  
+BSE Limited 
+Listing Department 
+Phiroze JeeJeebhoy Towers, Dalal 
+Street Fort, Mumbai -400001    
+Scrip Code: 544614 
+                                      
+To, 
+National Stock Exchange of India Limited  
+Listing Department 
+Exchange Plaza , Bandra Kurla Complex 
+Bandra (East), Mumbai -4000051 
+Symbol: CAPILLARY 
+Dear Sir/Madam 
+ 
+Subject: Announcement under Regulation 30 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 - Transcript - Earnings Call - Financial 
+Results for the quarter ended June 30, 2026. 
+ 
+Pursuant to Regulation 30 read with Schedule III of the Securities and Exchange Board of 
+India (Listing Obligations and Disclosure Requirements) Regulations, 2015, (“SEBI Listing 
+Regulations”), please find enclosed herewith the transcript of the earnings conference call 
+with analysts and investors held on Tuesday, August 04, 2026. 
+ 
+The said transcript is also being made available on the website of the Company and can 
+be accessed at the following link: https://www.capillarytech.com/investors/   
+ 
+We request you to take the above information on records. 
+ 
+Yours faithfully, 
+ 
+For Capillary Technologies India Limited 
+ 
+ 
+ 
+Gireddy Bhargavi Reddy 
+Company Secretary and Compliance Officer  
+Membership No. A17091 
+Place: Bengaluru 
+ 
+GIREDDY 
+BHARGAVI 
+REDDY
+Digitally signed by GIREDDY 
+BHARGAVI REDDY 
+Date: 2026.08.10 14:02:46 
++05'30'
+
+ 
+Page 1 of 23 
+ 
+ 
+“Capillary Technologies India Limited 
+Q1 FY27 Earnings Conference Call” 
+August 04, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. ANEESH REDDY BODDU – FOUNDER, MANAGING 
+DIRECTOR AND CHIEF EXECUTIVE OFFICER – 
+CAPILLARY TECHNOLOGIES INDIA LIMITED 
+ 
+MR. ANANT CHOUBEY – EXECUTIVE DIRECTOR, 
+CHIEF FINANCIAL OFFICER AND CHIEF OPERATING 
+OFFICER – CAPILLARY TECHNOLOGIES INDIA 
+LIMITED 
+ 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 2 of 23 
+ 
+ 
+Moderator: 
+Hello and good evening, everyone. On behalf of EY IR Practice ], I welcome you all to Q1 FY27 
+Earnings Call of Capillary Technologies India Limited. Please note that the copy of the 
+disclosures are available on the Investor section of the website, as well as on the stock exchange. 
+ 
+Please note that anything said on the call which reflects the outlook for the future or which could 
+be construed as a forward-looking statement must be reviewed in conjunction with the risks that 
+the company faces. 
+ 
+To give you some in-depth understanding of the company and answer to all your queries 
+regarding the result and the company, we have with us from the management side Mr. Aneesh 
+Reddy Boddu, Founder, Managing Director and CEO, and Mr. Anant Choubey, Executive 
+Director, CFO and COO. 
+ 
+With that being said, I would like to hand over the call to Aneesh to take you guys through the 
+presentation. Thank you. Over to you, Aneesh. 
+Aneesh Reddy: 
+Hi, everyone. Thanks for joining the call today. I think Kanav covered some of these. Again, 
+quickly re-introducing the company for everyone. Capillary operates in the loyalty and customer 
+engagement space globally. 
+ 
+We're regarded to be a market leader by any analyst globally in this space. What do we mean by 
+loyalty? Any kind of a long-term retention program for consumers or small businesses. In terms 
+of markets, we today are fairly present across markets globally. US is our largest market. About 
+60%-odd of our revenue comes from the US, 15% comes from Europe, and about 25% comes 
+from Asia today. 
+ 
+In terms of scale, we work with about 465 brands globally. 25 of these are Fortune 500 
+customers. Lots of scale on the platform, about 2.7 billion consumer profiles on the platform 
+today. We've customers live in about 53 countries, 19 offices globally, in total about 750 
+employees. 
+ 
+We've an infrastructure-like product, we sit in every transaction that hits our customers,  whether 
+it's in the store or online or at the airport or wherever, and . uptime is important, so we are at 
+almost a 5 9’s product uptime again for this quarter. 
+ 
+So, in terms of our monetization model, more than 90% of our revenue comes from long-term 
+subscription contracts, so typically 3, 5, 7 year contracts with these very large global enterprises. 
+It's a cloud-native product, all our implementations are across four colos globally. 
+ 
+We're fairly well recognized by all analysts, pick any analyst in the marketing space, Forrester 
+or Gartner or Everest or QKS , you will see us in the either in number one or very rarely in 
+number two in  what we do.  
+ 
+Moving ahead, I thought we'll just touch spend a minute on this, this is the Forrester Wave, the 
+most recent one which came about 9 months ago. Forrester is the main leading marketing analyst 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 3 of 23 
+ 
+globally, they have a report on loyalty for the last 10, 15 years now, they call it the Loyalty 
+Wave. 
+ 
+So, if you look at Capillary, we're both from a current offering as well as what we're building 
+and strategy, we are well ahead of the rest of the market. Like I'd mentioned last time, we have 
+a 5 on 5 score on 22 out of their 27 criteria, 3 on 5 on the rest of the five criteria that they have. 
+ 
+We've definitely the most AI-first platform out there in the space. Pick any analyst, they will 
+talk about our AI use cases being very ahead. We'll talk a little bit more about aiRA in some of 
+the slides going ahead. What we also excel with is in supporting very complex programs for 
+very, very large enterprises, that's our niche. With that, let's move ahead.  
+ 
+Quickly spending a minute on the on the product. The intent with the product is to deliver loyalty 
+and retention as an outcome, and hence, unlike a lot of our competitors where they tend to have 
+just a loyalty stack, some of the major agencies that you saw earlier, Epsilon, Bounteous, etc., 
+which were there on the earlier slide, Capillary tends to be more broader as a product so that we 
+can deliver loyalty or retention as an outcome. 
+ 
+So, now, at the base of the product is a data platform where we integrate into all kinds of data 
+sources from a customer. If they have a CDP, we just plug into that right away. We don't 
+monetize the data platform side of the stack. Loyalty is our bread and butter product, that's what 
+we are known for globally. 
+ 
+Over 90% of our revenues globally today come from the loyalty stack. Think of loyalty as any 
+kind of a retention mechanic, could be membership, subscriptions, points, like rewards, differs 
+by industries, differs by mechanics that a business wants to use to retain their customers. 
+ 
+Then we have the Engage stack, which is a one-on-one personalized customer communication 
+platform. Roughly about 5% of our revenue comes from the Engage stack today. Insights is all 
+kinds of dashboards that are available for the business users to, look at all kinds of loyalty use 
+cases. We don't monetize Insights, it's a layer on top of the product. 
+ 
+And finally, rewards, right, more applicable to banks and to telcos where they generally, rather 
+than give points or coupons, it tends to be a additional reward that you get for being loyal So, 
+that's the rewards stack, that's about 5%-7%-odd of our revenues there. Again, across the 
+platform, we have our AI assistant which does a lot of stuff. We'll talk about it in the next few 
+slides..  
+ 
+We'll get to aiRA in a few slides, but in the interim, I think we've had a pretty decent Q1 and a 
+good start to the year. Like we always talk about really three levers of growth and three levers 
+of profitability. On the first part, I think, on NRR, we've had roughly a 111% expansion from 
+our, existing customer cohort. 
+ 
+Three levers there, more platform usage or inflation increases, product upgrades, and new brands 
+and geographies. Now, if you take out one the largest customer we have, if you take them out, 
+then the NRR has actually been 116%, so tends to continue to be in that, good range for majority 
+of the customer cohort that we have. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 4 of 23 
+ 
+ 
+Now, the second axis of growth for us is new customer wins. We continue to win large 
+enterprises across globally. If you take the last 12 months of performance, our new ACV, which 
+is the new annual recurring contract value that we've signed up, has grown about 75% year-on-
+year, excluding that one large healthcare customer that we had won the year before. So, very 
+good momentum on new logo sign-ups across markets, whether it's Asia, UK, Europe, or US. 
+So, good momentum there.  
+ 
+Finally, coming to M&A, we've announced the SessionM acquisition, which we had bought 
+from Mastercard on May 1st. So, we've had two full months of the integration of the SessionM 
+numbers into the overall plan. Like I had mentioned on the last call, this acquisition strengthens 
+our footprint across markets, North America, LATAM, it adds to our REPAC portfolio as well. 
+ 
+And SessionM is, that product stack is known for its QSR and airline customers, so it's those 
+two categories are places where we had customers, but not as much penetration, so it got us a 
+good  presence there. And finally, some very good talent that has also come from SessionM 
+over. 
+ 
+As you might remember, we had done the Kognitiv acquisition in May of last year, it closed on 
+May 1st, 2025. We've started the process of upgrading those customers over to Capillary, and 
+this time, we're using a lot of AI to do it. And we think it'll be far more faster and far lesser effort 
+on the customer as well as our side to get these upgrades done, right. So, that moving ahead. 
+Again, three large profitability levers for the firm. As we've always mentioned, any net retention 
+rate-related expansion comes at a higher gross margin,  because the cost of the servicing is 
+already taken care of. Our subscription gross margin for the entire business, including the 
+organic part and the inorganic part, is today at 66%. 
+Our organic gross margins are upwards of 75% now. So we've been consistently upwards of 
+75% for the last few quarters, so I think a lot of this NRR expansion on the organic side is 
+fuelling better gross margins on the organic side of the business. 
+Coming to the second lever of profitability, this is around about 60% of our costs are not linked 
+to, customer revenue and it is   not related to COGS. So, these scale at a much lower pace than 
+the revenue scales, right. So, if you look at year-on-year non-COGS cost for FY21 is at least 
+12%-15% lower than the revenue increase that you're seeing here and hence as revenue keeps 
+scaling, our below the COGS cost will continue to scale at a much lower pace. 
+Finally, the third lever of margins is upgrade of customers  from the M&A side. Now, like we 
+had mentioned earlier, typically the acquisitions we do are more around the 30% gross margin 
+mark, and as we migrate, they get to the platform margins of 70%-75%, and that drives the 
+increase. 
+So, this quarter, for example, same quarter last year, we were at a roughly a 10% EBITDA 
+margin, now we are more at a 18%, 17%-18% adjusted EBITDA margin overall, and roughly a 
+20% plus EBITDA margin for the organic side of the business, right. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 5 of 23 
+ 
+So, big move there actually comes from the successful migration or the upgrades from customers 
+for Brierley, Persuade, and Rewards+, those three acquisitions that we had done before 2020, 
+before June of 2023, all of them have been migrated over, right, which is driving that big move 
+on margins. That's the last part there. 
+I think in the last 6 months to 9 months, we've also now built a very AI-led upgrade platform 
+where it really simplifies the amount of work needed to shift from, one of these acquired 
+platforms to Capillary. We think it'll, it will continue to deliver good margins for us over the 
+next year or two, right. So, yeah, with that moving forward. 
+We spoke a bit about this in the last I think as well, last analyst call as well. In terms of AI, we 
+think it's a net positive for us. And today, for example we actually sit in the system of record. 
+The loyalty stack is like a banking ledger for, all your points, rewards, all of that stuff, right. So, 
+it is a system of record, and hence, AI or no AI, you will still need a system of record to keep 
+that going. 
+It's also priced like a system of record, it's a per-transaction or a per-member based pricing that 
+we have on that side, so not much change on this part of the business. Now, what we've done 
+over the last year or so is try and expand beyond that into a system of intelligence, which is our 
+aiRA stack. 
+Typically work that goes to an analytics agency, all to, manual dashboards, things like that, solve 
+that through conversational analytics and Gen AI, fairly wide space in the loyalty marketing 
+space, and it's priced on outcomes, like number of queries you ask, number of questions you're 
+asking. And we're seeing very, very good adoption for this. 
+You know, today, out of our 150 customers, about 26 customers are actually live using the using 
+the product. About just a little less than 10 of them are actually paying us for it, so it is a use, 
+and then over a few months, you sign up for the outcome-based pricing type approach. So, we're 
+seeing very good adoption as well as commercialization start on aiRA now.  
+The even in all our new deals, the very large ones that we're winning, aiRA is now turning to be 
+that big differentiator over the market and our win rates continue to be upwards of 35%, so 
+across the globe now, thanks to some of this AI stuff that's there in the product.  
+Finally, coming to the actions piece, which is, you've got your Insights+, you've got what you 
+want to do, and in simple English, you can then go tell it to run a campaign, or tell it to update a 
+CRM, or tell it to create a dashboard for you, or create a game, that's the Action Agents piece. 
+Again, as I had mentioned, Engage+, which kind of sits here, the Engage+ product, is only 5% 
+of our revenue, so this is an attempt at, increasing that  spread of revenues for us. More newer 
+in terms of the Action Agents, I think we're still building out this part quite a bit, but overall, 
+we're seeing very good traction to what's happening on the aiRA side, both in terms of the 
+Analytics Agent and the Action Agent in the business. So, moving ahead.  
+Yeah, I mean, we spoke about this last time. The intent with aiRA is to provide intelligence and 
+actions across the marketer's life cycle and go from that system of record overall. What we've 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 6 of 23 
+ 
+been able to do well now on aiRA is a good learning loop as well, so we now have like, thousands 
+of queries being, I mean, I think we read about 10,000 queries now, which our customers are 
+asking this to do, and that acts as a very nice, learning loop for the product to improve by itself, 
+right. So, with that, I'll move ahead. 
+This is a quick update on the SessionM acquisition. Things are on plan. I think it's been two 
+months, and we had projected about a $32 million ARR of customer contracts that we had 
+acquired through this. So, there've been no surprises on that side, so the all the entire $32 million 
+have agreed to sign our paper, move over to Capillary, so that's been a good positive moment. 
+Secondly, we've been able to turn SessionM fully profitable. The first two months have 
+generated, although small cash, like just a little around the INR5 crores-INR6 crores type mark, 
+as is what we've been able to generate as free cash from the acquisition. 
+So the business is at a break-even, it's profitable now, and I think we, what we're also very 
+excited about on the SessionM side is the quality of customers is really good, and a lot of them 
+have shown a lot of interest in buying the aiRA stack, in trying to go beyond just the loyalty 
+platform that SessionM is, into and taking the other products we have as well. So, we do think 
+it's a it is going to be a big driver on the NRR side going forward as well. 
+Next is, I think we also now have a very good view of what we've actually spent to buy 
+SessionM. Net of all the adjustment, we've actually paid about INR17-odd crores for buying the 
+business, so it's also been a very, very good financial deal, you essentially spent $1.5 million to 
+buy a or probably a couple of million to buy a $32 million ARR business, right, so it's been a 
+very good deal. 
+We think we'll break even on this in a few quarters, right, so the business is already profitable, 
+it's already started generating cash, so we do think it will deliver a payback possibly within this 
+year, so with that moving forward. 
+We did a very small tuck-in, not material in terms of financial numbers on what we spent it's a 
+platform called CustomerGlu, it enables front-end experiences, like Capillary is very known for 
+the back-end scale that we have.  
+What CustomerGlu does is it enables front-end experiences in a mobile app or on a website for 
+loyalty-like use cases, like you can quickly launch a game, just with a click, - you can launch, 
+you don't need to write code, you can quickly launch experiences, things like that.  
+We're rebranding this product and calling it as Experiences+ fits very well with what aiRA and 
+Engage+ can do. We're also pricing this again on a usage-based type model. We're already seeing 
+a lot of our very large customers liking this because they don't need to depend on their IT teams 
+to launch new interesting stuff in the app. But, again, not material from a spend or a revenue or 
+an EBITDA, more an acqui-hire IP-led acquisition.  
+With that, I will hand over to Anant. Anant, over to you. 
+Anant Choubey:  
+Thanks, Aneesh. Great. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 7 of 23 
+ 
+Aneesh Reddy:  
+ 
+Anant Choubey:  
+So, I'm glad to share our financial performance for the last quarter. We closed the quarter at 
+INR256 crores revenue, which is 43% growth over Q1 last year. Now, this revenue growth 
+coupled with scale leverage and other cost initiatives, the EBITDA for Q1 stands at INR44 crores 
+that's a 132% improvement over Q1 last year.  
+PAT stands at -INR9.5 crores for the quarter. Now, adjusting this for one-time exceptional loss 
+which happened due to a cyber-fraud incident and a one-time deferred tax liability, the 
+normalized PAT for the quarter stands at INR25 crores.  
+Now, there is a year-on-year business growth of 43% and a year-on-year profit growth of 132%. 
+Now, a great metric to look at for product companies is Rule of 40, meaning growth rate plus 
+EBITDA percentage is equal to 40. That's kind of gold metric where product companies are 
+valued on. On this metric, Capillary today stands at 60, which is 43% growth and 17% EBITDA.  
+If you look at only the organic business, the organic business grew at 17% year-on-year at about 
+23% EBITDA, so again at about 40 on a Rule of 40. Now, what drives this margin expansion or 
+what drove this margin expansion from a year before, this improvement from 11% to 17% comes 
+through combination of growth through NRR expansion, operating leverage on non-COGS cost 
+as well as from M&A synergies.  
+Now, ARR is a good leading metric for the business. It has consistently grown from INR608 
+crores in FY25 to INR765 crores in FY26 to INR1,026 crores in Q1 FY27. It's a year-on-year 
+growth of about 34% with strong contribution from SessionM acquisition, NRR as well as new 
+ACV.  
+Now, trailing 12 months new ACV, if we exclude one large healthcare customer, we see a growth 
+of about 75% year-on-year to about INR92 crores. Now, this is further supplementing our growth 
+and efficiency. The trailing 12 month Q1 FY26 base included exceptional new contract value 
+from one large healthcare customer, so that's what we have normalized to give you a figure on 
+like-to-like basis..  
+Now, we talked about year-on-year performance. I take quarter-on-quarter performance on 
+profitability, adjusted EBITDA improved from INR35 crores to INR44 crores in Q1 this year 
+compared to Q1 last year. This is in spite of Q1 being a quarter when you have annual hikes. 
+And normalized PAT improved from INR19 crores to INR25 crores from Q4 to Q1. Now, this 
+also includes increased amortization from SessionM acquisition.  
+Now, understanding PAT and normalized PAT here, the delta between INR25 crores PAT and 
+INR -9.5 crores normalized PAT, so we had an exceptional loss that happened due to a cyber-
+banking fraud and a one-time deferred tax liability, so that's what has been the adjustment over 
+here to give you a view on the normalized PAT.  
+Now, if you look at our business over the last many quarters or years, EBITDA and adjusted 
+EBITDA are nearly equal, given adjustment of finance income and ESOP expenses. If you look 
+at the trend over the year, depreciation and amortization is at INR20 crores for Q1 this year, 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 8 of 23 
+ 
+which is up from INR17 crores for same time last year. Now, this higher amortization reflects 
+recent acquisitions of SessionM in this year and Kognitiv last year..  
+With this, we'll be happy to take any questions. 
+Moderator:  
+Thanks, Aneesh and Anant. Now, I would request the participants to raise their hands in case 
+they have questions. So, the first question was coming from Vinay Menon. Please go ahead, 
+Vinay.  
+Vinay Menon: 
+Yes, hello. Congratulations, sir, on a great set of numbers. A couple of questions from my side. 
+If you can, call out the percentage of clients who migrated from SessionM already and what kind 
+of run rate are we seeing across FY27 that would be helpful. Thank you. 
+Anant Choubey:  
+Yes, please. 
+Aneesh Reddy:  
+So, we've just done the SessionM acquisition, right. So, usually the way it works is, we spoke 
+about it I think in the analyst day as well, that it typically takes about two to three years for all 
+the customers to get upgraded. So, we will not start any SessionM migrations till probably end 
+of this year, early next year, right.  
+Now, there are some customers who want to move irrespective of an upgrade that look we just 
+want to move to Capillary, that we are fast tracking that's about three-four out of the 45-odd 
+customers that have come from SessionM. But there is a lot of how do I put it, like, there is a lot 
+of operational efficiencies that we're already seeing  in SessionM, right, better run in terms of 
+server costs, all that.  
+So, you will see more margins coming out over the next few quarters from SessionM as well, 
+even without the upgrades piece. I think their infrastructure and the way they're running it when 
+it was part of mastercard,it was definitely very excessive, so we do think we can get that business 
+to a 5%-10% margins even without any upgrades. 
+Vinay Menon:  
+Okay, that's helpful. And as clients migrate, will our subscription revenue go up, is that how we 
+are looking at SessionM clients to be for our company? 
+Aneesh Reddy:  
+Yes, so two parts, right, Vinay, so usually when you're upgrading a customer, you don't actually 
+charge for more, right, I mean, because there's already an existing contract, you've just bought 
+the, I mean, you've bought the company so you can't charge for more but let's say we're seeing 
+a lot of these customers wanting to buy aiRA or buy the Engage product or buy Experiences+ 
+and those are opportunities to charge more, right.  
+So, those are opportunities where the customers are willing to pay more because additional 
+functionality is something that they were not using today. So, all of these books to -- the 110% 
+to 116% NRR we keep talking about, right, depending on, so that is the place where this bigger 
+book of business, this $32 million, does have a potential to add another 10% to 15% additional 
+revenues each year through the NRR motion. Did I answer your question, Vinay? 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 9 of 23 
+ 
+Vinay Menon:  
+Yes, that helped, sir. And just one more thing on aiRA, any kind of monthly run rate are you 
+seeing? And last time, last quarter, you were mentioning that a lot of POCs were happening. 
+How are you seeing aiRA scale over FY27? 
+Aneesh Reddy:  
+Yes, so we are right now, I would say at like $2 million, $2.5 million in terms of revenue run 
+rates on aiRA. I think my hope is that we'll try and get to probably at least 5% to 10% of our 
+revenue coming from aiRA this year.  
+But, look, it is a new AI product. The adoption is very good. I think the thing that we have to 
+deal with here is that these are all large enterprises we work with, so they really are very this 
+thing about their budgeting cycles.. But in terms of adoption and in terms of as people turn over 
+to their new financial year, can they put more budgets to it, I think we're seeing good traction 
+there.  
+Vinay Menon:  
+Okay. And one last thing on the acquisition you mentioned, that it will give you some kind of 
+coding ability in the platform where you can and when clients can create something. So, if you 
+can just elaborate on that and kind of give what functionality we wanted from this acquisition 
+that would be helpful. 
+Aneesh Reddy:  
+Yes, so today, Capillary is a loyalty platform, right. So, customer can go in and configure saying 
+there is this weekend I want to give 3x bonus points on this airline, or this route or so it's the 
+back-end configurations, the back-end coupons, all of that becomes, promotions becomes very 
+easy with the Capillary platform.  
+Now, we also allow you to run games and give bonus points for running games and all of that 
+stuff, right, the front-end experience is also a scratch card, a game, I'm sure you've played some 
+of these on the various apps.  
+Today, for a lot of our customers, if they have to do it, they have to go work with their IT team 
+to actually build the front end out, right, like in the app go get a page done and usually all of 
+these IT teams have their own roadmaps and so although the loyalty manager can like use our 
+platform to run the back end very quickly, the front end would take them like two, three months 
+to configure, get in the pipeline of the IT development and stuff.  
+What CustomerGlu, what Experiences+ does, now well it's an SDK that you plug in into the 
+website or into the app once, right, and once you've done that we can like,  how you're just in 
+the back end configuring a new promotion, you could also go configure a front-end experience. 
+so it really helps take out the dependency on the IT teams.  
+Think of it as a low-code, no-code platform to spin up games, experiences front ends, and kind 
+of make the dependency on IT teams less and make the marketers more independent in that 
+sense. I hope I answered that for you, Vinay. 
+Vinay Menon:  
+Yes. Thank you so much, sir. I'll get back in the queue and all the best for future.  
+Moderator:  
+Thanks, Vinay. The next question is from Shaurya Yadav. Please unmute yourself and go ahead. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 10 of 23 
+ 
+ 
+ 
+Shaurya Yadav:  
+Yes. Thanks for the opportunity. I've a couple of questions. First one, in last con call, you said 
+we are upgrading Kognitiv customers to Capillary platform. So, where are we in that journey, 
+and what challenges we are facing in that journey, if you can elaborate? And post-upgradation, 
+how much incremental margins can flow in our consolidated financials? 
+Aneesh Reddy:  
+Right. I think yes, so that process has started. I think the first customer will fully migrate on 
+September 1st. And like I said, the way we're doing this migration is using an AI platform. So, 
+the first customer is also an attempt to like fine-tune the AI platform to do further migrations, 
+right.  
+Now, let me spend a minute on what this AI platform does in terms of helping migrations, right. 
+So, because these are very old companies that we're buying, right, Kognitiv I think is a 1980s 
+set-up company, their oldest customer is 30 years old on that platform.  
+So, what the AI pieces do is look up the code, look up the implementations, and automatically 
+come up with what is it that has to be migrated, then it goes configures the Capillary platform, 
+builds up any middleware that needs to sit in between the Kognitiv implementation and the 
+Capillary implementation.  
+All of this is done in an AI-first approach without doing it with humans, right, so without doing 
+it with people. And so with that, we're looking to have the first customer going live on September 
+1st. Now, once that happens and that's proven, then you can,  – your Kognitiv is about 20 
+customers in total, I would actually not even 20, it's about 16-17 customers in in total.  
+So, then you could accelerate the next 10 in probably like a 2-3 quarter time frame. Right, so 
+what took us like three years with a Brierley or a Rewards or a Persuade, Persuade actually took 
+us like five, five years, the intent is that with this AI stuff, we should be able to see the same 
+gains in probably like a 18 to 24-month type upgrade cycle.  
+And like we said, May 1st was when we May 1st last year is when we bought this, so the goal is 
+that can we can we close, like can we get the upgrades done by latest September of next year, 
+right, 2027.  
+Now, all the acquisitions that we do, typically work at a 30% gross margin, and post we can get 
+them to a 65% or 70% plus gross margin. I definitely think, and Kognitiv was roughly about 
+INR75-odd crores of revenues, so I think there's at least another INR10 to INR15, INR15 cores 
+to INR20 crores of EBITDAs that will come through as the migrations happen..  
+So, we've already realized some of the gains with like better server cost, better all of that, so but 
+there's more margins to see for sure. In fact, we had detailed this out a little bit in our last deck 
+where we kind of broke our revenues down as saying, look, this year we're doing INR1,065 
+crores, out of that organic, which is the core Capillary platform revenues at 75% gross margins 
+is about INR670-something crores, INR673 crores, I think. The rest was acquired revenues, 
+which were barely at a break even, we were projecting about INR20 crores of margins from that 
+the acquired revenues.  
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 11 of 23 
+ 
+So, that INR20 crores from the INR390-odd crores of revenues that we're talking about has the 
+potential to deliver a INR120 cores, INR130 crores incrementally as the migrations happen, 
+right, as the upgrades happen. So, even in even in Kognitiv, probably in the next year, on that 
+INR80 crores, you will at least see a INR20-odd crores of more margins coming through. Did I 
+answer that question, Shaurya? 
+Shaurya Yadav:  
+Yes, Aneesh. Thank you. Second question is on the organic NRR of 111%, so can you bifurcate 
+how much is coming from upsell, cross-sell and the price increase? How we are upselling and 
+cross-selling our services? Like what areas of rooms we are targeting?  
+Anant Choubey:  
+Got it. So, Shaurya, we typically divide our NRR into a few categories. One category is 
+essentially inflationary price increases as well as overage-linked expansions. The other is 
+through upsell cross-sell and category three expanding for us is through entering into or 
+expanding into newer geographies or newer customer cohorts, right. And on that, you then 
+further have any churn in the business. So, net of churn is what you see as final NRR of 111%, 
+right.  
+In terms of like I don't have exact numbers, but rough bifurcation would be I think about 4%-
+5% would be through inflationary increases and overages and then probably another 10% 
+between upsells and entering into new customer cohorts with the customer. 
+Shaurya Yadav:  
+Got it. And if you can tell like what will be our churn rate in this NRR? 
+Anant Choubey:  
+About 5%-ish. 
+Shaurya Yadav:  
+5%-ish. Okay, got it. And just one more question, there was some cyber fraud incident, maybe 
+last month, so was there any customer data or employee data breach due to that incident? 
+Anant Choubey: 
+No, there was no exposure to any customer or employee data. It was just it was a banking fraud 
+where the bank account of one of our subsidiaries was impacted. 
+Shaurya Yadav: 
+Got it. Thank you and all the best. 
+Anant Choubey: 
+Thank you. 
+Moderator: 
+Thanks, Shaurya. The next question is from Jayesh Sagar. Please go ahead, Jayesh. 
+Jayesh Sagar: 
+Hi. my questions are two-fold. First of all, thank you for this update and congratulations for 
+performance in revenue. Two questions, one is, is the loss that you suffered due to fraud fully 
+covered by insurance? 
+And question number two, if you could elaborate a little bit on how a customer, while 
+transitioning from the Kognitiv platform or the other platform which you are acquiring to 
+Capillary platform, will entail a higher gross margin? 
+Anant Choubey: 
+Sure. So, on your first question, we do have insurance policy and we have initiated work on that, 
+so our insurance provider is working on that. So, in short, yes, it is covered by insurance, but 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 12 of 23 
+ 
+how much and when it would be recovered, I think that we don't have clarity on, so that work is 
+in progress at this point in time. 
+On your second question, Jayesh, so a little longer answer here, most of our traditional 
+competitors that we end up acquiring operate more in a agency model where there is a huge 
+T&M, like a big team is involved in delivering loyalty as an outcome in the form of services. 
+What predominantly changes from these companies to Capillary is that you are moving them 
+onto a tech platform. 
+So for doing a work where you in the past used to have a lot of people, now you are able to just 
+do that through some configurations on the tool. 
+Think of it as, and we have shown a demo before, that a process that used to take say a couple 
+of weeks where you have developers creating a campaign, doing segmentation of customers, 
+executing something that would require QA, all of that can happen on Capillary platform through 
+through just configurations within an hour, right. 
+So, that's a big delta in moving from a T&M model to a tech platform. So, a large part of the 
+cost, which was people cost, which brings your gross margin down to like 30s, changes 
+drastically when you move on to a tech platform and get to late 60s or early 70s. 
+Jayesh Sagar: 
+Thank you. 
+Moderator: 
+Thanks, thanks, Jayesh. Next question is from Rishi Jhunjhunwala from IIFL. Rishi, please go 
+ahead. 
+Rishi Jhunjhunwala: 
+Yes. Thanks for the opportunity. Aneesh, Anant, can you give some, you know, firstly, on the 
+ACV that you have talked about, does it include anything from the SessionM part also or is it 
+only, our older business ex of the large healthcare client that we talked about? 
+Aneesh Reddy: 
+It doesn't include any SessionM, Rishi. 
+Rishi Jhunjhunwala: 
+Understood. Okay. And the other thing is, just want to understand, in terms of organic versus 
+inorganic growth split-up, right, how do we measure it, right? Because there would be two 
+months' contribution from SessionM in this, and I am assuming you have benefited from 
+currency as well. What would be organic, inorganic split, and do we in any way hedge, you 
+know, our currency exposures? 
+Aneesh Reddy: 
+Anant, you want to take that or will I? 
+Anant Choubey: 
+Yeah. So Rishi, in terms of growth, as I was mentioning, it's a 43% year-on-year growth for Q1 
+versus Q1, which actually considers two months of SessionM. So, in this year, there's two 
+months of SessionM revenue versus zero in last year. 
+Now, if we remove that and just look at remove that, as well as Kognitiv, like any of the inorganic 
+revenue, the organic growth is at 17% versus same time last year. The other question you asked 
+is, is the benefits through currency, that's about that's about 6% on it. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 13 of 23 
+ 
+Rishi Jhunjhunwala: 
+And do we hedge our currency exposures or everything flows down to from top line to bottom 
+line? 
+Anant Choubey: 
+So, if you look at half of our cash actually is in USD and about half is in INR. Given about 60% 
+of the business is U.S. and you kind of keep cash over there, so there is sort of a natural hedge 
+in the business in that manner. 
+Rishi Jhunjhunwala: 
+Got it. And lastly, the expectation of on ESOP expenses for this year and next, if you can give 
+some color? 
+Anant Choubey: 
+Sure. So, our ESOP expenses for this year would be about INR12 crores to INR15 crores, and 
+you would see that our ESOP expenses will sort of remain  in this range. We would typically 
+like we look to maintain it between 1% to 2% of the top line, and that's been the trend, we are 
+looking to continuing on that. 
+Rishi Jhunjhunwala: 
+Understood. Thank you so much. 
+Moderator: 
+Thanks, Rishi. The next question is from Akshay Jogani. Please go ahead, Akshay. 
+Akshay Jogani: 
+Super, thank you. Thank you. Hi, hi, Aneesh. Hi, Anant. A couple of questions. During the call, 
+you spoke about how companies when you acquire a company, the customer does not necessarily 
+migrate right away and it's a journey, right. Now, historically, historically, you've spoken about 
+how you are buying agency-type businesses and then sort of transitioning them to a software 
+platform that you have, right. Now, when you are owning these businesses, the transition where 
+they are still agency type and you are transitioning them to software, logically, an agency-type 
+business would have people on the roles doing the work for the company. 
+And then I mean, you give them a software, it actually transitions to a the company employees, 
+the marketing teams doing the same work. So, in the period of transition, how does it work? 
+Like, they took up the platform, but the people in say SessionM are doing the work for the 
+marketing teams? 
+Can you help us help me understand how this exactly works as you kind of materially change 
+the business, right? Marketing team using a software is so different from marketing team telling 
+an agency that, you know, can you help me with this? 
+Aneesh Reddy: 
+Right. So, Akshay, two, three parts. So, you're right. I mean, the first few acquisitions we did, 
+Persuade, Brielle, even Rewards to a large extent, were agency-like. SessionM is a SaaS 
+company, so was Kognitiv, right, both are SaaS-ish. Now, they have different issues, but let me 
+answer your question first on, so what happens in an agency is, you know, let's say you want to 
+run a campaign, right. 
+Now, because they don't have a great software platform, they will have someone go do like a 
+bunch of this, like go build, write code to like come up with that campaign, it takes two months, 
+etc. Now, a lot of those companies that we bought didn't have like an India presence, right. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 14 of 23 
+ 
+So, the first thing we do even before you migrate is that some of these low-level works of just 
+keeping a platform updated, being able to run promotions, you can do that very well from here. 
+especially when, these are very back-end like jobs, they are not even customer-facing. So, in 
+fact, in none of our acquisitions do we change the customer-facing teams. 
+And all of these companies are, keep SessionM aside, are sub-scale, right, like $10 million, $11 
+million, $12 million revenues. So they can't have a set-up here in India. So, they would typically 
+work out of, so that gives you the earlier movement margins, like even like even in Kognitiv, 
+when we bought it, it was probably at like 5%, 10% margins. 
+Today, they are already at like a decent like because we have done some of these changes through 
+last year already. Right, so essentially for the customer a lot of the, it's not just using the software, 
+there was a lot of stuff which should ideally have been like no code or a configuration, which 
+people end up ended up doing in some of these older companies.  
+So that's the piece that you are switching,. So, for example, Brielle is a good example I can give 
+you. When we bought Brielle, or an year before we bought Brielle, it was I don't know, like 200-
+something people, right. Today, for that same revenue, we have 12 people. 
+ So not because, you know, it's the same customer-facing people that we have, we haven't 
+changed that that side of the angle at all, it's more the like you don't need to write code for 
+running campaigns, you don't need to write code for pulling a report out, you don't need to do 
+all of that, which is what agencies end up doing, right. For everything they will send you a bill 
+and put some five people to do something. 
+So the two steps to margins are, one step is the you move to a like a India center for the back-
+end type work. The second step is you fully move to like software, right. So, that's the two steps 
+to get to better margins in each of these cases. 
+Akshay Jogani: 
+Sure. And just to be sure, so, for example, let's say a customer has not transitioned and let's say 
+in the case of a SessionM, they do it very simple, they were already using a different software 
+and now they have got a better software, right, I mean, I would imagine in with some deviances. 
+In that case, you would they would just take up a new software and learn how to do it or you 
+would keep people on your rolls say in India or elsewhere who would kind of do the work for 
+them? 
+Aneesh Reddy: 
+So, let's take SessionM and how the margins will come there, I will explain that to you. So, 
+today, if you look at Capillary on a on our book of business, our server costs are roughly about 
+7%, 8%, 9%. Less than like, right, depending on which colo, etc., like some are 7, some are 10, 
+but in that. At SessionM, their server costs are 50% of revenue. Because it's just a badly 
+architected platform, right.  
+So the first initial set of gains that we are seeing on SessionM is just by getting that architecture 
+right. which, obviously, like we are a far more a cost-conscious and a much more frugally run 
+company, so we are getting that act together. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 15 of 23 
+ 
+Now, in SessionM's case, like I said, it's already a SaaS business. Right, so there's already a 
+software that customers use themselves, right, it's not an agency. So, in SessionM's case, what 
+we are doing is some of the UIs that they will use will also be available in our platform, so it's 
+not much of a change of experience or re-learning for a customer. Did I answer that to you? 
+Akshay Jogani: 
+Yeah, I have one more question. Yeah, that was super helpful. One more question is, this 
+definition of NRR, ACV, it's sort of super confusing in the sense that can you help us understand 
+what exactly do you mean by an NRR at a given point, what exactly do you mean by an ACV at 
+a given point, and when you say organic NRR, does it mean that if a customer moves from 
+Kognitiv to your platform, does that get added there or not? I mean, in some way, somewhere if 
+you define this, it will be very helpful. 
+Anant Choubey: 
+So,  Akshay, NRR is Net Retention Rate, so think of it this way, all the customers that are present 
+on Capillary platform on 1st April 2026, how much revenue they contributed in 12 months 
+period before that and how much revenue they are contributing in FY '27. In FY26, let's say you 
+made $100 from them, in FY27, if you make $111 from them, then the NRR is 111%. 
+Akshay Jogani: 
+Sure. 
+Anant Choubey: 
+Akshay, and everyone else on the call, when we are saying organic, we are basically saying it's 
+only Capillary platform revenues. Right, so organic for us is essentially revenues that are on the 
+Capillary platform, right, so, yeah.  
+Akshay Jogani: 
+But if someone moves from Kognitiv to your platform because you upsold them then? 
+Aneesh Reddy: 
+We will consider that into NRR calculations next year, not in this year. 
+Akshay Jogani: 
+Not in this year, okay. Yeah. 
+Aneesh Reddy: 
+So that you have a like-for-like, right. 
+Akshay Jogani: 
+Perfect. And ACV, how should we think of that in the sense that again, would be great, this 
+simpler simple explanation would be super helpful. In terms of how you add it. 
+Anant Choubey: 
+Sure. So, ACV is Annual Contract Value, right, and the metric that we showed you is new ACV. 
+So, new annual contract value that Capillary won in that period. So, that's a leading indicator of 
+how the business would be going forward, because whatever new we have won, that's the 
+business which is going live on the platform and will give revenue in the following 12 months 
+and thereafter. 
+Akshay Jogani: 
+Okay. So, in this case, let's say I am already a customer of Capillary and let's say my billing was 
+$1 million a year, and then I decided to buy two more say Engage platform and I started to pay 
+$1.2 million a year instead. So, the ACV addition, new ACV, will be $0.2 million, right? 
+Anant Choubey: 
+Correct. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 16 of 23 
+ 
+Akshay Jogani: 
+Right. Now, let's say in this case now, if let's say you acquired Kognitiv and one of the Kognitiv 
+clients then moved to the Capillary platform, do you consider that a new ACV, or you do not 
+consider that in new ACV? 
+Aneesh Reddy: 
+You don't consider that in the new ACV because you're not signing a new contract. New ACV, 
+we need, so even if there is a organic, you know, like just volume-based expansion of a customer, 
+we don't consider that in new ACV. No inflation expansion,  so new ACV is just where we are 
+comping our sales guys, there is a new contract, only those are considered in new ACV. The 
+way this migrated customer comes over is next year the revenue on the Capillary platform goes 
+up, and then you track it through NRR. 
+Akshay Jogani: 
+Makes sense. Super, this was helpful. Thank you so much, Aneesh. I will come back in the 
+queue. 
+Moderator: 
+Thanks, Akshay. So, the next question is from Achint. Please go ahead. And let's restrict our 
+question to one only because of paucity of time. Yeah, Achint, you can mute yourself, unmute 
+yourself and go ahead. 
+Achint: 
+Yeah, Aneesh, can you tell me, let's say if there is an no constraint on funding, can a AI-native 
+company create what you have? So, what are the key things which let's say a younger Aneesh 
+with all the fundings and all the AI advancements which are happening to write code and 
+everything still cannot match what Capillary is today? 
+Aneesh Reddy: 
+Yeah, so look, we play in the enterprise space, right, and I've struggled with this myself over 
+many years when we opened the U.S., when we whatever, right. So, just having a product doesn't 
+mean that, a Fortune 500 is going to come and buy from you, and we have customers who are 
+in the Fortune 50, right, like you've at least five customers in the Fortune 50. 
+They won't buy. Right, you need to be, it's not just matching what's there in the product, you 
+also need to , have enough implementations, be very well regarded by analysts. Like, let's think 
+about this, right, like even today enterprise AI adoption is abysmal, because it's risky. Right, and 
+most large enterprises live on risk. 
+They don't want to, like you get fired for taking a very risky decision in a large enterprise, you 
+don't get fired for doing nothing. Right, so in my mind to your point, look, I think I am a strong 
+believer that, look the with AI, what's happening is your ability to build code is like is just like 
+increasing significantly, right. 
+So, distribution, brand, analyst view of things, I think some of those end up becoming far bigger 
+differentiators than just the ability to write code. So, at least in our head, it's both sides, right, so 
+we continue to invest on being the best product out there and being at least a year ahead of 
+everyone else, and also in all of these stuff because in a in a very confusing, very noisy world, 
+you would mostly go ask someone else, key, who should I buy from, another customer, another 
+analyst, another partner. 
+Right, so I feel the moats are in the moats are in as much in brand distribution, all of these pieces 
+as it is in just the quality of the product. Did I answer that to you, Achint? 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 17 of 23 
+ 
+Achint: 
+Yeah, this is this is very helpful. Thank you. 
+Aneesh Reddy: 
+Thanks. Thanks, Achint. 
+Moderator: 
+So, next question is from Sanjay Kumar Elangovan. Please go ahead. 
+Sanjay Kumar Elangovan: Yeah. Okay. So, if I look at FY '25 growth, it was 13% because you had you didn't have any 
+acquisition, and now Q1 organic growth is around 11%. So, just trying to understand our organic 
+growth in a year you don't do any acquisition. So, if you want to boost it by upselling or cross-
+selling, does it affect the economics, and how should I look at your organic growth in a year 
+where you don't do any acquisitions? 
+Aneesh Reddy: 
+Yeah, so Sanjay, the loyalty space is a red ocean, right. So, which is why we have this dual 
+engine of organic and inorganic. Now, in the year that we didn't do an acquisition, that 13% 
+number you're saying is actually wrong, it's more closer to 20%, because we had done an 
+accounting change in that year. 
+Instead of looking at overall campaign revenues including SMS, costs, email costs, we had 
+moved to a only margin model. So which is why you shouldn't, I mean, if you look at our DRHP, 
+it's very well covered in the DRHP. You should look at the net revenue number, because then 
+both accounting standards look similar. 
+If you look at that number, it's more like a 22%-23%-odd growth, I think it's, yeah, 498 to  
+something around that, right. So, okay, the numbers are slipping me out, but if you look at the 
+DRHP, the numbers are there.. So even this year, we will do roughly a 20% - 23% organic 
+growth this year. 
+Q1 is a little bit of an aberration because this large healthcare customer we had didn't grow. So, 
+which is why if you're if you remove that, it's a 116% NRR if you remove that one healthcare 
+customer. So, overall through the year, we are looking at a 23% growth including a currency 
+impact of about 6%. So, you will see about a 17%-odd full-year organic growth for the business. 
+Now, look, if you look, there's roughly about 90 companies in the loyalty space which are more 
+than USD10 million in revenues, the USD10 million to USD100 million bracket, right, which is 
+where probably our M&A thesis can play. And look, it is a red ocean, loyalty is an old business. 
+Now, if you look at what we are paying for our acquisitions, it's like 0.3%, 0.5%, .1%, right. 
+Now, M&A actually in Capillary is a customer acquisition cost substitution story.we're not 
+buying new functionality, we're not buying like we're not buying any of that. We're actually 
+buying contracts, which are many-year contracts, we are migrating those customers over a 
+couple of years, and moving, you know, and then they become 70% gross margin businesses or 
+revenues for us. 
+So I do think, and we've mentioned about this in the DRHP as well, the right way to think of 
+Capillary is 15% to 20% organic growth business and inorganic, and we will continue to do 
+inorganic, it's almost like a sales motion. I have a team which constantly looks for acquisitions. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 18 of 23 
+ 
+Right, and now everyone in the market knows that we buy, so we have a big inbound, and we 
+buy at great prices, that that discipline, I think, will continue to remain, right. 
+Sanjay Kumar Elangovan: No, I understood the M&A economics, but when you upsell or cross-sell, does it affect the 
+economics, or are you forced to boost growth, do you have to cut down on your economics? 
+Aneesh Reddy: 
+Upsell or cross-sell, you actually, think of it as,  let's say  whatever revenues that you bought, 
+they migrated to Capillary. Now, those revenues continue to show the same 115% odd of net 
+retention rate. So, those revenues once they come in, continue to grow at the same pace because 
+there is no product like aiRA that, I mean, they didn't have something, so they will buy that, or 
+they will buy our experiences stack. 
+ 
+So, that should not hamper, in fact, probably next time we can pull out saying what has been the 
+NRR on the inorganic customers who migrated over. It's very similar, once you're on the 
+Capillary platform,  there's no differentiation there, so. 
+Sanjay Kumar Elangovan: Okay, and last on aiRA, can you give the actual ARR net of cannibalization, because I think it 
+affects two other products, so what is the aiRA and any economics there in terms of let's say 
+gross margin after the inference cost? I know it's early days, but anything on churn, retention on 
+the early cohort of aiRA customers? 
+Aneesh Reddy: 
+We're at about USD2.5 million-ish in ARR right now on aiRA, Sanjay, none of this is 
+cannibalized. Like, the Action Agents side, I think, like we said, Engage is a very small 5% of 
+revenue today, that will get, from the Action Agents side, I think we can grow that book of 
+business, but today, there is no cannibalization on that side. 
+Sanjay Kumar Elangovan: Okay, and gross margins in aiRA or contribution margins in aiRA? 
+Aneesh Reddy: 
+Similar because it's all upwards of 80%. 
+Sanjay Kumar Elangovan: Okay. 
+Aneesh Reddy: 
+Yeah. 
+Sanjay Kumar Elangovan: Got it. All right, thank you. All the best. 
+Aneesh Reddy: 
+Thanks. 
+Moderator: 
+Thanks. So, due to paucity of time, we'll take that as the last question. Whoever has any more 
+questions can reach out to us, either the Capillary or the EY team. So, I would like to hand over 
+back to Aneesh for his closing remarks. 
+Aneesh Reddy: 
+Kanav, I think we have another 5 minutes, and I know last time also Srinivasu's question didn't 
+get asked, so we can continue another 5 minutes, I think we have three more questions. 
+Moderator: 
+Sure, okay. So, Srinivasu, you can go ahead. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 19 of 23 
+ 
+Srinivasu: 
+Yeah, my question is about agentic commerce. When a shopper is an agent rather than a person, 
+what will happen to these points and tiers and gamified front ends like Experiences+ that you 
+have talked about, right? Is Capillary's roadmap is to expose and earn and burn this through 
+agent accessible end points? 
+Aneesh Reddy: 
+Absolutely. I think, Srinivasu, that's a great question, right, so like you said when an agent is 
+shopping, today as humans, right, if the I mean, cognitive load of, you know, like typically in 
+loyalty, you get 2%, 3%, 4% points, right, so in, usually, loyalty in today's world is a very 
+subconscious type where  I get something, so If I get 5% points from this airline, so I will go 
+there. It's not a very rational decision. 
+When an agent buys, on the other hand, even a 1% difference, the agent will say, okay, like this 
+is better than that, right. So, in an agent buying decision, we think loyalty will move to becoming 
+more rational, not just the subconscious preference of, oh, I know I get something, so we think 
+that both promotions, the value of points, personalizing it to a user, all of this becomes a lot more 
+critical, because an agent is not lazy like humans are. 
+It is going to like measure to the last rupee, the last penny, and then take a call. So, and that's 
+where I we think we actually have a massive edge, because then when an agent is communicating 
+with a platform or with a customer of ours, the turnaround times, the tech needed, all of that 
+needs to be like really, really good. 
+If you look at most of our competitors, they're all agencies, so their tech is like gone and done 
+and dusted, right. So, we do think in fact, in a lot of our newer wins that we talk about this quite 
+a bit, that, you know, the importance of promotions, the importance of coupons, the importance 
+of like less than  100-millisecond turnarounds, all of that becomes much more critical in an 
+extremely rational agent-like behavior, than it is actually in, when a human is buying. Did I 
+answer that question for you, Srinivasu? 
+Srinivasu: 
+Yeah, yes, thanks, thanks a lot, yeah. 
+Aneesh Reddy: 
+Yeah. 
+Moderator: 
+Thanks. We have the next question from Shankar Narayanan. Please go ahead. 
+Shankar Narayanan: 
+Evening, sir. Thanks for the opportunity.  
+Shankar Narayanan: 
+Yeah. So, firstly, you have been quite multiple times that our big competitors are large agencies. 
+Can you just quantify the market share in the loyalty program space held by these agencies and 
+an independent software player like us, and maybe the large ERP guys? 
+Aneesh Reddy:  
+Yeah, the very large agencies are, you know, I can name them, right, they're all on the Forrester 
+report which is there on our website, which is also there on the first few slides. So, it's people 
+like Epsilon, last reported revenue, Epsilon was a $2 billion, Merkle, which is part of Dentsu, 
+last reported revenues was upwards of $0.5 billion. We know that, you know, Kobie, Bond 
+Brand, all of that gang is again in that few hundred million of revenues. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 20 of 23 
+ 
+ 
+Now, software only is a much more newer, there's us, there's Salesforce, I mean, they have a 
+small loyalty product, there's Oracle's CrowdTwist, which we haven't seen in competition for 
+many years now. You know, like, I would say less than 10% of actual revenues, far less than 
+10% of actual revenues sits with software today as compared with agencies. 
+Shankar Narayanan:  
+Got it. So, just to get an understanding, because they typically deal with the CMOs of Fortune 
+companies where they deal the marketing budgets.. 
+Aneesh Reddy:  
+We also have the same budget. Like, our customers are CMOs again. 
+Shankar Narayanan:  
+Got it. So most of the growth is coming from shift towards an independent software player like 
+us, right? Is that the right way to put? 
+Aneesh Reddy:  
+Correct. More and more, I think teams want to have faster speed, and this agency model or 
+everything taking 2 months just doesn't work, that's driving the shift, yeah. 
+Shankar Narayanan:  
+Got it. Thanks. 
+Moderator:  
+Thanks. So, next question is from Chintan Shah. Please go ahead. 
+Chintan Shah:  
+Hi, Aneesh. This question is for you. So, just one question that I had was now, Capillary has 
+build a lot of capabilities across different verticals and now we have more AI offerings as well. 
+So do you think now we are at a position where we should able to sort of attract more larger 
+clients organically as well, or do you think there's still needs more to be done for that to happen? 
+Aneesh Reddy:  
+Chintan, loyalty is a very sticky business, here. So, the problem with a sticky business, it's sticky 
+for everyone, right, whether it's for us or for our competitor. So the problem we see is that, you 
+know, like the product slide I showed you, the average number of places you integrate with a 
+customer is about 9 different places.  
+Anant Choubey:  
+I'll take it forward there. So, Chintan, I'm guessing there are 2 parts to the question here. One is 
+on the enterprise customers organic motion on that. Just a slight different data point. If you look 
+at some of our Fortune 50 and Fortune 500 customers, those have all been organic inbound, like 
+the largest healthcare customer or one of the largest healthcare pharmacy chain in the US or one 
+of the largest fuel retailers, some of these are Fortune 50 customers, have been all organic 
+inbound. 
+ 
+So, that I think has a presence in the US and the brand awareness is increasing, that has constantly 
+been improving for us. Point to note here is that, we're just 5-year-old in the US, so it took some 
+time for some of this inbound to start happening, but now that we are leader on a lot of these 
+independent analyst reports, lot of that inbound has started happening now. 
+ 
+On the other side, obviously, if somebody has already, like if somebody is already on another 
+platform, the time that it would take because of the stickiness for them to like really get pained 
+with it and do a RFP and come in the market, that is a constraint, and that's where the inorganic 
+motion of buying companies come into the play. So, we use combination of both these to acquire 
+more large or super large enterprise customers. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 21 of 23 
+ 
+Chintan Shah:  
+Anant, if I just flip it, is it fair to say that despite all this AI, etc., coming in, still it's not going to 
+make a difference for somebody else to sort of use that and acquire clients, unless the customers 
+use it in-house? 
+Anant Choubey:  
+So, if you look at, AI is not really making things move from a provider to in-house, rather what 
+you're seeing more and more is that even programs that were being run in-house are like some 
+of those are actually coming in the market to look at the best provider and move their programs 
+to that. And I think one of the main reason for that is that loyalty is actually a like, it's bought by 
+marketer, right, as an it's more CMO buy than a CIO buy. 
+ 
+And anything to do with marketing is fast changing. So, your requirements today versus your 
+requirements next year keep on changing. And in places where some of these have been run in-
+house, this constant ask from CMO to kind of get things done or ask for newer features, newer 
+activations for their customers. 
+ 
+Like if you think of loyalty, it's not just point earn and burn, right, you will have badges, 
+milestones, referrals, like bunch of those features that that team would keep looking for, and 
+that's where most in-house programs tend to end up becoming slow or constrained for marketers 
+to try out new things. 
+ 
+So, we are seeing things moving from in-house to tech providers, as well as we're seeing things 
+from an agency world to a tech provider. So, you're kind of seeing tailwinds on both these cohorts 
+of the TAM for us. 
+Chintan Shah:  
+Got it, understood. Anant, that was very helpful. And just one last clarification, on the SessionM 
+acquisition cost, if I'm not wrong, earlier the cost to be paid was around $17 million, right, and 
+now we're saying we have net paid INR17 crores. So, what am I missing here, is the remaining 
+part, there's a huge leverage that we got or what exactly is the gap here? 
+Anant Choubey:  
+So, Chintan, it's actually a $20 million buy. The deal value, enterprise value for the SessionM 
+business that we bought is $20 million. But the way we had structured the deal was that it would 
+be adjusted for any net debt items at the time of closing. 
+ 
+Now, we had to structure it this way because some business was sitting in SessionM entity, some 
+business was sitting in Mastercard, so there was lack of clarity to the seller as well at the time 
+when we were doing term sheet on a clean, like, they didn't have a clean balance sheet or  P&L 
+statement for this portion of the business, because of again business sitting in multiple entities. 
+So, when we did the final true-up on 30th April, this value basically got down to about INR17 
+crores. 
+Aneesh Reddy: 
+And just to clarify, there is no debt on the SessionM entities we have got. So, it's not like it is 
+INR17 crores plus some debt or something. These are debt-free entities as well. 
+Chintan Shah:  
+Okay, got it, understood. And finally, what have we paid for this Experiences+, the Glu 
+acquisition? 
+Anant Choubey:  
+Less than a few 100K , you know, not worth talking about, Chintan. 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 22 of 23 
+ 
+Chintan Shah:  
+Okay, got it. Understood. Thanks, Aneesh and thanks, Anant. 
+Anant Choubey:  
+Thank you. 
+Moderator:  
+Yeah, thanks. We have a last question from Kumar Saurabh. Please go ahead. 
+Kumar Saurabh:  
+Hello, hi, Aneesh. Congrats on good set of numbers and glad to connect again. Two questions, 
+one, this quarter, our ACV is INR92 crores against INR53 crores, and FY26 versus FY25, this 
+number was almost flat. And now it's a 80% growth. So how should we read it in terms of what 
+is supposed to come in next 2-3 quarters? 
+Aneesh Reddy:  
+Let me take that, Anant. So, first of all, Saurabh, the numbers we reported is a trailing 12 month, 
+it's not only one quarter, so both the 53 and the 90-odd numbers are trailing 12 month numbers, 
+right. Because it's our average deal cycles are 9 months, it's a large enterprise business, so 
+looking quarter-to-quarter is not the best way for a business like ours. 
+Now, look, we are seeing good momentum on new sales, which is what is that 53 to 90-
+something, right. So, we continue to see very good momentum, both in the US, Europe, and 
+Asia. My belief is that you should you know, that like I don't know if we will do a 75% overall 
+for the full year, but we will definitely do like at least 30%-40% more OV more new ACV than 
+last year, for sure. 
+Kumar Saurabh: 
+Last year, exactly, exactly. Okay. The other question I had is, the latest acquisition, SessionM, 
+this is little different from all the previous acquisitions we have done because of the software 
+nature of the business, and those businesses, if I remember, it took us 2-3 years to reach to 44% 
+contribution margin. I don't know if that converts into a 20% plus EBITDA margin, but you can 
+correct me. Given SessionM acquisition is little different, if you can educate little bit on how 
+will be the growth trajectory and the EBITDA margin trajectory of SessionM you're planning 
+for? 
+Aneesh Reddy: 
+So, like even Kognitiv, which was last year's, by Saurabh was saas-ish, it was not agency-only, 
+right. Now, look, I think all of these, the way to think about it is when you're at a 70%-odd gross 
+margin, as a business, you probably have 25% cost of SG&A, right, cost of sales and all of this, 
+so you should get to about a 40% like free cash, 35% free cash being generated by that book of 
+business. 
+In SessionM, like we said, the problem is slightly different, their server costs are 50% of revenue, 
+actually more, right, their server costs are a very, very large part of revenue. So, that we can 
+bring down even without upgrading those customers to Capillary, right. So, we believe that there 
+is at least, I would say, at least $6-7-8 million that we might save over the next few quarters, the 
+next 3-4 quarters, by just not focusing on upgrading them to the Capillary platform, but by just 
+bringing this server cost down, right. And so, my gut is the journey from roughly a break-even 
+now will be to a 15%-odd in a year, and then over another year, we will get to that 35%-40% 
+margin. 
+Kumar Saurabh: 
+Got it. So, just to conclude, as I think we are doing better compared to I mean we are doing very 
+good both on the organic and inorganic side, will you retain with the same kind of guidance or 
+
+ 
+ 
+Capillary Technologies India Limited 
+August 04, 2026 
+ 
+Page 23 of 23 
+ 
+do you think now it is looking on the conservative side, or will you wait for one or two more 
+quarters to you know just have a look at it? 
+Aneesh Reddy: 
+We will  definitely beat our INR1,065 crores and revenue and INR172 crores number. I don't 
+think we want to revise any guidance right now. We'll meet those numbers, but by how much, I 
+don't think we should do it now. 
+Kumar Saurabh: 
+Great, great. Wish you all the best, Aneesh. 
+Aneesh Reddy: 
+Thank you. 
+Moderator: 
+So, that will be the last question for today. So, I would like to hand it over to the management 
+for their closing remarks. 
+Aneesh Reddy: 
+Thanks, Kanav. I think it's been a good quarter, both on the organic and the inorganic side. I 
+think we had this fraud incident, which was a bummer, but as a business, I think we are very 
+excited about what we're seeing, both from a logos that we're able to win, the kind of 
+conversations we're having, the adoption that we're seeing on the AI products. So, we continue 
+to, I think build on, and we do believe that hopefully someday we'll be able to get to being the 
+largest and the best loyalty business out there. So, thanks, everyone, for joining us today. Thank 
+you. 
+Anant Choubey: 
+Thank you, take care, everyone. 

@@ -1,0 +1,609 @@
+q’ KSOLVES 
+> 
+Al First, Always 
+Date: May 06, 2026 
+  
+To 
+Listing Compliance 
+Listing Compliance 
+National Stock Exchange of India Ltd. 
+The Bombay Stock Exchange Limited, 
+Exchange Plaza, Plot no. C/1, G Block, 
+Phiroze Jeejeebhoy Towers, 
+Bandra-Kurla Complex, Bandra (E) 
+Dalal Street, 
+Mumbai — 400051 
+Mumbai — 400 001. 
+ 
+ 
+ 
+  
+Subject: Transcripts of Q4 FY’26 Earnings Conference Call dated April 30, 2026. 
+Ref: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015. 
+BSE Scrip Code: 543599; NSE Symbol; KSOLVES; ISIN: INEOD6101023 
+Dear Sir/Madam, 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, please find enclosed herewith the transcripts of Post Earnings Conference Call- Q4 & FY26. 
+You may also find the transcripts on company’s website at www.ksolves.com 
+This is for your information and records. 
+For Ksolves India Limited 
+      
+SS 
+8 
+iy 
+3177276, NA 
+e(3 
+lane3, 
+Blin 
+3 Mehrauli Roag O10) 
+© Saidulajab, 
+Saket, 
+2 
+    
+   
+    
+  
+  
+  
+  
+Company Secretary and Compliance Officer 
+Ksolves India Limited (Formerly known as Ksolves India Private Limited) 
+Registered. Office.: 317/276-Second floor, Lane No.3, Mehrauli Road, Saidulajab, Saket, New Delhi-110030, 
+Corporate Office: C-28,29, Second floor, C-Block, Smartworks, Tower -D, Logix Cyber Park, Sector 62, Noida, UP 
+- 201301 
+Telephone No: 0120-4983851 Email Id: cs@ksolves.com Website: www.ksolves.com 
+CIN: L72900DL2014PLC269020 
+ 
+
+> KSOLVES 
+< > 
+Al First, Always 
+“Ksolves India Limited 
+Q4 FY26 Earnings Conference Call” 
+April 30, 2026 
+MANAGEMENT: 
+MR. RATAN SRIVASTAVA — CHAIRMAN AND MANAGING DIRECTOR 
+MR. UMANG SONI-— CHIEF FINANCIAL OFFICER 
+MR. MANISH GURNANI-— CHIEF TECHNICAL OFFICER 
+MR. DARPAN AUDICHYA — HEAD BUSINESS TRANSFORMATION AND 
+CONSULTING 
+MR. MAYANK SHUKLA — TECHNICAL PROJECT MANAGER, AI 
+MODERATOR: 
+MR. PRATIK JAGTAP — ERNST & YOUNG, LLP (IR) 
+Page 1 of 11
+
+q’« KSOLVES 
+> 
+Al First, Always 
+Moderator: 
+Pratik Jagtap: 
+Ratan Srivastava: 
+Ksolves India Limited 
+April 30, 2026 
+Ladies and gentlemen, good day, and welcome to the Ksolves India Limited Q4 FY26 Earnings 
+Conference Call. As a reminder, all participant lines will be in listen-only mode, and there will 
+be an opportunity for you to ask questions after the presentation concludes. Should you need 
+assistance during the conference call, please signal an operator by pressing star, then zero on 
+your touch-tone telephone. 
+I now hand the conference over to Mr. Pratik Jagtap from E&Y 
+Investor Relations. Thank you, and over to you, sir. 
+Thank you, Seema. Welcome, everyone, and thanks for joing the Ksolves India Limited Q4 
+FY26 Earnings Call. The results have been mailed to you along with the investor presentation, 
+and it 1s also available at www.ksolves.com. In case anyone does not have a copy of investor 
+presentation, please do write to us, and we will be happy to share it with you. 
+Joining us today from the management team are Ratan Srivastava 
+- Chairman and Managing 
+Director, Umang Soni - Chief Financial Officer; Manish Gurnani 
+- Chief Technology Officer; 
+Darpan Audichya 
+- Head, Business Transformation and Consulting; and Mayank Shukla 
+- 
+Technical Project Manager, AI. 
+We 
+will begin with management's remarks covering the business updates and quarterly 
+performance highlights and then move on to the Q&A session. 
+Before we start, I would like to remind you that anything that is said on this call that reflects any 
+outlook for the future or which can be construed as a forward-looking statement must be viewed 
+in conjunction with the risks and uncertainties that we face. These risks and uncertainties are 
+included but not limited to what we have mentioned in the prospectus filed with SEBI and 
+subsequent annual report which you can find on our website. 
+Having said that, I will now hand over the call to Ratan, sir. Over to you, sir. 
+Thank you, Pratik. Welcome, and thank you, everyone, for joming our Q4 FY'26 earnings call. 
+FY26 marked an important milestone as we crossed INR 150 crores in annual revenue, reflecting 
+the strengthening scale and resilience of our business. We closed the year with revenue of INR 
+162.7 crores. It is up 18.4% year-on-year with an EBITDA of INR 48.3 crores at a margin of 
+29.7% and PAT of INR 34.3 crores. This was achieved alongside continued investment in our 
+capabilities, talent, and long-term positioning. 
+In terms of quarterly performance, Q4 was a strong quarter, with revenue of INR 43.03 crores, 
+growing 29.1% year-on-year and 1.7% sequentially. In fact, what gives us confidence 1s that Q4 
+also saw the conversion of some of our strategic wins across large enterprise clients and marquee 
+global brands, including — 
+e 
+~=- First, a full SAP-to-Odoo migration for a listed Indian infrastructure company in power 
+transmission and green energy. Displacing SAP at a listed client signals that our Odoo 
+practice is now enterprise-grade. 
+e 
+Second, a specialist data science talent was deployed with a New York-based risk and 
+financial crime advisory firm, working on financial crime detection. 
+Page 2 of 11
+
+q’« KSOLVES 
+> 
+Al First, Always 
+Umang Soni: 
+Ksolves India Limited 
+April 30, 2026 
+e = Third, an ERP implementation for a member firm of a top six global accounting network 
+in East Africa. 
+These wins reinforce our positioning, delivery quality, and brand credibility even in an uncertain 
+environment. Our growth continues to be driven by a diversified services mix across ERP, cloud, 
+data, AI, salesforce and enterprise transformation, with 82% of revenue being recurring, 
+providing strong visibility and resilience. 
+FY26 marked a structural shift in how Ksolves operates. We have repositioned ourselves as an 
+Al-first organization, where AI is not an overlay but 1s embedded into delivery, execution and 
+client engagement. What this shift reflects 1s a genuine capability we have built to enable clients 
+through AI, bringing frameworks, agentic thinking, and technical depth that translate into real 
+business outcomes for them. 
+At Ksolves, our conviction 
+is simple. Every task, whether coding, testing, operations, 
+or 
+communication 1s executed by AI agents. Our engineers review, enhance and raise the bar, not 
+merely execute. We have established ourselves as 
+a 360-degree AI transformation partner. 
+Whether a client needs software build or operation transformation, we bring AI agents to both, 
+agent that code, agent that test, agent that deploy, agent that automate workflows, monitor 
+communication and flag risk. 
+We know that the future 1s agentic. At Ksolves, that future 1s already our operating model. We 
+are an AI transformation partner, and that distinction shapes everything about how we engage, 
+deliver and grow. Enterprise AI has moved from experimentation to execution globally. Ksolves 
+1s already on the right side of the shift, not by responding to it, but by enabling it alongside our 
+clients. 
+Now coming to guidance for FY27, we expect annual revenue growth to be around 18% to 20% 
+and EBITDA margins to be in the range of 25% to 30%. Demand remains intact, and our 
+execution momentum is strong. We remain confident of delivering sustainable growth while 
+continuing to invest for scale. Overall we believe the business has delivered strong growth in a 
+challenging environment, and the building blocks created in FY26 position us well for the next 
+phase of growth. 
+Thank you. With this, I now hand over the floor to Umang to share financial highlights. 
+Thank you, Ratan. Good evening, everyone, and thank you for joining our Q4 FY26 earnings 
+call. Let me quickly walk you through the financial performance for Q4 and the full year of 
+financial year '26. 
+So, as Ratan mentioned, FY26 has been a year of strong growth, combined with deliberate 
+investment for us. Our revenue stood at INR 162.7 crores, up by 18.4% year-on-year. Our 
+EBITDA was at INR 48.3 crores and EBITDA margin stood at 29.7% in FY26 versus 34.8% in 
+FY25. This was a conscious and planned investment phase, as we communicated in earlier calls. 
+This was 
+primarily 
+driven 
+by ESOP-related 
+costs, 
+investment 
+in 
+senior leadership 
+and 
+Page 3 of 11
+
+q’« KSOLVES 
+> 
+Al First, Always 
+Moderator: 
+Apoorv: 
+Ksolves India Limited 
+April 30, 2026 
+compensation costs, higher travel and event spend to strengthen our global presence, and one- 
+time impact from r the new labor regulations amounting to INR 1.1 crores. 
+Importantly, these are strategic and largely non-recurring investments. We exited FY26 at the 
+upper end of the range guided, that 1s, 29.7% EBITDA margin, which ensures that we reinforce 
+stability. Profit after tax for FY26 stood at INR 34.3 crores in line with FY25, despite the 
+investments made in capability build-out. PAT margin was at 21.1%. 
+Our continued efforts have resulted in 
+a strong 5-year revenue CAGR of 42% and a healthy 5- 
+year net profit CAGR of 31%. We continue to deliver exceptional return ratios, with ROCE at 
+152% and ROE at 137% for the financial year '25-'26. 
+For Q4 FY26, we reported revenue of INR 43.03 crores, a growth of 1.7% sequentially and 
+29.1% year-on-year. The top- line growth was driven by consistent execution across ongoing 
+client, and core business momentum remained healthy. 
+Our EBITDA margin for the quarter stood at 29.3%. PAT for the quarter stood at INR 9.7 crores, 
+translating into a PAT margin of 22.5%. Earnings per share for the quarter was INR 4.09 per 
+share. We continue to generate strong cash flows and our balance sheet remains healthy, with 
+cash balance of INR 6.9 crores with a net debt-free status. 
+From a client concentration standpoint, our top 5 and top 10 clients contributed 40% and 54% 
+of our revenues, respectively, in FY26. Overseas markets contributed approximately 77% of our 
+revenues, underscoring the increasing contribution of global markets. As highlighted earlier, IT 
+services remain the core driver of our revenue and profitability. The Product segment, which is 
+a small contributor, continues to be developed in a disciplined manner. 
+As we move into FY27, our focus remains clear, deepening the relationships with our existing 
+clients, increasing the share of fixed-price and outcome-based engagements; leveraging our 360- 
+degree AI transformation partner positioning, using the Al-led productivity to scale delivery, 
+deepen client engagement and move from 
+a technology vendor to end-to-end reinvention 
+partner, continuing 
+investment in talent capabilities and maintaining margin discipline with 
+operating leverage. 
+With this, 
+I will now hand over the floor to the operator to open the session for Q&A. Thank 
+you, everyone. 
+Thank you very much, sir. We will now begin with the question-and-answer session. We'll take 
+the first question from the line of Apoorv from Whitestone Financial Advisors. 
+My question is, as we have mentioned that we use AI agents to code, test in our operations, 
+right? So how much efficiency do we see in our employee expense like going forward, maybe 
+1n the financial year FY27? 
+Page 4 of 11
+
+q’« KSOLVES 
+> 
+Al First, Always 
+Ratan Srivastava: 
+Apoorv: 
+Ratan Srivastava: 
+Apoorv: 
+Ratan Srivastava: 
+Apoorv: 
+Ratan Srivastava: 
+Manish Gurnani: 
+Ratan Srivastava: 
+Moderator: 
+Darshil Jhaveri: 
+Ksolves India Limited 
+April 30, 2026 
+See, basically, we have not exactly measured, 
+, what the results will be. But what we are 
+observing right now 1s that when we are using the agents, 
+it is reducing the time, and it is 
+increasing the output. And we are trying to create agents for every repetitive task. So, at this 
+moment, I do not have an exact answer for your question that how much it will affect the costing. 
+Sure, 
+sir., can you please share some examples where we have used AI in our day-to-day 
+operations? 
+Definitely. For example, today we have one person from the sales team, that person has created 
+an agent on Claude. What he has done is that the agent gets g data from the Excel sheet. The 
+agent 1s tuned and decides which email ID should be selected to send cold email. 
+So, the 
+salesperson uploads the Excel sheet, and then the agent decides which email ID to select to send 
+a cold email. This is a small agent. 
+Apart from this, let me give you another example. For example, how many events are going to 
+be organized in New York in the next three months. We have created an agent and that searches 
+every day, at a specific time, for how many new events are added all across the world, and the 
+agent sends us an email. 
+This is a small example of how we are trying to create agents for 
+repetitive task. 
+Got it, sir. 
+Sorry, I can give you a very highly technical example, but that I don't think that it is the right 
+time, I think, yes, I have given you answer. 
+Okay, sir. 
+I have one more question. 
+You have mentioned in our key wins that we have 
+onboarded specialist data scientist. So, I didn't get 1t. Have we onboarded them as an employee 
+or are we providing them as outsourced person to another company? If you can just throw some 
+light on that, please. 
+Actually, we have onboarded not just one, we have onboarded many. 
+But not as an employee, 
+we have given them our people to research on a specific topic. So, this is not just one person. 
+Let me add to that. This is for some clients who are very strictly regulated, because they are into, 
+, fraud detection and security. This team has been set up for such engagements, and it has been 
+doing good because this is a niche and high-revenue area. 
+And not only one, we have added multiple resources for that customer. 
+We take the next question from the line of Darshil Jhaveri from Crown Capital. 
+Firstly, congratulations on a great Q4, sir. With regards to our margin, the trajectory we've been 
+seeing 1s that our revenue has been steadily growing, but our margins have been declined, due 
+to which our PAT has been nearly identical over the last three years, sir. So, in terms of bottom 
+line growth, how do we see it, sir? 
+Page 5 of 11
+
+q’« KSOLVES 
+> 
+Al First, Always 
+Umang Soni: 
+Darshil Jhaveri: 
+Umang Soni: 
+Darshil Jhaveri: 
+Umang Soni: 
+Darshil Jhaveri: 
+Moderator: 
+Shreya: 
+Umang Soni: 
+Shreya: 
+Umang Soni: 
+Shreya: 
+Ksolves India Limited 
+April 30, 2026 
+Basically, if you see, we have made quite a few investments this year, which we had already 
+communicated in Q1 of FY26. Because, earlier, there were no ESOPs, no events being attended 
+and no expenses incurred on branding. We have also invested some amount in DFM as well. 
+Despite all this, we ended at the upper range of the guided margin. If you compare from last year 
+Q4, this year Q4 has been quite significant, and we expect it to be in the same range going 
+forward. 
+Okay sir, 
+I wanted to know that even though the guidance is 25% to 30%, we should ideally 
+have it on the higher end because of AI-led efficiencies. I'm assuming that some of the marketing 
+costs incurred this year, were more of a one-time 1n nature? Or are they recurring? 
+I wanted to understand because we've performed really well ina very difficult environment, but 
+our margins have been impacted. Is it also because of threat of AI coming in, and we have to do 
+some price cutting? How do you see that, sir? 
+So, it's not recurring, I would say. A few expenses would be there, but at not at the scale that we 
+have done in F Y26. So, there would be some benefits from the investments as well. On the AI 
+side, we are seeing efficiency internally. And due to the current global situation, there are a few 
+delays, you can say, but the conversions are going strong and demand is healthy. 
+Okay sir, with regards to when you are saying deals are getting delayed, do we have a rough 
+order pipeline? And what kind of order booking or deal wins we can expect in FY27? 
+We have already given the guidance range for revenues and margins. 
+Okay. Fair enough. That’s it for now. Thank you. 
+Thank you. We take the next question from the line of Kaustav Bubna from BMSPL Capital. 
+Please proceed. 
+Good afternoon. This is Shreya on behalf of Kaustav. How much percentage of your total 
+business or your total revenue is currently AI-first? 
+So first of all, AI 1s not a stand-alone revenue factor. It's embedded in all the technologies, okay? 
+So, all the services we are delivering are AI embedded. 
+Okay. how is the DFM business scaling? And where are we currently versus where would we 
+like to be? 
+On DFM, we would like to discuss it at on a later stage when the products revenue becomes 
+marginal revenue. As earlier communicated, we are more focused on IT services because that's 
+the main bread and butter of our business. So, we are scaling the product business in a very 
+disciplined manner, but our main focus 1s completely on IT services. 
+Okay. Thank you. 
+Page 6 of 11
+
+q’« KSOLVES 
+> 
+Al First, Always 
+Moderator: 
+Jatin Sharma: 
+Umang Soni: 
+Ratan Srivastava: 
+Jatin Sharma: 
+Moderator: 
+Prabhav Agarwal: 
+Umang Soni: 
+Prabhav Agarwal: 
+Umang Soni: 
+Ksolves India Limited 
+April 30, 2026 
+Thank you. We take the next question from the line of Jatin Sharma, Individual Investor. Please 
+go ahead. 
+Hi, Ratan. Good evening. I just have one question, because we have been talking 1n the past few 
+meetings with regards to the DFM. So, I just want to understand what the overall expenses were 
+that the company has incurred for the product development of DFM in the last year, and what is 
+planned in the current year '27? 
+All right Jatin, on DFM development, if you want to quantify it, then you can consider approx. 
+INR 2 crores was expensed in FY26, and we expect no further big investments on DFM 
+development in FY27. 
+One thing 
+I would like to add here that we are not going to spend money on DFM. DFM 
+development is done. We will wait for the customers. And on the event side, the expenses we 
+have done last year, will reduce by at least 60% this year. We attended many events last year for 
+DFM, and we have spent a lot of money on DFM on the development side as well as on the 
+marketing side. 
+This year, we will focus only and only on the services. And for the DFM, we will wait for the 
+customers. If we get the customer conversion, then we will think about the next step. But for 
+now, and for the next few quarters, we will focus only on services. We will not spend money on 
+the product side, because last year, we spent money on the product side. But unfortunately, we 
+could not generate revenue from that. 
+So, you can say that from the services, we have taken the money s and spent it on the product. 
+And that's why you can see that PAT growth 1s flat as compared to last year. But this year, we 
+will focus only on the services, not on the product, and not for the expenses related to product 
+like events and all. I hope I have given the answer. 
+Yes, right. Thank you. 
+Thank you, sir. The next question is from the line of Prabhav Agarwal, an Individual Investor. 
+Please proceed with your question. 
+Sir, my question is along the lines of rupee depreciation that we are seeing. So, considering that 
+60% of our revenue comes from the North America region, so in Q4 FY26, do we see the benefit 
+of rupee depreciation in the PAT margin? Or do we expect to see that in coming quarters? 
+No, we have, in fact, seen a FX tailwind. So, we have benefited, not in a larger scale, but yes, to 
+quantify it, I would say this lies somewhere around approx. INR 20 lakhs. So that was FX gain 
+you can consider from the rupee tailwind. 
+And sir, do we expect any further margin improvement from this level on account of FX? 
+No, 
+I think 
+it will remain because now the billings will happen at a higher rate. This is a 
+continuous process. But yes, we are focusing on margins as well. 
+Page 7 of 11
+
+q’« KSOLVES 
+> 
+Al First, Always 
+Prabhav Agarwal: 
+Moderator: 
+Kaustav Bubna: 
+Ratan Srivastava: 
+Kaustav Bubna: 
+Ratan Srivastava: 
+Kaustav Bubna: 
+Ratan Srivastava: 
+Ksolves India Limited 
+April 30, 2026 
+Got it. Understood, sir. Thank you. 
+Thank you. The next question is from the line of Kaustav Bubna from BMSPL Capital. Please 
+go ahead. 
+Hi, I just wanted to further ask on the DFM product because in a lot of calls before, you always 
+spoke about it and now you don't. So, I really wanted to understand — were our expectations for 
+this product much more than the current reality of customer acceptance? Or do we still have 
+hope for this product in the future? 
+See, you are correct. Expectation was more, and that we could not achieve till now. Being an 
+entrepreneur, it is my job to try multiple things, multiple approach to increase the business, and 
+that was my attempt to develop a product apart from the regular services. 
+I sold 
+it to two 
+customers also. Two or three customers are in pipeline, but due to geographical problems, they 
+have shifted it to June or July. 
+But still, honestly speaking, 
+I do not see a lot of opportunity in DFM. So that's why 
+I have 
+decided whatever happened, happened. Now let's focus on services, which is our bread and 
+butter. If you see services and product separately, then you will see that our data is amazing. We 
+have taken money from the services and spent money on DFM. But now we will focus only on 
+the services; we are doing good. 
+We have a good pipeline. We have already given you the guidelines, and we have adopted the 
+AI. Everyone 1s Claude-certified now at Ksolves. 
+I do not see that any other company has 
+everyone certified by the Claude. And we are heavily using AI and all those things. So, I'm 
+seeing a good future for Ksolves. 
+Okay. And lastly, on the margin front, Ratan, as a company policy, when you all give guidance, 
+I want to understand the logic why you are guiding for such a broad range of margin, 25% to 
+30%. 
+As you can see in the past, we have always been around 30% plus or minus something. But you 
+can see that every day, you are getting new news on the Internet. So, we don't know what will 
+be the news tomorrow. Considering geopolitical factors, I'm trying to be conservative, and that's 
+why I have given you the bracket. But if everything goes well all around the world, then it will 
+be a good number. 
+Okay. Great. And you have some cash on your books. So, will you continue paying dividends? 
+Or are you looking at some acquisitions? 
+We will continue giving the dividend. We tried acquisition, but unfortunately, we could not find 
+good companies. 
+So, we dropped that idea. Now I'm focusing completely on the business, 
+because if you go for acquisition, then you will have to spend a lot of time as well. 
+We are focusing on multiple advanced technologies with the help of AI. We are offering our 
+customers complete 360-degree AI transformation. As a AI transformation partner, till now, we 
+Page 8 of 11
+
+q’« KSOLVES 
+> 
+Al First, Always 
+Kaustav Bubna: 
+Moderator: 
+Rajesh: 
+Darpan Audichya: 
+Rajesh: 
+Darpan Audichya: 
+Rajesh: 
+Darpan Audichya: 
+Rajesh: 
+Umang Soni: 
+Rajesh: 
+Umang Soni: 
+Ksolves India Limited 
+April 30, 2026 
+were doing just development, but now we are saying that we will do the development with the 
+help of AI, and then we will help customers to cut their operational cost by creating developing 
+agents for them. So complete AI for development and AI for operations. 
+Understood. Okay, great. Thank you so much, Ratan. 
+Thank you. The next question 1s from the line of Rajesh from RK Capital. Please proceed with 
+your question. 
+Hi. Thanks for the opportunity. Sir, I saw in your investor presentation that you have become a 
+Frappe-certified partner, the ERPNext partner, right? 
+So how good 
+is the opportunity 
+in 
+ERPNext compared to Odoo? 
+See, the situation 1s not around comparing these two ERPs. We wanted to initiate our ERP 
+practice. So earlier, what was happening was that whenever any customer came to us, we were 
+only ready with our Odoo offering. And we wanted to diversify in a manner that, if any specific 
+customer is coming, we could offer alternatives. They both have their own differentiations. They 
+both have their own features. Odoo 1s an open-source platform, which is driven by a specific 
+framework. 
+ERPNext is a Frappe-partnered management system, having its own 17 tol18 connected apps. 
+So, both have their own market, and both have their own costing aspects as well. To initiate our 
+own ERP business, our own ERP dimension, we added ERP or Frappe partnership also. So that 
+if any specific customer is getting onboarded, we can offer two ranges of ERPs instead of 
+specifically focusing on Odoo. That was the intent. 
+Sir, what 1s the installed customer base, at least can you give some metrics at the product level, 
+like the installed customer base of ERPNext versus Odoo in India and globally? 
+To specifically answer or to go into very detailed numbers, we'll share it with you, because that 
+information may not be available right now. But to be very figurative or very clear, we'll share 
+this information with you. 
+Okay. How will I get that information? Your team will reach out? 
+Yes. Our IR team will reach out. 
+Okay. And sir, going forward, will your dividend payout continue to be in the range of 40% to 
+60% of your profits? What is your dividend payout policy going forward? 
+It will continue in the same manner, as we are not looking for any acquisitions or inorganic 
+growth currently in the coming quarters. So it will continue in the same way. 
+Okay. So we can expect 40% to 60% of the profits being paid out? 
+Yes. 
+Page 9 of 11
+
+q’« KSOLVES 
+> 
+Al First, Always 
+Rajesh: 
+Umang Soni: 
+Rajesh: 
+Ratan Srivastava: 
+Rajesh: 
+Moderator: 
+Apoorv: 
+Ratan Srivastava: 
+Apoorv: 
+Ratan Srivastava: 
+Ksolves India Limited 
+April 30, 2026 
+Okay. And sir, if you can just reiterate in case, you have already called it out, your revenue 
+growth which you expect for FY27 because you are going to focus only on services, is what I 
+heard. So how much revenue growth are you expecting? 
+So, for FY27, we are expecting annual revenue growth of around 18% to 20%. 
+Okay. So, this 1s some moderation in your growth range, is 1t? Because I think 1n the past, you've 
+been growing at a very high pace. So, if you can just explain a bit more? 
+Now the base is large. When we started the company, when we launched the IPO, at that time, 
+the overall revenue was INR 10 crores yearly. 
+Quarterly INR 2.5 crores. So, adding INR 25 
+lakhs in a quarter was a joke, you can say, at that tme. Now if you compare current situation: 
+Right now, the current base 1s INT 43.2 crore. And now for 10%, suppose, we need to add INR 
+4.3 crore. It is not a small number. So that's why, if you see, the absolute number is increasing, 
+but percent 1s decreasing. 
+Okay sir. That's it from my side. 
+Thank you. We take the next question from the line of Apoorv from Whitestone Financial 
+Advisors. Please go ahead. 
+Thank you, sir. I have two more questions. Sir, the first question 1s that you mentioned we have 
+migrated a client from SAP to Odoo. So, I want to understand what would have been the reason 
+for the migration for the client to move to Odoo? 
+See, multiple customers are trying to reduce their cost, and they are trying to move to less costly 
+solutions. So Odoo and SAP, both are doing mostly the same, both are providing mostly the 
+same feature. And you know that SAP is super costly as compared to Odoo. 
+So that's why not only this customer, we have other customers also. Three days before, I had a 
+call with one customer from Tanzania. They also want to move from SAP to Odoo. So, I hope I 
+have given the answer. 
+Yes, sir. And my second question is, are we seeing any delays in order or because of this ongoing 
+war? 
+Yes, definitely. Actually, we have a good business in the UAE. But we had a few customers, 
+who were about to release the orders, but they could not. And that's why you can see that if they 
+would have released them, then for this quarter, the growth would have been more than 1.7%. 
+Right now, we are seeing only 1.7% quarter-on-quarter. This 1s because of the war. 
+But now things are good. They are releasing the orders. They are releasing the POs, and we can 
+see the bright future at this moment. So that's why we are very optimistic about 18% to 20% 
+growth and margin considering the current situation. What will happen tomorrow, I don't know. 
+You know what I'm trying to indicate. 
+Page 10 of 11
+
+q’« KSOLVES 
+> 
+Al First, Always 
+Apoorv: 
+Moderator: 
+Rajesh: 
+Umang Soni: 
+Ratan Srivastava: 
+Rajesh: 
+Moderator: 
+Ratan Srivastava: 
+Moderator: 
+Ksolves India Limited 
+April 30, 2026 
+Yes. Got it, sir. That’s it. Thank you. 
+Thank you. The next question is from the line of Rajesh from RK Capital. Please proceed. 
+Thanks for the follow-up. Sir, since you mentioned that you are not going to have product- 
+related and event-related expenses in FY27. But at the same time, the margin band is a wide 
+range of 25% to 30%. Can we expect PAT growth to be at least higher than your revenue growth? 
+Or is 1t uncertain at this point? 
+There are many factors attached to margin because we are investing heavily in AI. And we are 
+investing in insurances, security, IT security. So, there are some expenses attached as we are 
+growing, and that's why the range has been kept to 25% to 30%. But overall, our aspiration 1s to 
+end on the higher side of tt. 
+One thing I would like to again explain here is that 25% to 30% 1s something we are able to 
+manage easily. If everything goes well, then you can see better number. But we are trying to be 
+conservative so that in future, if anything goes wrong, nobody should say we gave a high number 
+and then missed it. So that's why we are saying that 25% to 30% is doable. 
+Okay, sir. Thank you. 
+Thank you. As there are no further questions, I would now like to hand the conference over to 
+the management for closing comments. 
+Thank you, everyone, for joining the conference call. I would like to conclude by saying that we 
+are now AJI-first company, and we are trying to build our image as a AI transformation partner 
+for our customer, providing end-to-end solutions from development to operation, helping reduce 
+development and operational cost by AI. 
+This 
+is not something we have not tried. We have already implemented this for multiple 
+customers. As per our commentary, we are already using AI for at least 60% to 70% customers, 
+and we have increased their output with the same number of the resources. Once again, thank 
+you, everyone, for joining the call. 
+Thank you, sir. On behalf of Ksolves India Limited, that concludes this conference. Thank you 
+for joining us, and you may now disconnect your lines. Thank you. 
+Note: This transcript has been edited for readability and does not purport to be a verbatim record of the proceedings. 
+Page 11 of 11

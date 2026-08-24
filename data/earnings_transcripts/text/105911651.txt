@@ -1,0 +1,876 @@
+July 11, 2024 
+ LTTL/L&S/2024-25/07/10 
+To, 
+The Sr. General Manager, 
+Listing Department, 
+BSE Limited, 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai - 400 001 
+Maharashtra, India 
+The Sr. General Manager, 
+National Stock Exchange of India Limited, 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, 
+Bandra (E), Mumbai - 400 051 
+Maharashtra, India 
+Dear Sir/Madam, 
+Sub : 
+ Announcement under Regulation 30 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 - Transcript - Earnings Call - 
+Financial Results for the quarter and financial year ended March 31, 2024 
+Ref 
+: 
+Le Travenues Technology Limited (the “Company”) 
+BSE Scrip Code: 544192 and NSE Symbol: IXIGO 
+In compliance with Regulation 30 and other applicable provisions of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 (as amended), please find 
+enclosed the transcript of the Earnings Call conducted on July 04, 2024, pertaining to the 
+financial results of the Company for the quarter and fiscal year ended March 31, 2024. 
+This is for your information and records. 
+Thanking You, 
+For Le Travenues Technology Limited 
+Suresh Kumar Bhutani 
+(Group General Counsel, Company Secretary and Compliance Officer) 
+
+Le Travenues Technology Limited (“ixigo”)
+Q4 FY24 Earnings Conference Call
+July 04, 2024
+Management Representatives:
+●Mr. Aloke Bajpai, Chairman, Managing Director And Group CEO
+●Mr. Rajnish Kumar, Director And Group Co-CEO
+●Mr. Saurabh Devendra Singh, Group CFO
+Moderator:
+●Mr. Rohit Thorat – Axis Capital Limited
+Page 1 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+Moderator:
+Ladies and gentlemen, good day and welcome to ixigo's Q4 FY '24 Earnings
+Conference Call hosted by Axis Capital Limited. As a reminder, all participant lines
+will be in the listen-only mode and there will be an opportunity for you to ask
+questions after the presentation concludes. Should you need assistance during this
+conference call, please signal the operator by pressing star, then zero on your
+touchtone phone. Please note that this conference is being recorded.
+I now hand over the conference to Mr. Rohit Thorat from Axis Capital. Thank you and
+over to you, Mr. Thorat.
+Rohit Thorat:
+Thank you, Neerav. Good evening, everyone. On behalf of Axis Capital, I welcome
+you all to ixigo's Q4 FY '24 Earnings Call. We have with us Mr. Aloke Bajpai,
+Chairman, Managing Director and Group CEO, Mr. Rajnish Kumar, Director and
+Group Co-CEO, and Mr. Saurabh Devendra Singh, Group CFO. Before I hand over the
+call to Aloke, I would like to highlight that the Safe Harbor Statement on the first
+slide of the earnings presentation is assumed to be read and understood. Over to
+you, Aloke.
+Aloke Bajpai:
+Thank you. We welcome everyone to our first Earnings Call post our listing for the
+Fourth Quarter and the Full Year of Fiscal '24. FY '24 has been a great year for the
+ixigo Group. Our playbook of building the best customer experience for travelers has
+helped us continue our robust growth trajectory. For the full year, we crossed 480
+million annual active users cumulatively across our Group and our GTV for FY '24 has
+shown significant growth of almost 38% year-on-year, reaching an all-time high of
+INR10,283 crores, up from INR7,452 crores during last year, making us the fastest
+growing OTA on GTV in India in FY '24.
+In Q4, we also crossed 10% adjusted EBITDA margin on the back of expanding
+contribution margins in our buses and trains businesses, where we are now able to
+see some more synergies playing out with tighter integration with our acquisitions,
+ConfirmTkt and AbhiBus. Robust GDP per capita growth in India is leading to growth
+in disposable incomes, fueling higher frequency and share of wallet spend on travel
+by both the middle class and the affluent travelers.
+Increased government investments in railway infrastructure, roads, highways,
+airports and public transportation have improved accessibility and overall traveler
+experience in our country and improved the overall connectivity to Tier 2, 3, 4
+towns, allowing us to grow faster in capturing share of the next billion user travel
+Page 2 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+segment's needs. As of March 24, there were more than 100 Vande Bharat train
+services operational across Indian railways, offering travelers a convenient and
+modern train with comfortable seats.
+The Amrit Bharat station scheme has also been launched for the development and
+modernization of railway stations in India, with 1,318 stations selected for
+redevelopment. Most of these lie in Tier 2, 3, 4 towns. With the introduction of
+Vande sleeper rakes and Amrit Bharat non-AC trains in the next couple of years, we
+expect capacity growth to accelerate, which will be further aided by freeing up of
+the freight corridor at some point.
+On 28 June, we have been informed by IRCTC that the existing restrictions on OTAs
+and agents, to not be able to sell advance reservation period train tickets, which are
+booked 120 days in advance, and Tatkal bookings, which are the next day bookings,
+for the first 15 minutes is now being lowered to just 10 minutes, with effect from the
+very next day, which is 29th June.
+This means OTAs such as ourselves now have five extra minutes for bookings during
+the peak demand time in the morning, when the 120-day prior bookings open, as
+well as when the next day bookings open under the Tatkal scheme. In 2018, this
+restriction had already been lowered from 30 minutes to 15 minutes and we
+welcome this further reduction to 10 minutes as a consumer-friendly move by the
+Railway Ministry. We expect to see some bookings upside coming from this move,
+and the early days look promising.
+In the bus market, we've grown slightly faster than the overall market, with 21.2%
+growth in passenger segments for the full year and we've also seen greater
+operating leverage coming in, both at the revenue level and the contribution margin
+level. We've managed to onboard more operators on our popular free cancellation
+and service guarantee program, Abhi Assured and we continue to work on supply
+enrichment pan India, as well as product enhancements.
+International air traffic in India has seen faster growth than domestic air traffic in FY
+'24, with a 22.5% year-on-year growth in the overall market. We are proud to report
+that our international flight passenger segments have grown by 100% year-on-year
+in FY '24, fueled by inventory and supply-side expansion as well as product
+enhancements such as the rollout of ixigo Assured for our international flights
+business.
+Page 3 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+Interestingly, one-third of our international flight bookings for FY '24 came from Tier
+2, 3, 4 airports. India's domestic air traffic stood at 15.34 crores passengers in FY '24,
+a 13.5% year-on-year growth. There are over 545 routes operationalized under the
+UDAN scheme, aimed at improving air connectivity to underserved regions and
+regional airports.
+With over 1,100 planes on order by airlines in India and plans to construct 70 more
+airports over and above the existing 150-plus airports, India is poised to become the
+fastest-growing aviation market in the world in the coming decade. However, in the
+short term, capacity issues, grounding of planes due to engine troubles, high load
+factors and high airfares are constraining the growth of the overall market, as could
+be seen by the single-digit percentage growth in both Q4 FY '24 and Q1 FY '25 for
+the overall domestic flight market.
+Despite these headwinds, ixigo managed to grow our flight passenger segments by
+41.8% for Q4 FY '24 versus Q4 FY '23, and by a remarkable 77% for the full year. This
+was largely because of our ability to cross-market better within our user base,
+improve our product user experience and initiatives such as performance and brand
+marketing, coupled with our new AU- ixigo co-branded credit card, which has
+started to clearly become a card of choice for many frequent travelers, including
+international ones.
+We see a unique opportunity over the long term for our flights business, given the
+number of new flight bookers being added in India every year. Therefore, we are
+also leveraging more distribution channels now to go deeper into the NBU market.
+Firstly, through online distribution partnerships, for example, with PhonePe, the
+leading payment app in India, we had an existing partnership for powering their
+trains ticketing through our ConfirmTkt brand. Recently, PhonePe has chosen to
+extend this partnership to exclusively partner with us for our flights and buses
+business as well, primarily due to the superior customer experience we've built and
+our ability to serve the fast-evolving travel needs of Indians.
+PhonePe will now have flights, buses and trains in their travel section powered
+solely by ixigo, AbhiBus, and ConfirmTkt. This is a branded distribution deal that will
+expose our brand to nearly 54 crores users of the PhonePe app. And though it is
+early, it's already resulting in some gain of market share on both the flights and
+Page 4 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+buses business for us. We have entered into a similar partnership with Meesho, a
+leading e-commerce company catering to the Next Billion Users.
+Secondly, we are expanding into indirect and offline distribution through travel
+agents through technology-enabled solutions. Today, our group has launched
+travelsupermall.com, nicknamed TSM, our B2B2C distribution platform. TSM will
+distribute travel inventory to offline travel agents and help travel agencies grow their
+business with our industry expertise, giving us some far deeper reach within the
+NBU segment where the travel agents will be enabled to serve customers from every
+nook and cranny of India.
+You would notice an increase in our brand marketing spend in FY '24, going from INR
+21.4 crores in FY '23 to INR 55 crores in FY '24. This is intentional, and this is in line
+with our plans to grow our unaided brand recall and build more trust with the Next
+Billion Users. We recognize that when it comes to consumer brands, marketing
+spend is a long-term investment for improving brand salience.
+Some major marketing initiatives in FY '24 were the branding activities at the Asia
+Cup ixigo deal and signing up of Rana Daggubati as the brand ambassador for
+ConfirmTkt, renewing our partnership with Mahesh Babu as the brand ambassador
+of AbhiBus, as well as a campaign we did in Tamil Nadu for AbhiBus with Simbu as
+the brand ambassador. These superstars helped us build trust and brand recall in
+southern markets for our apps, and we have seen a decent response to the regional
+campaigns featuring these celebrities.
+With this, I am now handing over our call to our Co-CEO, Rajnish, who will give you
+some interesting updates on our product technology and AI initiatives.
+Rajnish Kumar:
+Thanks, Aloke. It's great to be doing our first earnings call. The scale of our users we
+now have is mind-boggling. We hit around 8.3 crores MAUs in September 2023, and
+for (FY) 2024, we had almost 7.7 crores Monthly Active Users on average with over
+10.5 crores app downloads added across ixigo, ConfirmTkt's, and AbhiBus during the
+year. Over 9.5 crores passenger segments were booked with us during FY '24 and we
+touched an MTU to MAU ratio of 3.4% in Q4 of FY '24.
+We've always believed in making investments in AI and new technologies ahead of
+the curve since it helps us with three things. Firstly, it helps us understand the
+potential impact of new technologies and the more data patterns we can analyze in
+Page 5 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+production from the deployment of these features, the faster we can iterate to use it
+to build more operating leverage in our business.
+Secondly, it helps us stay more efficient and frugal as a company since these early
+tech investments allow us to build a mindset of not throwing people at problems.
+And lastly, it helps us attract and retain the best tech talent since the best folks love
+to work on bleeding-edge technologies. However, at times it takes a few years
+before that operating leverage shows materially in our top line and bottom line as
+that product launch becomes more mainstream since innovation typically starts with
+niche use cases that over time become mainstream.
+Case in point, we used machine learning and AI back in 2015 with our PNR
+prediction functionality, and we demoed TARA, our AI chatbot, in 2017 and deployed
+it from 2018. In FY '24, TARA was already answering over 87% of our customer
+support queries over chat without any human intervention. Our ixigo Assured and
+Assured Flex pricing engine is now fully dynamic, fully automated and completely
+powered by AI.
+In fact, we are now enhancing our customer support AI platforms with the use of
+voice-based AI bots that work in Hindi, English and Hinglish on certain customer
+support use cases, now handling nearly 1,000 calls and over 100 hours of
+conversation end-to-end without any human intervention every single day. We are
+optimistic about our ability to deploy AI bots for calls instead of human agents with
+extremely low latency, fast response times, and NPS, which is very similar to human
+beings. As we incrementally roll this out over other use cases, the next few quarters,
+this can deliver further operating leverage to our business in the long run.
+We have enhanced ixigo PLAN, the gen AI trip planner we launched in mid-2023.
+Now, ixigo PLAN can help you generate destination ideas for your travel based on
+various options, such as the month of the year, type of experience desired, budget,
+weather; cold, hot, rain, snow, or even pollution, AQI, visa requirements, and many
+more. You can then chat with PLAN to fine-tune your trip and get itineraries as it
+gives intelligent recommendations for things to do, places to visit, restaurants, and
+more for your trip. It will even suggest what dishes you should order at those
+restaurants and summarize praises or criticisms of those places. Even though this is
+an experimental product for now, it has already been used by over 1 million users.
+We have recently become a launch partner for the Google Wallet launch in India,
+Page 6 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+and we are now live with the ability to add boarding passes inside Google Wallet.
+Notably, this was already available to our iPhone users via the Apple Wallet
+functionality. But last month, for our iPhone users, we also launched live activities
+on Dynamic Island for tracking flights and trains in real-time directly from the
+traveler's lock screen without requiring them to open the app again and again.
+As we double down on our product marketing efforts for selling more flights and
+hotels to existing users across ixigo, ConfirmTkt and AbhiBus, we are gaining more
+insights about customer behavior and we are getting more data for optimizing these
+cross-conversions. Our hotels OTA product is now available across ixigo, ConfirmTkt
+and AbhiBus platforms, and based on customer feedback, we have recently
+launched “Book with Zero”, allowing travelers to book the hotel and make the
+payment closer to the check-in date instead of upfront. Early days, but we are seeing
+double-digit month-on-month growth percentage from within our captive user base
+when it comes to our hotel room nights.
+Moving to Saurabh now to talk about our financial highlights.
+Saurabh Singh:
+Thanks, Rajnish, and ‘Hello World’. I've been on this stage many times before, both
+as a fund manager, pre-global financial crisis, and an analyst post, though I have to
+admit that representing a company that I've admired for nearly a decade is a
+completely
+different
+feeling.
+Now,
+Aloke
+and
+Rajnish
+have discussed our
+differentiated product offering and our quest to identify and to solve the problems
+for the next billion users. The impact of these efforts is reflected in our financial
+numbers.
+In FY '24, our gross revenue, which includes discount, increased by 29.9% climbing
+to INR 831.8 crores from INR 640.5 crores in FY '23. Personally, though, I prefer to
+focus on revenue from operations, excluding discounts, which increased by 30.85%,
+reaching INR 655.9 crores from INR 501.3 crores last year. Now, when we started the
+IPO process some months ago, we promised to have a higher level of disclosures.
+Declaring contribution margin for each segment or line of business is another step in
+that direction.
+Contribution margin is defined as net ticketing revenue plus other operating
+revenue, less direct expenses. Now, direct expenses would be things like partner
+fees, payment gateway fees, performance marketing costs, cancellation costs,
+Page 7 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+etcetera. At a group level, our contribution margin in FY '24 increased to INR 293.9
+crores, up from INR 218 crores in FY '23.
+This improvement highlights our ability to generate some amount of operating
+leverage. And we can see that when we look at the contribution margin percentage,
+it's a percentage of net revenue and it's risen from 43.51% to 44.8% in this fiscal
+year. Aloke has talked about investments in branding and Rajnish on cutting-edge
+technology both are items which appear between contribution margin and EBITDA.
+Even with these investments, which are being done for the long run, we have been
+able to increase our adjusted EBITDA. We define Adjusted EBITDA as EBITDA
+excluding other income and including ESOP costs. Our group adjusted EBITDA
+increased to INR 55.3 crores in FY '24 compared to INR 44.3 crores in FY '23. Our PAT
+for FY '24 came in at INR 73.1 crores as compared to INR 23.4 crores in the previous
+fiscal, recording a nearly 212% increase. I have to highlight that FY '24 PAT includes
+INR 29.7 crores exceptional item related to loss of control in an associate business,
+where we've moved to a minority position.
+On a quarter-over-quarter basis, these numbers would look like the following. FY '24
+Q4, gross transaction value at INR 2,684 crores, grew nearly 35% year-over-year.
+Revenue from operations was INR 164.9 crores, a 20% increase Y-o-Y. Contribution
+margin in Q4 '24 stood at INR 71.7 crores, which was an 8.1% increase over Q4 FY
+'23 and adjusted EBITDA of INR 17.1 crores in Q4 '24 was up 0.66% over the previous
+year. I will highlight here that Q4 FY '23 included INR 4.4 crores one-off reversal in
+expenses.
+Here, let me double-click on our three lines of business. Our train business
+continues to be a bedrock for us, optimizing our core values and principles. In FY '24,
+trains contributed 54% of our group GTV, which was down from 60% of our group
+GTV in FY'23, and 44% of our group contribution margin, which was flat. We
+continue to dominate this and increase our market share. In FY '24, we booked 7.7
+crores train passenger segments worth INR 5,568 crores of gross transaction value.
+The contribution margin grew to INR 129 crores, with the contribution margin
+percentage as a percentage of segment revenue expanding from 32.28% to 34.9%,
+driven by continued synergies from our merger.
+Our bus business remains what I call “beautiful”. Good industry dynamics, unique
+product offerings and relentless execution define the AbhiBus business. In FY24, the
+Page 8 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+bus vertical booked 1.2 crores passenger segments worth INR 1,175 crores in GTV
+representing 21.2% more segments and 21.7% higher GTV as compared to FY ‘23.
+The take rate increased to 11.05% from 10.32% contributing positively. The
+contribution margin percentage grew to 66%. Now the beauty of the bus business is
+evident by the fact that even though the business is only about 11.4% of our FY ‘24
+group GTV, it was worth 30% of our group contribution margin.
+Lastly, our flight vertical highlights how we approach expansion into new areas
+where we differentiate through uniqueness of our product offering, targeted
+performance marketing and brand initiatives for our core segment. In FY ‘24, we
+booked 57.7 lakh flight segments worth INR 3,526 crores in GTV. As Aloke
+mentioned earlier, our flight take rate suffered due to supply constraints. Despite
+this, our contribution margin grew at a rate of 26% to INR 70.98 crores in FY ‘24.
+Now the contribution margin percentage for FY ‘24 was 48.5%. In FY ‘24 flights as a
+business contributed 34% of our group GTV and 24% of our group contribution
+margin.
+Before concluding, I would like to provide a couple of tax-related disclosures.
+Although already disclosed in our Red Herring Prospectus, we want to keep you
+updated
+about
+the
+tax
+assessment
+orders
+for
+financial
+year 2021-22 of
+approximately INR 19 crores of demand basis on some addition/disallowances made
+by the assessing officer. We are contesting this with the help of our tax advisors and
+we remain confident, we remain optimistic about a favorable outcome. Additionally,
+on July 2, 2024 we have received a show cause notice from GST authorities relating
+to our past meta-search business model amounting to approximately INR 90 lakhs of
+principal amount. We have reasonable grounds to contest this matter as well.
+Lastly, thank you all for all the love and support we got during our IPO process. I
+would end with a quote from the movie Casablanca.
+“We see it as the start of a beautiful relationship”.
+Over to all of you for questions and answers.
+Moderator:
+Thank you very much. We will now begin the question and answer session. The first
+question is from the line of Anmol Garg from DAM Capital Advisors. Please go
+ahead.
+Page 9 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+Anmol Garg:
+Hi Aloke, Rajnish and Saurabh and congratulations on a spectacular IPO. I had a few
+questions that I wanted answers of. Yes. So firstly on the PhonePe partnership, so
+what led to the signing of this deal with PhonePe when PhonePe or the parent
+company already has one travel company in the city and how much do you think
+that it can add to the GTV of the company in FY ‘25?
+Aloke Bajpai:
+See PhonePe already had a travel section which was being powered by another OTA
+and we've essentially displaced them on flights and buses. Trains, we were already
+powering them for a long time and I think PhonePe being a payment app and it's
+more of a super app strategy as you look at it across payment apps where you want
+to offer high value add and high frequency use cases to your users and with 54
+crores of user base that PhonePe has, it kind of makes sense for them to offer travel
+as a category.
+And I think their choice of partner boiled down to largely the ability to offer the right
+product experience and customer experience and we are very happy to work on this
+together and we were very optimistic about how fast PhonePe is growing and
+capturing market share in the payment space and UPI space and also our ability to
+discover more new bookers in that funnel where we are able to expand in the two
+verticals where we want to gain market share.
+So I won't be able to give any guidance as such on how the GTV will grow, but in the
+early days of this partnership we are seeing decent potential and market share
+gains.
+Saurabh Singh:
+And Anmol I guess I would just add to that on why we are doing this. They've seen
+our execution from what we've done with one business. So maybe I would like to
+believe that we did a good job with the train LOB. A good advertisement for what we
+intend to achieve in the other LOBs too.
+Anmol Garg:
+Sure. I wanted to ask a question on the flights…
+Moderator:
+I am sorry to interrupt you. We lost your audio in between. Can you repeat it?
+Anmol Garg:
+Yes secondly I wanted to ask a question on the flight take rates. Now as you have
+indicated that there has been some supply constraint which has lowered down the
+flight take rate for us. Do you see this going further down, at least in near term
+before it stabilizes? What's the guidance over here?
+Page 10 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+Aloke Bajpai:
+Yes. So see what's happening is like if I compare Q4 to Q4 FY ‘24 versus FY ‘23 the
+segment ATV for flight has actually expanded 15% and if I compare with FY ‘22 that
+number will be even higher and if I compare to pre-COVID that number will be even
+higher. So I think we are sitting in an environment where planes are not getting
+added fast enough. We had Go First insolvency then we had Pratt & Whitney issues
+that multiple airlines faced and, I think that has, resulted in capacity constraints and
+therefore high load factors and high airfares. Now in such an environment typically
+and this is true in all markets when you look at a cyclical environment where the
+supply side essentially needs more help during times when it needs to sort of fill up
+planes and at the time when we are seeing like currently the take rates are
+normalizing to where they were in pre-COVID times and this is across all OTAs. So if
+you want a guidance of sorts I would say that, look we would expect these take rates
+on flight side to hover between 7% and 7.5% kind of going forward. That's what we
+believe is where they will be at and remember a large part of this is convenience
+fees. So as the ATV goes up optically the take rate shrinks, even though you might be
+earning the same amount on convenience fees.
+Anmol Garg:
+Right. And also just on the similar question, do you think that our partnership with
+the PhonePe will actually lower down our take rate in the flight segment, given that
+we have to share the commission with PhonePe?
+Aloke Bajpai:
+So the way we report take rate is gross take rate. So those are, I don't think it will
+impact our gross take rates. I mean, on the contrary, with certain smaller carriers, it
+might give us more leverage to negotiate better deals, given more volumes. But I
+think with the fact is that, look, the way this flows into our P&L is that you will start
+seeing some impact of it on our distribution cost, etcetera. And the way we are
+looking at this deal is very simple. There are two components. One is that it's a
+branded deal. So there's a lot of exposure of our brand to the large user base that
+PhonePe has. And secondly based on the volume of transactions or the revenue that
+we generate together there's obviously going to be a distribution cost element to it,
+which will start showing up in the subsequent quarters.
+Saurabh Singh:
+So contribution margin is the number which you have to look at. We'll be letting go
+of some contribution margin at, for growth / for getting more volume.
+Anmol Garg:
+Sure. And lastly if you can indicate your plans on the hotel side of things how do you
+want to scale up that side of the business?
+Page 11 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+Rajnish Kumar:
+Yes, sure. I will, this is Rajnish. So frankly it's a little too early to comment on hotels,
+given that it's just been hardly six months since we launched. But having said that,
+we are extremely satisfied with the growth we are seeing, as we are growing in
+double digit percentages month on month, I'll be on a very small base, I would say.
+And this is without relying on any external marketing channels or distribution. So
+you're not really spending anything outside, because we have a very massive captive
+user base already in-house, which we're basically just cross-selling, up-selling to
+when it comes to growing hotels.
+We still need to get much stronger on the product market for it. So it's a learning
+phase for us, building out deeper supply, before we discuss more on hotels. So I
+would say we are still like in that learning phase, where we are kind of figuring out
+what kind of need gaps, user base, our user cohorts have and then basis that, we'll
+have to optimize our product, create better product market going forward.
+Aloke Bajpai:
+Yes just to add see, just like when we entered flights, even though there had been
+several flight OTAs operating for a couple of decades, we applied first principle
+thinking to identify what is broken still in the space. And especially for our next
+billion user kind of audience, Tier 2, 3
+audience how could we deepen our
+penetration there and build the right solutions that satisfy their pain points. So I
+think that process is still going on in identifying those specific problems on the hotel
+side, which we can solve better than others. And I think the template and playbooks
+will remain the same on how we've grown in other verticals. That's how you will see.
+Except that here supply creation etc., will take obviously a little longer, given the
+depth of inventory out there.
+Anmol Garg:
+Sure. So what I meant to ask is that will the hotel growth be in direct relationship
+with hotels where we add in APIs of hotels into our business or it will be through a
+third party?
+Aloke Bajpai:
+Yes see, actually no OTA in the world on hotels started with their own inventory. We
+should understand that all the incumbents out there started on third party inventory
+and nothing special that we are doing. And over time once you identify what is
+selling better, you go and build out that inventory yourself and once you identify
+what the customer values is the kind of inventory you optimize for.
+So I think that learning curve we are riding at this point. And again, very early to talk
+about this, but like Rajnish said, in the last couple of months we've almost doubled
+Page 12 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+the number of room nights we were doing without getting into the specifics. So we
+are seeing and this is without spending anything outside like we're not going out
+there and burning money on any third party distribution to acquire these customers.
+These are all already existing ixigo users who are now being exposed to the hotel
+funnel and that will be the short to mid-term strategy.
+Anmol Garg:
+Sure. Thanks, guys. I'll join back in the queue.
+Moderator:
+Thank you. Next question is from the line of Aditya from DeLorean Partners. Please
+go ahead.
+Aditya:
+Hi, I'm sorry. I might have some disturbance on the line. Can you talk about a few
+use cases for the AI voice that you talked about?
+Rajnish Kumar:
+Just to rephrase the question, you want to know about the use cases for the AI voice
+support that we launched recently?
+Aditya:
+That's right.
+Rajnish Kumar:
+Okay, great. So voice call, voice as a channel for customer support has always been
+like, in India one of the most important.
+Moderator:
+Aditya, may I request you to mute your line from your side, please? Thank you. Sir
+go ahead.
+Rajnish Kumar:
+Okay so like I was saying, voice as a channel for customer support has been like one
+of the primary channels, especially in India. And some of those use cases which are
+usual suspects, you can think about, people calling to confirm their booking or to
+check the status of their refunds, etcetera. I mean, apart from those usual suspect
+use cases that we are now progressively moving to AI because earlier, there used to
+be like very irritating IVR calls that people had to face and go through like on phone
+lines.
+And now there is this ability for the agents to talk in your language in English, Hindi,
+Hinglish, etcetera and directly have a real conversation just as you would have with a
+human being and get those status updates or resolve those queries. Some of the
+other interesting use cases that we have started using as well is, when people check
+out from a hotel, we're able to kind of ask them, how their experience or their stay
+was and kind of collect those reviews directly over the phone calls to these agents.
+Page 13 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+And all of this is happening without any human intervention. So you could imagine
+there's a lot of operating leverage that is to create in the business going forward. But
+like I said previously over the call, these are very early days still.
+Aditya:
+Thank you very much.
+Moderator:
+Thank you very much. Next question is from the line of Daivik Rawal from Trifecta
+Capital. Please go ahead.
+Daivik Rawal:
+Hey, thank you. First of all congratulations, stellar IPO and great numbers. I just
+wanted to check on the contribution margin fees for flight segment as it has been on
+a percentage of net revenue. It's slightly lower than FY ‘23. So how to think about it?
+And considering the new partnership, etcetera, do we see that going around the
+current level or any further compression or expansion do we expect from you?
+Thank you.
+Saurabh Singh:
+Hi. Thanks for your question and thanks for actually asking it because we alluded to
+it before. But it's an important question. So look there are two or three points on
+the contribution margin percentage, which is contribution margin divided by the
+segment revenue. If we start from the top, I think Aloke in his initial talks also
+mentioned and in the first question, which was also mentioned, that there has been
+an issue with the take rates and in general, the supply side has been under stress on
+the flight side. So there is some pressure on that side.
+Having said that, what changes with our relationship (with PhonePe) is we would
+share the distribution. We would have a share with the counterparty and which
+lowers our contribution margin percentage to some extent. And usually these deals
+are specific deals and are complex deals. So the impact varies. As we've always said
+that we believe that at the stage we are in, having a 48% contribution margin for this
+LOB, we would be willing to let go of some percentage of that for growth.
+Again, we want to grow profitably and that has been our focus. But we would invest
+in growth at the LOB level and where you'll see either through distribution deals or
+occasionally through performance marketing focus, we would be investing a bit on
+our growth because we see a massive opportunity for our user base. The NBU world
+is starting to travel a lot more.
+Page 14 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+We believe the offering that we have, even for tier 1, tier 2 cities is very interesting.
+And in fact, I would recommend that you try our flights app if you haven't and you'll
+see the difference and the product that we are offering. So that's the idea.
+Aloke Bajpai:
+I just want to add that Q4 FY ’23 was a bit of -- anomaly to compare with because in
+that environment we were actually spending a lot lesser on performance and in
+general on brand as well. And I think what has happened is, being in the 40s on
+contribution margin in flights is where our comfort zone is. I don't think that's going
+to change. So, like Saurabh said, we might have some compression there because of
+our distribution deals, etc. But I think given the pace of growth we are experiencing,
+despite the overall market growing in the single digits, we have grown at close to
+42% Q4-over-Q4. And I think just maintaining it in the early 40s also, we are happy
+with and pushing the pedal on growth, taking market share as much as possible
+despite the difficult environment. That is what we are out to do.
+Daivik Rawal:
+And just on the revenue from operation bit, which is a combination of the ticketing
+revenue and the other revenue, which is like advertising and ancillary services
+revenue, etc. So, any guidance like it used to be 93% net ticketing revenue of the
+total revenue. How was it this year overall in terms of split? If you can guide us, that
+would be super helpful?
+Aloke Bajpai:
+So, I doubt if we have given any split on ancillary revenue even in the past, nor were
+we intending to do that in the future. I think from a ticketing revenue perspective, I
+mean, the only thing outside of that is advertising revenue, which again, I don't
+think there's been any material change in mix between ticketing and advertising
+revenue. The mix between the two remains almost the same. But ticketing obviously
+will grow much faster from here, given the pace of flight and bus business growth
+that we have seen.
+Saurabh Singh:
+On advertising revenue, a couple of things I would highlight or talk about by saying is
+that again, not in the short term, but in the long run. We believe when I say a long
+run in the next couple of years, because these kind of things need time to develop,
+time to create. But we see a potential in advertising revenue growing much more
+than what it is right now as the business grows. So it's a multi-years story. But yes,
+that as a percentage will grow. But it's a multi-years story.
+Daivik Rawal:
+That's it. Thank you.
+Page 15 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+Moderator:
+Thank you. Next question is from the line of Swapnil from JM Financial. Please go
+ahead.
+Swapnil:
+Congratulations to all you guys for a successful IPO. I had 2 to 3 questions, starting
+with your ambitions on the B2B2C side. You mentioned travel supermall. So, just
+curious as to what was the reason that we are entering the B2B2C side. And that's
+one that I follow up to that is like, how do we intend to do this business? Do we
+intend to have our feet on the street or it will be just a platform for the agents
+where they can book the ticket size as and when they want?
+Aloke Bajpai:
+Yes, so I'll point you back to our vision, which is to become the most customer
+centric travel company by offering the best customer experience to our users. And I
+think if we really want to do that in the Indian context, where for every vertical out
+there, a significant double digit percentage of bookings are still being done through
+travel agents. And if you look at all OTAs out there, they do have some B2B mix in
+their businesses.
+It's just that ixigo as an OTA is so new in this game, right? We've become an OTA just
+over the last 5-6 years that it's only now that we have reached a point where it kind
+of makes sense for us to expand our horizons. And one reason to do it is that
+remember that in tier 2, 3, 4, the skew towards offline remains a bit bigger in
+categories like hotels or even buses, etc.
+Just trying to do this online in the short term will not yield as much growth as also
+doing a hybrid approach where if you're able to buy a ticket through your local travel
+agent, but they're using an ixigo interface meant for agents to do the ticketing for
+you, right? And we intend to do this across the four verticals, although we will roll
+out more incrementally. But we believe this will expand our reach in the smallest of
+towns and villages in India.
+We could sign up agents who can distribute around them. It also solves the problem
+of payments, because there could be people still out there who have not set up UPI,
+who have not set up payment methods, etc. And if we want to serve them,
+especially on categories like buses and trains eventually, we could want to tap into
+that.
+But even on flights, like, look at what percentage of international flight bookings still
+get done by offline agents in our country, right? And I think over time, it just makes
+Page 16 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+sense for us to augment our business. Having said that, it's very very young. We
+launched it today. So, I don't want to set unreasonable expectations on where it will
+get to. It's going to be another learning curve for us. We will try to do it in a tech
+intensive manner. So, we will need to have some people on the ground, obviously.
+Saurabh Singh:
+Swapnil, just on the cost part, I would reiterate that there is no significant new cost
+that is being allocated to this business as of right now. The people, as in the launch,
+or what has been done, has been planned and done over the last 1 year. So
+everything, in terms of the cost part, is already being baked in for this business as of
+right now.
+Swapnil:
+Okay. The second question is with respect to your international flights. You
+mentioned the business doing very well last year. Can you just help us understand
+what percentage of your flight GTV will be coming from international today? And
+how do you see that doing in the near term, next 1 years or 2 years?
+Aloke Bajpai:
+We are not giving a break out of international GTV slash bookings, etc. At this point
+of time. It's still tiny, to be honest, in comparison to some of the incumbent players.
+But we are very happy with two things. One is that one third of our international
+flight bookings are coming from Tier 2, 3, 4 airports, which is not how the overall
+market looks like. And secondly, the fact that we are able to grow this at 100%
+year-on-year, which is way faster than the overall market. So, I think we will continue
+working on this. I don't think we have the best product out there yet. We are still
+working on inventory in international markets, product, deeper integration with
+certain airlines, etc. So over time, you'll see us talk more about this.
+Swapnil:
+And another query is with respect to your advance reservation period that you
+mentioned in the beginning, that you are now allowed to do bookings 120 days prior
+to the travel date on train. What was the situation earlier? What was the restriction
+earlier? If you could just elaborate on that.
+Aloke Bajpai:
+So here's how it works. The ARP 120 days prior bookings were available to us. It's
+just that when the window opens, which is 8 in the morning, it used to open for
+OTAs at 8.15. And now it opens for OTAs at 8.10. So for the first 10 minutes,
+obviously, it's only available on IRCTC. Neither offline nor online agents have access
+to that inventory. For example, let's say for Diwali, the inventory has just opened up.
+And the first 10 minutes of that, we would not have access to it. But earlier
+remember that this used to be 30 minutes back in 2018. So it has come down
+Page 17 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+substantially. And we believe that this is a great step and reflective of the intent of
+the government to bring more parity in this space.
+Swapnil:
+So next question is with respect to your growth guidance, if any, if you would like to
+give out across the three main segments, starting with rail, given that you have
+significantly high market share there, how do you see that doing? And then flights
+and buses, if you could just elaborate on that.
+Aloke Bajpai:
+I think our intent on all these three categories will be to try to grow faster than the
+market. And on trains, we've been doing that now for several years. We think that
+maintaining double-digit growth, mid-teens growth on volumes is something which
+is quite doable there.
+On the flight side, we have been growing way faster than the overall market. And we
+intend to continue that. On buses side, we've been growing marginally faster than
+the overall market. And again, I think there is scope to improve certain things there
+over time and continue that momentum. So I don't think we have any specific
+guidance at this point beyond this.
+Saurabh Singh:
+But it's a great place to be in as an OTA. As in, if you look at industry reports, the
+underlying industry is moving at an 18% CAGR. And the second point that I would
+say is that what we call NBU, Next Billion Users, they are the ones who are using
+more of these services and are spending a higher percentage of their discretionary
+income. So, when I look at this, I see the world, I see the market traveling towards
+our captive area and the underlying business, anyway moving fast.
+Aloke Bajpai:
+The only caveat I'll add is, this last quarter, this quarter, and maybe one or two more
+quarters, there will remain capacity constraints across a couple of the categories we
+operate in. So, overall market, we would wish it to grow much faster than how it's
+moving. And obviously, as and when that happens, it will benefit us as much as all
+other players.
+Swapnil:
+And just one question on the cost side as well. Now, you have been calling out
+adjusted EBITDA, wherein we add back the ESOP expenses. I just wanted to get a
+sense as to how should we look at this ESOP expenses going forward? Will there be
+a meaningful increase going ahead, or will it be at the current levels? Any sense on
+that would be very helpful, because that has been the talk of the town of late with a
+lot of investors.
+Page 18 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+Saurabh Singh:
+Couple of things. As in ESOP, it's been a reach for us historically if you see. And
+where it's peaked the highest was around COVID. And that was because a lot of
+employees decided to cut their salaries out quite aggressively. And people worked
+on half salaries or lower. And the company rewarded this loyalty once we were
+getting out of COVID with ESOPs.
+But on an ongoing basis, you can think of it as a range. What we have done is, it's a
+range that we've seen in the past couple of years. We don't intend to get out in the
+foreseeable future. We don't intend to break that range aggressively. Having said
+that, remember, ESOP is also in some way a reward measure which is put in.
+And say, if we as a company do exceedingly well in both our top-line and
+bottom-line, much more than what we or you are expecting, then as a dollar
+amount or as a rupee amount, ESOPs might vary higher. But on an ongoing basis in a
+normal business, it should not break the range that we've had in the past couple of
+years.
+Aloke Bajpai:
+I also just want to highlight that our adjusted EBITDA, unlike other companies that
+you mentioned, is actually lower than our EBITDA. So that is also something which
+we are calling out just because of the fact that we think that's a more secular way of
+looking at it. There's an interest income that's coming in and there is an ESOP cost
+that's going out.
+And even in the past these have been very similar or one has been slightly lower or
+higher than another. But I think the right way to look at a closer to cash kind of
+metric in our business is adjusted EBITDA. Although our EBITDA has also been
+growing very nicely.
+Saurabh Singh:
+But Swapnil, it is a good question. And again as I said that we as a company don't
+intend to. We continue to use this metric like we have earlier. And we don't intend
+to go aggressive with this metric at any point of time in the near future.
+Swapnil:
+Just last thing on cash conversion also. If you can, any specific range that you would
+be looking at, by any chance you would be going aggressive on the supplier side?
+Any thoughts on that?
+Saurabh Singh:
+So you're saying that in terms of when you say cash conversion or when you say the
+use of cash. Look, the couple of things and as we’ve mentioned in DRHP, where in
+Page 19 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+the working capital, why we would need more working capital and stuff like as our
+flight business grows. And as we get into more and more relationships with the
+banks and credit card companies, there is a certain amount of working capital that
+you need because of the payment cycle in this case. So that is one thing that will be
+there. As a bank offer, it's a 4-6 month cycle. And as we become bigger, it keeps on
+increasing.
+The other area where we use cash is for stuff where we are increasing the
+convenience for a passenger. And let me give you an example. In our train business,
+which is there, in our train business, one of the things that we would do say, in an
+assurance, is my counterparty is IRCTC. And what I would do is I would give, if there
+is an Assured transaction where a person cancels his ticket, I would repay him. And
+that is a number that we are giving on our refund time. And it's a matrix which we
+are very proud of and we would pay instantly while the money would come in a
+couple of days.
+So wherever we have a counterparty where we have a little risk but the convenience
+of the passenger is increased substantially more. This is the other part where I use
+the third part where I use is where I talked about earlier. The more the
+advertisements grow on our platform, there is a working capital requirement for, in
+general for advertisement business, or in the online, it will be used there. So that's
+where we will be using more of cash.
+Swapnil:
+Any range if possible to quantify or that will be difficult at this point of time?
+Saurabh Singh:
+That will be difficult at this point here. We've given you a broad idea as a working
+capital range in our DRHP, so if you see the part of the range that we have on capital
+was that. But remember, the other part that I'm saying is if any one of this, the
+second part is not, doesn't really show in a working capital because it's one or two
+days of capital usage.
+So, it's a capital which gets uncirculated, as we grow bigger, that will be more. Bank
+offers and advertising we need to work on more. I wish we do a lot more there
+because my counterparty in both of them would be a big corporates where I have a
+lower risk of and so, I wish that number increases much more substantially. But as I
+answered in a couple of questions earlier, the advertising business takes time to
+build and we are in the process of working towards that. But there have been peers
+in our industry who've shown that if done correctly that is a high potential business.
+Page 20 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+Swapnil:
+Got it. Thanks a lot guys for taking those questions.
+Saurabh Singh:
+Thanks a lot for all your help throughout.
+Moderator:
+Thank you. Next question is from the line of Mohit Motwani from Tara Capital
+Partners. Please go ahead.
+Mohit Motwani:
+Hi, thanks for the opportunity. Congratulations for the successful IPO. My first
+question is on the air flight GTV. I just wanted to understand what was the change
+that transpired through the last two years where your GTV in the flight segment
+de-grew in FY '23 but saw a sharp uptick in FY '24. So, if you can give some sense on
+what was the change that you went through? That gave you such a strong growth.
+Aloke Bajpai:
+Yes. So in FY '22 we had a distribution partnership with an e-commerce player, which
+ended. Like it was there till I think January of '22 and post that obviously we lost that
+portion of the business but not only have we recovered all that we are actually
+sitting at almost what 1.5x of that scale as we speak.
+So I think there are two things. One is product maturity, which Rajnish was
+mentioning the kind of things we are doing on the flight side of the business. Now,
+whether it is automated web check-in or some of these live widgets or many of the
+advanced features many incumbent OTAs in the space may not even have some of
+these features today.
+But we chose to spend this proportionate time to build them, to build unique value
+adds because that we've seen helps retention and drive more premium customers
+to try this out. On the train side, we've also seen that there's a lot of people do not
+realize when a new airport comes up in their town. Like we had Ayodhya that came
+up and we had in the past Darbhanga, Jharsuguda, Bareilly, etcetera.
+And many of those users who are habituated to take a bus or a train one fine day,
+you get a notification from us saying that look, you have an airport now and the
+price is not that high. Why don't you try booking a flight? And we're seeing good
+upside from those kind of targeted reach-outs to our users as and when we see
+potential to cross-sell, et cetera. I think that's the playbook. Largely, how do we use
+data science and AI to target these customers in the right way? How do we build
+meaningful products like ixigo Assured and automated check-in, et cetera which --
+and we have a pipeline of many such products. I would say it's that. And lastly
+Page 21 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+there's some branding and performance marketing spend we've been doing now.
+Like, we haven't done that for 15 years but last couple of years we sort of started to
+do a bit of more brand marketing slash performance marketing expansion to see
+how that fuels the growth. And we're seeing good results from this.
+Mohit Motwani:
+Sure. That's helpful. Two questions if I may. So actually, you spoke about how there's
+an offline skew in the tier 2 cities and beyond. And most of the bookings for you in
+the trains segment and multiple other segments as well come from the next billion
+users in the tier 2 cities. Can you give some colour on what kind of percentage of
+bookings in the train segment happen in the offline channels versus an OTA
+platforms? Any sense on that would be helpful.
+Aloke Bajpai:
+Well, we wouldn't have the most updated numbers from but what I recollect is 6%
+to 7% of IRCTC bookings come from B2B slash offline agency channel. Plus, there is
+an internet cafe scheme and plus there are again, people who still go and book at
+the counter, which is not I mean the remaining 19% of the overall reserved market is
+still going out there and queuing up and buying a ticket the most offline way
+possible. So, if you add all that up, I mean there's even on the train side there is a
+25% ++ sort of overall market potential of what is being done offline. And you look
+at flight again and there are some very large admirable companies like Travel
+Boutique and others who are actually revolutionizing that space. And you can see
+how large the market potential there is. Now, we are just a tiny player who's wanting
+to understand how we can go deeper into tier 2, 3 towns with this strategy of also
+having a leg with agents. And again, we'll have learnings over time. So we can talk
+more after a few quarters on this.
+Mohit Motwani:
+Sure. And one final question. How do you think about the effective tax rate going
+forward? Can you give some colour on that?
+Saurabh Singh:
+Now, I would say Mohit, think of it this way that once the tax benefits from the past
+loss go, it's a standard 25% tax rate business. And when I would look at our numbers
+in reality even now, as I said that there is a tax gain this time, when I look at it
+internally as an ongoing business I would take that 25% off. So, think of it that way.
+Mohit Motwani:
+Sure. Thank you for answering my questions. That was excellent. Thank you.
+Saurabh Singh:
+Thanks a lot.
+Page 22 of 23
+
+Le Travenues Technology Limited - July 04, 2024
+Moderator:
+Thank you very much. Ladies and gentlemen, we'll take that as our last question. I'll
+now hand the conference over to Mr. Aloke Bajpai for closing comments.
+Aloke Bajpai:
+Yes. Thank you, all of you for joining our first earnings call. We look forward to
+continued interactions with all of you both on earnings call and in person. Take care.
+Moderator:
+Thank you very much. On behalf of Axis Capital Limited that concludes this
+conference. Thank you for joining us. And you may now disconnect your lines. Thank
+you.
+Page 23 of 23

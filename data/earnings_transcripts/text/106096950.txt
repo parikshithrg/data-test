@@ -1,0 +1,1151 @@
+ 
+ 
+Intellect/SEC/2024-25    
+ 
+                                                       December 27, 2024 
+ 
+1. National Stock Exchange of India Limited, 
+Exchange Plaza, 5th Floor, Plot No. C/1, G Block, Bandra Kurla 
+Complex, 
+Bandra (E), Mumbai – 400 051. 
+ 
+Scrip Symbol : 
+INTELLECT 
+2. BSE Limited, 
+1st Floor, New Trade Ring, Rotunda Building, PJ Towers, 
+Dalal Street, Fort, Mumbai – 400 001. 
+ 
+Scrip Code : 
+538835 
+Dear Sir,  
+ 
+ 
+Sub: Regulation 30 and 46(2)(oa) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations 2015 – Disclosure of Transcript of the Analysts/ Institutional Investors Call 
+ 
+In accordance with Regulation 30 & 46 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, enclosed please find transcript of the Analysts/ Institutional Investors Call held on 
+December 19, 2024, regarding “Purple Fabric - Our Enterprise AI Platform”. 
+ 
+The Transcript of the Analyst/ Institutional Investor Call is also available on the website of the 
+Company. 
+ 
+Kindly take the above information on record and confirm compliance. 
+ 
+Yours truly, 
+for Intellect Design Arena Limited, 
+ 
+ 
+ 
+V V Naresh 
+Company Secretary and Compliance Officer 
+ 
+Encl: As above 
+VUDALI VENKATA 
+NARESH
+Digitally signed by VUDALI 
+VENKATA NARESH 
+Date: 2024.12.27 15:02:00 
++05'30'
+
+Investor Meeting Transcript
+Praveen Malik 
+Greetings and welcome everyone. Thank you for joining us today. The exclusive event for the
+investors, Transform Operations with our enterprise AI platform, that is, Purple Fabric. We
+have with us today, Mr. Arun Jain, Chairman and Managing Director, Mr. Banesh Prabhu,
+CEO of IntellectAI. Then we have Ms Vasudha, she's the CFO and we have Mr. Deepak
+Dastrala, he’s the CTO of IntellectAI. So now I hand over to Arun for his briefing first. But
+before that, one safe harbour, I would like to remind you that anything which we say, which
+refers to our outlook for the future is a forward looking statement, which must be read in
+conjunction with the risk the company faces. With that, we hand over the mic to Arun. Over
+to you, Arun.
+Arun Jain
+Good evening everyone. Thank you very much for joining this special session on Purple
+Fabric. This was requested during the investor presentation where all of you asked us to
+present what the Purple Fabric means. We know it's a multi-agent AI platform, but what does
+it do? And that was a curiosity you demonstrated in your investor conference. So just to recap
+what Intellect Design Arena stands for. It addresses the kind of wastages which is happening
+in the way the IT industry works. I was addressing a bank conference two weeks back and
+some of the CEOs are saying that we have a technology budget, need to increase, somebody
+is spending more than double digit billion dollar technology budgets and they think we have a
+technology manpower of more than 50,000. Is it a right thing to do that you need to have
+50,000 people, you need to have spent more than 10 billion dollars, 15 billion dollars for
+technology?
+Something is wrong somewhere that we are solving the problem and creating a forest and
+jungles of the knowledge or data. And if you apply first principle thinking, which I was
+reading a book of “What is life?” from Paul Nurse, he simplified the life - which is so
+complex to me -
+into just five words. There's a cell, there's a gene, there's an evolution,
+there’s chemistry and there’s information. So six words, five words, we simplified life. And
+similarly, when we talk about Intellect Design Arena, what we had achieved in last 10 years,
+yesterday was our 10th anniversary of getting listed in Bombay Stock Exchange. On 18th of
+December, we got listed in 2014. In 10 year journey, what we have achieved is. We ask this
+fundamental question of why banks should exist, why financial institutions should exist.
+Financial institutions should exist because there is a financial event happening in the life of a
+customer. And customers are consumer, SME and corporate. There are three categories of
+customers a bank has. And a bank provides just six or seven services, core events they
+handle.
+First event is opening a SAVING ACCOUNT when I get a job first. Then maybe some
+LENDING ACCOUNG to buy my scooter or a car, or I have surplus money to do the
+DEPOSIT , or I have to invest the money INVESTMENT , and I have need a CREDIT
+CARD and I need to make some payments so PAYMENTS These are the role of a consumer
+banking. When it comes to SME, then I may add SUPPLY CHAIN FINANCE to it or
+working capital to it. And if it is a corporate, I need a GUARENTEES or some instrument of
+LC and guarantees, which is important for me to provide my guarantee to some of the
+
+Investor Meeting Transcript
+imports or some of the export I'm doing. So these are the seven, eight services, bank events
+happen in the life of the customer and bank provides the services. And these services, when
+you package into technology, is called micro services. So the events are finite. The services
+which is required to support is also finite if it is revolved around client. But today, if you look
+at it, many banks say, I have 50 products, I have 60 products, I have 150 products. and when
+we go to Europe and America, they say we have 400 products. Now, these 400 products,
+when they have to support with 400 different databases, you are creating a huge data waste
+and we are challenging that initiative. And then similarly, when there are 400 products, they
+get connected to each other there will be 10,000 APIs. We simplify this entire architecture to
+make it finite thinking possible. There are only 386 microservices. They are close to 750
+events, even micro events. And there are 2,000 plus APIs. That's all. 
+So now, by making everything finite, we are able to go deeper and deeper and providing the
+configurability to compose a solution and to contextualize the solution. This is what we call
+Black Book for us when we go to customer; we just show this black book that this is the map
+of the banking. There are 13 product lines bank operate on, on the top we have the channels
+and bank office operations here. Then we say each product line, if it is G1, how this product
+line map to the detailed processes of the bank and each process over here is numbered, is zip
+coded. And for each line of business, lending, to Credit card, to Wealth, to Transaction
+banking, Liquidity, all our Wealth management is put into eMACH.ai. So this is my core
+collateral for selling my banking. Our propositions to the banks are stop buying products,
+start buying customer solutions and you can do the composing yourself. And this is available
+in the next level. Each micro service has been codified into a coding zip code number. Each
+API is written over here with the API number. Each technology is in a Blue book such as a
+micro services security for getting enterprise grade solutions.
+So we invested close to 20 million hours of the time in 10 years since we went for public.
+Two million hours per year, you had the international cost of $100 per hour. It's a $2 billion
+cost. At the cost of India, 20 million hours, it still cost $400 million of the investment which
+we made in building this platform together. Today, I want to spend some time on what came
+out. We have a team of close to 150 research engineers since 2016. They were operating from
+US, UK and India. And these people, since they started in 2017, they knew what works in AI,
+what didn't work in AI. We failed in 2018, we failed in 2020. We did some work, we
+succeeded to bring back with accuracy, 87%, sometimes bring 89%, sometimes you bring
+91%, but we are not able to make it usable AI. The difference is the promise of AI and
+usability of AI. And that's the biggest gap we find in our journey. But since we had more
+chances of exploration and experimentation between 2017 to 2021- 22, when generative AI
+landed us in 2022, we could identify the right places where generative AI can create a larger
+value for the customer. And we, over the period of time, when we built up these use cases of
+magic submission in America for insurance underwriting space, or we built up this
+technology for ESG for the largest investment bank, Norwegian Investment Bank, or we use
+it for magic invoice processing. All were build on the same technology. And this technology
+revolves around principally eight technologies. First is how you get the data from the various
+sources, whether it's a structured data sources, which is a data source DS 1, you get a data
+sources from second data source, which is a document which are present, which customer is
+submitting it, or document you are crawling and retrieving back from a website of a
+customer, that is a DS 2 data stream 2. There's a data stream 3 which you pick up from , from,
+
+Investor Meeting Transcript
+not websites, the paid data, you buy out from Dun & Bradstreet or ROC data. Then there
+could be a regulation related data and there could be operation related data. These data, we
+convert into knowledge by using four technologies.
+The technology number one is ingestion technology. Technology number two is, Deepak will
+highlight to you what these technologies are. Technology number two is classification
+technology. Technology number three is extraction technology and technology four is trusted
+data technology. Now these four technologies, once it is done, we call it ‘Document
+“Intelligence Management System”. And this is the four technology constitute to create
+DIMS system, which is parallel to DBMS what Oracle has promoted in 1985. So today, with
+the AI coming into picture, banks needs a document intelligent management system of their
+own. It's not a part of LLM, it's a part of the bank, their own LLMs, which should be sitting
+in the bank system, or whether we call bank LLM or bank SLM. But these documents must
+be tagged so that we can do a continuous KYC and continuous risk monitoring can be done
+on the same documents.
+From this, we move to technology number five, which is how do you create agent, which will
+be shown to you Deepak will show you how we create agent by feeding in the information by
+creating almost like a digital expert. So there's a digital expert and there's a human expert. So
+how do we replicate human expert to digital expert is the technology number five. Once you
+get a human expert, we simulate an operation room where five or six different category of
+experts are there, which we call role holder. They could be sales manager role holder. They
+may be ops manager, they may be compliance manager, they may be a collection manager
+who is responsible for collection. They could be a risk manager. So all these roles, we create
+five human expert in operation room. Now technology number six is how the six digital
+experts are talking in a same operation room is technology number six. Now, once the six
+people come together in an operation room, you can understand how much noise they can
+create because everybody has their own perception and contradictions. To manage the
+contradiction among the six people is the biggest job management deal within a bank. But in
+AI world, it's much better. 
+We developed a very, very highly sophisticated algorithm called ‘Socrates Dialogue
+algorithm’. We trained this digital expert to do the prompt engineering among themselves and
+ask the questions which make the difference to their life. And that is Socrates Dialogue is
+technology number seven. And once these contradictions are there, we record all the
+conversation behind it with the traceability. So if the regulator wants why you come on the
+decision or business head wants why operations has decided in particular lending or not, he
+can look at the actual Use Case and traceability of it. And all throughout the journey, then this
+the jury of six agents will give a final file or final recommendation and that recommendation
+go for the human advisor who is there. So I am converting your operation room of 100 people
+to just few recommendation advisors or who can take decisions on it. And that's
+recommendation, the technology number eight, which should come in the shape of file or it
+can come in the shape of recommendation letter. So this 8 technologies, we wired together
+and all are wired into a single box with all the security and entitlement embedded into it. And
+all these technologies are LLM agnostic. So this is our first platform, which is LLM agnostic.
+It's not that Microsoft is selling Open AI, which is better than Bedrock. We say for each
+different use case, we do the benchmarking of the LLMs. And this benchmarking of LLMs
+
+Investor Meeting Transcript
+capability is on three AI constraints, which is a speed, cost and accuracy, we benchmark
+which is the best LLM there. So this purple fabric platform can consume the best and
+optimized LLM model for solving a specific problem, not one problem. Within one problem,
+we may use multiple expert agents. 
+Deepak will show you how we use for solving one problem more than 13 experts, digital
+experts to solve that problem.
+Now you look at it, what is the market size as an investor? How will it translate into the
+business scenarios? I'll come to you after Deepak present to you Purple Fabric, that’s how we
+are translating this into the business case through three different business models, how Purple
+Fabric is leveraged for creating a shareholder value. So at this point in time, I want to give the
+stage to Deepak. 
+Deepak Dastrala 
+Thank you, Arun. Good evening, everyone. Let me know if you all can see my slides .  
+See, one of the biggest opportunity, I mean, historically, all the technology companies spent
+in terms of helping the banks. But if you look into that typical area opportunity, which at this
+moment we targeted, was IT costs of a bank is anywhere between the 11% to 17%. And at
+least 40% to 46% of the cost goes in terms of an operations. And this is a completely new
+space is actually up for the opportunity for purple fabric. Because right now, if you see the
+nature of the work that can be done in the middle and back office , so far the technology
+could not penetrate into that because it requires a human level of capability in terms of
+intelligence to do that. Now, with where the AI is, where the purple fabric is, I think this is
+the completely new opportunity space, I think where we are working on the various use
+cases, and I will walk through some of the use cases.
+So the value of the Purple Fabric is not only to bring in the operational efficiency or reduced
+the cost, but also in terms of helping the banks to improve their revenue through h improved
+customer satisfaction, enhance risk and compliance and all. So pretty much we help both in
+terms of banks improving their top line as well as their bottom line. And just to give a
+context, when we say AI agents, this is very important for me to set the context. Because a lot
+of people, historically, even automation, they might have a view about the bots. But why
+agents are different and how different they are from bots? At a very high level, the expert for
+some particular digital agent to become an expert agent, one, they should have a capability to
+leverage the foundation models which pretty much trained on the universal data and process
+it. That's what first brings the human level of an intelligence, number one. Number two, it
+should have a memory, just like a human, right? How we have a short-term memory,
+long-term memory, it should have the memory. Plus, it should have an access to the tools
+because with the kind of a digital transformation that happened over the past decade and so a
+lot of the digital information is available through the APIs or the website and everything.
+So it should have an access to tool for it to act. But to a little bit further context, right? To go
+right at a very high level, you also can look into that, a combination of IQ, EQ and AQ. Why
+I'm trying to highlight this is because at this moment, what we are trying to do is build a
+digital twin of a human. It means at a very high level, it should have an understanding about a
+
+Investor Meeting Transcript
+language it should be able to synthesize the knowledge. And more importantly, it could
+reason and reflect because a lot of people who are playing with the chat GPT, they might be
+using it to create a, using a text, they can create a text or audio or video. But I think what we
+are talking right now is about actually further where like you can do a human level of
+reasoning and reflect on certain things before making a decision.
+ Another thing is EQ, which is empathy. And because whenever we are talking about one of
+the biggest use cases around the customer service, you should really have a right level of
+understanding what the customer is talking about, whether his customer is sad, angry, happy,
+any of those things, and also adapt based on that. Then the AQ, and this is the most important
+thing, because what people haven't leveraged the AI for so far is, once you reason, once you
+understand, once you contextualize what actions that you can take, which typically so far
+only humans can do. Now, as long as anything is digitally available, actually these agents can
+take an action leveraging the tools and all. And this is just to give you the context about what
+qualifies when we say expert agent, what actually qualifies in terms of the cognitive ability.
+Now at a very high level, Purple Fabric as Arun highlighted, these are the eight proprietary
+technologies that we have built in the last 10 years with a lot of research work that we have
+done and all.
+So if you see a lot of people, I know at this moment, they just plug into the LLM and they
+call it as an AI platform. But what is the fundamental challenge is still the age-old problem of
+garbage in garbage out exists with the data. Unless you really get the data at the right quality,
+this models cannot really make sense.. So what we use this LLMs is largely for purely for
+thinking like a brain. Actually the doing part is what we have the unique these capabilities.
+And what we also we do is, for example, while we have this capability, the biggest
+opportunity what we have is how we can leverage the knowledge that exists in enterprise.
+That knowledge could be enterprise structured data. And here, right,
+a lot of critical
+information from a decision perspective, it helps in such data. So we have ability to really tap
+into structured data. Then the unstructured data. And this is where we have spent lot of time
+in last 10 years. And because everyone who focuses on the data quality, all the AI program,
+they have a challenge. And when they say challenge, they still they're struggling with
+structured data. And the 10 years’ work that we have done in unstructured data, which is what
+gives us a significant differentiation. And we see the unstructured data, it could be a text data,
+or it could be an image data. And right now everyone's comfortable with multimodality, but
+that's what we spent last 10 years, how we can get this data right at a scale. And also we can
+tap into the knowledge of enterprise policies and practices because most of the banks have
+their own, let's say from lending perspective, what are the guidelines, what are the process,
+policies that they need to apply for a different line of business so we can tap into all of the
+data. And along with the market data, it could be from website, it could be the third party
+providers, it could be anything at any frequency of any format. And then also the regulators
+kind of a thing. So these are the five different knowledge’s that we can tap into, whether
+they're in a structured data form or unstructured data form. Now, a little bit going into the
+eight technologies that we have developed. 
+The first is Data Ingestion technology. Here we can actually ingest the data at a huge volume,
+and basically at any scale that is possible, whether that is structured or unstructured and all.
+So, and also some for most of the use cases that we need to do, probably we have to do it at a
+near real time across the various sources. That's what we can do. And then especially in
+
+Investor Meeting Transcript
+enterprise, people will just leave the data wherever it is. And it's very, very important to have
+an ability to classify the data, whether they're structured or semi-structured or an unstructured
+form. Because the classification is so important in terms of getting the context right and all.
+And normally you might see right in the landing, someone just submit all the documents, all
+of that be under one PDF. So how do you know actually which one is a PAN card, which one
+is a passport, or which one is anything else, right? And sometimes they do it within a one
+page itself. So we'll be able to classify the data at a various level, at a page level, the
+document level, it could be anything and all. Then how do we contextually extract them?
+Because it's not just an extraction. This is where the major difference is. And we need to
+really understand what I meant by contextual extraction is which Use Case we are looking
+into that. Within that Use Case also, what sub-Use Case that you are looking into and how do
+you really get, right, and all. Because the word policy might be very different depending upon
+when you're looking into the insurance versus some other context and all. So how do you
+understand the context? This is where our deep domain knowledge in the BFSI will come in
+and that's what differentiates us from anyone else and all. Because it is not just about just
+applying in AI, right? Unless you understand the domain, unless you understand the data, you
+really can't get that last 2% right.
+And for us, this contextual extraction, where our deep domain knowledge helps in terms of
+how do we apply to the various banking, financial services, and the insurance use case. And
+ultimately, it is about trusted data. So because especially when you're taking the data from so
+many sources, how do you triangulate it? And how do you know which one is trustworthy,
+especially when you're combining your in-house enterprise data versus external market data?
+Even external market data, you don't depend upon just one source. You get from multiple
+sources. Each of them may be best at some particular entities and might not be good at other
+entities. Some might be good for MSME, some might be good for the large enterprises. So
+how do you bring all of together in contextualize where actually you can make a critical
+decision in your bank on the particular data? So that's what this trustful data helps us. 
+Then the expert agent, as I mentioned the expert agent what qualifies, right? Now there are
+the three major user journeys what we focus on while you might see so many co-pilots out
+there, so many agent related platforms out there, and we see it as three major journeys. It is
+basically assist, augment and autonomous. Assist this could be any help that will help you. It
+will give you only the 10 to 15% incremental productivity. Augment is we are talking about a
+very deep domain expertise persona within the bank. It could be an operations person, it
+could be compliance person and all. So that's where we focus a lot of our use case because
+that's where our domain expertise helps us to really make a difference and all. So how we
+build deep expert agents and all that is the augment. Then autonomous could be typically any
+critical decisions never happened by the one person within the division or sometimes even
+one division itself. So how do you have this expert agents within the divisions and across the
+divisions can work together to actually make the business decisions happen. So a lot of our
+focus is around the augment and autonomous any that's where our domain knowledge and
+data understanding that we worked on for last 10 years makes a difference. And finally, the
+decision and action. So even the decision, right? How do you actually make these agents
+collaborate each other? Because a lot of people are talking about agents there. Our
+differentiation is how these agents collaborate each other and how they actually come
+together to the decision and all. And then finally, what actions and all. When probably they
+
+Investor Meeting Transcript
+are happy for someone to bring into the loop and when they are comfortable to make a
+decision.
+These are the critical capabilities of Purple Fabric provide. Again, we are completely cloud
+provider agnostic and the model provider agnostic, and our deep knowledge has really helped
+us to really solve the last 2% better than anyone else. So what I will do is just to contextualize
+it further. I'll focus on the one major use case. By the way, I think to the best of our
+understanding we have with talking to many firm, we are the first one to put out there the
+multi-agent use case in the world. While everyone is talking about the platforms and I think
+we already went live in a highly-legated financial services form and I'll walk through that
+particular use case now. 
+So if you look into the use case, Right now, the complaints are claims. While they're a
+universal problem, right now if you just take UK alone at this moment, this actually, it's
+costing around $9.24 billion a month and handling the complaints across the various
+businesses . This is the data from the Institute of Customer Service in UK. So if I just take the
+Use Case that we have operationalized, especially after the consumer duty came into the
+picture last year, a lot of people are complaining around the various financial services. So
+what we are talking about a Use Case with a one of the largest financial services firm where
+they're dealing with so many complaints and these complaints are actually sometimes cost
+them anywhere few thousand pounds to the sometimes a millions of a dollars kind of a thing.
+And they're not that easy for someone within their department to really investigate in a short
+span of a time. So the reality out there is at this moment while they have almost more than
+150 people they're able to actually meet only less than 30% of the SLA.
+Because of the complexity of the case, it is taking so much time. And the number of
+complaints are just increasing, especially because some of the legal firms are just recruiting
+the customers who have a concern. they are doing everything on behalf of the customer. Why
+it is so complex is typically this compliance could be anywhere between last year to the last
+14 years. And each of the time, the policies or the regulations might be very different. And
+there is no single source. The data might be across the various sources. And also because
+there is no standardised rubric for the nature of a complaint, it will be extremely difficult for
+people to really investigate and do that within SLA of less than 50 days. So if just for you to
+understand what it looks like, this is the typical operations team that looks like. If you look
+into the, if you have to deal with the capacity of anywhere between the 200 to 400 complaints
+per week, at this moment they need anywhere between five to 10 FTE just to look into the
+complaints, log those complaints, and they need five to 10 FTE just to classify and
+understand whether the complaint is right or not. And they actually need a 50 to 100 FTE if
+they have to meet a capacity of 700 per week to just do the evidence gathering and then
+finally to the case handling, they need 100 FTE. So if you look into the whole thing, right,
+everything is manual in nature because of the complexity and the nature of the challenge.
+Only thing that this is, they have a complaint system where they log in the user to a system of
+record. That's all. That is what it is. Now what we have done is this is where we build this
+multi-agents who actually replicate this particular persona for us and pretty much each agent
+replicate this persona. You have a compliance manager, just like how in a, any division you
+have a manager or supervisor, and then you will have the complaints checkers who does the
+various roles. Someone focused on extracting the complaints, someone goes and creates, not
+reports, someone focused on verification and all.
+
+Investor Meeting Transcript
+So what we have done, how these agents will work together is they work together in terms of
+tracking the incoming complaints, understanding and classifying them, creating the whole
+dossier, which shortly I'll do a demo, and finally actually recommending the decision. So the
+most important thing that you need to understand here is these sources could be both
+structured and semi-structured and could be unstructured, number one. Number two, we
+never just use the one LLM to do that. And this is where Arun is referring, right? We
+benchmark what is the right LLM for the right agent for that particular job. So for this
+particular Use Case that I'm referring, we use more than six LLMs from the different
+providers. And 13 plus agents actually came together to really deliver the outcome. So the
+outcome that we have provided took five weeks. We are able to deliver the outcome in 20
+minutes for 80% of the plus cases which has brought in the significant operational efficiency
+and customer satisfaction. The beauty of this work is now what we have delivered to the
+customer actually doing a very reactive work of doing the complaints because we have built
+agents in a modular and reusable form. Now the customer is using this to proactively look
+into who are the other vulnerable clients who might complain and what are the risks they
+have. So this is where our first principle thinking actually helped us to really build the whole
+thing in a very modern way. So what I will do is I'll quickly get into the demo and then I will
+probably walk through where exactly it is headed.
+So this is our Purple Fabric platform. And what you can see is so many agents that we have
+here. So let me go through the agent who's actually the complaints
+manager who pretty
+much orchestrates all the work that across the various agents. So what I will do is, because
+this takes some time, I'll just probably fire the case in front of you. And then I'll go through
+the previous case in the interest of time. So before I go through that, what you can see right
+now is just, again, for the interest of the demo, we're showing it more as a conversation, but
+the whole thing works as an API at the back end. So what you can see here is just I asked, I
+clear this particular complaints of a case reference, something. And what you can see is there
+are complaint manager immediately kind of called the complaint logging agent. And in fact,
+this is where you can see live what is happening and all.
+So the Complaint Manager, I gave a very natural language, investigate the complaint for case
+reference. So this is where the decision logic, because this way the explainability and
+everything will come into the picture. What the Complaint Manager has done is first, I need
+to extract log and verify the complaint using the Complaint Logging Agent. And then it gave
+the, what is the action. This is where I referred to as a, what is the decision, what is the
+action? You can see we made it completely, which will be available for the people to actually
+understand what happened. Because tomorrow, Regulator want to come and see okay, how
+these agents had made a decision? What exactly happened? Can you prove me? We have a
+complete audit trail at any point of a time how this happened. Okay, now if you see, right? I
+mean, this is just what happened is that it has kind of got that particular complaint. This is
+actually the letter which it has read and it got completely that information, which is a very
+unstructured here in nature. And then it has logged this particular complaint in the complaint
+system. You can see the input for that. What I will also do is just to see, it is also verifying
+whether the complaint has a mandatory details or not. And it is also clearing, giving the
+output. It is actually successful. For example, it is saying that all the required, if we can see
+what I highlight, and all the required information present, which is the first name, last name,
+
+Investor Meeting Transcript
+date of birth, address, and everything. And also, it has the letter of authority and all. So just
+like how the human will do, the agents are doing it.
+Now what I will also show is it is actually it took that particular text that is classifying the
+complaint. This is where like a human, right when we read it, we can always see there might
+be more than one category might be qualified for a complaint. Sometimes when a human who
+is not trained, they might miss this. This is where agent has really read the whole thing, which
+is a text. And if you can see it has kind of understood the complaint category. For example, if
+you see here it has two categories. One is inappropriate product transfer and the partner
+service. And it also kind of validated according to the FCI category, what are those particular
+categories they come under. This is a pure human intelligence, which is actually replicated by
+the agents. Now, if you can see, as I said, right, complaints gathering. This is where you can
+see just these agents. It is actually gathering the data from the various client systems.
+And it is gathering the data now even from the data warehouse, which is, as I said, we have a
+capability to really get the data from the structured data. And all these things it is doing in
+doing parallel. Now, what it also doing is once it gathered all the data, it is saying that the
+next step is, for example, in this case the next step is to the side it started investigating that
+and all. So basically it has identified that I need to investigate two complaint reasons in a
+product transfer and partner service. First I will handle just like human, first I will handle it in
+a product. So it is doing all this particular investigation going through the various sources,
+which could be structured, semi-structured and everything. And then what it is also doing is
+now, now I have an outcome of an inappropriate product transfer complaint it will proceed to
+investigate the partner service. So it has completed one investigation and it is going through
+that. And because it is happening live, some of the work is in progress, but let me show
+what's already done just before this meeting I had done demo. What it will do, I'll go through
+the traces. What it will do is once the investigation is completed, it say, I have all the
+necessary details to generate a final report. Now I will use the Complaints Report Agent to
+generate the report. And what you can see is Complaint Agent has taken all the information
+that it has received so far and it has created a simple, easily understandable report. So let me
+show that in the actual, this one. If you look into this particular report, that you can see this,
+just like how the human at the end of the investigation prepares.
+Dear case handler, I have completed the investigation, so on and so forth. What is the client
+information? What are the case details? And what are the complaint categories? And what are
+the reasons? And how these are against the FCA? And what is the final verification status?
+The status is successful. And it got whole complaint summary, and it got all the, in this case,
+this is the context to say a wealth advisor. So these are the various products. It has all the
+particular product details the codes and everything, the client name, and all the advice details.
+And then finally, what is the investigation? So in case the first thing is, first is an
+inappropriate product transfer. The outcome is the complaint is rejected. The reason is it has
+identified actually within this particular record, where there's an evidence that client has
+agreed to the recommended portfolio and also accepted the higher ongoing advice fee. So I'll
+show you where it is.
+And then similarly, the second one is a partner service. Basically, for something to be
+qualified under the advice service, it has to prove that actually within the 12 months, the
+advisor has met the clients at least once. So from all the kind of a meeting details, it got all
+
+Investor Meeting Transcript
+the dates and it has calculated that actually the advisor has met the clients multiple times in
+less than a year and it has rejected And it has given evidence for that. Now people may still,
+don't believe it. Just go for that. This is where that information is available in the document.
+What we got is only like one reference. And similarly, this is like some 28 pages document,
+the information available on the 26th page. We show exactly where that information came
+from. For example, if someone want to see, here there is a note like agreed client has a
+medium attitude or risk and is given. SRA willing to play high to high equity content. So all
+this is recorded. So everyone knows exactly where that information in and just leave it to the
+humans. How many people for how many hours they need to coordinate across them, across
+the various systems to achieve that. And this is, we're able to do that in less than 20 minutes.
+Now, going back to the, what was the outcome look like after we implemented the system.
+This is the difference that I showed you, right? This was the state before it was everything is
+manual. Now, everything that is manual, now we replace that with an AI agent. And in fact,
+we have an agent, which is also kind of recommending the decision, but we are leaving the
+decision to the human expert to look into it. And what was where they have some number of
+an FTE for each of this task. Now, they really don't need any FTE for that and actually the
+capacity could be infinite. It's up to them because we can scale the compute. Similarly for
+try-outs, they don't need anyone and actually the capacity could be actually scaled to the
+infinite. And then for the case handling, this is where we left the defining decision with the
+human. Actually with the same capacity, they can do the 10X of the work. 
+So this is the kind of an impact that we have provided to our customer. And this is just a one
+Use Case and we are already many use cases as Arun has mentioned in the insurance
+underwriting space and the ESG are non-financial risk. In fact, what we have done for ESG
+now in governance risk and the compliance space can be applied for any company. It is
+basically a corporate intelligence, then account payable, the trade finance. These are the
+various use cases where we are already making a huge difference in terms of an operational
+efficiency and the newer opportunities. 
+This is just a start. We are applying it across various intellect products. We have identified
+hundreds of agents that can be implemented within our intellect products. Over to you, Arun. 
+Arun Jain
+Thank you. Perfect timings, I think 4:42 and exactly less than 25 minutes to explain such a
+complex topic was quite interesting Deepak for looking at it. People may have many
+questions. I'll put on the chat box if you can ask that question on it. In the meantime, I'll ask
+Banesh how areyou trying to monetise. What is the business model through which Purple
+Fabric can be giving value to the shareholders?
+Banesh Prabhu
+Arun, I think you know I'm just going to touch on a couple different thoughts and also the
+areas that we are focusing on for our clients. So firstly, I think as we have already seen the
+platform capability, the operations area of a financial institution spends a lot of money. And
+the work we've been doing and investing over the last many years is actually helped us
+identify certain specific ways in which AI can be implemented for our customers. Clearly, we
+focused a lot on the UK, US and the developed markets because their cost income ratios are
+
+Investor Meeting Transcript
+very high in operations over there. And the other important thing about the platform, I just
+wanted to state one more thing is that we bring in a lot of experience in BFSI. I think it's very
+critical because when we use AI we have to ensure an lot of focus on trusted data, the audit
+trail of what we do from an AI perspective, all of which Deepak has covered and something
+we have considered very carefully when we built the platform. 
+So, I think it's very important to understand because a lot of people are doing investments in
+AI in very generic cases. But I think our capability very much focused on ensuring that
+services are well managed from an AI perspective. I think is very critical. Now to Arun's
+question. We have 3 broad categories of how we are monetising the system as such Purple
+Fabric. So Purple Fabric has one where we basically offered the whole platform that you saw
+so that the client who's already been working on existing various kind of use cases and AI
+initiatives can actually bring those initiatives can take some of our use cases, can build their
+own use cases for which we actually train them through an Academy of Purple Fabric where
+they can get certified to actually build use cases, we provide them the support required. They
+can take various capabilities and tools that you saw on the platform that we have built. These
+tools are continuously evolving as AI is evolving in the market. So, we'll keep looking at new
+capabilities and enhancing existing capabilities. Deepak gave an example of how we use
+multiple LLMs we benchmark which LLMs is most ideal and also various sort of AI ethical
+focus around data because data is at the heart of it. And I think all the technologies the first 4
+or 5 of the technologies focus a lot on data, and I think that's very important for us to
+consider. So, we actually offer the platform for them so that they can govern multiple AI
+initiatives. So if you are an CIO or you are an business manager or an CEO, when you have
+multiple use cases across financial services and across the various platforms that Arun
+mentioned as part of our eMACH.ai frame, the books that you was talking about, whether it's
+wealth, whether it's insurance, whether it's banking, whether it's lending or any of those
+areas. 
+As a CEO, there's a lot of pressure by organisations to capture AI capabilities which are very
+generic today. What we bring is BFSI focus platform that they can actually govern multiple
+AI initiatives, ensuring they use the best LLMs. They ensure that the data is trusted. It is very,
+very well trailed from an audit trail perspective so that we can follow all the risk, compliance
+and regulatory requirements for the client. So, this is what we basically offer as a platform is
+one construct. The second construct is the example Deepak gave of use cases. We have
+multiple use cases in different functional areas.
+We take those use cases, and we offer those use cases for a customer to be able to actually
+implement it in their technology environment or their technology ecosystem in the bank. And
+we therefore have these use cases which we normally charge per Use Case for a customer.
+And the third is where we actually embed some of the AI capabilities that you heard today
+into various services. For example, you know in wealth, so from a relationship manager
+perspective, you could have actually embedded certain capabilities for the financial advisor to
+be more efficient in the way they would deal with customers. So, there is a lot of embedded
+AI in various solutions for our various platforms as eMACH.ai. So, there are these 3
+constructs. Most of our customers come and offer this as a subscription type of pricing rather
+than the traditional license type of pricing that we have had in some of our products. So, this
+is what we actually I think right now we are focused on and this is evolving very rapidly. As
+both Arun and Deepak mentioned, lot of people are doing stuff in GenAI asking assistance
+questions of data. But our ability to replicate and human operation setup through multi agents
+
+Investor Meeting Transcript
+from an AI perspective. I think is a unique positioning and I think it's effectively going to
+grow into sort of a replication of a different workforce within the bank that will complement
+the human and change the future of way work is done.
+Arun Jain
+Thank you, Banesh. In summary you are saying there are 3 business model to monetise. BM
+1 model is around Purple Fabric as a platform. Like Palantir, they offer a platform. They
+charge $3 Mn per annum per customer subscription. We are looking this to be in the range of
+$1Mn a year. Customer can purchase it. So that's the first model. Second model is built up an
+application specific application like invoice processing, application, AI based invoice
+processing application, which is APX, underwriting application like Magic Submission which
+you have launched in the US. We have more than 20 clients using the complete underwriting
+platform which is AI driven platform where we are charging from them on basis point for the
+insurance premium they are underwriting on our platform or we are using claim management
+which is per transaction per application file or per complaint which could be even if it is close
+to 100 pound per complaint. It's a kind of a if 10,000 complaints or 100000 complaints are
+there. Looking at the market complaints in the marketplace of mis-selling. So, these are the
+cases within business Model 2. There are 4 business cases of 5 business cases we have
+already put in the market. Each Use Case we are looking at it that each use case, it should be
+minimum Rs.100 crores revenue index 3 to 5 years. Each Use Case can bring. And because
+model canvas model one which is around Purple Fabric as an platform, if we can reach out to
+50 to 100 clients in next 4 years, that's the kind of an objective that we are looking at it and
+3rd with the case which is there which is embedding our eMACH.ai in all our products. 
+So, our product value which we are selling, we can sell at least 20% at higher premium to
+other market players using the Model Canvas 3. So, there are 3 models – BM 1, BM 2, and
+BM 3 to capitalise on it. With this we are quite bullish about this entire Intellect AI platform
+investments are quite high from the the R&D perspective and POC perspective. So, there are
+2 kinds of investments we are making. One is on research. Second, on doing the proof of
+concept for our clients. So as of now, that investments are going in proof of concepts because
+whenever we want to implement certain thing as Deepak puts it, the claim investigation
+system is the first of its time which has gone live in the world where it is using enterprise
+structured data from multiple databases and unstructured data from the market perspective.
+Nobody has currently used the 2 systems of structured data and unstructured data and
+multiple system for multiple system to solve a particular problem what he's showing using 13
+digital experts. I don't call it digital agent because they are experts, so they are 13 digital
+experts plus 6 LLM models. So interesting thing is 6 LLM model. So, for one claim
+management system we are using 6 LLM model and system is going smoothly there. It's
+traversing and saying what is the billing for Open AI? What is the billing for bedrock? What
+is the billing for different LLM? And these are the important things which we are very
+uniquely defining and getting a good traction from our partners. So, we have one partner who
+started doing the Academy. He wants to train many people in his organisation, so we have a
+line from January, February, March will be training our partners who can sell to their
+customers to reach extend our outcome. So, at this point in time, maybe Iwill reply the
+questions what you have.
+
+Investor Meeting Transcript
+Praveen Malik
+Now you open further questions. Please click on raise your hand so that we can ask your
+question. Arun, some questions are there in the chat box. Also, let us take that first. Nachu
+please read the question.
+Nachu Nagappan
+Thanks, Praveen. The first question is, what is the unique value proposition of multi agent
+platform against any other GenAI platform?
+Arun Jain
+That's what we explained. So, I think this has been explained very well that the multi agent is
+13 agents solve one problem . You go to next question.
+Nachu Nagappan
+How can manage trust and explainability in platform?
+Arun Jain
+Deepak
+Deepak Dastrala
+I think there are multiple levels, not just an one dimensional thing, because throughout that
+what is required typically for data privacy perspective, we will ensure that from an either
+there is a masking capability for any PII data and there is a toxicity capability to ensure that
+the questions are the right and sensible kind of a thing actually adhering to the standards of an
+GDPR and everything is one part. But explainability you have seen right? I mean every single
+thing what the agent does is absolutely available to verify - we ensured that actually the trust
+is visually felt also. We spend a lot of time to really understand what the human AI
+interaction should look like and how they should be able to interpret what agents are doing.
+That's the reason we have decision logic and action. So, this helps in in terms of having the
+right traceability right explainability not only in the interest of an organisation, but also an
+auditor and the regulator. So, this is what we have put in place.
+Nachu Nagappan
+Ok. So, the next question is are the target plans even ready to adapt to AI agents actively? A
+lot of current adoption is let's do a small pilot and we will see later.
+Arun Jain
+Exactly, that's what we have demonstrated. In US, there are 20 clients are already using it for
+full-fledged underwriting submission. These agents are being used. We started this journey
+in2021 and today we have pipeline of more than 100 leads where we are doing the PoCs with
+them so that they can on board. Inn claim one customer is fully live ESG customer is fully
+live. So that's what our uniqueness is. We are in action mode not only in PoC mode.
+
+Investor Meeting Transcript
+Banesh Prabhu
+No, just to add right. Most of the clients go through a PoC, but once a particular Use Casein
+the BM 2 sort of model is Available, then they can actually start consuming this much faster
+than before. But what really happens is the client is still going through the stage of accepting
+AI into their environment. And I think that takes an POC which we do. We are doing multiple
+PoCs across product lines today and I think that's the way the model is still a point where
+everybody will accept it and then you can scale it a lot faster thereafter.
+Arun Jain
+Deepak, can regulatory requirement on how AI is implemented in BFSI sector detailed some
+of the? Solution you have built.
+Deepak Dastrala
+I think one of the things is we are very actively working with the various regulators through
+the sandboxes in the UK and other places and also trying to ensure that the ISO standards
+like 42001 are applied. So that it is completely in the context of regulatory. For example, in
+both UK and US, lot of regulators are helping with innovators like us in terms of how to
+operationalise. So at least where we are operating, what we are doing, we are kind of seeing
+some help and we are also constantly focusing on what are the new frameworks they're
+releasing, new regulators, regulations, they're calling it out for us to adopt.
+Banesh Prabhu
+Arun, just to add to what Deepak is saying, right. I think what we also do, not just all the
+discussions with the regulators. But we are actually finding ways in which we supplement the
+human beings. Sometimes people feel believe AI is completely autonomous. Not only do we
+ensure that the data of the bank is something that we keep secure within all the security
+regulations of data that exist, but also the work that we do actually enhances the human's
+capability to do processing. And therefore it supplements or augments the human’s decision a
+lot faster, and it's not something that from an AI perspective is completely doing things which
+eliminate the control of the human in this case or the operations process where it will land up
+doing the wrong things, you know the wrong financial transactions for the customer.
+Deepak Dastrala
+And also, Banesh just adds to you right the use cases that we operationalize the biggest
+challenge for the companies is they don't have enough expertise available to deal with the
+demand that is coming on their way. And if you look into the use case, , the biggest challenge
+they have is they're not able to meet SLA. They were adding more and more people that is
+not helping them. So, if we especially look into the risk and compliance space, there is a huge
+shortage of an expertise, and this is where the agents help in terms of giving the right
+coverage and also reducing the cost or optimising the cost.
+Arun Jain
+Yeah, there's a question. How is it to some of your leading competitor to replicate this kind of
+solute? I think we have an almost 10 years experience since when we are working on it.
+
+Investor Meeting Transcript
+Replication is possible and that nothing can be said that we have a unique solution which
+cannot be replicated. We have applied few patents on it which can protect us from the
+replication. But more than that, I call it basement 1, basement 2, basement 3, basement 4. If
+our solutions well, as we find as 97% accuracy or 98% accuracy, somebody has to reach to
+98% accuracy takes almost months and months of jobs. At least it is a two year to three-year
+moat available to us on an applying in banking financial sector which I have talking about
+black book. This black book gives us a uniqueness because it's within each area process, we
+know the difference, which is there.
+What are the cumulative investments? Cumulative investments in this business over few 100
+crores were made.. Something is available in our balance sheet capitalisation. Something is
+available in UK subsidiaries. Few 100 crores of the investment are already made in this area.
+With platform potentially replacing human operations, are we facing resistance from the
+employee from our customer? Deepak highlighted in very beautifully that we are not able to
+solve the problem fully. The regulator questions we are not able to solve. Today, it's not a
+question of employee, it's that people are paying fine in US and UK. They are paying fine to
+the government because they are not able to solve problems. This is a problem solving
+they’re using both hands, so there will be some situation where employees may feel
+constrained, or they may feel threatened with it. The question number two, Rahul Bhansali,
+you are asking what the biggest risks seen to monitize the Purple Fabric. I think the risk or
+opportunity, if we look at opportunity, whether this opportunity there 1000 crore opportunity
+or 5000 crore opportunity, that's the dilemma we have. 1000 crore we are sure of it in next 4
+years we will be able to capitalise on it. Can 1,000 crores be 5000 crore opportunity for us at
+a margin of 50%? That's what is current challenge right now, which Banesh, Deepak or me
+spending a lot of time in the flight to look at it, how do we make it 1000 crore to 5000 crores
+journey anywhere in between. In terms of complexity of implementation, I think this is where
+the beauty of the platform Deepak has done a phenomenal job under R&D team. WeYou can
+do it so sometime if you want to take it. We can give a session to you. You can build on it.
+Praveen Malik
+Rajeev Sharma.: Has any customer that does not use any of the company product s signed for
+this platform?
+Banesh Prabhu
+We have one which is right now doing a PoC with us. I think we have got a big pipeline of
+PoC is going on with clients. Many of them are not clients of ours at all.
+Arun Jain
+Manish’s question, there is one beautiful question. How well does Purple Fabric integrate
+with legacy infrastructure of the banks in US? This is a beautiful question because that’s
+exactly the structured data access which we are able to provide, which generative AI of many
+players not able to do it, therefore he explained.
+
+Investor Meeting Transcript
+Banesh Prabhu
+Yeah. And, you know, there was this question the other day also somebody asked me all the
+platforms that we have built and clients have our platforms this platform actually is an
+operations transformation platform that connects to those platforms to pull data along with
+the unstructured data from documents, puts it together through the agents and the multi
+agents to do the actual decisioning involved in supplementing the human to achieve an
+outcome. So, it is actually complementing existing platforms by pulling data just like a
+human would log into those systems, pull the information and take decisions and AI agent is
+helping the human doing it more efficiently and faster.
+Arun Jain
+There is another interesting question is that can it reduce the cost of building software. So
+how the software engineering cost has come down? I think we are doing it. We have stop
+hiring the people from October onwards, our headcount is constant, and we are now in the
+phase of using the Purple Fabric for our internal automation substantially. How much is
+incremental investment is needed? I think we need to continue the investments s every week
+changes there. Our GTM Investments will be much higher. We are we are creating a good
+marketing department in US and UK. These are 2 countries we picked up as a first phase of
+going there.
+Does Purple Fabric improve conversion ratios? I think it's just a question of each lead
+generation. It's improving a lot. I think each quarter we are signing around 8 to 10 deals.
+There may be small POC, they may big POC which may not reflect on the revenue as much
+in each quarter. But each signup customer has a potential to grow the revenue based on
+testing our products. So, some of the customer can become almost like ARR of an $1,Mn
+ARR to $3Mn ARR, those are the possibilities of this large customer who are under pressure
+for regulator to solve their problems.$3Mn for them is a peanut for the kind of a penalty
+they're being charged by the regulator.
+Any other question? Praveen, you can look at it, even raising the hands if somebody wants to
+ask question.
+Praveen Malik
+Yes, there's one from Neil Chabra. Please unmute yourself. Nagesh please unmute him.
+Moderator
+Neil, you may ask a question. You are unmuted. I can see in it is not mute from your side, so
+you can ask the question. Praveen ji, you are maybe some technical issues you might go on to
+the next one.
+Praveen Malik
+Vimal Kumar has already put it in the chat also. There are no other hands that are raised.
+
+Investor Meeting Transcript
+Arun Jain
+Okay. Two participants raised hands.
+Moderator
+Vipul, you may ask the question.
+Vipul
+Yeah. Am I audible?
+Moderator
+Yes.
+Praveen Malik
+Yeah. Please go on.
+Vipul
+So sorry, you said that the revenue potential is INR 1000 to INR 5000 crores. So that is
+spread over how many years?
+Arun Jain
+5-year period.
+Vipul
+5-year period. So, can we say that from next quarter onward will be clocking revenues will in
+hundreds of crores for this product?
+Arun Jain
+Hundreds of crores we are saying it's an accelerating revenue not a quarter-to-quarter
+revenue. So please don't expect anything significantly change in quarterly revenue because
+when you are doing an POC, we are doing first 100 complaints to be handled, not 1000
+complaints. But as soon as it's accepted, it can become 1000 complaints a month. So that is
+the time the revenue build up will start.
+Vipul
+And what will be the margin profile for this product as compared to our other products?
+Arun Jain
+This is a completely different lines of business than other products in enter transform
+enterprise space. This is in the transform operation space. They are not contradicting to each
+other.
+
+Investor Meeting Transcript
+Vipul
+Margin will be higher or lower.
+Arun Jain
+Margin will definitely be higher. This is a very distinctively different AI product. Today, AI
+margins are still on higher side. So that will be higher than the existing products.
+Vipul
+Okay. Thank you, Sir.
+Praveen Malik
+There is no other hand raise.
+Arun Jain
+Time is also over. We have a one-hour session. So, we can close the call.
+Praveen Malik
+Any other question out there, please click on raise your hand so that we can unmute you.
+Moderator
+There is 2 question Praveen from Pratap and Nishanth. 3 now.
+Arun Jain
+Go ahead Pratap.
+Moderator
+You can speak, Pratap.
+Pratap
+Yeah, Am I audible?
+Moderator
+Yes.
+Pratap
+Yeah. So, can you explain few other use cases that that can be like one is that customer
+resolution you have explained like what are the other areas or what are the other use cases
+you have currently developed or in future what are the other areas where you will be you
+think you can have developed application basically?
+
+Investor Meeting Transcript
+Arun Jain
+There are 68 use cases we identified in banking. We are going step by step to look at like
+trade finance business. The entire use case is in trade finance business. The entire use case in
+lending underwriting solutions, the entire use case in regulatory management of the reporting
+which is there. So, there is a 68 list of experts. Digital expert use cases. We have a book
+available which we are using for selling in entire black book space.
+Pratap
+If out of the 68 like for all of these are developed or like how confident we are with the how
+many cases and like what is our plan to add up basically?
+Arun Jain
+Yeah. So that's what our depend on our capacity to go to market. So, we are doing at least 2
+use cases per quarter to go live. So, we are just picking 2 at a time and then making it perfect
+and then go to market on that. We need to set up a full team to sell this product like claim
+which is for UK market. Now, it can go to the US. So now we are setting up a US team for
+claim investigation, so one quarter it will take to set up an US. Team UK team is ready. US
+team will be set up in next quarter. So, it's a 3-step process. First is building the agent, second
+is do a first live sites and then 3rd cycle is for go to market.
+Banesh Prabhu
+And just to add to that, this is not like a coding platform. We actually configuring this so the
+third option is to get the partner's trained so that they can actually create the use cases for
+their customers or cases that the customer already has enabled them on this platform. So, it's
+not a traditional coding type platform as the earlier plan.
+Pratap
+And so, what is your plan for go to market like we want to have some partners, or you have
+mainly we want to have our own?
+Arun Jain
+So, this we will be doing with the partners. So, some other use cases are taken by consulting
+companies. The consulting companies of big 4, which I mentioned big 5 we have mentioned
+not big 4. We added another company also along with the 4 partners. So, 5 companies which
+are there, we are going, they are taking us to the customers.
+Pratap
+OK. So just to understand like traditional IT software companies like, can they be our partner
+or there are some conflicts of interest?
+
+Investor Meeting Transcript
+Arun Jain
+They are our partners. Traditional IT companies are definitely partners and there are two IT
+companies which are definitely training their workforce using Purple Fabric.
+Pratap
+So, there is not much conflict of interest in with them, basically?
+Arun Jain
+Initially we felt the conflict of interest when we launched it, and they also launched it. But
+when they saw our platform, they themselves backed out that they don't have capacity to do
+such a deep R&D on these kinds of products.
+Banesh Prabhu
+Particularly in the multi agent side.
+Pratap
+Thank you.
+Nachu Nagappan
+Next, we have a question from Nishant Gupta. Nishant, you can ask. Nishant Gupta.
+Nishant
+Hello. Am I audible?
+Nachu Nagappan
+Yes, Nishant. We can, we can hear you. You can ask your questions.
+Nishant
+Thank you for the for this interactive and deep dive session. So, I had actually 2 questions.
+One is this product definitely has a lot of use cases, right? But and you are targeting the back
+office in the operations team. But will this actually lead to, you know, termination of the
+workforce on that front, I mean you briefly touched on that, but I just wanted to get an more
+realistic sense that will people lose out on jobs when you start implementing because
+eventually you replacing the agents with technology, so more from of fairness point of view,
+right? If you can comment more?
+Arun Jain
+Yeah. So, I'm not to comment on this fairness point of view, but I think AI will definitely take
+away a lot of routine jobs. People have to reengineer themself. Within a software engineering
+business, I believe that 30% of our engineering service industry will lose their jobs in 2026. A
+software engineering industry from India has a serious risk of losing the business as well as
+
+Investor Meeting Transcript
+jobs, so it's a fair question. There is no answer to it. By not doing it, it doesn't solve the
+problem. If technology has come in, those technologies have to create a new kind of a job.
+More fear jobs, more sustainability element. So, if the job can be put on ESG compliance,
+more sustainable thing, I think world will be a better place using AI.
+Banesh Prabhu
+And this is a bigger moment than the Internet when it started. And new kind of jobs will
+arrive, but there is going to be a transition of skills and changes and different kind of jobs.
+But this is not like Arun said, this is not something you can stop. This is already in motion.
+Its changes are going to happen, and it is going to change the way we operate.
+Nishant
+Got it, sir. So, my next question is that Google Gemini, they are also innovating a lot. They
+are also conducting sessions where they are telling about what all capabilities they are
+developing. You mentioned that there are 4 levels of basements, and anyone would take 2 to
+3 years kind of a timeline. But considering Google is there, you know perplexity has recently
+received and fundraise of $500M valued at 9 billion dollars. Is it fair to comment in light of
+these events that you still have a 2-to-3-year kind of a moat in this?
+Arun Jain
+The difference is we are in applied research. We are not in foundational research for Google
+and Gemini spending money is in foundational research. We are leveraging them to solve the
+specific business use case, which is not their competency. What did work on is a technology
+competency. We work on applied banking competency. That's what Banesh tried to highlight
+in the beginning of the session that our differentiation is which particular smaller space it
+when you are issuing an LC, where is the in LC which is the particular context of LC and
+which business will need to be applied for that is not known to Gemini or any of these
+products. So that's where the moat of 2 years is there.
+Deepak Dastrala
+Just to add to what Arun said right. If you see pretty much from the level of intelligence, this
+narrowing down between the top players. Now, even if you see OpenAI, most of their recent
+work, they're all trying to figure out how to verticalise their intelligence. And what kind of a
+user journeys? What kind of problems they want to solve? So that's where being in an BFSI
+space for more than 3 decades gives us say that very unique insights on how this can be
+applied and how it can be solved to the last mile better than anyone else. That's where, that's
+where our differentiation is.
+Nishant
+Got it. One final question from my side. This is more like from a long-term view you are
+targeting to capture, let's say 1000 to 5000 crores for market, right? But let's say for a bigger
+player comes in, offers to buy this particular product segment from you. Would you be open
+to selling it at a particularly higher value or you want to keep it in-house and keep kind of
+getting a recurring revenue?
+
+Investor Meeting Transcript
+Arun Jain
+Boss, you have seen the Intellect. These investors do come with the always some purchase
+options we must do some action on this company, some corporate action on this business. We
+can think about something of that nature where we can leverage it better, subsidise it
+something we don't know as of now. We are just discussing it how do you really capture the
+value of 1000 crore to 5000 crore journeys? That's what we are discussing in board meetings
+that how do we capitalise. 1000 crore we are sure of. But 5000 crores, if you have to take
+some action, where we need to, we are exploring.
+Nishant
+Got it. And you are targeting not the Indian market right now, only the US and the UK and all
+market right now.
+Arun Jain
+Yeah, that's right.
+Nishant
+And any particular setting for that?
+Arun Jain
+Pardon, the question.
+Nishant
+So why not also target the Indian market where you know the BFSI sector and the
+Backoffice…
+Banesh Prabhu
+There are some Intellect tactical clients, which are critical to us, where we are talking in other
+geographies to those clients. But our main focus of scaling the business is going to be in the
+US and in the UK to begin with.
+Arun Jain
+We are doing an APX model like Magic Invoice, some small way, Indian market. We are
+using it. Some big customers for India, we want to look at its Central Bank and as of now,
+India rules are not clear where they can use where they cannot use Central Bank has not
+issued any notification. How can they use AI or not. We tried doing in India. I think we will
+take it up when some clarity will emerge from the Central Bank on the how AI and which use
+cases can be there. So as of now, we are waiting for the AI policy to confirm India and then
+we can use in India.
+
+Investor Meeting Transcript
+Nishant
+Got it, sir. Thank you and all the best.
+Nachu Nagappan
+Thanks Nishant. Next, we have a question from Puranik. Puranik, can ask your question
+please. You can unmute yourself and ask the question.
+Puranik
+I have a question. See this year, human and agent is a wonderful collaboration. So, this
+produces tremendous output. Can you hear me?
+Arun Jain
+Yeah. We can hear you.
+Puranik
+Yeah. So, it it's been it pretty, it's delivered fantastic optimisation. It's an optimisation tool.
+It’s an enhancement tool. It's done a fantastic job. So how do you measure this going
+forward? From use case to use case you know from application to application, the
+productivity of this in combination when they work, how do they work and how do they get
+technology and domain specificity together? Then how they will get the productivity of the
+platform, because I don't see much of a productivity in this application.
+Banesh Prabhu
+No. So yeah, I'll just take that question Arun. So, I think you got the example from Deepak
+on actually showing you the outcome from 50 days to 20 minutes, 30 minutes for an
+investigation. You got the accuracy; you got the cost benefit of that speed. So, all the quality
+dimensions that would be there in Gen in any kind of quality management on accuracy,
+speed, cost and efficiency is all there to actually measure use case by use case. So, the client
+actually can see that and that's what we work with the client as part of the PoCs to do.
+Puranik
+My question is seeing if you what you're saying is right. If let's say your spread, it across the
+10 use cases. So, is there an improve productivity improvement? Is there an output efficiency
+coming up in each and every I'm trying to understand, let's say it does 10 application, 10
+projects, at every stage because of the agent involvement, the combined productivity should
+get better. The output could get. More importantly, the output get better the result that you're
+seeking gets better. So, does that happen?
+Arun Jain
+So, Deepak what is the benchmark you are looking at? He is asking the question that you
+have a benchmark metrics now which you're not showing it. Otherwise, they were the
+accuracy.
+
+Investor Meeting Transcript
+Deepak Dastrala
+And yeah, I think if you see right, we are in a very interesting phase where we are actually
+initially the people see as more of an automation journey. That is the reason a lot of metrics
+are around the operational efficiency and the productivity that was the first part. But if you
+see right, this is where also we have working with our customers to also see the different
+dimension because automation is a largely the FD saving and those kinds of metrics. But
+what we are also doing is like the use case that we developed for the complaints right now we
+are using it for a compliance means what is the cost of getting the decision right and how we
+are reducing it means. For example, if you take the banks, , the real value is how you can
+reduce your NPA? How you can deliver the loans so that your chances of you're paying and
+all?
+So that is where what we said is we are not only helping in terms of improving the bottom
+line, but we are also helping in terms of improving the top line. So that the mis- selling can be
+stopped So, it's so, because that is the reason we are also helping and educating our clients to
+not to see it as an automation way, but also see it an AI way. That was the number one second
+thing is in fact we are working with some Advanced Research universities to how we can
+benchmark the competency of an agent across the human. Because right now, from a human
+perspective, right when you on board someone, this is the competency, this is the salary and
+all. Now we will be continuously increasing the competency and that also will give a
+differentiation in terms of a price point and also the quality of decisions. So, this is the
+various ways we are helping the banks also kind of a creating a new way to benchmark on
+this.
+Arun Jain
+So, I'm using this, Puranik, for my software testing. And for software compliance testing of
+security, I am using the Purple Fabric for doing it, which used to take 4 weeks’ time to have a
+security leakage in the software. Today I'm using Purple Fabric to check gates of entire
+software quality. So, we are going to leverage almost 20% headcount reduction for the same
+job in next 6 months.
+Puranik
+Wonderful, Banesh, can you give us some use cases on underwriting? Because underwriting
+is everybody's concerned that a well-earned loan is well recovered. So initially you give it the
+right lender, you don't have to put in too much effort. The borrower, you don't have to put in
+too much effort in collection. So how will you help in that process?
+Arun Jain
+Banesh has run Citibank operations.
+Banesh Prabhu
+Underwriting, whether its loan underwriting or insurance underwriting, you know for
+underwriting, you normally get unstructured documents that are that we have a product called
+Magic Submission where people submit documents, and this can be very complicated
+
+Investor Meeting Transcript
+documents with great deal of details. So, we actually through our technology that you just
+heard today, you can take that data, you can ingest it whether it's unstructured or structured.
+We can also have a data platform of our own for underwriting where you can triangulate this
+combination of data. Now, what are you doing in this model? You're actually going up to
+BPOs, right? BPOs do these jobs operationally. Document hand to them, they data enter few
+fields in the document and then that underwriter uses those fields. But what we are actually
+doing is through AI, not just collecting all that information into knowledge database of
+information for the underwriter to ask questions, but we will also be creating underwriter
+agents to help the underwriter become more efficient as we go forward. With those examples
+on underwriting and this can apply across the board for underwriting.
+Puranik
+Can you give some examples of that? So, what are the fields that you have eliminated? What
+fields you got it more efficient than what it is?
+Banesh Prabhu
+So, if you, I mean we don't need to go to the field level, but there are lot of data that you do
+not capture from submissions, right? Because data emtered into a few things, but actually the
+data is kept on document folders and then the operations people actually look at document
+folders and look log into systems and then do the decisioning. Here actually by extracting all
+the information from these unstructured documents along with the transaction systems, you
+can actually get the AI agent to help the underwriter become faster, taking complex
+underwriting decisions. For example, in the US you wanted to insurance on 50 Marriott
+properties or something like that at one time. That is very difficult to do as a human
+underwriter today.
+Puranik
+But how does predictive underwriting engine work?
+Banesh Prabhu
+So, it's not about predictive underwriting only. This is actually about helping the human with
+information to help them manage underwriting and give them things that they will have
+missed as humans with more information to triangulate and take decisions faster.
+Deepak Dastrala
+Just to add to what Banesh said, right? What we do is extracting the data is one thing, but
+what we do is we really enrich the data also with the multiple sources and then triangulate it.
+So that way, because as a human, the challenge is most of the time, with all due respect,
+depending upon the time in a day they end up taking an different decisions and most of the
+time they're biased with their historical view of that particular entity or that particular
+organisation or whatever it is. So, what we do is we completely irrespective of the size of the
+data or volume of the data will triangulate the whole thing and then we will identify the blind
+spots at every single thing. So, if you see what is the value that we are creating? Because if
+you see the one that I showed, we also kind of recommended the decision on the various
+
+Investor Meeting Transcript
+things. So that we kind of do the red flags. At this moment, it all depends upon the
+underwriter, he or she, what they view about. The biggest challenge in underwriting is
+standardisation. Every underwriter has a particular view, irrespective of the clear guidelines
+within the organisation. So now what we do is we actually ensure that those guidelines are
+properly applied irrespective of the volume of the data and also when there are gaps, we also
+have an ability to enrich that by connecting to the public or private sources and fill the gaps
+also. The coverage also will increase. So, the biggest value that we bring in is ensuring that
+we are able to aggregate, triangulate and then also recommend.
+Arun Jain
+Enrich and one more process is continuous monitoring. Yeah. Every 3 months I can go to
+website and check it up that status as the loan -
+continuous KYC and continuous loan
+monitoring. So, I can I go every month to the website of the customer and see whether they
+are, or any new results have come in embed and along with-it triangulate it again.
+Deepak Dastrala
+Exactly as Arun beautifully said, right, the biggest challenges people do this only when they
+disburse the loan. They never have a capability to do it on a continuous basis. So that way a
+predictive part what you are saying, right? This is what we can bring in terms of predicting
+the chances of a default at a frequency that you can configure for that particular corporate.
+Puranik
+One another question I have is how do you measure an agent's performance with reference to
+its augmenting the human skill?
+Deepak Dastrala
+So, for example, the use case that we have done initially, that was the exact dilemma. So, we
+kind of actually led the same use cases. Because in an model office, that's how they
+benchmarked and what is the beauty is, it kind of opened up an lot of gaps because typically
+when humans make an decision, very rarely people will check now we have a way to
+compare on the performance. The way they got the acceptance is actually when they ran on
+the use cases where where already the decisions were made, we identified how many cases
+actually they wrongly paid back for the wrong reason because the human hasn't really
+validated them. So, the sign off on this happened against the human benchmarks Puranik.
+Puranik
+Interesting.
+Arun Jain
+Thank you, Puranik. I think we need to just close the call.
+Puranik
+I think we need a lot of chat on this. Thank you. Very interesting.
+
+Investor Meeting Transcript
+Praveen Malik
+Thank you, Puranik ji. Arun, we have a last question from Mr Vivek Kumar from BestPal.
+This is the last one. Vivek ji, please unmute yourself.
+Vivek Kumar
+Can you hear me now?
+Arun Jain
+Yeah, Vivek. Go ahead.
+Vivek Kumar
+Thanks for making us understand how AI agents can bring big opportunity for Intellect, sir.
+But in terms of changing of profit polls of the industry, like what happened in the content
+creation has moved to aggregators like that. Are you seeing any trends in IT, Arun ji? I
+understand how AI is helping agencies and Intellect, but in general?
+Arun Jain
+It will happen. It will happen if you're going first principle thinking a lot of aggregation will
+happen. I think India IT industry is still sleeping. And too much disruption will happen on the
+service companies. It's going to happen. It's bound to happen. As of now, we are still not
+acknowledging the capacity of what AI has done. I am pursuing it from last 10 years, so I
+know what the power is and how it accelerates. Completely it's a titanic shift. It's a tsunami.
+It's no less than tsunami right now. But tsunami takes three hours to come to surface when it
+happened from the where the attack happened. It will take 3 years for India to understand.
+Vivek Kumar
+Got it. Thank you, Arun ji.
+Arun Jain
+Thank you.
+Praveen Malik
+Thank you, Vivek. Thank you everybody for joining the call today and still in case you have
+any more questions, please do write to us. Thank you. Now you can log off.

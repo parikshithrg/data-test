@@ -1,0 +1,1066 @@
+                              
+       
+ 
+  
+ April 28, 2022 
+The Secretary 
+National Stock Exchange of India Ltd 
+Exchange Plaza, C/1, Block G, 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai – 400 051 
+NSE Symbol: TEJASNET 
+The Secretary 
+BSE Limited 
+P J Towers, Dalal Street, 
+Fort, Mumbai – 400 001 
+BSE Scrip Code: 540595 
+ Dear Sir/Madam, 
+ Re: Transcripts - Tejas Networks Limited Q4 FY22 Earnings Conference Call 
+ 
+Please find enclosed the transcripts of the Q4 FY22 Earnings Conference Call held on 
+April 22, 2022. 
+ 
+This is for your kind information and record. 
+ 
+ Yours sincerely  
+ For Tejas Networks Limited 
+ 
+ 
+ 
+ 
+ 
+ 
+ N R Ravikrishnan 
+ General Counsel, Chief Compliance Officer  
+ & Company Secretary 
+
+Page 1 of 24 
+ 
+ 
+ 
+“Tejas Networks Limited Q4 FY2022 
+Earnings Conference Call” 
+ 
+April 22, 2022 
+ 
+  
+ 
+ 
+ 
+ANALYST: 
+MR. BHUPENDRA TIWARY - ICCI SECURITIES LTD. 
+ 
+MANAGEMENT: MR. SANJAY NAYAK – CHIEF EXECUTIVE OFFICER & 
+MANAGING DIRECTOR - TEJAS NETWORKS LIMITED 
+MR. ARNOB ROY – CHIEF OPERATING OFFICER & 
+WHOLE TIME DIRECTOR - TEJAS NETWORKS LIMITED 
+MR. VENKATESH GADIYAR – CHIEF FINANCIAL 
+OFFICER - TEJAS NETWORKS LIMITED 
+DR. KUMAR N. SIVARAJAN – CHIEF TECHNOLOGY 
+OFFICER - TEJAS NETWORKS LIMITED 
+ 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 2 of 24 
+Moderator: 
+Ladies and gentlemen, good day and welcome to Tejas Networks Q4 & FY2022 Results 
+Conference Call, hosted by ICICI Securities Limited. As a reminder, all participant lines 
+will be in the listen-only mode and there will be an opportunity for you to ask questions 
+after the presentation concludes. Should you need assistance during the conference call, 
+please signal an operator by pressing “*” then “0” on your touchtone phone. Please note 
+that this conference is being recorded. I now hand the conference over to Mr. Bhupendra 
+Tiwary from ICICI Securities Limited. Thank you and over to you, Mr. Tiwary! 
+Bhupendra Tiwary: 
+Good evening everyone. On behalf of ICICI Securities, we welcome you to Q4 & FY2022 
+results conference call of Tejas Networks. We also thank the management for giving us this 
+opportunity. From the management we have Mr. Sanjay Nayak, who is CEO & MD; Mr. 
+Arnob Roy, who is COO & Whole Time Director; Mr. Venkatesh Gadiyar, CFO; and Dr. 
+Kumar Sivarajan, who is CTO. Without much ado I will give it to the management. Over to 
+you, Sanjay. 
+Sanjay Nayak: 
+Thank you Bhupendra, and welcome everybody to our earnings call. We had uploaded the 
+presentation on our website the one which I am going to be walking through. Earlier in the 
+evening we had also released our results for Q4, so I am assuming you have had a chance to 
+at least have a preliminary look at the same. Over the next half an hour or so we will give 
+you a little bit more color on the results and the state of the business. 
+ 
+I am on slide number one, which is the key updates for Q4. At the outset as I had mentioned 
+in my press release we are disappointed with our Q4 performance because while we had a 
+lot of orders, we have a lot of customer wins because of the global supply chain shortages, 
+we could not deliver as much revenue that we had originally planned for despite the best 
+effort that the company and the management team could do, but that is something which of 
+course we are not very happy about, but it is what it is. 
+ 
+Having said that in terms of the Q4 numbers, our net revenue for Q4 of 127 Crores and for 
+the entire financial year it was 551 Crores, which is a year-on-year increase of just around 
+6.9%. We had a loss in Q4 of 50 Crores including some onetime item which Venkatesh will 
+talk about later, and for FY2022 we had a loss of 63 Crores. Cash and cash equivalents are 
+at 1102 Crores, and of course we have no debt. Clearly we saw a margin pressure due to 
+increase in component cost, semiconductor components have increased in a price at 
+worldwide, and we could not pass on all of it to our customers, so as a result we did have a 
+dip in our margins as well. 
+ 
+In terms of the way our business as many of you know is that our manpower cost are almost 
+fixed, so if the revenue comes down, we are on the certain thresholds, we do not have the 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 3 of 24 
+corresponding way to absorb the manpower cost, so that is why the financial performance 
+does dip quite a bit with a decline in revenues. 
+ 
+In terms of the overall sales update this is where things are actually going quite well. Our 
+Q4 booking which is new order wins for 316 Crores and our total order book has increased 
+to 1175 Crores which is a year-on-year increase of 73%. So this is the new business that we 
+have won during the year and these are the purchase orders that we have in hand. In 
+addition to these purchase orders as we always do we will always have run rate business 
+from existing customers and in this particular case, there is also a potentially large order 
+from BSNL via our system integration partner that we have not counted as yet because it is 
+not yet come into our books. 
+ 
+The second thing I would like to highlight is that our 4G RAN, which is the 4G base 
+stations have successfully completed the BSNL’s Proof-of-Concept testing of the 
+indigenous front stack which is the front-ended by our system integration partner, and our 
+products have also been cleared for commercial deployments for which we are now 
+awaiting the orders. This I think is a matter of great pride for the company as well as for the 
+country that in a record period of time we were able to create a completely indigenous base 
+station and it has passed all the testing criteria in the field trial and Proof-of-Concept which 
+was held over a period of nine months. So I think this is a very good start because it can 
+potentially give us very large orders in the wireless 4G to begin with and then of course 
+upgrades for future technology as well. 
+ 
+The other thing I would like to mention is that our entire product portfolio has been 
+approved as a trusted product by Government of India, they have a rigorous process for 
+doing that, and all our products have been approved. 
+ 
+International business was weak in Q4 primarily because of supply chain constraints, 
+international orders, and run rate orders usually commit on the shorter lead time and of 
+course we could not supply those orders and as a result lot of that has gone with the 
+backlog. 
+ 
+In terms of the supply chain update which has really had a big hit on our quarterly 
+performance, I can pretty much clearly say that the shortfall was on account of component 
+shortages, which we could not fulfill our customer orders and ship complete systems. As I 
+mentioned I think in the earlier call also we have more than 1000 unique components and 
+even if a few components do not come our entire systems get choked out. During the year 
+we had anticipated this supply chain shortage and the high value components where we call 
+them the class A components we had already covered for, but during the year the class B 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 4 of 24 
+and class C components which are smaller components which hardly cost anything those 
+also became in short supply and our inability to get all of them in time basically resulted in 
+us not being able to manufacture those system and ship it despite having a very strong order 
+book and customer wins. 
+ 
+What are we doing now, we have already placed orders for our entire FY2023 requirements 
+which is more than 12 month ahead of time and we have a fairly large funnel of business 
+that we have won both in the form of order book in the form of run rate customer where we 
+have visibility and also in the form of some of the larger orders we can potentially expect 
+and to cover for that we have already taken inventory actions as of date already so we are 
+confident that as the year progresses we should be able to recover the lost revenue that we 
+have from last year and also to be able to grow our revenues quite significantly in this 
+financial year. I would also like to say that we have not lost any business, we have been 
+working closely with the customers and all the critical requirements of the customers were 
+fulfilled. Whatever we could not fulfill over the next few quarters we will be able to supply 
+to our customers we could have won more business if we could have supplied in time, but 
+since we could not, some of the run rate customers held back some of the orders, but despite 
+that I believe that we could get our order book going but clearly as I said earlier the 
+financial results are something that from a revenue perspective we are not very happy about 
+it. 
+ 
+I am on next slide, some other corporate updates, which are important, which I would like 
+to share with you. First today in our board meeting the board has appointed Mr. N. 
+Ganapathy Subramaniam as Non-Executive Chairman of the Board effective May 18, 2022 
+and Mr. V. Balakrishnan, who was so far non-Executive Chairman of the Board, has 
+decided to step-down with effect from Apr 23, 2022 which is tomorrow, and the Board 
+unanimously expressed our deep appreciation and admiration for the skillful manner in 
+which Bala steered and positioned the company in its journey from a startup to India’s first, 
+listed deep-technology telecom product company. So with NGS coming in as a Chairman of 
+the Board we are also very excited because he has the experience of taking a company up in 
+size like TCS and getting into global markets with him at the helm really gives us a very 
+good positive way forward as well. 
+ 
+Some of you would have attended the call on March 31, 2022 when we had announced the 
+acquisition of Saankhya Labs and that will enhance our wireless product offering, it will 
+bring in a strong domain expertise and IPR in wireless communication in 5G, in Broadcast, 
+as well as Satellite communication and as I said earlier Saankhya Labs will be 
+complementary in terms of product technology areas and customer based. 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 5 of 24 
+ 
+The third thing I wanted to announce was, which again on April 8, 2022, Panatone Finvest 
+Limited a subsidiary of Tata Sons exercised their Series-A warrants and their shareholding 
+has now increased in the company to 52.45% and the requisite number of equity shares 
+were allotted to them as per the agreement that we had. Now we are a 52.45% owned by 
+Panatone Finvest. 
+ 
+The last I think our product TJ1600 family of product won the Innovation Excellence 
+Award from Voice & Data Magazine. This is our flagship DWDM/OTN platform and it 
+tells a lot about the competitiveness of our high-end products in the optical transport 
+segment. Of course ET Telecom selected Tejas CEO and Tejas CTO in the same year for 
+CEO and CTO of the Year awards. We were granted 3 patents in Q4 taking the total granted 
+patents to 137 and have filed 350 global patents. We have also received the ISO 2700-1 
+certification which is the Information Security Management especially in today’s time when 
+cybersecurity issues are very critical so it was very important of our company to be able to 
+get this certification. 
+ 
+So that is really a quick summary of all the things which are happening in the company 
+from a business as well as sales angle. 
+ 
+I will dive a little bit more in to the sales and the other stuff in a few slides, but I would 
+request Venkatesh our CFO to walk us through the next couple of slides on the finance side 
+so that you get a complete picture of the results as well. 
+Venkatesh Gadiyar: 
+Thank you Sanjay. I am in the slide of Q4 and FY2022 financials. Net revenues for Q4 
+2022 was 126.5 Crores, which we saw a decline of 37.2% on a year-on-year basis. EBIT 
+loss of 110 Crores for the quarter and PBT loss of 95.9 Crores and a PAT loss of 49.6 
+Crores and an EPS of -4.34 per share. Similarly, for FY2022 the net revenues were 550.6 
+Crores which saw a year-on-year growth of 6.9%. EBIT loss of 157.2 Crores and PBT loss 
+of 117.1 Crores and a PAT loss of 62.7 and an EPS loss for the entire year is -5.97. 
+Basically the loss has happened for the multiple reasons, one is there was a gross margin 
+pressure in the entire year. In Q4 particularly our international revenue was weak, basically 
+international revenue comes with the higher material margin. Also, the gross margin were 
+under pressure due to material cost have been increased on a year-on-year basis with the 
+700 basis points due to the increase in the component cost. Costs have significantly 
+increased but however we were not able to pass the entire increase in the component cost to 
+the customers that is how we may have to bare that some point of time the cost. 
+ 
+Secondly as Sanjay has mentioned the expense structure of our side of the company where 
+the most of the costs are fixed in nature, such costs were not able to absorb in the revenue 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 6 of 24 
+what we have done so far hence it has resulted into the loss as well and the third point 
+during the quarter ended March 31, 2022 we have assessed recoverability of our overdue 
+trade receivables from BSNL which is one of the public sector customer and in view of the 
+delayed collections we have made a additional provision of around 67 Crores towards such 
+receivables which were held about more than three years which is a onetime kind of a 
+provision that we have made on the receivables, however, we are confident that we are able 
+to collect the money in the coming quarter in this financial year. 
+ 
+Key Financial Indicators: The cash flow from operations, cash outflow of 49 Crores in Q4 
+and the networth has decreased to 1593 Crores from 1636 Crores. Inventory has slightly 
+gone up from 271 Crores to 278 Crores basically due to the critical component shortage and 
+there was a imbalance in the inventory what we are suppose to get in hence there is a 
+increase in the inventory as at March 31, 2022 and after making a onetime provision of 
+ECL 67 Crores in the ECL for the trade receivable, the receivable position as of March 31, 
+2022 net receivable has come down to 292 Crores as against Q3 balance of 358 Crores 
+however we have collected around 695 Crores in the FY2022 towards the receivable 
+collections and in Q4 we have collected about 165 Crores and the net working capital has 
+slightly increased by 18 Crores which is primarily due to the increase in the inventory level. 
+The cash and equivalents as of March 31, 2022 has been decreased to 1102 Crores and we 
+continue to be a debt free company and I believe with this strong cash in our balance sheet, 
+we can be able to invest in the business opportunities which are lying ahead of us. Sanjay 
+over to you. 
+Sanjay Nayak: 
+Thank you Venkatesh. I am on the next slide now, FY2022 sales updates. So, we have been 
+sharing these pie charts in terms of how the business has been across the key segments that 
+we track India Government, India Private, and International. If you see the chart on the 
+right-hand side which is the FY2022 numbers and the chart on the left-hand side is the 
+FY2021 corresponding numbers. So if you really see that on an absolute basis India Private 
+has grown from 224 Crores to around 257 Crores, International has been almost flat at 
+around 200 Crores versus 205 Crores and in the government business has slightly gone up 
+from 86 to 94 Crores. If I look at the overall run rate business between India Private and 
+International it contributed to 83% of FY2022 which is almost the same in FY2021 which 
+basically means that our existing customers continue to give around 83% of the revenues 
+each year which is a good sign. The government was for the entire year 17% of the 
+revenues which grew as I said by 8.7%. In addition, I think there were lots of orders that we 
+have won during the current financial year which have gone to our backlog especially in the 
+critical infrastructure segment railways, oil, gas, power, smart city, safe cities and so on, 
+and even going forward for next fiscal year in terms of tenders that we have already won or 
+business that is already lined up for example the BSNL 4G business. We see a very healthy 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 7 of 24 
+pipeline of new business in the India government sector. On the India private side, it was 
+really 47% of the total revenues and year-on-year growth of 15%. In addition to the revenue 
+growth we also saw very strong booking growth so this is a segment which has come up 
+extremely well, we have now two segments within India private the Telco customers as 
+well as the System Integration customers and both of them did quite well during the year. 
+International as a total percentage of revenues came down to 36% compared to 40% in 
+FY2021. In the next slide I will drill down in terms of which territories did well and which 
+did not but as an overall percentage for the year it was down and as Venkatesh mentioned 
+earlier for Q4 international was 16% of total and that is what partly also contributed to the 
+margin pressure. One thing again the run rate business typically comes with a shorter lead 
+time because customers expect the orders to be delivered within a short period of time and 
+because of the inventory supply situation some of the run rate customer order that we got 
+later in the year could not be serviced which will get serviced now in Q1 and Q2. In terms 
+of closing backlog of 1175 Crores if I were to give the breakup India backlog is around 992 
+Crores and international backlog is around 183 Crores and out of the total backlog of 
+around 1175 Crores we expect around 70% of that to be executed in the FY2023 which is 
+the new fiscal year. Other than that I would now go to the next slide with which a little bit 
+further commentary on each of the regions in terms of the sales update. 
+ 
+India private we were selected a multiple Telco’s from metro DWDM suppliers for capacity 
+upgrade for impending 5G backhaul as well as business to business services. We were also 
+selected for FTTX deployments which is the OLT’s or the headend equipment what we 
+supply and also for ONTs by one of the large customers. Lot of wins also in the ISP 
+segments especially for FTTX and one large ISP was also building a large backbone 
+network in the cities also has got a 400G DWDM system from us and we have got an order 
+from that customer during this current year. And many system integrator led wins for our 
+switches in Smart Cities, Safe Cities, campus and some of the banking applications where 
+the automation or connectorization of networking of the banks was the application that we 
+also won. On the India government side we won a tender in BSNL for WDM and MTNL 
+for GPON both large size tenders. And we also successfully completed the proof of concept 
+for the 4G BSNL tender which as you would have been reading in the press has a very large 
+potential over the next 24 months. We also got lots of new orders from power, rail, oil and 
+gas segments where we won almost all the business that was to be won out there. On an 
+overall basis if I were to look at there were lots of positive tailwinds from the Atma Nirbhar 
+policies of Government of India especially in the telecom sector. India is trying to make 
+sure that telecom being a security-sensitive area we want to be self-sufficient andthe push to 
+create a completely indigenous wireless stack for 4G and which will be upgraded to 5G in 
+future is one of such schemes. And we are very proud and happy that we are a part of that 
+stack and our radio access network of the base station has actually passed all the testing and 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 8 of 24 
+now we are all lined up for getting commercial orders both for this year as well as next year. 
+We are also approved for the PLI schemes and we have been meeting our criteria for the 
+PLI investments so we do believe that we should start gaining from that scheme as time 
+goes by, and already talked about the other things on the India side. Africa and Middle East 
+actually continue to do very well and we have a large run rate customers who is now 
+actually one customer has already crossed a $10 million run rate per year which is a very 
+good thing and it has been a successful year in which the customer had crossed that our 
+WDM, OTN products are being used to build high capacity backbone network for all the 
+web scale companies who are pumping in a lot of bandwidth into Africa. And again we 
+have got multiple new order wins for West Africa for large Tier I customers and overall I 
+would say Africa is doing well and we expect that with our referral customer base and all 
+that we should continue to well in the next fiscal year, a lot of the business from Africa is 
+on a run rate basis so as the year progresses we should see a good order flow as well from 
+Africa. South East Asia was the one which underperformed this year we had one large 
+customer from whom we typically get year-on-year orders which we did not get in this 
+financial year but we do expect that going forward we should be able to recover that as 
+well. But on an overall basis South East Asia did not do very well. We already strengthened 
+some of the sales in the South East Asia and hopefully we should see better results in the 
+coming year. In the Americas, in the US we signed a Tier I global OEM customer for our 
+MSPP product these are our older generation products but still very relevant in many, many 
+segments and we got large orders for that. Mexico was a little bit weak, the US direct which 
+we have been trying to work last one, one and a half years has not given us as much success 
+as we would have liked. So I would still say that it has been underperforming but we will, 
+especially with the Tata Group involvement, hope to come out with a little bit better 
+strategy for attacking the American market and particularly Tier I markets in both US and 
+Europe and ANZ going forward. Europe we had started investing last year very happy to 
+announce that we won a multimillion dollar FTTX private to the home deal with a new 
+operator in Italy. It is a FTTX and WDM win and we believe that once we start executing 
+on the product there will be opportunity for multiple such engagements from the same 
+group across Europe as well. Again Europe is one area where there is a lot of Chinese 
+replacement happening in terms of equipment that has been deployed and if we have the 
+right channels and the right sales team in place which we hope to build up during the year. I 
+am not so sure how much it will be in the current financial year but definitely between this 
+and next year we should start seeing ramp up in Europe as well. Overall I would say 
+international last year was not as good as we would have liked it to be but lots of things are 
+in play and we hope that with all the work that will put together we should see a better 
+performance both in terms of bookings and revenues across India and international. I mean 
+again just to reiterate we won a lot of orders in all these regions. We just could not execute 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 9 of 24 
+them in the previous financial year and we hope to do that as we start this new financial 
+year. 
+ 
+I would go to the next slide which is the slide I have used in the last time that I spoke to you 
+at the after the Saankhya deal but just to quickly summarize for some of you who may not 
+have been there so clearly the strategy for us now is to create a global scale telecom product 
+company from India and our ambition is very large. We are now fully part of the Tata 
+Group this is something that is very, very important and I am very happy to say that there 
+are four pillars of the strategy. First is really to create world-class products for building into 
+telecom networks. On the optical and wireline side most of our products are almost there 
+and if for certain markets additional investments are needed to really make them world-
+class and really expand in that market those are the things we will be doing. Wireless 
+products we have again made a huge amount of progress especially with the BSNL POC 
+and we are confident that with all the momentum that we have and the kind of the results 
+we have been able to bring in a short period of 18 months very soon we will again have an 
+extremely competitive portfolio of wireless products as well. And to do that as you all know 
+the job market and our focus is to really boost our talent base. And really also look at 
+inorganic growth and Saankhya Labs acquisition was one such strategy and we will of 
+course continue to look at other options as and when they present because we do have the 
+capacity to look at inorganic growth as well. Second we have to use India’s large home 
+markets to get anchor deals for economies of scale. It could be a pan India roll out of a 
+particular kind of network and we do believe that, that has been the recipe for success for 
+any other global telecom OEM in the world no matter which country they came from they 
+always have a large home market a large anchor deal along which they could scale up a new 
+product or a new business line and we expect to do the same as well. India is going through 
+a five year Capex spend cycle especially because of 5G which will come in and also the 
+fiber broadband roll out I think there is still a lot to be done. And even for 5G unless we 
+have a strong fiber connectivity through the base station you will not get a good 5G 
+experience. So any which way we look at it either from a wireline business or a wireless 
+business now which we have both we do believe that India will be an important market for 
+us and especially with the Atma Nirbhar mission we clearly believe that we are the 
+frontrunners to play a key role in this. And the combination of wireline and now wireless 
+technology and the large home market should be a good way for us to scale up and get to 
+economies of scale. Expanding international business is very, very crucial for us we have 
+had good success so far last year  but a little bit of an aberration where we could not do as 
+well in international as we would like to but going forward I think with the Tata brand 
+strength and synergies with other group companies and the relationship that exist we 
+believe in the markets where we currently are which is emerging markets as well as the new 
+markets that we can be US, EU, and ANZ Australia, New Zealand we do believe that there 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 10 of 24 
+are lots of opportunities to expand. And the last but not the least we will be focusing in 
+building a global scale supply chain operations we have had a lot of learnings and lessons 
+because of the challenges that we have in the supply chain worldwide. All I can say is as a 
+team we have come out stronger understanding the nuances of what it takes to really 
+navigate to this how long ahead do we need to look at in terms of ordering components and 
+they really planning and I think as I said earlier we have taken all the actions that are 
+required for achieving our FY2023 revenues which as you can pretty much imagine will be 
+a significant growth compared to what we did in FY2022. And in addition we also have to 
+build a strong backend for technical support, field deployments, both for wireline as well as 
+wireless and these are the four areas that we will be investing going forward. The next slide 
+is the same product slide that I have been using for the last few calls but just to give a 
+perspective we have the transport product from the wirelines which have been there we 
+have added 4G now with the BSNL POC that we talked about 5G will be upgrade on the 
+same system as well as with the Saankhya Labs we get both the O-RAN architecture as well 
+as the traditional architecture for 5G so we have our hands quite full in terms of having our 
+product portfolio that needs a very large addressable market. If you see the things on the 
+right hand side I mean there is a lot of business to be won, the numbers are very large, wire 
+line equipment in India for what we do is around $1 billion right now going to close to $1.7 
+billion in the next four, five years, globally it is around $15 billion going to $32 billion on 
+the wireless side for the product that we are doing which is the radio access network the 
+base stations today there is again a very large market in India going to around $4.5 billion in 
+the next few years and globally of course it is a $30 billion market. So I think it is a large 
+market that we are playing the time is increasing because of our product portfolio is going 
+to be expanding so we have aligned with all the products that we are going to be investing 
+in this year and those will start giving that opportunity to us. So I think for us the challenge 
+is not that we do not have enough products and the markets that we can sell to is large the 
+challenge for us is really to make sure that our products are world-class and secondly 
+building up a very strong sales channel to be able to sell these products not just in India but 
+around the world.  
+ 
+I am on the last slide after which I will take questions. So what we see in FY2023 going 
+forward clearly there are opportunities for very significant revenue growth the fact that our 
+order book is 1175 Crores out of which 70% is ready for revenues in FY2023 and on top of 
+that we have a visible pipeline of new orders from run rate customers as well as for the 4G 
+for BSNL and others which we have not yet factored in. I think we will have a fairly strong 
+funnel of potential revenues that we can do in the next financial year India revenues are 
+likely to be very strong because of the momentum that we have been having and it is likely 
+that India will be a higher percentage of our total revenues compared to even this year. So 
+this year India was 64% and 36% was international. I expect that at least because of larger 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 11 of 24 
+deals happening in India while international we expect still to grow on an absolute basis but 
+because India will be growing faster we expect India revenues to be a higher percentage 
+contribution. And beyond emerging markets on the international side we do have plans to 
+expand our international sales in US, Europe, Australia and New Zealand leveraging 
+synergies across Tata Group as well. And as I mentioned since it is very important we have 
+already taken advance inventory action to secure inventory for our planned FY2023 
+revenues. In terms of the investment side as you saw the last picture we are really now 
+thinking that we should be creating a very large company over the next three years for that 
+this is the year where you want to really ramp up in a lot of areas where we think a 
+significant heavy lifting which we done so minimum investment will be in manpower cost, 
+in R&D, in manufacturing as well as in sales and in R&D a lot of investments will be in 
+wireless products which will further be augmented by the addition of the Saankhya team 
+which we think should be on-boarded by the time we start Q2 because by the time the 
+closure of the 65% of the share that Saankhya should be done. As I said we will also be 
+scaling up our manufacturing operations to deliver global scale volumes the amount of 
+business potentially which can come into the company over the next 12 to 24 months can be 
+large and just need to make sure that we are well setup to do that and last but definitely not 
+the least to do all of that our balance sheet is strong we have a very strong cash position as 
+on date after the conversion of warrants we are close to 1800 Crores of cash in the bank and 
+we really have the balance sheet to deliver sustainable high growth for years to come. So 
+again just to summarize FY2022 very good in terms of order wins and progress in the 
+business but very disappointing in terms of the revenues and if the revenues fell short 
+naturally because of the cost structure we had a loss but we understand what things did not 
+go right as you would have liked it to be and those lessons have been carried forward for 
+FY2023 and we are confident that looking forward should be exciting times for the 
+company. I would pause here and then we will open up the queue for questions. Thank you.  
+Moderator: 
+Thank you very much. We will now begin the question and answer session. The first 
+question is from the line of Tushar from Ratnabali Securities Pvt. Ltd. Please go ahead. 
+Tushar: 
+Hi! Good evening Sir. Sir, could you please shed some light on the operations of Saankhya 
+like what are the main products and customers because I believe Saankhya seems to have 
+some existing use case and deployment in defence and infrastructure product. So are they 
+prospective focus at this for us and going forward and my second question is on your 
+manufacturing operation side. Could you please elaborate a bit on what is our situation with 
+our EMS vendor do we have vendor concentration and what are our plans in scaling up our 
+manufacturing operations per se. 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 12 of 24 
+Sanjay Nayak: 
+Good question, let me start the second one first because that is a live problem that we are 
+dealing with. So we do have a two EMS vendors at this point in time and given the volume 
+of business that we are anticipating in the times to come we will be expanding our EMS 
+base and finding out what is the best way to scale up our manufacturing. Our strategy will 
+still be asset light which is that all the heavy lifting and the large Capex would be done by 
+our EMS partner and the final assembly and test would be done in-house. So we are in 
+already in conversations advanced stage of conversation with multiple EMS vendors of 
+good scale who have the capacity, quality as well as cost competitiveness to meet our 
+things. So I am very confident that before the end of this quarter our expansion of 
+manufacturing capacity would be in place. Coming back to your first question in terms of 
+what the Saankhya Labs brings to us we had discussed the synergies of Saankhya Labs in 
+the detailed call which we had on March 31, 2022 and actually there is a presentation on our 
+website that gives you more details, but to summarize as you rightly said what Saankhya 
+brings to us is complementary so a) they are doing 5G O-RAN which is the Open RAN 
+which is the open architecture based 5G and they are in  advanced stage of product 
+development etc., etc. Second we are also doing broadcast, 5G broadcast, so 5G one of the 
+use cases is broadcast and one of their partners and large investor was Sinclair Broadcasting 
+Corporation which is one of the largest TV broadcaster in the US and in the world. So there 
+is a lot of development that they have around 5G broadcast and in addition they had satellite 
+communication products which were used by defence and even for some of the critical 
+infrastructure. So net, net once Saankhya comes onboard after, I will say by the end of Q1 
+we expect to close the deal as of now we just are in the process of completing all the 
+formalities, but once that happens we would potentially look at some of the segments that 
+they have and if we can accelerate there. But my thinking is from Saankhya perspective is 
+that lots of the synergies may not be happening continuously as we worked in the year we 
+will be able to figure out what things can be done together and how we can scale up more 
+application areas together. 
+Tushar: 
+Just a follow up question, could you just delve a bit deeper into what are the main products 
+and customers of Saankhya just like the presentation was self explanatory but just a deep 
+dive. 
+Sanjay Nayak: 
+Yes, so I think one was as I said there have been a co-development partner for O-RAN, 
+large O-RAN opportunity in India which one of the system integration partners of ours has 
+also announced with a leading operator. So they will be developing the 5G radios if we 
+were to think of 5G base stations are equivalent. They also have a 5G broadcast product 
+what that basically means just think about it that in the earlier days when you will say as a 
+TV which used to be being from a terrestrial base tower that spectrum can be potentially 
+reused for some of the 5G application for instance and that is called the 5G broadcast. And 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 13 of 24 
+then they have some product based on their chip set that they are designed for satellite 
+communication. So you could receive the signal from the satellite on a station and then 
+distribute that to those devices so those are the three product lines that they have in addition 
+to their own chip which was designed by them. A fabulous semiconductor chip which was 
+used in some of those their own products and that chip is called software defined radio chip 
+so it is basically a chip it can be reprogrammed by software to operate in different kind of 
+frequency bands and so on. 
+Tushar: 
+Thank you for the explanation. 
+Moderator: 
+Thank you. The next question is from the line of Sangam Iyer from Consilium Investment 
+Management. Please go ahead. 
+Sangam Iyer: 
+Couple of questions, first when we talk about 70% of our order book getting executed could 
+you also touch upon the inventory that we are carrying that gives us the visibility of 
+execution of that 70% by the end of this year. 
+Sanjay Nayak: 
+Yes, first of all, all the inventory that we are carrying is think of it is all inventory available 
+but not in a perfectly balanced form. So what would happen is we will continue to deplete 
+the existing inventory while we continue to buy new inventory to balance the things. So the 
+way to think of is that assuming that 12 months was the lead time for the longest 
+components that we have. So we make sure that by early this calendar year we placed 
+orders for all the revenues that we expected to do during FY2022 and when we have placed 
+orders except that we just could not get those components in time so as a result of the 
+inventory that we have in hand and firm orders that we have placed on our component 
+suppliers as well as the EMS partners covered for all the 70% of the backlog that we have 
+and not only that there is significant more revenues that we can potentially get from our run 
+rate customers from whom we have forecast so even again that forecast we have placed 
+confirmed orders on our supplier. And in addition for the large 4G opportunity at least for 
+some initial quantities also we have placed confirmed orders so when we look at all the 
+three together we believe that since we took advance inventory action more than 12 months 
+ahead of when we needed. For a large part as the year progresses we should be able to get 
+that inventory besides delays from our supplier. So I hope that answers your question. 
+Sangam Iyer: 
+So then to look at the cost side given the fact that they get the escalation and the order 
+backlog that we have built up is over the past six months so how should one look at the 
+gross margin profile now I mean given the fact that the costs have all moved up 30%, 40%, 
+50% while the order wins were based on a certain pricing. So can you touch up on that in 
+terms of how should one look at the gross margin profile here? 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 14 of 24 
+Sanjay Nayak: 
+As we said on the first slide itself clearly there will be some margin pressure with the 
+supply chain constraint because in one sense because of the component shortages it actually 
+becomes a little bit of a seller’s market that we want the component, they increase the price, 
+there are spot purchases going on. So I think at this stage I would say that margin pressure 
+will be there for the next couple of quarters. Secondly I would say is that to the extent 
+where we could have increased prices with our customers we have done it so when the rate 
+contracts were renewed which we typically do now in the beginning of the year or end of 
+last fiscal year we have been able to pass on the cost increases to our customers whenever 
+we bid new in a tender for example we pass on the increase cost but the tender that for 
+example we would have bid at the beginning of last fiscal year naturally we would have bid 
+based on the earlier price and that price is locked. So net, net I would say it is fair to say that 
+for the next two quarters there will be margin pressure and our focus will be to actually 
+secure the components, do the supplies and yes it is a transitory thing that is going on in the 
+industry, but this is something we just have a way to deal with it and wherever we can 
+increase price we are doing it, but headline level I would say there will be some margin 
+pressure for sure. 
+Sangam Iyer: 
+And a follow up finally in terms of the guidance that we are doing kind of indicate clearly 
+that the run rate of 200 Crores that has been something that illusive for us for quite some 
+time I mean we have been not consistent into run rate because of various reasons, how 
+should one look at this I mean do we see that this year definitely there will be multiple 
+quarters where if components are available based on the booking that we have done that 200 
+Crores run rate is something yet have to stay for from Tejas perspective and incrementally 
+that is where we build beyond. 
+Sanjay Nayak: 
+Certainly I think if I look at the fact that as I said the backlog alone if you do the math 
+would come to a run rate that we have mentioned so we do believe that run rate we should 
+be able to achieve at the soonest and then actually to be able to build up on that and 
+accelerate as the year progresses. So that is exactly the purpose and in fact we are investing 
+with that in mind that there is a lot of business that we have won there is a lot of business 
+we will win and it is important that we fulfill the run rate of the revenues as well. Because 
+there is no point if we are winning orders but cannot complete and fulfill it to the customers. 
+So yes we expect them to happen sooner than later is all I can say. 
+Sangam Iyer: 
+Great thanks a lot and all the best. 
+Moderator: 
+Thank you very much. The next question is from the line of Moorthy Ram, an individual 
+investor. Please go ahead. 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 15 of 24 
+Moorthy Ram: 
+Good evening Sir, thank you for providing me the opportunity to ask some questions. I have 
+two questions. Just now you mentioned that the company has won a multimillion dollar deal 
+in Europe with regarding through FTTX and WDM. Can you please provide some detail 
+regarding this? 
+Sanjay Nayak: 
+Yes, so it is a customer in EU and they are building a network to service high-end enterprise 
+customers with FTTX technologies such as factories or lots of offices or businesses which 
+are not connected. It is not a residential broadband play and that is why they need a DWDM 
+backbone to backhaul those high capacity customers. So I think it is a very nice win which 
+we have had and that also proves a good beachhead for hopefully getting more of such 
+wins. So again I mean we cannot name the customer for confidentiality reasons. We have 
+not yet delivered the revenues we just got the booking which is we got the order and we 
+expect to deliver that customer order in this quarter itself because it was a forecasted win 
+that we were planning for. 
+Moorthy Ram: 
+Sir even what is the value of the order if possible. 
+Sanjay Nayak: 
+Again I mean at this stage we have not disclosed the customer or the order value but all I 
+can say it is a good initial order and it is a run rate customer so as he builds up more and 
+more network and expands into more and more cities and more and more countries (because 
+it is a multi-country potential opportunity) we hope to benefit from it. But as I said we just 
+got the initial order in Q4 we expect to get revenues out of it in this quarter and hopefully 
+build on top of it from here on. 
+Moorthy Ram: 
+Another question with the huge reserve in our hand is there any acquisition I the process the 
+company is on. 
+Sanjay Nayak: 
+Any acquisition in the process, so yes just a few weeks back we acquired Saankhya Labs 
+for a reasonably sizable amount. And as I mentioned as a part of the overall strategy we will 
+continue to of course invest organically because we feel that the foundation of the company 
+should be very strong in terms of manpower in terms of team in terms of technology 
+strength but at the same time if there are opportunities for inorganic growth either in India 
+or outside which are complementary to us we can definitely look at them positively as well. 
+Moorthy Ram: 
+One final question regarding Saankhya Labs when we can expect the revenue addition from 
+Saankhya Labs Q3, can we expect FY2023. 
+Sanjay Nayak: 
+I would say that if the acquisition closes as per plan Q2 onwards will be the effective date 
+for consolidation of accounts from what I gather so that I think we will again come back as 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 16 of 24 
+soon as we are closer to that but tentatively I think Q2 onwards some of the revenues from 
+Saankhya Labs will start accruing to us. 
+Moorthy Ram: 
+Thanks a lot for a detailed answer. I am a pretty confident that the company will have a rock 
+star FY2023. Thanks a lot. 
+Moderator: 
+Thank you. The next question is from the line of Pranav Kshatriya from Edelweiss 
+Financial Services. Please go ahead. 
+Pranav Kshatriya: 
+Thank you so much for the opportunity. My first question is regarding this impressive order 
+booking what we have got so can you just give some more color on that how much is from 
+the optical product is there is any contribution from the 4G product and how much is from 
+the government side and how much is from the private sector side. 
+Sanjay Nayak: 
+First of all almost all the order is still wire lines so it is all optical and wire line product we 
+have not yet counted anything from wireless in a material way. Expect or we might have 
+done a small amount probably 2-3% would be wireless and everything else is really optical 
+product at this stage. Which also answers your second question which is that the 4G product 
+that we have built and lot of there is a news around it we have not yet counted that order 
+into the order book because formally the order has not yet come in our hands which we 
+expect to happen for the initial deployments and then of course the eventual deployment 
+which will be a nationwide deployment. So that is what it is in hand today. In terms of the 
+breakup between India Government I would say the highest order book actually more than 
+50% of the order book this year was from India private which is a very good thing. India 
+Government was around 20% of the order book and then the international was around 
+another 25% or something like that. So really the star performance I would say in terms of 
+order book as well as revenue this year was India private followed by the international 
+where some of the territories and not all the territories but with some territories did well. 
+South East Asia did not do very well and kind of dragged down the international on an 
+overall basis but really the revenue profile for the year was short and all the numbers are 
+distorted because of our inability to complete the orders. 
+Pranav Kshatriya: 
+That is really good to know the higher contribution from the private business. My second 
+question is on the margins, you did talk about that first few quarters will have a issue on the 
+gross margin side but I guess given you will be investing on the 4G product development 
+and creating for basically addressing other markets as well should we expect meaningful 
+jump in the wage bill and hence the significantly lower EBITDA margin than what we have 
+historically had. 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 17 of 24 
+Sanjay Nayak: 
+Let me step back because that will give you a better perspective so clearly if I look at this 
+year and it is important for us to make the right investment because we raise the money 
+from the investment from Tata Group primarily to ensure that we have enough capacity to 
+invest aggressively early on. So that over a three year period if I were to look at we should 
+literally be able to drive the business at a much faster pace than we have ever done before 
+and really try to become a global player in the next three to five years period itself. To do 
+that there is no other way out except to invest in to manpower and investing in R&D and 
+making all the products work that I mean to the best of what they need to be so that is one 
+area where the expenses will go up. On the other hand I also said that the margins a) 
+because of the global supply chain situation, b) because of the blend of customer, products, 
+will be under pressure so there will be slightly lower margins compared to our historical 
+margin profile but then again I think if I look at it from a big picture angle that is not 
+something that we would worry about this year. What we would like to do is to be able win 
+anchor customers which are global scale and if we can do that it sets up very well for 
+significantly increasing margins, profitability over a few year period. Because think about it 
+this way our costs are going to be the same whether we do revenue of 5x or 10x they will 
+only increase linearly in the proportion of our manpower but all the gross profits that accrue 
+regardless of the percentage margins would straight away go to the bottom line. So if we 
+can scale up the revenues in a big way make sure that we are investing to do the right things 
+in terms of product development market development and manufacturing as well then I 
+think we should be able to see all the results in the form of bottom line over a period of time 
+and that is really what we are lining up to do rather than optimizing it on a quarter-by-
+quarter basis. 
+Pranav Kshatriya: 
+That is very interesting, my last question is on the trade receivable side if I look at last two 
+years there is almost 100 Crores plus amount has been written off on the ECL and there is 
+still a fairly healthy almost Rs.300-odd Crores trade receivable so can you quantify I mean 
+if this ECL was not there I mean how much is the BSNL actual outstanding which is 
+recoverable from Tejas and what is the level of confidence you have for getting that money 
+back from them. 
+Sanjay Nayak: 
+Yes, so over 90 Crores of BSNL receivables which has been provided as a ECL/provision 
+that we have done we believe the recoverability is extremely high. In fact starting from this 
+quarter itself we should, I mean we have been by the way, continue to receive money from 
+BSNL so expect that once it crosses a three year boundary and we have a very high amount 
+of hygiene in terms of any receivables that has crossed this process of three year overdue 
+boundary. Either we provide for ECL or if it crosses the three year boundary we do this the 
+93 Crores of receivable from BSNL we expect that over this year itself and we should be 
+able to recover almost all of it if not all of it. But that is something which we are confident 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 18 of 24 
+because this is really no powers many of the sites were not there, there were payment issue 
+with BSNL as we all know and all supplies are facing that slack. Except that our board and 
+audit committee took a very prudent view that if the receivables has been delayed for some 
+time it is better to provide and if we actually recover the money during the year nobody is 
+going to complaint so yes, that is the situation there. We do not think the possibility in 
+terms of whether we will receive it or not is in doubt in our mind it will come except that 
+the timing has been a bit of a challenge for us to predict despite the best effort that we have 
+been making, our teams have really been doing everything they could to get the money out 
+but till it comes from that government customers you cannot be 100% sure. 
+Pranav Kshatriya: 
+Just a small clarification so this Rs.292 Crores trade receivable which is on the books now 
+the Rs.93 Crores what you talked about is part of this or 93 Crores is the ECL portion which 
+you are talking about. 
+Sanjay Nayak: 
+No, this is above 292 we will have 93 which will come in which is not showing in the 
+receivables. 
+Pranav Kshatriya: 
+Yes, so basically for next year if this money comes in this will be the write back portion and 
+hence to that extent EBITDA margin can be higher is that how it will work or… 
+Sanjay Nayak: 
+That is a reasonable comment. Yes. 
+Pranav Kshatriya: 
+Thank you so much that is it from my side really helpful. 
+Sanjay Nayak: 
+Thank you and that in addition to BSNL we really do not have any other sticky receivable 
+of any kind in that sense. 
+Moderator: 
+Thank you. We will move onto the next participant. The next question is from the line of 
+Mukul Garg from Motilal Oswal Financial Services. Please go ahead. 
+Mukul Garg: 
+Just a couple of clarification question. First the Q4 bookings of about 316 Crores which we 
+have done do they carry the updated pricing in terms of the chip cost which we are facing or 
+will there be some element of that which is based on older pricing. 
+Sanjay Nayak: 
+No, so this is booking this is just the orders in hand that the pure value of the customers so 
+it has nothing to do with the chip pricing I think when we execute those orders… 
+Mukul Garg: 
+Sorry, but is it fair to assume that majority of these bookings including the run rate contract 
+will be more recent discussions with customers and hence the price revisions would have 
+happened. 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 19 of 24 
+Sanjay Nayak: 
+I would say it would be a mixed bag because some of it could be tenders or projects that we 
+would have bid in, in say Q1, Q2, and then they fructify into orders in Q4 and some of it is 
+you are right new customer wins that we have had we would have priced them at the 
+increased price. And by the way going forward even for the run rate customer that we have 
+to the extent possible we will be increasing the price across the customer board wherever 
+there is an opportunity to have a fair conversation. And at least I can tell you all global 
+customers who have the view of the world including ours are fair and because all vendors of 
+theirs including our competitors have been considering to pass on the challenges to our 
+suppliers and to customers and they have been able to do that. So I think going forward run 
+rate customer will revise, some of the orders could be older price newer price is not exactly 
+clear. But as I mentioned in my answer to Pranav I think there will be some margin pressure 
+because the uncertainty in supply chain is still there I would not say we are out of the 
+woods. We have taken enough action to make sure that over the next few quarters we 
+should definitely get out of the wood but at any particular point in time there is always a 
+little bit amount of variability in this. For example, a supplier could have accepted their 
+order in January at a price x and then the supply time he says prices have increased I am 
+going to increase by x percentage I think those are all things were happening in the market 
+which I am sure all of us are and all our competitors are also exposed to. 
+Mukul Garg: 
+And secondly if you look at the constraints which you guys have because of this chip 
+supply shortage it has been kind of stalling your business for four quarters now a) in terms 
+of normalization how should we look at the run rate getting back to that 200 Crores is that 
+something which you think is already at a stage and can happen from next quarter itself or 
+do you think this will be little bit more heavily tilted towards the second half given that 
+there have been multiple push out from chip vendors in terms of supply and situation 
+continues to remain a little bit adverse so are we giving ahead of the worst of this scenario 
+or do you think it might continue for one or two more quarters before we take the full 
+benefit of all the orders which we have in hand. 
+Sanjay Nayak: 
+If I take 200 Crores as a baseline marker like someone else had said I think the worst is 
+behind us. So in that sense starting from this quarter onwards we can only see positively 
+going forward because think of it this Q3, Q4 both have not been very good for us and 
+things cannot be bad forever so I think we placed the orders, we placed class A, then class 
+B, C but at net, net I think that I would say those constraints are at least from our 
+perspective are now coming to close. So clearly I believe that the positivity in the order 
+inflow should start happening from the current quarter itself and naturally of course it will 
+accelerate in Q3, Q4. Because by that time lot of decongestion would happen and there is 
+also possibility worldwide around September onwards there could be a little bit of 
+relaxation of the constraint in the supply chain. The over ordering and over booking that 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 20 of 24 
+multiple companies have been doing could potentially get decongested once the clarity 
+comes so I would say that for the first half of the year based on the action that we have 
+taken in the last six months or nine months we should start seeing positive results. But the 
+second half of the year we have again have taken enough inventory actions and combination 
+of our action and combination of overall supply chain easing to some extent should help us 
+at least execute this year in a reasonable way from a revenue perspective. 
+Mukul Garg: 
+And just one related question in this is given that almost 200 Crores of a year orders in hand 
+are from the public sector space just in the taking abundance of caution given the 
+uncertainty on the supply side these tenders usually have a committed timeframe so is there 
+a requirement upon you to prioritize them when execution starts happening and supply 
+starts coming in because they are time bound which will require you to kind of delay your 
+focus on the international side or how should we think about that overall mix of India 
+versus international. 
+Sanjay Nayak: 
+First of all very good question in fact nobody asked that question but even though we did 
+only 550 Crores of revenue last year one of the challenge was to ensure that we prioritize 
+the inventory in such a way that customers where we have the 100% market share in 
+international markets who are dependent on us do not suffer and we continue to enjoy that 
+full market share and really their success. Customers in India where there were timeline and 
+liquidated damages we prioritized them so I think it was a careful balance of all of that and 
+it will continue. All I can say is that when we are picking up the new government orders or 
+whatever there are ways and means in which you can give your acceptance in a time period 
+so that you buy as much time you can but at the same time avoid any situation of liquidated 
+damages. So I would say so far despite the shortage of revenue that we dramatically had, we 
+could have done a lot more revenue last year if we had our components but we somehow 
+were able to prioritize different customers at different points in time as I mentioned earlier. 
+Also some of the run rate customers who have a shorter delivery time it is not a healthy 
+situation but you can always switch them out by a few weeks here and there so that is why 
+if you saw international are only 16% or 17% of Q4 which would have meant that we 
+prioritized some of Indian customers of the kind that we just mentioned higher to avoid the 
+critical situation. While we will go back and manage those international customers in this 
+quarter or vice versa it has been an extremely challenging situation but we have somehow 
+found a way to manage it so far and I am confident that with a little better supply situation 
+as we start the year we would ease into a better rhythm of execution as the year progresses. 
+Mukul Garg: 
+Great, thanks for answering the question and looking forward to FY2022. 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 21 of 24 
+Moderator: 
+Thank you. The next question is from the line of Subrata Sarkar from Mount Intra Finance. 
+Please go ahead. 
+Subrata Sarkar: 
+I have two, three questions, first is quick follow up question that within the Tata Group now 
+like Tejas has applied for PLI where Akashastha Technologies have applied for PLI and 
+Akashastha PLI is actually bigger in size so can you just differentiate what is the difference 
+between Akashastha and us like is the product difference area of difference like what 
+exactly is the difference. 
+Sanjay Nayak: 
+So we know about our PLI and I think we have adequate coverage and with all the changes 
+which are potentially expected in the design led PLI which also was announced in the 
+budget. I think we should be able to maximize the benefit from the PLI schemes as and 
+when we become eligible. About the other name that you have mentioned I am not aware of 
+the details of what they do, but clearly from a product perspective we have been developing 
+all the products which are eligible for PLI so I would not want to comment on the other 
+entity, but as far as we are concerned we have adequate headroom for maximizing the 
+benefit of PLI in our revenue growth as well as the investment profile. 
+Subrata Sarkar: 
+The second question is in terms of these BSNL deal basically so now this POC is approved 
+now what is the process like can you just explain us state forward and like how much which 
+state generally takes and ultimately it is like what is the total addressable market be for us 
+and similarly in this context now again Akashastha has also got like O-RAN so we need 
+help from our perspective since our O-RAN get accepted we need help from that 
+perspective that to getting any synergy or anything on that. 
+Sanjay Nayak: 
+First question about what is the progress so BSNL had floated a expression of interest as a 
+open tender to anybody who could demonstrate a successful end to end stack of base 
+stations, core, etc., etc. and out of four or five initial parties who had expressed that interest 
+only one consortium which is the TCS that consortium of which we are a part of was 
+successful in completing the POC. Others possibly did not even start the POC so once that 
+process has been completed as per the tender guidelines there is only one eligible potential 
+bidder who can execute their entire order. They would of course have to finalize the process 
+to give initial order, follow on order close the price etc., etc. and all of those processes are 
+being done as a part of standard government processes for large sellers. The opportunity for 
+us again the original expression of interest that was floated by BSNL was for the pan India 
+roll out of more than 100000 sites and the initial order which I read in the news papers was 
+6000 sites to begin with. And because all the other commercial discussions are going on 
+between BSNL and the front end system integrator so that said I would say the opportunity 
+is very large, time period of executing that opportunity will be between this and next 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 22 of 24 
+calendar year because from 4G then India is going to go to 5G so there will be opportunity 
+to get into that space as well. So I would say lot of that is work in progress and as we all 
+know with any government deal situation till we get the order in hand and till everything 
+happens we of course are well prepared to step up so we will still have to wait for all of 
+those things to actually work out in our favor. 
+Subrata Sarkar: 
+One last question it is more of a like just to understand our marketing side so now out of our 
+total order book could you explain our last year figure of how much we get from SI number 
+one and number two since we are now into Tata stable so now like do we generally I 
+suppose we execute various SI’s so but now since TCS is there have we decided anything 
+on that level that we will only go with the TCS or till now we will continue to do with other 
+SI also. 
+Sanjay Nayak: 
+First of all, lot of what we sell is directly to the customer (large private operators for 
+example) since they typically directly buy from the OEMs i.e., companies like ours. So I 
+would say a vast majority of our business is direct to the customer. In certain turnkey 
+projects for example if a project is of a value of 100 if our equipment is only 50 let us say 
+we would be partnering with someone else who could do 100 and he can buy our 50 it could 
+be a Tata group company it could be anybody else for example. Of course naturally there is 
+a synergy within the group which we would like to explore first but we definitely are open 
+to everybody and I am sure from their side it will be the same. But then there are projects in 
+which things are very tightly tied up for example the indigenous 4G solution where 
+everything had to be Indian and there was a lot more close cooperation between all the 
+stakeholders in this case it was TCS, Tejas and CDOT since this is all public information. 
+So we all work closely together and really created a completely indigenous 4G system 
+which can potentially be upgraded to 5G going forward that is the part of the requirement as 
+well. So in that sense we will be working with everybody but naturally on large anchor 
+deals we will be partnering with different SI’s and in this particular case in the BSNL we 
+already know whom we are partnering with so that is the way to think of. 
+Subrata Sarkar: 
+Sir any large figure like what percentage of our order book or revenue comes from SI. 
+Sanjay Nayak: 
+We do not disclose granularity of information at that level for the order book… 
+Subrata Sarkar: 
+Sir this will only help us to understand like the synergy in terms of like that we can get 
+because of Tata group basically so I am asking from that perspective. 
+Sanjay Nayak: 
+Yes, I understand your question again as I said we always have been very disciplined about 
+what we disclose and we continue to make sure that we increase the disclosures in a 
+meaningful way that can be used by everybody so since we do not disclose customer wise 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 23 of 24 
+revenues or a SI versus non SI but I would answer your question in a different way. If I look 
+at India some of the large anchor deals which are system integration deals like the one 
+which we talked about for the 4G would require system integrator to be there to be able to 
+take care of a nationwide roll out for example with the government operator or private 
+operator whatever in which case it will make sense to work with the system integrator 
+because we are already a small part of the solution. But the second place where synergies 
+could potentially come is an international market let us say where we do not have access to 
+a certain customer or another group company whosoever it could be has relationship in that 
+customer it would definitely make a lot of sense for us to use that for synergy that 
+connection that credibility to win business in that account or position ourselves with the 
+Tata group company and say you know that we are a part of the same group that we have 
+been dealing with and we are confident and we have all these products and we can give 
+them a larger solution. So I think some of those things will evolve as the year progresses 
+and we have to find customers where we can add value but I am sure the way world is going 
+where customers are not just buying point products, they are buying solutions. For example 
+in 5G a lot of sales will be solution sales and not equipment sales I am sure that we should 
+be able to leverage synergies and relationships and the brand name especially in 
+international market to be able to build a bigger business growth. It will take a little bit of 
+time because all these things do not happen overnight but I am very confident that as time 
+progresses and as our engagements within the group and with the customer outside 
+increases we will start seeing benefits of us being a part of the Tata fold in terms of 
+meaningful impact to revenue especially on the international side as well. 
+Subrata Sarkar: 
+Okay thank you a lot. 
+Sanjay Nayak: 
+Thank you. I think since we are well over time moderator could you say this is okay to 
+conclude or you have any last… 
+Moderator: 
+Yes Sir would you like to give any closing comments. 
+Sanjay Nayak: 
+I think first of all it has been a very good interaction. I am very happy that questions were 
+asked from a different perspective from a backlog that we have, the breakup, the inventory 
+actions we have taken, the margin thing, the investment thing and of course about the 
+BSNL order results so I hope we were able to answer lot of questions. In summary as I said 
+FY2022 was a challenging year for us we are not happy about the way the revenues shaped 
+up eventually we thought we could have done much better but it is what it is. We have to 
+figure out a way to move forward manage our customers not lost any business and as we 
+start FY2023 a) we start with a strong order book b) we have enough inventory coverage 
+and c) I think more importantly we are also investing and we are seeing good clarity that if 
+
+ 
+                              Tejas Networks Limited 
+April 22, 2022 
+ 
+Page 24 of 24 
+we can make the right investment we can scale up the deals and the products in the right 
+area over a next three year period we can actually bring a significant amount of growth and 
+profitability over a period of time in the company which we are very excited about. So that 
+is where I would close thank you very much and have a great evening and night. 
+Moderator: 
+Thank you very much. On behalf of ICICI Securities Limited that concludes this 
+conference. Thank you for joining us. You may now disconnect your lines. 

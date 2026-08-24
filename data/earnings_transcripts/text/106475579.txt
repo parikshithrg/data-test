@@ -1,0 +1,1432 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021 
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com website www.tcs.com 
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021 
+Corporate Identity No. (CIN): L22210MH1995PLC084781 
+ 
+TCS/SE/170/2025-26 
+ 
+December 23, 2025 
+ 
+National Stock Exchange of India Limited 
+ 
+BSE Limited 
+Exchange Plaza, C-1, Block G, 
+ 
+ 
+ 
+P. J. Towers,   
+    
+Bandra Kurla Complex, Bandra (East)   
+ 
+Dalal Street, 
+Mumbai - 400051                                                             Mumbai - 400001    
+Symbol - TCS 
+                                                            Scrip Code No. 532540  
+ 
+ 
+ 
+ 
+ 
+ 
+Dear Sirs, 
+ 
+ Sub: Transcript of the TCS Analyst Day 2025 held on December 17, 2025 
+ 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, and in furtherance to our letter dated December 11, 2025, please find enclosed 
+the transcript of the TCS Analyst Day 2025 held on December 17, 2025, at 04:00 PM (IST), for 
+your information and records. 
+ 
+The above information is also available on the website of the Company: www.tcs.com.     
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+ 
+For Tata Consultancy Services Limited  
+ 
+ 
+ 
+ 
+Yashaswin Sheth 
+Company Secretary 
+ACS 15388 
+ 
+Encl: As above 
+ 
+ 
+ 
+YASHASWIN 
+NARENDRA 
+SHETH
+Digitally signed by YASHASWIN NARENDRA SHETH 
+Date: 2025.12.23 19:35:30 +05'30'
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TCS Analyst Day 2025 
+Date: 17th December 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ | 2   
+ 
+Opening Remarks and Forward-Looking Statement 
+Nehal Shah - Head Investor Relations, TCS: 
+Good afternoon, everyone. Welcome to TCS's Analyst Day 2025 on behalf of the entire TCS 
+management. I also welcome everyone who has been listening to our webcast live from our 
+website. As you are aware, we don't provide any specific revenue or earnings guidance, and 
+anything said in today's session which can be construed as a forward-looking statement, must 
+be viewed in conjunction with the risks that the company faces. You can view some of those 
+risks here. Please note that we will not be taking any Q&A during the speaker sessions. Kindly 
+hold on to your questions for some time. We will have an executive Q&A session at the end 
+of all speaker sessions. 
+We are also recording these sessions, and post-event, a recording of all the sessions and a 
+transcript will be available on the website. Without taking too much time, I would now like to 
+invite our CEO and MD, Mr. K. Krithivasan. Over to you, Krithi.  
+CEO Session - Leadership in the AI Era 
+K Krithivasan - MD & CEO, TCS: 
+ Thank you, Nehal. Once again, a very warm welcome to all of you for joining us here. 
+So, over the next hour or so, what we want to do is showcase to you what we are 
+doing, why we are doing what we are doing, and why we believe this is the right 
+strategy. And if you look back, all of us have seen multiple technology cycles that we 
+have passed through. An important aspect of each of these technology cycles in the 
+past has been that every time a new technology cycle comes in, it actually puts 
+technology right in the centre of the business. And every business ends up spending 
+more on technology because the value that they are getting from technology keeps 
+going higher and higher. And the value that TCS has been able to derive is, we've been 
+able to master this navigation from each technology. Whether it's from mainframe to 
+personal computers or from personal computers to internet and web or from web to 
+digital, every one of these transitions, TCS has been able to use as a growth accelerator 
+and grow further on these technology changes. 
+ And of course, what we are seeing today is a new technology in terms of Generative 
+AI. Of course, it's a misnomer to call it just a technology. This is a fundamental shift. 
+It's very different from the previous changes, the technology disruptions we had, 
+because of the scale with which it is going to impact and the speed with which it's 
+going to impact and the benefits that we can deliver from it. In fact, because of this 
+reason, our Chairman called it out as a civilizational shift. It's a very, very important 
+change and transition. And we want to talk to you about how we are going to navigate 
+and what we define by this shift.  
+ First thing, what does the AI enterprise look like? If you look on the left-hand side what 
+you see on the data we are reporting, these are some of the characteristics we 
+declared for a digital enterprise some time ago. Now, how do you characterize the AI 
+enterprise? I think it's important for us to first characterize what an AI enterprise is, 
+then talk about why we have a strategy or how we justify the strategy we have.  
+
+ 
+ | 3   
+ 
+ The most important or the number one important aspect of this is a digital enterprise 
+was data-aware. It had access to all the data. But an AI enterprise is what we call 
+context-aware. It has complete knowledge about the context in which the data is 
+being available, and the decisions are made in the context; it's not without the 
+context. That's what differentiates the AI enterprise. Similarly, a digital enterprise 
+made reporting, on-time reporting possible every day. But an AI enterprise, we are 
+looking at advanced analytics and reasoning. Why the report says what it says and 
+what smart choices and actions somebody has to take based on the reporting and the 
+reasoning available? Third, within the digital enterprise, we talked so much about 
+automation. In fact, if you looked at our layer, you would see a data layer, enterprise 
+layer, experience layer. The focus was on straight-through processing. How do you 
+automate stuff end-to-end? But in an AI enterprise, the focus is going to be on 
+autonomy. How the systems take decisions on their own, based on the reasoning, 
+based on the judgment, and supported and supervised by humans. So that's the 
+nature of AI enterprise.  
+ And the software that you would see here are not going to be rule-based software. 
+These are all software that's going to be… that can learn and adapt and take decisions. 
+And essentially, that's what we call in a digital enterprise, it's about data informing 
+humans. But here, it's AI becoming a decision coach.  
+ In fact, we did a joint research with MIT. They came up with this overall architecture, 
+what they call an ‘Intelligent Choice Architecture’. What a future AI enterprise would 
+have is a choice architecture that throws all the choices in front of you, not the data 
+points, throws the choices and helps you in taking the decision and creates a feedback 
+loop, so that next time you have to take a decision, the feedback loop, the past 
+experience is taken into consideration.  So, this is broadly our view of how AI 
+enterprise would be. And we've been doing many… we want you to keep this context 
+on what we define by AI enterprise and so that will probably later on, when we 
+describe what we are doing, it will come quite handy.  
+ We've been doing many projects, since 2023, when the ChatGPT moment happened, 
+we've been working with our customers, helping them do POCs, exploring, 
+experimentation, so many things have been happening. By now, we have done more 
+than 5,000 projects. And if you look ask us, like all of you are in one of those immersion 
+sessions, some of the basic engagements we get into would be how do I help the 
+customers accelerate AI adoption? They ask us to come and see how we can help them 
+change their culture, adopt AI at scale. But the interesting nature of the projects are 
+also on how do we help them anchor AI to their strategy and business value, because 
+AI is a lever that has to be embedded into a strategy and otherwise it will not deliver 
+value to you.  
+ Second, we are helping our customers make those technology choices in the context 
+of their business strategy. And more importantly, we are actually helping them design 
+for change. This is a very important aspect, because we all see that these technology 
+cycles keep happening at more frequency than before. Which means, what you buy 
+today, build today, may not be fit for purpose, maybe five years, two years down the 
+line; that's shrinking. And even within AI, the technology is evolving so fast. So, we 
+
+ 
+ | 4   
+ 
+need to be building and choosing technologies that can adapt and that can change 
+very fast. So, the design for change is very important. That's what we are helping our 
+customers with. 
+ And helping them get the right operating model, more importantly, the organizational 
+culture. That's a very important aspect as you adopt AI, because the roles of people 
+are going to change. The roles of humans in organization are going to change. What 
+we are going to… For instance, even if you take an IT services company, we keep 
+talking about how many programmers we'll have, how many coaches we'll have, how 
+many trainers we'll have; we'll keep changing and new roles will keep evolving. And 
+organization should be dynamic, should be adaptable. That's what we are helping.  
+ Next one is assurance, like how do you establish the right guardrails? Because without 
+the guardrails, many of these programs will fail on the first day itself. Because if the AI 
+doesn't give the right results that you are expecting, or say something it's not 
+supposed to be saying, it's a huge setback. That assurance, being ethical and being 
+responsible is very important.  
+ And last is ROI certainty. Because we can do a few projects as an experimentation. We 
+can do a few POCs, but eventually enterprises have to get ROI benefit. And the kind of 
+projects that we are doing with our customers broadly fall into this category. And if 
+you look at the important aspect of it is, the kind of projects we are doing, based on 
+many years of our deep customer experiences, we are also moving up the value chain. 
+If you looked at, in the past, the kind of projects that we would have helped our 
+customers, it would be in building the system. Somebody designs what they need to 
+do, we go and help them in implementing. But this technology shift and the deep 
+customer connect and context we have is helping us move up the value chain now.  
+ And these number of projects that we have done gives us the experience and the 
+confidence that we have to aspire to be in a league of our own. And we are on a 
+journey towards this, to build a future-ready TCS. And the future-ready TCS is built on 
+a vision that we have put forward. This vision is a vision to be the world's largest AI-
+led tech services company. And we believe with the customer context we have, deep 
+customer relationships we have, the experience that we have built, and the 
+investments, the strategy, investments we are going to put in and the strategy we 
+have, we are really poised and in fact, we feel that we are destined to be there, and 
+we are making every step to achieve that. 
+ And what is driving this AI-led technology services company ambition are these five 
+pillars. Essentially, we have defined five broad pillars on which we will be working. 
+While Aarthi will come later and double-click on each of these five pillars, I just want 
+to take a minute to explain.  
+ First is achieving the internal transformation. Essentially, we want to be our own 
+customer zero. Whatever we want to tell our customers, if you want to tell our 
+customers, you need to have an AI culture, an AI-first culture, you need to have a 
+culture that you can change yourself readily, we want to do it for ourselves first. In 
+fact, there's a massive internal transformation exercise going on, and we are 
+encouraging all our associates to adopt an AI-first culture. What does an AI-first 
+
+ 
+ | 5   
+ 
+culture mean for us? Every time we do a project, every time we engage with our 
+customers, first question we ask is what can AI do here? Can AI do something better 
+than what we are doing, even if it is going to cannibalize our revenue? See, that's what 
+we define as AI-first culture: giving AI the first right of refusal before we do any other 
+option. And of course, we are building our own AI solutions, we are scaling with AI.  
+ And I would let Aarthi come and talk about each of these, like we are redefining each 
+of the services. We have a new leader that takes care of AI and service integration.  
+ We are redefining every one of our services in a structured way and we are re-looking 
+at our talent model. How do we train our people? What are we training our people in? 
+What should be the structure of the team? How does project get delivered? We are 
+re-looking at every piece of this talent puzzle.  
+ And fourth is, while all of us know AI can deliver productivity in software engineering, 
+but we believe the best value through AI will come when there is a business change, 
+we are able to deliver business change or we are able to introduce new products, new 
+services, give better customer experience. So, we are re-imagining the customer's 
+value chain. For example, for one of the customers, we re-imagined their claim’s 
+process by which we did not throw away the human being working there. For instance, 
+the call centre agent was continuing to work, but the call centre agent was able to 
+focus on being empathetic to the customer, while having a discussion at the same time 
+collecting the data and able to close the claim in a very short period of time. So, 
+number of such examples where we re-imagine the customer's business value chain. 
+We believe this is where the maximum value release will happen and our customers 
+are very keen on working with us because of the deep contextual and domain 
+knowledge that TCS has.  
+ And the last one, if we have to broaden our play, we need to have more partnerships, 
+we have to be more acquisitive in nature, we have to get into new ventures. We have 
+spoken about some of them, I will talk about what we are doing. But most important 
+reason that we are doing this is as I said, this technology change, one important aspect 
+is the speed at which it is happening. If we need to address the speed aspect of it, we 
+cannot be only building everything on our own, we need to partner with others, we 
+need to acquire capability wherever it is required. That is the reason we have chosen 
+the ecosystem play as the most important pillar in this journey.  
+ So, if you look at where is the money being spent in this overall AI transition. We 
+looked at the stack of this… there are five different layers in this stack. Money is being 
+spent in building new infrastructure, developing new hardware. And customers are 
+building, leveraging models, building models or fine-tuning models, creating SLMs. 
+Then, once you have them, you need to have the frameworks, you need to have the 
+platforms in which these models could be leveraged. On top of that, you need to have 
+the agents that can be built on these platforms, that can deliver value. And last is, how 
+do you show this intelligence in action? The intelligence in action is shown as physical 
+AI. I know you will probably be seeing a quadruped today, where we have been able 
+to integrate physical and digital AI coming together. And of course, where you are able 
+to give integration services, conversational AI using digital AI. And what we are doing 
+is playing in all the stacks. It's important for us to play in each one of these layers so 
+
+ 
+ | 6   
+ 
+that we provide end-to-end value to all the customers. And only by playing in the 
+entire ecosystem, you give the best value to your customers. 
+ Like, your customers can engage with you. We see many of our customers engaging 
+with us in creating a model foundation and then using a platform on top of it, then 
+engaging with us in building agents, and then conversational AI. So when a customer 
+engages with us in the entire value chain, there is more and more increasing value for 
+our customers. And that's the reason that you see right from the infrastructure… we 
+announced the creation of HyperVault. And we work with many other chip makers 
+today, and we are helping them in chip design. And we are working in the devices 
+platform area. And we are actually working in integrating models for our customers. 
+We are building SLMs. We are fine-tuning LLMs for our customers for their domain 
+needs. We created platforms like Ignio, a number of platforms. CodePlus is a very 
+interesting platform that helps you in migrating from one tech to any; multiple 
+technology transformations it can do, reducing tech debt reduction. And we have, of 
+course, built agents on top of that for many domain use cases. And of course, I talked 
+about Quadruped and other intelligent services. 
+ And as I said, we will be doing all these things… while we build most of it internally, 
+we will also be partnering. We are developing deeper partnerships with our partners, 
+like all the hyperscalers, AI-related companies. And also acquiring. We talked about 
+ListEngage, of course, Coastal acquisitions, and we are being more acquisitive.  
+ There's another angle on why we do this. By participating end-to-end, the partnership 
+with all the ecosystem partners is also becoming 360 degrees. It creates a very, very 
+virtuous cycle for us. Hyperscaler is our go-to-market partner. We consume 
+hyperscaler services. We provide service to hyperscalers. While it is true for 
+hyperscalers, it could also be an industrial company from whom we are buying a 
+switchgear, or it could be an AI company. It provides multiple opportunities for us to 
+integrate ourselves into the AI ecosystem by playing end-to-end. So, our end-to-end 
+strategy is very, very deeply thought out, and creates a stickiness, creates the ability 
+to give a lot of value to every stakeholder, and makes our play very strong in this 
+ecosystem.  
+ And why do we believe that we will succeed in whatever we have put as our strategy 
+and investment? See, we look at more… we are currently about 60 clients with whom 
+we make $100 million a year annual revenue. Of these 60 clients, for 54 of them, we 
+are engaged in AI work. And as I said, we have done more than 5,000 engagements, 
+and these engagements have resulted in a satisfaction of close to 95%. These are all 
+only AI engagements. So very strong customer endorsement and satisfaction.  
+ Second, we went ahead and trained 100% of the customer-facing team in AI 
+technology so that they can articulate what is the value the customer will get by 
+deploying AI in a particular way. And we also went ahead and trained more than 
+180,000 associates in higher-order AI skills. We conducted the largest AI hackathon in 
+the world to prove the point that TCS can scale, help our customers scale. 280,000 
+associates, the largest hackathon, where they all created… first ideated. Close to 
+175,000 builds were done within a short period of about three to four weeks. And of 
+
+ 
+ | 7   
+ 
+course, all this has been recognized in the market. 14 of our engagements in the last 
+one year have been recognized as best-in-class.  
+ And we have been found in the leaders' quadrant in 8 of the 8 Analyst reports that 
+have been published. And I talked about platforms in terms of ignio™, WisdomNext™, 
+CAP.AI. Collectively, more than 200 platform implementations have happened. So, 
+what we have seen in the customer gives us the confidence, first proof point, that we 
+are on the right track. 
+ The second, from a revenue perspective: Our AI-related services have garnered a total 
+revenue of US$1.5 billion annualized. And I said, about 54 of the top 60 clients use TCS 
+for AI. 85% of all the clients, greater than US$20 million, leverage TCS for their AI work. 
+And based on the success we've been able to get in the market from our customers, 
+our quarter-on-quarter growth on AI alone has gone up by 16.3%. And if you see, it's 
+reflecting in every service line. Every service line, the AI revenue is growing and 
+growing significantly. Like, whether it's Banking and Financial Services (BFSI) or Life 
+Sciences, you see strong growth across the board.  
+ And I talked about reimagining every service that we deliver. The reimagination of 
+services actually is creating the growth acceleration for every service line. Today, what 
+we can call non-traditional services, if you take ADM and testing and BPS out, the non-
+traditional or the new-age services, if you can call, constitute almost US$11 billion of 
+our revenue, and all of them are growing at a rate higher than TCS' average rate.  
+ So, all this put together, again, is another proof point that gives us the confidence that 
+we are on the right path. We are reimagining the services right, and our customers are 
+acknowledging what we are doing.  
+ And TCS continues to be very well recognized and accepted by their customers 
+directly. The Whitelane survey, which is an independent research agency in Europe, 
+has ranked TCS came as No.1 in customer satisfaction, for the 12th year in a row. And 
+of course, our internal customer satisfaction scores are above 94%, and it keeps 
+increasing. 
+ And this is another very interesting statistic. Recently, Newsweek in US published a list 
+of the ‘Most Reliable Companies’. TCS was globally the No. 1 Tech Services Company 
+in the list, ahead of many other peers and competitors. And of course, we continue to 
+be the Top Employer and one of the best in retention rates in the industry. And 
+Fortune ranked us as the most admired company. So, as I said, we have our customers 
+trusting us. We are seeing that validated in the revenues and the service line and the 
+industry line growth. And of course, our employees are continuing to like and be 
+delighted by the investment that we continue to make in them. 
+ And the last aspect on why we are uniquely positioned to go through this transition: 
+Because as I said, this transition is going to require a lot of discipline, and it's based on 
+certain investment that we are committing. For a long period, as all of you know, that 
+we've been a benchmark on our margins. Our cash conversion has been consistently 
+over 100%, and we have industry best return on equity. And Samir has $6.3 billion to 
+spend as well.  
+
+ 
+ | 8   
+ 
+ With that, I just want to conclude and let Aarthi, Samir and Mangesh talk about the 
+different aspects of our strategy. But I just want to give a high-level summary: 
+ The first is, the shift from digital to AI is a huge opportunity for all enterprises, 
+particularly for TCS, based on the deep partnership we have with our customers and 
+deep investments that we are making.  
+ And we have a very well differentiated strategy. We are committing our investment. 
+And our strategy, which is based on these five pillars, is, we believe, well validated by 
+many of our customers.  
+ And the enduring partnerships with our customers, is very important. The contextual 
+knowledge you have gained with these partners over the years, helps you in building 
+the solution and making AI real for our customers, because this enduring partnership 
+is very important in converting an idea or converting a technology into a business 
+value proposition.  
+ And of course, with the strong, robust financials and execution discipline, we all very 
+strongly believe TCS is best positioned to gain leadership in AI. 
+ I'll be happy to take questions after Aarthi, Samir and Mangesh's presentations. But 
+once again, I want to thank you all for being here. Thank you.  
+Nehal Shah - Head Investor Relations, TCS: 
+Thank you, Krithi, for that very insightful keynote. Next on the agenda, I would like to invite 
+our COO and Executive Director, Aarthi Subramanian. Over to you, Aarthi.  
+COO Session – Building a Future-ready AI-led Tech Services Organization 
+Aarthi Subramanian - Executive Director & Chief Operating Officer, TCS: 
+ Thank you, Nehal. Thank you, Krithi, for setting out our aspiration and the five pillars 
+that are driving our transformation in the company. So, as part of my session today, 
+I'll cover the five pillars that are driving our transformation.  
+ And I'll start with the first pillar. As Krithi said, the first pillar is about TCS's own internal 
+transformation. And we have codenamed this transformation tcsAI. So, as part of this 
+transformation, what we are looking at is, how do we make every TCSer, senior, junior, 
+in every role, an AI practitioner? How do we create AI-first mindset, as Krithi alluded 
+to earlier, in every employee in the company? So, that's the focus of this internal 
+transformation initiative. 
+ And to achieve this, what we have done is, we have made some big investments. We 
+have been working on this, as Krithi said, since the ChatGPT moment. We have been 
+making AI available to select employees. But in the last 6 to 8 months, today, we have 
+what I believe is one of the largest AI infrastructure available for employees. 600,000 
+TCSers have access to AI at their fingertips. What this includes is access to all the 
+models, access to all the coding assistants and other tools, and also access to all the 
+hyperscaler AI tooling which is available, with which we actually build solutions for our 
+
+ 
+ | 9   
+ 
+customers. So, these tools are available in a safe, secure, and on-demand fashion to 
+all the 600,000 employees. 
+ Now that we have made this infrastructure available to all the employees, the next 
+question was, how do we get all these employees engaged and use this infrastructure, 
+put it to use to the maximum extent? So, we ran what we call the world's largest tcsAI 
+Hackathon. It is the largest because we had more than 280,000 associates engage 
+during the hackathon. We ran it in two phases - Ideate with AI for four weeks, and 
+build with AI for another four weeks from August to September. What this generated 
+was: these 280,000 employees created more than 500,000 submissions, about 
+330,000 ideas, and about 170,000-plus builds. So, in the four weeks, people actually 
+took the idea, brought it to life, built a solution, and all this is available on a platform 
+which is powering the tcsAI Hackathon. 
+ It was also the most inclusive, because like I said, we want to make every TCSer an AI 
+practitioner. So, all of us, including the senior leaders in the room, HR, Finance, every 
+function participated. And obviously, all the engineers and the development 
+community were very much part of it, but we wanted to make sure that senior, junior, 
+people in Finance functions who wouldn't have ever coded in their lives, really got 
+hands-on with AI, and it became the most inclusive hackathon from that point of view.  
+ Another thing we are very proud of is it was also the most innovative hackathon. 
+500,000 submissions, if we had to evaluate with humans, would have taken us 90 
+people, 12 months. We put AI to the task. We built a model which evaluated these 
+entries, and we completed 500,000 submissions evaluated in three weeks. And we 
+had a big recognition event where our best employees who really did outstanding 
+contributions and generated great ideas for our customers and for internal 
+consumption. They were recognized and felicitated by our CEO. 
+ Now, the hackathon is something we did, a large one in August, September, but it's 
+something which is continuing on a regular basis. Different teams, different functions 
+keep running these hackathons, and this is an ongoing activity. But what we also did 
+is, we said we want to really bring people together. Because a lot of times you could 
+be sitting at your desk and ideating and building, but we also wanted to bring 
+teamwork into the hackathon. So, we launched something called tcsAI Fridays. This is 
+where our AI infrastructure… and we have created AI Friday Labs. This is a physical 
+infrastructure in every delivery centre, and we have brought the best AI mentors in 
+that location all together to run what we call AI Fridays, which is basically, what it does 
+is, it helps our teams solve problems, come up with ideas, but most importantly, 
+discover the power of this technology, and also discover their own capabilities by 
+building solutions.  
+ So, what we do is this is on every Friday, there is a 4 to 6-hour AI Friday, gamified 
+hackathon which is run, and it's competitive, and people start ideating from Monday 
+through Thursday, then come together as teams, self-organized teams, and they build, 
+and they present to a jury, and on the spot they're awarded for their creativity and 
+innovation. And what this is doing is, the teams actually include not just the AI-native 
+talent, we actually bring together senior people - 20 years, 30 years, 15 years 
+experience, some of them who are still hands-on, some of them who are not hands-
+
+ 
+ | 10   
+ 
+on, but also with the AI-native engineers, some of whom you met when you went 
+through the immersion session today. We bring them together. And what this is doing 
+is really blurring and bridging the gap between seniors and juniors, and expert and 
+novice. And that's what we are trying to do internally. This is something that started. 
+It's a movement which will continue because the technology is changing every day.  
+ The second part of tcsAI is building AI-first solutions, which is making TCS the best 
+showcase of AI internally for the industry, and also in front of our customers. We are 
+driving this across two areas: one in IT -TCS's own internal IT, how do we develop 
+software? How do we disrupt? How we run our Service desk? How we run our IT 
+operations, whether it's infrastructure operations or application operations? So, we 
+have put together a very ambitious goal to disrupt how we use AI in our IT. 97% of our 
+developers and engineers have access to coding assistants, and we are well on our 
+way to drive productivity improvements. There are portfolios where we are already 
+seeing 20–30% improvements, and also, we are looking beyond coding and looking at 
+how we can disrupt the entire software engineering. Testing, again, high levels of 
+productivity, generating Figma designs, UX with AI. These are areas where higher 
+levels of productivity are already being seen, and we are creating our own showcase. 
+We are also learning from the work that we do for our customers.  
+ The second aspect is how do we put AI to use for our own business, for our own 
+business functions, our business users, whether it's HR - how do we disrupt learning, 
+how do we disrupt hiring, whether it's for Finance, Procurement, every function in 
+TCS, we are looking at how do we disrupt with AI. Jana took over as our Chief 
+Information Officer from July, and he's driving the entire internal transformation 
+within TCS.  
+ Let me show you an example of how we are creating disruption within from a learning 
+point of view. So, as all of you know, TCS, for not just now, over the decades, if you 
+look at the last 20–30 years, we have always invested in learning for our employees, 
+and over the last many years, we have put together a very strong learning 
+infrastructure. So, it provides on-demand learning, anytime, anywhere, any device; 
+top-notch content is available to our employees; clear pathways are available for 
+taking your capability to the next level, but we didn't want to stop at that. We said 
+that now, with this new form of AI, Generative and Agentic AI, with reasoning being 
+available, we have disrupted learning within TCS. What we have built is an N=1 
+Personalized Coach. It's a learning coach which is available to every TCSer. What does 
+it do? You can see a video which is playing out there. You see a TCS employee there 
+interacting with the AI avatar, which is the learning coach, to understand how 
+containerization works in the context of microservices. That's the video. So, what it 
+does is we have brought all the learning content that we have and made this available 
+to the AI model which the AI avatar is consuming. So, in some ways, the AI avatar is 
+an all-in-one SME. It understands all domains, it understands all technologies and can 
+also coach an associate on soft skills. 
+ So, the key differentiation here is that it has complete understanding of where the 
+skill level of the employee is, what the aspiration and learning goals of the employee 
+is, and then how do you now bridge the gap, and that's where the N=1 coaching comes 
+
+ 
+ | 11   
+ 
+into play. And here, traditional AI, Generative AI, and Agentic AI all have been put to 
+use, and this is under deployment, and we are seeing great results.  
+ Let me now move on to the next pillar, which is a very important pillar. If you look at 
+AI today, it is a hugely promising and powerful technology. It's disrupting every 
+industry. But what is important is it has a huge opportunity, and it's creating a 
+disruption in our own industry. So, we are looking within and saying how do we use AI 
+to disrupt every service that we deliver to our customer?  
+ So, this is where we have now appointed Amit Kapur, who's here, as the AI and Service 
+Transformation Officer. We are looking at all service lines and saying how do we 
+disrupt every service line for the new world of autonomy? All services, if you really 
+look at not just in the last few years but over decades, automation has always been 
+central to how we deliver services. But with this AI, we are shifting from autonomous 
+to autonomy, and that's where we are looking at how we need to look at the human-
+plus-AI autonomy model.  
+ So, just to give you a very quick view, when you look at our services, so, just you look 
+at it, whether it's infrastructure services, application services, all the services around 
+business, across all these service lines, there is a huge opportunity for us to disrupt 
+how we deliver each of these services to our customers. And to do this at scale, at TCS 
+scale, and also do it consistently, we said, okay, how do we do it at scale? How do we 
+deploy the autonomy at scale?  
+ So, the first thing that came to mind when you think about autonomy is ADAS. All of 
+us are familiar with autonomous cars. So, we drew inspiration from the autonomous 
+cars, where all of us are familiar with the five levels of autonomy. So, we have Level 3 
+and Level 4 cars internationally. We have Level 2 cars here in India. So, we said that 
+why don't we create our own TCS Services Autonomy Model, which is inspired by the 
+autonomy that we see in vehicles? And this is the model that we have created. It's a 
+five-level services autonomy framework which we are consistently deploying across 
+every service line. What you see here is the framework. This has been instantiated for 
+every service, whether it's development, whether it's testing, whether it's production 
+support, whether it's SAP implementation, Salesforce implementation, or a 
+ServiceNow implementation, or autonomous GBS. For each service line, we have 
+instantiated this framework.  
+ What this does is, it gives us a blueprint to think, consistently deploy, more 
+importantly, it becomes an assessment framework when we engage with our 
+customers. How do we go and find what is the current maturity of the customer on 
+this model on any service line? This is becoming a cookbook for us to go and tell our 
+customers: use this framework to say that you are at Level 3 or you are at Level 1. This 
+is how we can take you to Level 2. On development, coding assistance usage, you are 
+at Level 2. We can take you to Level 3, and this is what it takes.  
+ So, let me give you an example of how we have put it to use in the application 
+development software engineering context. So, as you can see, just like cars, a Level 
+5 car is not on the street. So, even here, the Level 5 and Level 4 capability, the 
+technology capability, may not be available. But we have created a blueprint of what 
+
+ 
+ | 12   
+ 
+the art of the possible is. And for Level 1, 2 and 3, where the technology is available 
+and those levels of autonomy can be put to execution in our own internal context and 
+customer context, that's exactly what we are working on.  
+ The first one, as you can see in a development context, is coding using a general-
+purpose LLM: lower accuracy, lower context. You move to Level 2: it generates better 
+productivity because you're using purpose-built coding assistance, whether it's 
+Windsurf, whether it's GHCP, or any of those tools. And Level 3 is where the customer 
+context starts flowing in, where the entire enterprise knowledge of the customer… 
+you start building agents who understand the customer code base, the customer 
+knowledge, and that's when you get the next level of autonomy, and obviously, the 
+higher level of productivity, where AI can now start autonomously executing some of 
+the software engineering tasks. 
+ So, just to bring this to life with a few examples: for a large customer in Asia-Pacific, 
+the customer had already very good maturity and was at Level 2 and had made 
+significant investments. We worked with the customer and used this framework to 
+take the customer from Level 2 to Level 3 and helped generate higher-order benefits: 
+30% productivity.  
+ For a global consulting firm, we helped them, again, take them from Level 2 to Level 3 
+with 25% benefits in terms of productivity.  
+ Again, the third one is a very interesting example, where we already were executing 
+this project, and this is a large application development portfolio that we deliver for 
+this large aerospace OEM. We proactively went and disrupted. And Krithi talked about 
+doing the right thing, AI-first culture, cannibalizing our own revenue. We went ahead 
+and proactively deployed coding assistants and moved them from Level 1 to Level 2, 
+delivering 20% benefit, and we are now on our way to take the customer to higher 
+levels of autonomy. And what you see here is the quote from this customer, which 
+shows how proactively we went in and delivered savings to the customer.  
+ Let me move to the third pillar of our transformation agenda, which is building a talent 
+model which is future-ready. Here, we are looking at three pillars. First is building 
+future-ready skills: AI fluency at scale - How do we train every employee to learn how 
+to work alongside and with AI? So, when over the last 2-3 years we had made 
+significant investments once GenAI came into the scene. As of date today, pretty much 
+all employees, 580,000 people, are AI-aware, but AI awareness is not enough, it is 
+necessary, not sufficient. So, then over the last two years, we are driving higher-order 
+AI skill development. And today, 180,000 TCSers possess higher-order AI skills. This 
+number was 80,000 at the end of last year. So, we have almost doubled capability 
+building when it comes to building higher-order skills.  
+ The other element is the AI-native fresh graduates. I think this is a very exciting time 
+because all these fresh graduates are very AI-native. They really know how to use AI 
+very organically. And what we have done is, our intake of trainees, fresh trainees from 
+universities, we have actually doubled on that. And what we are finding, and you met 
+with some of these trainees today, these people really know how to treat AI as a 
+teammate. And that's the big learning that we have, and that's where the seniors and 
+
+ 
+ | 13   
+ 
+the juniors coming together, the fusion that I talked about, is really helping create that 
+AI-first culture.  
+ The second element of our transformation on the talent model is role transformation. 
+Here, I was talking to some of you before we started today: every role in the company 
+is changing because of AI. So, every customer conversation is an AI conversation today. 
+So, how do we drive AI-centric customer conversations, whether it's from sales to 
+advisory or solutioning to delivery, every role in the company has to become AI-first, 
+AI-centric. So, we have a program called AI Dojo which we have launched to all our 
+sales, solutioning, advisory, and delivery teams. And this has been done at scale. This 
+is the starting point and this is something that we need to continuously engage and 
+keep further honing the skills. And another important thing here is that AI is also 
+introducing new roles. We have rapid-build engineers, rapid-build leads. So, we are 
+also looking at new roles that are becoming very relevant for the future.  
+ The third pillar is future-ready hiring. Here, we are looking at securing top talent. So, 
+over the last year, we have doubled down on advisory and consulting talent across the 
+big bets, and I'll talk about big bets in a little bit. These are areas like cybersecurity, 
+enterprise solutions, cloud, all these areas. We are hiring a lot more advisory and 
+consulting talent and positioning them closer to customers. And our experienced 
+hires, if you look at today, more than 50% of our experienced hires are coming with 
+next-gen skill sets. So, that's the talent transformation that we are driving, and we are 
+well on our way to make TCS ready for the talent transformation which is required for 
+our AI future.  
+ The fourth pillar, extremely important one, is making AI real for our customers. So, I 
+talked about how we are driving our own transformation with AI as part of the first 
+pillar. I think it's a very similar transformation that we need to drive for our customers, 
+most importantly, helping them deliver value with AI deployment across their 
+industry-specific needs, across cross-industry needs that they have - common needs, 
+whether it's HR, Procurement, Finance, Customer Service - and most importantly, 
+helping them scale with AI. 
+ And when you look at AI adoption in our customer base, if I look back the last three 
+years, 2023 was a year of experimentation. GenAI was just available. People wanted 
+to know what the promise and the power of the technology is. But in '24, we started 
+to see a lot more scaled, I would say, still, experimentation and some projects going 
+live. But 2025 has been different. And I think that Generative AI, along with Agentic 
+AI, with the reasoning models coming into play in early 2025, is really creating the 
+tailwind for us to deliver solutions which have reasoning, and that's what leads to 
+creating solutions that have more intelligence baked in and building solutions which 
+can take better decisions. 
+ So, let me talk through how we are working with enterprises to make AI real and taking 
+AI close to customers. So, if you really look at… when I reflect on our conversations 
+with customers, there are dual priorities, and these are not sequential; they are 
+parallel. First one is customers want to get ready for AI, and the second one is 
+customers want to lead with AI. If you really look back, the digital transformation 
+started sometime early 2010s with cloud, mobile, and enterprise systems 
+
+ 
+ | 14   
+ 
+transformation and cyber and everything else. But if you look at the technology debt 
+that still exists in infrastructure, enterprise core systems, and data foundation, it is still 
+there across enterprises. So, there is a good amount of work that we continue to do. 
+If you look at cloud adoption, it's still 35% across the globe. So, significant work across 
+cloud, data, S/4HANA transformation, Salesforce, ServiceNow. Each of these 
+enterprise solution implementations, there are many transformational opportunities 
+that we are engaged with our customers on. Cybersecurity, again, top area of focus 
+across. So, I think a lot of our service lines, what Krithi referred to as our next-gen 
+services, are focused and really driving that customer transformation to get them AI-
+ready.  
+ On top of this, what we are working on is really helping our customers lead with AI: 
+how do we work with our customers to help them realize value and help them shift 
+from use cases, pilots, experiments to real projects which deliver ROI at scale? And 
+that's what we are working on. And how are we doing this? We are doing this across 
+three areas. First, we engage with our customers to help them - Innovate with AI, Build 
+with AI, and Scale with AI. And here, it's all about how do you create value-chain 
+impact. Value-chain impact could be vertical-specific or horizontal, like I said earlier, 
+but the whole focus is drive adoption across value chain and create value-chain 
+impact. Let me talk about each one of these.  
+ Today morning, in the immersion session, you experienced what ‘Innovate with AI’ 
+really means. So, many of our customers, what we are doing is, when they are visiting 
+us here at our offshore delivery centres, when we meet customers at their premises, 
+or we host customers at our AI experience zones, Pace Ports, or even when we are 
+responding to an RFP, we are really bringing rapid builds and integrating in every 
+customer interaction. So, what we do is, we engage customers and help them identify 
+what are the challenges that are worth solving and how you can solve it differently 
+with AI, and completely shifting the narrative from presentations to really build an 
+experience. This is something that we are doing across the board, and this is really 
+resonating extremely well, because what it does is, it is helping customers understand 
+how they can use AI in their context.  
+ The second one is where you shift from ideas to execution, and we have created this 
+rapid-build methodology which is all about taking a problem and solving the problem, 
+saying that, okay, this is the metric you want to move the needle on, come out, come-
+backward, solve the problem with AI. In a short period, anywhere from 8 to 16 weeks, 
+this is what we call the rapid-build approach. And what it typically entails is bringing 
+together a rapid-build squad which has AI-native trainees and people with contextual 
+knowledge from our customer accounts, and that's a great combination. And the 
+contextual knowledge and the AI skills together is what is the secret sauce for really 
+doing that build. And one thing important to understand is, while you can do the rapid 
+build in a day or two, what takes time is really integrating the solutions with the data 
+and the systems within our customer.  
+ And once we deliver the rapid builds, and we have proof points and these are in 
+production and the customer sees value, the next obvious question is how do I scale 
+AI within the enterprise? And this is where you will hear from one of our customers 
+
+ 
+ | 15   
+ 
+later today: how do we really work with our customers to put the AI architecture, the 
+technology selection, putting the AI platforms, so that you can really build at scale and 
+go live at scale. And here, what we have done is our own investment. Some of the 
+platforms that Krithi talked about are the AI platforms that we have built and taking 
+to our customers. But on top of those platforms, we are creating TCS's own industry-
+specific agent marketplaces. So, we are taking different vertical domains. For example, 
+in Manufacturing and BFSI as two cases in point, we have 100-plus agents identified 
+that we are creating, and more than 30–40 of them are already live, and some of these 
+are already getting deployed in our customer engagements. 
+ The other important aspect is safe and secure AI, and also AI which delivers value. So, 
+AI Office is about setting up program management to put responsible AI and also 
+looking at ROI from the AI projects that we deliver.  
+ The last one is again a very important part of scale. This is about how do you create AI 
+Labs which are nothing but rapid-build factories. So, many customers are looking at… 
+after a successful build with AI, we go ahead and set up a factory where multiple 
+problems that we want to solve, multiple projects that have been jointly identified, 
+become the pipeline for the factory, and multiple rapid-build squads come together 
+to deliver value. But not only the AI Labs, what we are also doing in our customer 
+engagements, we are deploying our rapid-build teams in our existing projects also. So, 
+embedding rapid-build teams as well as setting up AI Labs, it's a dual approach that 
+we are taking to help customers scale AI. 
+ Now, very quickly, many of these examples you are going to see when you are visiting 
+our Executive Briefing Centre later today. The left one, the first one on ‘Innovate with 
+AI’, I think Ashok already covered this, but this is a very unique one because we 
+engaged with the CEO and direct reports, and we ran an AI Innovation Day, generated 
+high-impact ideas which had the endorsement of the senior management. This 
+resulted in a subsequent AI Innovation Day which ran for two days with 200 people 
+from the customer service organization, and eight high-impact ideas have been put 
+into motion. 
+ The second example I would like to share is with ‘Build with AI.’ Again, we are seeing 
+a lot of opportunities to create value in the industry for the specific industry value 
+chain. But I think another big area where we are seeing AI come in, is in modernization. 
+GenAI has this unique capability to really understand the old and generate the new. 
+So, tech-modernization projects which were earlier put aside because they were 
+capital-intensive and they would take a very long time, are now becoming big 
+opportunities for us to engage. You can see here, how we delivered an integration 
+modernization from TIBCO to Java: rapid build, three weeks delivered, proof point 
+shown, then led to scaled projects in modernization.  
+ The other example is an electronics OEM example, where we have built a site 
+inspection to expedite the construction, and there's a great example of physical AI 
+which our teams will talk about. The first MVP that we were able to put in production 
+was done in eight weeks.  
+
+ 
+ | 16   
+ 
+ The last one on ‘Scale with AI’, the UK high-street bank. There's a customer who's 
+going to be talking to all of you today, so I'll not cover that, but there's a great example 
+of how we have partnered with this customer to scale AI across their enterprise.  
+ And the last one is again an interesting example of scaling AI in AI for modernization, 
+where we are working with a payments tech provider for mainframe modernization. 
+This is a huge amount of work, 50 million lines of code in mainframe being modernized 
+to a completely new microservices stack, and this is a great example of human and AI 
+coming together, and TCS’s contextual knowledge of mainframes, contextual 
+knowledge of the modern tech stack, and bringing it all together.  
+ The last pillar is the AI Ecosystem play. I will cover the partnerships, and then Mangesh 
+will come in later and talk about M&A and how we are setting up new ventures.  
+ Partnerships, as Krithi said, are an integral part of the business that we operate in. And 
+we are doubling down on partnerships. And let me explain what I mean by that. So, 
+we're looking at partnerships across four areas. Enterprise partnerships and domain 
+partnerships - these are longstanding partnerships we have had for decades. But what 
+is new here is all these partners are infusing AI in their products. So, now when we are 
+solutioning or upgrading, we need to leverage the AI features, functionality, which are 
+now coming out of the box. So, we are working with these partners to expand the 
+centres of excellence to really build AI competencies in these products. So, that's what 
+we are focused on in the first two areas. 
+ We are also expanding our partnership ecosystem to cover deep-tech partnerships. 
+So, you can see whether it's Anthropic, OpenAI, NVIDIA, Mistral, all these are new 
+partnerships that we have set up and working closely with them to really build 
+competencies.  
+ The fourth area is also an important element, which is AI-native partnerships. There 
+are many AI-first solutions which are available, which can be plugged into the overall 
+solutioning that we do for customers. So, this is again an area where we are investing 
+in building partnerships.  
+ In summary, I think when you look at these partnerships, partnerships are pivotal to 
+us working with our customers. So, we are doubling down, building the required 
+competencies for the future with our partners, in terms of capabilities, certifications, 
+and everything else. And we are also looking at how we can really innovate with these 
+partners, and I would like to leave you with two examples. 
+ So, if you look at NVIDIA, and I'll give you an example of how our manufacturing teams 
+have worked with NVIDIA, and we have built 12 industry solutions. And these are all 
+innovative solutions which we are already taking to market with our customers. And 
+in our meetings with NVIDIA, what we have heard is TCS is a gold standard in 
+manufacturing NVIDIA solution development. We have built platforms. So, I think 
+really pioneering work done by our manufacturing teams.  
+ The other example is if you take Google - even before their new launch this year on 
+Google Gemini Enterprise, we started work with them ahead of time on their agent-
+
+ 
+ | 17   
+ 
+to-agent protocol, and TCS teams have done really pioneering work with Google, 
+which we started quite early. And we continue to partner with these companies, and 
+this is a very essential part of the solution and the integration work that we do for our 
+customers.  
+ So, with this, I'll wrap it up.  
+Client Testimonial from Ranil Boteju, Chief AI Officer for Lloyds Banking Group 
+Mr. Balaji - CEO’s Office, TCS: 
+We have a very special session today. You heard our CEO talk about building multi-decadal 
+partnerships with our customers and the deep trust that they have with TCS. You also heard 
+about how we make AI real for our clients from Aarthi in detail. We have a special guest today 
+joining us from London, Mr. Ranil Boteju. He is the Chief AI Officer for Lloyds Banking Group. 
+Lloyds Banking Group, all of you would know, is a premier bank globally, especially in the UK, 
+and has been a pioneer in terms of embracing technologies well ahead of its time. TCS has a 
+very strong partnership with them, right from the early digital days, through to the cloud 
+transformation, and then subsequently now with AI.  
+Ranil has over 25 years of global experience. He spearheads the bank's data and AI strategy, 
+overseeing cloud, data platforms, machine learning products, ethical AI frameworks, and data 
+literacy initiatives. Prior to joining Lloyds, Ranil held significant senior positions at major 
+institutions, such as HSBC, Standard Chartered, Vodafone, and the Commonwealth Bank of 
+Australia. Additionally, Ranil contributes to the UK's Information Commissioner's Office as a 
+non-executive director, where he plays a crucial role in data privacy and transparency 
+governance. Ranil's leadership is pivotal to Lloyds' transformation into a data-driven 
+organization with a strong emphasis on operational efficiency, customer experience, and 
+responsible innovation. 
+Without much ado, Ranil, the floor is yours.  
+Mr. Ranil Boteju - Chief AI Officer, Lloyds Banking Group: 
+ Thank you very much. So, look, I would really like to share my experience with TCS in 
+terms of the data and AI transformation they have been delivering at Lloyds Banking 
+Group. So, I've been at Lloyds Banking Group for about four years now. And, when I 
+started, we embarked on a very comprehensive transformation of data and AI. And I 
+really want to share with you how TCS has been a partner along that entire journey. 
+ So, obviously prior to me starting, TCS has had a very long relationship with Lloyds 
+Banking Group. But in the context of my role, I'll share with you the data and AI story. 
+So, really the first step coming into Lloyds Banking Group was a real focus for me on 
+building much more modern, up-to-date foundational data capabilities. And in the 
+work that was predominantly about migration of a significant amount of on-premise 
+data sources, from Hadoop, Cloudera Hadoop, to Teradata, to, you know, significant 
+amounts of data, we basically partnered with TCS to migrate that to public cloud.  
+ And really our relationship was very much around leveraging two things. So, firstly, 
+proven experience from TCS. So, in terms of the skills and experience they had with 
+
+ 
+ | 18   
+ 
+similar migrations to public cloud, we were able to tap into experts. And then similarly, 
+really build out the team. We had to scale very quickly. There was no way that we 
+could have actually built up our own team to do this work internally ourselves. So, the 
+partnership was very much on bringing us the skills, the IP, the thinking, the know-
+how to supplement my own team. And then as well as the really skilled engineers to 
+do the work as well. So, that was a very difficult program of work, but we managed to 
+get through that over '22 and '23.  
+ And then once we had a solid foundation of data on the cloud, my next focus was very 
+much on really scaling the new thing at the time, which was Generative AI. And so, 
+one of the things that I did was set up an AI Centre of Excellence, a whole bunch of AI 
+platforms. And again, we wanted to really leverage specific skills from TCS. And so, we 
+had a very senior-level engagement, almost CEO to CEO, where we said, look, we want 
+to get access to your best people. And we were able to get access to skilled engineers, 
+skilled AI developers from TCS who helped me form my AI team whilst I built my own. 
+But more importantly, really built out basically our initial Generative AI workbench, 
+we call that Cortex. That's now up and running. You know, we set some really strong 
+goals for ourselves. We said that by the end of 2025, we want to deliver at least 50 
+Generative AI use cases in production. We've actually overachieved on that. This year 
+we'll end with 57 use cases in production.  
+ TCS has been very much part of that journey, right. So, essentially, it's the access to 
+the skilled resources. It's your knowledge of the products that we work with. You 
+know, we work with both Google and Microsoft, but per the previous presenter, you 
+have strong proven links with both of these hyperscalers. We're able to tap into that 
+knowledge. And then secondly, just really helping us build the team. So, that's been 
+tremendously successful.  
+ Where we are now is, though, a very significant pivot to Agentic AI. So, we are now 
+really scaling up our Agentic AI capabilities. And again, we've had to lean very heavily 
+on TCS to access… Agentic AI is new for everyone. We've had to access TCS skills on 
+the engineering side, AI developers, but also in areas like responsible AI. I have a 
+Responsible AI team. It's stacked full of PhDs, but I still need access to what do others 
+do outside in thinking. And again, we've been able to secure some very skilled 
+colleagues from TCS to help us do that work. 
+ So, look, in summary, over the last four years at Lloyds, in our data and AI 
+transformation, TCS has been pretty critical to building the foundational capabilities 
+on public cloud. Secondly, when we pivoted to Generative AI, really standing up our 
+AI Centre of Excellence and the AI platforms, we really partnered, I would call it a 
+partnership, with TCS; that was very successful. We've ended the year with more than 
+50 use cases live in production. And our latest pivot towards Agentic AI, again, we're 
+going to lean very heavily on TCS. So, very exciting. 
+ What I would say, though, is I'm really excited about our partnership with TCS. So 
+myself, but all of my colleagues at Lloyds, all of the CIOs, even our CEO, I feel that the 
+one thing is… I've talked a lot about the skilled resources that you have, the ability to 
+spin up teams very quickly. That is definitely something that we value. But more 
+importantly, for us, we see the culture of TCS as being the thing that we like the most. 
+
+ 
+ | 19   
+ 
+I mean, whenever I'm in India, I will spend as much time with the TCS team as with my 
+own Lloyds Banking Group team. They are very much part of the team. We treat them 
+like the team. It's there's no real boundaries as far as I'm concerned. But just that 
+culture of coming to us with new ideas, suggesting things, it's been incredible for me 
+personally, but also for our AI progress at Lloyds Banking Group.  
+ So, that's kind of the summary. Really excited about the continued innovation with 
+TCS. So we've seen… Some of my colleagues were in India recently. We've seen a lot 
+of the new off-the-shelf Agentic AI solutions. So, again, very keen to explore those as 
+we continue to build out our own capabilities. So, look, I'm really pleased about the 
+direction of travel with TCS. We've achieved a lot together and very excited about 
+continuing to work together as we transform Lloyds Banking Group with Agentic AI. 
+So, that's kind of the main things I really wanted to cover.  
+Balaji Raghavan - CEO’s Office, TCS: 
+Thank you, Ranil. You've been very kind and generous with your time today. With that, I would 
+like to thank you for your time and hand it over back to Nehal. Thank you very much, Ranil. 
+Nehal Shah - Head Investor Relations, TCS: 
+Thank you, Balaji. I would now like to invite our Chief Strategy Officer, Mangesh Sathe, on the 
+floor. Over to you, Mangesh.  
+TCS AI Ecosystem 
+Mangesh Sathe - Chief Strategy Officer, TCS: 
+ Yeah, good afternoon, everyone. So, before I start, just an interesting observation. I 
+tried to chat with an LLM and ask whether I should wear a tie for this event. And I said, 
+it's an analyst day. And it said that absolutely I need to wear a tie. But if I look at the 
+room, I think that the LLM really requires more training, right? So, context.  
+ So, yeah, so I think if you see what we have covered till now, we have covered our 
+aspiration, right? And Krithi has laid out what we are all set to achieve. We have talked 
+about the five pillars. And today, I'm going to spend a few minutes on the fifth pillar, 
+the AI ecosystem, and the approach we are taking to build that ecosystem.  
+ So, if you see the Infrastructure-to-Intelligence stack, the AI stack that we have 
+outlined, there are multiple layers. And Krithi covered that there are a lot of 
+investments happening across all these layers. So, a lot of changes that are coming in 
+these layers. So, today, the customers look up to TCS or a partner like TCS and say, 
+hey, look, I really need someone who can make sense of all the layers of the stack, 
+right? So, I don't need a partner who comes and only talks about a particular layer. I 
+want somebody who can really understand that entire stack and also provide services 
+and navigate the stack so that we are able to really create some impact. I think we 
+talked about Lloyds Banking Group and how we have kind of created impact.  
+ Aarthi talked about autonomous cars. So, if, let's say a car company comes to us and 
+says that, look, we want to really build an autonomous product. So as TCS, if I have to 
+
+ 
+ | 20   
+ 
+really help the company end-to-end, I'll have to start with the chip as to what does the 
+chip need to look like, what should be the specification of the chip. Then I need to 
+really help cover the AI infrastructure, because every car is going to emanate a lot of 
+data, right? So, how do you really manage that data? How do you really deal with the 
+latencies that are required for a fully autonomous product? And then we get into the 
+models, the applications, and then the whole digital layer of interaction, right? So, as 
+a company, if I have to really add value to this particular case, my ability to really 
+understand this fully is very, very critical.  
+ So, one of the core elements of our strategy is to really have a meaningful presence 
+across all these layers. So, that's one of the core parts of our strategy. And now to do 
+that, of course, we are doing a number of things organically on our own. We are 
+building products, AI platforms. We are building services, transforming services. But 
+in addition to that, to really augment all of this, we feel that we need to also do what 
+we are calling as Build, Partner, and Acquire, because that is going to really help us 
+accelerate this journey. Because this whole aspiration has to be achieved soon. So, in 
+that case, we really need to use these levers as well. So, I'm just going to spend a 
+minute on each of these.  
+ So, the first one is the ‘Build’ part. Now, this is one example of the Build. This is not 
+the only build we'll do. So, building can also be around capabilities, services. We have 
+taken an example of a venture that we are building. So, this is the whole AI data centre 
+venture that we announced a few weeks back. The rationale for us to really do that is, 
+of course, there's a huge requirement that you see on the left. We currently in India 
+only have around 1.7 gigawatts. Expected demand is 10 to 12 gigawatts (by 2030).  
+ More importantly, if you see the middle column, the type of customers we are 
+targeting for this AI data centre are hyperscalers and AI companies. These are the 
+primary targets for us. And then, of course, we will also work with public sector and 
+private sector customers. Now, the reason we felt the need that we need to really 
+address this requirement is that the requirements are very unique. If I look at 
+hyperscalers, they are really talking about, if I have to get an AI data centre, it also 
+needs to work with all the other non-AI data centres that they may have in the region. 
+So, the latency becomes very important. The kind of performance they are expecting 
+from this data centre is very different from what today exists in the country. 
+ Similarly, in AI companies, while of course the default expectation is to really look at 
+India as a destination for inferencing, we are also working with them to really ask the 
+question, can I also look at India as a base for training? What can it kind of do? In 
+addition to whatever they are doing in the US and other geographies, can we look at 
+India as a geography for training?  
+ Public sector, of course, sovereign. I think a lot of things are said about that. So, 
+sovereign is a big requirement. AI governance - how do you really govern the 
+infrastructure? And then private sector, if you see what they are expecting, like the 
+example I gave, they want somebody who can come in and do the full stack. But more 
+importantly, apart from just providing services across the stack, you also need to 
+provide it at a low TCO (Total cost of ownership). That is finally… Like today, in initial 
+stages, maybe people are not asking so much about the spend, but this is going to 
+
+ 
+ | 21   
+ 
+become very critical soon. And once billions and trillions of tokens are going to get 
+generated, of course the cost becomes a very important factor.  
+ And lastly, the whole AI-led transformation. How do you deal with all these stacks, 
+layers of stack, and then really deliver a very meaningful transformation? So, for us, 
+the rationale was simple, that we feel that there is a unique opportunity for us to 
+position ourselves as a one-stop shop for all AI services. We also feel it is a great 
+opportunity to use this to deepen our partnership with hyperscalers, AI companies, 
+and the ecosystem per se. We also want to leverage all the deep domain expertise. I 
+think the examples that were given earlier, showcase a lot of depth in terms of 
+industry-specific, function-specific domain expertise that we have. So, how can we 
+translate that?  
+ And lastly, of course, this is a high-growth segment. So, whatever expertise we are 
+building, building our own data centres, we can start offering it to the other data 
+centre companies across the globe. So, that's one example of what we are building. 
+Finally, the plan is to build a gigawatt scale. We have announced a partnership with 
+TPG, and we are going to do the funding through equity and debt. 
+ Second part, Build, and then Partner. Partner, Aarthi has already covered a lot of it. I'll 
+probably highlight the middle portion first, which is when we say partnership and 360-
+degree, what do we really mean? To look at these three parameters: the whole aspect 
+of mutual services. I offer some services to the partner, we take some services from 
+the partner. So, that's one element that really creates a very tight relationship 
+between the two entities. But more importantly, then also, how do we work together 
+in driving growth? And this is… okay, you can start with regular go-to-market kind of 
+initiatives, but here we are also… with some of the logos that we have put here, we 
+are also working with them to define unique initiatives where we can penetrate a 
+certain industry segment, or a certain use case, or a certain function. How do we really 
+take that to the market in a very unique fashion? And lastly, the innovation and the 
+co-development that we can do with these partners.  
+ So, a lot of examples. So, NVIDIA, Aarthi spoke about. Similarly, with Google, now we 
+are defining how can we build industry-specific workflows. So, a number of things that 
+we are doing with each of these partners, which can help us become more tightly 
+coupled with the partner, as well as take something unique to the market. 
+ Lastly, on the acquisition part, the core focus of M&A is centered around capabilities. 
+We really want to ask the question strategically as to what capabilities can I Build? 
+What capabilities do I need to Acquire? And in some cases, build and acquire to kind 
+of do it together. So, some of the examples we have put is, like for example, in the big-
+bet areas, there are certain areas we want to acquire capabilities. But across the 
+service lines, advisory is a big area that we want to build and, in a way, acquire 
+capabilities for. 
+ Similarly, if I look at deep domain or service-line capabilities, all the big-bet areas that 
+were talked about, I think those become focus areas for us. Those are the growth areas 
+for us in the future.  
+
+ 
+ | 22   
+ 
+ And then market access, whichever markets, because as you start seeing the overall 
+technology market, you will have to now start going geography by geography, within 
+a geography, maybe sector by sector to really ask the question, where is the 
+penetration opportunity and how do I really now go after that aggressively? So, one 
+case in point here are the recent two acquisitions we have announced in the 
+Salesforce space, which is ListEngage and Coastal Cloud. So, the reason we did these 
+back-to-back and kind of did it together: one, it helps us really bolster capabilities 
+across advisory, implementation, and managed services. So, it helps me complete the 
+entire capability set. So, advisory services, it gives me multi-cloud. All the modules 
+within Salesforce get covered. It helps me deepen my partnership with Salesforce 
+because the companies that we have acquired have partner advisory board positions, 
+are summit partners, so they have a very deep connect with the Salesforce ecosystem. 
+So, it helps me deepen my partnership with Salesforce. It helps me cover market 
+segments. And lastly, of course, gets me 500-plus talented individuals in this particular 
+space.  
+ So, if you look at the map, so the top line is essentially the combined entity where I 
+put all these three entities together. And then below that, you see that individually, 
+TCS, ListEngage, and Coastal, how do they fare in terms of capability map across the 
+various modules within Salesforce. So, from services all the way to industry clouds, 
+you will see now that we have a full set covered. And it helps us, in a way, strengthen 
+the entire platform to take larger aspirations in this particular space.  
+ Also, market coverage, we have covered both the large enterprise as well as the mid-
+market, and the sectors as well. So, coverage aspect is also covered very well.  
+ And so, this is the approach that we will be using for M&A. I think even for partnering, 
+the unique approach we are looking at. And building, I think we have just started; we'll 
+look at other areas as well. Yeah, thank you.  
+Nehal Shah - Head Investor Relations, TCS: 
+Thank you very much, Mangesh. I would now like to invite our Chief Financial Officer, 
+Samir Seksaria. Samir, the floor is all yours.  
+Balancing Speed & Scale with Discipline 
+Samir Seksaria - Chief Financial Officer, TCS: 
+ Thank you, Nehal, and good evening, everyone. So, I think through the day, through 
+the immersion sessions which we had, when we heard Krithi, Aarthi, and Mangesh 
+speak, and probably from the demos also which we are going to see at EBC, you could 
+relate to it that we are doubling down on our aspiration to become the world's largest 
+AI-led tech services company. And towards that, we are focusing on two key things: 
+One is execution rigor, that is delivering real customer outcomes, and talent 
+transformation, which will ensure we stay ahead of the curve. And we have called out 
+our five-pillar strategy, the five-pillar framework, which will help us tap this 
+opportunity. And as you can see, in the past couple of months, we are shifting gears 
+quite rapidly in this fast-paced era. 
+
+ 
+ | 23   
+ 
+ So, if you look at the tech cycles, they have been compressing. Krithi also alluded to it 
+in his opening keynote. And in that context, gaining an early-mover advantage is 
+something which is important, and a competitive advantage. And unlike in the past, 
+when competitive advantage was only through acquiring capabilities, in the current 
+day and age, it is also dependent on how fast you are able to take those capabilities 
+to the customers, and how rapidly and efficiently you are able to scale them.  
+ Our investment approach, keeping that in mind, is towards balancing innovation 
+speed with scalable, profitable growth. And that is what should position TCS as a 
+market leader in the AI-driven services. I'm not going to cover the investments 
+because Aarthi and Mangesh covered a lot across on the investments part. But putting 
+it in the framework, our overall strategy is built towards three growth engines in terms 
+of ‘Build, Acquire, and Partner’. Traditionally, TCS has looked at investing primarily on 
+the organic side, but as we heard through the conversations, it is important that we 
+invest across our strategy, our investment approach, across all three of them: Build, 
+Partner, and Acquire.  
+ If you look at ‘Build’, which is basically driving innovation from within, we have been 
+investing on talent, on the intellectual property, on infrastructure, and in terms of 
+democratizing AI across TCS. If we look at our annual spend just on the ‘Build’ part of 
+it, we spend about US$1 billion annually on learning and development, on targeted 
+research and innovation, and on specialized infrastructure towards the new services 
+which we have been talking about. This doesn't include the use case which Mangesh 
+talked about on the HyperVault (AI DC). This is the existing investments which we 
+currently do.  
+ From an acquisition strategy, our focus is on building capabilities, acquiring synergies, 
+and driving high-quality revenue, which will help us build multi-year cross-sell 
+opportunities.  
+ And from a ‘Partnership’ perspective, this was covered in detail, mainly the benefits 
+which we get is faster integration in client environments. We are able to lower our 
+upfront build cost. We have an opportunity to have a shared investment model. And 
+most importantly, like Mangesh also said, we get early access to innovation, and we 
+are able to build cross-sell pipelines.  
+ To reiterate, we want to invest at scale across the stack from ‘Infrastructure to 
+Intelligence’, and this is where we believe we will be able to deliver exponential value 
+to our clients.  
+ Looking at all the investments which are coming, I'm sure the question which comes 
+to mind is how are we going to manage the return metrics and the margins? And, as I 
+talked about, we already invest about US$1 billion as investments, and our focus 
+would be, the incremental investments would be funded partly through repurposing 
+some of the existing spend, specifically around the learning and development part of 
+it, into newer age spend which are required. Second, is leveraging our balance sheet. 
+And lastly, there would be areas which will require an offset, through operational 
+efficiencies. And towards that, we will be continuing our focus on operational levers, 
+the ones which we have called out traditionally - utilization, pyramid, SG&A, etc. We 
+
+ 
+ | 24   
+ 
+will also look at prioritizing tools, platforms, and reusable components. We'll also look 
+at shifting the revenue mix towards higher value, higher margin services, and focus on 
+delivery productivity. Our intent would still be to make all the investments, and over 
+a period of time, shift towards our aspirational band, the guided beacon of 26% to 
+28%. Currently, as of last quarter, we were at 25.2%.  
+ Next, we will discuss how some of our investments affect our ROE. If you look at the 
+last five years, our ROE has improved from 38% to 51%. And if you look at our peer set 
+of six competitors who are in our closest band range, their average ROE is at less than 
+25%, approximately 23.6%, and the next best is at 30%. So, we are 2x the average of 
+our peer set. And if you look at the AI Data Centre business case also, the way we have 
+been able to structure it, not just the debt part of it, but the variable return with the 
+private equity partner, which we have announced, ensures that we are able to 
+participate and lock in higher returns for us, and that should give us better IRRs, as 
+well . Most of the data points are available publicly for you to calculate and evaluate, 
+that the impact of the investments which we'll be making, is not more than US$ 1 
+billion over a period of seven years, annual investments being even less, on the TCS 
+balance sheet, will be very marginal, and we are confident we'll be able to maintain 
+industry leading return metrics. 
+ Lastly, we come to our capital allocation policy. If you look at the data point, last five 
+years we have been returning 80% to 100% of free cash flow to our shareholders, and, 
+our stated policy has been that we'll be returning substantial free cash flows back to 
+our shareholders. Going forward, we'd look towards returning 80% to 100% of FCF 
+post all investments. Since our share listing 21 years, if I take the IPO price at ₹ 850, 
+and if we take the dividends which have been given, just the dividends in the last 21 
+years, it totals up to about ₹5,600, for one equity share which was invested, plus an 
+opportunity to participate in the five buybacks which we have done, and the capital 
+appreciation itself which has happened on the baseline is about 30x. So TCS has been 
+and will remain a long-term value compounder. 
+ Re-emphasizing the messages which Krithi alluded to, we are entering this decade, or 
+this positioning, with a strategy which is clear, a team which is prepared, and a balance 
+sheet that gives us optionality without volatility. And what plays to our advantage is 
+what we call as the TCS advantage, which is in terms of our client trust, our delivery, 
+our execution prowess, our talent, and our financial architecture. And with that, we 
+should be able to deliver growth with profitability and ensure shareholder returns.  
+ That's it from me.  
+Question & Answer Session 
+Nehal Shah - Head Investor Relations, TCS: 
+Thank you very much, Samir. With this, we come to and end for all the speaker presentations. 
+We would now like to start the Q&A session. Anyone wishing to ask a question, kindly please 
+raise your hand, so that the volunteers can come and share a mic. Please share your name 
+and organization name for the benefit of everyone who's listening to the webcast.  
+
+ 
+ | 25   
+ 
+I would now like to call upon the TCS management: Krithi, Aarthi, Samir, Mangesh, and 
+Sudeep, to start the Q&A session.  
+Ankur Rudra – JP Morgan: 
+ Thanks. This is Ankur from JP Morgan. First question is, you know, thank you first of 
+all for the great presentation and all day long has been excellent and a lot more data, 
+so really learned a lot. Your vision statement of becoming the leading AI-led tech 
+services firm, how should investors evaluate that over time? If you can just highlight 
+which metrics, what drivers, what should we see to see the success over the next three 
+to five years? 
+K Krithivasan - MD & CEO, TCS: 
+ So, we define those five pillars. Each of these five pillars also have sub parameters. 
+Internally, the way we are looking at is, how do we drive these five pillars? For 
+instance, we talked about what is the business value? How do we reimagine the 
+business value chain as the fourth pillar? We talked about how we redefine our 
+services through leveraging AI. So, each of these have sub pillars. The way internally 
+we are going to be measuring is on how we are progressing on each of these individual 
+metrics.  
+ See, obviously, overall metric could be on how would be the AI driven revenue that 
+comes to the organization. 
+Ankur Rudra – JP Morgan: 
+ Thank you. Just a follow-up question is on margins. You did say that you want to 
+maintain the 26% to 28% band. However, if you look at the last 7-8 years, it's been 
+tough to sort of stay there. Given a lot of the investments, you will be doing going 
+forward, doesn't it make sense to maybe change the band to around where we are 
+right now, giving you a lot more operational flexibility and be more competitive in the 
+market? 
+Samir Seksaria - Chief Financial Officer, TCS: 
+ See, overall, what we believe is, with our cost structures, we should be able to operate 
+in the 26% to 28% band. We believe that the early investments which we have been 
+making has been the source of how we are able to maintain sustained industry-leading 
+margin band. And we are taking the challenge that considering all the investments, we 
+will incrementally make, we would want to shift towards 26% - 28%.  
+ To the point in terms of the last couple of years, you would also see that there would 
+be various points of times where we would have come closer to 26%, and then we 
+would have made some investments. So, it won't be that we will be stuck on not 
+making the required investments at the cost of profitability. Growth with profitability 
+will remain our mantra, and we will not be shy of investments, at the same time we 
+will be driving margins towards the 26% - 28%. 
+Kawaljeet Saluja – Kotak Institutional Equities: 
+
+ 
+ | 26   
+ 
+ Hi, this is Kawaljeet Saluja from Kotak Institutional Equities. Thanks a lot for the 
+presentation. First question is, advisory/consulting focus. That's an area where, let's 
+say, TCS may have not prioritized this, at least explicitly, in the past. Now, as you drive 
+down the advisory path, both through organically as well as through acquisitions, what 
+are the challenges in execution that you see? And more importantly, what has 
+changed for you to prioritize the advisory/consulting part so much? 
+Mangesh Sathe - Chief Strategy Officer, TCS: 
+ So, if you see the overall tech and advisory space, I think most of the incumbent firms 
+are also going, or rather experiencing a lot of change, both in terms of what customers 
+expect them to deliver, as well as the way they need to deliver it. I feel this is the right 
+window for us to look at a more updated model of advisory or consulting, which will 
+essentially be more driven by AI and analytics, and coming from our place of strength, 
+which is technology. Given some of the stack conversations we have had, I don't think 
+success can be just about providing advisory, it is also about going through all the 
+other layers of the stack to actually help the customer deliver it.  
+ But we'll have to build that initial muscle of advisory as well, because that's where the 
+impact, or the conversations get pegged at the right level for us to drive that impact 
+across the layers. So, we see that as an opportunity, right opportunity for us to 
+consider building that capability. 
+Kawaljeet Saluja – Kotak Institutional Equities: 
+ The second question that I had is for Samir. How do you define that US$ 1 billion of 
+investment? Is it annual? Is it to the P&L? Is it OpEx, CapEx? If we can just get some 
+more color on it. 
+Samir Seksaria - Chief Financial Officer, TCS: 
+ This is one billion dollars in annual spend, completely on OpEx, completely on the P&L. 
+The key components are on the learning and development part, learning and talent-
+related, industry-specific or new services-specific R&I, and specialized infrastructure. 
+Kumar Rakesh - BNP Paribas:  
+ Hi, thanks. This is Kumar Rakesh from BNP Paribas. My first question is around the 
+new-age services revenue, which you called out at about US$11 billion. That means 
+there is still a large legacy revenue base, almost two-thirds of it. How do you see 
+managing that in the coming years? More importantly, this new-age services revenue 
+of $11 billion is growing at about mid-single digits, so the growth is not phenomenally 
+great in that piece as well. The new-age services growth is not significantly strong, and 
+the legacy revenue will most likely continue to get cannibalized as we expand AI 
+implementation across our service lines. How are you going to manage your growth 
+in this overall context? 
+K Krithivasan - MD & CEO, TCS: 
+
+ 
+ | 27   
+ 
+ Kumar, as pointed out, our overall new-age services revenue is growing faster. First of 
+all, you’ll understand that, there is moderation and subdued performance due to 
+overall market sentiment; that's the overhang we have. But within that, new-age 
+services are growing faster than traditional services. With increased investments 
+under a stronger strategy around new partnerships, new investments, and initiatives 
+like data centres, and our new strategy, we believe new-age services will grow faster 
+to offset any deceleration or drag in traditional services. 
+Kumar Rakesh - BNP Paribas:  
+ Got it. My second question goes back to something we discussed earlier: how do you 
+define being the world's largest AI-led services company? Are there any specific 
+metrics?  
+K Krithivasan - MD & CEO, TCS: 
+ Kumar, we will try to publish. See, at this time, we took it as a vision and identified five 
+pillars we are working on. Like I was telling Ankur, we look at the sub-pillars where we 
+are putting our energy and effort.  
+ The obvious metric is AI-driven revenue; we have published where we stand and we 
+will continue to publish it as we go forward, and that's the external metric.  
+ But internally, we are going to be driving all the parameters. To us, those parameters 
+are equally or more important because there could be a lag in the external revenue 
+we report, but it will keep us honest. We will focus on internal parameters and 
+individual line items Aarthi described. 
+Ruchi Mukhija – ICICI Securities: 
+ Two questions. First, in any technology transformation cycle, we have seen first-mover 
+advantage along with scale. As TCS looks at data centres, and TCS has always enjoyed 
+the scale advantage, do you think scale will be essential, along with being a first 
+mover? 
+Samir Seksaria - Chief Financial Officer, TCS: 
+ Scale definitely plays a role. One of TCS's advantages, apart from delivery execution 
+and client trust - multi-decadal trust; our scale and breadth and depth will play a 
+positive advantage. 
+Ruchi Mukhija – ICICI Securities: 
+ So, we will put capital to use to achieve that scale advantage as well? 
+Samir Seksaria - Chief Financial Officer, TCS: 
+ When we saw the full stack and what we talked about, the investments, we will be 
+leveraging and making investments where we see focused returns coming in. Yes, 
+absolutely, we will be using our capital.  
+
+ 
+ | 28   
+ 
+ But we will also be partnering. As we saw, if you take the data centre case, the 
+investments would be prudent and it would be structured. So, the balance sheet does 
+play a role. 
+Ruchi Mukhija – ICICI Securities: 
+ Secondly, the US$1 billion spent that we highlighted, can you tell us how historically it 
+has trended? Is the intensity of investment on rise as we are going through these 
+technology changes, or have we been consistent at whatever level you want to define 
+in making those investments?  
+Samir Seksaria - Chief Financial Officer, TCS: 
+ We have been making early investments across, and if we take it as a percentage, as I 
+said, our focus would be to make the right investments. Some part of the investments 
+will also be repurposed into things where we want to focus on. And we would, if 
+required, to the other question previously, we will elevate our investment need also. 
+‘Growth with profitability’ would be the mantra. It need not be that we will shrink our 
+investments in the near term to let go long-term growth.  
+Arup Roy - Gartner: 
+ Arup from Gartner. My second question first is to Aarthi, and I’ll let you think about it, 
+which is, how do you foresee your organization structure to look like by 2030, because 
+you will have your agents as co-workers with your engineers.  
+ My first question is perhaps to Samir or Mangesh, which is about your India AI DC 
+venture, which is going to be completely opposite to the asset-light DNA that TCS has 
+maintained over the past 20–25 years. Are you not thinking about coming up with a 
+special purpose vehicle to do it, or is it going to be done under the TCS fold? But the 
+key question over here is where is the synergy? That’s what I’m getting at. Where is 
+the synergy with TCS’s overall services business in the global scheme of things? 
+Samir Seksaria - Chief Financial Officer, TCS: 
+ So, to answer your first question, there is a special purpose vehicle. We’ll be making 
+the investments with locking in an anchor customer. And as I talked about the 
+structured investment, we will be leveraging the balance sheet. We have also 
+announced an equity partner i.e TPG. We have announced creation of a subsidiary 
+HyperVault which is formed as a special purpose vehicle to invest in AI DC. 
+ In terms of synergy, we benefit from both front-end synergies. As I said, the anchor 
+customer typically would be a hyperscaler or an AI-led company, and it is not just 
+about the business. It’s a 360-degree relationship which we will get from them. Also, 
+the back-end synergies, where we can leverage, because the data centre is all about 
+cooling, power, and connectivity. With the #OneTata advantage, we can also look at 
+getting optimized value from them or any other players which would be available. 
+Aarthi Subramanian - Executive Director & Chief Operating Officer, TCS: 
+
+ 
+ | 29   
+ 
+ Arup, your question on how the organization structures would look like. You know, in 
+a world where humans and agents work alongside, I think this is an area which is 
+evolving. The more we move to Level 4, Level 5 autonomy is where you’ll have agents 
+which can do a task that a human does. Today, if you really see Level 2 and Level 3, 
+that is where the human is primary and AI is in a supportive role, in an assistant role, 
+if you will. So, this is something which is evolving, but where we are seeing this play 
+out currently is more in the autonomous GBS. In business process, we’re seeing that 
+there are certain tasks in the business process value chain which are being completely 
+done by agents. In BPS, we have got this model where human plus AI is working 
+together, and there are tasks which are autonomous. How do you orchestrate work? 
+That’s where we are building orchestration layer, where the orchestration layer really 
+knows what task is being done by the human plus what tasks are being done by the 
+AI, so that oversight is coming in that layer. But early days. 
+Nitin Padmanabhan - Investec: 
+ So, two questions actually. First one is, last year I think for the first time you actually 
+showcased COBOL to Java application modernization and things like that. It’s been a 
+year now. There should have been a lot of learnings on nuances. Just trying to 
+understand, that’s a very large market, obviously, and how much adoption are you 
+seeing on this, and how rapid is it? Do you think you’ll see a lot of those next year? 
+And, just to get a feel of these things, you highlighted a project with 50 million lines of 
+code being converted. Typically, as an example, how large are these projects, and how 
+long does it take? That was the first question.  
+ The second one is, earlier today you showed us how we could rapidly create a use 
+case, and how it’s very interesting for organizations. I understand that very well, 
+because CEOs would love that because it creates momentum in the organization in 
+terms of GenAI creation. But what I’d like to understand is, there’s a lot of talk around 
+creation of an AI fabric or a foundation layer. What does that look like? My 
+understanding is something, and I’d like you to ratify whether right or wrong, and what 
+it means. My understanding is that you have all the APIs, all the knowledge, all the 
+context in a layer. Does it mean that if I’m able to create that use case rapid prototype 
+with just the front end, you can agentically stitch together something if there is 
+maturity on that fabric layer? If that is the case, then from a TCS perspective, where 
+we have always been master systems integrators, what happens to business in 
+general, and how long does this transition take? 
+K Krithivasan - MD & CEO, TCS: 
+ Yeah, I’ll take the first question. On the modernization front, there is immense 
+demand. In the past, there has not been a proper business case for technology 
+modernization. Particularly when you want to move from a technology like mainframe 
+into any new modern technology, there was no financial business case. Even from a 
+risk perspective, not many people knew what was the business logic that was used in 
+those old systems, and to reliably translate them into a modern technology has always 
+been a challenge. But what Generative AI does is, gives you the ability to understand, 
+and a human can validate the understanding, so you can encapsulate the knowledge 
+
+ 
+ | 30   
+ 
+that’s residing. It also provides a framework through which you can modernize to a 
+new technology. 
+ The example that you talked about is progressing quite well. Again, these are also very 
+complex programs. It’s not that you turn on a switch and 50 million lines of code 
+convert themselves into Java. It requires an amount of human intervention and 
+validation. But of course, that’s one large example. What you see more and more 
+common are what Aarthi calls rapid builds, we showed it as CodePlus as a platform 
+here, where we have the ability to move from X to Y, like from Tableau to Microsoft 
+platform, or from a TIBCO code to Java. There are multiple opportunities that exist, 
+and these are all much simpler because the codes are more recently written within 
+the last 10 to 12 years, and not very large or complex like the 50 million lines of code. 
+Such programs are very time-bound. Outcome could be measured, and results and 
+value can be achieved in a short time. Mostly, we try to do it in a three-month period. 
+Those programs are quite often. I don’t know the number, probably Aarthi has a 
+number of programs we have done. We’ve done a very significant number of 
+programs, and there’s a real opportunity for that. 
+Aarthi Subramanian - Executive Director & Chief Operating Officer, TCS: 
+ If I may just add, if you look at the technology debt across the organization, it’s in core 
+systems, it’s in integration, it’s in data, it’s in reporting; so across layers. The CodePlus 
+platform that Krithi talked about, and some of it you’ll see when you go to our 
+Executive Briefing Center. So, what it does is, it actually accelerates X to Y migration, 
+as I like to call it, across these layers, like Krithi gave some examples. So, I think what 
+we’re also seeing is, the same modernization programs that we did last year, this year 
+we are able to do with much more productivity. One, technology capability has 
+advanced. Plus, our own understanding of work with AI and what the human in the 
+loop needs to do, has also advanced. 
+ In terms of projects, we are seeing the mainframe, the 50 million lines of code, those 
+are all big projects. But there are also a number of short-cycle projects that we are 
+seeing. Today, we are seeing a lot of that in BFSI, and other industry verticals are now 
+starting to catch up. But I would say that we’re seeing a lot more in the BFSI space.  
+ Now, coming to your second question, I would like to answer it more simply from an 
+SI (systems integrator) perspective; the role that we play. I think I sort of briefly 
+covered it. If you really look at it in any enterprise, while we can do the rapid builds, 
+build the AI apps, agents, right, fairly quickly, where the work goes is in the plumbing; 
+connecting it back to the data, connecting it back to the systems. And more 
+importantly, if you look at the Infrastructure-to-Intelligence (I2I) layer, across each 
+layer there is a significant amount of work to be done to integrate. And today when 
+we move… the way we’re building apps today, we’re connecting it to the model and 
+to the data. But going forward, to Krithi’s point on building learning systems, the more 
+we start creating these learning systems, creating the decision infrastructure, that is 
+where a lot of work across all layers of the I2I framework we showed you. 
+ When it comes to agents, not just individual agent building, but agent-to-agent 
+interaction, agent interaction which is the fabric layer that you alluded to, while you 
+
+ 
+ | 31   
+ 
+can build many things quickly, but stitching things together and bringing the 
+contextual knowledge of the customer is where we come in. 
+Nehal Shah - Head Investor Relations, TCS: 
+Thank you, participants, and the TCS management. We conclude the session now. We hope 
+these sessions have been informative and useful for all of you.  
+-------------------------------------------------------------------------------------------------------------------------- 
+Note: This transcript has been edited for readability and does not purport to be a verbatim 
+record of the proceedings. 
+ 
+ 
+ 

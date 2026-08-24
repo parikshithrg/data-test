@@ -1,0 +1,904 @@
+ 
+Newgen Software Technologies Limited 
+CIN: L72200DL 1992PLC049074, E-44/13, Okhla Phase II, New Delhi 110020, India 
+Tel: +91 11 46533200, 26384060, 26384146   Fax: +91 11 26383963
+ 
+Registered Office: A-6, Satsang Vihar Marg, Qutab Institutional Area, New Delhi 110067, India 
+Tel: +91 11 40770100, 26964733, 26963571   Fax: +91 11 26856936 
+info@newgensoft.com   www.newgensoft.com 
+ 
+  Date:  25th July 2022 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai – 400001 
+National Stock Exchange of India Limited 
+Exchange Plaza, Plot No. C/1, G Block,  
+Bandra- Kurla Complex 
+Bandra (E), Mumbai – 400051 
+Ref.: Newgen Software Technologies Limited 
+(NEWGEN/INE619B01017) 
+Scrip Code – 540900
+Ref.: 
+Newgen 
+Software 
+Technologies 
+Limited 
+(NEWGEN/INE619B01017)
+ 
+  Sub.: Outcome Transcript – Conference Call – Q1 FY’23 
+ 
+  Dear Sir/Ma’am 
+ 
+As intimated earlier through our letter dated 18th July 2022 regarding the Conference Call of the 
+Company, which was held on Wednesday, 20th July 2022 at 04:30 P.M.(IST), please find 
+enclosed herewith a copy of the transcript of the said call with the Investors/ Analysts. 
+ 
+The transcript of the said call shall be made available at the website of the Company under the 
+URL https://newgensoft.com.  
+ 
+  This is for your kind information and record. 
+ 
+  Thanking you. 
+ 
+For Newgen Software Technologies Limited 
+ 
+Aman Mourya 
+Company Secretary 
+ 
+
+Page 1 of 19 
+ 
+ 
+“Newgen Software Technologies Limited 
+Q1 FY2023 Earnings Conference Call” 
+ 
+July 20, 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ANALYST: 
+MR. ANIKET PANDE – LEAD TECHNOLOGY ANALYST - 
+ICICI SECURITIES 
+ 
+MANAGEMENT: MR. DIWAKAR NIGAM – CHAIRMAN & MD – NEWGEN 
+SOFTWARE TECHNOLOGIES LIMITED 
+MR. VARADARAJAN – WHOLE TIME DIRECTOR - 
+NEWGEN SOFTWARE TECHNOLOGIES LIMITED 
+MR. VIRENDER JEET – CEO - NEWGEN SOFTWARE 
+TECHNOLOGIES LIMITED 
+MR. ARUN KUMAR GUPTA – CFO – NEWGEN 
+SOFTWARE TECHNOLOGIES LIMITED 
+MRS. DEEPTI MEHRA CHUGH – HEAD (INVESTOR 
+RELATIONS) – NEWGEN SOFTWARE TECHNOLOGIES 
+LIMITED 
+~
+newgen 
+~
+newgen 
+fl 1c1c1 Securities 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 2 of 19 
+Moderator: 
+Ladies and gentlemen, good day and welcome to Newgen Software Technologies Limited 
+Earnings Conference Call hosted by ICICI Securities. As a reminder all participant lines 
+will be in the listen-only mode and there will be an opportunity for you to ask questions 
+after the presentation concludes. Should you need assistance during the conference call, 
+please signal an operator by pressing “*” then “0” on your touchtone phone. Please note 
+that this conference is being recorded. I now hand the conference over to Mr. Aniket Pande 
+- Lead Technology Analyst from ICICI Securities. Thank you and over to you, Sir! 
+Aniket Pande: 
+Thank you Peter. Good afternoon everyone and welcome to the Q1 FY2023 results of 
+Newgen Software Limited. Connecting with me today from the management side is, Mr. 
+Diwakar Nigam, Chairman and MD, Mr. Varadarajan, Whole Time Director, Mr. Virender 
+Jeet, CEO, Mr. Arun Kumar Gupta, CFO, and Mrs. Deepti Mehra Chugh, Head, Investor 
+Relations. I now hand over the call to Mrs. Deepti for further proceedings. Thank you and 
+over to you Deepti! 
+Deepti Mehra Chugh: 
+Thank you Aniket. Good afternoon everyone. I am Deepti Mehra, Investor Relations, 
+Newgen Software, and I welcome you all to the Q1 FY2023 results of the company. 
+ 
+Before we move on to the discussion, let me highlight that this call may contain certain 
+forward-looking statements concerning Newgen’s future business prospects and 
+profitability, which are subject to a number of risks and uncertainties and the actual results 
+could materially vary from the forward-looking statements. Past performance may not be 
+indicative of future performance. The company does not undertake to make any 
+announcement in case any of these forward-looking statements become materially incorrect 
+or update any forward-looking statements made from time-to-time by or on behalf of the 
+company. For further details, you may please refer to the Investor Relations section of our 
+website. I now hand over to Mr. Nigam for presentation of the results, which will be 
+followed by the Q&A. Thank you. 
+Diwakar Nigam: 
+Thank you, Deepti. Good afternoon everyone and thank you for joining us today for our Q1 
+results call. We are starting FY2023 on a strong note with revenue growing at 18% Y-o-Y. I 
+would like to highlight once again that there is a seasonality in our business due to the 
+license-based model historically. Q1 is a leaner quarter in comparison to the rest of the 
+quarters thus we do not look at the sequential performances in the business. 
+ 
+Having said that, we are now increasingly seeing a growth in Cloud Subscription side of 
+business, which grew by 33%. The Cloud and Subscription revenues put together have now 
+reached 38% of our total revenue. This shift is expected to lower the seasonality in the 
+coming years and lead to more uniformly in revenues across the quarters. The annuity 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 3 of 19 
+revenue for the quarter was Rs.131 Crores witnessing a growth of 25% Y-o-Y. The annuity 
+revenues comprise now 70% of our total revenues in Q1. 
+ 
+In terms of geographic growth during the quarter was led by India and the EMEA markets. 
+Indian market had been subdued for some times now and we are happy to see developments 
+in this market. We have entered into key transformation projects with existing customers 
+including license agreement with an India-based oil major, and a key life insurance player 
+in India. EMEA continues its growth trend since last year. The U.S. market has been 
+lacking traction and we are working across the various initiatives to combat the same. We 
+had new logos win in Q1 2023, 6 totally with two logos in America's region. 
+ 
+Moving to update on our offerings and opportunity. Just as the cloud eased scalability and 
+distribution access at an infrastructure level in the past decade, low-code platforms are now 
+equipping organizations with the ability to develop their business applications faster to 
+digital technologies and abstracted for ease and functional wages. 
+ 
+The next phase of our product journey will be led by Artificial Intelligence and Data 
+Sciences led digital automation. Organizations are now looking to leverage data to take 
+informed decisions. NewgenOne along with Number Theory has now become a unified 
+platform for meeting all data sciences need of the customers. We continue to work on our 
+long-term platform and cloud roadmap. We have announced NewgenOne with cloud native 
+multi-persona Artificial Intelligence and Data Sciences platform. The platform is further 
+enriched with intelligent document classification and extraction, integrated processes, and 
+RPA capabilities. Also we have strengthened our DevOps for easy application 
+requirements. 
+ 
+We have recently commissioned Forrester Consulting to conduct a total economic impact 
+study and examine the potential return on investment to the enterprise. Enterprises implying 
+our solution may realize Newgen solutions are giving very good ROI. We are happy to 
+share that key findings in terms of the ROI and payback period have been very encouraging. 
+ 
+On operational fronts, we are increasingly seeing the employees back to the workplace in-
+person meetings, team collaboration, and customer meetings are now increasing, business 
+travel is starting to normalize. We have started hosting and participating in face-to-face 
+events and doing in-person customer meetings. At the same time we continue to offer the 
+required flexibility to our employees, we have been investing in all spheres of talent 
+acquisition, retention development and incentivization to mitigate the impact of elevated 
+attrition cost across the industry. 
+ 
+On the sales and marketing front we are continuously working on building our direct sales 
+channel along with focused alliances with our partners especially the system integrators to 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 4 of 19 
+expand our markets. With the partnership the system integrators we are driving joint sales, 
+marketing activities and campaigns as well as joint solution development. 
+ 
+During the quarter we entered into strategic alliance with companies like India-based 
+Coforge and Indonesia-based Anabatic Digital as a part of our strategy to accelerate digital 
+for organizations across geographies. We are also exploring partnership with large 
+consulting firms. 
+ 
+Profits and margin: Q1 has historically been a low profit quarter for us given the non-linear 
+revenue across the quarter. Our profit after tax for the quarter was at Rs.19 Crores. We are 
+increasingly witnessing normalization of the cost base. Employee costs have increased on 
+account of salary increments and continuous supply side challenges leading to additional 
+cost. In addition there has been normalization of travel expenses. We continue to invest in 
+our global expansion, our product, in our people. 
+ 
+During the year R&D expense comprising about 11% of the revenue and sales and 
+marketing expenses comprise 25% of the revenue as usual. As an organization we remain 
+committed to our medium-term margin targets and working across initiatives to achieve the 
+same. Our net cash generated from the operating activities was at Rs.73 Crores. Our net 
+trade receivables were 226 Crores at the end of the June which resulted in net DSO of 102 
+days. 
+ 
+To conclude, we believe we have a resilient and growth-oriented business model in place 
+for long-term. Our Cloud and Subscription revenues have been growing at fast pace, 
+providing healthy visibility of long-term revenues. Our products have significant leverage 
+across both sides of the market opportunity, revenue enhancement as well as cost 
+optimization. 
+We have been continuously investing in improving our strength and solving multiple 
+business goals for organizations. This includes in transforming a business to maximize 
+organizations growth and market share and become future ready, digitalizing the process for 
+enhanced operational efficiency and cost optimization, applying analytics and data sciences 
+to accumulate it for process data generating business intelligence insight for enhanced 
+decision making, building new machine learning model and using these to improve a 
+straight through business process, reinventing business model. 
+ 
+That is it. We are now open to Q&A. Thank you. 
+Moderator: 
+Thank you very much. We will now begin the question-and-answer session. Our first 
+question is from the line of Akshat Agarwal with Jefferies. Please go ahead. 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 5 of 19 
+Akshat Agarwal: 
+Good afternoon Sir and thank you for the opportunity. A couple of questions from my side; 
+Firstly why is it that we are seeing a steady decline in new logo additions for the company 
+over the past several quarters? It used to be about 20 new logos every quarter it is currently 
+come down to 6 that is one. Secondly we were expecting a step up in growth in the U.S. 
+markets particularly driven by our partnerships with GSI what is happening there and why 
+is it that U.S. markets are not performing the way we expected them to perform? That is it 
+from my side, thanks a lot. 
+Virender Jeet: 
+First on the new logo front we have historically been able to generate around 50 to 60 logos 
+a year and we have also moved away from some channel-based sales which we used to 
+generate larger momentum of logos there were smaller ticket items. In last two, three years 
+we have deliberately shifted from them and as we are progressing in the markets its getting 
+more and more meaningful for us to get after slightly larger deals which fit in our profile of 
+about 200k of annuity or more. This is one of the switches and one of the reasons in fact 
+where we have also suffered in terms of moving away from such accounts both in U.S. and 
+in other markets as well. While having said that our expectations even for this year is to do 
+around 50 to 60 new logos and some of these logos are very large and they will give us 
+multi-year revenue. Q1 we have missed some orders which have slightly got delayed or 
+deferred, but on a yearly basis we are still on track to do around number of 50 to 60 new 
+logos and we are hopeful that, that is going to happen. On the growth in U.S. market I think 
+we explained that last time also there are a couple of factors. Last year for last six quarters 
+ending up to March we had a one-time PPP revenue which was generally between 5 Crores 
+and 8 Crores on every quarter which was not sustainable and recoverable. The second part 
+of this issue is also we have completely shifted from license sales, some of the license deals 
+which we used to get from Caribbean and other countries we have completely stopped and 
+gone to subscription. So there is a decline, but the other bigger factor is we have realized 
+that in U.S., some tier of accounts which we are pursuing as part of our direct go-to market 
+strategy on banking. We do not see substantial yield coming them as part of repeat business. 
+So we slightly shifted that to larger accounts and we are hopeful in some time we are able to 
+build that business and go to a more meaningful tier of accounts because getting given those 
+25 logos we are not able to generate a substantial value in the business. So we are doing 
+some amount of pivot out there. On the GSI front we have been telling continuously I think 
+the funnel though it is very positive, but the deal flows are not at the same speed as we 
+expected. We will close some deals with GSI this year also I think last year also we closed 
+5, 6 deals. I think we are hoping that this year also will be doing better number than that, 
+but it is not at the same speed. Having said that I think we have reached in U.S. a number 
+which is at the most bottom. This number is based on almost the regular annuity business 
+which we generate from U.S. So any deals which we have got last quarter and this quarter 
+should start adding revenue to the coming quarters and we are hoping towards the next three 
+quarters U.S. will show a growth momentum because the current revenue is at a very base 
+level. I hope that answers your question. 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 6 of 19 
+Akshat Agarwal: 
+Thanks a lot. It is very helpful that is it from my side. 
+Moderator: 
+Thank you. Our next question is from the line of Sachin Jain from Carnelian. Please go 
+ahead. 
+Sachin Jain: 
+Thank you for the opportunity. My question was largely on U.S. because that is one of the 
+key regions for your larger strategy. So can you give more qualitative comment what is 
+happening at a GSI front though you covered a bit on a previous question’s previous answer 
+but can you give more quality because I think it is last one and half or two years you are 
+making efforts towards U.S. and we are not seeing meaningful traction yet. So can you give 
+more qualitative input how it is unfolding for you one from GSI monopoly and second your 
+direct sales point of view? 
+Virender Jeet: 
+I will try to further give you some color. See what has happened in U.S. as you are rightly 
+saying we have two businesses one is our direct sale business which is typically going in to 
+tier two, tier three banks in U.S. Out there we have a steady funnel of winning deals. Of 
+course during the COVID period those banks behaved very differently and we did not have 
+a lot of banks winning, but the other bigger challenge we did not see long-term potential in 
+some of that account base because they were too small to give us repeat businesses. So the 
+cost of sale our lifetime was not recoverable. So we have done a deliberate pivot of leaving 
+a large part of that market and going to slightly larger accounts. So this is one part and as 
+part of that we have instructed the U.S. team, they are working on that and that will happen 
+over a period of time. The second part of the GSI as I told I think we have done a fuel work 
+on the GSI ecosystem, now we have strategic partnership with multiple players, we have 
+funnel going we are approaching that market but the challenge is our control on the deal has 
+been very less out there in terms of closure cycles and we have seen sometimes the deal will 
+take multi-years for us to close for the GSI because since really substantial. For us to solve 
+that we are looking at acceleration of the funnel , creating more funnel and that is what we 
+are focusing on and we are hopeful that it may we have taken like slightly more time, but 
+over the next quarters the significant results coming out of that exercise. 
+Sachin Jain: 
+What was your aspiration Jeet as far as GSI is concerned how many deals probably it will 
+have, it was six last year if I understand correctly. What do you think in your opinion this 
+year this number could be a ballpark, I mean, I am sure you also would not have a complete 
+handle on it but generally what is an inspiration what kind of traction in terms of possible 
+deals you think from U.S. through GSI channel? 
+Virender Jeet: 
+We are still expecting at least 15 deals coming this year from this channel. 
+Sachin Jain: 
+Sorry can you repeat again? 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 7 of 19 
+Virender Jeet: 
+Around 15 deals coming this year from the channel. 
+Sachin Jain: 
+Understood and how do you see the environment because we keep hearing a lot on our 
+demand environment getting deteriorated in USA particularly so how you are reading from 
+your business perspective environment over there? 
+Virender Jeet: 
+What has happened one last two quarters on the ground the activity has started picking up in 
+fact we are finding more and more interactions with customers in terms of events, physical 
+events, road shows are happening. So there is a lot of activity happening and all these 
+smaller accounts have started reopening for us, but you are right on the other front the larger 
+accounts I think we are talking a lot about what is going to happen down the next three 
+quarters this is a challenge and I do not know today we see any concerns but a lot of people 
+see kind of an apprehension. I do not think it is effecting right now our business but we 
+keep on observing it around next two quarters to three quarters. I think that is specific for 
+U.S. and Europe are more about it but in the markets like EMEA and India we see a very 
+little impact on this. 
+Sachin Jain: 
+If suppose for some reason GSI and all does not like you see at the Newgen level 15%, 20% 
+growth has typically been would be continued? 
+Virender Jeet: 
+Yes, we said that GSI is going to be an acceleration engine on our own we have a 
+sustenance of generating around 20% of our growth and that will happen irrespective of 
+what happens on the GSI front. 
+Sachin Jain: 
+This year also you should see that will happen? 
+Virender Jeet: 
+We are still planning to hit our target of around 20% growth. 
+Sachin Jain: 
+What is the reason for growth in India because India has shown a very substantial number 
+and if I compare it to last year so is there anything to read in India's business? 
+Virender Jeet: 
+Not much I think it is organic I think one of the things is that the accounts in India are quite 
+sizable and they have continued to give us more business and they are using our platforms 
+for more and more things. It has accumulated over multiple quarters and if you see it is not 
+very different from what we did Q4 but Q1 last year was an exception because of 
+everything being shut that is why you see a huge growth compared to that but we think in 
+India most of this growth is sustainable and you will see there is no jerky revenue see unlike 
+in other times, we had a lot of license revenues which determines the jerky part of the 
+nature. This time you would not see that at all so most of the deals we have got in India this 
+year are again either more continuous in terms of revenue and support or on subscription 
+sites. 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 8 of 19 
+Sachin Jain: 
+One last question post Number Theory integration how initial feedback how now this 
+platform is being perceived after integration with Number Theory offering with AI side so 
+some color on that? 
+Virender Jeet: 
+See we are very excited about it so one of the biggest advantages we are having our 
+customers used cases which had requirements of Machine Learning and Data Sciences we 
+are able to service them much better and they are quite excited. So as part of our first 
+endeavor we are integrating this product into our platforms and solutions. We have already 
+integrated in certain lending solutions in our case and we have started taking them to market 
+and we are very happy with the response, but over a period of a time we will be going and 
+integrating this platform into all other aspects of our products and services and that is where 
+we will see much more value. It is a piece of technology which we are very happy about 
+and we want to leverage it more and more across our production system. 
+Sachin Jain: 
+Thank you. I will come in the queue for any further questions. 
+Moderator: 
+Thank you. Our next question is from the line of Giri Shetty from Banyan Tree Advisors. 
+Please go ahead. 
+Giri Shetty: 
+Sir, thanks for the opportunity. My question was you mentioned about the six logos right, 
+what is the average ticket size of the six logos acquired? That would be my first question. 
+Virender Jeet: 
+I do not have the exact data but these are all larger logos for us. I think maybe around 400k, 
+500k would be an average ticket size, but the significant size we can provide you the data if 
+you could mail us. 
+Giri Shetty: 
+Also Sir I wanted to know about your sales force so if I see a company like an Appian or a 
+ServiceNow. So these if I see their sales and marketing expenses it is quite high it comes to 
+around 40% to 45% whereas for us I believe it is in the range of 20%. So how does it 
+compare in terms of sales and marketing capabilities as compared to these companies 
+especially in the U.S.? 
+Virender Jeet: 
+You are absolutely right. Some of the U.S. companies in the same area or similar domain or 
+similar size are spending roughly around 40% on sales and marketing. We are able to do 
+slightly some amount of efficiency because globally a lot of our cost basis in sales also are 
+India centered in terms of all your inside sales, marketing as well as lot of travel-based sales 
+happens out of India. The other thing is also we have been able to successfully generate 
+substantial profits at $100 million size which none of these companies they end up, up to 
+$200, $300 million they keep on burning up to $40, $50 million here. So we are lucky that 
+we have built a business model which is quite healthy as a product company generating 
+roughly around 20% of margins at $100 million. So with that kind of a model that is how 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 9 of 19 
+we would like to proceed and in terms of we are not shying away for investing more in sales 
+and marketing, but we have taken a conscious call that we have to maintain a balance 
+between growth and profits and will continue doing that. 
+Giri Shetty: 
+Does it make it difficult to sell as and when you go there versus an Appian which has a 
+local sales force selling the product to a local customer does that make a huge difference in 
+conversion? 
+Virender Jeet: 
+I do not think the cost of sale makes difference because finally it’s about your strategy, your 
+value prop to the customer your ability to reach those are the issues which our sales and 
+marketing is trying to work and overcome. I do not think its the cost of sale and in case if 
+you find an opportunity to invest more in sales to make that success we will go and invest in 
+that. I do not think the overall budget of sales is how you are modeled as a company rather 
+than what happens on a transaction. 
+Giri Shetty: 
+No I meant local as in Appian there is a local sales force? 
+Virender Jeet: 
+In the U.S. we also have a complete local sales force. This is all U.S. nationals or U.S. 
+citizens who are operating as our sales force. We have a large around 14-15 people sales 
+team out there which is all local and we have our sales costs are exactly same as any other 
+guy out there, but in terms of we are able to optimize in terms of sales support, marketing, 
+presales where we have slightly lesser better operational control and minimize the cost out 
+there. 
+Giri Shetty: 
+Okay got it and the last question is on attrition. So you mentioned about around 35%, 40% 
+attrition last time can we have that number has it come down this quarter how is it and what 
+are your total number of employees right now I believe it was 3284 last quarter right? 
+Virender Jeet: 
+Yes, it is around same number we are on 3350 if I am right and attrition is slightly better 
+than last quarter but we have not seen a very significant shift in attritions yet. But we are 
+hoping the planned attritions for next quarter are showing a decline by around 5%, 6% but I 
+think it is too early I think things are changing but the overall sense is that it may stabilize 
+in next two quarters for sure. 
+Giri Shetty: 
+And you maintain your margin guidance that you have given around 21%? 
+Virender Jeet: 
+Yes, see I am saying the margin is a factor of our topline, our topline guidance is to keep 
+meeting our 20% growth and in case of that we should be able to be close to our margin 
+guidance. 
+Giri Shetty: 
+Okay sure, thanks a lot. 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 10 of 19 
+Moderator: 
+Thank you. Our next question is from the line of Saurabh Sadhwani from Sahasrar Capital. 
+Please go ahead. 
+Saurabh Sadhwani: 
+Thanks for the opportunity. I had two questions first is India business means is the business 
+because of the first quarter of Indian financial year licenses getting renewed or the 
+momentum will be sustained throughout the year what do you think it? 
+Virender Jeet: 
+As I said I think more and more the jerkiness in our business the license is getting 
+minimized so whatever business happens is now more sustainable in terms of the base of 
+that business has gone up. If you look at our subscription or our annuity business now is 
+almost going to reach around 40 million at the end of the year. So the base 70% is of our 
+business is annuity business where you have complete control. So the base itself is changing 
+and the jerkiness part is going away. So I am assuming that India growth what we have 
+achieved in Q1 we should be able to maintain such numbers and grow on those numbers 
+there is no jerky revenue in this. 
+Saurabh Sadhwani: 
+How many of the new logos, I mean all of the new logos are not our subscription-based 
+right? 
+Virender Jeet: 
+I think so. I think because most of them I do not see any I think one of them in India is 
+licensed, most of them are subscription. 
+Saurabh Sadhwani: 
+Second thing about the margin I know you said in the previous concall that the margins are 
+going to decline, will it recover from here for the rest of the year and also want little bit 
+detail on why the margins have been impacted? 
+Virender Jeet: 
+I think first if you look at margin history of Q1 because of the seasonality of revenue as Mr. 
+Nigam said in this call. Our historical if you track five-year Q1 margins they have been 
+either negative or in the percentage of 2%, 3% at the highest row before this was 6% 
+leaving the last year first Q1 because the cost based were unnatural at that moment of time. 
+So because our costs are front loaded in terms of resources and other things there is not very 
+much variability you can create out there. So on first quarter of any year and last five, seven 
+years there is no margin. In fact our 10% margin this year is healthy compared to our first 
+quarter and as you look at our revenues keep on growing on Q2, Q3, Q4 while the cost shift 
+does not have seasonality, the costs remain in the same. So you keep on unfolding margins 
+in the next fourth quarter. So I am very hopeful that we will be able to maintain our growth 
+momentum for the remaining quarters and in case we are able to achieve that the margins 
+will automatically unfold. They can be a 0.5% here there but it would not be very different 
+from the guidance we provided. 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 11 of 19 
+Saurabh Sadhwani: 
+The cost will stay flattish or are they going to increase for the employee expenses and the 
+travel expenses? 
+Virender Jeet: 
+Slightly more in Q2 and then declining in Q3, Q4 that has been the trajectory. 
+Saurabh Sadhwani: 
+Thanks. That is all from my side. 
+Moderator: 
+Thank you. Our next question is from the line of Mihir Manohar from Carnelian Asset 
+Management. Please go ahead. 
+Mihir Manohar: 
+Thanks for giving the opportunity. Just I had a question I mean you mentioned that you are 
+looking to close roughly 15 deals from GSI channel this particular year. I mean just wanted 
+to understand how is the product adaptability moving, I, what gives us confidence that we 
+are looking at this number versus close to six number of deals in this particular financial 
+year so what gives you confidence for that number that was the first question and second 
+question was understanding the operating leverage. I mean more revenue coming in from 
+GSI how would the operating leverage and how would the margins or profitability change 
+for our company so wanted to understand that from a structural angle? 
+Virender Jeet: 
+First of all the confidence comes from the funnel and the opportunities and cases which are 
+already running in the field. We have roughly around 79 cases which are pursuing right now 
+with GSIs in different areas and we are very hopeful that between Q2, Q3, Q4 even if we 
+are closing three, four cases will reach that number. So that is one, so it is clearly coming 
+from the funnel the confidence is coming from with that. Of course there is an uncertainty 
+on closure and but still having said that specifying that uncertainty we still think that 15 
+deals are doable. On the operating leverage I think broadly since service delivery part of 
+these deals more often the GSI does. So we have only what comes to us is more higher 
+gross margin revenue either in subscription or in licenses. So operating leverages do expand 
+through GSI deals but unless the GSI revenue on its own becomes substantial it may not 
+change the overall picture. So I think we will have to wait for the GSI revenue to become 
+20%, 30%, 40% of the business then you will see we should be able to move from 65% 
+gross margin to around 75% gross margin. Does that answer your question? 
+Mihir Manohar: 
+Yes sure, and just from the deal size I mean the 15 deals that you are looking in what is the 
+average size of the deals that we should consider I mean I understand it is difficult to 
+pinpoint a number but just from an understanding only? 
+Virender Jeet: 
+Around 400k would be on an average because there will be 250k and there will be $1 
+million deal but I think around 400k would be an average deal. 
+Mihir Manohar: 
+For 400k annual. 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 12 of 19 
+Virender Jeet: 
+This is my guesstimate so but I can send you more data you can ask Deepti to get more 
+details. 
+Mihir Manohar: 
+Yes sure that is it from my side. Thank you. 
+Moderator: 
+Thank you. Our next question is from the line of VP Rajesh from Banyan Capital Advisors. 
+Please go ahead. 
+VP Rajesh: 
+Thanks for the opportunity. I joined the call late so I am not sure if this question might be 
+asked, but there is a lot of news about some of the large banks in the U.S. pulling back on 
+their IP spends. So I was just curious in that context given U.S. is a big market for us and 
+especially banking segment with that is what we are hearing and what is the view that we 
+have in terms of any kind of slowdown from the strengths from some of these banks in the 
+U.S.? 
+Virender Jeet: 
+See Rajesh one thing we have seen in our solutions, have a need for growth as well as for 
+cost optimization. So we have seen cases even in extreme cases of contraction or pull back 
+of spends we have seen, our kind of solutions being deployed to optimize cost to optimize 
+back ends to reduce manpower. We put their use cases to get created in all kind of 
+economies. Having said that today my penetration in large banks U.S. is very minimal so 
+actually we do not have too much of insight into the ecosystem what is happening in very, 
+very large banks. We are still working on tier 2 and tier 3 banks and in that we are seeing 
+right now the activity has started again in fact they have been sleeping for last two, three 
+years having said that everybody is saying that there is going to be something horrible 
+happening around the corner after two quarters or three quarters, right now we have no idea 
+about on the on the ground our clients have not started showing any signs of that yet. 
+VP Rajesh: 
+I see. I will get back in the queue. Thank you. 
+Moderator: 
+Thank you. Our next question is from the line of Ankush Agrawal from Surge Capital. 
+Please go ahead. 
+Ankush Agarwal: 
+Firstly what kind of increase in the cost base, have been budgeted for this year? 
+Virender Jeet: 
+So overall our costs may increase in around 18%, 19%. 
+Ankush Agarwal: 
+In the long-term like four, five years what kind of sustainable growth in the cost base 
+should we expect will it be closer around 2% or will go back to like 15% which was 
+historically there? The reason asking this question is because this year obviously we are 
+coming off a low base from last year so the number could be higher but in the long run what 
+would be the run rate for that? 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 13 of 19 
+Virender Jeet: 
+It is very difficult to predict the future but if I look at how historical data we have been able 
+to grow at 20% of growth with much lower cost of growth around 13% to 15% has been the 
+cost base in those years. Taking this year is an exception because it is starting from a low 
+base, no travel cost we think in future with every 10% of revenue growth we can easily 
+manage between 7% or 6% of cost. 
+Ankush Agarwal: 
+That is right. Secondly would you like to comment anything on what explains the sharp 
+degrowth and license fee it is just one off for the quarter or it is largely structure wherein 
+more and more subscription base are coming up so it should be something that will stay? 
+Virender Jeet: 
+I think two things one is deliberate we are pushing back on licenses and which we are 
+taking the hit on that in terms of our topline because of that but the second is also we have 
+seen that we have missed on new logo acquisition this quarter we have got some orders 
+which have got deferred or we missed them by bond base of the quarter and that has been 
+the primary reason, but having said that our license revenues may not grow at the speed at 
+which the overall company is growing in fact there may be a decline, but the right major for 
+us to track is the subscription revenue which we are growing at around 32%. 
+Ankush Agarwal: 
+Internally we are now more focusing on subscription deals and not license is that what you 
+are trying to say? Then lastly in one of the recent interviews you kind of commented that 
+that your goal is to grow the business of $500 million in next five years can you shed some 
+light on that because internally in the concalls we have been guiding for some 20%, 25% 
+growth but that $500 million target is at least double that as such? 
+Virender Jeet: 
+I think we are a software product company which is operating in a market size which is 
+roughly around $60 billion with businesses operating in India, Middle East, APAC and now 
+we are shifting to more mature markets. So the addressable basket and opportunity size is 
+very large. Of course it depends on the execution we have a trajectory of growing at a 
+particular percentage. Our initiatives of GSI, our initiatives of entering more mature 
+markets should accelerate our historical growth rates. So that is the plan. So once any of 
+these starts clicking and giving us more sustainable revenue we should be able to accelerate 
+this growth rate much beyond 20% and that is what our business plans are drawn for and 
+our investments are made. 
+Ankush Agarwal: 
+But earlier I believe you have been making this comment that GSI would be adding 
+probably 4%, 5% extra on top of what we do organically. So is there any change in that or 
+the GSI would probably add much more than what we had earlier expected? 
+Virender Jeet: 
+It should add but I think it will start with when I say 4% or 5% when I am saying that if I 
+can meet my 15, 20 logos target this year that should add 4%, 5% and next year it can 
+become much bigger than that and you can become compounded but the whole GSI stream 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 14 of 19 
+is going to target of accounts which we generally have not been our accounts we have not 
+been targeting those accounts. So it increases our market thus we should be able to increase 
+our growth momentum. 
+Ankush Agarwal: 
+Internally we do not have any kind of constraints in terms of how much businesses you 
+want to maintain internally and versus GSI like you are came with even GSI going at 50% 
+of overall revenues? 
+Virender Jeet: 
+We are completely going with GSI becomes 70% of the business we have no problem in 
+that but it takes time so that is a desirable state. 
+Ankush Agarwal: 
+That was very good. Thank you. 
+Moderator: 
+Thank you. Our next question is from the line of Karan Doshi from Edelweiss Financial 
+Services. Please go ahead. 
+Karan Doshi: 
+Good evening Sir, my question is on the deal that we have signed with Coforge and 
+Anabatic Digital can you give us some color in terms of what kind of client additions or the 
+events you can expect from signing this thing with such GSI also have we got a foot in the 
+door with one of the clients at Coforge or are we still ramping up can you add some color 
+on that piece? 
+Virender Jeet: 
+So with both Coforge and anabatic we have got early successes we have already have deals 
+together and I think Anabatic is in Indonesia if I am right it is a very, very large local 
+system integrator and have got huge penetration in the market and our deal and signing and 
+raising the partnership level to a level where we are having joint go to market and plan is 
+helping. Similarly in Coforge from a tactical deal we have also signed an agreement to 
+pursue markets in Europe, U.S. and other areas and go after carriers and set up joint targets. 
+These are business plans. I think they do not have right now direct correlation in terms of 
+how much revenue we can get but we are hopeful that once we work on these plans over 
+next to three quarters we should be able to build a substantial business with both these 
+partners. 
+Karan Doshi: 
+My next question was just an extension of this if you could explain how do these deals 
+come into play in terms of how did we get our deal with Coforge and similarly how can we 
+then penetrate into let us say other similar system integrators? Do we first sign a deal with 
+the GSI and then move on to the clients or do we have a client interaction first and then talk 
+to the GSI and extend? 
+Virender Jeet: 
+Both ways I think what happens but historically the India based ecosystem of GSIs is where 
+we already had client interactions so we had common clients, we had common partnerships 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 15 of 19 
+we had joint cases historically and once there is a more momentum and people see that we 
+can carry the same solution to different markets that is where the partnership becomes turns 
+and that is how we work with other GSIs as well so we have moved away from some of 
+those cases from the tactical client partnerships to having more joint go to markets with 
+these users and that is what is happening. It is we have a history being in Indian market and 
+working with these guys for nine, ten years. They have seen our products, they have seen 
+our platform, they have seen the capability and what we deliver as an end result for client 
+and together we are very hopeful we can take the same thing to global customers and make 
+them successful. 
+Karan Doshi: 
+That is it for me. Thank you. 
+Moderator: 
+Thank you. Our next question is from the line of VP Rajesh from Banyan Capital Advisors. 
+Please go ahead. 
+VP Rajesh: 
+One question was that how is your sales funnel looking now and vis-à-vis let us say three 
+months or six months ago has it been consistently going up or are you seeing some kind of 
+pullback in that? 
+Virender Jeet: 
+See from last six months I think things have started opening up and becoming better on the 
+sales activity front also on the result front in terms of we have started converting from more 
+flattish quarters to more growth quarters. So we see all across especially in markets like 
+India and Middle East are doing considerably well. U.S. we are trying to pivot and we are 
+trying to change some amount of strategy of how we are going and other new markets like 
+Australia will start getting the early wins. So overall we are seeing for us the market activity 
+becoming better over the last six months. 
+VP Rajesh: 
+I see and then as you were talking about your gross margins expanding because you will do 
+more businesses with the GSI partners. So is it because that you stopped doing integration 
+internally and that is why the margins will expand on this there is some other variables? 
+Virender Jeet: 
+As part of our know sale there is an element of service delivery today since we are selling 
+our own systems we are doing also the implementation which is a service delivery part so 
+any service delivery has got much lower gross margins than the overall license because 
+generally license and subscriptions are at a very high gross margin. So as the service 
+delivery is taken by the partner or the GSIs more and more our revenue composition 
+becomes a higher gross margin in terms of more license and subscription thus improving 
+our overall gross margins. We may continue to do service from some tactical clients or 
+some strategic clients but overall more and more services are passed on to that GSI and 
+higher gross margin revenue gets passed on to Newgen. 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 16 of 19 
+VP Rajesh: 
+So in this quarter what percentage of revenue came from services type for us? 
+Virender Jeet: 
+Good question so on purely services site we are at 180 roughly around 60%, 62% of the 
+revenue came from services. 
+VP Rajesh: 
+And that is associated with the license revenue you sold? 
+Virender Jeet: 
+These are all services for us to do with the sale of our license. 
+VP Rajesh: 
+I am sorry could you repeat that Sir? 
+Virender Jeet: 
+All our services are associated with the sale of licenses either for implementing the software 
+or having a long-term additional support contract with the customer. 
+VP Rajesh: 
+If you take out the support part that is what I was interested in that with the new license? 
+Virender Jeet: 
+The implementation is roughly around 21%. 
+VP Rajesh: 
+21% okay and in terms of the business you said you are pushing back on the license deals 
+so this is mainly because the client really wanted to have a license and you were not willing 
+to give him or how is that dynamic working out? 
+Virender Jeet: 
+We are not having such a luxury that we will completely leave deals but what we are saying 
+that deals which we are of smaller size something in the range of 100k to 200k as license 
+we have not interest in selling them because the annuity component we generate becomes 
+considerably small. It becomes 30k to 40 k so as a long term we lose interest in that account 
+so for a larger license deals we still are ready to accommodate and say yes, but for smaller 
+license deals we are pushing very hard. In fact that also means sometimes leaving it on the 
+table. 
+VP Rajesh: 
+In terms of our market share if you can comment on that both in our core geographies of 
+India and some of the newer markets as to where we stack up amongst the other providers? 
+Virender Jeet: 
+Rajesh, there is no official study for that and the global market share I think we are very, 
+very small. We do not even own 1% of the global market share because the market is 
+predominantly US and Europe. We have got a substantial kind of a leadership position in 
+India and Middle East for sure because almost all marquee customers, banks, insurances we 
+have acquired them at least most of them but there is a 10-year-old study done by IBM in 
+which we were the number one and IBM was number two, but that was very old study so 
+nobody has done a study after that today so I think we are still number one in India. We are 
+still number one in MEA region but in other regions we do not have a substantial market 
+share. 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 17 of 19 
+VP Rajesh: 
+Given the size of the market share Gartner or the other analysts firms talking about who are 
+the leaders, who are the challenges, etc? 
+Virender Jeet: 
+They do not do it in submarket. They do it at a global level. The percentage of revenue 
+across vendors and out there the big guys are the IBMs and Microsoft and Pegas of the 
+world, but on a regional level they not have market share for who because they cannot do 
+that regional size estimate. 
+VP Rajesh: 
+Understood. Thank you that is all I had? 
+Moderator: 
+Thank you. Our next question is from the line of Keval Shah from Jeetay Investments. 
+Please go ahead. 
+Keval Shah: 
+Thank you for the opportunity. Sir just one question that since you mentioned that you are 
+keeping up with our growth target should one assume that with the couple of deals that have 
+got has postponed are likely to get closed or would have got closed in the Q2 and our H1 
+deal wins would look considerably stronger than compared to last year? 
+Virender Jeet: 
+I would not go as far as predicting that but I am saying is that with respect of the number of 
+deal wins the way we are building business more on less jerky that means less license based 
+or more subscription MMC we have a continuous growth momentum and even the deals 
+which we have added in the last year Q4 and Q1 will start contributing revenue in Q2 of 
+this year and we will surely add many more deals in Q2 but many more deals we add in Q2 
+will play a part but may not play a substantial part in revenue of that quarter. 
+Keval Shah: 
+Absolutely Sir I understand the revenue is a function of the order book that is being there 
+for the last year or whatever time period would it be but I am just talking about orders in 
+specific not really their contribution to the revenue but just independently talking about the 
+order book? Do you think the order flow for Q2 and so should be stronger compared to Q1? 
+Virender Jeet: 
+Surely better than Q1 yes. 
+Keval Shah: 
+Alright Sir that is about it. Thank you so much. 
+Moderator: 
+Thank you. Our last next question is from the line of Vivek Gedda from SBI Mutual Fund. 
+Please go ahead. 
+Vivek Gedda: 
+Thanks for the opportunity. I was not on the call throughout the time so I am sorry if I am 
+asking this again but I think you also spoke about 15 new deals from GSIs that you were 
+targeting this year firstly I wanted to check how many of them have happened in this 
+quarter and what gives you the confidence that we will be able to do 15 this year that is part 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 18 of 19 
+one and part two on GSIs would the concept of deals be more depending on how they 
+actually subside in? For example we are trying to move away from license but would that 
+be very similar through GSI server? Would they be also be looking for license-based kind 
+of overall deal that might accrue to you? 
+Virender Jeet: 
+I think both the questions so I first I think on the deals expectation from GSI is completely 
+based on funnel. We are already operating kind of a 79 case funnel with some of those cases 
+are in advanced stages and some we will add also during the year and we are hopeful that 
+we should be able to do better than what we did last year in terms of deals wins especially 
+since we are opening few more markets like Australia, APAC, we have also deals that are 
+coming from GSI so I am very hopeful looking at that funnel we should be able to do much 
+better than what the current situation is. On the question of deal construct I think selling 
+subscription is quite normal even to GSIs because then this is what the model which every 
+other vendor sells so we do not see but in cases of some large cases if it is a licensed deal 
+and it has been structured in roughly like that so we are quite open to go and pursue that as 
+a license deal with the GSI as long as we are able to get a substantial revenue in terms of 
+multiyear revenue from that client we are okay with that so today the deal construct of GSI 
+is not very different in terms of when our licenses are introduced it does not matter. There 
+are two kind of deals constructs one is if are part of a very large or a fee where we are 
+getting positions then the directly construct remains the kind of model they are buying in 
+then we are go and support that but in case we are creating a single opportunity around our 
+solution then we are normally going with the subscription most of the time. I hope that 
+answers your question? 
+Vivek Gedda: 
+That is helpful. The other thing I wanted to check is this entire position that Coforge is very 
+interesting? Is there a difference between how you actually, I mean, small size GSI versus a 
+large size GSI would there be probably better connect with the management and potentially 
+a better push from a medium-term perspective? 
+Virender Jeet: 
+The question is with most of the GSIs we have extremely good relations with their 
+headquarters in India and we have good relations with them but I think finally it determines 
+in the hunger in the market and the opportunities we are able to create in the market and 
+place them. We are hoping with Coforge with some successes in India and in other markets 
+they are quite interested right now. We are quite interesting and we are hopeful that we 
+should be able to build an interesting funnel, but I think it is too early. Let us give it a few 
+quarters and then we see how it unfolds. 
+Vivek Gedda: 
+Got that. Best of luck and thanks. 
+Moderator: 
+Thank you. Ladies and gentlemen, this concludes our question-and-answer session. I would 
+now like to hand the conference over to Mrs. Deepti Mehra for closing comments. 
+~
+newgen 
+
+                                           Newgen Software Technologies Limited 
+July 20, 2022 
+Page 19 of 19 
+Deepti Mehra Chugh: 
+Thank you everyone for attending the call. For any queries you can connect with me or go 
+to our website. Thank you. 
+Moderator: 
+On behalf of ICICI Securities that concludes this conference. Thank you for joining us. You 
+may now disconnect your lines. 
+~
+newgen 

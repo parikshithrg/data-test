@@ -1,0 +1,1031 @@
+ 
+ 
+EL/SEC/2026-27/46 
+ 
+August 4, 2026 
+ 
+Corporate Relationship Department  
+BSE Limited  
+1st Floor, New Trading Ring Rotunda  
+Building, P J Towers, Dalal Street, Fort,  
+Mumbai - 400 001 
+The Manager, Listing Department  
+National Stock Exchange of India Limited  
+“Exchange Plaza”, C-1, Block G,  
+Bandra-Kurla Complex, Bandra (E),  
+Mumbai - 400 051 
+ 
+Script Code: 543533 
+ 
+Symbol: EMUDHRA 
+ 
+Dear Sir/Madam,  
+ 
+Sub: Transcript of the Earnings Call held on Thursday, July 30, 2026 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 read with the SEBI (Listing Obligations and Disclosure Requirements) (Third Amendment) 
+Regulations, 2024, please find enclosed herewith the transcript of the Earnings Call held on Thursday, 
+July 30, 2026, post announcement of the financial results of the Company for the quarter ended as on 
+June 30, 2026.  
+ 
+The audio recording of the Earnings call, along with the transcript, has been uploaded on the 
+Company’s website https://emudhra.com/investors.jsp. 
+ 
+This is for your information and records.  
+ 
+Thanking you  
+ 
+Yours faithfully, 
+ 
+For eMudhra Limited 
+ 
+ 
+ 
+ 
+Johnson Xavier  
+Company Secretary & Compliance Officer  
+Membership No. A28304 
+ 
+Encl: As Above 
+ 
+ 
+ 
+JOHNSO
+N  
+XAVIER
+Digitally signed 
+by JOHNSON  
+XAVIER 
+Date: 2026.08.04 
+11:11:01 +05'30'
+
+1 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+ 
+ 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+  
+        Event Date/Time  : 30/07/2026, 16.00 Hrs IST 
+Event Duration        : 47 minutes 56 seconds 
+ 
+ 
+MANAGEMENT DETAILS: 
+ 
+Mr. Venkatraman Srinivasan 
+Executive Chairman 
+ 
+Mr. Kaushik Srinivasan 
+Whole Time Director 
+ 
+Mr. Arvind Srinivasan 
+Director 
+ 
+Mr. Ritesh Raj Pariyani 
+Chief Financial Officer 
+ 
+ 
+ 
+
+2 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Q&A PARTICIPANTS: 
+ 
+1. Surbhi Soni 
+ 
+: Bellwether Capital Private Limited 
+2. Pankaj Sachdeva  
+: Avis Capital 
+3. Srinath V  
+ 
+: Bellwether Capital Private Limited 
+4. Amit Chandra 
+ 
+: HDFC Securities 
+5. Kanishk Gupta 
+ 
+: SS Family Office 
+6. Sanjyot Khare 
+ 
+: Vision Finance 
+7. Ravi Mehta 
+ 
+: One Up Financial Consultants 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Moderator 
+Good afternoon, ladies and gentlemen. I'm Akash, moderator for the conference call. Welcome to 
+eMudhra Limited Q1 and FY27 Earnings Conference Call. We have with us today, Mr. Venkatraman 
+Srinivasan, Executive Chairman; Mr. Kaushik Srinivasan, Whole Time Director; Mr. Arvind Srinivasan, 
+Director; and Mr. Ritesh Raj Pariyani, Chief Financial Officer.  
+As a reminder, all participants will be in listen-only mode and there will be an opportunity for you to ask 
+questions after the presentation concludes. Should you need assistance during the conference call, please 
+signal an operator by pressing * and then 0 on your touch-tone telephone. Please note this conference is 
+recorded.  
+I would now like to hand over the floor to Mr. Venkatraman Srinivasan. Thank you and over to you sir. 
+ 
+Venkatraman Srinivasan 
+Thank you. Good afternoon, everyone, and thank you for joining Q1 Investor and Analyst Call today. We 
+are pleased to report a strong start to FY27. During the quarter, our total income grew by 28% YoY to INR 
+1,925 million, while EBITDA increased by over 40% to INR 504 million, taking our EBITDA margin to 26.2%. 
+Profit after tax grew 28% YoY to INR 320 million, with PAT margin remaining healthy at 16.6%. 
+Of the 28% growth in total income, approximately 13% was contributed by the Cryptas acquisition, while 
+the balance reflects healthy organic growth across our core businesses led by continued strength in our 
+Enterprise Solution portfolio. Enterprise Solutions remained our primary growth engine, growing 
+approximately 50% YoY, and contributing 65% of total income, while our Services Business also delivered 
+growth of around 5% YoY, supported by new customer additions in the United States.  
+International markets now contribute 66% of our revenue, and we continue to see encouraging 
+momentum across Europe, North America, the Middle East and Africa. Europe was particularly 
+encouraging this quarter. Through Cryptas, we achieved our first sale of eMudhra's CertiNext certificate 
+lifecycle management platform to a large German data center customer, while also securing the first 
+mSigner deployment integrated with PrimeSign Trust Services for an Austrian city municipality.  
+This is an important milestone as it validates product-market fit and demonstrates our ability to 
+successfully cross-sell the broader eMudhra platform into the Cryptas customer base. Cryptas contributed 
+approximately INR 200 million of revenue during what is typically a seasonally weak quarter in Europe. 
+Our Trust Service business saw a temporary decline during the quarter following the transition to a new 
+global security standard for digital signature tokens, which comes into effect in September.  
+As customers and channel partners prepared for this transition, demand for legacy tokens reduced, 
+resulting in a temporary impact on Trust Service revenue during the quarter.  
+
+4 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+We expect this to normalize as the industry completes the transition. On the innovation front, our R&D 
+investment remained tightly aligned with the evolving cybersecurity landscape.  
+During the quarter, we introduced Cryptographic Bill of Materials or CBOM analysis within CertiNext, 
+enabling enterprises to discover where cryptography is deployed across their IT environment and helping 
+them prepare for the transition to post quantum cryptography.  
+We believe increasing regulatory and industry focus on post-quantum readiness, together with the need 
+for organization to inventory and modernize their cryptographic assets, create a significant long-term 
+opportunity for our certificate lifecycle management and the PKA platform. We also continue to 
+strengthen our broader product portfolio with AI-powered capabilities in emSigner and the commercial 
+launch of PrivaTrust Consent Management Modules.  
+Looking ahead, we continue to believe that cybersecurity and AI are becoming increasingly 
+interconnected. As enterprises deploy AI at scale, trust, identity, and cryptography become a foundational 
+infrastructure. Our five-platform strategy positions us well to capitalize on these structural trends while 
+continuing to expand internationally.  
+Finally, from an outlook perspective, our guidance remains unchanged from what we shared in the 
+previous quarter, that is to achieve an organic growth of 18% and work towards achieving a PAT growth 
+of 25%. We remain focused on driving profitable product-led growth, expanding our international 
+footprint, executing our UAE Trust Service launch, and maintaining disciplined EBITDA and PAT margin 
+while continuing to invest in innovation.  
+With that, let me hand over to our CFO, Mr. Ritesh Pariyani, to walk you through the quarter's numbers.  
+ 
+Ritesh Raj Pariyani 
+Thank you, Chairman. Good afternoon, everyone. I'm pleased to share the highlights of our Q1 FY27 
+financial performance.  
+Our total income for Q1 FY27 was INR 1,925 million, marking a 27.8% YoY growth. Gross profit for the 
+quarter grew 36.4% YoY to INR 1,103 billion with a margin of 57.3%. EBITDA for the quarter was INR 504 
+billion, registering a 40.4% over YoY growth with a margin of 26.2%. Profit after tax for the quarter was 
+INR 320 million, reflecting a 27.9% YoY growth with a margin of 16.6%. Now, coming to segment 
+performance. The Enterprise Solutions segment generated revenue of INR 1,623 while the Trust Service 
+revenue was INR 284 million. That concludes my remarks.  
+Thank you, and we may now open the floor for the question-and-answer session. 
+ 
+ 
+
+5 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Moderator 
+Thank you, sir. Ladies and gentlemen, we will now begin the question-and-answer session. If you have a 
+question please press * and 1 on your telephone keypad and wait for your turn to ask your question. If 
+you would like to withdraw your request, you may do so by pressing * and 1 again. Ladies and gentlemen, 
+if you have any question please press * and 1 on your telephone keypad.  
+ 
+Ritesh Raj Pariyani 
+I think there are some questions.  
+ 
+Moderator 
+The first question comes from the line of Surbhi Soni from Bellwether Capital. Please go ahead.  
+ 
+Surbhi Soni 
+Hi. Kaushik, I wanted to understand about the PrivaTrust cloud platform. Is this product live? If you can 
+help us understand what kind of deployment opportunities you're seeing for this platform as of now?  
+ 
+Kaushik Srinivasan 
+So, product, as you know, comprises of many modules. This is mainly related to the data privacy and 
+consent management. We already live with consent management capabilities, which we are 
+demonstrating and doing a lot of pilots, proof of concepts, and very soon a few wins as well.  
+Because India, as there's a DPDP Act, and people have to implement, large organizations basically get, I 
+think, time till the end of the year or sometime next year, and many other organizations have to 
+implement. But the product capabilities also involve additional capabilities of how do you discover and 
+classify the personally identifiable information in your landscape that includes storage and files, folders, 
+databases, etc.  
+These are the incremental modules that will very soon be launched, it'll encompass consent management, 
+data discovery, data classification, and also how do you handle personal data in the context of when you 
+send it to third-party vendors, like your CRM vendor or whatnot.  
+ 
+ 
+
+6 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Surbhi Soni 
+Got it. See, this is like a new addition to our product stack, right?  
+ 
+Kaushik Srinivasan 
+Yes.  
+ 
+Surbhi Soni  
+How should we think about say, three to four years? What's the kind of opportunity for this kind of 
+platform? Not just from an India perspective because you cover a lot of other regulations in Europe, China, 
+etc. How should we think about opportunity in India? And when do you even plan to take this product 
+abroad?  
+ 
+Kaushik Srinivasan 
+Immediately, the focus is India because there's a DPDP Act, and people have to comply. And anyone 
+dealing with personal data, and particularly those that are B2C-focused, have to kind of do it more quickly. 
+Those that are large, obviously, have a timeline.  
+We are working towards opportunities. We may get a better sense of the direction in a quarter or two, at 
+which point we may be able to sort of quantify where this can head. Obviously, the time is large because 
+everybody in India has to implement. Slowly, once we get some foothold here, we will take it to other 
+markets where these privacy regulations are forming or more nascent in their adoption.  
+ 
+Surbhi Soni  
+Got it. Very clear. Also, you mentioned in your press release about the Trust Services in UAE. When do 
+you expect to get the QTSP license in UAE? If you can just help us understand what exactly are we building 
+here? Is it like Aadhaar-equivalent eSign along with WayPass, or is it something beyond that?  
+ 
+Arvind Srinivasan  
+Hi. This is Arvind here.  
+ 
+ 
+
+7 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Surbhi Soni  
+Yeah, Hi, Arvind.  
+ 
+Arvind Srinivasan 
+Hi Surbhi. To answer the first part of your question, we're essentially the final step of the process to getting 
+the license in terms of license application and such. We expect that to be completed sometime towards 
+the end of this quarter to beginning of next quarter, whereupon completion, we should be able to launch 
+the respective service.  
+From what it is, it is basically similar to the Aadhaar eSign type in India, but with a local identity ecosystem, 
+predominantly meant to be sold to the local market for the banking and several other segments that we 
+operate in. 
+ 
+Surbhi Soni  
+Okay. So just for my understanding, since we have a large banking customer base already there, does this 
+product actually complement our emSigner offering in UAE?  
+ 
+Arvind Srinivasan 
+Yeah, it's meant to complement our emSigner offering in UAE. Obviously, the process of embedding these 
+banks and regulated entities is a timed process. It will happen over a duration. We are in the early works 
+of getting that set up and up and running, in terms of the process of go-to-market as well. 
+ 
+Surbhi Soni  
+Okay, so it's more like a retail product, but will also get integrated with emSigner. Is that understanding, 
+correct?  
+ 
+Arvind Srinivasan 
+I'm sorry?  
+ 
+ 
+
+8 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Surbhi Soni 
+It's more like a retail Aadhaar-equivalent signature, and then we'll get an indication with emSigner  
+and all. 
+ 
+Arvind Srinivasan 
+It's not a retail product. It is enterprise-oriented in the UAE market. The technical characteristics of the 
+product are similar to an eSign product here. But the actual market for this product, it's not a retail-
+oriented offering. It is enterprise-oriented offering. 
+ 
+Venkatraman Srinivasan 
+Even here, Surbhi, if you see Aadhaar eSign, though, finally, the retail customer sign, the sale is 
+predominantly to banks and the NBFCs and all that. Similar thing will happen there also.  
+ 
+Surbhi Soni 
+Got it. Sir, on the Trust side, I had one question. With this CCA mandate to move to FIPS 140-3, what I 
+understand is that these tokens manufacturers need to recertify themselves.  Just wanted to understand 
+the supply issue that we faced here. Were we able to solve that? Is it largely behind us? From Q2 onwards, 
+can we see the Trust business, in the coming course of growth?  
+ 
+Venkatraman Srinivasan 
+No, in the token, mainly the ePass token was the major token, then ProxKey token. But ProxKey, I don't 
+think they are getting re-certified. But the ePass token, they have submitted the application for 
+recertification everything is done. It is a little bit pending from the CCA side.  
+Then the other one new token has come called the innate token, which is already certified, but they are 
+not able to choose in volumes. That's where the capacity is very low. Mostly by September, this ePass will 
+be able to get certified, and then, again, it will start the token volume will increase.  
+ 
+Surbhi Soni 
+Got it. Just one last question. I wanted to understand how much was the revenue for Cryptas in  
+this quarter?  
+
+9 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Venkatraman Srinivasan 
+INR 20 crores.  
+ 
+Surbhi Soni 
+20 crores. All right. Thank you so much. 
+ 
+Moderator 
+Thank you. The next question comes from the line of Pankaj Sachdeva from Avis Capital.  
+Please go ahead, sir. 
+ 
+Pankaj Sachdeva 
+Hi. Good afternoon. I have two very quick questions. One is relating to the Trust Services, which we have 
+already spoken about.  
+I just understood that the things are going to get streamlined by March --oh, sorry, by September. This 
+means that even the Q2 will get impacted both from top-line and bottom-line perspective. At least that's 
+what my understanding is. Is that right? My related question to this is, is it only the matter which you 
+explained is the reason for downfall, or is there some competition pressure also which is kind of driving 
+our volumes down?  
+ 
+Venkatraman Srinivasan 
+If you see, our general volume of token sale in the quarter was almost INR 8, 9 crore, or that was the 
+volume. Because this time everybody was stocking. This time, the partners are all not stocking it because 
+it is expiring by September. That's why almost INR 5-7 crore volume got less.  
+But in the token, the profit is not much. On an average, the gross margin may be 10% or something like 
+that. Well, the top-line may continue to be less during the next quarter also. But the bottom-line, it doesn't 
+have much a perfect effect on the bottom-line.  
+ 
+ 
+ 
+ 
+
+10 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Pankaj Sachdeva 
+Okay. Got it. My second question, sir, I know we have grown fairly well when it comes to International 
+Enterprise Solutions. But when we get into segment profitability, the margins over there are far lower 
+than what we see in the domestic side. How do you see that over a period of time, sir?  
+ 
+Venkatraman Srinivasan 
+If you see international, it consists of two, three elements. One element is the services business, where, 
+obviously, because in the product business, gross margins are 70-75% in services business. It may be 
+sometime 18%, 20% like this, so that is one area. Which is, again, if you see last year itself, we have told 
+it is around INR 150 crore kind of thing. Then the other thing, the Cryptas business, again, it is roughly 
+around INR 100 crore business, which was not profitable at all. Gradually, it is improving. This year, we 
+expect profit.  
+Third is our own product segment. In our own product segment, the profitability is even better than the 
+Indian business. But combining all these things put together, the overall profitability at the segment-wise 
+profitability limit becomes lower compared to the Indian segment profitability. Over time, with the 
+Cryptas again becoming profitable and our own product segment increasing or services segment, the 
+profitability will improve. This is one side.  
+Second side is because it is a new attempt in several markets, several senior executives had to recruit. The 
+senior executives are very costly, USD 200,000, USD 300,000 per person like that. That is another thing. 
+That will again get offset when the volume improves. Over time, it is likely to improve.  
+ 
+Pankaj Sachdeva 
+The Q1 margin stood at almost, like, 20 odd percent, little over 20 odd percent. What is the outlook we 
+have for the whole '27, sir?  
+ 
+Venkatraman Srinivasan 
+Whole 2627? 
+ 
+Ritesh Raj Pariyani 
+From international business.  
+ 
+
+11 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Venkatraman Srinivasan 
+Separately, we are not put what is the profitability for that. Overall, we are expecting 25% growth on PAT 
+and then 18% growth on the top-line. Because little bit here and there it will adjust.  
+ 
+Pankaj Sachdeva 
+Okay, got it, sir. My last question is that, when I was going through the financials at one of the places, it's 
+saying that some of the subsidiaries contributed a consolidated net loss of almost, like, INR 4 odd crores. 
+What is this loss about? Are we expecting that to continue, or it will settle down over a period of time?  
+ 
+Venkatraman Srinivasan 
+A loss of how many crores?  
+ 
+Pankaj Sachdeva 
+INR 4 crores, sir.  
+ 
+Venkatraman Srinivasan 
+INR 4 crores, predominantly, it will be the European subsidiary, B.V. Because in B.V., some legal expenses 
+were incurred and all that. Now, Cryptas is under B.V. When Cryptas become profitable, it will also become 
+profitable.  
+Apart from Cryptas, independently in B.V., we have appointed a senior salesperson in Rome, and he is 
+chasing several leads. If even one or two materialize, it will turn profitable. We are not expecting the loss 
+to continue in the current year. 
+ 
+Pankaj Sachdeva 
+So as far as Cryptas goes, we are very confident of making it profitable in FY27. Is that right?  
+ 
+ 
+ 
+ 
+
+12 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Venkatraman Srinivasan 
+Yes. Because already one sale to data center has happened of our CertiNext product and another sale 
+along with – PrimeSign it's one of the subsidiaries of Cryptas. That has also happened. With that, we are 
+very confident. Then the Cryptas product sale also happened in our other geography.  
+ 
+Pankaj Sachdeva 
+Okay. Got it, sir. I think that's all I have. Thank you for this, sir.  
+ 
+Moderator 
+Thank you, sir. The next question comes from the line of Mr. Srinath V from Bellwether Capital.  
+Please go ahead.  
+ 
+Srinath V 
+Hi, sir. Arvind, just wanted to understand how is the outlook for the U.S. Products business. Can you give 
+us some qualitative understanding as to how the lead pipeline is? What are the new initiatives? Now, we 
+have rebranded both our products as well as got our data center. We have now three locations that we 
+are in. Moving forward, how is the lead pipeline? What has been the broad feedback from the customers? 
+That would be great.  
+ 
+Arvind Srinivasan 
+Thank you for that. I think, the U.S. business on the product side, we see reasonably good growth in the 
+lead pipeline and the initiatives that we're doing. To quickly put some sort of view to this, I think we've 
+already reiterated the university federation in Common, which was something that we won last year. 
+More and more universities are getting onboarded into this, which brings greater brand visibility to us and 
+the CertiNext brand within the context of the North American markets. On the one side, we are trying to 
+go deeper into that segment, see how further we can mine that particular segment for more of our 
+offerings, more of our solutions, add-on things that we can position within that federation of the 
+community and maybe other universities also outside of the federation.  
+On the other side, we’ll also have active lead initiatives going in. And conversations in advanced stages on 
+some IoT-related use cases on PKI. These are sometimes industry agnostic, but in this particular case, 
+some of them are in healthcare and some of them are different.  
+
+13 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+We see that we are able to add some value here with our stack in terms of bringing trust at our device 
+level. Third major element that we're working on is general pipeline building and lead generation and 
+activity, actively in the upper mid-market segment and some of the lower enterprise segment within U.S., 
+and we see some positive conversations there around SSL, Trust and all of these things. 
+With the main agenda in U.S. being that with this coming off the 47-day expiry of SSL and then the post-
+quantum shift and these sorts of trends playing in, there is a general increased awareness around what 
+we're doing and perception around our services and things that we have to offer.  
+I think, the thing that the local brand and the data center and everything you did was some of the baseline 
+requirements for us to be able to have all these conversations and sort of build a healthy pipeline and 
+lead generation and get into these engagements as we are today.  
+ 
+Srinath V 
+Did you feel somewhere later this year or somewhere next year, we will start seeing better traction and 
+slightly better clip of growth, especially in the U.S. Products business, as we settle, as the in common kind 
+of get implemented. Just wanted to clarify, has that university business already started, or is it something 
+in the pipeline this year?  
+ 
+Arvind Srinivasan 
+No, the university business has already started, and that has been ongoing. I think, generally, we have the 
+growth rate in the Enterprise Segment of about 25%, which we are maintaining. The outlook is positive, 
+but these pipelines that take some amount of time in North America, especially when you talk into this 
+segment. Obviously, there are several factors that we know beyond what we may not know.  
+We factor in all this when we say that we're growing at a certain rate. I can say the outlook definitely looks 
+positive. The pipeline is growing well, and we have a captive client base that we can expand upon, so it's 
+more meaningful in terms of what further we can achieve. But, yeah, I think that we're in the  
+right direction.  
+ 
+Venkatraman Srinivasan 
+One more thing is that university network, already, we are issuing 1,000, 1,500 assistances certificate 
+every day. We have already started. Really, momentum has to further improve.  
+ 
+ 
+
+14 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Arvind Srinivasan 
+Exactly.  
+ 
+Srinath V 
+Got it. Just wanted to get a sense on seeing the deal wins on SecurePass, it looks like that business actually 
+growing faster than our top-line. What is working for this business, especially in India? If you can highlight 
+some key saliencies or use cases.  
+You know, want to understand the privilege identity, privilege access management? Where is the growth 
+actually coming in? Here, could you give some sort of outlook as to how the next 12-18 months look for 
+these set of products, which seem to be growing on the pace of it, seeing all the wins we have, sir? 
+ 
+Kaushik Srinivasan 
+SecurePass in India, I mean, two, three things. One is there is compliance mandate by Central Bank and 
+capital markets regulator on stronger authentication. All banks and capital markets entities are forced to 
+basically improve their cyber security posture.  
+The second is the deal values are much larger than even CertiNext. Typical SecurePass for a large bank or 
+a large government entity is in the range of INR 4, INR 5, INR 6 crores to start with and probably higher. 
+The third thing is privileged identity, privileged access management are again becoming compliance 
+mandates, not only from regulation, but more from voluntary cybersecurity posture. Because many 
+entities have recently experienced data breach. Typically, a data breach happens only when a critical 
+administrator privilege or a credential gets compromised. These are the three trends that are driving more 
+and more SecurePass adoption locally.  
+And which is why given the scale of implementation we have done here, we're also looking at taking it to 
+adjoining markets like Philippines, Indonesia, as well as Africa, and on to some extent now, recently, some 
+conversations have started in the Middle East as well. The idea is to expand the reach of this product to 
+other markets apart from India.  
+Many more deals in pipeline are there in the Indian context itself, where many are under RFP evaluation 
+in various stages. But once international picks up, maybe the growth can be kind of maintained at a fairly 
+aggressive clip for the product.  
+ 
+ 
+ 
+
+15 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Srinath V 
+Sure. If we were to implement the full suite, including PIM and PAM and the works, these deals over a 
+period of time could be north of, like, INR 10 crore engagement per bank, but just to get a feel of how 
+large each of these implementations can be.  
+ 
+Kaushik Srinivasan 
+Yeah, that deal value is possible per large bank. Mid-sized bank may not have that kind of spending 
+capacity, but definitely large bank, government, central government agency, like critical data center 
+installations for state governments, etc., have that kind of deal value capacity for the product. 
+ 
+Srinath V 
+Got it. Last one on this. Is defense also a market for this product? Have you been engaging with the 
+government on this, or is it largely banks and related?  
+ 
+Kaushik Srinivasan 
+No. Defense also because already we have a defense agency that is a customer where they have 
+implemented identity access management across 200 applications that are internal. The conversations 
+are going on with various other main defense as well as other sort of ancillary agencies of defense.  
+ 
+Srinath V 
+Got it. Thanks, Kaushik. Just the last question on Cryptas. We needed to kind of in-source the CA code or 
+I'm not technical, so some way we could backward integrate on the product so that we could save cost 
+and also move some of the service cost to India so that we can support them from here. Have all those 
+moving parts been put in place? Is that reduction in loss because of those initiatives? Where do you see 
+all of this playing out from Cryptas loss management?  
+ 
+Kaushik Srinivasan 
+Cryptas was not really, I mean, cost saving from just moving everything because already we are developing 
+IP here. The main thing was earlier, if you remember the whole narrative, they were using third-party 
+products that were competitor products to us. The idea was how do we substitute that with some of the 
+
+16 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Cryptas' own IP. That integration effort was what continued our IP. That integration effort was what was 
+done over the last sort of six, seven months.  
+The proof of the pudding is now the fact that a large German data center operator has now taken the 
+Cryptas stack backed by full eMudhra stack of our CLM, our CA, and everything. Similarly, PrimeSign, which 
+is Cryptas subsidiary, took emSigner along with their signing service, which is a qualified signing service 
+across the European Union, for an Austrian city municipality.  
+These are first two very, very important and critical wins that hopefully lay the foundation for sale of our 
+software completely along with Cryptas' IP to their customers backed by local support. All of the IP 
+development anyway continues to happen out of India.  
+ 
+Venkatraman Srinivasan 
+So that will save them from purchasing the Keyfactor software as a back end. To that extent, the cost 
+saving will be there. Wherever, they substitute our CertiNext CA instead of Keyfactor product there, the 
+cost saving will be there because, to that extent, transfer pricing will come to India.  
+ 
+Srinath V 
+Thank you, sir. Thanks, guys. Congratulations on a good set of numbers.  
+ 
+Moderator 
+Thank you, sir. The next question comes from the line of Mr. Amit Chandra from HDFC Securities. Please 
+go ahead, sir.  
+ 
+Amit Chandra 
+Thank you, sir. Thanks for the opportunity. My first question is on the Enterprise business. Obviously, is 
+the largest chunk, and it has been growing 50% YoY. If you can provide what is the YoY organic number 
+for the Enterprise? Within the enterprise, the shift is mostly happening largely towards cybersecurity and 
+towards selling direct.  
+Within that, how we see this growth happening for the enterprise piece? Also, if you can elaborate more 
+on the sale that you have done to the European data center. Is it the first data center client that we're 
+having? What is the opportunity in terms of selling to data centers? And what is the size of the contract if 
+you can provide that?  
+
+17 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Kaushik Srinivasan 
+On the product, if you take just the product growth and how much was organic, how much was inorganic, 
+as we outlined, Cryptas' number is INR 20 crore. So, the base was about going from, I think, INR 80 to last 
+-- so about 25% contribution came from Cryptas in numbers. 25% was the organic growth in the product 
+segment. That is, I think, answered your first question.  
+On the second one saying Cryptas, what is the opportunity from a data center standpoint, and what is the 
+opportunity for Cryptas generally as a whole? Cryptas has a number of marquee customers, particularly 
+in the German-speaking European market. This is the first one. They are already having existing customers 
+within the banking, within insurance, within oil and gas.  
+So all of these now become prospects, and they are chasing a fairly good pipeline of customers, selling 
+our product into their customer base. Hopefully, we see some of those results come to fruition in the next 
+few quarters. 
+Three, from a data center-specific standpoint, because, again, data centers require access by people into 
+various systems to manage them. Because these are critical assets and critical infrastructure, over time, 
+the security posture and security requirement of data centers and people accessing into them will need 
+stronger authentication, which is where our solutions come in. It's a fairly large addressable market. I 
+don't know exactly how to quantify it, but we are chasing similar opportunities in many other regions, 
+particularly on securing access of people into data centers.  
+ 
+Amit Chandra 
+Okay. Now, the critical question to the AI and data center. Obviously, with more and more enterprises 
+adopting the Agentic solutions, and the number of agents will increase significantly in the system over the 
+next one to two years. But now, how do you want to capture that? Obviously, we are having a solution 
+for Agentic authentication, tracing the agents and all. What is the opportunity there? Are we getting any 
+revenue from there as of now?  
+ 
+Kaushik Srinivasan 
+I'll first address what is the problem statement that Agentic AI basically drives, and then probably talk a 
+little bit about the opportunity and where we are in terms of the product and maybe adoption. AI, if you 
+look at it broadly, the GenAI is operating at five levels, infra, the application, etc. But one critical layer of 
+that is what is known as AI trust and governance. Because if agents are communicating with one another 
+or communicating with systems, then you need to identify the agents. And agents typically cannot enter 
+a username, password, or an OTP. Therefore, they need some kind of an identity, which is like a digital 
+signature certificate attached to the agent so that they can securely communicate, number one.  
+
+18 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Number two, if agents start taking decisions on behalf of humans. Let's say if an agent decides to give a 
+loan and quantify that loan, then again, there is some level of traceability, verifiability, and tomorrow, 
+what is the legal validity or recognition, etc. Those are all topics where people are framing policies. But, 
+again, that requires usage of digital signature certificate. The trust and governance so as Agentic AI 
+deployments increase, these two become critical where digital signature certificates and identity to agents 
+become a critical component.  
+Number two, what is the opportunity? Over time, I think this is the future where Agentic AI and GenAI 
+adoption will likely ramp up in enterprises, although it is still fairly early stage. But as these ramp up, we 
+will obviously be a beneficiary, and AI, we hope as a structural tailwind, and believe that it's a structural 
+tailwind to our business. 
+Number three, where are we in terms of adoption? Probably pretty early because very early conversations 
+on at least understanding what is the risk of Agentic AI starting to take place. This will be followed by at 
+least some kind of pilots in terms of how do we now secure the Agentic AI landscape and then followed 
+by, over time, better adoption. But we are still in pretty early stage. It's hard to quantify what could be 
+the opportunity right now. But maybe a year down, I think we may be in a better position once we start 
+at least doing some pilots to be able to quantify.  
+ 
+Amit Chandra 
+Are we having any specific products to cater to this kind of problem, or it will be sold as a part of the 
+existing product suite that we are selling to the data center and enterprises?  
+ 
+Kaushik Srinivasan 
+Our existing product suite, namely, CertiNext and SecurePass are being significantly strengthened to 
+capture this. The other thing is there is also a lot of interesting work done by various startups in the U.S. 
+in the Agentic AI security space. Some of them have come to our attention as well.  
+If at all, some bolt-on capability that we may be missing needs to be added, that may be an area that we 
+may pursue sometime down the future, although nothing immediately. We are doing active R&D, plus 
+looking at various ideas that are there in the market on how identity, security, access in the context of 
+agents will need to be enforced.  
+ 
+Amit Chandra 
+Okay. Just last question from my side. In terms of the EBITDA margins that we have seen for the quarter, 
+it has shown significant improvement YoY. If you can provide the bridge in terms of what contributed to 
+
+19 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+this expansion, maybe in terms of, the different products, geography, if you can provide some bridge. 
+Also, what is this sustainable range? Are you seeing some further expansion that could happen as we sell 
+more product-based solutions?  
+ 
+Venkatraman Srinivasan 
+As I said, this quarter, the margin slightly improved because the token sales are less, which has a less 
+margin is lower in the overall composition. That is one thing. And the other thing is, if you see the 
+Enterprise sales is higher compared to because the Trust Service as a percentage is lower, and the 
+Enterprise sale have a higher margin. These two led to higher margin.  
+Coming to the normalization, margins may be around -- it may not suddenly further increase because they 
+are putting more salespeople across geographies. Some senior people have joined very recently. Those 
+extra salaries will happen and all that. With the result, overall, if you see, we may be able to maintain this 
+EBITDA at 25% and the PAT around 16-16.5%.  
+ 
+Amit Chandra 
+Okay, sir. Thank you. And all the best.  
+ 
+Moderator 
+Thank you, sir. The next question comes from the line of Mr. Kanishk Gupta from SS Family House. Please 
+go ahead, sir.  
+ 
+Kanishk Gupta 
+Hello, very good afternoon to you. My question would be, if we establish FY26 as a strong reference point 
+for the business, could you help us understand your FY30 vision for the company, and how do you expect 
+the revenue mix across your Trust Service, Enterprise, and Transformation Services to evolve? Where do 
+you see the major growth drivers emerging?  
+ 
+Venkatraman Srinivasan 
+FY30, we do not know, but we made a three years vision. Our three-year vision is to achieve 2x profitability 
+in three years, but 2x revenue growth may not happen. We are expecting organic growth of 18-20% per 
+
+20 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+year. Plus, if at all, any acquisitive growth will be there, it will be there. But as of now, our vision is to have 
+2x PAT in three years.  
+Three years means that is ‘27, ‘28, '29. If we to achieve that, it has to gradually grow more of Enterprise 
+Solution has to grow because the growth in Service business is almost very negligible. And the token 
+business also may grow in 15 not token business, but Trust Service may grow 15-20%. It has to be on the 
+other. The Enterprise Solution business will grow more, maybe 20-25% per year. 
+ 
+Kanishk Gupta 
+To double the bottom line over next three years, how should the investors think about relative 
+contribution from revenue growth versus profitability improvement while achieving this goal? 
+Additionally, what kind of margins are achievable, and what would be the most critical execution risk? 
+ 
+Venkatraman Srinivasan 
+From our current revenue, you put to 1.18 for three years. Then what will be the total revenue will be 
+known? Similarly, current profitability is INR 110. From there, 1.25, you can put three-year. Then, based 
+on that, if you divide the thing, then you will get what should be the PAT percentage, which will be instead 
+of 16%, it could be 17-18% or whatever. That's how one has to look at it.  
+ 
+Kanishk Gupta 
+That's helpful. But as you execute the journey, what would be the most important operating metric or KPI 
+that investors should track each year to assess whether the company remains on course to achieve its 
+objective of doubling the bottom line?  
+ 
+Kaushik Srinivasan 
+Every year, we publish something called an order book metric, which is primarily meant for enterprise 
+solution. There historically has been a multiple on the order book that the business has achieved in the 
+following year. This has been true since the time we've started disclosing the metric, I think, just following 
+the IPO, which is in 2022. That is the metric that you can look out for in the annual investor presentation. 
+If there are any further clarifications, we can do a separate one-on-one call to help you get a better hold 
+of that metric.  
+ 
+ 
+
+21 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Kanishk Gupta 
+Lastly, as the management pursues its long-term growth ambitions, how do you balance the growth, 
+profitability, and capital efficiency when evaluating strategic decisions? Are there any opportunities, 
+whether in new geographies or products or acquisitions, that you would consciously choose not to pursue 
+as they do not meet your long-term return threshold or create sufficient shareholder value?  
+ 
+Venkatraman Srinivasan 
+We don't venture into high-risk things. If it is reasonable valuation and reasonably it can fit into our 
+philosophy, then only we will go with the acquisition. If you see all our past acquisition, it has been very 
+highly value-driven. Then how we are able to take it further and grow the business. Several acquisitions 
+come, but several are highly priced, or it may not fit it. It may not be management cultural fit, so many 
+things are there. Those things, we do not pursue. We are extremely cautious on the profitability. That's 
+why if you see from the time of listing, almost we have been able to maintain the profitability, maintain 
+the growth, and everything.  
+ 
+Kanishk Gupta 
+Thank you so much, sir, for answering me, and all the best for the future. 
+ 
+Venkatraman Srinivasan 
+Thank you.  
+ 
+Moderator 
+Thank you so much, sir. The next question comes from the line of Mr. Sanjyot Khare from Vision Finance. 
+Please go ahead.  
+ 
+Sanjyot Khare 
+Hello. Good evening. Am I audible?  
+ 
+Kaushik Srinivasan 
+Yes.  
+
+22 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Sanjyot Khare 
+Congratulations on a good set of numbers, and most of my questions are answered. I know, I joined the 
+call late, but I have not heard any update on the case going on with TI Infotech. Were there any latest 
+update there on that?  
+ 
+Venkatraman Srinivasan 
+No. There is no update. The police to it, they have complied. They called me for a statement on Monday, 
+and they have extensively taken our side of the story and the statement and all the evidences which have 
+we have. After that, there is no update.  
+ 
+Sanjyot Khare 
+This will take some time, I mean, to settle down, this case?  
+ 
+Venkatraman Srinivasan 
+This is in the hands of the police, so we do not know when they will close or whether they will take further 
+action and all that. But from our side, we have given all the evidences, whatever we have, and they have 
+also taken our statement.  
+ 
+Sanjyot Khare 
+Okay. And related to that, I mean, recently, what the CI Infotech has announced that a group called Capital 
+MXT has acquired 5% stake in the company.  
+ 
+Venkatraman Srinivasan 
+Yeah.  
+ 
+Sanjyot Khare 
+Is that something related to the group, related to eMudhra? If it is so, what is the plan?  
+ 
+ 
+
+23 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Venkatraman Srinivasan 
+Not related to eMudhra. That is related to my personal investment.  
+ 
+Sanjyot Khare 
+Okay. It's not related to eMudhra.  
+ 
+Venkatraman Srinivasan 
+Not related to eMudhra. My personal investment, yeah.  
+ 
+Sanjyot Khare 
+Okay. All right. Thank you very much, and all the best.  
+ 
+Venkatraman Srinivasan 
+Thank you.  
+ 
+Moderator 
+Thank you, sir. Ladies and gentlemen, if you have any questions, please press * and 1 on the telephone 
+keypad. I repeat, if you have any questions, please press * and 1 on the telephone keypad. We have a 
+follow-up question from Mr. Kanishk Gupta from SS Family House. Please go ahead, sir.  
+ 
+Kanishk Gupta  
+Hello once again, sir. Sir, another thing I wanted to ask is over the last few years, we have seen a 
+meaningful shift in revenue mix towards Enterprise Solution. However, this has not yet translated into a 
+corresponding improvement in ROE and ROCE.  
+Could you help us understand the key factors behind this? As these segments become a larger part of the 
+business, how should investors expect a structurally higher return profile? What would be the 
+management consider a sustainable ROE and ROCE over the medium term?  
+ 
+
+24 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Venkatraman Srinivasan 
+You see, ROE, what happens is, generally, when you get more and more profit every year, the reserve also 
+increases. Once the reserve increases, that adds to the equity basis. That way, if you see over the years, 
+the equity basis also increased. Currently, last year, what was our ROE? Around 14.5-15%. Ideally, that 
+could be the ROE which we can maintain.  
+ 
+Kanishk Gupta 
+Any kind of structural reason why the company should not be able to achieve ROCE levels comparable to 
+other leading software and cybersecurity companies? Or this kind of return profile is largely part of the 
+company's business model?  
+ 
+Venkatraman Srinivasan 
+They're cybersecurity company also. I don't think nobody is achieving more than 25% EBITDA margin or 
+more than 16% PAT margin and all that because we have compared. Lot of them are less only. Nobody is 
+more. Even foreign companies are several times almost zero-margin kind of American company. That way, 
+our profile is much better, the ROCE and ROE. Another thing is, we as a strategy, up to now, we are not 
+borrowed much.  
+On the one side, with a high leverage, if you try to do, then the return on equity can be better. But return 
+on capital employed will not be better even if you borrow, but return on equity can be better if you borrow 
+more. But as a strategy, we do not want to borrow more and then create borrowing burden.  
+ 
+Kanishk Gupta  
+Got it, sir. Thank you very much.  
+ 
+Venkatraman Srinivasan 
+Thank you.  
+ 
+Moderator 
+Thank you, sir. Ladies and gentlemen, if you have any questions, please press * and 1 on your telephone 
+keypad. I repeat, if you have any questions, please press * and 1 on your telephone keypad. Next question 
+comes from the line of Mr. Ravi Mehta from One Up Financial Consultants. Please go ahead, sir.  
+
+25 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Ravi Mehta  
+Hi. Thanks for the opportunity. I just had a difficult question. I joined a bit late. I'm not sure if you called 
+out the service revenue in the call earlier.  
+ 
+Venkatraman Srinivasan 
+Service revenue was called out. Service revenue is 19% of the overall quarterly revenue -- 20%.  
+ 
+Ravi Mehta  
+Are you calling out margins specifically about the service business?  
+ 
+Venkatraman Srinivasan 
+Service margins were not called out, but broadly the same historical margin profile for services.  
+ 
+Ravi Mehta  
+And any color on the Cryptas revenues?  
+ 
+Kaushik Srinivasan 
+Cryptas revenues we stated. It's INR 20 crore for the quarter. 
+ 
+Ravi Mehta 
+Okay. I think we're going to understand that it's also turning around. I think, within the last year. How is 
+that transition happening?  
+ 
+Kaushik Srinivasan 
+That's why we called out the first set of wins by Cryptas using our product instead of a third-party product, 
+what was indicated and explained for one large German data center client as well as one city municipality 
+for emSigner. Hopefully, this acts as a base for future wins with our product instead of third-party 
+products, and Cryptas can then turn around to becoming profitable.  
+
+26 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Ravi Mehta 
+Okay. Thank you, sir.  
+ 
+Kaushik Srinivasan 
+Thank you.  
+ 
+Venkatraman Srinivasan 
+Thank you.  
+ 
+Moderator 
+Thank you, sir. Ladies and gentlemen, if you have any questions, please press * and 1 on your telephone 
+keypad. I repeat, if you have any questions, please press * and 1 on your telephone keypad.  
+ 
+Venkatraman Srinivasan 
+If there are no questions, then we can close.  
+ 
+Moderator 
+There are no further questions, sir. Now, may I hand over the floor to the management for closing 
+comments.  
+ 
+Venkatraman Srinivasan 
+I would like to thank everyone for joining the call today. We remain focused on delivering consistent 
+performance and innovative solutions that enable secure digital transformation for our clients across the 
+globe. For any additional information or queries, kindly get in touch with us. Thank you once again.  
+Thank you.  
+ 
+ 
+ 
+
+27 
+eMudhra Limited 
+Q1 FY27 Earnings Conference Call 
+ 
+30.07.2026 
+Moderator 
+Thank you, sir. Ladies and gentlemen, this concludes your conference for today. Thank you for your 
+participation and for using Door Sabha's conference call service. You may disconnect your lines now. 
+Thank you, and have a pleasant evening.  
+ 
+ 
+ 
+Note:                   1. This document has been edited to improve readability 
+                             2. Blanks in this transcript represent inaudible or incomprehensible words. 
+ 
+ 

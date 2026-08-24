@@ -1,0 +1,775 @@
+www.ideaforgetech.com
+ideaForge Technology Limited.
+EL-146, T.T.C. Industrial Area, M.I.D.C. Mahape, Navi Mumbai - 400 710. Maharashtra
+(India).
+Ph.(O): +91 (22) 6787 1000 (F) +91 (22) 6787 1007
+Email: info@ideaforgetech.com CIN No. L31401MH2007PLC167669
+November 04, 2025
+To,
+BSE Limited
+Phiroze Jeejeebhoy Towers, Dalal Street,
+Fort, Mumbai – 400 001.
+BSE Scrip Code: 543932
+To,
+The National Stock Exchange of India
+Limited “Exchange Plaza”, Bandra – Kurla
+Complex, Bandra (EAST), Mumbai – 400 051
+NSE SYMBOL: IDEAFORGE
+Sub: Transcript of Earnings Call for the quarter and half year ended September 30, 2025 of ideaForge
+Technology Limited (“the Company”).
+Dear Sir/Ma’am,
+This is further to our letter dated October 29, 2025, whereby the Company had submitted the link to
+the audio recording of the Earnings Call hosted by the Company on Wednesday, October 29, 2025 at
+11.00 a.m. (IST) post announcement of Unaudited Financial Results (Standalone & Consolidated) for
+the quarter and half year ended September 30, 2025.
+Pursuant to the Regulation 30 and 46 read with clause 15 of Para A of Part A of Schedule III of the SEBI
+(Listing Obligations and Disclosure Requirements), Regulations 2015, please find enclosed the
+transcript of the Earnings call held on Wednesday, October 29, 2025. The Transcript is also available
+on Company’s website at below link:
+Link: https://ideaforgetech.com/uploads/Other/MUFG-ideaForge-Oct29-2025clean.pdf
+Kindly take the same on your records.
+Thanking you,
+Yours faithfully
+For ideaForge Technology Limited
+Nilesh Ranjan Jaywant
+Company Secretary
+Membership No. A26554
+Encl: as above
+NILESH 
+RANJAN 
+JAYWANT
+Digitally signed by 
+NILESH RANJAN 
+JAYWANT 
+Date: 2025.11.04 
+15:33:16 +05'30'
+
+Page 1 of 17
+“ideaForge Technology Limited
+Q2 and H1 FY '26 Earnings Conference Call”
+October 29, 2025
+MANAGEMENT: MR. ANKIT MEHTA – CHIEF EXECUTIVE OFFICER AND
+WHOLE-TIME DIRECTOR – IDEAFORGE TECHNOLOGY
+LIMITED
+MR. VIPUL JOSHI – CHIEF FINANCIAL OFFICER AND
+WHOLE-TIME DIRECTOR – IDEAFORGE TECHNOLOGY
+LIMITED
+MODERATOR:
+MR. PARTH PATEL – MUFG INTIME INDIA PRIVATE
+LIMITED
+
+ideaForge Technology Limited
+October 29, 2025
+Page 2 of 17
+Moderator:
+Ladies and gentlemen, good day, and welcome to the ideaForge Technology Limited Q2 and
+H1 FY '26 Earnings Conference Call. As a reminder, all participant lines will be in the listen-
+only mode and there will be an opportunity for you to ask questions after the presentation
+concludes. Should you need assistance during the conference call, please signal an operator by
+pressing star, then zero on your touch-tone telephone. Please note that this conference is being
+recorded.
+I now hand the conference over to Parth Patel from MUFG Intime. Thank you, and over to you,
+sir.
+Parth Patel:
+Thank you, and good morning. On behalf of MUFG Intime, I welcome you all to ideaForge
+Technology Limited Q2 and H1 FY '26 Earnings Conference Call. From the management side,
+we have Mr. Ankit Mehta, Chief Executive Officer and Whole-Time Director; Mr. Vipul Joshi,
+Chief Financial Officer and Whole-Time Director. I hope everyone had an opportunity to go
+through our investor deck and press release that we have uploaded on our exchanges and
+company's website.
+A short disclaimer I would like to say before we begin the call. This call may contain some of
+the forward-looking statements, which are completely based upon our beliefs, opinion and
+expectations as of today. These statements are not a guarantee of our future performance and
+may involve unforeseen risks and uncertainties.
+With this, now I hand over the call to Mr. Ankit Mehta. Over to you, sir.
+Ankit Mehta:
+Thanks, Parth. Good morning, everyone, and thank you for joining us for the Q2 FY '26 earnings
+conference call of ideaForge Technology Limited. I'm joined by our CFO, Mr. Vipul Joshi, and
+our Investor Relations team.
+It's always a pleasure to connect and share our progress as we continue to strengthen India's
+position in the global UAV ecosystem. Over the last few months at ideaForge, we have witnessed
+a growing recognition of how UAVs are transforming both national security and enterprise
+operations domestically as well as globally.
+What began as a tactical advantage in incident-based usage is now rapidly evolving into strategic
+infrastructure with persistent operations. ideaForge remains at the forefront of this shift by
+driving innovation, reliability and resilience in the technology.
+While the UAV sector in India is on a rebound after a muted FY '25 and our efforts on the
+international front to build a stronger presence continue, I want to take this opportunity to
+reiterate how ideaForge is built differently with grit and perseverance to drive strategic
+innovation and help our forces and enterprises adopt this technology at scale.
+We started building drones as a cool but innovative project in 2004, almost 21 years back, which
+morphed into building this technology for our soldiers to help them mitigate 26/11 Mumbai-
+like attack situations with greater situational awareness. We started at a time when none of the
+components that go into building a drone were commonly available or available in the open
+
+ideaForge Technology Limited
+October 29, 2025
+Page 3 of 17
+source domain. And that led us to build most of the subsystems components of the technology
+grounds up.
+And when we decided to build products for our soldiers, it was clear to us that they require us
+to build systems that can give the best performance reliably in the harshest of conditions and
+environments as our forces operate in. Products that don't require expert-level skills and ensure
+that focus remains on the mission at hand and not on flying of the drone.
+Our approach and belief have been to make consistent investments in efforts and initiatives that
+push the boundaries of technology in the service of making better solutions for our customers.
+And this approach has allowed us to develop in-house solutions that pre-empt the needs of the
+market and build capabilities ahead of time, and thus provide an edge to our customers in the
+field and to us in the market.
+Our legacy has sufficient evidence that our technology and products actually create a difference
+for our customers and their missions, as evidenced in the Op Sindoor and even in the disaster
+management for the floods recently.
+An example of building capabilities by pre-empting the needs of our customers is actually
+represented in the development and market journey of our SWITCH UAV as early as 2015,
+being the first unconventional fixed-wing platform with vertical take-off and landing capabilities
+in India when the whole world was dominated by hand launched and runway dependent drones.
+Now SWITCH is the only platform with certifications and accreditations from both civil
+regulators like DGCA and military agencies like DGQA and NATO codification. Not to mention
+that fixed-wing VTOL hybrid has become a standard ask now by customers needing better
+airtime and range of operations.
+Similarly, a few years back, we started developing a suite of capabilities for electronic warfare
+resilience by observing technology trends and the global conflicts. We were among the very
+few players globally outside the war zone to realize this shift and develop this capability in-
+house. And after Op Sindoor, EW resilience has become a baseline requirement for the Indian
+forces operating in border areas. And the same is being reflected in their ask in the recent
+procurement programs.
+The development of our tactical UAV platform, ZOLT, is also rooted in a similar thought
+process. And it is already proving to be a capability in demand. It is once again proving the
+superiority of our design and execution philosophy of performance, reliability, autonomy and
+resilience. As such, our strength lies in the ability to look at the technology -- trajectory of
+technology and identify imminent and urgent gaps in customer capabilities pertaining to our
+areas of interest.
+As the defencse sector is once again witnessing renewed momentum, our customers have
+realized the game-changing nature of this technology and are finally putting their faith
+wholeheartedly in these systems. This has been evident with the increased procurement
+activities, budget allocations and order in flows.
+
+ideaForge Technology Limited
+October 29, 2025
+Page 4 of 17
+In addition to central procurement, the Army has dedicated powers to the commands and has
+enabled emergency procurement even at the command level. This has improved the procurement
+time lines, will increase equipment availability with the forces and will also accelerate adoption
+and induction of the technology. In all these opportunities, ready to deploy, EW resilience
+capability across various platforms has definitely proved to be an edge to ideaForge over
+competition.
+In addition to these immediate changes, government is also bringing in structural and long-term
+improvements in defencse procurement. The recently introduced Defencse Procurement Manual
+2025 has brought in many such changes. Global tenders under INR200 crores are off by default,
+giving domestic players an opportunity to build and scale in India.
+Bids are managed through e-procurement and big orders need audited proof of local content.
+These and many such reforms push demand towards build here, buy here. The manual also
+pushes for innovation and indigenization to achieve the reliance.
+Continuing our global expansion strategy. A major milestone in this quarter is the joint venture
+between ideaForge Technology, Inc., which is our wholly owned subsidiary in the U.S. and
+First Breach Inc. in the United States.
+The partnership combines our cutting-edge UAV technology with First Breach's infrastructure
+and access to the U.S. defencse ecosystem, positioning Indian innovation on a global stage. This
+JV will help our plans by enabling substantial transformation in the U.S., which is a major
+criteria for government procurement programs. It will also help us effectively navigate tariff
+and geopolitical uncertainties.
+Another win on the international initiatives is the allotment of a NATO Stock Number to our
+Q6 UAV, validating compliance with global military standards. This recognition following the
+earlier NATO Stock Number assignment to our SWITCH UAV makes both these platforms
+eligible for inclusion in NATO and allied procurement systems. It reinforces our status as a
+trusted vertically integrated UAV player.
+While these efforts and initiatives have strengthened our potential in these geographies, the
+conversion of pipeline to order booking is taking some time as we navigate local regulations
+and certifications, rapidly changing geopolitical situation and achieving the right product market
+fit.
+Looking back at our journey, strengthens our conviction that we are built differently. We believe
+in creating long-term value and have the ability to convert our innovations into deployed
+capability that are growing in scale. The consistency of our efforts in building differentiated
+solutions even during unfavorable market cycles has been the hallmark of our resilience.
+Let me now walk you through our financial performance for quarter 2 and H1 FY '26.
+Consolidated revenues for the current quarter stood at INR40.8 crores versus INR37.1 crores in
+quarter 2 FY '25 and INR53.5 crores in H1 FY '26 as compared to INR123.3 crores in H1 FY
+'25. For the quarter, gross profit stood at INR20.4 crores with a gross profit margin of 50%. For
+
+ideaForge Technology Limited
+October 29, 2025
+Page 5 of 17
+H1 FY '26, gross profit stood at INR28.3 crores with a gross profit margin of 52.8%. I would
+like to mention here that improved gross margins are a combination of factors like the execution
+of contracts with better margins and increased demand for differentiated products.
+EBITDA for the quarter was minus INR8 crores and minus INR23.1 crores for H1 FY '26. PAT
+for the quarter stood at minus INR19.6 crores and minus INR43.2 crores for H1 FY '26. Our
+order book as of 28th October stood at approximately INR238 crores.
+We can now move to the Q&A.
+Moderator:
+Thank you. We will now begin with the question-and-answer session. The first question is from
+the line of Jai Chauhan from Trinetra Asset Managers.
+Jai Chauhan:
+Sir, my first question is, given the rapid evolution in drone technology, particularly around AI,
+sensor integration, could you elaborate on the key priorities for your R&D efforts over the next
+1, 2 years beyond the current ZOLT and YETI program?
+Ankit Mehta:
+Jai, I think your voice is a little unclear. Can you repeat your question, please?
+Jai Chauhan:
+Focus for R&D efforts in next 1 to 2 years looking at all the AI development and everything that
+is happening around the drone segment and YETI, etcetera, programs.
+Ankit Mehta:
+Right. See, in terms of our development efforts, I think first and foremost, we operate in 4 or 5
+broad categories of drones that we make as of now. We will continue to build new and improved
+platforms in these categories because we have seen that continued effort in improving the
+capabilities of our existing platforms has helped us catch the cycles that happen of procurement
+in this domain.
+And those cycles are always desiring from us improvement in our capabilities on those
+platforms. So that is one part on the hardware platform categories that we are building in. We
+are building in the categories of our drones, the smaller drones such as the Q4i drones or the
+NETRA drones that we have or SWITCH, ZOLT and YETI, right? We have these 5 broad
+categories in which we build drones today. That is one part.
+Within the airframe or the platform and the operational autonomy, leveraging AI is going to
+become crucial as we go forward in the next few years because there is a need in the market for
+a lot more autonomous operations on drones in the future. And that is particularly required
+because with all the electronic warfare and counter drone systems that are going to be more
+prevalent on the ground today, the need for drones to do missions while being completely radio
+silent is going to go up. And if that happens, we have to have the ability to do intelligent
+operations on the drones that we get. And that's one of the directions that I can share on the AI
+side that will happen going forward.
+The other direction is identification of objects on ground or using artificial intelligence for doing
+the job or creating a solution for the end customer. And that is also a direction where we are
+robustly investing in 2 things. One, we are investing in our capability, twoo, at every stage of
+
+ideaForge Technology Limited
+October 29, 2025
+Page 6 of 17
+drone operations have the ability to host AI algorithms, let it be from the point of view of
+algorithms that are coming in from our partners or our own native capabilities in AI, right? So
+we are investing in both those capabilities. And we are also investing in the ability of our
+platform and our solution stack to have the ability to absorb these capabilities and deliver a
+comprehensive solution to the end customer.
+Now the advancement in AI that has happened recently has made it, I would say, a capability
+that is more democratized and it is also a little bit more, you can say, a little bit more user-
+friendly. And therefore, the interactions for the operators with the system or end customers with
+the system are going to become more natural language focused.
+They're going to become more seamless. And it will allow for a better pace of adoption of the
+technology on ground. So that is another area where work is going to happen. And then, of
+course, there is also work that is going to happen in multi-domain and multi-UAV autonomy.
+That's the third or the fourth vector.
+So there is a lot of work that is going to happen, and our platforms are embedding that capability
+of hosting these capabilities as an overall broad solution and also building those capabilities that
+are required by our customers.
+Jai Chauhan:
+Understood, sir. Understood, sir. I also wanted to understand, sir, like what are the current trends
+do you see that requirements of -- on your defencse side, what are the requirements they are
+needing for drones because there are anti-drone systems are also quite evolving, right? So what
+are the requirements and the trends you see, what kind of requirements in, I would say, orders
+or tenders you are seeing in the defencse side?
+Ankit Mehta:
+So what is very heartening, Jai, is that as ideaForge, our focus for the longest time was on
+building capability for what is known as ISRT; intelligence, surveillance, reconnaissance and
+targeting, right? So these areas is where we had the majority of our focus from the very
+beginning. And these areas continue to be a very strong requirement from the armed forces, and
+we have seen a lot of opportunity in that domain in this cycle as well.
+As well as now it is very clear since Op Sindoor that we will need the ability to do an end effect
+or what is known as attack systems as well. And there is going to be, and there is procurement
+happening for those kind of systems as well, which is presently not an area that we have active
+participation in those class of systems that are under demand right now, but we are building
+capabilities on our platform like ZOLT and Q6, wherever they can carry a load, they will be
+explored for different use cases.
+But that's presently what the status is of what they're looking at. And of course, all of this has to
+come with the ability to operate in electronic warfare, counter-drone systems environment. And
+those capabilities are the baseline for all of these systems if they have to be effective on the
+ground.
+Moderator:
+Our next question comes from the line of Dipen Vakil from PhillipCapital.
+
+ideaForge Technology Limited
+October 29, 2025
+Page 7 of 17
+Dipen Vakil:
+Congratulations on a decent recovery and good order wins in first half. So first question is on
+the order wins itself. So second quarter, we have won orders close to around INR60 crores. And
+third quarter, we have won orders close to around -- sorry, third quarter, I mean, in October, we
+have won orders close to around INR74 crores. So can you give us an idea as to the areas from
+which we have received these orders, whether they were defencse orders, what kind of orders
+that we have received so far?
+Ankit Mehta:
+So majority of this is defencse coming in from the command emergency procurements that are
+underway right now.
+Dipen Vakil:
+Okay. So now how would be our order book split between defencse and civil?
+Ankit Mehta:
+I think it is heavily skewed towards defencse at this point in time, as was expected and
+highlighted also earlier in my previous call that it will be heavily skewed towards defencse.
+However, we are seeing green shoots also from the point of view of upliftment of demand and
+requirement for the technology on the enterprise side. But of course, as I have indicated earlier,
+the scale today on that side is lower than the scale that we can expect from defencse in the short
+term.
+Dipen Vakil:
+Got it, sir. And now coming to on execution side of it. So since most of the orders in almost
+INR140 crores in first quarter and even now another INR130 crores till October, most of these
+are emergency procurement orders. So is it safe to say that all of these orders are executable in,
+say, next 12 months, -- so say, by first half of next 12 months, almost entire of INR230 crores,
+INR240 crores of orders will be executed?
+Ankit Mehta:
+Yes, yes, absolutely. Within the 12 months, we have to and majority will actually have to be
+done in this year itself.
+Dipen Vakil:
+And in this quarter itself, majority of the execution is from the orders that we received in first
+quarter?
+Ankit Mehta:
+In the quarter 2…
+Vipul Joshi:
+Quarter 3 is…
+Ankit Mehta:
+Are you talking about execution in this…
+Dipen Vakil:
+Quarter 2 and quarter 3 as well.
+Ankit Mehta:
+Quarter 2 was a mix of orders received post quarter 1 as well. So some orders we received and
+we build and we are being very agile keeping in mind the customer delivery time lines for many
+of these opportunities. So yes, execution is consistent and we are being very aggressive about
+making sure that we are able to meet our delivery time lines. So many orders on the command
+side are coming with a shorter time frame for delivery as well, while some of the other central
+EP procurement orders are for a longer time line of about 12 months for execution.
+
+ideaForge Technology Limited
+October 29, 2025
+Page 8 of 17
+Dipen Vakil:
+Got it, sir. Sir, last question on your JV with US entity. Sir, in your opening remarks you
+mentioned that the partnership is mainly for the infra development and opening up in the US
+market. So the products that you'll be selling are the same products that you have produced right
+now or there will be some new products specifically for US entity? And can you give us some
+more thoughts into how -- when these entities will start forming -- start execution and some
+more commentary on that?
+Ankit Mehta:
+See, the joint venture is predicated on our existing portfolio of solutions. That's the primary, you
+can say, vector to drive. However, now that we have an opportunity to address all the needs of
+the market over there, based on the scale of opportunities that we believe have immediate
+requirements, there may be things that may come up into the product development road map
+from the efforts that we are doing on business development there.
+But right now, the focus is on the existing product categories, and there is a clear need for some
+of these capabilities in the market over there. These geopolitical changes and certifications and
+other vectors are areas where we are continuously making efforts to move closer towards setting
+ourselves up more aggressively there.
+Moderator:
+Our next question comes from the line of Hardik Rawat from IIFL Capital.
+Hardik Rawat:
+So firstly, happy to see the inflow trajectory for us improving after 2, 3 quarters of lull. My first
+question was with regards to the DAC approval that came out recently and report suggesting
+that roughly 55 billion of that is expected to be allocated for swarm drones with a range of about
+1,000 kilometers, which is currently under the Make II program. Are we associated with this
+program in any manner? Or are we looking to develop the products in this category?
+Ankit Mehta:
+So Hardik, as you are aware, we are already part of some Make II programs that are particularly
+in favor of our ZOLT platform. That is one part of what we are already doing. Any new
+capabilities that have been indicated as requirements in the armed forces is an area that is under
+active discussion at our end. And based on the nature of the platform in terms of whether it is
+dual use or only for defencse purposes, we will take a call on whether we need to include that in
+our road map or not.
+Hardik Rawat:
+Got it. Another thing was with regards to the gross margin. So on a Y-o-Y basis, the gross
+margins have sort of improved. But going into Q3, Q4, wherein we'll have execution of the large
+order that we had received in Q1, how do you see the trajectory on the gross margin front in the
+second half?
+Vipul Joshi:
+Hardik, we're projecting that it will stay in the similar lines as it is this quarter for the remaining
+half.
+Moderator:
+Our next question comes from the line of Krishna Doshi, Ashika Institute.
+Krishna Doshi:
+Sir, congratulations on a good set of order wins in the quarter. Sir, most of my questions have
+been answered. I just had these 2 questions. So going ahead, I can figure out that since the order
+book is skewed towards defencse, can we see our gross margins improving further? Or are we
+
+ideaForge Technology Limited
+October 29, 2025
+Page 9 of 17
+still expecting it to be in a similar range only? Like I heard the previous question, but don't we
+think that the gross margins are supposed to get better considering the product mix?
+Vipul Joshi:
+So depending the orders that we execute and at the final juncture as to how the combined
+execution looks like, we are right now under the assumption that this will stay as what it is in
+this quarter.
+Krishna Doshi:
+Okay, sir. And my second question is basically, like I just want you to throw some more light
+on the SWITCH and the Q6 platforms. Now they are carrying the NATO Stock Numbers. So I
+was just trying to understand like what is the kind of evaluation process that you have to go
+through? And also what kind of opportunities then do we see going forward from these NATO
+countries?
+Vipul Joshi:
+Yes. So basically, under the evaluation process of our MOD orders is where there's QA agencies
+also involved to evaluate the product and also certify them for further dispatch to the customers,
+under which then we have to go through the process of HSN codification of, and which then
+gets into the overall release of the NSN number, which is basically a NATO number for which
+the 2 supplied orders in the last 2 years of one for SWITCH and one for quad, we've received
+these numbers now allocated to both of these products.
+Ankit Mehta:
+Which means that it will now be visible to that inventory or that group of companies, countries.
+And as we look at global markets and as we look at the procurement processes in the global
+markets, this will come in handy because this sometimes becomes a requirement that helps us
+qualify in certain opportunities.
+Moderator:
+Our next question comes from the line of Nikhil Gupta from Vayu Capital.
+Nikhil Gupta:
+So the only question I have is in the opening remarks, Ankit, you mentioned that you have a
+good understanding of how technology moves and our key efforts going forward, right? So I
+think there was a recent video demonstration of a company, Indian company named BonV Aero,
+where they highlighted a payload capacity of 20 kgs.
+And I think the drone was in the air for about 6 to 8 hours. I think this capability is, to my limited
+understanding, is better than what we are trying to offer in ZOLT platform. So what do you
+think -- first of all, you're aware about this technology? And depending upon that, will we make
+some modifications? And what do you think -- I just need a more commentary on that.
+Ankit Mehta:
+Nikhil, there are many segments in the overall market that we do not address. One of the
+segments that we do not address right now is the load carrying capacity of more than 10 kgs to,
+let's say, up to 50, 60 kgs because the limited use of that segment in our eyes was only for
+defencse. And therefore, if you look at what we do with ZOLT is a specific category that we
+believe has a lot of value. And then we are building YETI as our long range and high payload
+carrying delivery or you can say, payload carrying system, right?
+So these are the 2 categories that we have chosen to be in. There will always be companies in
+the ecosystem who will address the other segments, which presently we are not building. So as
+
+ideaForge Technology Limited
+October 29, 2025
+Page 10 of 17
+such, we haven't compared ourselves to that product, and I do not believe that those products
+presently replace the demand for ZOLT because ZOLT is a specific platform built for
+capabilities that are -- they continue to be relevant for specific use cases. So these are different
+categories of platforms. So we are probably not in that category as you are describing.
+However, just from the word of it, carrying 20 kgs and flying 6 hours on a helicopter type drone
+or a quadcopter or a multi-rotor type drone, it's a capability that we will have to assess whether
+the context of the capability is correct or not because it can either be achieved using fuel, if it's
+a very small platform or the platform can be very large. So we'll have to look at the technical
+details of how it can be achieved.
+Moderator:
+Our next question comes from the line of Rupesh Tatiya from Long Equity Partners.
+Rupesh Tatiya:
+My question will be -- first question is really on the civil side of the application. I mean can you
+give some idea about GIS area that you are looking at? What are the applications you're looking
+at property mapping, digital twins, infrastructure management? And how do you see this
+segment evolve over next 2, 3 years? And how is our positioning in it in terms of capability and
+in terms of cost?
+Ankit MehtaKrishna Doshi:
+Rupesh, it's a great question. Thank you for that. In terms of the mapping market or
+the GIS market in the ecosystem, I think there are many different sort of slices of that market,
+right. The first slice of that market is doing geospatial mapping for something like property card
+creation or land records creation, right? Now that is a capability and activity that happens and
+Survey of India has approved our platform and other platforms for doing that grade of activity
+which can be used as a land record tool.
+Within that, there is a lot of requirement for doing large-scale geospatial mapping, so this is
+digitizing, at this point in time there is digitization of villages happening under the SVAMITVA
+scheme, then there is digitization of land records happening at several state level as well as there
+is the need for digitization of many defencse-related use cases as well in terms of military
+mapping and other areas, right? So that's one part of what we do.
+Within that, there are slightly different flavors of what can be done. For example, one is using
+a single camera system to do mapping at large scale. And the other is creating digital twins of
+infrastructure on ground or at this point in time there are opportunities for doing digital twins
+for entire cities using what is known as oblique cameras where there are 4, 5 cameras that look
+in different directions and create a very high resolution, very high fidelity 3D of the area that is
+being mapped or under observation. So that's one part of what happens in the mapping domain.
+We are very well plugged in to both of those vectors. In fact, we believe that in a pure quadcopter
+like platform, we offer the best performance globally in these categories and our platforms are
+uniquely suited because they can, one, operate in extreme environmental conditions, which is
+one area that we excelled in and also are capable of operating in very hilly terrains in very
+undulating terrains, which is a capability that many other competing platforms cannot deliver
+and definitely cannot deliver at the kind of flight times that we offer, which allows for larger
+
+ideaForge Technology Limited
+October 29, 2025
+Page 11 of 17
+area coverage in those scenarios and situations. So that's one advantage of our platforms, and
+we are very well positioned in those areas.
+The other areas that we have started to look at with the launch of our Q6 V2 Geo platform is we
+have now LiDAR payloads available with our systems. We also have payloads like the
+multispectral hyperspectral, which is useful in both agriculture and geospatial mining and other
+mineral investigations. And then we have payloads that can do colorized LiDAR.
+And broadly, I think the geospatial domain in terms of how many spectrums we could potentially
+map using a UAV I think now we have covered all of those spectral definitions. And there are
+use cases that we are unlocking both on research and commercial deployments at scale where
+these platforms and these kind of capabilities are very essential for operational efficiencies of
+our end customers.
+So because this is a recent launch, we are in the process of building the pipeline and the demand
+for these systems. However, it is backed by robust research of the need for such systems as well
+as it is also backed by third parties who have partnered with us who were building these
+payloads, possibly for other platforms, but have now adapted their systems for our platforms as
+well.
+Rupesh Tatiya:
+That is good to know, sir. The second question is, can this segment become, let's say, INR100
+crores kind of business for us in 2, 3 years? And the subtext to that is -- I mean, this is all data
+capturing service that you're providing, but I think 50% of your team works on sort of R&D. So
+where are we on the software development, application development, integration with some of
+these tools in this area. So if you can address that part of the equation as well?
+Ankit Mehta:
+That's a great question. So yes, we do believe that it has the potential to grow in size to that level,
+number one. Number two, it also is an area where we believe that it is not just the data capture
+that is critical for the end customer, but it is the end outcome from that data capture that they are
+most interested in going forward, right? So we have built a platform such as the FLYGHT
+CLOUD platform that we have, wherein in FLYGHT CLOUD we allow for geospatial data to
+be uploaded on the cloud seamlessly from the edge, from the drone ground controller. Once it
+is uploaded, it can get into automated data processing workflows.
+These data processing workflows prepare the data for both visualization and in some cases what
+is known as stitching together of the information for creating 3D and other elements. Now once
+that happens, then analytics can be done on that large data. And that analytics is again something
+we can augment building our own pipeline for analytics as well as working with third-party
+providers who are focused on specific solutions for specific industries, but are looking at high
+flight time platforms that can help them deploy this capability at scale.
+So we are looking at using FLYGHT CLOUD as our end-to-end solution deliverer for making
+sure that we are able to work on full solutions for our end customers and work with third parties
+to make sure that we can address a large segment of the market domain in this space.
+
+ideaForge Technology Limited
+October 29, 2025
+Page 12 of 17
+Rupesh Tatiya:
+That is good to know, sir. Just one clarification before I return to the queue. In terms of mapping
+in terms of resolutions, in terms of terrain, whatever the parameters are there, right, when we
+are mapping, is it fair to assume, let's say, that ideaForge has capability to map, let's say, 90%
+of the areas?
+Ankit Mehta:
+Absolutely, 95% in my opinion.
+Moderator:
+Our next question comes from the line of Tushar from Peace Wealth.
+Tushar:
+So we are one of the pioneers when it comes to drones. So I just want to understand maybe like
+why did we stick only to mapping and surveillance? And in a way, we are late in terms of when
+it comes to target drones that we are now trying to do with the ZOLT platform like you said.
+Just want your sense on this. Like why did we not diversify into other applications early enough?
+So that is my first question.
+Ankit Mehta:
+Tushar, in terms of diversifying very quickly, see ideaForge was bootstrapped for a very long
+time when we began our journey, right? So we were limited by capital. And progressively, even
+when we raised investments, there is always the need and necessity to focus and build deep
+capabilities in technology domains, right? And we also have to look at which domains are going
+to become very large and which domains also address the kind of challenges we see in the, you
+can say, business that we are in, right?
+The business that we are in and the need for many predictable cycles and many other vectors,
+we have to look at what are those areas where the business goals can be enhanced in a more
+balanced way, right? So certain capabilities which are pure defencse capabilities, we have been
+in the past, deprioritizing them because we believe that the need for diversification is very
+critical in our domain to make sure that we achieve the business objectives in that.
+So that's perhaps one of the reasons why we have not been in that domain so far. However,
+going forward, if we see a smoothing of the curve, there are decisions that can be taken in the
+right direction if that is the opportunity that allows us to meet our business objectives of what is
+desirable as a business for us.
+Vipul Joshi:
+Just to add to that at least from a product capability perspective, ideaForge drones always had
+the precision block capabilities. So while that was the class of 500 grams to 1 kg. And it's just
+that the recent demand because of the current situational and overall whatever happened on our
+borders is where there's a pent-up demand, but ideaForge drones always could carry some of
+these payload wherein customer wanted to attach them at their end because we do not have the
+munition licenses to directly handle some of these capabilities.
+And in the recent past, we have also done certain announcement on our tie-ups with MIL and
+also Zeus to work on creating payloads which could be attached to our drones. And even in
+current opportunities, wherever there are capabilities being asked of, having grenade drone
+capabilities and all where there is just a payload attachment could be given, our pods are
+basically capable of doing that as well. So it's not that we are completely sitting out of it, but we
+
+ideaForge Technology Limited
+October 29, 2025
+Page 13 of 17
+have made this as a conscious decision of not being in a complete domain where a defencse tag
+is something that's part of the strategy itself.
+Tushar:
+Okay. And my other question is regarding, so what is the gestation period that we normally
+have, based on your experience, for both ZOLT and YETI, I want to understand. That's my last
+question.
+Ankit Mehta:
+ZOLT has been in development for about 1.5 years now. And like we mentioned, there is
+demand in the vector. We've done customer demonstrations and trials as well. And there are
+opportunities for ZOLT that are currently underway in terms of real RFP opportunities as well
+as we are continuing to build on the Make II programs that we are a part of. So ZOLT is very
+real and imminent in terms of helping us win some orders.
+In terms of YETI, YETI is still in development phase, and it will take slightly longer because
+it's a much larger platform than YETI -- than ZOLT, even ZOLT. It's almost 10x bigger than
+ZOLT. So it's a pretty massive endeavor, and we are working towards it very aggressively. But
+if you…
+Tushar:
+Have we done any PoC for ZOLT as of now?
+Ankit Mehta:
+Yes, yes. Right after Op Sindoor we did a few PoCs. We've done some PoCs even presently. So
+yes, it's actively under demonstration with the industry.
+Moderator:
+Our next question comes from the line of Dhiraj Shah from RJ Investments.
+Dhiraj Shah:
+So I have 2 questions. Firstly, how do you see the recent GST realization, particularly on drones
+to be impacting the demand and pricing competitiveness and adoption of drones in India?
+Ankit MehtaVipul Joshi:
+Dhiraj, your voice was very low somehow. If I understood your question that is there an increase
+in demand because of the GST revision? And I'm sorry, I didn't get the last question that you
+asked.
+Dhiraj Shah:
+So how would it be impacting the demand and pricing competitiveness and the rather greater
+adoption of drones in India? So what would be the impact?
+Ankit Mehta:
+I think in terms of demand, Dhiraj, the drone domain is going to be not pricing focused, it's more
+utility focused at this point in time. GST improvement definitely makes sure that the adoption
+inertia is lower by about 12% if there was any infusion earlier. But overall, I would say that the
+drone ecosystem is driven by more utility than purely pricing.
+Dhiraj Shah:
+Okay. Understood, sir. Understood. Sir, secondly, when can we expect EP cycle 6 to conclude?
+And also out of INR40,000 crores approximately, how much would be allocated for ISR drones?
+And if you could explain this with previous EP cycle example, that would be really helpful.
+Ankit Mehta:
+See, what we are very clearly aware of is that INR40,000 crores was allocated to defencse.
+Within the INR40,000 crores, INR9,000 crores was with the Indian Army. And within the
+
+ideaForge Technology Limited
+October 29, 2025
+Page 14 of 17
+INR9,000 crores allocated to the Indian Army, the expectation was that a good amount of
+allocation will come towards drones and counter drone systems.
+And in terms of what will be the actual realization from that, I think mostly the budgets are
+allocated from the higher limits that are available for -- in terms of value for each contract.
+However, the actual value may be lesser than those peak limits that are available for each
+opportunity.
+Vipul Joshi:
+That has also changed this time because the command opportunities and central procurements
+are also happening at the same time. And hence, there's a distribution. So these are not public
+numbers, it's difficult to bifurcate as to what is what…
+Ankit Mehta:
+Yes, exactly. So I think there is also allocation that has happened to commands, right? So there's
+distribution within commands as well as drones, but we do expect that good allocation should
+happen -- should have happened to drones itself and opportunities are currently under progress
+for many categories of systems.
+Moderator:
+Our next question comes from the line of Raj Patel from SMG Finance.
+Raj Patel:
+A few questions from my side. So could you give us more color on the joint venture with the
+first phase? I mean to say that what will be the expected time line? What will be the structure?
+And how this will help us to penetrate the US market?
+Ankit Mehta:
+See, what is happening, Raj, is that in US, there is a preference to local manufacturing very
+heavily. If you have followed the geopolitical announcements and conversations that have
+happened there, most of them are focused towards making sure that there is a lot more production
+or end production of drones happening in the US soil itself. So that is one part where it will help
+us.
+Two, it will help us in making sure that there are certain trade barriers that India has with US in
+the sense that US has certain restrictions on who they can buy from at the federal level,
+particularly in defencse. And this also helps us address that issue, making sure that we are -- and
+our products are eligible for those kind of programs and scale is not the limit with respect to
+who we are supplying to and how much we can supply to them. So that's another advantage that
+we get from doing this.
+And the third advantage is that our partner is also looking to invest in the domain. So we will
+get to build this opportunity in the US with their participation as an investment partner along
+with being an operations partner with us and a go-to-market partner. So that -- these 3 areas are
+how it will help us significantly. And we are currently going through the necessary due diligence
+and you can say, operational processes that are pending once we've signed up for working with
+them.
+Raj Patel:
+Okay, got it. Then my next question was that by looking at this joint venture partnership, can
+we also expect similar kind of international partnership in near future in other continent as well,
+
+ideaForge Technology Limited
+October 29, 2025
+Page 15 of 17
+for example, Europe, Africa or Middle East after looking at the rising demand for the ISR and
+tactical drones?
+Ankit Mehta:
+Yes, absolutely. I think these are areas that we are actively exploring because we believe the
+world. So I have a funny expression now for defense products globally, right? They have now
+become like bottling plants. You need to have a bottling plant in sort of every location to serve
+the local demand. So even if the technology or the IP is global, but you need to have local
+assembly for ensuring that we meet the desire for what is also popularly known as make in X
+kind of a scenario that is building up globally because of the changing geopolitical scenarios
+and what is happening from a strategic standpoint in defencse. So absolutely, I think that's the
+domain that we are working and actively seeking partners in that…
+Raj Patel:
+Got it, sir. And my last question was with regards to that can you guide us in order to -- how do
+we plan to localize the manufacturing for the global clients as well as maintaining the cost
+competitiveness and IP control?
+Ankit Mehta:
+See, IP control is something that one has to do by, first of all, making sure that the technology
+is secure natively. Number two, we have to ensure that we have the right kind of contracts with
+our partners. And we, of course, set up the right processes, access controls, etcetera, when we
+deploy the technology.
+In terms of localization, you're absolutely right that there has to be a balance between using the
+advantages that India offers as well as making sure that you are doing a substantial
+transformation in those geographies. So that balance is, Raj, what we are currently in process of
+testing, and we will make sure that we are able to meet the aspirations on both sides.
+Moderator:
+Our next question comes from the line of Akshay Kothari from Envision Capital.
+Akshay Kothari:
+Sir, just wanted to understand the relevance of ISR drones vis-à-vis satellite mapping because
+earlier we didn't used to do this activity.
+Ankit Mehta:
+See, Akshay, what happens is that satellites are limited by the exposure, the lower-earth orbit
+satellites are limited by the exposure that they get to the patch of ground. It is frequent, but it is
+not frequent enough to be real time. Number two is the challenge of geospatialtationary satellites
+being fewer in numbers. And ultimately, every asset that is observing ground is observing a
+patch on the ground. And you cannot have your eyes everywhere, whereas war or intelligence
+is an activity you want to deepen by getting eyes on pretty much every possible patch on the
+ground, right?
+So usually, the way we look at it is that satellites will direct based on the intelligence they collect
+for larger areas and give the signals that would require a deeper investigation using a drone
+when it comes to incident-based deployments. When it comes to persistent deployments, there
+will be need for patrolling like we do human patrolling today, there will be need for patrolling
+and there is a need for constant operation, persistent operations for patrolling areas using drones.
+
+ideaForge Technology Limited
+October 29, 2025
+Page 16 of 17
+In there, drones will become the elements for generating the first insights into any incident,
+etcetera. So satellites are very complementary to what we do, and they will be triggers for
+missions for drones as well as, in some cases, drones will become the primary eyes on the
+ground.
+Akshay Kothari:
+Okay. And secondly, you mentioned that out of INR40,000 crores, INR9,000 crores is allocated
+for Indian Army. So I'm assuming that Navy and Air Force won't be procuring any sort of ISR
+drones.
+Ankit Mehta:
+Honestly, we haven't tracked that vector very closely at this point in time because most of those
+vectors are beyond our range of operations and those were beyond the capability of our existing
+category of systems. And therefore, probably we have not tracked it very closely, but I'm not
+aware of too many programs on that side.
+Akshay Kothari:
+Okay. And out of that INR9,000 crores, what sense are we getting for the Indian Army order for
+ISR drones or the quantum?
+Ankit Mehta:
+So there are a lot of programs live right now. I'm not too sure we have done a sort of a specific
+sense of the number right now.
+Moderator:
+Our next question comes from the line of Amaya Devastali, who is an investor.
+Amaya Devastali:
+I just wanted to know what are the new R&D initiatives that are going on in the defencse vertical,
+because we know that this is a space that requires continuous R&D. So if you could highlight
+some of the things that you guys are doing?
+Ankit Mehta:
+Absolutely. I think from our standpoint, the categories that we are building in, we are making
+sure that if there is a new type of [inaudibledata 0:57:47] required by defencse for earth
+observation, then we are working on those platforms. For example, with our partner and
+investment in GalaxEye, we are working for building synthetic aperture radar solution for
+observation of ground on ground even in foggy conditions, etcetera.
+So there are similar capabilities that we are developing with respect to earth observation as well
+as we are working towards building capabilities on multi-role use of our platforms with respect
+to dropping capability for several types of assets, be it for logistics or for precision payload
+delivery.
+And in terms of development, we have to do a lot of development on AI-based intelligence
+capabilities that can help make the missions more autonomous for the end user, particularly
+given that there is a tremendous push towards resisting drones on the other side or counter drone
+systems. So the whole work on building resilience on communication and GPS denial, as well
+as that we have to work on autonomy of operations so that certain missions can be done fully
+offline. So these are some of the areas where work is happening.
+These are horizontal capabilities that go across all our platforms at this point in time. So the
+good part about our stack, Amaya, is that we have a stack that has multi-role users. They are
+
+ideaForge Technology Limited
+October 29, 2025
+Page 17 of 17
+dual-use platforms. So we can mount sensors that are leveraging capabilities that our civil
+customers want as well as sensors that our defencse customers may want, as well as we can do
+analytics of different nature and different products.
+Vipul Joshi:
+And productionization of our current platform will continue.
+Ankit Mehta:
+And of course, like Vipul rightly pointed, we are continuing to put a lot of effort on finishing
+the programs we have already working towards and making sure that productionization happens
+and we are delivering our contracts to the government as well.
+Moderator:
+Ladies and gentlemen, in the interest of time, that was the last question for this conference. I
+would now like to hand over the conference to Mr. Ankit Mehta, CEO and Whole-Time Director
+of ideaForge Technology Limited for the closing comments.
+Ankit Mehta:
+Thanks, Parth. So thank you, everyone, for the questions. It was really useful to have this
+conversation once again this quarter. At ideaForge, we believe that electric uncrewed aviation
+today is at a juncture where civil aviation and electric vehicles were once a few decades ago, at
+the cusp of exponential growth.
+A century ago, civil aviation was fragmented and experimental. Today, it connects billions of
+people. Similarly, EVs evolved from niche to mainstream in a couple of decades. For UAVs,
+the time is now. And ideaForge is built with the right DNA to lead this charge. Thank you.
+Moderator:
+On behalf of ideaForge Technology Limited, that concludes this conference. Thank you for
+joining us, and you may now disconnect your lines.

@@ -1,0 +1,587 @@
+                              
+        
+ 
+ 
+  
+ July 21, 2025 
+ 
+The Secretary 
+National Stock Exchange of India Ltd 
+Exchange Plaza, C/1, Block G, 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai – 400 051 
+NSE Symbol: TEJASNET 
+ 
+The Secretary 
+BSE Limited 
+P J Towers,  
+Dalal Street,  
+Mumbai – 400 001 
+BSE Scrip Code: 540595 
+  
+ Dear Sir/Madam, 
+ Re: Q1 FY26 Earnings Conference Call - Transcript 
+Please find enclosed the transcript of the Q1 FY26 Earnings Conference Call held on              
+July 14, 2025. 
+ 
+ 
+This is for your kind information and record. 
+ 
+Yours sincerely,  
+For Tejas Networks Limited 
+ 
+ 
+Anantha Murthy N 
+Company Secretary & Compliance Officer 
+ICSI Membership No. A-17134 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANANTHA MURTHY 
+NARAYANA
+Digitally signed by ANANTHA 
+MURTHY NARAYANA 
+Date: 2025.07.21 11:13:29 
++05'30'
+
+ 
+ 
+“Tejas Networks Limited 
+Q1 FY26 Earnings Conference Call” 
+July 14, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: 
+MR. ARNOB ROY– EXECUTIVE DIRECTOR AND CHIEF 
+OPERATING OFFICER – TEJAS NETWORKS LIMITED 
+MR. SUMIT DHINGRA – CHIEF FINANCIAL OFFICER - TEJAS 
+NETWORKS LIMITED 
+DR. KUMAR SIVARAJAN – CHIEF TECHNOLOGY OFFICER - 
+TEJAS NETWORKS LIMITED 
+MR. SANJAY MALIK – CHIEF STRATEGY AND BUSINESS 
+OFFICER – TEJAS NETWORKS LIMITED 
+ 
+MODERATOR: 
+MR. MOHIT MISHRA – ICICI SECURITIES 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Tejas Networks Limited 
+July 14, 2025 
+ 
+Page 2 of 11 
+Moderator: 
+Ladies and gentlemen, good day, and welcome to the Tejas Networks Limited Q1 FY '26 Earnings 
+Conference Call. As a reminder, all participant lines will be in the listen-only mode and there will 
+be an opportunity for you to ask questions after the presentation concludes. Should you need 
+assistance during the conference call, please signal an operator by pressing star, then zero on your 
+touchtone phone. Please note that this conference is being recorded. 
+ 
+I now hand the conference over to Mr. Mohit Mishra from ICICI Securities. Thank you, and over 
+to you, sir. 
+Mohit Mishra: 
+Good evening, everyone. Thank you for joining on Tejas Networks Limited Q1 FY '26 Results 
+Conference Call. We have the management of Tejas Networks on this call represented by Mr. 
+Arnob Roy, Executive Director and CEO; Mr. Sumit Dhingra, CFO; Dr. Kumar N. Sivarajan, CTO; 
+and Mr. Sanjay Malik, Chief Strategy and Business Officer. 
+ 
+I would like to invite Mr. Arnob Roy to initiate with opening remarks, post which we will have a 
+Q&A session. Over to you, sir. 
+Arnob Roy: 
+Thank you. Good evening, everyone, and welcome to the Tejas' earnings call for Q1. So first of 
+all, just a quick update on our financials for Q1. We had a net revenue of INR202 crores, which 
+was lower than our Q4 revenues of INR1,907 crores. We had a loss of INR194 crores, which was 
+was higher than our losses in Q4 of FY '25. 
+ 
+And the order book at the end of Q1 was INR1,241 crores, which is higher than our closing order 
+book in Q4 of FY '25. We also expect and we have been intimated for winning an order of 
+~INR1,500 crores for the deployment of the BSNL expansion sites of 18,000-plus in BSNL's 4G 
+network, and we expect to be in receipt of the order shortly. 
+ 
+The revenue mix for Q1 was 81% of the revenue came from India and 19% from international. 
+And the mix of our order book, closing order book was 92% India and 8% international, still 
+dominated a lot by our India business. So one of the key reasons for the shortfall of revenue in Q1 
+was the delayed receipt of PO and shipment of ~18,000 sites of BSNL 4G network, which we were 
+expecting to do in Q1 but has got delayed a bit. 
+ 
+For a few other customers, we also had delays in shipment, getting shipment clearances and also 
+arrival of inventory. And in this quarter, our revenue was led by key shipments to several India 
+Private and international customers. 
+ 
+Some of the key highlights for the quarter was that BSNL's 4G expansion project has got started, 
+and they have TCS, our systems integration partner, has received the APO for additional 18,000-
+plus sites. And they have intimated to us that the expected value of  PO or supply of RAN 
+equipment will be in the range of INR1,500 crores. 
+ 
+We also received an initial order for a private 5G deployment under BSNL's Captive Non-Public 
+Network initiative. And while this is a small order, this is an important first order for us for this 
+particular application of building private 5G networks. 
+ 
+We also signed a strategic partnership with Rakuten Symphony for developing integrated 5G Open 
+
+Tejas Networks Limited 
+July 14, 2025 
+ 
+Page 3 of 11 
+RAN solutions and also take our combined solutions globally. We also entered into a partnership 
+with Intel for integrating our SL-3000 Direct-to-Mobile (D2M) chipsets in their laptops and also 
+partnerships with mobile manufacturers, such as Lava and HMD to launch D2M-enabled mobile 
+phones using the SL-3000 chipsets. 
+ 
+We also started several POCs and engagements with multiple domestic and international operators 
+for 4G and 5G radios, both in India as well as internationally. For our wireless business, we 
+received our first order for BharatNet Phase-III with an SI partner for the supply of IP routers, and 
+we are in engagement with other partners as well for other circles. 
+ 
+We supplied our GPON equipment for BharatNet Last Mile Connectivity project in Gujarat. We 
+received several run-rate orders for our DWDM equipment from a few Tier 1 Indian telcos for their 
+4G/5G backhaul capacity augmentation. We won several tenders in the critical infrastructure sector 
+also and for supply of wireline equipment to railways, oil, gas and defense mainly for our optical 
+products. 
+ 
+And from our existing customers, the international customers in Africa and Europe, we won 
+network expansion business for both our DWDM as well as our GPON equipment. We also 
+launched our 1.2 terabit per wavelength DWDM solution earlier this year during Bharat Telecom 
+event, and it was launched by the Honorable Union Minister of Communications of India. 
+ 
+A few other updates for the quarter are Parag Naik, our Execute Vice President, he was conferred 
+the prestigious Pandit Deendayal Upadhyaya Telecom Excellence Award by the Ministry of 
+Communications. We were recognized as the Supply Chain Leader of the Year for Technology and 
+Electronics at the SCM Middle East Conclave & Awards in Dubai. And we received PLI incentives 
+of INR122 crores for Q3 of FY '25. 
+ 
+I'll now hand it over to our CFO, Sumit, for giving you details on our financials. 
+Sumit Dhingra: 
+Thanks, Arnob. Good evening, everyone. For the quarter ended June 30, 2025, the revenue for 
+Tejas Networks was INR202 crores compared to the previous quarter's revenue of INR1,907 
+crores. Revenue is lower mainly due to delay in purchase orders, delay in certain inventory arrivals 
+and shipment clearances for a few customers. 
+ 
+I think as Arnob briefly mentioned in his statement, our profitability for the quarter at EBIT level 
+was negative INR232 crores. This is mainly driven by lower revenues against which we have 
+significant fixed costs even though there was an improvement in material margin during the 
+quarter, and also lower variable costs during the quarter helped partly offset the impact. 
+ 
+At PBT level, our profitability stood at negative INR297 crores, and the main difference is 
+essentially finance cost of about INR75 crores. And PAT for the quarter was negative INR194 
+crores. On the balance sheet side, inventory at the end of quarter was INR2,537 crores, slightly 
+higher than the inventory for the previous quarter. The increase is mainly to cater to some of the 
+purchase orders that are expected to get executed. And as we've been talking about in the earlier 
+quarters, we've taken some advanced inventory actions for certain select components. 
+ 
+Our trade receivables stood at INR4,453 crores. We had collections of ~INR650 crores during the 
+
+Tejas Networks Limited 
+July 14, 2025 
+ 
+Page 4 of 11 
+quarter. The trade receivables are on the higher side, but at the same time, against these, we have 
+advances of about INR1,460 crores that are correspondingly also sitting in other liabilities. So on 
+a net basis, the trade receivable number is lower to that extent. 
+ 
+Our cash position at the end of Q1 was INR545 crores and borrowings stood at INR3,990 crores. 
+The increase in borrowings is mainly on account of working capital purposes as well as for certain 
+capex-related investments that we have been doing over the quarters. 
+ 
+With this, I'll hand it over to Arnob. 
+Arnob Roy: 
+Thanks, Sumit. So in summary, as far as our business outlook is concerned, driven by the 
+continuing growth in data consumption, we see continued investments in fixed and mobile 
+networking technologies worldwide, which is driving the growth of our business. And the key 
+applications are the data center connectivity led by many of the new AI data centers, which are 
+getting established, the continued digitalization of cities and economies, modernization of utility 
+networks, the huge investments that are continuing to happen for broadband connectivity and the 
+expansion of 4G and 5G networks globally. 
+ 
+So these contribute to our business drivers. And in line with those applications, we continue to 
+invest in developing our portfolio. And over FY '25 and in Q1 of FY '26, we have expanded our 
+portfolio significantly and increased our addressable market. We continue to evolve our 5G 
+solutions  developing multiple 4G/5G radios over multiple bands. 
+ 
+We enhanced our portfolio with advanced 5G Massive MIMO radios, both our in-house ones and 
+with the partnership with NEC. We acquired a field-proven 4G/5G core with the licensing 
+agreement with NEC, expanded our IP/MPLS router family to cover multiple access aggregation 
+networks, including BharatNet. 
+ 
+We enhanced our optical portfolio with state-of-the-art transmission technology of 800 gigabits 
+and 1.2 terabits per channel DWDM systems and enhanced our FTTx portfolio with 10-gig PON 
+products. 
+ 
+So the addressable market segments for our products are projected to grow globally. And our 
+domestic opportunities include large projects in both private and government sectors, where the 
+investment in networks continue in response to the huge demand in bandwidth. We have signed up 
+several new customers and registered new application wins in both private and government sectors, 
+which are set to expand in the current year. 
+ 
+Our partnerships with NEC and Rakuten are expected to give us access to global customers and 
+expand our joint go-to-market opportunities in the international markets. And our continued 
+investment in expanding our global sales footprint and strategic initial wins will give us strong 
+momentum for increasing our international business. 
+ 
+In summary, we are bullish about our growth drivers, and we continue to invest in R&D and sales 
+investments and go-to-market as we look forward to growth in our business in the coming years. 
+So with that, we will open the floor to questions. 
+
+Tejas Networks Limited 
+July 14, 2025 
+ 
+Page 5 of 11 
+Moderator: 
+Our first question comes from the line of Vimal Jamnadas Gohil from Alchemy Capital 
+Management. 
+Moderator: 
+I'm really sorry to interrupt you. Sir, your line is breaking in between. Sir, still your line is breaking. 
+Arnob Roy: 
+Should we move on and let him join again? 
+Moderator: 
+Sure. Definitely. Our next question comes from the line of Pranav Kshatriya from Emkay. 
+Pranav Kshatriya: 
+I have a few questions. Firstly, can you give some breakup on the India revenue? How much is that 
+India Private and how much is the India Government revenue? 
+Arnob Roy: 
+Okay. From this quarter, we've kind of stopped giving that breakup because what we realized was 
+that those numbers didn't have the clarity because a lot of the India revenue that we claimed as 
+India Private based on the end customer, the direct customer was a private entity. But sometimes 
+there are government as the end customer and a private end customer as well. So that number was 
+not very clear. That's why we kind of left it as India and International. 
+Pranav Kshatriya: 
+Okay. Fair enough. 
+Arnob Roy: 
+In general, as far as the past criteria is concerned, the way we used to report, the India government 
+revenues were around 16% of the total and 65% was India Private. 
+Pranav Kshatriya: 
+Okay. Second question is that we've seen the quarter-on-quarter decline in employee costs. I mean 
+how should we look at the employee costs going ahead? And is it because of larger -- I mean, 
+capitalization of some of the expenses? 
+Sumit Dhingra: 
+I think there's a decrease in employee cost in this quarter, mainly on account of certain provision 
+reversals that happened on account of certain exits in the company. And also, there were certain 
+other variable pay provisions, which got reversed. In general, our employee cost is in line with our 
+investments that we've been talking about, particularly on the R&D and international sales side. 
+And we expect it to continue to increase going forward. 
+Pranav Kshatriya: 
+Okay. One more question is, you talked about 4G and 5G proof of concept being employed with 
+various international as well as domestic private customers. So my question is that how long should 
+we see this culminating into the revenue? 
+ 
+Because if I look at -- you have in the previous call, very categorically clarified that FY '24 should 
+be seen as a base and not FY '25. So from that point of view, how important is scaling up the 4G/5G 
+proof of concept for revenue? And will that revenue come in this year? Or it's more likely to come 
+in next year for - if at all this rectifies? 
+Arnob Roy: 
+We are engaged with several POCs and other engagements with customers, both in India and 
+internationally. And especially our partnerships with NEC and Rakuten was for addressing a lot 
+more of the international customers in conjunction with them. And we hope to see some of the new 
+business closures in 4G and 5G this year. We are in fairly deep discussions with multiple operators 
+globally. 
+
+Tejas Networks Limited 
+July 14, 2025 
+ 
+Page 6 of 11 
+Pranav Kshatriya: 
+Okay. And my last question is that you used to provide the number of patents which are issued to 
+Tejas Networks. Is that number updated – I mean, updated number is available? Or how should we 
+see this trending? 
+Arnob Roy: 
+Yes. The total patents that we have today are 548. 
+Moderator: 
+Thank you. Our next question comes from the line of Ritesh from Girik Capital. Please go ahead. 
+Ritesh: 
+Thanks for the opportunity. A couple of questions on accounts. What does this pertain to allowance 
+for expected credit loss of INR18 crores? Is this on BSNL or any other project? 
+Sumit Dhingra: 
+It is across our customer base. And basically, every quarter, we do expected credit loss provisioning 
+based on our metrics and as per accounting standards. And this is a combination of movement in 
+the credit loss through the quarter. So it is not necessarily linked to any one particular customer. If 
+you see our historical data, I think every quarter, we report this number, capturing the movement 
+in the credit loss through the quarter. 
+Ritesh: 
+And this INR4,500 crores receivables, this would be more on a BSNL and what is his typical 
+payment cycle on this? 
+Sumit Dhingra: 
+A large part of it is on account of BSNL 4G project and there are other receivables as well. And 
+the collection cycle on this is linked to certain milestones, which are related to project delivery and 
+project execution and installation commissioning and thereafter, certain other steps leading up to 
+the closure of or completion of the network rollout. So more than the timeline, it's linked to 
+completion of those milestones. 
+Ritesh: 
+Sure. So by September balance sheet, the majority of these receivables will be collected or it's a 
+long duration? 
+Sumit Dhingra: 
+We expect a reasonable reduction in these receivables over the next couple of quarters through the 
+year. 
+Ritesh: 
+Also, on the operational side, now this -- the 4G 1 lakh site is done. How is the review of the 
+performance of this 100,000 sites and is there any fine-tuning needed or the project is as per the 
+expected, your parameters? 
+Kumar Sivarajan: 
+This is Kumar. Yes, so the radios over 90,000 sites are deployed and functioning and the 
+performance of the network is satisfactory. There's always some optimization needed in all mobile 
+networks for improving coverage and reducing call drops and things of that nature. That continues, 
+but the product performance is quite satisfactory. 
+Ritesh: 
+Okay. That's great to know. Also, if you can comment on this initial order of the BSNL CNPN 
+Captive Non-Public Network initiatives. So what kind of order size one can look at once this initial 
+orders are happening? 
+Arnob Roy: 
+Well, as I said, this is our first win and deployment of a private 5G network. It is a small order for 
+one of the utility companies. And as we complete our deployment over here, this could be a good 
+
+Tejas Networks Limited 
+July 14, 2025 
+ 
+Page 7 of 11 
+reference for us for many other applications like this in India as well as globally. 
+Ritesh: 
+So can we say that what you were doing for the government as a government business now can 
+happen on this totally on captive power -- captive network over the next, say, 3, 5 years? 
+Arnob Roy: 
+I didn't understand the connection with the government. It is our same standard products, which 
+have a different application for the private 5G networks. And it's not connected with the 
+government. Kumar, do you want to add? 
+Kumar Sivarajan: 
+Yes. So the CNPN is just the term for what is normally called private 5G networks. So this is a 
+network within an industrial complex or a mine or campus, which uses the spectrum of an operator 
+because India hasn't auctioned spectrum specifically for private 5G. But then the network is built 
+and operated by the private entity. So this is what is normally called private 5G and we're just 
+making a beginning in that business. 
+Ritesh: 
+Sure. That's all from my side. Thank you, sir. 
+Moderator: 
+Thank you. Our next question comes from the line of Pratap Maliwal from MountIntra Finance. 
+Please go ahead. 
+Pratap Maliwal: 
+Yes, my line got cut in between, so I apologize if these are repeat questions. But just a couple of 
+questions here on the BSNL expansion order, INR1,526 crores that you pointed out. So do we 
+expect to receive it and then execute it within this financial year? 
+Arnob Roy: 
+Yes, that's what the expectation is. 
+Pratap Maliwal: 
+Okay. And just a follow-up here. So there was a news article where there was a statement by the 
+Minister of State for Communications, who said that after successfully installing 100,000 towers 
+on 4G, we'll approach the cabinet to approve another 100,000 towers. Probably a little premature 
+to ask it, but then is there any detail or any color you can give me on this? 
+Arnob Roy: 
+No. We have also read this article. We've heard about it. And as of now, we have not received any 
+intimation of the process of how that will go through, but we do expect to participate in that if that 
+comes and compete favorably in this opportunity. 
+Pratap Maliwal: 
+Sure, sir. And regarding the BharatNet order, did you call out the order size that we are winning 
+here in BharatNet? 
+Arnob Roy: 
+What was the question BharatNet? What was that? 
+Pratap Maliwal: 
+The order size, the order sizes that we are competing for here? 
+Arnob Roy: 
+Okay. No, we don't disclose the order values per customer or per order. We don't do that. 
+Pratap Maliwal: 
+Okay, sure. Thanks for taking my query. 
+Moderator: 
+Thank you. Our next question comes from the line of Vikash Baid an Investor. Please go ahead. 
+
+Tejas Networks Limited 
+July 14, 2025 
+ 
+Page 8 of 11 
+Vikash Baid: 
+I wanted an understanding of what is the total order book right now. And if you can give the 
+breakup between BSNL and others because largely we are doing the work for BSNL. So the current 
+order book as it stands and what is the expected in the current financial year? What kind of order 
+book are we expected to have in terms of our visualization of the work that may come to us later? 
+Arnob Roy: 
+Yes. So the current order book is INR1,241 crores as we mentioned and this does not include 
+anything from BSNL. It is mainly our wireline business and some wireless opportunities, but this 
+does not include any orders from BSNL. And as I said, we are expecting the add-on business of 
+18,000-plus sites. And that's going to be a separate order. The value is going to be roughly 
+INR1,500 crores for us. But that's not what is mentioned in the order book of INR1,200 something 
+crores. 
+Vikash Baid: 
+Okay. And this is expected to come in the next couple of quarters, the BSNL order? 
+Arnob Roy: 
+Yes, it's supposed to come and get executed in this financial year. 
+Vikash Baid: 
+Okay. And are we also expecting such similar or larger orders from entities other than BSNL? 
+Arnob Roy: 
+As I said, we are engaged with several operators in India as well as globally for our 4G/5G products. 
+So in terms of size, I mean, what we saw last year of 100,000 sites, a single order. I don't think 
+we'll have something of that size, but we're looking at multiple opportunities and multiple operators 
+with smaller size networks. 
+Vikash Baid: 
+Okay, sir. Thank you. 
+Moderator: 
+Thank you. Our next question comes from the line of Khush Gosrani from InCred Asset 
+Management. Please go ahead. 
+Khush Gosrani: 
+Hi, sir. Thank you for the opportunity. If you could just highlight more on the recent Rakuten, the 
+partnership that we have done. And what kind of products we could cross sell and what kind of -- 
+just if you could give more flavor on it, that would be helpful? 
+Kumar Sivarajan: 
+Yes. So Rakuten is a well-known provider of one component of the Open RAN solution, what is 
+called the CU/DU. So we are working with them to offer a joint solution with Rakuten CU/DU and 
+Tejas radio units to customers worldwide. So that's the nature of the collaboration. 
+Khush Gosrani: 
+Sure. And so how Rakuten equipment have been used, so where majorly what my understanding 
+was in Japan. But outside Japan, how has been their performance? 
+Arnob Roy: 
+I believe they are used in Japan and Europe and other places around the world. I'm not aware of all 
+the countries they are used in. 
+Khush Gosrani: 
+Sure. Got it. And in terms of our balance sheet, the inventory, would we need to invest more post 
+the INR1,500 crores for the 18,000 sites? Would we require more debt to increase our inventory to 
+procure the inventory, or the debt level should remain around INR4,000 crores? 
+Sumit Dhingra: 
+I think we've made significant procurement for that order, but we may need to still do some 
+
+Tejas Networks Limited 
+July 14, 2025 
+ 
+Page 9 of 11 
+incremental orders, particularly where the lead times are not as high. Regarding your question on 
+whether this would increase the debt or would it come down, I think it's a function of when the 
+orders materialize vis-a-vis some of the other working capital movements. So difficult to comment 
+on the debt levels from that perspective. 
+Khush Gosrani: 
+Sure. And last question would be, what is your capex plans for this year, if you could highlight on 
+that? 
+Sumit Dhingra: 
+I think we continue to invest on the R&D side and also to some extent on developing our supply 
+chain for the increased product portfolio or expanded product portfolio as we go along. In addition 
+to that, as we announced a couple of quarters back, we had technology collaboration with NEC. So 
+some of these aspects are essentially what are going to drive our investments in capex over the next 
+few quarters. Beyond that, I think it will be difficult to give a number around that. 
+Khush Gosrani: 
+Okay. But it should remain similar to last year's level of INR650 crores? Or... 
+Sumit Dhingra: 
+I think progressively, it may increase a little bit. And in addition to that, there would be an impact 
+of NEC-related investments that we've talked about. So all that would cumulatively impact the 
+capex for the year. 
+Moderator: 
+Thank you. Our next question comes from the line of Ritesh from Girik Capital. 
+Ritesh: 
+Yes. The question is on BharatNet. Several people have announced a huge order win, but we 
+haven't got many orders or is the PO getting delayed on that? Your comment, sir? 
+Arnob Roy: 
+No. As I mentioned, we've also started receiving orders for the BharatNet project for our routers. I 
+think the people who have announced the large orders are the system integrators (SIs)who have 
+won the tenders in different circles. And their order consists of not only the equipment but also 
+fiber and deployment and services and building NOCs etc. 
+ 
+So the SIs who have directly participated in the tender, they have made those announcements for 
+the projects. But as an OEM, we are going to be suppliers to those SIs. And we are working with 
+them for supplying -- for signing up agreements for the supply of our routers. And we got our initial 
+orders, which I talked about. 
+Moderator: 
+Thank you. Our next question comes from the line of Khush Gosrani from InCred Asset 
+Management. 
+Khush Gosrani: 
+Just on the receivables side, you mentioned it would be on milestone basis that you will receive on 
+the previous BSNL order. But these milestones should get completed in next 1 year or it will take 
+more time to reach these milestones? How should we think about it? 
+Sumit Dhingra: 
+A large part of it should get collected during this financial year. There will be a small portion, 
+which could go beyond that as per the milestones, but significantly large part should get done this 
+year. 
+Moderator: 
+Our next question comes from the line of Karan Raja from 54 Ventures. 
+
+Tejas Networks Limited 
+July 14, 2025 
+ 
+Page 10 of 11 
+Karan Raja: 
+Sir, to previous participant, we spoke about the 2 circles where we have been considered and been 
+awarded the PO for the BharatNet deployment. Would you be able to share the number or perhaps 
+a range for the circles where we may not be considered? 
+Arnob Roy: 
+No, there is nothing like that. There are multiple SIs who have won different circles. And most of 
+them have bid our equipment as one of the OEMs for their router supplies. As of now, we are in 
+discussions with many of them, and in some cases we are going through testing, certification and 
+related activities. 
+ 
+So we are in discussion with many of them for supplying our routers for their circles. And that's 
+where things are at present. So it will not be possible to say where we are going to be finally 
+deployed. 
+Karan Raja: 
+No, that's fair. Thank you for that clarification. Another question, and perhaps this was discussed 
+in the past. In our previous calls, there has always been an option or a prospect for Kavach 
+deployment. Can you please speak about that? Is that an opportunity we are still considering or 
+not? 
+Sanjay Malik: 
+No, I think Railways also is going to go for this captive network, and they are considering various 
+technology options as of now. So we are definitely engaged with them. And yes, the tender has got 
+delayed a little bit. But once it is released, we would be one of the strong contenders for it. 
+Karan Raja: 
+All right. So a couple more questions. One, considering the recent geopolitical actions, my 
+assumption is that telecom equipment now becomes critical and especially indigenous telecom 
+equipment becomes critical as part of national security. Have we received any interest from the 
+Ministry of Defence or any other undertakings for any form of project? 
+Arnob Roy: 
+So we are engaged with the defence sector for their upcoming opportunities. As you know, in the 
+past, we have supplied to defence networks for multiple projects and for various applications. So 
+we remain engaged right now. As of now, there is no major specific project to really talk about, 
+but there are several discussions ongoing for multiple applications. 
+Moderator: 
+Our next question comes from Ritesh from Girik Capital. 
+Ritesh: 
+The question is on NEC collaboration. So the entire investment will happen in this year itself? Or 
+will it be over FY '26 and '27? 
+Sumit Dhingra: 
+A large part of it will happen this year. I think maybe a small portion could trickle down to the next 
+year as well. 
+Ritesh: 
+Okay. And what are the -- when do we see the revenue flowing out of this investment? 
+Arnob Roy: 
+Yes. As I said earlier, we are engaged with multiple customers, including the existing customers 
+of NEC. And we hope to see some wins and project closures in this financial year. 
+Moderator: 
+Thank you. As there are no further questions from the participants, I now hand the conference over 
+to Mr. Arnob Roy: for closing comments. 
+
+Tejas Networks Limited 
+July 14, 2025 
+ 
+Page 11 of 11 
+Arnob Roy: 
+Thank you. So I would like to close by saying that our global business opportunity and market 
+drivers still look quite strong based on the demand for data and bandwidth growth. So we remain 
+bullish about our future, and we continue to invest in R&D for developing, expanding and evolving 
+our products as well as investing in partnerships and sales growth globally in line with the 
+opportunities that we see. And over a period of time, we do see significant growth in our business 
+as we continue to execute on our business plans. 
+ 
+So thank you, and thanks to everyone for taking the time and attending the conference. And with 
+that, I'd like to close the call. Thank you. 
+Moderator: 
+Thank you. On behalf of Tejas Networks Limited, that concludes this conference. Thank you for 
+joining us, and you may now disconnect your lines. 
+ 
+Note: This transcript has been edited for readability and does not purport to be a verbatim record of the proceedings 
+ 

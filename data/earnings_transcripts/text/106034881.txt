@@ -1,0 +1,868 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SYMBOL: NPST 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Date: October 25, 2024   
+ISIN: INE0FFK01017                                                                                                                          
+ 
+To, 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+The Manager-Listing Department, 
+The National Stock Exchange of India Limited, 
+Exchange Plaza, NSE Building, Bandra Kurla  
+Complex, Bandra East, Mumbai-400 0513 
+Fax: 022-26598237, 022-26598238 
+ 
+Subject: Transcript of the Earnings Conference Call of Analyst/Investor for quarter ended September 30, 2024. 
+ 
+Respected Sir/Madam, 
+ 
+Pursuant to the provision of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations 2015, please find enclosed herewith the transcript of the earnings conference call of Analyst/ 
+Investors for quarter ended September 30, 2024. 
+ 
+The same will also be available on the website of the Company. 
+ 
+Kindly take the same on your record. 
+ 
+Thanking You, 
+Yours Faithfully, 
+For Network People Services Technologies Limited 
+ 
+ 
+Chetna Chawla 
+Company Secretary and Compliance Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHETNA 
+AVINASH 
+CHAWLA
+Digitally signed by 
+CHETNA AVINASH 
+CHAWLA 
+Date: 2024.10.25 
+15:41:01 +05'30'
+
+Page 1 of 15 
+ 
+ 
+ 
+ 
+“Network People Services Technologies Limited 
+Q2 FY’25 Results Conference Call” 
+October 21, 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. DEEPAK THAKUR – CHAIRMAN AND MANAGING 
+DIRECTOR – NETWORK PEOPLE SERVICES 
+TECHNOLOGIES LIMITED 
+MR. ASHISH AGGARWAL – JOINT MANAGING 
+DIRECTOR – NETWORK PEOPLE SERVICES 
+TECHNOLOGIES LIMITED 
+MS. SAVITA VASHIST – EXECUTIVE DIRECTOR – 
+NETWORK PEOPLE SERVICES TECHNOLOGIES 
+LIMITED 
+ 
+ 
+MODERATOR: 
+MS. VAISHNAVI AMBOKAR – KIRIN ADVISORS 
+ 
+ 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 2 of 15 
+ 
+Moderator: 
+Ladies and gentlemen, good day and welcome to the Q2 FY25 Results Conference Call of NPST 
+Limited hosted by Kirin Advisors. As a reminder, all participants' line will be in the listen-only 
+mode and there will be an opportunity for you to ask questions after the presentation concludes. 
+Should you need assistance during the conference call, please signal an operator by pressing star 
+then zero on your touch-tone phone. Please note that this conference is being recorded. 
+I now hand the conference over to Ms. Vaishnavi Ambokar from Kirin Advisors. Thank you and 
+over to you, ma'am. 
+Vaishnavi Ambokar: 
+Thank you, ma’am. On behalf of Kirin Advisors, I would like to extend a warm welcome to 
+everyone attending the NPST Limited Q2 FY25 Conference Call. We are pleased to have with 
+us today NPST's senior management team, Mr. Deepak Chand Thakur, Chairman and Managing 
+Director, Mr. Ashish Aggarwal, Joint Managing Director and Ms. Savita Vasisht, Executive 
+Director. 
+The call is scheduled to run for approximately 40 to 50 minutes. To ensure that everyone has a 
+chance to engage, we kindly request that each participant limit their question to two. This will 
+allow the management team to address as many inquiries as possible within the given time. 
+If we are unable to answer any questions during the call, please don't hesitate to reach out to us 
+at info.kirinadvisors.com. We will gladly coordinate with the management team to arrange for 
+the discussion. We greatly appreciate your understanding and cooperation, and we look forward 
+to a productive and engaging session. 
+With that, now I hand over the call to Mr. Deepak Chand Thakur. Over to you, sir. 
+Deepak Thakur: 
+Hi Vaishnavi. Thank you so much and thank you everyone for joining today's call. Before we 
+begin this con-call, I just want to take a liberty of using just two minutes, not more, to talk 
+something which is not very specific to NPST, but very important for us.  
+On 10th January 2008, there was this great vision which came out in India, and there was a very 
+strong statement that came out with the vision was, promise is a promise and that is what came 
+from Sir Ratan Tata. I think that was one of the keys, or I would say, one of the most important 
+days in the life of entrepreneurs like us, who realize what a vision can be and how it can shape 
+up the future destiny. So, we lost a great mind, we lost a great visionary, but ultimately what he 
+did and what he built for people like us, will always stay with us. 
+And you know, today I would like to take this time to really thank him and the entire Tata Group 
+for setting up such a great example for someone like us to really look forward and build the 
+future and a global aspiration. Thank you so much for giving me that time, everyone. 
+Well, back to NPST. Well, you know, although everyone knows about our business by now, I 
+would like to take a few minutes first to very quickly stumble upon what exactly we have been 
+doing for past, you know, several years -- a couple of years now. You all know that we have 
+built this entire payment business on the real-time payment technology that we are providing to 
+banks. So, for everyone to know, we are a technology partner to bank where we provide payment 
+solutions where they can transact, operate seamlessly. 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 3 of 15 
+ 
+Today, we do about 15 billion transactions every year and contribute about 7% to 8% of the total 
+transaction processed in the country or even more. About 15 banks or who ride on our platform. 
+If you understand the processing engine, this is where the decision around debit, credit and 
+processing certain transactions are taken. We sit inside bank when it comes to processing these 
+transactions in the digital payment ecosystem. Products like mobile banking, IMPS, UPI, online 
+dispute resolution, Bharat Bill payment, these are the solutions we provide on our platform -- on 
+our -- you know, technology stack.  
+Furthermore, when you move up the value chain, what we do is, we have built a payment 
+platform to find the gap in the industry, wherein wherever there is a merchant acquiring 
+requirement, an end-to-end merchant lifecycle on our platform is provided to the banking 
+ecosystem, which can further be an intake for fintech and payment aggregators and the 
+merchants to operate seamlessly and consume payment services from the banks. And that is what 
+is called a payment platform as a service business for us. 
+Now, these are two major core factors of our business on our, you know, in the P&L that we 
+bring it. At the same time, being innovative, we work relentlessly, and we work on a very, very 
+quick pace, so that we keep on adding more and more product stacks. 
+So, the shape of the organization that you may see in the beginning of the year, by the end of the 
+year, it may completely change depending on the kind of products we have launched, the kind 
+of services we have, and at the same time, the kind of approach we have for a particular business. 
+So, all of that, being an innovative and disruptive segment, we continue to do so. So, for you, 
+very quickly on a business update, we secured Bharat Bill payment aggregation switch from two 
+banks. 
+ 
+And right now, it is in an operationalization stage, that's the quick update for the last quarter. 
+We also secured one more order for the online dispute resolution from one of the banks. 
+Meanwhile, the offline payment stack, which we launched, again, payment platform as a service 
+for the offline business, which is QR, Soundbox, mobile apps, all those features. 
+ 
+That business has got an incremental order coming from the existing set of customers we have 
+from the existing banks. We have seen about 20% growth in transaction processing on our 
+platform in this particular financial year. So, we are seeing that it will be more than 15 billion 
+transactions that we will be processing. 
+ 
+We have launched multiple new products this Global FinTech Fest. We have taken about three 
+to four months of product and tech R&D budget to spend on this particular event to ensure that 
+we showcase what exactly we deliver. So, in Global FinTech Fest, we have launched instant 
+credit line on UPI, which is, if you are tracking UPI, you know that credit line on UPI is the next 
+big thing, which comes with a strong MDR opportunity and strong revenue opportunity for 
+banks as it builds their asset. 
+ 
+On the other hand, with all the learning that we have in our transaction business, we have 
+launched Risk Intelligence Decisioning Platform, which exactly profiles the risk of a merchant 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 4 of 15 
+ 
+and the transaction and gives the flag in the system. So, we have already launched one phase of 
+that. We have initiated a payout POC under the guidance of one of the banks. 
+ 
+We have added two banks. Now, that's the urge of, overall business that we had to add multiple 
+banks in the ecosystem for the payment platform that we are providing. And let me tell you, we 
+have successfully done that. 
+ 
+We have also added FRM as part of the delivery that we will be doing on our platform. So, FRM 
+is something that we have just recently added. So, these are very quick business updates for you 
+guys. At the same time, for you all to know, the good news is that, you know, we have been 
+consistently working on taking our company to main board. And for that, there was one criterion 
+which was left. By this half yearly result, we have been able to complete that criterion as well. 
+ 
+And as soon as that was achieved and we saw that this is happening, first thing we did was went 
+to the main board and we got the unanimous backing from them to go to the main board. And 
+we decided to do that both in NSE as well as BSE. I'm very happy that employees are now 
+getting what they have, they have invested in the organization in terms of their time, sweat, 
+efforts. 
+ 
+And ESOP has been granted as a first lot, which was released in 2023. So, the approval has 
+already been done. We launched EvoK 3.0, which is like complete upgrade of the platform that 
+we have. And most importantly, although it was not there in last quarter, now that is why we 
+call payment as a disruptive segment. 
+ 
+In April, when the announcement around interoperability of internet banking is a need of the 
+hour for the industry, when that was announced by the regulator, we were closely following it 
+up. And finally, we have ventured into internet banking and mobile banking interoperability 
+solution, where we are looking at a UPI kind of movement in internet banking and mobile 
+banking, where the interoperability, which never existed, will now be due to the system that is 
+being built right now. 
+ 
+And we have ventured into it. We have partnered on that. And we are working with, I mean, 
+can't release the names now, but yes, a few banks that we are already talking to. So that's, again, 
+on the business update. When it comes to numbers for you all, happy to share that the growth 
+trend continues. 
+ 
+ From half yearly FY '24, INR53.32 crores, what we achieved as a total income. We have gone 
+up to about INR129 crores, which is about 142%. EBITDA, you have already seen, has gone up 
+from 32.65% to 36.75%. Our net profit margin has gone from 19% to about 26.13%, which is, 
+again, 708 basis points. Congratulations, your EPS has gone up from 5.25 to about 17.42. 
+ 
+Now, really a good number for all those who have trusted us. At the same time, quarter-on-
+quarter numbers are also heartening because it's about 14.75% jump in revenue. Your EBITDA, 
+again, has gone up from INR22.15 crores to about INR25.35 crores. And at the same time, your 
+net profit has gone up from INR15.60 crores to INR18.16 crores. 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 5 of 15 
+ 
+ 
+Well, that's all from the number. I think I've taken a good time now. But I'll straight away come 
+to you guys. And if you have queries, questions, I would like to take it up. Thank you, Vaishnavi. 
+Moderator: 
+Thank you very much, sir. We will now begin the question-and-answer session. The first 
+question is from the line of Rohit, Nvest Analytics Advisory LLP. Please go ahead, sir. 
+Rohit: 
+Congrats for a good set of numbers, sir. Can you share the revenue growth guidance for FY'26? 
+Are we aiming to sustain the current growth guidance for FY'26? Or is the company targeting 
+high growth guidance level? 
+Deepak Thakur: 
+Well, I have already given my growth guidance in the beginning of the year. That is what we 
+have been aiming. Doubling our numbers is what we always wanted to do so. And I think that 
+is what we are doing right now. 
+Rohit: 
+So, in terms of percentage growth?  
+Deepak Thakur: 
+So, we have already said between 75% to 100% for the entire year. 
+Rohit: 
+Is it also for next year? 
+Deepak Thakur: 
+No, next year, I better give that guidance by March. Because, you know, like I said that when 
+we -- from the time we begin a year till the end, there are a lot of changes and a lot of 
+opportunities we don't anticipate initially. 
+Like when I say interoperability in Internet banking, that's not something which was even there 
+in our, you know, commitment or guidance in the beginning of the year when I spoke to 
+investors, but that has come right now. So, it is only good to have the guidance coming in at the 
+right time. 
+Rohit: 
+Okay, understood, sir. And my next question is the company has a strong domestic growth. Is 
+there any immediate plan for international expansion? And if so, what market are you targeting 
+first? And what are the biggest challenges you are seeing in scaling globally? 
+Deepak Thakur: 
+Well, let me be honest. This question is coming to us every quarter. And we keep on saying that 
+we have been assessing it very strongly. There's a good progress. And I have always said that it 
+is two years horizon. We don't want to jump because as soon as we do so, we want to be 
+committed to numbers as well. 
+We want to be committed to the revenue as well, just not go there and, you know, scratch the 
+surface. So, we have already assessed the market, which looks somewhere around Africa, 
+Middle East and, you know, Asia. So, these are the areas which we have assessed based on the 
+product and the portfolio that we are seeing. However, there is a good conversation around UK-
+like structure coming globally. In multiple countries, the discussions are going on. So, we are in 
+close -- I mean, we are seeing that very closely. 
+If the opportunity goes beyond these regions, which I mentioned, we'll be happy to go there. But 
+establishing an office beyond domestic market, that's what I think you'll have to wait for maybe 
+a couple of quarters more. 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 6 of 15 
+ 
+Moderator: 
+The next question is from the line of Parikshit Kabra from Pkeday Advisors Limited. Please go 
+ahead, sir. 
+Parikshit Kabra: 
+Congratulations on a great set of numbers once again. So just a couple of questions that I ask 
+every time. First is the TPAP versus TSP split, if you can share. 
+Deepak Thakur: 
+So, one second, the TSP is somewhere around 18% to 20% odd and the rest is the platforms. 
+Parikshit Kabra: 
+Got it. And the GTV this time around? 
+Deepak Thakur: 
+Ashish, can you recount that number? 
+Ashish Aggarwal: 
+I think, Parikshit, this time GTV, GMV is somewhere about the same that we have achieved in 
+last year, something about 10,000k, if I'm not wrong. 
+Parikshit Kabra: 
+Got it. Perfect. So now the process of adding, you've given so many updates this time around, 
+Deepak, that it's actually, there are too many questions to catch, so I'm just going to try and 
+prioritize a couple. The first one is that, has the transition from 2.0 to 3.0 now complete? Or is 
+this still an ongoing process, still under operationalization, etcetera, etcetera.  
+Deepak Thakur: 
+So, in fact, coincidentally, last week, we went into closed user group testing with a new bank of 
+EvoK 3.0. And it's a production testing, by the way, it's not UAT. So, I would say that it is 
+already live. However, we would like to see another 15 days what feedback we receive from 
+bank around that. But it's all signed off, and it has gone live. 
+Parikshit Kabra: 
+Perfect. And you mentioned that you were in the process of adding more sponsor banks. And 
+you gave an update this time around that you have done that. So, I just want to clarify that. So, 
+have we added one more sponsor bank? And has it gone live? Or what is the exact number?  
+Management: 
+So, we added two sponsor banks, not just one. Looking at the last quarter, as soon as we realized 
+that how quickly we'll have to get into this decision meticulously, we fast tracked it, we pushed 
+all our focus on adding more banks. The vision is to add 10 banks. Earlier, we were just thinking 
+about two, three. So, we have already been able to crack two. And one is already in the 
+production CUG, the other one is in the pre-production stage. So yes, that’s the status. 
+Parikshit Kabra: 
+What would be the timeline for these to go fully in a commercialized manner? 
+Deepak Thakur: 
+I would say that by this month end, or I would say somewhere in mid-November, we should be 
+able to complete all the pooling period we have, when we take the platform live. So yeah, 
+somewhere in mid-November, we should have it fully commercialized. 
+Parikshit Kabra: 
+Got it. All right. Perfect. I'll get back in the queue. Thank you so much. 
+Moderator: 
+Thank you. The next question is from the line of Akshay from CD Integrated Service Limited. 
+Please go ahead, sir. 
+Akshay: 
+Yes, sir. I just want to ask the two questions. The first is on our competitive edge. So, what 
+competitive edge do we have when compared to the other big tech companies like Paytm and 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 7 of 15 
+ 
+PhonePe and all these things? Do they provide the same kind of solutions like we do provide, 
+sir? 
+Deepak Thakur: 
+So whatever names you took, it can be our customer, not our competitor. If you understand, we 
+are behind these companies who are directly into acquisition, who are acquiring either merchants 
+or who are acquiring the customers. We provide the platform or the technology for them to 
+operate seamlessly and acquire this business. 
+ 
+So, they can be our customer. When it comes to going back to your question, competitive edge, 
+please understand that in last three years, we have evolved from being on the platform business. 
+We have evolved from being purely a technology delivery company to also creating operational 
+excellence and at the same time also building the compliance and the regulatory text that such 
+companies require to operate in this space. 
+ 
+So, while the other companies would be in a version wherein, they are still building the platform, 
+we are actually building regulatory requirements, compliance requirements, operational 
+excellency. All of those pieces are added to our stack right now. That is what is Evoke 3.0. So 
+that's the edge. 
+Akshay: 
+Thank you for the answer. And the second question is that apart from Canara Bank, which larger 
+commercial banks do we have as a client? Like I would like to say that the Canara Bank super 
+app is very great. I am one of the users of that. And apart from that, for which bank are you 
+developing that type of app, super app? 
+Deepak Thakur: 
+So, we have already got an order for two more banks. This quarter they will go live, which is 
+Kerala Gramin Bank and Karnataka Gramin Bank. And one more bank is in progress, but that's 
+at the final stage right now. 
+ 
+That's related to app. But when it comes to customers, around all the products which I mentioned 
+in the beginning of the call, we have Bank of Maharashtra, we have State Bank of Mauritius 
+India, we have Tamil Nadu Mercantile Bank, we have Karnataka Bank, we have Kerala Gramin 
+Karnataka Gramin, we have DCB. So, we have 15 plus banks right now who are using our 
+services. 
+Akshay: 
+Okay, understood, sir. But I just want to understand that the Canara Bank, which is one of our 
+clients. So, at which other banks are operating at that type of scale, that level of scale? Do we 
+have any larger customers like that? 
+Deepak Thakur: 
+So honestly, if you compare the scale of Canara Bank, it has taken 10 years. So, it would be 
+wrong to say that such a scale can come that quickly. We initially started with just a GPRS-
+based mobile banking solution, migrating SMS to GPRS somewhere in 2015, mid-2015 odd. 
+ 
+From there, then there was IMPS, which is a full-blown solution across all channels, including 
+FIR, Foreign Input Remittance, then UPI, then Merchant Acquiring, then SuperApp. So, 
+comparing Canara Bank with others will not be easy. So, every single bank contributes to the 
+stack that we have right now. So other banks will take time to evolve that much. 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 8 of 15 
+ 
+Akshay: 
+Right, right. Understood, sir. So, what is my understanding is that we first try to sell our one 
+product, and then we will cross-sell our other products. Thank you for the answer, sir. 
+Moderator: 
+Thank you. The next question is from the line of Senthil Kumar from Sincere Syndication. Please 
+go ahead, sir. 
+Senthil Kumar: 
+Congratulations on a good set of numbers. I joined a little late because I was not able to log in. 
+One thing which I want to know, what were the road triggers that drove this sort of exponential 
+numbers? And what are the growth triggers that are available to us in the future for the coming 
+year, for the guidance? Could you just take me through on that, sir? 
+Deepak Thakur: 
+Sure. So, if you want to understand the trigger, I always say that what is that we are adding to 
+the platform is very important because as and when we scale our platform, as and when we add 
+new products, the revenue sources increase. So, I'll give you an example. We initially started 
+doing the like payment. Okay. Last quarter or quarter-on-quarter, the growth that we are having 
+is majorly because the consistent growth of the transactions of the industry based on the 
+acquisitions that we have got for our banks in the acquiring space. 
+Ad then at the same time, the products that we have been delivering. So, it has grown 
+considerably over a period of time. So, when it comes to TSP business, there is a continuous 
+change request coming in. There is a new product being sold to new banks. March 2023, we 
+were seven banks. Now we are about 15, in fact, 16 banks on. So, the number of banks have also 
+doubled. 
+ 
+And when it comes to platform, when it comes to merchant space, when it comes to providing 
+platform, initially, it was just a simple payment solution. But later on, we kept on adding 
+stickiness to the platform. Today, we are evaluating the revenue sources that we can generate 
+from the regulatory tech product that we have launched on the platform. So that can also add 
+basis points to the revenue that we are adding. 
+So how we calculate is either it is additional business per platform, or it is revenue per account. 
+So, on both the areas, we target the growth. So, in future, what you should be doing is you should 
+be looking at multiple banks. So, when we announce the partnership with multiple banks, that's 
+in public. So, you can see that, what are the new banks that we are adding. And what kind of 
+products that we are adding. 
+So, there you will come to know how we are scaling it up. Like I mentioned about two banks 
+right now, you will get the news as and when we progress further. 
+Senthil Kumar: 
+From a client mining perspective, with the existing banks, how much could have been a volume 
+led our product like any breakup broadly you can give us? 
+Deepak Thakur: 
+I think Ashish has given the volume just now around the platform business. And when it comes 
+to banks, I would say that we are processing about 15 billion financial transactions on a platform, 
+which is about 8% of the total UPI volume in the country, 7% to 8% or maybe. And when it 
+comes to the merchant count serviced on our platform by our banks, that is as high as 2 million 
+merchants, maybe 2.5 million merchants. 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 9 of 15 
+ 
+And when it comes to the product stack, I would say there are about seven to eight products 
+spread across the ecosystem. So, it's horizontal and vertical both. 
+Senthil Kumar: 
+How much incremental banks are in pipe and how much product suites are in line this quarter? 
+Deepak Thakur: 
+That depends on the funnel. Let's not anticipate that right now. 
+Senthil Kumar: 
+One last question from my side. Any management changes? 
+Moderator: 
+Sorry to interrupt. We request you to kindly re-join the queue for follow-up questions. 
+Senthil Kumar: 
+Not an issue. Only one last question from my side. One, Mr. Deepak Chand has joined as 
+Chairman and Managing Director… 
+Deepak Thakur: 
+That's me. 
+Senthil Kumar: 
+Okay, fine. 
+Deepak Thakur: 
+That was me. And by rotation -- by policy, it was to be reappointed. That is what it was. 
+Senthil Kumar: 
+Okay. And when is the mainboard listing likely, sir? 
+Deepak Thakur: 
+We got the approval from board as per the process. I don't know. It may take a couple of months, 
+maybe. 
+Parikshit Kabra: 
+Maybe I think a couple of months. There is a process time. So, we have already opened our 
+postal ballot. So, it will be closed by within the next 30 days. Then we'll go for main boarding. 
+Moderator: 
+I request to all the participants to limit the questions, two per participant. The next question is 
+from the line of Bhuvan from Tiger Assets. 
+Bhuvan: 
+Congrats on the good set of numbers. Most of my questions have been answered. Just a couple 
+of questions. When it comes to payment features, I would like to know how banks pay you. Is it 
+transaction value basis or per transaction? Or is it a fixed cost? Or how is it? 
+Deepak Thakur: 
+So multiple models. One is there is a license -- if it is a very big account, then the affordability 
+and opex model or SAS model is not possible. So, there it is license-based model. So, within 
+license-based model, there are multiple revenue sources. It can be license plus AMC, then per 
+man day invested, then per man month of the support. So that is how you get paid. So, we get 
+paid per man days for development, we get paid per man month of the support and then license 
+and AMC. 
+ 
+When it comes to SaaS based model, few banks pay us on per transaction. Few banks pay us on 
+revenue sharing model. And then there is also a subscription-based model very clearly. So, our 
+platform utilized by the merchants, there every month there is a fixed revenue per merchant that 
+banks pay us a cost, not revenue cost per merchant that banks pay us. So, SaaS based model also 
+differs from the account to account. 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 10 of 15 
+ 
+Bhuvan: 
+Okay, so another question is because MDR is charged on credit UPI transactions. So, can we 
+expect higher realizations on that from banks? 
+Deepak Thakur: 
+So, for now, credit card and credit line is being looped up by bank very strongly to add to the 
+revenue sources. If that happens, for sure, we will also get some share out of it wherever we 
+have SaaS based model. Assumption that this goes really well in the market. So, if these products 
+grow, for sure that creates an opportunity for companies like us. 
+Bhuvan: 
+Okay, so presently credit card UPI transactions are being supported, right? So how much percent 
+of your revenue is coming from credit transactions? Sorry, it's a follow up question. 
+Deepak Thakur: 
+Yes, I will answer that question. Yes, so right now, revenue is way too less. I mean, I don't have 
+the split for that right now. We don't even calculate that revenue because the numbers are very, 
+very less. So, for now, let us not count that as a split. That's that the volume is very less. We 
+don't have the split. 
+Moderator: 
+Thank you, sir. The next question is from the line of Keshav from Niveshaay. Please go ahead. 
+Keshav: 
+Yes, thanks for the opportunity and congrats for the good sets of number. So, I just wanted an 
+update like last time you mentioned about embedded finance. So, is there any update on that 
+project? 
+Deepak Thakur: 
+Yes, so embedded payments is something that we have invested for last one year right now. And 
+this is more like an IoT technology where any device which is connected over the Internet should 
+also have the ability to pay itself for the payment generated towards the use of that particular 
+device. Now, that's where we have worked. 
+ 
+But I cannot share further information on it because we are yet to receive a lot of, go ahead 
+around this particular product. So that's we being a technology partner, we have done our part. 
+We're just waiting for the go ahead in multiple directions. 
+Keshav: 
+Thank you so much. 
+Moderator: 
+The next question is from the line of Rajesh Jain from RK Capital. Please go ahead, sir. 
+Rajesh Jain: 
+Yes, sir. Good evening and congrats on superlative performance and on migrating to mainboard. 
+So, sir in your recent exchange filing on 19 September, you mentioned about some policy 
+upgrades for EvoK 2.0 and some short-term impact too. So, could you just elaborate on that? 
+Like what policy changes you have done and in what way and to what extent do you anticipate 
+short term impact? 
+Deepak Thakur: 
+So, we are live for last three years now. And when we were scaling our EvoK 1.0 to EvoK 3.0, 
+we scale the entire technology operations, compliances, policies and program structure that we 
+have in our platform. However, from the bank side, also similar upgrades were expected. 
+ 
+These upgrades are specific to the technology audit, the operational audit, the risk propositions 
+and the compliances built in the banking ecosystem. This is that these policies are to be applied. 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 11 of 15 
+ 
+And for that, I believe that the overall impact would be on the business which is around the 
+payment platform. 
+ 
+And that is specific to a bank. It is not specific to us, or it is not very specific to multiple banks 
+that we are having. So those are the changes we have applied. It will definitely have an impact 
+of about, let's say, three to four months for one specific bank. And then that's why when we bring 
+multi-bank partner model, this is where the overall change of the migration happens, where one 
+particular bank is in the closed user group testing, the other bank is in pre-production stage. So, 
+what will happen is in going forward, the first one will go through the entire policy upgrade, 
+entire compliances and the operational upgrades. 
+ 
+On the other hand, the other two banks will also go live. Plus, the new product will also get 
+launched. So that's how the overall system works. Because it had an impact on our payment 
+platform, we found it imperative to share that information with our shareholders. 
+Rajesh Jain: 
+So that's great. I mean, this transparency is always welcome. That's great to know. So, you had 
+given 75% to 100% guidance for FY25. So, was it for revenue or for PAT? And if it was for 
+revenue, then how much could be the PAT growth? And given that you have done so 
+stupendously in H1, could H2 be slightly lower than H1? Very slightly, because not only because 
+of the large base of H1, but also because of the short-term impact, would it be lower than, could 
+H2 be lower than H1? 
+Deepak Thakur: 
+So, I think there are four or five questions in one row. I hope I'll catch each of them. So first one, 
+the guidance was for the revenue, but at the same time everyone who are connected to our, I 
+mean, those who have invested for quite long they know that we have a very nonlinear model of 
+growth. So that's why when we grow, we grow when we give the guidance around revenue. We 
+ensure that our guidance around PAT or EBITDA that follows the growth pattern of the revenue.  
+So, if you - that's why when you hear my call, you will come to know that I'm not always talking 
+about revenue. I'm also talking about the growth in EBITDA and growth in PAT. So that is in 
+accordance with the revenue guidance which we are giving to the - for the entire year. Secondly, 
+the growth that we expected, I mean, it's a good moment for us that we did not anticipate this 
+big jump in the H1 itself.  
+So, when we gave our guidance for the entire year was based on certain funnel and certain 
+growth projections that we had within the organization. Our team has really worked well to 
+ensure that we have been able to do even better than what we have guided. Going forward, we - 
+even if we want to revamp our growth guidance, we have to relook at all the possibilities around 
+the changes happening in the landscape.  
+Right from the policy changes which we shared in September, how it is going to impact one 
+particular account which has a revenue impact on the platform plus two more banks which is 
+getting added, how it absorbs those impact. Third, the new products which are getting launched, 
+how it is going to contribute to those particular, to the revenue sources that we are bringing in. 
+Fourth, when we upgrade the platform, what are the new revenue channels that we are able to 
+open up. 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 12 of 15 
+ 
+So, all that is at such a quick stage right now that it is very difficult for us to give the exact 
+number for only 6 months. That's why we want to still hold it and understand the impact and 
+then go ahead with the guidance. So please allow us to come back on that.  
+Rajesh Jain: 
+Okay. So, you are saying that as of now H2 is difficult?  
+Moderator: 
+I am sorry sir. 
+Rajesh Jain: 
+No, I am just summarizing. I am not asking a question. I am just summarizing. 
+Deepak Thakur: 
+Carry on. 
+Rajesh Jain: 
+So, you are saying that at this point, it is not possible to estimate whether H2 will be lower or 
+equal or higher than H1? That's what you are saying? 
+Deepak Thakur: 
+Yes, at this point of time we still anticipate the growth. We are not saying that there will be a 
+reduction. We are still seeing growth, but at the same time what level of impact within two 
+quarters that is very difficult to share right now. 
+Rajesh Jain: 
+Okay, fine. Sir fine I'll fall back in the queue. I have a few more questions, but I'll come back in 
+the queue. Thank you.  
+Deepak Thakur: 
+Sure. 
+Moderator: 
+Thank you. The next question is from the line of Srinivasu K from TIA. Please go ahead. 
+Srinivasu K: 
+Hi Deepak. Congratulations for the excellent set of numbers. 
+Deepak Thakur: 
+Hi, Srinivasu. Tell me. 
+Srinivasu K: 
+So, my question is about this follow up to the previous one like when you say multi-bank 
+intelligence routing, what else is part of your EvoK 3.0? Are you implementing shadow ledger 
+capabilities to eliminate, to connect with the core banding every time? And also, is it the Risk 
+Intelligence Platform that you are talking about? Is it also part of the 3.0? 
+Deepak Thakur: 
+I think you got it. You answered. So, yes, one of the big challenges in the industry was that with 
+the increasing traffic, it is very difficult to go to core banking for every single transaction. So, 
+what we did was we included mirroring and shadow ledger both in EvoK 3.0. Now every new 
+bank that we go to, we go with the capability of shadow ledger and mirroring as part of EvoK 
+3.0. So, what happens is for everyone to understand, this is very technical.  
+Instead of, let's say in 10 hours, peak hour for a particular merchant, there is about 1 lakh 
+transaction hits. Instead of 1 lakh transaction going to core banking, every two hours there will 
+be a batch which will hit one transaction. And there is a shadow ledger created which ensures 
+that all the transactions are reconciled later on. So, there are only 10 hits versus 1 lakh hits. That's 
+the efficiency created in the system and load reduced from bank.  
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 13 of 15 
+ 
+So that's EvoK 3.0. That's the capability built in it and when I say we are in closed user group 
+testing, it is taking time is majorly because this kind of humongous upgrade that we have brought 
+into the system. Second is when I say Risk Intelligence Decisioning Platform, we decided that 
+for 6 months, there will be no cost to it, and we will include this as part of our platform.  
+Quite interestingly, when we went ahead, we started presenting it to bank, we started getting 
+requests to implement this for their existing systems. So, we believe that this particular piece 
+will also start getting monetized in this financial year. 
+Srinivasu K: 
+Okay. Thanks for answering that. And my second question is about the FRM that you talked 
+about it earlier. Your competitor has already done this FRM for NPCI central backbone 
+infrastructure. So, I just wanted to know what are you doing in FRM? Is it in edge level or is it 
+in central backbone? 
+Deepak Thakur: 
+So, we are doing an inbuilt FRM in our system. So FRM is a third-party system. Of course, it 
+cannot be part of your system. So, there will be always a third party playing like an auditor role 
+of FRM, which you have to take it from outside. But here what we did was, that will always 
+happen at the bank level. But we build certain FRM rules in our system to ensure that the risk in 
+the system is reduced even before anyone applying FRM on our platform. So, we are only 
+strengthening the capability of the system from the risk perspective. 
+Srinivasu K: 
+Understood. Thanks a lot. I'll come back again. Thank you. 
+Deepak Thakur: 
+Thanks, Srinivasu. 
+Moderator: 
+Thank you, sir. The next question is from the line of Nikhil Poptani from Kizuna Capital. Please 
+go ahead, sir. 
+Nikhil Poptani: 
+Yes, sir. Firstly, congratulations on a great set of numbers. Most of the questions have been 
+answered. So, sir, I would just like to, if you could just summarize the revenue model of the 
+company for us. I got the clarity. But if you could just summarize, like, what is our 
+differentiation? What is our competitive advantage? And how we are better than the 
+competition? And who are our competition? 
+Deepak Thakur: 
+I believe that's a whole presentation, what you've asked. I will try to shorten it down to 2 minutes. 
+One, when it comes to revenue model, like I said, so in fact, this Annual Report, there was one 
+section we have covered exactly in this space. Please pick that, Annual Report. There is a license 
+model where, I have already explained this, where the transaction volume is humongous or the 
+merchant or the business volume is humongous. That is not possible to bring on a SaaS based 
+model. 
+ 
+So, they go on a license-based model. So that's like banks like Canara or Bank of Maharashtra. 
+They are on license-based model. The other model is wherein, if at all, so there is a business 
+case wherein we are providing offline payment platform to a bank wherein the QR is generated, 
+the logistics is taken care, then post-delivery support, operational support is given, then 
+Soundbox are delivered, then the technical support for Soundbox is made available, the mobile 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 14 of 15 
+ 
+app is given, on-cloud enterprise application is provided. For this entire solution, we get paid 
+every month for every merchant that we deliver this solution as a package. 
+ 
+So, this again becomes a SaaS based model, but subscription. The third one is where we get paid 
+for every transaction processed in the platform. So, these are various types of models that we 
+work on. So, to simplify it, we have license-based model and SaaS based model. Within SaaS 
+based, we have transaction-based model and then we have subscription-based model. 
+Nikhil Poptani: 
+Yes, sir. Thank you for sharing the insights. And secondly, what is the competitive landscape? 
+Deepak Thakur: 
+Competitive landscape. So, we have two different models. One is technology partner wherein 
+there are about 10 major players in the industry, maybe 7, 8 or 10 who provide UPI solution to 
+and process more than 95%, 98% of the total volume. So, all these players include NPST, 
+Mindgate, Olive, Sarvatra, InfraSoft. These are the guys. 
+ 
+When it comes to payment platform, honestly, I don't see much there. So, I would not like to 
+name any competitor here because everyone has a very different model. Juspay will be on a very 
+different model or NPST has a different model. So, it differs. 
+Nikhil Poptani: 
+Yes. Thank you, sir. That's it from my side. And congratulations on great set of numbers and all 
+the best in the future for the digital banking. 
+Deepak Thakur: 
+Thanks. 
+Moderator: 
+Thank you, sir. The next question is from the line of Ashish Soni from Family Office. Please go 
+ahead. 
+Ashish Soni: 
+Yes, one quick question. Because interoperability you mentioned about internet banking and 
+mobile banking, you said it can be as big as UPI. Can you throw more light on it for easier 
+understanding? 
+Deepak Thakur: 
+Okay. If I said that, that's from the technology perspective. Volume-wise, that is not what I 
+meant. But for a technology company like us, we now get an opportunity to build an 
+interoperability in internet banking. So, if that is the case, and if it turns out well, then for us, the 
+opportunity is around all the 1,000, 2,000 banks in the ecosystem where internet banking exists. 
+ 
+So, the layers can be like top 50 banks where we can target, and then the next 100 banks, and 
+then the next 1,000-odd banks. So, this way we can target. So, what happened was somewhere 
+in 2016 when UPI was launched, we were a very, very small company. We did not have 
+competing ability. We did not have enough funds to take risks. But today, thanks to our focused 
+approach on UPI, not running anywhere beyond UPI, we have been able to scale well. 
+ 
+And such an opportunity for us is a great, is at a very opportunistic time. Because now we are in 
+a position to go and attack this particular market. So that's about internet banking 
+interoperability. 
+Ashish Soni: 
+And regarding international operations, this competition, I think your competitive intensity will 
+be different. So, have you done mapping in terms of what product can sell as this sort of thing, 
+
+ 
+ 
+Network People Services Technologies Limited 
+ 
+ 
+October 21, 2024 
+ 
+Page 15 of 15 
+ 
+or do we need to tweak something of that sort if you can give some throw, some light on that 
+regard, at least for internet? 
+Deepak Thakur: 
+So, every time I talk to, investors when it comes to invest, international market, this is what I 
+always mean that, you cannot go plain vanilla, pick the thing as is and go to international market, 
+even though there's a great India story. So, you rightly pointed out the mapping, product type, 
+product sizing, the industry sizing, all of that has to be done. That's why I always request 
+everyone to wait for, a couple of years. 
+ 
+So maybe a year more for you to understand that this entire exercise takes time where we need 
+a local partner where we need these people to, actually take our product and tell us where it can 
+be reshaped. So, we are in that stage already, wherein we have tested in Africa, Middle East, and 
+somewhere, we are also trying to check the Southeast Asian markets. 
+ 
+So, we are in that stage right now, wherein product resizing, or I would say reshaping is 
+something that we are learning. And maybe two quarters, we should be in good position to 
+identify the exact market target that we have. 
+Ashish Soni: 
+Thanks, and all the best. 
+Deepak Thakur: 
+Thanks. 
+Moderator: 
+Ladies and gentlemen, that was the last question for today. As I now hand over the conference 
+over to Ms. Vaishnavi Ambokar from Kirin Advisors for the closing comments. 
+Vaishnavi Ambokar: 
+Thank you, everyone, for joining the conference call of NPST Limited. If you have any queries, 
+you can write us at info at @kirinadvisor.com. And once more, thank you to the management 
+team and participants for joining the conference call. Thank you. 
+Moderator: 
+On behalf of Kirin Advisors, that concludes this conference. Thank you for joining us. And you 
+may now disconnect your lines. Thank you. 

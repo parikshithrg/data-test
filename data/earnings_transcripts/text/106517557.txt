@@ -1,0 +1,861 @@
+ 
+ 
+Date: February 3, 2026 
+ 
+To, 
+ 
+BSE Limited, 
+20th Floor, P.J. Towers, 
+Dalal Street, 
+Mumbai - 400001. 
+BSE Scrip Code: 544606  
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051 
+NSE Scrip Symbol: PINELABS 
+ 
+Sub: Transcript of the Analysts / Institutional Call 
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 30 and 46 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, we are enclosing herewith the transcript of the conference call that was organized with the 
+Analysts/Investors on Wednesday, January 28, 2026 and the same can be accessed at 
+www.pinelabs.com/investor-relations/financial-results?tab=quarterly-results. 
+ 
+We request you to kindly take the above on record. 
+  
+Thanking you,  
+  
+For Pine Labs Limited 
+ 
+ 
+  
+Neerav Mehta  
+Company Secretary and Compliance Officer 
+Membership Number: A20949 
+ 
+Encl. a/a 
+ 
+NEERAV 
+MEHTA
+Digitally signed by 
+NEERAV MEHTA 
+Date: 2026.02.03 
+12:43:56 +05'30'
+
+ 
+Page 1 of 25 
+ 
+ 
+ 
+“Pine Labs Limited 
+Q3 FY2026 Earnings Call” 
+ 
+January 28, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. AMRISH RAU – CHIEF EXECUTIVE OFFICER – PINE LABS 
+LIMITED 
+MR. SAMEER KAMATH – GROUP CHIEF FINANCIAL OFFICER – PINE LABS LIMITED 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 2 of 25 
+ 
+Moderator: 
+Hello everyone, welcome to the Pine Labs Limited Q3 FY2026 Earnings Call. Please note all 
+participants will be in the listen only mode and this call is being recorded.  
+ 
+Joining us from the Pine Labs management team are Mr. Amrish Rau, CEO and Mr. Sameer 
+Kamath, Group CFO.  
+ 
+The call will begin with opening remarks from Mr. Amrish Rau along with a couple of product 
+demos and then he will discuss the business highlights. Mr. Kamath will then discuss the 
+company's financial performance followed by a Q&A session.  
+ 
+Before we begin, please note that some of the statements made during the course of this 
+discussion may be forward-looking in nature. Actual results may vary significantly due to 
+various external factors. This Zoom conference call is intended solely for investors and 
+analysts. So, if you are joining from a media organization, we request that you please 
+disconnect. Please reach out to the company's investor relations team for any questions.  
+ 
+With that, I hand over the call to Mr. Rau. Over to you, Sir. 
+Amrish Rau: 
+Thank you very much everybody. Thank you for joining us on this Q3 earnings call. 
+ 
+ I look forward to a good conversation, as I start-off and as I had promised in the last 
+earnings call, what I would like to do is I am going to focus on what Pine Labs does and some 
+of the products and services that Pine Labs is innovating, building, and taking out to the 
+market. I have got two product demos for you, one for two minutes, the other for one minute. 
+But I do want to take you through that.  
+
+ 
+ 
+January 28, 2026 
+ 
+Page 3 of 25 
+ 
+ 
+Let me talk about the first one. If some of you have been following Blinkit, you would get to 
+see, yesterday Albinder tweeted that on Blinkit, you can go and buy a card which is called 
+Bharat Yatra.  
+ 
+Bharat Yatra is a national mobility card entirely powered by Pine Labs platform for prepaid 
+services. You could go to Blinkit, you could go to Zepto, Flipkart, or for that matter, you could 
+actually go to any of the metros and you could buy that card, load money on it. And then we 
+built a really cool technology where money could get transported from your mobile app onto 
+the card and you could do transactions. What that does is you do not need to go to the 
+ticketing counter. You can just simply use the card, tap and complete the transaction. That is 
+the video that we are going to show you. The person running it runs our prepaid business 
+today on the sales side and that is Sam.  
+ 
+Ritesh, if you can just start the video please. 
+ 
+Audio Visual Presentation 
+ 
+“You have probably used prepaid today, maybe without realizing it. A prepaid wallet for a 
+seamless checkout, instant refund for goods returned, a gift card bought using bank 
+loyalty points, a Meal card at work, a Forex card when you travel abroad. Prepaid is 
+programmable money in its simplest form, already embedded in our daily lives. But one 
+experience still has not caught up, public transit. What should be a quick ride often starts 
+with waiting. That is why Government of India introduced National Common Mobility Card, 
+a common payment infrastructure for public travel across the country. So the question 
+became simple. How do you make this usable every day for millions of Indians? This is 
+exactly what Bharat Yatra Card is built for, one contactless transit card for everyday travel 
+across cities in India. And we make sure you do not have to stand in line. Not to buy the 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 4 of 25 
+ 
+card, not to recharge it, not while you travel. You can even get it delivered to your doorstep 
+in minutes via all major quick commerce apps like Blinkit and Zepto. Once you have the 
+card, setup is real quick. Let me just show you. You open the Bharati Yatra app, link your 
+card, activate with your mobile number, load money using any UPI app, and the money is 
+added. And now, watch this. Just tap your card, your balance updates instantaneously 
+through NFC on your Android phone. No counters, no machines, no waiting. You are ready 
+to travel with just a tap. Pine Labs Bharat Yatra. This is daily commute simplified for 
+Bharat.” 
+Amrish Rau: 
+Thank you. The second demo is another interesting one. As you know, in the online space, we 
+continue to win volumes. We continue to sign on new merchants. One of the use cases that 
+we have been focused on is in terms of cross border transaction and being able to capture 
+the DCC opportunity. So what we did was we to actually enabled for Apple Pay. So if you are 
+a consumer sitting outside of India, want to make a purchase with an Indian merchant, the 
+Indian merchant would want to give capabilities like Apple Pay so that the consumer can 
+easily make that payment transaction. That is something that we have enabled on our 
+online platform. And we wanted to show you that experience. But what we decided was, 
+instead of showing it from a merchant standpoint, let us show it to you from a consumer 
+standpoint, a foreign consumer coming on to an Indian merchant, how this would be 
+beneficial to the consumer. And obviously the merchant, who is our client, benefits with this. 
+So we are going to run you that demo too now. 
+ 
+Audio Visual Presentation 
+ 
+“I live in Singapore and was planning a trip to India. I was really excited to visit Udaipur, 
+the city of lakes and palaces. I wanted to book a two night stay at Wyndham Hotel, and 
+they sent me a payment link. And here is the thing, normally with international payments, 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 5 of 25 
+ 
+I would worry about whether OTP would be arriving, whether the cards will be working, and 
+whether the site is even trustworthy in the first place. Now this time round, when I clicked 
+on the payment link, I was so excited to see that they had Apple Pay. And so I clicked on it. 
+Here is the funny thing. It was done within seconds and no card, no OTP. It was just facial 
+recognition. Everything was done. It is as simple and safe as paying at home.” 
+Amrish Rau: 
+So these are two of the products which I wanted to show you today. Every one of these 
+earning release, we will carry some products that we would want to show to you. With that, I 
+will just move on to the earnings release and the document that we sent out earlier in the 
+day. Ritesh, would you be presenting.  
+ 
+Again, I am just going to reiterate a few topics out here. We have got a very clear vision 
+statement, which is to build the best payments and commerce platform from Asia for the 
+world.  
+ 
+Next, I also wanted to take this opportunity to again remind everybody that Pine Labs is a 
+multiproduct business. If you actually see out there, we have very strong presence in in-
+store, online, everything around prepaid issuance. We do credit card processing.  
+ 
+We actually announced some very big deals on the credit card processing side just in recent 
+days. But as a company, we want to be a multi-product company.  
+ 
+Second, we also want to be a multi-segment company. So if you look at our revenues and 
+the breakdown of our revenues, we have revenues coming from all the three stakeholders, 
+that is merchants or banks and financial institutions, and at the end of the day, corporates 
+and brands. And finally, we do not want to be just India centric.  
+
+ 
+ 
+January 28, 2026 
+ 
+Page 6 of 25 
+ 
+ 
+We continue to invest heavily to take our products into global markets. We are showing some 
+very good win. So we do want to be a very broad Fintech player. If you see what Stripe is 
+doing, what Adyen is doing, a very similar playbook is being followed here in Pine Labs and 
+that is what makes us unique. 
+ 
+This is a slide which I used last time. In the market in India, we continue to win with all the 
+large clients. All the top five banks have Pine Labs as their number one payments partner. All 
+the three petroleum companies have some sort of a relationship with Pine Labs.  
+ 
+The top five retailers, may that be the Tata Group, the Reliance Group, DMart, all of them 
+have Pine Labs as their preferred payments partner. And the same goes when it comes to 
+the top three e-commerce companies. All of them have Pine Labs as their payments partner. 
+May that be on the gift card or prepaid or online payment processing or for that matter for 
+delivery related services.  
+ 
+A question which was asked to us last time was how are we looking to go international and I 
+wanted to put a slide to that one. What we have done is we have said anytime that we go 
+into a new market, what we will do is we will first go and see the territory. The first country 
+that we went international was in Malaysia, and that was in about 2019 or 2020. There, what 
+we did was we first partnered with CIMB. We had a software-led deal with them. It was a 
+fairly large deal, but over a period of time, we have actually expanded our presence in the 
+Malaysian market. Now we work with 11 bank issuers in Malaysia. We have got tens of 
+thousands of POS machines deployed in the Malaysian market. That business has been 
+continuing to grow at about 40%. But the idea there is first get a large partnership in place, 
+get our software on the market. Then we put boots on the ground. We commit to the market 
+by putting in our sales team, which can go and win merchants also. and that is how we go 
+on increasing that scale. We started with Malaysia, we have also gone into the Singaporean 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 7 of 25 
+ 
+markets and also we are now present in the Middle East markets. We are currently present in 
+almost 20 countries around the world and just reminding everybody in terms of our 
+financials in the international markets only. And that is what you have there at the bottom. 
+ 
+The last piece before I get into the financials and an update in terms of Q3, I wanted to also 
+highlight very specific cases where AI is being used within Pine Labs. I recently commented 
+where about 21% of all code which is written in Pine Labs is now being written using AI. But 
+where is this being applied? These are the six, seven areas where this AI is being applied. And 
+that is really trying to create new products, Next time, maybe I will show you a demo which is 
+related to payments in AI.  
+ 
+Second, purely from sales effectiveness, we have started to use AI. When it comes to 
+merchant and transaction fraud prevention, we have already brought AI in out there.  
+ 
+On the operational efficiency side, which is a very easy area, what we have done is we have 
+actually opened up the data related to all our SOPs, our product information and the classic 
+tickets that we get to see, and we have entirely automated using AI. So these are very real 
+use cases that we are doing using AI today, and that is ensuring that we really do not need 
+to scale in terms of hiring more engineers. Again, I am very clear at this point of time, we 
+have got enough engineering talent within the company. I do not see Pine Labs increasing 
+the number of engineers going forward. If any, it could actually go down, but surely not 
+increase. 
+ 
+Coming to the financials, in Q3, I think we had just a powerful, powerful quarter. This is the 
+second time I am going to say this. I think we crushed it in Q3. Q3 obviously was a quarter 
+which has a lot of festivities in it. But even within that, I thought Pine Lab's performance was 
+very, very strong. One very important fact to share with all of you is in the Q3 quarter, our 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 8 of 25 
+ 
+technology platforms have to remain up at all points of time and we literally cannot afford a 
+one minute downtime. May that be in the offline platforms, online platforms, on the prepaid 
+platforms, or for that matter on the BBPS and the bill payments infrastructure. And that is 
+what we delivered. We did not even have one minute of downtime.  
+ 
+Second, all the major merchants and all the major brands continue to use almost 85% of 
+their transaction throughput on the Pine Labs platform. So that was extremely strong. All of 
+the various services that we drive on top of our platforms, and may that be in terms of 
+affordability, or in terms of DCC, or for that matter, anything which is related to offers, that 
+continue to perform extremely well. We have given some more information about that in the 
+rest of the deck, but I can tell you that we had one of the best, best Q3s in Pine Labs history. 
+And that meant that we actually came in with about Rs.744 Crores of revenues, which was 
+about 23% to 24% in terms of year-on-year growth. The contribution margin came in at 
+about Rs.551 Crores. I think I explained this to you earlier. I am a firm believer that you run 
+your business from a contribution margin, standpoint and that is the one that I tend to focus 
+on because from the contribution margin your EBITDA gets played out and again I am going 
+to reiterate that in our presentation. 
+ 
+On an adjusted EBITDA basis we came in at about Rs.171 Crores adjusted only for the ESOP 
+costs and the PAT came in at about Rs.42 Crores. There, obviously, we had to consider for 
+some of the impact related to the recent labor law. Now, while these are numbers, and 
+Sameer will go into  detail, I just wanted to give you a flavor of what is happening in the 
+market. In the market, what we are getting to see is that a lot of merchants are coming up 
+with complex payment requirements. A lot of merchants have started to ask for various 
+services over and above the payments platform that we have built and our solution is best 
+fitted to deliver this in the fastest possible manner. That is point number one. 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 9 of 25 
+ 
+ 
+Point number two, what we are getting to see is consumers using prepaid cards and prepaid 
+instruments and storing currency on those prepaid instruments continues to rise. And that 
+means number of transactions are also continuing to increase. And we are getting to see 
+this not just in terms of gift cards and closed loop prepaid, but also in terms of open loop 
+prepaid. May that be in terms of forex prepaid or, for that matter, credit card processing, or 
+what I just explained to you when it comes to the Bharat Yatra product. And again, our 
+responsibility is to capture all of that into the financials and obviously bring it down to the 
+PAT line. The other piece which I do want to share is we continue to get some very significant 
+wins. As you know, recently we announced a deal with Wio Bank. Wio Bank is the fastest 
+growing digital bank in all of Middle East and arguably is one of the fastest growing digital 
+banks anywhere in the world. They actually wanted to bring in a next generation modern 
+payments platform. They went through a very deep evaluation process.  
+ 
+We competed with global companies on that front and we actually ended up winning there. 
+Just today, coincidentally, along with our earnings release, in the morning we announced 
+another deal in Sri Lanka where a card issuing platform has decided to go with us and we will 
+be actually doing all of the payment processing for them too. So through the Q3 process, we 
+continue to win deals. 
+ 
+Now, unlike these other companies where order value and revenue value, there is a direct 
+co-relationship. We charge by the transaction. We do not charge by the project. Once the 
+client comes on board, as the transactions go on building, we end up making more money. 
+That is the philosophy that we have captured. We brought in almost about 120 new brands in 
+Q3 onto our platforms. May that be in terms of offers, affordability, or for that matter, 
+anything related to prepaid services. So our payments platform continues to win.  
+
+ 
+ 
+January 28, 2026 
+ 
+Page 10 of 25 
+ 
+ 
+One important point I do want to talk about, which is not directly linked to the revenues of the 
+businesses we ended up processing about $51 billion of payment volumes on our platform. 
+So that takes us past the $200 billion number when it comes to transaction processing on 
+our platforms.  
+ 
+With this, what I am going to do is I am going to hand it over to Sameer, and Sameer will go 
+deeper into the numbers. 
+Sameer Kamath: Thank you Amrish and welcome everyone to our Q3 earnings call. As Amrish said that  
+typically Q3 is a strong quarter for us and we have come out with stellar set of numbers 
+given the seasonal impact etc. 
+ 
+Coming to the next slide on revenue, as you can see clearly over the last year-on-year basis 
+we reported revenue of Rs.744 Crores, which is a growth of 24% over Rs.600 Crores we 
+reported a year back. This has been healthily contributed by all our business segments.  
+ 
+We report our business broadly into two segments, the digital payments business, which 
+includes in-store, the online business, the value-added services including affordability, and 
+the fintech infrastructure business.  
+ 
+And the second line of business, which is issuance, which is the card business, the demo 
+which you saw in the first demo we saw during the day. I think across both these businesses, 
+we have reported healthy growth rate.  
+ 
+Our digital business grew by about 16%, and our issuance business grew to about 42%, 
+contributing to an overall growth of about 24%. The contribution margin has been in a steady 
+state of about 76% on a nine-month basis. The marginal fluctuation between the quarters 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 11 of 25 
+ 
+you see is largely because of sometimes the mixe change you see between the issuance 
+business and the digital payments business.  
+ 
+Our digital payments business typically works at about an 82% gross margin given that there 
+is very little direct cost involved with that business other than certain connectivity costs, etc., 
+whereas the issuance business largely is driven into two revenue streams. The processing 
+that we do for all our prepaid cards and one very critical component of that business is also 
+the distribution strength that we bring to the brand, which becomes a big moat  for us as we 
+penetrate new brands and build size and scale for them.  
+ 
+The contribution margins typically of the distribution business, which is a critical moat for us, 
+is lower than that of the processing business because there are partners involved, including 
+resellers, the marketplaces where we list some of the products. And therefore, a mixed 
+change causes some bit of variations between the quarters. But on a steady state basis for 
+nine months, we are at about 76%, which is in line with a 76% to 78% guided growth rate. So 
+our contribution margin is also shown a healthy growth rate at about Rs.551 Crores of 
+contribution margin. Ritesh, go to the next slide. 
+ 
+As we had indicated in our earlier presentations as well, we believe that there is significant 
+operating leverage and scale in our business. Every incremental Rs.100 of contribution will 
+translate between Rs.50 to Rs.60 of adjusted EBITDA and a flow through to PAT will also be 
+similar. PBT will also be of a similar nature, about 40% to 45%. I think that is held true for this 
+quarter as well. We have seen margins expand from about 16% a year back to about 23% as 
+we had guided earlier as well. I think this is contributed by a robust top line growth, effective 
+cost management and operating scale that we have seen in our businesses. We believe 
+these margins are sustainable going forward as well. And this has translated into a 
+significant flow through to our PAT as well. We had reported two quarters of positive PAT for 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 12 of 25 
+ 
+this financial year in Q1 and Q2 at about Rs.5 and Rs.6 Crores respectively. However, this flow 
+through has come through with Rs.42 Crores PAT for this quarter. This is after factoring in the 
+Rs.12 Crores exceptional item adjustment, as Amrish said, for the labor code reforms that 
+came in. Had it not been for that one-time impact that we have taken, our reported PAT 
+would have been close to about Rs.52 Crores. This is a swing of about almost Rs.100 Crores 
+on a year-on-year basis, giving a sense of size, scale and change that we are seeing with 
+the operating leverage kick in. 
+ 
+Going a little deeper into where the operating leverage comes from, I think we have been 
+able, as Amrish said, we are fairly well staffed and I think now it is about sweating the 
+workforce and delivering the throughput through technology, AI, and some of the other 
+initiatives we spoke about earlier on.  
+ 
+Our headcount has marginally gone up by about 6%. And with the same headcount and 
+more or less, I think the wage inflation which has come in, I think our people cost have grown 
+at about 6% to 8%, which has translated into a significant operating leverage from about 42% 
+to top line two years back.  
+ 
+We have shown a steady operating leverage kick in here. We were about 37% same time last 
+year. And this year, we have come to about 31%. I think a steady state of about 34% to 35% is 
+what one should expect through the year, given that Q3 was a strong quarter. So that is one 
+big operating leverage that has played out in the adjusted EBITDA chain that you see from 
+about an 18% to 19% in the earlier two quarters to about 23% that we have reported in this 
+quarter.  
+ 
+Likewise, as Amrish said, ESOPs is something we show below the adjusted EBITDA line item 
+before PBT. Philosophically, as we went into the public market space, one big change we had 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 13 of 25 
+ 
+brought about is that new issuances of ESOPs will also be available at closer to FMV. And I 
+think that has translated into a more reasonable P&L impact as far as ESOPs cost is 
+concerned. Adjusted for a onetime reversal that was there in Q3 of last year, two years back, 
+we are seeing the ESOP cost both in absolute terms and as a percentage to top line show a 
+steady decline. We are currently at about 4% to top line with an ESOP cost of about Rs.31 
+Crores and that is a number which will steadily start creeping down both in absolute sense 
+and as a percentage to top line, which results in a better flow through from adjusted EBITDA 
+to PPT.  
+ 
+As we had indicated earlier, as our businesses build scale, technology will be a big driver. We 
+have been making a conscious effort to make our business asset light, which means 
+sometimes directly selling devices to the merchants or to the large banking partners that we 
+have. This makes our balance sheet asset light while it may have a short-term impact in 
+terms of the gross realizations as far as the payments business is concerned.  
+ 
+Our overall depreciation line item has been fairly flat with a rising top line, and therefore the 
+percentage as a percentage to top line has seen a steady decline from about 11% two years 
+back to about 4% and this has translated in a higher PBT and a PAT translation for this 
+quarter as well. 
+ 
+This is the slide we spoke about. I think this is a reference point we will always use to guide 
+through how one should look at the operating leverage with every incremental Rs.100 of 
+contribution. As we had said that every incremental Rs.100 of contribution results in about 
+Rs.50 to Rs.57 of flow through to adjusted EBITDA. And given the changes we are making in 
+ESOPs and depreciation, a further flow through will also translate to PBT, so almost 50% of the 
+incremental contribution margin will actually flow to the PBT line item. 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 14 of 25 
+ 
+ 
+Coming to business specific details, we have seen a robust growth of about 11% on the digital 
+checkout points, which is a critical variable we look at. One important variable we track 
+within this is how we monetize value added businesses on top of the rails that we laid out, 
+because we are very well entrenched across the merchants, which are in the enterprise 
+segment and the mid-market. There is significant potential to monetize a lot of these 
+merchants beyond the merchant rental fees that we get. And one variable that we have 
+been tracking and reporting to the street is the fact that how many of these digital touch 
+points are actually activated for value-added services and I am happy to report that, that is 
+number that is continuously trending upward. This number was about 21% a year back, and 
+that is about 28%. The value-added services, as is clearly reflected in the volume growth of 
+about 41% on a year-on-year basis at about Rs.76,000 Crores, comprises various things 
+within it.  
+ 
+We are market leaders as far as affordability is concerned, and the season brought in a 
+good amount of volumes almost about one-third of that Rs.76,000 Crores comes from the 
+affordability business where we are powering buy now, pay later across the consumer 
+durable segment, the mobile segment, and we have also seen very healthy high digit 
+growths across the non-consumer durable segment, which is a category first for us, which is 
+also driving a lot of these growth. Our margins continue to remain strong. Our take rates 
+continue to remain strong and I think this is a key lever for us. Overall, I think we have grown 
+at about 25% plus, and I think that is a healthy number to kind of go forward.  
+ 
+Fintech infrastructure business, I think we are doing a lot of innovative things in the Fintech 
+infrastructure side. We are one of the largest rail providers for the Bharat Connect, which is 
+the BBPS system, which connects the utilities to the consumer through the BOUs and COUs. I 
+think we process almost about 31 Crores transactions. We monetize it based on number of 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 15 of 25 
+ 
+transactions. We also have a UPI switch and an account aggregator, which helps us 
+penetrate deep into the ecosystem as far as identity and some of the other use cases are 
+concerned. We continue to innovate in this space because we believe there is a lot potential 
+here.  
+ 
+A couple of new innovations that we have done while we have not showcased it in the 
+product demos is integrating the bill payment with the ChatGPT equivalent, which helps you 
+make payments through agentic commerce in a very seamless way. Likewise we are also in 
+the process of simplifying payments and making it seamless.  
+ 
+A couple of initiatives we have done is also to make identity verification, which is otherwise a 
+cumbersome process as far as physical is concerned or gig workers is concerned we have 
+made it extremely seamless through Aadhaar integration, through mAadhaar integration 
+and it makes it absolutely seamless. So I think we continue to work on multiple use cases 
+here. I think there is significant opportunity given the complex workflows we solve and solve it 
+as a solution across our ecosystem to take this to the next level. 
+ 
+Coming to the issuance business, the issuance business registered a very strong growth of 
+transactions at about 28%. We continue to see strong growth across brands that we signed 
+up. We have added a significant amount of brands across geographies, which trust Pine 
+Labs offering for its prepaid solutions, which is a great store value platform for attracting 
+customers, for managing refunds, for managing new client acquisition, for actually driving 
+channel loyalty, and all of those use cases. We are winning not just in India, but across 
+markets. We have a large anchor brand in Australia. We have multiple brands across 
+Southeast Asia. We have won recent mandates with Miniso in US and also with Google 
+Waymo in the US. I think these are markets, as Amrish mentioned early on, where we are 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 16 of 25 
+ 
+making fresh entry and I think we are able to participate in these markets given the size, 
+scale, and platform capability that we have distributed. 
+ 
+I think one key point I want to bring out here is we are not just a processing platform, but we 
+also provide a holistic solution where we work with the brands and OEMs in not just providing 
+a world class processing stack, but also customizing use cases to their requirements. And 
+second is distribution is a big strength.  
+ 
+One of the big growth drivers for this quarter has also been our focus on distribution. We 
+have also said in other quarters that distribution is something that we want to bring in 
+because when a brand looks at us, they look at us as an integrated provider for not just 
+processing the card or the virtual cards or prepaid stored value cards, but also taking it 
+across the internet and both in India and also similar tie-ups for global markets to drive that 
+growth. So we have seen a strong distribution.  
+ 
+We have led a lot of channel led programs as well and across both India and overseas, we 
+have seen strong revenue growth of upward of 40%. I think that is where we are as far as the 
+issuance business is concerned. I will take a pause here. I think we have broadly covered the 
+broad highlights of the business. We have covered some of the key aspects that have driven 
+this quarter's performance. Our business remains to be extremely robust and strong. Our 
+cash flows remain strong. We have seen, there will always be, given the nature of our 
+business, where we process GTV as an account aggregator, we will see some seasonal 
+volatility as far as cash flows are concerned. But on a steady state basis, I think we have 
+guided earlier as well, when we came out with our RHP, that roughly 15% to 16% of our net 
+working capital top line is a guided view we should take.  
+
+ 
+ 
+January 28, 2026 
+ 
+Page 17 of 25 
+ 
+ 
+I will pause here, happy to take questions and any other queries that you had regarding our 
+Q3 performance. 
+Moderator: 
+Thank you very much, Sir. Ladies and gentlemen, we will now begin the question and answer 
+session. We will take the first question from Kaushik Agarwal. Please go ahead. 
+Kaushik Agarwal: 
+Thank you for the opportunity and congratulations on a good set of numbers. So a couple of 
+questions from my side. Firstly, if you can help just decode this 29% GMV growth that we have 
+reported on a Y-o-Y basis in this quarter, it is more of a market share play that is playing out 
+in our favor because most of the payments instrument you see like credit card spending has 
+not been going up so great even on the UPI side the growth is broadly in the range of 22% to 
+25%, so that was one. Second thing I wanted to understand is that has there been any 
+communication from the regulator regarding the PIDF incentive income because there was 
+some media article recently floating around indicating that scheme will not continue. So 
+what would be the proportion of such incentive income as part of our revenue and third 
+piece would be your take rates on the affordability, VAS side. So I did some back of the 
+envelope calculation and noted that the take rates for your affordability, VAS business is 
+slightly coming down. So how should one look at it? So, yes, these were the three things from 
+my side. 
+Sameer Kamath:     So Amrish, you want to take it or should I go ahead with it? 
+Amrish Rau: 
+Let me address the first part. Yes, so what is clear is that we are continuing to win market 
+share. We are continuing to expand our presence in the market. You also need to remember 
+that when we go out globally and we go into newer market that effectively always becomes 
+a net new market for us. So when we are showing a 29% growth in terms of GTV, that is 
+largely because our payment platform continues to win in the marketplace in India and also 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 18 of 25 
+ 
+because of the global markets that we are opening up, new volumes are coming on board. 
+Sameer, you can take the next two. 
+Sameer Kamath:   Kaushik, coming to the second question, I think affordability, we report the total number of 
+Rs.74,000 Crores, which combines multiple things. It combines three to four things. 
+Affordability is a one third of our volumes, but it is roughly about two third of our revenues 
+and the take rates there in that segment have remained fairly in the same range. I think we 
+have seen no compression of margins there. Likewise, there is UPI volumes that we do on our 
+own stack. There is DCC and a lot of other value-added services. I think sometimes it is a 
+mixed chain but intra segmental we have not seen any yield more or less even at a headline 
+level if you see and if you work out the broad math, I think it is easily possible the ranges are 
+more or less in the same level. The third question you asked me about PIDF, as we have said, 
+that that is not a segment that we operate in, we serve the mid market and the enterprise 
+segment and not in the villages where typically this incentive was largely for. In our own P&L, 
+the numbers with regard to PIDF for a month, rather for a quarter, would be not more than 
+about Rs.1 Crore. So the impact of any change of the government regulation with PIDF will 
+have almost a negligible impact on our top line and our profitability. 
+Amrish Rau: 
+I am just going to add out there by just giving a little bit more specifics. I think what we think 
+the PIDF kind of an impact on our business is less than like Rs.4 Crores or Rs.5 Crores on a 
+quarterly basis. So it is not that big a number at all for us, if any. Point number one. Point 
+number two, I think what will be interesting to see what comes out in the union budget and in 
+the union budget if there is any play to incentivize payment transactions. The way I see this 
+personally is that I do not see there would be any charges which will come on the long tail 
+merchant base in India. If there are any charges which were to come, it will largely come on 
+to the organized sector and that would generally be the area that we are playing in today. So 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 19 of 25 
+ 
+if there is an MDR to come in, I do believe it might come into the space that we are present in 
+and not into the long tail of the market. But this is all speculation. Let us just see what comes 
+out. But I am just trying to highlight out here is I do generally believe that the government of 
+India and the regulator continues to be extremely supportive to grow digital payments 
+across the country. 
+Sameer Kamath: 
+Kaushik, does it answer your questions? 
+Kaushik Agarwal: 
+Yes. That answers my question. Just one followup. So on GTV side, if you can just provide 
+some mix around what would be the mix of Domestic and International? You have given on 
+top line side, but on GTV, it will be. 
+Amrish Rau: 
+Kaushik, we do not have it handy right now. 
+Kaushik Agarwal: 
+Sure. Okay. No problem. Thank you. 
+Moderator: 
+Thank you. That question was from Mr. Kaushik Agarwal of Haitong. We now move to our next 
+question that is from Khush Shah of Niveshaay Investment Advisors. Please go ahead. 
+Khush Shah: 
+So my first question would be, should we think any gateway side as a medium term 
+opportunity or any internal milestone over the next 12 to 14 months if we are expecting some 
+revenue towards gateway system, gateway payments side? 
+Amrish Rau: 
+You know, on the online side, there are two parts of our business. One part of the business is 
+when it comes to online classic payment processing for e-commerce companies. Other is 
+what happens when it comes to bill payment services. In both of these services, I think we 
+have actually called out here in our earnings report is our online payments platform. The 
+volumes have actually grown by more than 50% on a year-on-year basis. We have already 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 20 of 25 
+ 
+highlighted the fact that today Flipkart, Myntra, Blinkit, not Blinkit, Zepto, Big Basket all of these 
+guys use our services on the online payments platform today. 
+Sameer Kamath:    So online is a clear focus area for us, Khush, and we are seeing growth here. I think we have 
+been sustainably growing there. We have been adding new products like Apple Pay for 
+international. So I think it is a business that is showing a very high growth for us. 
+Khush Shah: 
+Fair enough. My second question would be on the Japan side international market where 
+there is an UPI pilot rollout. So, is there any side of any possibility or we can gauge around , 
+we would be expanding on that region? 
+Amrish Rau: 
+Which one? Which region? 
+Khush Shah: 
+Japan. On the Japan side, there is an UPI pilot rollout. 
+Amrish Rau: 
+We do not have any presence in Japan. We continue to do some business development 
+work around it, but no we do not have any presence in Japan as of now. 
+Khush Shah: 
+Sir in coming future we are any expecting from Japan side revenue or any? 
+Amrish Rau: 
+I would not speculate on that one right now. 
+Sameer Kamath:      Where all we are present and how we are looking at it I think is presented earlier in the slide 
+so that gives you a sense of where we are playing right now. 
+Khush Shah: 
+Yes, so I was just seeing around Japan that a UPI rollout is going to happen, so I guessed. 
+Sameer Kamath:     I think, Khush, I am going to take an opportunity to just clarify to you what we are not just 
+doing is taking Indian payment platforms and going global. We are actually going into 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 21 of 25 
+ 
+global markets, their own unique payment system. So for example, when it comes to 
+Malaysia, Malaysia has their own real-time payments infrastructure. Singapore has its own 
+real-time infrastructure called PayNow and in UAE, there is a real-time payments 
+infrastructure, which is called Aani. We power all of those payment transactions. So our 
+approach to it is that we want to be a full stack payments provider in that market. So it is not 
+just that we are following what UPI does and which countries UPI is going to. 
+Khush Shah: 
+Okay. My third question would be, from a long-term perspective, how do we access the 
+structural opportunity in the gifting and prepaid instrument ecosystem in India as there is 
+not a proper market size to gauge how big is the market around the gifting side. 
+Sameer Kamath: 
+In the RHP, we have actually given that information because we have done some market 
+study on that. We also highlighted in some earlier conversations that we continue to process 
+about 3.5 to 4 million transactions on a daily basis when it comes to prepaid. So there is a lot 
+more information in the RHP. 
+Khush Shah: 
+Thank you. Thank you very much. 
+Moderator: 
+Thank you. Our next question is from Sucrit Patil from Eyesight Fintrade Private Limited. Please 
+go ahead. 
+Sucrit Patil: 
+Yes. Good evening to the team. My name is Sucrit Patil from Eyesight Fintrade Private Limited. 
+So I have two forward looking questions. My first question is, as Pine Lab operates a broad 
+merchant payment infrastructure and Fintech platform spanning POS, online payments, 
+credit, and value added services amid strong digital adoption, how are you planning the 
+product innovation and monetization across these verticals to strengthen competitive 
+differentiation, especially as the merchant expectations evolve and new digital rails emerge 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 22 of 25 
+ 
+across the global market? That is my first question. I will ask my second question after this. 
+Thank you. 
+Sameer Kamath: 
+Sucrit two broader question. Honestly, I do not think so. I am going to take that question up at 
+this point of time. I think, given a lot of information in the RHP. Today, I want to be focused on 
+the Q3 earnings only. 
+Sucrit Patil: 
+Thank you. Best of luck. 
+Moderator: 
+Thank you. Our next question is from Srinivasu K from TIA. Please go ahead. 
+Srinivasu K: 
+Congratulations for the strong set of numbers. My question is about the VAS activation that 
+you said is 28% now. What is the target by FY2027? 
+Sameer Kamath: 
+I think you have seen the trend at which we are moving, Srinivas. I think the idea is we see a 
+lot of potential for enabling merchants. In fact, we have a large sales force which actually 
+goes and activates merchants across these areas. I think the beauty of our business is, as 
+Amrish said earlier, we work with enterprise and mid market who have complex needs, who 
+have multi products, and each of our value-added services are actually well entrenched for 
+doing in each of these areas. So I think we are continuously working on it. We will not give a 
+forward guidance here, but I think if you see on a year-on-year basis from about 21% of a 
+growing base, we moved up to 28% and that is the reflection of where we are seeing on the 
+VAS business also growing at about 41% as far as the GTV is concerned. 
+Srinivasu K: 
+Okay the next question is about you launched agentic bill payment on LLMs so how are you 
+going to monetize this and like and what is the privacy like how much data reaches LLMs and 
+how much stays within your Setu? 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 23 of 25 
+ 
+Sameer Kamath:     So when it comes to the transaction process the transaction will happen within ChatGPT in 
+this product that we have created. So what you could do is you could go into the ChatGPT, 
+you can pretty much give a command or a prompt, which says that you want to pay a bill, 
+let know the utility provider and your mobile number and the transaction will get completed. 
+The second part in terms of privacy, I do not have that answer for you just now. 
+Srinivasu K: 
+Okay. Thank you and best of luck. 
+Moderator: 
+Thank you. Any participant who wishes to ask a question may click on the raise hand icon. 
+We will take our next question from Vidhin Shah from Motilal Oswal Financial Services. Please 
+go ahead. 
+Vidhin Shah: 
+Congratulations on the good set of numbers and thanks for this opportunity. My first 
+question is, Sir, depreciation on DCP as a percentage of revenue fell due to refurbished 
+terminals. Do we expect net capex needs to structurally decline henceforth in the coming 
+quarters and in FY2027, Sir? And I will ask my second question later Sir. 
+Sameer Kamath: 
+So to answer your question, yes, depreciation, both in absolute terms, will remain range 
+bound and as a percentage to top line will reduce because of two to three things. One is the 
+business mix itself, where a lot of international business across issuance, across the Fintech 
+infrastructure online does not require device intensity. And within our own segments, we 
+have realized that we are a tech platform. So I think we want to ensure that some of these 
+devices, etc., are directly bought by merchants and by banks and therefore unless we see a 
+strategic reason to sell and lock in a merchant to us, we will not do that. So that is a 
+structural shift we have done and going forward also, you will see depreciation and capex 
+being fairly range bound and as a percentage to top line coming down. 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 24 of 25 
+ 
+Vidhin Shah: 
+All right. That is helpful, Sir. Coming to my second question, Sir, you disclosed that 
+approximately 50% to 60% of the efficiency gains, and as mentioned by Amrish Sir earlier and 
+that the code is written through AI if I remember correctly, 21%. So can you quantify, if 
+possible, as to how many Opex dollars are saved and how much flows to EBITDA versus 
+reinvested? 
+Amrish Rau: 
+No, we have not started to do that as yet and honestly, the answer related to this is we 
+continue to invest into new products. We continue to invest into new geographies. So no, we 
+do not do that calculation which says that because of this 21% of the code which is being 
+written using AI what could be the potential saving from net account standpoint. What we 
+have very clearly calling out is it is not that we are saying that we will be reducing our team 
+size going forward because there is enough and no more project work expansion work, 
+product work which is coming our way, that is where we go ahead and use the existing 
+capabilities from an engineering standpoint. So specific to your questions, no, we do not 
+calculate it in that fashion. 
+Vidhin Shah: 
+Understood, understood. That will be all, Sir. Thank you so much and all the best for the 
+future. 
+Moderator: 
+Thank you. That was the last question. I hand the call back to Mr. Amrish Rau for closing 
+comments. Over to you, Sir. 
+Amrish Rau: 
+Thank you very much. Look again, like last quarter, I started to give some indication of how 
+Q3 is going. Q3, as I have shown you, has been a terrific quarter, has been a record breaking 
+quarter both on the revenue side as well as at a PAT side. Payments is a very interesting 
+business that you can actually get to see almost what is going to come up over the next nine 
+months or 12 months period. We are in an environment where we think we are continuing to 
+
+ 
+ 
+January 28, 2026 
+ 
+Page 25 of 25 
+ 
+win businesses. Volume keeps on increasing on our platforms. So we are feeling extremely 
+good, for example, what we are getting to see both at the economy level as well as market 
+level. So hopefully, we should be gathering again in Q4 in a similar buoyant mood. Thank you. 
+Sameer Kamath: 
+Thank you, everyone. And if you have any further questions, feel free to reach out to the 
+investor relations desk. I think the contact details are given on our website. Thank you and 
+have a good day. Bye. 
+Moderator: 
+Thank you, members of the management. Ladies and gentlemen, on behalf of Pine Labs, I 
+would like to thank each one of you for taking time out and joining the call today. We now 
+conclude the call. You may now click on the leave button to exit the meeting. Thank you all 
+for your participation. 

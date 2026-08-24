@@ -1,0 +1,864 @@
+ 
+ 
+July 30 2024 
+ 
+To, 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001 
+Scrip Code : 532755 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th floor, 
+Plot No. - C/1, G Block, 
+Bandra-Kurla Complex, Bandra (East), 
+Mumbai - 400 051 
+NSE Symbol : TECHM 
+ 
+Subject:  Transcript of the earnings conference call for the quarter ended 30th June 2024– 
+Regulation 30 of the Securities and    Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”) 
+ 
+Dear Sir/Madam, 
+ 
+In terms of Regulations 30 and 46 read with clause 15 of Para A of Part A of Schedule III of the 
+SEBI Listing Regulations, please find enclosed the transcript of the earnings conference call for 
+the quarter ended 30th June, 2024, conducted on 25th July 2024 after the meeting of the Board of 
+Directors for your information and records. 
+ 
+This intimation is also available on the website of the Company at the weblink: 
+https://www.techmahindra.com/investors/ 
+ 
+Kindly take the above on record. 
+ 
+Thanking you,  
+ 
+For Tech Mahindra Limited 
+ 
+ 
+ 
+Anil Khatri  
+Company Secretary 
+ 
+Encl.: as above 
+ 
+ 
+ 
+ 
+Anil 
+Mohanlal 
+Khatri
+Digitally signed 
+by Anil Mohanlal 
+Khatri 
+Date: 2024.07.30 
+18:44:56 +05'30'
+
+ 
+ 
+Page 1 of 18 
+ 
+ 
+ 
+“Tech Mahindra Limited Q1 FY25 Earnings 
+Conference Call” 
+ 
+July 25, 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: 
+MR. MOHIT JOSHI – MANAGING DIRECTOR & CHIEF 
+EXECUTIVE OFFICER, TECH MAHINDRA LIMITED 
+MR. ROHIT ANAND – CFO, TECH MAHINDRA LIMITED 
+ 
+ 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 2 of 18 
+Moderator: 
+Ladies and Gentlemen, Good Day and Welcome to the Tech Mahindra Limited Q1 FY25 
+Earnings Conference Call. 
+As a reminder, all participant lines will be in the listen-only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during this conference, please signal an operator by pressing "*" and then "0" on your touchtone 
+phone. Please note that this conference is being recorded. 
+I now hand the conference over to Mr. Mohit Joshi – M.D. and CEO for Tech Mahindra. Thank 
+you and over to you, sir. 
+Mohit Joshi: 
+Thank you and good evening, everyone. When we had met in April, we had announced our 
+strategic narrative scale at speed and our overall three-year plan. 
+I am happy to share with you that in my meetings with clients across the world with employees 
+and with other stakeholders, this strategic narrative has really resonated very well. Clients across 
+the globe have emphasized their need for a partner that can provide this unique combination of 
+global reach and scale and agility. Q1 FY25 is also the first full quarter since we reconfigured 
+the organization structure and I am very happy with the progress that we have made in aligning 
+into the new service line structure. 
+For Q1 FY25, we report revenue of $1,559 million, which translates into a sequential growth of 
+70 basis points and a decline of 1.2% year-on-year, both on a constant currency basis. 
+We are reporting a robust growth momentum in manufacturing about 6.4% YoY, while the 
+healthcare vertical grew about 6.1% YoY. 
+We see growth in North America and focused APAC markets, resulting in an improved share of 
+revenue from that region, in line with our strategy. 
+This is a seasonally weak quarter for our communications vertical, partly due to decline in 
+revenues from Comviva, which tend to skew towards the second-half of the year. 
+• 
+The new deal wins TCV for the quarter sums up to 534 million and is well diversified 
+in terms of industry verticals and key regions. Notable deal wins during the quarter 
+were, firstly, a deal with the leading US-based telco to build, modernize and operate 
+various front and back-office applications for its wireless network services products 
+portfolio. This application development deal involves developing an application for 
+customer information management, dealer activation portal and point-of-sale systems 
+for the customers in direct channel stores, CXP and API integrations, case 
+management and back-office operations across ETL, database and BI management 
+services. 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 3 of 18 
+• 
+Secondly, TechM was also selected by a leading UK Network Service Provider for a 
+country-wide fiber rollout, running customer management programs and digital 
+transformation through implementation of curated solutions predicated on AIML, 
+OCR and hyper automation by leveraging our network services and BPS 
+competencies. 
+• 
+Thirdly, we were selected by a Japanese automotive manufacturer for the global rollout 
+of its Company-wide SAP implementation as part of its digital transformation 
+program. 
+• 
+And finally, Sharecare selected Tech Mahindra to design and develop a personalized 
+digital wellness platform for Medicaid members. This user-friendly mobile app 
+platform was launched for health plans, Medicaid members equipping them with 
+essential tools to manage their health and navigate benefits with ease. Demonstrating 
+exceptional collaboration and agility, Tech Mahindra and Sharecare has successfully 
+progressed from ideation and design to product launch in a record time of just seven 
+months. 
+I also wanted to take this opportunity to update you about our latest launch: 
+“TechM VerifAI”. You may have seen our press release about this exciting new offering earlier 
+today. It addresses what we believe is the missing link that will help companies move from pilots 
+and experimentation phases to enterprise level adoption of AI. TechM VerifAI addresses the need 
+for a robust validation and assurance framework for AI systems. Without this framework, there 
+is a continued reliance on humans in the loop to validate outputs of AI programs. We feel that 
+this is the missing link hindering the wide scale adoption and is also affecting the productivity 
+gains possible from AI. This is why the leap from pilots to enterprise-wide adoption and 
+commercialization has not fully happened. The recent crowd strike incident has again shown the 
+deep importance of validation and assurance more broadly, and this is one way we are 
+highlighting the importance of this crucial component in building out the AI journey for our 
+clients. TechM VerifAI’s prebuilt 360 deg. validation framework across the GenAI lifecycle, 
+customizable metrics, micro services-based architecture and seamless integration into existing 
+technology stacks, ensures faster and reliable AI value realization for enterprises. The solution 
+validates data quality in the discovery in pre-development stages to ensure security and accuracy. 
+Continuing on the AI front: 
+I am pleased to share that more than 25,000 of our associates have now been enabled with AI-
+led pair programming skills. We also now offer more than 100 AI-based solutions across AI OPS, 
+computer vision, workplace automation and More. 
+Next, let me give you some more flavor on specific aspects of our business: 
+Telecom: 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 4 of 18 
+As you know, we are the leader in this segment and worked with seven out of the top ten largest 
+operators in the world. Our enviable position in this sector positions us well to be the preferred 
+partner for their AI investments. Accordingly, we are investing in AI and niche skill 
+certifications. Tech Mahindra will soon have the largest TM Forum Certified Talent Pool in the 
+CSP IT Service Provider Ecosystem. 
+Also, given our leadership and deep expertise in the sector, we anticipate benefiting from the 
+cost rationalization related consolidation activity across regions. By leveraging our strong 
+partnerships with Hyperscalers and ISVs to create and incubate a wide variety of AI part 
+solutions across Nox, IT OPS, field visit optimization and customer experience to reduce TCO. 
+Banking and Financial Services: 
+We are seeing some new opportunities in existing accounts and also we have won new logos. 
+We have won managed services contract from a tier-one global bank, and they have further 
+awarded us the preferred vendor status which sets us up well for the future. Select partnerships 
+like Temenos and Guidewire are beginning to gather stream across the portfolio. 
+In the US, we are seeing improved spending across asset and wealth management cards and 
+payments, retirement risk and compliance, insurance. On the other hand, investment banking 
+and lending businesses are seeing some softness. 
+Overall, though, given our relatively small size and the early stage of our transformation journey, 
+I do expect to see some volatility in revenues here while we implement our plans to upgrade our 
+BFSI offerings and client service. 
+One of our important differentiators in BFSI is the expertise we derive from our portfolio 
+companies like CTCo, Tenzing and Comviva. For example, Yabx is a leading fintech Company 
+operating in emerging markets, that is part of the Comviva portfolio. It is revolutionizing the 
+digital lending and micro financing domain by partnering with local banks. Yabx leverages 
+advanced data and AI models to offer embedded credit products in partnership with mobile 
+wallets, payment gateways, consumer and merchant aggregators and other payment network. 
+The operating margin for the quarter stood at 8.5%, an expansion of 110 basis points compared 
+to last quarter. This was mainly due to cost saving efforts under project Fortius and continued 
+focus on operational efficiencies. Rohit will share more details on this. Again, the margin was 
+8.5% for the quarter. 
+We also see encouraging results from our efforts towards improved market positioning as we 
+rise in ranking quadrants across industry analysts and advisors during the quarter. 
+We were rated as leader in Rising Star for ADMS in the ServiceNow Ecosystem Partners 2024 
+ISG Provider Lens Study. 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 5 of 18 
+TechM was rated as the leader in Rising Star for Life Sciences Digital Services 2024 by ISG. 
+We were rated as the leader for AI in the applied AI Services 2024 RadarView by Avasant. 
+A major contender for Insurance in the Everest Guidewire Peak Matrix 2024 Assessment. 
+And finally, a major contender for Healthcare Industry Cloud Services, Peak Matrix Assessment 
+2024 by Everest. 
+We are recognized not only for our capabilities, but also for our leading sustainability practices. 
+Tech Mahindra has been recognized as one of the world’s most sustainable companies of 2024 
+by Time Magazine and Statista. 
+We achieved the prestigious #1 position among all Indian companies and the 111th position 
+globally. 
+Another feather in our cap was the launch of project, Indus, which as most of you know, is the 
+first and one of the only large language model for indigenous Indian languages. This makes us 
+the first among our peers to have built a large language model from scratch, with 1.2 billion 
+parameters, 22 billion tokens, and a team of just 15 people, it was trained on over 100 gig of 
+data. 
+With this positive start to the year, we are more confident that this will be a better year compared 
+to the previous one. We will continue to focus on the planned actions for building a long-term 
+sustainable foundation for TechM. 
+With that, I will pass you over to Rohit Anand – our CFO, for a rundown on the Financial 
+Metrics. 
+Rohit Anand: 
+Thank you, Mohit. Good evening, everyone. 
+Let me begin with an overview of the Company’s Financial Performance for the Quarter: 
+We ended the quarter with revenues of US$1,559 million, which is a sequential growth of 0.7% 
+and a year-on-year decline of 2.6%. Our constant currency basis sequential growth is similar to 
+reported and decline of 1.2% on a YoY basis. Translating this in INR terms, we registered a 1% 
+sequential growth in revenue at 13,005 crores, which is also a decline of 1.2% on a YoY basis. 
+As Mohit mentioned, this quarter the growth is largely broad-based except for communications 
+where we see Comviva seasonality for the quarter. 
+Our EBIT came at US$132 million, in rupee terms 1,102 crores, a sequential increase of 16.2% 
+and 22% YoY increase. Resulting margin is at 8.5%, which is an expansion of 110 basis points 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 6 of 18 
+QoQ and 170 basis points on a YoY basis. The margin in Q1 were impacted by decline in revenue 
+in Comviva and inching up of VisiCalc that we see in Q1 of the year, which was mitigated by 
+operational efficiency and savings due to project, Fortius. 
+We have also seen moderation in our subcontractor cost, which in the last quarter we had 
+mentioned has increased because of certain deal ramp ups, and other SG&A areas which were 
+partially offsetted by the long-term investment that we had mentioned in a strategic narrative 
+that were committed to growth of the business for long-term growth. 
+The effective tax rate for the quarter was 26.6% and the resulted PAT stood at US$102 million 
+in rupee terms, 851 crores, which is 6.5% of revenue and an expansion of 140 basis points 
+sequentially and 130 basis points on a year-on-year basis. 
+Our cash generation remains healthy as a free cash flow for the quarter was US$106 million 
+which translates to 104% of PAT. The total hedge book for us stood at 2.2 billion versus 2.4 
+billion last quarter. Based on hedge accounting net mark-to-market gain for the quarter was $27 
+million, out of which gain taken to the P&L is $2 million and the balance taken to reserves of 
+$25.6 million. 
+The DSO, including unbilled was at 93 days, which is an increase of one day on a sequential 
+basis, but an improvement of five days on a year-on-year basis. 
+Our balance sheet continues to be strengthened. Cash and cash equivalent as of the quarter close 
+stood at US$966 million at rupee terms 8,055 crores. 
+Our deal wins for the quarter was at 534 million which is an increase of 6.8% on a quarter-on-
+quarter basis and also an increase on a YoY basis. 
+The key highlights about our deal win are that most of these are as Mohit mentioned broad-
+based,and in focused prioritized markets of US, Europe and selected pockets of APJ. 
+And also from a service line perspective, deal wins represent the mix for digital enterprise 
+applications, cloud and infra and next gen services. The detailed tailwind of these deals are 
+mentioned in an earning presentation as well as in the earning press release. 
+If you recall from our previous quarter strategy presentation, we had mentioned about making 
+investments about strengthening our sales and marketing practice and one of the pillars under 
+that was to strengthen our advisor and analyst relationship. Following up on that, we held an 
+Advisor Day in Pune, India. The event was impactful as research houses, advisors and analysts 
+were left with a much better understanding about TechM, service lines and competencies, and a 
+strategic thought behind the scale and speed imperative. 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 7 of 18 
+We also continue to invest in building our employee pyramid as we onboarded close to 1,000 
+freshers in the talent pool for the quarter. Invest in building employee pyramid is going to be one 
+of our largest margin expansion driver from medium as well as long term. We will continue to 
+do this as we move forward. 
+Beginning this quarter, we also have started reporting interns for our BPS division, as a part of 
+overall headcount as a practice, which was around 2,100. If you normalize for that on a quarter-
+on-quarter basis, our headcount is flat. 
+We have also made progress on our portfolio Company integration front. We have completed 
+full integration of two of our portfolio companies with a core corresponding service line at 
+TechM during the quarter. 
+So, in summary: 
+We believe the Q1 Results are a positive start for the current turnaround year as well as for our 
+medium to long term strategy. As we continue to prioritize the strategic areas, we will continue 
+to invest in the business for long-term sustainable performance. 
+With that, I will take a pause now and moderator, back to you for Q&A. 
+Moderator: 
+We will now begin the question-and-answer session. The first question is from the line of 
+Sudheer Guntupalli from Kotak Mahindra Asset Management Company. Please go ahead. 
+S Guntupalli: 
+So, my question is, outside the COVID high growth period, possibly is the first time in the last 
+several years where we are seeing sequential organic growth in June quarter. So, has the 
+Comviva seasonality come down over this time and will it be possible to call out the drag to 
+Comviva at both revenue growth and margin level during the quarter? 
+Mohit Joshi: 
+Yes, I think, the Comviva drag from Q4 to Q1 is roughly about 0.5%. I don’t know if that answers 
+your question. 
+S Guntupalli: 
+This is both at the growth and margin as well? 
+Mohit Joshi: 
+That’s correct. 
+S Guntupalli: 
+Most of the companies reported so far have shown good growth in BFSI and they are positive 
+that it will continue into the subsequent quarters. So, I understand that you mentioned that there 
+will be some volatility at our portfolio level, but broadly, if you can highlight few trends in your 
+key verticals, including communications, that will be helpful. 
+Mohit Joshi: 
+Because you asked about BFSI, first, let me cover that first. See, our BFSI vertical is relatively 
+small compared to our peer group and we are in the process of crafting out a new strategy. As I 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 8 of 18 
+mentioned previously, we have a new team as well. What we are focused on is a couple of things, 
+right. The first is building out a new team to dig deeper into our existing accounts, so a huge 
+focus on mining of the existing portfolios that we have. There’s also a lot of effort going in for 
+client logo additions. In this regard, the one thing I mentioned the large global bank that 
+onboarded us as a preferred supplier this quarter is a positive movement. There’s a lot of work 
+going on from a solution development perspective, especially in areas where we have strength 
+like core banking, wealth and asset management, insurance and payments. And finally, we are 
+looking to fully integrate the capabilities of our portfolio companies like CTCo, BORN, Citisoft 
+and Softgen. So, with all these, I feel very confident and comfortable about the long-term outlook 
+of our financial services business. But again, given the small size, right, from a quarter-to-
+quarter, just a couple of million dollars movement can inject a degree of volatility. But we are 
+comfortable about the long-term outlook of the business. And again, I feel that if you leave one 
+of our peers outside, I think our growth on a quarter-to-quarter, on a year-on-year basis actually 
+is quite good. We grew marginally quarter-on-quarter and declined only slightly on a year-on-
+year basis. From a telecom perspective, look, I feel that again, the telecom sector continues to 
+be challenged. But if you look at it from an FY24 perspective for the full year, our telecom 
+business declined by about 12.4%, for Q4 it declined by about 16.5%, but in the most recent 
+quarter, the decline has come down to single digits now. So, I expect to see some level of year-
+on-year improvement in the telecom business over time. I believe that our sort of position in 
+telecom from a comparative position remains very strong. We are present in seven of the top-10 
+operators. And as I look at the priorities that operators have, these are broadly in three areas. The 
+first is on the cost side, whether it’s a vendor consolidation or it is autonomous operations and 
+autonomous networks, we are active in that space. The second is revenue generation both on the 
+B2B side and on the B2C side, and on the wholesale network side, again, working on a number 
+of initiatives with clients there. And finally, working with our clients to help them become AI-
+native telcos. So, while the telecom sector overall remains stressed and the spends are there to 
+see across our peer group as well. I do feel comfortable that as the sector improves as one of the 
+largest players in the sector, we should benefit from an uptrend. I don’t see it happening 
+immediately, but surely this is a large enough sector, it should happen over time. 
+S Guntupalli: 
+Lastly, you spoke about development of a large language model. If you can elaborate a bit on it, 
+because our understanding so far is that only few companies that do the product or US internet 
+companies have been very strong on this. So, if you can elaborate a bit on what are the use cases, 
+who are expected to be the clients and what is our expected monetization model, that will be 
+very helpful? 
+Mohit Joshi: 
+Look, we started off more as a research project within our makers lab in TechM. We were 
+motivated to build out a large language model in the various dialects of Hindi, because we didn’t 
+see one being commercially available and we thought it would be an interesting and exciting 
+challenge for our teams. It is one thing to work on large language models that other people have 
+created. It’s a different level of understanding of the complexity and comfort with the technology 
+if you can build your own model from scratch. And so we started out by collecting multiple data 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 9 of 18 
+sources. We had a project called “Bhashathan” which was actually to collect raw language, 
+primary data as well in the various language dialects. And we built this model over time. As I 
+mentioned, it’s got 1.2 billion parameters, 22 billion tokens and was built with a fairly small 
+team. It is now hosted on Intel and Dell hardware. We are still working out a commercialization 
+model with various clients and various third-party providers including within the group. Beyond 
+Indus, we also built out a large language model in Bahasa Indonesia working with Indosat and 
+working on NVIDIA chipset. So again, I feel that it really demonstrates the differentiated 
+technology capabilities, the AI capabilities of TechM – that our teams are able to build complex 
+models from scratch. Candidly, the commercialization models are not very well developed now 
+and I do not expect this to be a significant contributor to our revenues. It is more of a technology 
+demonstrator from our perspective. 
+Moderator: 
+The next question is from the line of Rod Bourgeois from Deep Dive Research. Please go ahead. 
+Rod Bourgeois: 
+Hey, I want to ask about your internal progress in making turnaround changes and also tracking 
+your turnaround-related metrics. You’re still relatively early in your turnaround efforts overall 
+and I’d like to know if you can give us a sense of the internal metrics that are essentially allowing 
+you to gauge the leading indicators of your turnaround progress? 
+Mohit Joshi: 
+So, Rod, when we presented our strategic narrative and the turnaround plan in April when we 
+spoke about the scale at speed sort of a journey, we mentioned that to drive long-term sustainable 
+performance of the Company, we were going to look at three pillars for transformation 
+perspective. The first pillar was linked to growth and growth was about being able to grow our 
+priority accounts. Our peak and prime accounts are 20 million plus accounts sustainably. We 
+have our program called Turbocharge. We have dedicated client and delivery partners for our 
+top accounts to drive more focus and we see an improvement in this overtime. We also spoke 
+about from a growth perspective competency build, right, the investments that we are making in 
+our focused service lines. Just Rohit spoke about the Analyst Day we did in Pune to drive more 
+understanding of our competency and the value sharing that with the analysts. And finally, for 
+the growth piece we spoke about the need to invest in markets in the US, in Europe, prioritized 
+markets in APJ, which is also reflective of our deal wins this quarter and the numbers overall. 
+Beyond this, there was the desire to build on our leadership position in telecom and 
+manufacturing. You’ve seen the results from manufacturing perspective and also to be a credible 
+challenger in healthcare and BFSI. Again, both sectors where we have delivered a good set of 
+numbers for this quarter. Beyond growth, there was a focus on margins and we gave some 
+metrics from margins perspective. For instance, what is the entry level as a percentage of the 
+total workforce. As you know, we are one of the few companies that continue to imbibe fresh 
+talent in our industry, and we have added about 5,400 - 5,500 people in the past four quarters 
+and we will continue to build on this. From a margin perspective, we also spoke about CNB as 
+a percentage of our revenues, including sub cons. In this, we improved YoY by about 80 basis 
+points here. As we continue to reduce subcon significantly and focus on other areas like 
+offshoring. And finally beyond growth in margins, we spoke about the organization and talent 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 10 of 18 
+transformation, right? And from a talent transformation perspective, the number one focus for 
+us was employee upskilling. We have made progress year-on-year and quarter-on-quarter. We 
+spoke about the 25,000 plus people that we have trained in AI pair programming. Beyond this, 
+we have gotten a chief learning officer with a very ambitious and a very robust plan for training 
+overall, including investments to build out training facilities. We spoke about the percentage of 
+clients who we did infuse with the GenAI offerings and again you see progress over here. You 
+see a new offering VerifAI that we spoke about today, which is focused on the assurance and 
+validation space. We also spoke about group synergy, where there’s focused effort on working 
+with M&M on the factory of the future and take into clients, work across more group companies 
+and leveraging the M&M vendor ecosystem, right? So, again, across these three areas of growth, 
+margins. organization and talent metrics, we are making good progress. We do have a plan to 
+report this on an annual basis in terms of the progress that we make on the metrics, but I want to 
+assure you with something we are tracking very closely. And again, sorry, a fairly long answer 
+to your question, but this is very, very critical for us. 
+Rod Bourgeois: 
+In terms of a follow-up, you mentioned some positive developments in the BFSI business and 
+the long-term growth confidence there. I wonder how much of these positive developments in 
+BFSI are due to an improved demand environment versus Tech Mahindra improving its 
+positioning in the market? One point on that. As we look at our research on enterprise buying 
+factors, we are seeing enterprises often demanding more specialist skills from its IT services 
+vendors and I wonder if that’s part of your positioning in the BFSI vertical and if you’re seeing 
+that as a demand opportunity out there? 
+Mohit Joshi: 
+So, I would say that the demand environment in BFSI is reasonably stable. Again, peer 
+companies have given very different interpretations; some have spoken about green shoots, 
+others have been more cautious. I think from my perspective, the demand environment is 
+reasonably stable, not really growing dramatically. I think we are benefiting from the fact that 
+we have a new team, we have a significant amount of focus on the vertical and that we are able 
+to both open new clients like the large global bank that I mentioned and dig deeper into our 
+existing clients to build out our solution sets to gain from the synergy of the portfolio companies. 
+So, I would say that the game set that we are seeing are mostly based on our internal efforts and 
+our improved market positioning. Your second part of the question was about the demand for 
+more experienced talent in the BFSI sector. And yes, I think for us, this is certainly a 
+differentiator for us. We do have the most experienced talent pool in the industry, significantly 
+higher levels of experienced talent and we position this to clients as being able to provide a 
+diamond rather than a traditional pyramid. Obviously, we are working to improve or to increase 
+the level of fresh talent that we have. But even with those additions, I do expect that we will 
+continue to have the most experienced talent pool in the industry both within TechM and 
+obviously certainly within the portfolio companies like a CTCo, like a SoftGen, BORN that have 
+very domain rich and deep industry talent. 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 11 of 18 
+Moderator: 
+The next question comes from the line of Kawaljeet Saluja from Kotak Securities. Please go 
+ahead. 
+Kawaljeet Saluja: 
+A couple of questions, Mohit. One is that if you look at the current quarter, growth has been 
+driven by BPO which has added close to $25 million to your revenue incrementally. Now I also 
+notice that there was an acquisition announced, Orchid Cybertech. So, what was the contribution 
+of that to the revenue? And more generally what has driven such a strong growth in BPO? And 
+the related question to it is that when I look at a BPO portfolio, it’s quite heavy on contact center 
+services or call center services. Does that worry you given that that business would be the first 
+one to be impacted by GenAI. 
+Mohit Joshi: 
+Yes. So, look, I think the BPO numbers are not really correct, they’re not comparable, and Rohit 
+will address this, because there is a recast that we did as well of our portfolio. And so it is shared 
+in his narrative. Some of the revenue has shifted from IT services to BPO, that’s probably giving 
+you that sense. The Orchid Cybertech acquisition is over two quarters old. So, it doesn’t really 
+have an impact from a QoQ perspective. 
+Rohit Anand: 
+Just on IT and BPO, it had some segmental change. So, when you compare it to the relative 
+performance the 11 million growth for the quarter from last to this you can attribute half of that 
+the BPO perspective and half to IT. It’s kind of mixed the change is what’s driving the differential 
+that you see on an absolute basis last year. 
+Mohit Joshi: 
+And then on your BPS question more broadly, right, look, I feel that our BPS business actually 
+has been very, very innovative. And for instance, in the AI space, the BPS business actually has 
+made great inroads in a couple of areas. One is obviously working with the hyperscalers and 
+working with a lot of the AI native companies. As they get humans into the loop in several of 
+the AI platforms, that’s been a significant growth opportunity for us. We have also been infusing 
+AI into a lot of our contact center solutions and into a lot of our platform capabilities and finally, 
+we are using GenAI to become a lot more productive internally. So, I think this is an example of 
+how our BPS business really has been very innovative around areas like AI, which is helping 
+drive growth. A lot of our client base now is the Silicon Valley companies, the cloud companies. 
+Our contact center dependence as a Company itself is very low, would be under 5% for TechM 
+overall. So, I am not too worried about any significant disruption from that perspective. It is 
+small and the portion that is there is very AI infused now. 
+Kawaljeet Saluja: 
+Second part of the question, Mohit, is that the market has been fairly active in terms of 
+consolidation deals in telecom, in fact, there have been many mega deals in consolidation, deals 
+announced in North America, in Australia and even in Europe. I mean this market is of course 
+fairly competitive as well. So, would you be playing into this market and consolidation deals or 
+would you stay away from it giving profitability consideration? 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 12 of 18 
+Mohit Joshi: 
+Look, that’s a very good question, right? And it’s a question about as we had shared in the 
+Analyst Day session as well that obviously we want to get growth and margin, right, but if we 
+have to prioritize, we will choose margin. Now, we did not want to get into a situation where we 
+are competing for deals which are hugely cash-negative and hugely sort of margin-dilutive, right. 
+Having said that, given the capabilities of the Company, we are winning several deals. So, for 
+instance, the large deals that we announced from a last quarter perspective includes several 
+telecom deals, including with the American operators, with European-based operators, just this 
+quarter, for instance, we have won a significant deal from an autonomous network operations 
+perspective. So, we continue to be competitive, we continue to win telco deals, but again these 
+have to be deals on our terms, right. I don’t want to do the sort of deals that we have to then 
+come back and make plans for magical margin improvements. Given this stage, we are in our 
+turnaround. We want to be very, very focused on the sort of growth that we want and the sort of 
+margin structures that we will accept. 
+Moderator: 
+Thank you. The next question comes from the line of Abhishek Kumar from JM Financial. 
+Please go ahead. 
+Abhishek Kumar: 
+Maybe to Rohit, Rohit you had indicated plans to reduce our cost annually by $250 million and 
+also spend 1.5% of the revenue in first year of turnaround which translates to around $100 
+million. Just wanted to gauge our progress against this target, looks like good cost reduction this 
+quarter, but there were some business-as-usual benefits that you indicated. So, how are we now 
+placed against that target? And if we can give any indication of the cadence of this cost reduction 
+or investment to the rest of FY25? Thank you. 
+Rohit Anand: 
+Sure, Abhishek. So, as I mentioned, when you look at the margin for the quarter, we have 
+expanded from 7.4% to 8.5%, right, the way to decompose that is we have headwinds from 
+Comviva revenue which flows to the margin impact broadly half a percent plus we have impact 
+on visa cost in some other direct costs associated with that around 30 basis points, right. So, 
+that's the headwind we started off with. Post that, all the efforts that we did on cost optimization 
+as a part of Project Fortius net of investments, right. And we had clearly articulated to your point 
+that we will continue to invest high for first year and then gradually ease it down because that's 
+where we need a long term sustainable business to grow. So, when you look at the savings net 
+of investments, we see an improvement in contribution to margin around 1.2% driven by that 
+and then SG&A excluding Fortius, we see some seasonal reduction in cost that over the year 
+will come back quarterly sequentially. So, those are the broad walk from a margin expansion 
+standpoint, and we will continue to report our progress of Project Fortius each quarter net of 
+investments and the buckets that we just to reiterate the buckets on investment that we clearly 
+articulated is continued focus on expansion of pyramid. We said we will continue to drive 
+learning and development investments, sales and marketing efforts, competency, build internal 
+productivity tools for automation. So, those are the broad buckets that we will continue to 
+prioritize. 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 13 of 18 
+Abhishek Kumar: 
+Just one quick follow up on growth. Just wanted to understand is the demand environment 
+similar to what we had envisaged at the beginning of the year and if things improve, does that 
+present an upside opportunity to our margin target? Thanks. 
+Rohit Anand: 
+Well, look, I think the demand environment is pretty much the same as when we had spoken in 
+April. I don't think there is any significant improvement, nor has there been a deterioration 
+candidly. So, it's still pretty much the same. Compared to a year ago is probably a little bit better. 
+That's what we see. And obviously if the demand environment should pick up significantly in 
+the second half of the year, then it will be helpful from a margin perspective, everything else 
+remaining the same, right? I mean, assuming that the attrition levels and all don't spike up 
+massively, it should be positive from a margin perspective. 
+Moderator: 
+Thank you. The next question comes from the line of Sandeep Shah from Equirus Securities. 
+Please go ahead. 
+Sandeep Shah: 
+Thanks for the opportunity and congrats on a good start to the year. Just first question Mohit, I 
+think one of the growth strategy which you want to look at is to drive the multi services deals as 
+well. So, any progress on that? I do agree it's too early to ask this question, but any pipeline 
+which is shaping up which can improve the order intake going forward? 
+Mohit Joshi: 
+Yes. I think that's a very good question. Look, multi-tower deals are very critical for us. We have 
+set up a specialist group within the company, the Solutions and Transformation Group, which 
+specifically focuses on multi-tower deals that are over $25 million in revenue, right. So, this 
+team will collect the inputs, build estimation models, create high quality solutions and through 
+deal advisors and consultants and deal architects actually shape their deals on the ground as well. 
+For our largest accounts, we have put in a team of delivery partners over the past 6 months and 
+the delivery partners also help consolidate the capabilities from multiple service lines to give us 
+seamless and a uniform experience to customers. So, it is very important for us. It is something 
+that we track very closely. We look at the average number of service lines that our largest clients 
+consume and we are very focused on increasing that. Obviously in verticals and sectors where 
+we have been present for a long time like our telecom or manufacturing, that number is higher, 
+while in our newer verticals like Lifesciences and BFSI, the number is lower. So, there is a focus 
+strategy to improve these service line penetration within our newer clients and newer verticals 
+as well. So, it's a very comprehensive strategy consisting of structural changes like building out 
+the SSDT of talent infusion, like putting in the delivery partner into the accounts and finally 
+through a mixture of incentives and measurements like the measurement of service line 
+penetration in each and every individual account. 
+Sandeep Shah: 
+Thanks for the detailed answer. Any thought on wage increase or wage hikes in the coming year? 
+Mohit Josi: 
+Yes. So, as of now, we have been fairly transparent with our employees that we do not see an 
+opportunity for a wage hike at this time and we will revisit it in the second half of the year 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 14 of 18 
+depending on our financial situation. We were the first company last year to announce wage 
+hikes. So, I think our employees, we have that credibility and trust with our emdployees where 
+they understand what we are, what we are focused on and the fact that we will revisit it in the 
+second half of the year if appropriate. 
+Sandeep Shah: 
+And just a last question as a bookkeeping. I think offshore efforts, one of the lowest which as a 
+large cap Tech Mahindra has and I did not hear that as a margin lever in most of the commentary 
+by you and Rohit. So, is it fair to say because of the acquired subsidiary which are onsite driven, 
+there is a hurdle to move the offshore effort materially going forward or are we also strategizing 
+for as a material margin lever going forward? 
+Rohit Anand: 
+No, Sandeep, I think that's a good question. So, from our perspective, one of the strategic pillars 
+that we have shared with you three months back was better integration of portfolio companies, 
+right? So, we said that our priority for the next 18 to 24 months is going to be prioritizing the 
+integration into systems, into policies, procedure, middle office, back office. So, that's a focus 
+effort that we will drive over that period and continue to work on enhanced offshoring, which to 
+your point will get more accelerated as we do go through that journey. 
+Moderator: 
+Thank you. The next question comes from the line of Ravi Menon from Macquarie. Please go 
+ahead. 
+Ravi Menon: 
+Last year, we took a significant provision for onerous contracting altogether through the year 
+6.7 billion. So, are we continuing to do any of that, it still seems a bit elevated? 
+Rohit Anand: 
+Ravi, I think last year, as you know, as you saw in the business results, there was some volatility 
+and we mentioned clearly that we were reassessing portfolio. We were reassessing areas we 
+wanted to operate as a part of that strategy in areas where we could exit commercially in 
+contracts we did wherever we didn't want to continue, we box that as a separate runoff portfolio 
+to execute and close. So, as a part of that, these provisions were heightened last year to represent 
+our commercial position on those contracts. This year as we move forward, we have more 
+business as usual and as an ongoing part of our governance and project and contract reviews, we 
+continue to assess our risk and as per the financial principle, if we see any risk, we will take 
+cognizance of that and record in the financial books, but that will be now business as usual versus 
+last year. 
+Ravi Menon: 
+Thanks, Rohit. Mohit, just broadly how should we think about any areas that you're thinking 
+about improving your win rate substantially because given the size of your portfolio, you need 
+to improve in a large segment or say material market segment, right. So, which segments would 
+you be looking at given that digital, it's not really early stage, right? And we are still probably 
+an early cycle, but credentials have been set already. Do you see any gaps for Tech Mahindra 
+possibly that given some tuck-in acquisitions can solve? 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 15 of 18 
+Mohit Joshi: 
+Sure. So, look, I think we are very focused on our win rate, especially for large deals. It is 
+something that we track very religiously, and the win rate is really a combination of what I keep 
+telling our teams is that our solutions have to be comprehensive, they need to cover the full 
+gamut of TechM capabilities. They need to be competitive from a pricing perspective, but most 
+importantly they need to be compelling, right? They need to tell a really powerful story like for 
+instance, the fact that we are the only large SI or we are the only SI to build a large language 
+model from an AI perspective. So, we are thinking about the win rate in exactly the same way 
+that you mentioned. I do feel very comfortable that we have a full range of service line 
+capabilities. We have a great set of clients in the sense if you look at the old MBT clients or the 
+old Satyam clients, we have a really good coverage of clients and we have a very good track 
+record with clients, right. The delivery capabilities and the delivery track record of TechM truly 
+has an exceptional overtime. We have a great talent pool as I mentioned in the question that 
+Rohit had been asked about the very experienced talent pool that we have. So, we have no reason 
+why we should not have an improved win rate. We are just being very systematic about it. We 
+are being very focused about it. We are very clear about the segment of the market that we want 
+to serve, which is the global 2000 companies. We are very clear about the service lines that we 
+have. We are very clear about the geographies where you want to play and we feel we have a 
+compelling strategic narrative and scale at speed. So, given all these, I fully expect our win rate 
+to tick up over time and a combination of an increased funnel and sort of an increased pipe and 
+an improved win rate should give us significant benefits over time. 
+Ravi Menon: 
+Thank you. One last thing, you talked about 1000 freshers being added, but when I look at the 
+utilization, both including and excluding freshers, the trainees seem to be the same. So, have 
+these trainees already been on boarded and deployed in the same quarter? 
+Rohit Anand: 
+They typically join at different points to quarter. The recent additions more towards the fag end. 
+So, that's why you probably don't see it. 
+Moderator: 
+Thank you. The next question is from the line of Dipesh from Emkay Global. Please go ahead. 
+Dipesh: 
+Yes, just two questions. From vertical perspective, one look at it, retail and logistics did fail 
+partly because of last quarter weakness. But if you can help us underlying trend perspective, any 
+changes you are witnessing because some of the peer indicated inflation related impact on the 
+sector and demand perspective, if you can give some sense around it? Second question is data 
+related about effective tax rate. If I look at the nature if you can give some color about how one 
+should expect it to trend. Thank you. 
+Rohit Anand: 
+Yes, maybe I'll take the tax rate first. And Mohit, you can talk about the retail, transport and 
+logistics vertical trend that we are seeing. So, on the tax rate, the effective tax rate for the quarter 
+was 26.6% and we clearly articulated our tax rate for the year should be in the range of 26% to 
+27% based on the structure we are in. So, there are quarterly variations based on different items, 
+but that's the normalized rate we should be in to expect. 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 16 of 18 
+Mohit Joshi: 
+And on the sort of retail CPG, travel, transportation, logistics vertical. Look, I think that this is 
+again a relatively small vertical for us, but we do have a good set of capabilities. So, I am quite 
+confident that this number will pick up over the coming quarters. There is no significant 
+underlying weakness in this vertical, but again it's a relatively small vertical for us. 
+Moderator: 
+Thank you. The next question comes from the line of Girish Pai from BOB Capital Markets. 
+Please go ahead. 
+Girish Pai: 
+The CrowdStrike incident, which happened recently, do you think that could lead to some kind 
+of shift with spending away from normal activity to maybe something focused on cybersecurity, 
+that's question number one. Second one of your peers, smaller peer talked about unexpected 
+furloughs in a certain sector Hi-Tech. Are you seeing something similar? The third question is 
+regarding segmental margins. IT segment seems to have seen a 600-basis point Q-o-Q 
+improvement in margin. So, can you just explain that? 
+Mohit Joshi: 
+So, I'll answer the first one and then I'll pass it back to Rohit, for the question on segmental 
+margins. So, look, I think as far as the CrowdStrike incident is concerned, cybersecurity has 
+always been a key focus area for our clients, and I don't see that changing. This was though, not 
+really a cybersecurity issue, this was an issue of a failure of the validation process and that is 
+why when I spoke about Verify, I mentioned that we feel strong validation and assurance 
+framework from an AI perspective is very important. The only impact that CrowdStrike really 
+had on us was a lot of our clients obviously had to spend money on remediation. There was a lot 
+of effort involved in reaching individual machines and making changes and wherever we were 
+providing these end user services or desktop services, clients were quite reliant on us and they 
+were very happy with the support that we had provided. To some degree it has helped us 
+strengthen and cement existing relationships. We were not using CrowdStrike ourselves, so we 
+were not impacted as a company. So, that's the first piece. On the Hi-Tech piece, yes, there are 
+one or two clients where there is an unseasonal furlough request, it is not material I think at this 
+stage and it is not widespread so I really won't call it out from our perspective. And then on the 
+margin question, let me pass you back to Rohit. 
+Rohit Anand: 
+This time we, as I mentioned, we have done a segmental change between IT and BPO. So, if you 
+look at the real performance on an IT perspective, we have increased quarter to quarter close to 
+the company level improvement and when you look at the numbers that you see on the segmental 
+financials are without the unallocated cost which is predominantly pertaining to IT and hence 
+when you contribute that you'll get a similar improvement and it's at a company level average 
+and not 600 basis points. 
+Moderator: 
+Thank you. The next question is from the line of Rahul Jain from Dolat Capital. Please go ahead. 
+Rahul Jain: 
+Yes, I think you were trying to address the question that was to ask. So, if you could clarify, 
+what exactly you were mentioning in terms of the reassignment because I see the reported IT 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 17 of 18 
+Solutions to be almost lowest level since 9 quarter. So, what could be the other attributes other 
+than the realignment that you just spoke about? 
+Rohit Anand: 
+Yes. So, as I mentioned, we were realigned certain portion of the business to BPS which better 
+drives the synergies between the business, right. So, that's why the baseline has changed. When 
+you look at our earnings and press release, we have shown the performance QoQ and YoY more 
+aligned to the re-casted numbers as comparatives. So, from that perspective, that's the way to 
+look at it. And as we go forward, this will be the baseline to compare from a performance 
+standpoint, so that's a change we have had. As I mentioned, if you look at QoQ, the overall 
+absolute increase in revenue is 11,000,000 and half of it is driven by BPS on a comparable basis 
+and the other half by IT. 
+Rahul Jain: 
+Right. And just on this marginal recovery kind of thought process that we have. Is there a certain 
+base growth assumption that is required for us to be in that zone because the clarity on the macro 
+is not as obvious as one would like to have. 
+Rohit Anand: 
+I think look on the margin side, what we have said and I mentioned this in my response to cover 
+just now as well that we will prioritize margin over revenue. So, to that degree we are quite 
+focused. We do feel we have a significant number of levers to pull even in a flat demand 
+environment and also the margin goal that we have given is a three-year goal right from an FY27 
+perspective, we have not given a goal specifically for FY25. Having said that, we are quite 
+comfortable that we have enough levers to push in our existing portfolio to show an improvement 
+in margin and we have already demonstrated it this quarter. 
+Moderator: 
+Thank you. The next question is from the line of Manik Taneja from Axis Capital. Please go 
+ahead. 
+Manik Taneja: 
+While you've alluded to the focus in terms of deprioritizing some certain low margin or low 
+margin parts of the business, but if you could help us understand with regards to the client 
+metrics, we have seen a decline in terms of number of active clients and number of $1 million 
+plus customers over the course of last several quarters. How much of this reprioritization 
+essentially is reflecting in terms of the revenue drop that we see in the business? 
+Rohit Anand: 
+The reprioritization of the deprioritization of customers has almost no revenue impact. Wherever 
+we have deprioritized accounts, it is because either from a geographic perspective or from a size 
+and attractiveness perspective, which really refers to the IT spend, they're not attractive to us, 
+but most of these are very marginal customers. So, we do not expect our pruning and shaping of 
+our portfolio to result in a revenue attrition. 
+Moderator: 
+Thank you. Ladies and gentlemen, we will take that as our last question for today. I would now 
+like to hand the conference over to the management for closing comments. Over to you. 
+
+ 
+Tech Mahindra Limited 
+ 
+July 25, 2024 
+ 
+ 
+Page 18 of 18 
+Rohit Anand: 
+Thank you again, thank you all for making time for us today. We feel happy with the good start 
+that we have had to the quarter. This is still very early stages in our transformation and our 
+renewal journey. But I feel very confident that with the team that we have and with the support 
+that we have from all of you, our clients and our teams that we will make good progress. Thank 
+you again. 
+Moderator: 
+Thank you. On behalf of Tech Mahindra Limited, that concludes this conference. Thank you all 
+for joining us. You may now disconnect your lines. 

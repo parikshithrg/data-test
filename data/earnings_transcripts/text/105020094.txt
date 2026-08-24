@@ -1,0 +1,994 @@
+routemobile 
+communication simplified 
+Registered Office: 
+Route Mobile Limited 
+4th Dimension, 3i0 floor, Mind Space, Malad (West), 
+Mumbai - 400 064, India 
++91 22 4033 7676/77-99 I Fax: +91 22 4033 7650 
+info@routemobile.com I www.routemobile.com 
+CIN No: U72900MH2004PLC146323 
+ 
+ 
+ 
+Ref No: RML/2020-21/114 
+ 
+Date: August 3, 2021 
+ 
+To,   
+BSE Limited                                         
+          National Stock Exchange of India Limited 
+Scrip Code: 543228 
+ 
+                          NSE Symbol: ROUTE 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Earnings Call Transcript – Q1 FY22 
+ 
+We are enclosing herewith copy of the transcript of the Company’s Q1 FY22 earnings conference call dated July 
+28, 2021. The transcript is also available on the Company’s website i.e. www.routemobile.com under the 
+Investors section.  
+ 
+You are requested to take the above information on record. 
+ 
+Thanking you, 
+Yours faithfully, 
+For Route Mobile Limited 
+ 
+ 
+ 
+________________________________ 
+Rathindra Das 
+Head Legal, Company Secretary & Compliance Officer 
+ 
+Encl: as above 
+ 
+RATHIND
+RA DAS
+Digitally signed by 
+RATHINDRA DAS 
+Date: 2021.08.03 
+18:29:51 +05'30'
+
+routemobile 
+communication simplified 
+routemobile 
+communication simplified 
+ICICI Securities 
+ 
+ 
+Page 1 of 19 
+ 
+ 
+ 
+“Route Mobile Limited Q1 FY-22 Earnings Conference 
+Call” 
+ 
+July 28, 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: MR. RAJDIP GUPTA - MANAGING DIRECTOR & GROUP 
+CHIEF EXECUTIVE OFFICER, ROUTE MOBILE LIMITED 
+MR. GAUTAM BADALIA - CHIEF STRATEGY OFFICER, 
+ROUTE MOBILE LIMITED 
+MR. SURESH JANKAR - CHIEF FINANCIAL OFFICER, 
+ROUTE MOBILE LIMITED 
+MR. JOHN OWEN - CHIEF EXECUTIVE OFFICER, 
+EUROPE & AMERICA, ROUTE MOBILE LIMITED 
+MR. MILIND PATHAK - CHIEF BUSINESS OFFICER, 
+ROUTE MOBILE LIMITED 
+MODERATOR: 
+MR. HARDIK SANGANI - ICICI SECURITIES LIMITED 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 2 of 19 
+Moderator: 
+Ladies and gentlemen, good day and welcome to the Q1 FY 22 earnings conference call of Route 
+Mobile hosted by ICICI Securities Limited. As a reminder, all participants' lines will be in listen 
+only mode, and there will be an opportunity for you to ask questions after the presentation 
+concludes. Should you need assistance during the call, please signal an operator by pressing '*' 
+then '0' on your touchtone phone. Please note that this conference is being recorded. I now hand 
+the conference over to Mr. Hardik Sangani from ICICI Securities. Thank you and over to you, 
+sir. 
+Hardik Sangani: 
+I would like to welcome everyone to Route Mobile Q1 FY22 earnings conference call. I would 
+like to thank the management of Route Mobile for giving us the opportunity for hosting their Q1 
+earnings call. We have with us the leadership team of Route Mobile, Mr. Rajdip Gupta - 
+Managing Director & Group CEO; Mr. Gautam Badalia - Chief Strategy Officer; Mr. Suresh 
+Jankar - Chief Financial Officer; Mr. John Owen - CEO, Europe & America and Mr. Milind 
+Pathak - Chief Business Officer. 
+Before we begin, I would like to remind you that some of the statements made in today's earnings 
+call may be forward looking in nature and may involve certain risks and uncertainties. Kindly 
+refer to the slide number two of the presentation for detailed disclaimer. I will now hand over 
+the call to Mr. Rajdip sir for further proceedings. Thank you and over to you, Rajdip. 
+Rajdip Gupta: 
+Thanks, Hardik. Good evening, everyone. I hope everyone is safe and sound. We are happy to 
+be back to discuss our Q1 earnings with all of you and carry on the momentum with which we 
+ended last fiscal year.  
+While we have been working in the new normal and hybrid mode of operation, most of our staff 
+returned to the office from first of July. We have accelerated several operational tasks since the 
+time we started working from office. 
+In this last quarter, while our performance has been strong, we had adverse impact of in April 
+due to DLT teething issue faced by enterprises and the slower pace due to the second wave. We 
+also had a reduction in banking traffic due to some frivolous claim of security breach. After 
+through internal investigation and third-party audit by certain empaneled auditor confirmed that 
+there was no data breach or security issue. 
+The banking traffic has resumed and we are on track. On our key initiative, in the last several 
+weeks has been enhancing and ramping up our security practices. In today's environment where 
+there are routine data breaches some real and some frivolous, it is paramount that we protect our 
+customer data better than ever before. 
+And we have made and taken some significant enhancement to that end, as you will see in our 
+presentation little bit later. Now during our last call, I spoke about our transition from CPaaS to 
+CXPaaS. And that too and we acquired an email stack from Sarv during the last quarter as a part 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 3 of 19 
+of our omni channel strategy. We are very bullish on email services. That is SendClean as a part 
+of our CPaaS stack and are building a separate SBU for it. 
+We intend to invest approximately $12 million over next three years to create a world class email 
+platform and scale our email business across the globe in both enterprise and self-served format. 
+Additionally, one particular channel in our stack, RCS is gaining significant ground with 
+enterprise adoption and RML has been widely acknowledged by various stakeholders within this 
+ecosystem. 
+This will be a key component of our services as the industry progresses. I am also excited to tell 
+you that we are launching our first developer self-served platform under our flagship branding 
+called as Rapid. This initiative has originated around two years back, but we had to put this on 
+a back burner due to the pandemic. In Q2 FY22 we are getting ready to launch and open up the 
+worldwide developer community and access to our API to further strengthen our reach. 
+Our operator side of the business continues to witness strong momentum as well. On the firewall 
+front, we have gone live with BSNL India, Novotel Bolivia, Liberty Mobile LATAM. We are 
+also received an LOI from Pico Tanzania. On SMSC front, we deployed our SMSC at BSNL 
+and renewed our SMSC contract with Telenor Myanmar, Ericsson Myanmar and Vodafone Idea. 
+We are also deployed a first of its kind hubbing solution with Du Telecom in UAE. RML will 
+manage the entire platform and services for Du Telecom and enable them to serve their enterprise 
+clients with the same simple and effective platform we operate. Before I hand over this call to 
+Gautam, I would like to highlight one note concerning the acquisition of Phonon 
+Communications we have discussed in the last call. 
+Due to the non fulfilment of all the conditions precedents by Phonon, we have decided not to 
+pursue this acquisition further. We have been in discussion with the team and push to complete 
+the transaction. However, due to delay and lack of positive action from their part, we have 
+decided to move on. With these, I request Gautam and the team to walk us through the 
+presentation. Over to you, Gautam. 
+Gautam Badalia: 
+Thank you, Rajdip. Good evening, everyone. Hope you and your family are safe and fine. We 
+have already uploaded our quarterly earnings presentation along with our email business 
+roadmap strategy on our website, as well as on the stock exchange websites. Hope you had a 
+chance to go through the presentation. 
+I will quickly summarize our financial performance during the quarter gone by before opening 
+the floor for any Q&A. The key takeaway from our financial performance in Q1 FY22 has been 
+the strong revenue momentum that we have been driving despite Q1 not being the best quarter 
+in terms of seasonality, as highlighted in slide 17 of the earnings presentation. Further, as 
+highlighted by Rajdip, our volumes in India were impacted largely due to two factors. 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 4 of 19 
+Industry wide impact on volumes in India during the month of April 2021 owing to the teething 
+DLT issues faced by enterprises. Then there was an alleged data breach on our servers. We 
+conducted an independent third-party security audit. And this is their findings it was concluded 
+that there was no breach on our servers and all our customers' data are secure. However, some 
+of our large banking customers wanted the third-party security audit reports before resuming the 
+traffic. This adversely impacted our high margin banking traffic in India during the month of 
+April. 
+However, as a matter of reassurance as things stand completely normal now. We have resumed 
+most of the banking traffic that we had lost during the month of April. Despite the adverse impact 
+on our India business, we were able to demonstrate a YoY revenue growth of 22%. We continue 
+to witness very strong momentum on the next generation products, which demonstrated a YoY 
+growth of 130%, you may refer to slide 19 for the same. 
+As Rajdip highlighted as part of our omnichannel strategy, we acquired the email platform from 
+Sarv during the last quarter and have created a separate strategic business unit branded as 
+SendClean to drive this vertical. We intend to ramp up the current team from 10 employees to 
+over 100 employees in a year's time. The business would be driven from two geographies 
+essentially US and India. In terms of the email infrastructure, it is already deployed at US, 
+Germany and India. The Indian servers are being upgraded at this point in time. And we further 
+intend to deploy new servers in Middle East to cater to the enterprises where we are deeply 
+entrenched at this point in time. 
+In terms of capital allocation, we will be investing $12 million in SendClean, the US entity over 
+the next three years to scale up the business. And we aspire to generate revenues of $30 million 
+in the three years' timeframe. And as all of us are aware email business entails very high gross 
+margins, so this business will drive gross margins northwards of 80%. With this backdrop, I will 
+quickly walk you through our financial performance in Q1 FY22. Revenue from operations grew 
+by 22% from Rs. 3,096 million in Q1 FY21 to Rs. 3,775 million in Q1 FY22. 
+ 
+In the quarter gone by, billable transactions decreased from 6.96 billion in Q1 FY21 and 8.76 
+billion in Q4 FY21 to 6.86 billion in Q1 FY 22. Due to reasons mentioned above, the billable 
+transaction volumes in India decreased from 4.8 billion in Q1 FY21 and 6.78 billion in Q4 FY21 
+through 4.75 billion in Q1 FY22. 
+This actually resulted in India's revenue as a percentage of total revenue decreased from 43% in 
+Q4 FY21 to 33% in Q1 FY22. I would just want to highlight, I think things are back to normal 
+now and July would be I mean, this is the daily revenue run rate that we are cloaking. July would 
+be the best month in the history of Route Mobile in terms of the performance. 
+Average realization per billable transaction increased significantly from Rs. 0.45 Q1 FY21 and 
+Rs. 0.41 in Q4 FY21 to Rs. 0.55 in Q1 FY22 owing to the fall in the volume processed in India 
+and change in country mix. Gross profit margin expanded from 19.4% in Q1 FY21 to 20.4% in 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 5 of 19 
+Q1 FY22. There was a significant increase in the employee cost on a YoY basis, which was to 
+the tune of 50%. And as we have been highlighting, we have been investing into hiring the right 
+skill sets to drive various avenues of our business, essentially the new products. 
+So, the employee cost had increased from Rs. 130 million in Q1 FY21 to Rs. 196 million in Q1 
+FY22. EBITDA grew by 23.6% from Rs. 398 million in Q1 FY21 to Rs. 491 million in Q1 
+FY22. EBITDA margin expanded from 12.8% in Q1 FY21 to 13% in Q1 FY22. Adjusted profit 
+for tax grew by 28.2% from Rs. 295 million in Q1 FY21 to Rs. 377 million in Q1 FY22. Adjusted 
+PAT margin expanded from 9.5% to 10% for the same period. We have been able to maintain 
+attrition rates in the vicinity of 10%. Yes, with these highlights, we open the floor for Q&A. 
+Moderator: 
+Thank you very much. We will now begin the question-and-answer session. The first question 
+is from the line of Hardik Sangani from ICICI Securities. Please go ahead. 
+Hardik Sangani: 
+Sir, a couple of questions. So, in terms of SendClean, so just wanted to understand, like what 
+would be the key market for the product and how, what would be the go to market strategy or 
+towards that? And secondly, in terms of client addition. So, just wanted to understand. 
+So, in terms of $1 million client addition that has been won for FY22, we expect that we will 
+add $1 million client. So just wanted to check, it is the, so as the year end, are we hopeful that 
+we will be adding, like, to the extent we would have added before in previous year? 
+And thirdly, so just wanted to understand if the average realizations have improved, then the key 
+reason for gross margin decline is primarily on account of as you mentioned earlier account mix 
+or are there any one off also towards that? 
+Gautam Badalia:  
+Sure, so I will request Milind to take new product. 
+Milind Pathak: 
+I will try and answer the question on the SendClean strategy in go to market. So, as Rajdip and 
+Gautam mentioned SendClean has both the approaches of the market. One is the self-serve 
+model, which is you come on the platform, register yourself, put your debit credit card and then 
+go on to pay for whatever service that you buy from SendClean. 
+The second model is an enterprise model. So, we are activating both the models simultaneously. 
+The target markets to start up will be predominantly in India, which will run through SendClean 
+Private Limited. And the second market we are registering is SendClean Inc, which we have 
+registered a company in US. And that entity will focus on all our self-serve as well as 
+geographies like US or English-speaking Europe, and that kind of areas, right. 
+So that is the core go to market and the focus on the markets that we are talking about right now. 
+Gautam for the other question. 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 6 of 19 
+Gautam Badalia: 
+Sure. So, I think if I have understood your query on the land and expand strategy you were 
+talking about, so this year again, I mean, we will see significant additions definitely to the $1 
+million bracket. There are some good clients that we have added and they have tremendous 
+potential in terms of scale up. 
+So, we will see lot of clients kind of moving into the million-dollar bracket and then graduating 
+the higher billing brackets. I do not know if that addresses your query. 
+Rajdip Gupta: 
+Just to add, Gautam, Rajdip here, Hardik. I think just wanted to give small brief about the email 
+stack which we have acquired. I think the email stack is already proven in Indian market. And 
+the current setup is doing almost a billion email every month. And we are very hopeful that the 
+same platform, which we have right now can easily compete with companies like SendGrid, 
+Sendinblue or SparkPost. 
+Because the kind of infra and the kind of technology the Send Clean has built, as the capability 
+of going and competing with those giants based out of US, and we as a company are very bullish 
+and focused that this is the target area for us. 
+Gautam Badalia: 
+Sure. Moving to your last query around gross margins. So, on the gross margin front, I think the 
+sheer loss of business from high margin enterprise clients in India, during the month of April, 
+actually kind of led to some contraction in gross margins. But if you look at it from an overall 
+split perspective, as I said, India where we do a significant amount of enterprise business that 
+has fallen from 43% in Q4 FY21 to 33% now. 
+So that is one reason why there was some contraction. But having said that, the rest of the 
+geographies outside of India, we have been able to demonstrate almost a 25% growth. And it 
+was sheerly India which kind of had almost a 21% degrowth on a QoQ basis, which actually led 
+to otherwise, I mean, we would have cloaked significantly higher growth rates even on revenue 
+front. 
+But largely it was because of the high margin enterprise traffic, which had fallen during the 
+month of March that led to some contraction on the EBITDA margin, but things are back to 
+normal now. 
+Rajdip Gupta: 
+Just to add, Hardik, I think that this is the best part about Route Mobile. So, we are not dependent 
+on just one single market. We as a company, we are having a footprint all across the globe, even 
+if we see as some kind of downfall one particular market, it will not impact overall the revenue 
+of Route Mobile and that is why we are very unique when we talk about as a CPaaS player in 
+Asia. 
+And because if there is a certain issues in certain market that will not going to impact my overall 
+revenue. And that is the kind of thing we have proven in last quarter. 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 7 of 19 
+Moderator: 
+Thank you. The next question is from the line of Manish Poddar from Nippon India AIF. Please 
+go ahead. 
+Manish Poddar: 
+Just one question on this email business. So, what sort of cost built up will be there other than 
+this let us say from an Opex point of view? 
+Rajdip Gupta: 
+Good question, Manish. I think the cost for us is I think the technology and the stack is already 
+there. You have to see the entire cost in two parts. One is the human cost. And another one is 
+the marketing cost. You know, we need to have more people in terms of support and technology 
+and other side than marketing is, which we need. Apart from I think the technologists we will 
+find and that is the only cost we see. 
+Manish Poddar: 
+Would it would it be fair, let us say even if I take, you know, salary of the 100 employees of 
+company average and billing done let us say 20% odd marketing spend in three years, this 
+business can be having EBITDA margin of  north of 50%? 
+Gautam Badalia: 
+So, Manish, just to take that another query. So, we internally have kind of modeled around a 
+35% EBITDA margin. 
+ 
+So, for the investment that we are doing in terms of the $12 million so with that kind of EBITDA 
+margin, I think we should be able to kind of get a payback in three years' time. 
+Manish Poddar: 
+And sorry, just once one small query. So, this 100 people we are adding this will be what largely 
+feet on ground or tele callers or, you know, just wanted to understand because 100 in terms of 
+our company size is let us say on a 400 it is 100 so it is 25% so just want to understand what sort 
+of capabilities are we adding here? 
+Milind Pathak: 
+So, if you look at this size of the business, Manish, large part of our business is also going to be 
+on self-serve. So, when you look at a self-serve kind of a platform, sometimes the ticket size of 
+the customers could be $200 or $500 or $1,000 or lower ticket size, and there typically the people 
+required are in terms of remote account management, remote provisioning people, remote 
+support people and so on and so forth. 
+And when you start providing that service across the globe, in multiple geographies, you need 
+to then manage shifts, and you would also need to manage 24x7 and so on and so forth, right. 
+So, a large part of our hiring would be on technology product enhancement features, engineering 
+side. And the second part would be on advertising marketing. And the third part would be these 
+account management operations, support sales, etc. 
+John Owen: 
+I think, Manish, if I try and help to answer this, this will come from the working capital, so it 
+will align to revenue. This is not some cost and fixed cost. 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 8 of 19 
+Moderator: 
+Thank you. The next question is from the line of Vimal Gohil from Union Asset Management. 
+Please go ahead. 
+Vimal Gohil: 
+My question is an extension to the previous question. You said, sorry, I missed the number. You 
+said that the amount of investment that you are making in this business is close to $12 million, 
+right? 
+Gautam Badalia: 
+Over three years. That is right. 
+Vimal Gohil: 
+Over three years, this will be a $12 million business and with a 35% EBITDA margin? 
+Gautam Badalia: 
+Over three years, the investment will be $12 million. Three years revenue expectation is $30 
+million. 
+Vimal Gohil: 
+Okay, so you will be adding $30 million to your and this business will be a part of the new 
+business that you report? 
+Gautam Badalia: 
+That is correct. 
+Vimal Gohil: 
+And just wanted to confirm Gautam, you can give me that number. So, you said 21% degrowth 
+in India. This was volume, right? 
+Gautam Badalia: 
+One second. Yeah, that is correct. 
+Vimal Gohil: 
+And so, excluding India, what would be our volume growth on a quarter-on-quarter basis and 
+YoY basis? 
+Gautam Badalia: 
+25%. 
+Vimal Gohil: 
+This is 25% YoY? 
+Gautam Badalia: 
+On a QoQ basis. 
+Vimal Gohil: 
+So QoQ basis, there would have been a 25% growth? 
+Gautam Badalia: 
+That is correct. 
+Vimal Gohil: 
+Okay, right. And sir, I know the quantum would be very small, but what could be the revenue 
+from the call center business now? So, is it almost nil or is there some revenue coming to that? 
+Gautam Badalia: 
+So, Rs. 7.5 crores for the quarter. Rs. 7.3 crores for the quarter. 
+Vimal Gohil: 
+And you expect this revenue to be in this run rate only, right? 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 9 of 19 
+Gautam Badalia: 
+Yes, that is the run rate. 
+Vimal Gohil: 
+And certain, you said that, you know, the going forward I mean, how do you expect the pricing 
+because, clearly, your pricing has moved up quite sharply. And over the last few quarters, pricing 
+has been the lever, which has driven growth? And I am not sure if you have received coupon led 
+pricing increases by your clients, but it has been more of mix that has led to that. So how 
+sustainable is this Rs. 0.55 pricing going forward? How would you look at that? 
+Gautam Badalia: 
+It should be in the vicinity of Rs. 0.50 to Rs. 0.55. I think that is what we are guiding for this 
+year. 
+Moderator: 
+Thank you. The next question is from the line of Manik Taneja from JM financial. Please go 
+ahead. 
+Manik Taneja: 
+So, while I understand the impact on India volumes, because of a couple of factors, just wanting 
+to understand what drove the decline on the new product revenue, because that is on a very small 
+base and we are seeing increased acceptance of the new medium? That is question number one. 
+And the second aspect is on the Phonon acquisition, if you could talk in detail about what led to 
+us moving off the acquisition and how should now be thinking about the way forward in terms 
+of building our capabilities across multiple channels? 
+Gautam Badalia: 
+Sure. So, in terms of new products, right, I think this, we are also grappling with the second 
+wave, and there is an amount of sales in terms of enterprise business. YoY basis if you were to 
+look at it, I mean we demonstrated almost 2x jump over last period. I mean we have not lost a 
+single client on the new products.  On QoQ basis, that is more to do with the seasonal aspect of 
+the business rather than I mean we losing clients so to say. 
+ 
+So Manik, I think you had a query on Phonon as well, right. So, Phonon, I mean, when we signed 
+the deal, I mean, there was an expectation of kind of doing the customary condition precedents 
+and closing the deal. Unfortunately, I mean, the other side kept kind of extending the long stop 
+date, without giving any firm commitment. 
+So, beyond a point in time, I mean, we kept using that particular, the founders of Phonon. But 
+since we were not getting any definitive, concrete feedback from him, I mean, we discussed it 
+at our board meeting today and decided to kind of take our firm view and to take a concrete 
+action on this, because it was kind of, I mean, we were perpetually chasing that guy to kind of 
+close the customary closing action. But I do not know, I mean, if there was a change of mind at 
+that guy's end. So, that was the long and short. I mean, there was nothing else beyond that. 
+Manik Taneja: 
+Okay, and how should we be thinking about because Phonon was a critical pie in terms of both 
+giving us access to certain marquee customers on the travel and the financial services side, in 
+addition to providing adding to our voice capabilities, and thereby meeting our omnichannel 
+capabilities. So how should we be thinking about that pursuit now? 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 10 of 19 
+Milind Pathak: 
+So, I will answer this in two aspects. One, the customer access element, and the second element 
+is the product stack level. At a product stack level, we continue to work on. And we are 
+continuously onboarding customers on voice, inbound voice, outbound voice clients, quarter-
+on-quarter. We do have a stack to that effect. Of course, there are some elements in the product 
+roadmap, which brings us about a 60 day or 90-day kind of delay. 
+But I think that from our customer experience perspective is not changing much we are actively 
+in that development phase there. So, technology stack, I am not much worried, we are confident 
+we will be able to meet the market requirements. 
+The second element is in terms of customer accesses. Some customer accesses on banking, were 
+always an overlap, may not have had a specific contact center technology as a product revenue 
+stream. But as far as the customer is concerned, they were all customers barring maybe one or 
+two, they all had an overlap and had some of the other product of ours already deployed at the 
+customers. So, for us customer is not really too much of a challenge. That is already well taken 
+care of. 
+Moderator: 
+Thank you. The next question is from Pranav Kshatriya from Edelweiss. Please go ahead. 
+Pranav Kshatriya: 
+My first question is regarding this SendClean. Most of them are answered but just want to 
+understand what are the key things one should be watching for? Would you be sharing any 
+numbers on the number of enterprises or the revenue separately for this? Because I do think that 
+incrementally it will contribute significantly to the gross profit and EBITDA? 
+And second question is, you know, very interesting to see almost 300 plus million quarterly RCS 
+messages. Wanted to understand what are the dynamics in the sense the unit economics here 
+how much revenue per message and which are the geographies which are contributing to these 
+numbers? 
+Milind Pathak: 
+Thanks for this question. First, let me take the email one. I think as you know we just completed 
+the transaction last quarter and right now we are into the process of putting up parameters KPIs 
+and after that of course. And I think in our regular governance calls on a quarterly basis, we will 
+update across Gautam can update more on that. 
+On the second question on RCS. Very valid question. We have been able to bring an onboard 
+more than 10 clients who are actively using that as a channel. At this point in time RCS is a 
+channel is not a very charged channel so we are doing it more like no cost to the customer at this 
+point in time. And we are expecting that from next quarter onwards, we should actively start 
+monetizing this. 
+The pricing at an ecosystem level between the operator the technology provider is being worked 
+out. We have some indicative numbers on it, but I think it is a bit early for us to comment on it. 
+Once the ecosystem decides the broader pricing on it. It is a solid start. The third answer the 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 11 of 19 
+third element in this particular part is that the current focus of RCS that we are doing is of course, 
+India. We are also of course; our platform and solution are deployable globally. But the 
+aggression that India is picking up on RCS is really, really unheard of. And as a reason, we are 
+very, very exceptionally proud to present this kind of a huge, massive traffic in a span of a quarter 
+pushing 300 odd million messages is brilliant from an adoption perspective. 
+Pranav Kshatriya: 
+So, it is indeed brilliant. But you know, what I am trying to understand is that, you know, let us 
+say currently, if I look at the blended pricing, or let us say you know, international SMS pricing, 
+let us say around Rs. 1 or domestic pricing is around, you know, Rs. 0.12 or so, RCS would be 
+priced significantly and possibly we should have a gross margin which are much higher. 
+So, to that effect, I think, if we are talking about this becoming chargeable, it could be a 
+significant numbers from you know from let us say two quarters out? 
+Milind Pathak: 
+Yes, so I will give an indication. The cycle is not yet finalized as I said in the question. But I can 
+give you an indication. Our initial feel from the ecosystem is that it will be between the pricing. 
+So, an SMS in India, I am just giving an India example. SMS in India, let us assume is at Rs. 
+0.12 and say a WhatsApp is about Rs. 0.30 to Rs. 0.33. 
+Our belief is that the ecosystem will price RCS somewhere between these two price ranges. I do 
+not think it will go beyond WhatsApp and I do not think it will be as low as SMS. It will be 
+somewhere in the middle. Now it is for the operator and the ecosystem players to generally 
+define and set a benchmark pricing and then roll it out commercially. You are right that the 
+pricing will be better than the current SMS channel. Your assessment on that is correct. 
+Pranav Kshatriya: 
+And if I look at from the gross margin perspective, should we expect you know 20%, 21% kind 
+of a blended gross margin or it should be much higher than that, given it some more value add? 
+Milind Pathak: 
+So generally, our expectation across newer products, which we have already said in our previous 
+calls also, that generally the new generation product should have a higher gross margin, upwards 
+of 30%, upwards of 35% to 40%. We believe that as the market matures, and as the customer 
+starts getting used to the benefit of RCS and seeing it on a slightly different methodology, in an 
+SMS inbox, we believe we should be able to stabilize and maintain our 35% to 40% gross margin 
+business for even RCS as a channel. 
+Rajdip Gupta: 
+Rajdip here. Just wanted to add out here, you know, if you see the RCS ecosystem was within 
+the operator ecosystem. And operator definitely is losing some kind of revenue because of 
+WhatsApp, you know, and they are definitely going to promote this as the more communication 
+channel before two-way communication channel for enterprises and they will definitely come 
+with a pricing which is definitely going to lower than WhatsApp for sure. 
+But the biggest advantage we are going to see from RCS, I think the from SMS 1.0, which is 
+impression to conversation, this is exactly what is going to happen with RCS. I think people will 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 12 of 19 
+not prefer to use WhatsApp if they get the same facility within their SMS inbox. And that is why 
+I think the potential of RCS in India or other markets are huge. 
+And the adoption by operators in India is completed and we see almost all the operator apart 
+from BSNL have deployed the platform and we do see acceptance from the customer end also 
+to start using RCS. 
+John Owen: 
+Rajdip, from an international perspective, it is the same model the carriers want to take that 
+traffic onto their network because they have got revenue leakage at the moment. So, there is a 
+massive drive to RCS by every mobile operator. 
+Pranav Kshatriya: 
+Sure, very interesting. And thank you for the answers. Just one last question. Early days, but can 
+you comment how much would be market share of your in RCS currently is because 310 million 
+to me looks like a very strong number? 
+Rajdip Gupta: 
+Just to share with you, I think I do not have an actual number. But based on some data from 
+partners, I think we are the highest sending platform in India as of today. 
+Pranav Kshatriya: 
+Very interesting. Thank you. 
+Gautam Badalia: 
+We have also been acknowledged by me mean, some of the stakeholders in the RCS ecosystem, 
+and which is a validation of the kinds of efforts that we have put. And now we are increasingly 
+witnessing demand from large enterprise to say RCS, which I think sooner than later it will see 
+the light of the day in terms of monetization. 
+Milind Pathak: 
+In fact, to just add one more point. And what is making all of us at group very upbeat is one of 
+the highest traffic days for us has been upwards of 10 million messages delivered in one day, 
+which is huge from an RCS deployment perspective. And what we hear from that it is not only 
+one of the biggest in India, but even from a global benchmark perspective, when I look at certain 
+community forums on which we are partners and active propagators of RCS, when we tell this 
+number, we have seen people drop their jaws there in terms of the volume that have seen on a 
+day are there. 
+So, I think very, very exciting trends. And we hope to continue this trend on RCS as it goes 
+forward. 
+Moderator: 
+Thank you. The next question is from the line of Mohan Kumar from JM Financial. Please go 
+ahead. 
+Mohan Kumar: 
+Thanks for question. So, I want to check regarding the Rapid announcement that you have 
+recently made. So, is that going to be more of an open-source setup that is something similar to 
+what Twilio does in the US? And how much of a growth can we expect coming from this? And 
+would this be like a high margin business? 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 13 of 19 
+Rajdip Gupta: 
+Yes, I think Milind, let me start and then probably you can add to this. 
+Milind Pathak: 
+Sure. 
+Rajdip Gupta: 
+We as a company are always developer friendly. You know, like, whenever we built our APIs, 
+we always wanted to make sure we will launch our developer API program. And this whole idea 
+we curated; I think two years back. And now we, since I think the things are getting better, and 
+we are in a position where all our APIs can be thrown away for developers to build something 
+great out of our APIs. We are launching some kind of a hackathon for a global developer, where 
+we are also going to open all our APIs, including SMS, email, WhatsApp, RCS, whatever we 
+have. 
+If you go to our website called as developer.routemobile.com and I think we have already opened 
+our APIs for people to go and test over a postman. So yes, Milind, if you can just add to this? 
+Milind Pathak: 
+I think, Rajdip is a very apt, the first phase of Rapid is a hackathon, which will start and it is a 
+global initiative. We are also partnering with a third-party player to help us organize and ensure 
+that that hackathon is done. And mind you, we are right now still in COVID across India and the 
+world. So, these are not the days where we will get 100, 500, 1000 people under one roof and 
+then create a whole event. 
+We have to do all of it virtually. So, the logistics in our business are quite heavy, because we are 
+deploying a global project, with a lot of awards and prize wins there for developers to actually 
+develop solid used cases on that API. So, it is an initiative and a program. Aspirationally, you 
+are right, Rapid will continue to focus as one independent unit and an independent revenue line 
+for us as it goes forward. So, we have developer as one revenue line, we have enterprise another 
+line, we have operators as another revenue line, and so on and so forth. 
+So yes, going forward it will be a strong revenue driver as it goes across. 
+Mohan Kumar: 
+Thank you. And my second question will be so you mentioned that July was probably the best 
+month that you had so far, it was a record month. So, despite having one off effects in the last 
+quarter, you still managed to deliver 20% plus growth and your guidance earlier in the year was 
+20% to 25%. Can we assume that you would comfortably be able to announce this year's 
+numbers well ahead of 25%? 
+Gautam Badalia: 
+So, Mohan, we will reserve this comment, I think we will kind of wait for the next quarter 
+performance to come in. And at that point in time, need be we will look at giving some comments 
+around the guidance. At this point in time 20%, 25%, I think looks doable. 
+Mohan Kumar: 
+Got it. And just one quick follow up on that. So, can you give us some kind of guidance on what 
+the volumes in July were like, versus probably an average within 4Q of last year? 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 14 of 19 
+Rajdip Gupta: 
+This is not the actual count, but we do see a growth for sure.  
+Just to add to your question. I think probably if you see the last financial year, Q3 for us is always 
+the best quarter as compared to any quarters, right? But we have achieved the same numbers as 
+compared to the last Q3 of last year. So, in terms of growth, and from now on, I think we do see 
+the growth, but whatever the guidance we are giving we will definitely achieve it. And probably 
+based on our Q2 numbers, we will see how we can give better guidance, if possible. 
+Mohan Kumar: 
+Sure, no sounds good. I do not want to put additional pressure on them. So, there are plenty of 
+people already helping down like on this front. 
+Moderator: 
+Thank you. The next question is from Keshav Lahoti from Antique Stock Broking. Please go 
+ahead. 
+Keshav Lahoti: 
+Sir, I want to understand your quarterly run rate have been something like Rs. 10 crores for the 
+new product sales. So how should we see this going forward? 
+Gautam Badalia: 
+So, we continue to invest on the new product side. And we will so I think the historically the 
+kind of growth rate that we have been demonstrating on the new product side on a quarter-on-
+quarter basis we will continue to do that. So, there are some seasonality aspects, which needs to 
+be factored in. But besides that, I mean the focus on the email business where we have kind of 
+devised a separate strategic business unit, we are kind of channelizing everything through 
+separate entities SendClean US and SendClean India. 
+So, there we have already committed a $12 million investment over the next three years. There 
+are new products, which will get rolled out very soon. Rapid will start I mean, this quarter, I 
+think we will go live with our Rapid program as well. 
+So, a lot of these things will definitely augur well for the new products. And this year, as I think 
+we have highlighted, we intend to kind of clock close to $10 billion in terms of the new product 
+revenue. 
+Keshav Lahoti: 
+As you highlighted this quarter, you know, due to sort of breach of banking the gross margin has 
+dropped a bit. So, is it fair to assume in the next quarter, your gross margin would be similar like 
+what we have achieved in 4Q? 
+Gautam Badalia: 
+Yes, it should be. So, I mean, I will just give you a directional perspective on this. So, if you 
+look at India standalone, I think we have done about 23% gross margin, despite that significant 
+drop in volumes. So now if we were to kind of get that volume back, which we have already got 
+it, by the way right now. So, it will definitely pull the gross margins northwards of the 20.4% 
+that we have reported for the quarter. 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 15 of 19 
+Keshav Lahoti: 
+Okay, last question from my side. From last three years, your client concentration of top 5 have 
+been somewhere around 45%. So, directionally going forward, how should we see this number? 
+Gautam Badalia: 
+So, I think there is some amount of some degree of diversification that has happened, I mean, 
+the top client, if you look at it right now, from quarterly perspective, I think it has come off a tad 
+lower than what it was in FY20. So, there is something about diversification and there are some 
+big client wins that we have done and some of them have. In fact, one of them has already come 
+into the top 15 enterprise bracket. And we believe I think that client has the potential to be in the 
+bracket of $10 million to $15 million. So gradually, we will see some of these new clients leading 
+to some amount of client diversification. 
+Moderator: 
+Thank you. The next question is from the line of Hiren Dasani from Goldman Sachs. Please go 
+ahead. 
+Hiren Dasani: 
+Can you maybe recap why there is a QoQ decline in the new product revenue? Sorry, may be 
+that question was asked earlier. 
+Gautam Badalia: 
+So, Hiren, we have not lost any single client. It is just a seasonal aspect of the business. So, I 
+think we did about Rs. 13 odd crores in Q4 and March apparently, I mean most Indian enterprises 
+I mean, they use all digital channels quite a bit. So that happens to be I mean, after Q3, Q4 
+happens to be one of our better quarters. So Q1 is just I mean, it is a seasonal aspect, there is 
+nothing more than that. 
+Hiren Dasani: 
+Okay, in last year, because the base was so low, this may not have been very relevant or? 
+Gautam Badalia: 
+So last year, the base was very low. That is correct. 
+Hiren Dasani: 
+Okay. And sorry to harp on this gross margin question. But hierarchy wise is not India a lower 
+gross margin than your international business or my understanding is not correct there? 
+Gautam Badalia: 
+No, so Hiren, even for the revenue that we have garnered in India right now, we have done about 
+23% gross margin. So, if some of those then and most of these banks, I mean, the integrations 
+are very deep, right. And we provide them with dedicated infrastructure, which ensures higher 
+margins from that standpoint. 
+So, I mean, the fact that I mean most of our top banking clients were impacted because of the 
+loss of traffic in April. That led to some degree of contraction in the gross margins. 
+Hiren Dasani: 
+Okay, but your India gross margins are generally higher than the international business or? 
+Gautam Badalia: 
+That is because India, we do a lot of enterprise business. And most of these enterprise businesses 
+are deep tech integrations, dedicated infrastructure planned out, and hence the India gross 
+margin, I mean, happens to be anywhere between 20% to 25%. 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 16 of 19 
+Hiren Dasani: 
+Okay, and finally, you used to disclose this metric called net retention ratio, or net revenue 
+retention? 
+Gautam Badalia: 
+Yes. So, for this quarter, it was about 117%. But we have not disclosed it because we would 
+have analyzed the Q1 number to kind of derive at the net revenue retention. On an annualized 
+basis, it is about 116%, 117% right now. 
+Hiren Dasani: 
+Okay, but as this enterprise revenue, which was lost because of this India disruption, it goes 
+back, it should go back to that 130%, 140% range? 
+Gautam Badalia: 
+130%, 140%, that is correct. 
+Moderator: 
+Thank you. The next question is from the line of Vimal Gohil from Union Asset Management. 
+Please go ahead. 
+Vimal Gohil: 
+Yes, a couple of follow up from my end. You said that you expect about $10 million from the 
+new services. This is over what period sir? 
+Gautam Badalia: 
+This financial year. 
+Vimal Gohil: 
+Okay, so FY22 you expect $10 million from this? 
+Gautam Badalia: 
+That is correct. 
+Vimal Gohil: 
+Okay. And overall, you I am not sure I got that. But you were saying 25% growth in FY22. What 
+was I mean; just correct me was it the volume growth, was it revenue growth what was it? 
+Gautam Badalia: 
+The revenue growth. 
+Vimal Gohil: 
+Revenue growth of 25% in FY22, okay. 
+Gautam Badalia: 
+That is correct. 
+Vimal Gohil: 
+Got it. And out of this 10 million, new services, how much is coming from SendClean this year? 
+Gautam Badalia: 
+SendClean should be anywhere between 20% to 25%. 
+Vimal Gohil: 
+And if you could just highlight, the $12 million investment that you have announced here just 
+apart from employees, where are we investing that? 
+Gautam Badalia: 
+Sales and marketing. 
+Vimal Gohil: 
+So, sales and marketing would be employees essentially, right? 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 17 of 19 
+Milind Pathak: 
+When we say marketing, more advertising spends. You do self-service kind of a business, there 
+is a large amount of paid advertising that we will have to engaged in. That would entail based 
+on the geographies that we target. 
+Vimal Gohil: 
+So, if you could just maybe explain what exactly do you mean by, you know, service sort of 
+clients was? 
+Milind Pathak: 
+I will explain. So, typically what happens in a self-serve environment is that let us say you do a 
+search on say a Google or a Facebook or an Instagram, clients will click on it and land on to 
+your website, look at the pricing plans. And in the pricing plans, he will say I want to buy this 
+particular pricing plan by just using his debit credit card and then pay on the website and 
+complete the transaction there itself. 
+The platform itself will automatically and through self-usage allow him to integrate his need to 
+send whatever 100,000, 200,000, half a million emails that he wants to send. And all of this 
+process will happen completely automated as a part of software as a service kind of a model. 
+Then, of course, there are large accounts or large enterprises like say, a bank or an e-commerce 
+company or a retail company, etc., who may want to push millions or billions of messages and 
+there they would need more like a B2B enterprise sales and a support team. 
+That is very separate where they say, okay, I need a quote for a billion messages a month. So, 
+there will be somebody from the sales team who will engage with them, negotiate, integrate, and 
+so on and so forth, right? So, these two are very different processes. What we mean by self-
+service, the first one, where you attract customers or enterprises of smaller ticket size, but 
+completely self-served through prepayment models. 
+Vimal Gohil: 
+When you say messages, you are basically referring to emails? 
+Milind Pathak: 
+Emails yes, when I say messages, it is emails. 
+Vimal Gohil: 
+And just one thing, I just want to probably get your sense on, when you say that India Business 
+was a high, I mean, you say that it is a high margin business. But when I look at your EBIT 
+disclosure, the historical margins for the past maybe six quarters average, is PBT margin that 
+India has done is roughly 3.6. You are probably having higher margins in UK and in Nigeria, 
+which are close to 9% and maybe 10% to 11%. 
+So, I just wanted to sort of juxtapose what you said on India's business margins being higher in 
+as compared to the overall company average? 
+Gautam Badalia: 
+So Vimal, we were referring to essentially the gross margins. Now in India, a lot of our clients 
+are enterprise clients. And as I said, enterprise business entails higher margins than the 
+aggregator business that we are doing. So, from that perspective, I mean a banking client or retail 
+or an e-commerce client. 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 18 of 19 
+I mean the margins today, we are doing northwards of 20%, 25%, between 20% to 25% gross 
+margin, and especially after the DLT implementation, where we get a part of fraction of the DLT 
+charges as part of our kitty I mean this margins have expanded from the historical quarters. So, 
+on the gross margin front, I think we are doing about 23%, which I think is also demonstrated in 
+the standalone financials that we have reported. 
+Vimal Gohil: 
+So basically, India has higher gross margins. Anyway, I will probably clarify this offline. No 
+problem. 
+Gautam Badalia: 
+Yes. 
+Moderator: 
+Thank you. The next question is from Mohan Kumar from JM financial. Please go ahead. 
+Mohan Kumar: 
+Just one quick question I had. So, during our last call, John had mentioned that we have a couple 
+of larger clients in the US and Europe who we are like closer to signing up on and we should get 
+a little more information on that. By the time the next call, so just wanted to know, have we 
+closed those clients or are we still like in the process of kind of wrapping that up? 
+John Owen: 
+I think as said we have some beachhead clients who we can build out a strategy from as opposed 
+to a closing. So yes, we do have some very large global clients based out of the US and Europe 
+that we are we see some organic growth out of those. But they are essentially the foundations 
+that will actually build that more into those regions. But that is probably more of our growth 
+strategy in Europe and the US from an organic growth strategy. But yes, there are some deals in 
+the pipelines strengthening but there is nothing imminent that you know, I would want to take 
+to the bank tomorrow. 
+Moderator: 
+Thank you. The next question is from the line of Vikas Jain from Financial Quotient. Please go 
+ahead. 
+Vikas Jain: 
+The best part of getting late in the queue is that most of your question automatically gets 
+answered. So, thanks to my fellow colleague. Just a quick question. Could you please give some 
+insight towards increasing trend of the employee cost? It is basically an increase because of the 
+headcount or it entails something else? 
+Gautam Badalia: 
+No, so it includes the headcount, the wage hikes, I think both the things are kind of included in 
+the increase in employee cost. At this point in time I mean, in terms of the senior management 
+team, I think we are fairly well organized now. So, and I mean, the headcount increase essentially 
+will be I mean, from a SendClean perspective or the Rapid program that should be running at 
+this point in time, from that perspective. So largely, I think, yes Rajdip. 
+Vikas Jain: 
+ 
+So, what is the headcount if we have some number in hand currently? 
+Gautam Badalia:  
+So currently, the total headcount is about 396 employees. 
+
+O
+routemobile 
+communication simplified 
+ 
+Route Mobile Limited 
+July 28, 2021 
+ 
+ 
+Page 19 of 19 
+Moderator: 
+Thank you. The next question is from the line of Shree Gandhi from Arihant Capital. Please go 
+ahead. 
+Shree Gandhi: 
+So basically, my question was regarding the employee cost. The employee cost sir, do you 
+assume that employee cost to increase further also? How do you assume the employee cost going 
+ahead further? 
+Gautam Badalia: 
+I think the subsequent increase will be marginal so to say. I think as I said, I think the senior 
+management team, I think is well in place now. So, it will only be incremental and as I said, in 
+SendClean I think there would be increase in the employee cost and for Rapid we will be 
+entailing some amount of employee cost increase. 
+Shree Gandhi: 
+So as on FY21 it was around 4.4% of the revenue. So, we assume it to be at the same run rate or 
+it may increase little bit of say around 5%? 
+Gautam Badalia: 
+So, this year I think we are in the investment mode. As I said, I think the email front and the 
+Rapid front. So, it would not come off I mean from the FY21 I mean, employee cost as a 
+percentage of revenue. So, it will remain broadly in that same vicinity. 
+Shree Gandhi: 
+Sir, it will remain in the same vicinity? 
+Gautam Badalia: 
+Yes. 
+Moderator: 
+Thank you very much. We will take that as the last question. I would now like to hand the 
+conference back to the management team for closing comments. 
+Rajdip Gupta: 
+Thank you, Hardik. I just like to thank everyone. And we as a company, I think we are going to 
+focus mainly on our new product and new market. And we are very bullish about our new 
+product offering and RCS is definitely one area where we are very, I think we see lots of potential 
+in various other markets along with email. And in coming quarters, I think we will see lots of 
+growth in these two areas. Keeping that in mind, I think I would just like to thank everyone. 
+Thanks for your time and have a very nice evening. Take care. 
+Moderator: 
+Thank you very much. On behalf of ICICI Securities, that concludes this conference. Thank you 
+for joining us. Ladies and gentlemen, you may now disconnect your lines. 

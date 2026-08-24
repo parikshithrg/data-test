@@ -1,0 +1,791 @@
+ 
+ 
+  
+ 
+ 
+ 
+ 
+www.stl.tech 
+Sterlite Technologies Limited 
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.                                
+CIN - L31300PN2000PLC202408 
+February 02, 2023 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, 
+Plot No. C-1, G Block, 
+Bandra Kurla Complex, Bandra (East)    
+Mumbai - 400 051. 
+ 
+BSE Limited 
+Phirozee Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001. 
+ 
+ 
+Sub.:  TRANSCRIPT OF EARNINGS CALL - FINANCIAL RESULTS Q3 FY23  
+Ref.:   Scrip ID - STLTECH/ Scrip Code - 532374 
+Dear Sir/Madam, 
+In furtherance of our letter dated January 16, 2023, please find enclosed transcript of earnings call held on January 
+27, 2023 in respect of Company’s Q3 FY23 financial results. 
+The same has been hosted on the website of the Company and is available under the tab ‘FINANCIAL RESULTS- 
+INVESTOR EARNINGS TRANSCRIPT’ drop down available at https://www.stl.tech/downloads.html#qiect 
+Kindly take this on record and acknowledge the same.  
+Thanking you. 
+Yours faithfully, 
+For Sterlite Technologies Limited 
+ 
+ 
+Amit Deshpande 
+General Counsel & Company Secretary (ACS 17551) 
+ 
+Encl.: As above. 
+AMIT VILAS 
+DESHPAND
+E
+Digitally signed by 
+AMIT VILAS 
+DESHPANDE 
+Date: 2023.02.02 
+14:27:28 +05'30'
+
+ 
+ 
+Page 1 of 18 
+ 
+Sterlite Technologies Limited Q3 FY23         
+Earnings Conference Call Transcript 
+ 
+Jan 27, 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: 
+   MR. ANKIT AGARWAL – MD, STL 
+                                                MR. TUSHAR SHROFF – CFO, STL 
+                                                MR. PANKAJ DHAWAN – HEAD IR, STL 
+ 
+ 
+ 
+ 
+
+ 
+Page 2 of 18 
+Pankaj Dhawan: 
+Ladies and gentlemen, good day and welcome to the STL Q3 FY23 earnings conference call. I 
+am Pankaj Dhawan – Head, Investor Relations, STL. To take us through the quarter 3 results 
+and to answer your questions, we have Ankit Agarwal – Managing Director, STL and Tushar 
+Shroff – Group CFO, STL. 
+Please note that all participants' lines are in the listen-only mode as of now. There will be an 
+opportunity for you to ask questions after the presentation concludes. Please note that this call 
+is being recorded. You can also download a copy of the presentation from our website at 
+www.stl.tech. 
+Before we proceed with this call, I would like to add that some elements of today's presentation 
+may be forward looking in nature and must be viewed in relation to the risks pertaining to the 
+business. The safe harbor clause indicated in the presentation also applies to this conference 
+call. 
+For opening remarks, I now hand over the call to Ankit Agarwal. Over to you, Ankit. 
+Ankit Agarwal: 
+Thanks Pankaj! Good day to everyone. Thank you for joining us for our Q3 FY23 and also wishing 
+all of you a very Happy Republic Day. I look forward to our conversation and discussions and 
+your questions as well at the end. 
+In line with our expectations, strong investment momentum is continuing in 5G, fiber-to-the-
+home, fiber-to-the-X, datacenter, and citizen network deployments. 5G is becoming the fastest 
+growing technology in the world today. Operators are expected to invest more than $500 
+billion in 5G from 2022 to 2025. Even recently, Mr. Sunil Mittal, Chairman of Bharti Enterprises 
+also indicated that the industry will also be spending this quantum of money. 
+As per Ericsson, 228 service providers have now launched 5G commercial services globally and 
+the number of subscribers of 5G is projected to go up from 870 million to 5 billion by 2028. 
+Leading the 5G deployments is China which plans to increase its base stations from 2.2 million 
+to 3.7 million by 2025. FTTx is also becoming all pervasive. In the US, for example, Frontier has 
+reached halfway to reach its target of 10 million home pass locations. Similarly, Windstream is 
+targeting 3 million homes by 2030. In the UK, BT Openreach plans to reach 25 million fiber-to-
+the-home locations by 2026. Deutsche Telekom is building FTTP networks to pass 2.5 million 
+to 3 million premises in 2023. And similarly, Open Fiber in Italy is targeting to reach 24 million 
+homes by 2031. 
+Data center deployments are also increasing. Datacenter CAPEX is set to actually increase from 
+$263 billion globally to $377 billion by 2026. Particularly in India, the data center investments 
+are expected to surpass over $20 billion by 2025. As an example, NTT India has earmarked $2 
+billion for the next 3 to 5 years for IT and communication infrastructure in India. 
+
+ 
+Page 3 of 18 
+Lastly, on the citizen network side, we are seeing significant investments by the governments 
+globally. For example, the US is investing $97 billion in broadband through multiple programs 
+like RDOF, BEAD, Middle Mile programs, etc. Similarly, the UK, Germany, France, and Austria 
+are countries where cumulatively about $8 billion, $14 billion, $24 billion, and $2 billion 
+respectively under various programs are being utilized to build digital programs to connect the 
+unconnected. The Indian government similarly is looking to move forward on the Phase III of 
+BharatNet to connect all the villages and over $10 billion is expected to be invested. 
+As we listen to the leadership of the leading global telecom companies, they are unequivocal 
+on the importance of fiber investments in the overall network build-out. In this regard as an 
+example AT&T has recently signed a definitive agreement to form a joint venture with 
+BlackRock that will operate a commercial fiber platform. The JV plans to deploy a multi-gig fiber 
+network to 1.5 million customer locations across the nation. It is important to note that these 
+customer locations will be outside of AT&T's traditional 21 states service footprint and in 
+addition to the 25 million to 30 million home passes that already AT&T has targeted by 2025. 
+All of these deployments are leading to a sustainable growth of OFC volumes and optical 
+interconnect. As per CRU, the leading research house in this space, the global OFC demand is 
+expected to reach 624 million fiber kilometers by 2025 from 534 million fiber kilometers in 
+2022 last year. 
+The optical interconnect demand in the global market, ex-China, is also expected to grow from 
+$7.5 billion in 2021 to close to $10 billion by 2025, and STL has a strong presence in its key 
+focus markets which are North America, Europe, and India. 
+Coming specifically to India, 5G deployments are clearly picking up pace. The top two telecom 
+operators are rolling approximately 3,500 sites per week cumulatively. Bharti Airtel, for 
+example, launched 5G services in more than 30 cities and Jio has launched 5G services in more 
+than 130 cities. Both operators have aggressive plans to cover India broadly between now and 
+March 2024. Telecom operators are expected to invest between $18 billion to $22 billion in 
+non-spectrum CAPEX between now and 2025. And out of this, we expect the operators to 
+spend between $1.5 billion to $2 billion for fiber rollout specifically in the next 2 to 3 years in 
+preparation of the 5G. 
+As we have shared before, we broadly believe the tower connectivity has to grow from about 
+30% to close to 70% and this is where significant fiber will also be required. In terms of cable 
+kilometers, we expect telcos to deploy more than 2 lakh cable kilometers in the next 18 to 24 
+months. 
+With favorable industry tailwinds, we have deployed a focused strategy to propel us forward. 
+In the following section, we will talk about our strategy in detail. Essentially, our strategy is 
+straightforward and includes 2 levers. Firstly, we focus on growing the optical business. 
+
+ 
+Page 4 of 18 
+Secondly, we look to consolidate our services business. We are allocating capital to tap into 
+strategic growth opportunities offered by these levers and we shall talk about our progress in 
+each of these in detail in the subsequent slides. 
+If you look at the optical business, particularly the optical fiber cable business, as you can see 
+from the chart, we are consistently gaining market share. In 9 months FY23, we have reached 
+an estimated 12% market share globally, which is up from just 5% in FY20, if we subtract the 
+China's share. We are also very pleased to announce that we have received additional orders 
+in the multiyear multimillion-dollar contract with a leading North American broadband 
+connectivity company. Our intent is to increase the long-term contracts in order books and we 
+are moving forward in that direction. 
+In line with the expectation, commercial production has started in our optical fiber facility in 
+China in quarter 3 FY23. In the US, commercial production shall start in the current quarter – 
+Q4 FY23. We are working hard to reach to full utilization by the first half of FY24. 
+We have increased our optical interconnect attach rate from 3% in FY21 to 10% in the 9 months 
+of FY23. The first step we have taken to grow this business is to offer optical interconnect 
+solutions to our existing accounts, particularly in the European market. As a next step, we are 
+also going through a product approval cycle in new markets such as the Middle East and APAC. 
+We expect to continue to increase our rate of optical interconnect products and plan to reach 
+the attach rate to 40% by Q4 of FY25. 
+Coming to the services business, we are focused on building a profitable order book by picking 
+up projects in our India Private segment. If you look at the services revenue split, revenue from 
+India Private has gone up from 31% in FY22 to 42% in 9 months FY23. We are looking to build 
+sustainable revenue streams, including O&M as well. Moving forward in the services business, 
+our focus is on cash and profitability rather than chasing revenue growth. 
+As you can see, our project execution is on track. Among India Public projects, our BharatNet 
+projects in the state of Telangana is 61% complete, including all packages and the network 
+modernization project for Indian PSU is 63% complete. For the Indian Private side, fiber rollout 
+for a large Indian telco operator is 100% complete for Phase I and 99% complete for Phase II. 
+Phase III is yet to start. Fiber rollout for a modern optical network for yet another private 
+operator is 29% complete, and specifically in the UK, the fiber-to-the-home rollout for all our 
+UK projects combined is 6% complete. 
+As you would recall, we had entered the network software business in FY16 through the 
+acquisition of Elitecore. We continue to remain a niche player in this business. Moving forward, 
+we are working to pivot from this telecom software business to digital business. The strategy 
+is still in works and we shall come back to you in Q4 with some more detailed plans. In line with 
+what we shared last quarter, we have ramped down the wireless business with no further 
+
+ 
+Page 5 of 18 
+investments in capital and manpower from Q4 of FY23. In the last quarter, we enabled 
+specialized engineering talent of the wireless business to move on to other relevant 
+organizations. We expect STL EBITDA to go up on account of ramp down of the wireless 
+business from Q4 FY23 onwards. 
+In terms of capital allocation, our clear priority is investments in the optical business. We are 
+investing in the optical fiber cable capacity expansion, optical interconnect expansion and new 
+product development. We have improved margins and working capital cycle in the optical 
+business. We are working to improve margins and working capital cycle also in the services 
+business. We have ramped down the wireless business, as I mentioned, and which shall help in 
+improving the cash flow from operations. We shall also continue to divest sub-scale assets. We 
+have divested IDS in the current year, as you would recall. In FY22, we sold our interest in Metis 
+Eduventures and MTCIL. Through all of these actions, as we start to generate higher cash from 
+operations, our priority will be to reduce net debt and to bring along with adequate 
+investments in the optical business. 
+STL's endeavor is to be a responsible leader in ensuring a connected and inclusive world. This 
+focus reflects in the way we have designed and implemented our ESG agenda. We have 
+diverted over 2 lakh plus metric tons of waste away from landfills from FY19 to November 2022. 
+We have reduced emissions of 21,000 tons of carbon dioxide emissions through various 
+initiatives in the plants from FY21 to Q3 FY23. We have also announced our commitment to 
+become a carbon-neutral company by 2030 and we have recycled 6 lahks metric cube of water 
+from FY19 to November 2022. We are also very happy to announce that we have become the 
+world's first optic fiber manufacturer to be zero-liquid discharge certified. Through our various 
+initiatives in education and women empowerment, more than 7,90,000 lives have been 
+positively impacted from FY19 to Q3 FY23. We have also positively impacted 2.15 million lives 
+through our various initiatives in healthcare from FY19 to qQ3 FY23. In our work, we have won 
+84 ESG awards. I am very proud of the team for their achievements from FY20 to Q3 FY23. 
+At this juncture, I am delighted to introduce Tushar who has joined us as Group CFO. Just to 
+give you some brief on Tushar, he is a qualified chartered accountant and a cost accountant 
+with an experience of close to 3 decades in the fund-raising capital structure, mergers & 
+acquisitions, treasury management, taxation, financial accounting & planning, investor 
+relations, and business partnering; all the facets of the finance function. As the CFO of STL, he 
+will work closely with me and the leadership team to bolster the company's strategy to deliver 
+consistent shareholder value and profitable growth. 
+I will now hand over to Tushar to discuss the company's financials with you. 
+Tushar Shroff: 
+Thank You Ankit for your kind introduction. Good day, ladies and gentlemen. Our financials 
+continue to improve. We shall now discuss this in detail. Before discussing on the financials, I 
+would like to state that in accordance with Indian Accounting Standard, Ind-AS 105, non-
+
+ 
+Page 6 of 18 
+current assets held for sale and discontinued operation which is related to IDS, wireless 
+business, and telecom software business are reported as discontinued operations, and 
+accordingly for like-to-like comparatives, respective period financials are restated. For further 
+details, you can also refer note 4 to the financial result. 
+Our open order book, i.e., order backlog at the end of Q3 FY23 has gone up to INR 12,054 
+crores. This is a reflection of strong demand in the industry and our dominant position and 
+focus, particularly on optical fiber business. Our order book is well diversified across customer 
+segments, also across our business areas. We also have a significant O&M order book which is 
+already yielding revenue from this year. 
+Our revenue mix is shifting to the customer segment and geographies of our choice. We are 
+increasing our share in telco segment. In terms of geographies, we are increasing our shares in 
+American and European markets. In line with our strategy, as compared to last year, we have 
+increased the revenue share in the American market from 11% to 37%. Again, this is a reflection 
+of our product innovation and the reward of investment in R&D over the years. 
+In terms of notable order wins in this quarter, apart from the additional order in the 
+multimillion-dollar contracts for cables in North America, we have secured a multimillion-dollar 
+order for optical fiber cable and optical interconnect solution from European customers. On 
+the service side, we have secured new orders for Pan-India fiber rollout from leading Indian 
+telcos. 
+In line with our expectation, quarterly revenue grew 12% quarter-on-quarter to INR 1,882 
+crores. EBITDA from continued operations went up by 8% on a quarter-on-quarter basis to Rs. 
+252 crores. Net profit grew by 17% on a quarter-on-quarter basis to Rs. 77 crores for Q3 FY23. 
+Revenue growth was driven by strong growth in optical business, margin improvement is 
+mostly on the back of improvement in margins in optical business. 
+For 9MFY23, revenue grew by 28% on a year-on-year basis to Rs. 5,050 crores and EBITDA from 
+continued operations went up by 17% on a year-on-year basis to Rs. 651 crores. Net profit from 
+continued operations is at Rs. 162 crores for 9Mperiod FY23. 
+In order to increase the transparency, we have started reporting segmental financials from the 
+last quarter. Starting with optical business, we delivered revenue from our continued 
+operations of Rs. 1,486 crores, which is 13% higher on a quarter-on-quarter basis. This is due 
+to increase in our volume and better price realization and the favorable revenue mix. We 
+delivered EBITDA from the continued operations of Rs. 302 crores, which is 15% higher on a 
+quarter-on-quarter basis. Key drivers for the margin improvement were product mixture to 
+higher-margin products and reduction in logistics cost, while increased raw materials 
+particularly helium, has dragged the margins relatively. 
+
+ 
+Page 7 of 18 
+In the global services business, we have delivered revenue from continued operations of Rs. 
+380 crores, which is 8% lower on a quarter-on-quarter basis. As we have said initially that we 
+are focused on cash and profitability over our revenue growth, we are being selective in new 
+project intake. Despite lower revenue, EBITDA is relatively flat due to better project 
+management and focused execution. As we said earlier, we are working to ramp up UK revenue 
+to be profitable by H1 FY24. 
+Coming to digital technology solutions, revenue from continued operations grew 380% to Rs. 
+24 crores in Q3 FY23. As we have spoken earlier that we are building a new business in this 
+segment and we shall come back to you in Q4 to explain the business in detail. We have placed 
+an abridged version of quarterly reported numbers for your perusal. 
+In summary, I would like to say that our profitable growth journey in the optical business 
+continues. We continue to gain market share across the focused markets, increase the optical 
+interconnect attach rate and improve the margins. We are consolidating towards the strategic 
+segments in the services business. We are working to build a profitable order book from Indian 
+private telcos and aim to reduce the capital deployed in this segment. 
+In line with the stated strategy, we have discontinued the wireless business and exited from 
+IDS and other sub-scale businesses. We aim to reduce our debt as we move forward. The debt 
+has peaked and going forward, we see the progressive reduction in our debt over a period of 
+time. 
+Now if there are any specific questions, we would be happy to take your questions. 
+Pankaj Dhawan: 
+We will take the first question from the line of Mukul Garg. 
+Mukul Garg: 
+Hi, Ankit. Two questions from my side, first on the America’s business. The pace of growth in 
+that market is extremely sharp, and I think it has become your largest region this quarter. How 
+should we think about America going forward? Will it be more of a case that America will take 
+the sales away from your other segments or how are you looking at tradeoffs between different 
+regions? And second, on the profitability side, your margins, at least the optical margins, are 
+flattish compared to last quarter whereas the raw material prices including helium have 
+corrected very meaningfully. So, how should we think about given that the volumes also were 
+higher this quarter and operating leverage benefits also have started flowing off? 
+Ankit Agarwal: 
+Probably on the US market, I think we are generally quite bullish on the market demand. We 
+continue to see pretty strong investments both by large operators, Tier-2 players as well as 
+very large investments from the government. As I called out, there is just one project which is 
+the $40 billion program of BEAD is expected to come in by mid of this calendar year, as an 
+example. So, we fundamentally see a fairly strong demand over the next 3 to 5 years. I think 
+our own position in that market has been strengthened in terms of our team and product 
+
+ 
+Page 8 of 18 
+portfolio, and now with the facility coming up, our overall brand and positioning in the market 
+has improved quite positively. We are under the stage of commissioning the factory, setting up 
+our processes and systems and getting certain technical approvals which will enable us to serve 
+that market better. I think at a macro level, the way to think about it is that, yes, it will continue 
+to be either our number 1 or number 2 market going forward. We also see that this is a future 
+growth area for our interconnect solutions as well over the next 2 to 3 years. And I think the 
+way we are looking at it is that we would serve that market both from the operations that we 
+would have locally as well as from the operations in India. That's how we look to serve the 
+market. 
+In terms of the profitability of the optical business, I think, we have guided that we will be north 
+of 20% and that's something that we continue to be committed towards. We will see broadly 
+over the next between now and H1 of next year improvements coming in into the numbers 
+because of the volume. We are talking about going from 33 million to 42 million. That will come 
+in. The China fiber factory has restarted and as we scale that up, those benefits of volume will 
+come in. 
+We largely believe the realizations have peaked or largely will peak between now and Q4. So, 
+the upsides will now come from the volume on the cable part as well as growth of our optical 
+interconnect. We have talked about going from 10% attach rate to 40% attach rate by Q4 FY25. 
+That's really the priority and focus for us. 
+Just one comment – one different view – Mukul, on the raw materials. While I think we have 
+seen some kind of now flat lining or benefit of polyethylene and container costs, the helium 
+prices are still very high, I would say exceptionally high. Both availability and pricing has been 
+a challenge and at least our current visibility is that it will continue for probably the next 6 
+months. 
+Mukul Garg: 
+Just one follow-up on the US market. Will that business kind of operate at a different 
+profitability level versus India and Europe or net-net higher prices will be compensated by 
+higher operating costs due to transportation and other expenses? 
+Ankit Agarwal: 
+I don't want to comment on the realization in that market for competitive reasons, but I think 
+broadly, as I said, it's a very important market for us, it's a fast-growing market. We have 
+invested a lot in R&D, innovation, and intellectual property to serve that market and we will 
+continue to do that, and so, for us, it is definitely an important market. And going forward, we 
+will address that market, both through our operations there as well as a good portion of sales 
+will come from our Indian operations into that market. 
+Pankaj Dhawan: 
+We will take the next question from the line of Mr. Mohit Motwani. 
+
+ 
+Page 9 of 18 
+Mohit Motwani: 
+I wanted to understand the jump in the other expenses quarter on quarter. I think this is a 
+reflection of the fact that you stated container costs continue to remain high. Is this completely 
+driven by that or there is something else also to it? 
+Tushar Shroff: 
+If you see Q3 FY22, other expenses were about 32.55% of the overall revenue. Q2, I think it 
+went down to 23.8% and currently, this quarter, we are at 24.9%, which is in line with the 
+increase in the revenue that we have seen for this particular quarter, largely on account of the 
+variable cost in terms of transportation and logistics costs that we have. And the second part 
+is there are a couple of expenses like one-time expenses on professional and legal services that 
+we have taken as well as the plant operation in the US, which is related to operating expenses 
+which is a time cost, which is impacting other expenses for this particular quarter. But however, 
+our guidance in terms of the operating expenses or other expenses should be in the range of 
+23% to 25% going forward. 
+Mohit Motwani: 
+One other question would be around the wireless business ramp down. Is the benefit of that 
+completely done in Q3 or we could expect some incremental benefit in Q4 as well? 
+Ankit Agarwal: 
+In fact, we had the costs for that business in Q3. So, the benefit will actually come in Q4. There 
+are 2 parts to it. Largely, the people cost that we had — we really put a lot of effort to ensure 
+that they were placed with partner companies, and we are so very happy with that outcome. 
+And we don't expect those costs to be there in Q4 onwards. So, that benefit will start coming 
+in Q4. There are certain assets that are there with STL in terms of R&D equipment, etc. Those, 
+we will run probably a sale process or something to ensure that we maximize the value from 
+that. 
+Mohit Motwani: 
+Actually, I just meant that above EBITDA, there is no wireless business cost, as everything is 
+flowing through profit from discontinuing operations, right? 
+Ankit Agarwal: 
+That's correct. 
+Pankaj Dhawan: 
+We will take the next question from the line of Mr. Bhupendra Tiwari. 
+Bhupendra Tiwari: 
+My question is more on…. We thought about raising fund in the form of rights issue. But I just 
+wanted to understand the purpose behind this issue. Is it a growth-driven fund-raise or in terms 
+of the capacities that maybe we would like to add in the product thing or is it basically for 
+deleveraging? I just wanted your thoughts around that first. 
+Ankit Agarwal: 
+I think, Bhupendra, it's really in line with our conversations we have had and we have been 
+sharing with the market. Fundamentally, on the one hand, we are clearly positive about the 
+growth of the business. But I think more important for us is to really make sure our capital 
+structure is in the right place. That is really the core of the fund-raise through the rights issue. 
+The total capital amount will be up to Rs. 500 crores and further details will be decided with 
+
+ 
+Page 10 of 18 
+the committee. The intent is really to use the capital to get the capital structure in a better 
+place and really in line with our previous discussions on capital allocation and make sure that 
+the balance sheet improves essentially. 
+Bhupendra Tiwari: 
+Thank You. That was very useful. The second question was largely on the services thing. I think 
+you alluded to that saying that you are focusing more on the private side of the services and 
+that was seen also in the 9Mrevenues that we have. When we say private side of the business 
+and the opportunity that we talked about was 2 lakh cable kilometers of fiber that will come 
+around in India because of the 5G, how much is your sense or rather what has been your 
+historical market share of fiber layout in India? I just wanted you to throw some light there. 
+Ankit Agarwal: 
+Maybe some context here, historically, the fiber rollout was done by a lot of local companies. 
+It was a very local way of running the business. And our whole premise for STL was that we can 
+consolidate and be a large tier-1 professional company in this space. We can bring in innovation 
+and technology. We can use apps, tools, and other means to improve both the service quality 
+as well as operational maintenance. That's being the efforts, we have worked with the 2 large 
+operators in the country. I won't be able to share market share, but I can share that certainly 
+with both operators, we are probably one of their largest partners in the country. And there is 
+a real interest from both sides to see how we can further support them both for their 5G as 
+well as for their fiber-to-the-home rollout. But as I said, what's important for us at the same 
+time is not to grow the revenue for the sake of it. We are really focusing on getting any of these 
+opportunities, whether government or private, at the right margins and in the right fund 
+involvement structure. That's really the focus for this business. 
+Pankaj Dhawan: 
+We will take the next question from the line of Mr. Krish Mehta. 
+Krish Mehta: 
+I just wanted to ask what the loss for this quarter was for OSS and BSS as well as for Q2 FY23. 
+Tushar Shroff: 
+For 9M period, it was about Rs. 53 crores. 
+Krish Mehta: 
+And what was it for this quarter specifically and last quarter? 
+Tushar Shroff: 
+I am talking about the EBITDA impact of OSS and BSS business to the extent of Rs. 53 crores. 
+This quarter, it was about Rs. 15 crores. The previous quarter, it was about Rs. 26 crores. 
+Pankaj Dhawan: 
+We will take the next question from the line of Mr. Saket Kapoor. 
+Saket Kapoor: 
+Firstly, as you mentioned that the Chinese entity would be now contributing since now the 
+utilization levels have gone up. If you could give us the trajectory, what kind of contribution 
+will be there from the Chinese for the remaining half and for the full year as a whole going 
+ahead? 
+
+ 
+Page 11 of 18 
+Ankit Agarwal: 
+Saket, we are not disclosing volumes by facility for competitive reasons. What I can share is 
+that, as you would have seen in the pictures and some of the data, we do have the team there. 
+The operations have started. It's actually a world-class asset. So, we do believe the fiber 
+manufactured from there will both be competitive as well as able to serve our global 
+requirements. At a macro level, what's important to understand is that a large portion of our 
+fiber will now be utilized for our own cable operations, especially as we are expanding from 33 
+million to 42 million. Similarly, a good portion of the fiber made from our China factory would 
+be utilized for our global cable operations. By and large, we believe that quarter on quarter, 
+we will see volumes scale up and we do believe that these will be made competitively and 
+whatever investment we have made to acquire the balance 25%, that will be a positive 
+investment as well as one of the areas that is also positive is now — because it's an R&D facility 
+– we will be targeting to run this at 15% tax rate, which will also be beneficial for the company. 
+Saket Kapoor: 
+Sir, how much more do we need to spend to ramp up the production there? I was just trying 
+to understand that last year, I think, there was a negative impact of around Rs. 80 crores to Rs. 
+90 crores from the Chinese subsidiary. Going ahead, what would be the run rate? How will that 
+go down? That's the understanding. And what was the price we paid for the balance 
+acquisition, sir? How much have we spent? 
+Ankit Agarwal: 
+I think, a ballpark, in the range of Rs. 50 crores to Rs. 60 crores. We can come back with the 
+specific number. I think the main message was that essentially, while during COVID, we were 
+negotiating with our JV partner on the terms, and the operations weren't running at that time. 
+Since then, we have acquired the 25% successfully. The transaction is closed. We have also 
+successfully got the business license to operate and so we are quite well set up now. Quarter 
+on quarter, we will see the improvement in the production. And we can probably update you 
+more into the next quarter on how that is scaling up. 
+Saket Kapoor: 
+Sir, when you mentioned it as an R&D, it is an operating asset. I did not understand. 
+Ankit Agarwal: 
+Sorry, what I meant was that from the government's perspective if you are doing technology 
+manufacturing, you are given a special tax rate of 15%. I didn't mean R&D in that sense. 
+Saket Kapoor: 
+So, more updates we will get in the 4th quarter. 
+Ankit Agarwal: 
+Yes. 
+Saket Kapoor: 
+Sir, in terms of the net debt level, and I think so the road map ahead for reduction, rights issue 
+has been, as you earlier commented. So, what's the road ahead in terms of how the net debt 
+is going to look like? Whether we have peaked out? And just more thoughts on the same, sir. 
+Tushar Shroff: 
+The rights issue proceeds that we are expecting maybe in the FY24 because of the 
+documentations and everything, that procedural part that we will have to complete. So, the 
+
+ 
+Page 12 of 18 
+rights issue proceeds will come in the next year. However, for this particular year-end, what 
+we are targeting is that we will be at a net debt of about Rs. 3,200 crores based on the earlier 
+guidance Ankit had given. So, all our efforts are moving towards Rs. 3,200 crores at year-end 
+debt levels. 
+Saket Kapoor: 
+Rs. 3,200 will be the closing for March 2022? 
+Tushar Shroff: 
+That's the target, yes. 
+Pankaj Dhawan: 
+We will take the next question from Mr. Tejas Sheth. 
+Tejas Sheth: 
+On the Optotec side, when you said the attach rate of 10%, is it on the cable and fiber combined 
+revenue or it is only on the cable side? 
+Ankit Agarwal: 
+This is the attach rate of interconnects. That's what I was sharing last time also. For a dollar of 
+cable sold, today we sell 10 cents of interconnect at a company level. And just to be clear, it is 
+a combination of the Optotec that we have, we have a setup in Dadra as well and so it's a 
+combination of everything in the interconnect business that we have. 
+Tejas Sheth: 
+Is there any element of INR depreciation towards the increase in the order book level? 
+Tushar Shroff: 
+FX impact if you see this quarter, like-to-like basis is about 2% to 3% in the dollar terms. 
+However, the very specific number in terms of what were some adjustments due to the FX rate 
+which has moved from Q2 to Q3, which Pankaj will provide you separately. 
+Ankit Agarwal: 
+I don't see it being meaningful. That's what we have been sharing some of the details. These 
+are some of the contracts in the US, there are some contracts in India, etc. So, it's a mix from a 
+geography perspective. 
+Tejas Sheth: 
+Because, when I see your optical order book, in a way, obviously, it has been executed well on 
+the quarterly basis, but at the quarter-end basis, it's more or less quite flat over the last 4-5 
+quarters. 
+Ankit Agarwal: 
+Yes, that said, directionally, we have been overall of open order book in this range of, say, 
+11,000 to 11,500 or so. And I think what's also important is that to measure that versus our 
+revenue run rate, we have been at say 1500 to 1600 and now it's going up. At the same time, 
+we are booking over Rs. 2,700 crores per quarter. That's an important measure for us in terms 
+of what is our order booking vis-a-vis our quarterly revenue, which will then help us and place 
+us well for the next year's growth onwards. 
+Tejas Sheth: 
+Just last question. On the digital side where we are burning capital, how do you see that 
+trajectory changing as well as on the global services side where the margins are much lower 
+
+ 
+Page 13 of 18 
+single-digit, how do you see the margin trajectory there also – not from a quarter basis but 
+more so from, let's say, FY24 or FY25 basis? 
+Ankit Agarwal: 
+The UK services is on the back of the acquisition we had done for Clearcomm. The intent is 
+clearly, when we look at the model, we need to scale up that business and execute on a quarter-
+on-quarter basis. We believe that probably by the end of H1 of next year, we should at least 
+get to a breakeven level versus the losses right now and then we see how to improve the 
+EBITDA probably to 10% range. That's really the focus for the services business and the UK team 
+out there. 
+On the digital business, one part of it, we have called out that these are assets held for sale. 
+And then we have Raman, who has come in, and he is really relooking at our business, our 
+portfolio, and seeing how do we scale it up in the right profitable segments. There, I would say, 
+give us about 3 to 6 months. We will come back with more details of how we want to drive the 
+business. But it looks exciting. We are definitely seeing positive trends in that. 
+Tejas Sheth: 
+Just one last bookkeeping question. Are we capitalizing any of the finance cost considering that 
+the interest cost is quite steady despite our debt increasing as well as the interest rate 
+increasing at the global level as well as in India? 
+Tushar Shroff: 
+For our US plant which is under construction and which is under WIP, which is whatever the 
+borrowing that we have to the extent of the capital employed for that particular plant, we are 
+capitalizing it, which is required as per the accounting standard. 
+Pankaj Dhawan: 
+We will take the next question from the line of Sunny Gosar. 
+Sunny Gosar: 
+Congratulations on an improvement of your financial performance. My first question is, if you 
+can highlight what is the net debt levels of the company currently? And in terms of the 
+guidance, what's the net debt that…. either net debt-to-EBITDA or some ratio or some guidance 
+you can give of net debt in the next 18 to 24 months? 
+Tushar Shroff: 
+Currently, we are at about Rs. 3,400 crores in terms of net debt at the close of the Q3. We are 
+expected that we should be able to close this particular financial year with Rs. 3,200 crores. 
+That's how we would be able to generate positive cash. As we discussed in Ankit's presentation 
+that the way we are looking at this particular business, we want to run this particular business 
+in a disciplinary manner and that's why we are looking at targeting debt-to-EBITDA level of 2.5 
+to EBITDA. That's the journey that we will be embarking on over a period of next 6 to 12 
+months. 
+Sunny Gosar: 
+And in terms of the CAPEX, any guidance on CAPEX for the next 2 years? This year, I believe, it 
+is Rs. 500 crores overall. What will be the CAPEX per annum for the next 2 years? 
+
+ 
+Page 14 of 18 
+Ankit Agarwal: 
+Broadly, we are looking at around Rs. 350 crores for the next year. We are still kind of in the 
+finalization of our business plan. But it will be largely focused on the cable and, to some extent, 
+the interconnect. 
+Sunny Gosar: 
+My next question is on the system integration business. We are doing about 1% margin on the 
+system integration business currently. How should we look at the business going forward? You 
+mentioned about the focus on the private side and focusing on orders which are profitable and 
+have the working capital which is under control. Whether the current revenue base on a 
+quarterly basis is the base or it can go down further? And how should we look at margins for 
+this business at least for the next few quarters and then maybe in the medium term? 
+Ankit Agarwal: 
+I think at a macro level…. One is, just at a fundamental level, we believe that one of the drags 
+on the profitability is the UK business, what we just spoke about. I think that is quite critical for 
+us to turn that around, get it to at least break even and then grow that. That is something that 
+we are looking to execute. The orders are there; the market is positive. I think it's for us to 
+execute and build that right model to get it to breakeven and profitable. So, I would say that's 
+one directionally that we are looking to do. 
+In India, as we said, directionally, we are not chasing revenues per se. We are focused on 
+whatever orders we pick up going forward, both from private and government, to both look at 
+very closely the right profitability margins as well as the right fund involvement. 
+And then I think the third part clearly is on projects where we are either executing or have 
+executed like Maharashtra, Telangana, and other projects is to make sure that we complete 
+execution, complete the milestones, and then collect the cash. That's really the priority of the 
+system integration business. We do expect the profitability to improve, but it will take time to 
+get the new projects on one side in India with the right margins. And second is this 6-9 months' 
+period will take to get the UK services into the right profitability level. 
+Sunny Gosar: 
+If I can conclude, is the current quarter profitability in that sense, the ways and things improve 
+from here on or there could be a couple of quarters where you have remained at breakeven or 
+even have some kind of small losses in this segment? 
+Ankit Agarwal: 
+Again, it's going to be touch and go. It's really a function of how do we make the shift happen, 
+as I said, in both the UK and in India. So, I wouldn't comment. I think directionally, as I said, as 
+you can already see quarter on quarter, probably some of the revenues have started coming 
+down for services. So, we are really not even setting very specific targets on revenue going 
+forward. It's just whatever we have on our plate, execute in the best way possible, and anything 
+new we pick up, we do it at better margins. I think it will just take some time, but probably it 
+will take us that period of 6 to 9 months to improve the business performance. 
+
+ 
+Page 15 of 18 
+Sunny Gosar: 
+And if I may, I have one last question. On the new digital business that you are focusing on, say, 
+in this quarter, you had EBITDA losses of, say, about Rs. 30 crores to Rs. 35 crores. Going 
+forward, till the business stabilizes and breaks even, is this the peak level of loss on a quarterly 
+basis or there could be again a period where for a few quarters these losses go up? 
+Ankit Agarwal: 
+As I said, directionally we will give more details of the business, what we are looking to do, 
+customers, etc., probably in a quarter's time. But directionally, we are excited about the 
+business. We have a global leader, Raman Venkatraman, who has come in from TCS, who leads 
+this business. We are really working with him to see how do we scale this business up, how do 
+we do it profitably, etc., and with the right customers. I would just leave it at that to say that 
+give us another quarter to share more details. Broadly, we are investing in this, but we are also 
+conscious of making sure that at the right point of time, this business also starts generating 
+profit and cash for the company. 
+Pankaj Dhawan: 
+Due to the paucity of time, we will take maybe the last few questions. The next question we 
+will take from the line of Mr. Pritesh Chheda. 
+Pritesh Chheda: 
+Just a few questions. When you said that from here, it is largely volume, I want to know what 
+is the headroom in volumes that you have from the current levels. Is it 20% or 30% if you could 
+share that? My second question is, we have our interconnect rate today of 10%, right? 
+Ankit Agarwal: 
+Yes. 
+Pritesh Chheda: 
+That we aspire to reach to about 50% in some years' time. 
+Ankit Agarwal: 
+40%. 
+Pritesh Chheda: 
+What is the value addition on account of the interconnect rate on your overall business run 
+rate that you have today when you reach that 40%? And what are the margins in that 
+incremental business? These are my 2 broader questions. 
+Ankit Agarwal: 
+What we shared was that the cable capacity is what will come on stream. From 33 million to 
+42 million, about a 9 million addition of volume will come through broadly in the next 6 to 9 
+months. That's the major volume trigger. As a subpart…. 
+Pritesh Chheda: 
+What is it in the percentage terms of that 9 million? That's 30% extra? 
+Ankit Agarwal: 
+Yes, 9 over 33, about 30-odd percent. That's on the cable essentially. On the interconnect, 
+basically, what we see, just to give you a perspective, globally, the cable market is about $8 
+billion to $9 billion and the interconnect is similar, $8 billion to $9 billion. So, the global 
+benchmark for us when we see at a macro level is 1:1 which means 100% attach rate. That's 
+where we are already in conversations with customers. But there's a typical longer time cycle 
+to build the products, get the intellectual property approved, get the customer approval and 
+
+ 
+Page 16 of 18 
+also to supply. This is where there is some period of time, probably even more than what it 
+takes for cable supply to really scale this up. But once you are in there, typically, customers 
+really like to depend on you for the long term, directionally, because this is much more solution 
+oriented than even cable. The typical EBITDA margins on interconnect are 30% compared to 
+cable being at 20%. That's really what we are driving in terms of growth. And also, this is 
+typically less CAPEX investment or CAPEX intensive than what is required for cable. So, that's 
+really where our focus is. We do have global teams. We do have global customer connects. So, 
+the focus is now to build the product portfolio and get this moving over the next 2 years. 
+Pritesh Chheda: 
+And how much business do you add from moving 10% to 40% on your current quarterly 
+revenues that we see? 
+Ankit Agarwal: 
+I won't be able to share the exact number. But directionally at least Rs. 1,000 crores to Rs. 1,500 
+crores can be an addition over the next 2 to 3 years. 
+Pankaj Dhawan: 
+We will take one more question from the line of Mr. Subrata Sarkar. 
+Subrata Sarkar: 
+A few questions; first on the India side of the business. Apparently, it is appearing like we are 
+more gung-ho on the external market than India. Can I try to understand the reason behind 
+that? Is the Indian market too competitive? What is the exact reason? Is it because of the 
+margin? Is it because of operational difficulty in implementation or is it because of the working 
+capital issue? This is the first question from my side. 
+Ankit Agarwal: 
+Subrata, I think, one, just at a macro level, I don't think we have a negative view on India. 
+Subrata Sarkar: 
+Relatively, we are muted. That's what I mean. 
+Ankit Agarwal: 
+I will come to that. Fundamentally, I think, India will have a 10-year digital network build-out, 
+whether it's from the government's side, from defense' side, data center side, etc. I think it's a 
+great opportunity, and STL has built strong capability over the last 7 to 10 years. So, we are 
+quite well placed to take it on. What we are simply saying is that this is where we look at the 
+business today. We are largely doing a lot of services today both to the private sector and 
+government sector. Based on our experiences, particularly on some of our execution 
+challenges for government projects or cash collection or fund involvement which has been 
+longer on the government side; based on some of those experiences, we are saying we want 
+to pivot more to the private sector in India. So, we are still committed to the Indian market and 
+we want to make sure that we support the growth, especially at this time of 5G deployment in 
+India. 
+The other part we are looking at very closely is that there is probably a $10 billion investment 
+funded by the government on fiber rollout to the villages as part of Phase 3 of BharatNet. That 
+is obviously a very exciting national project which would be great for STL to be part of. Having 
+
+ 
+Page 17 of 18 
+said that, we have to ensure that if and when we look at any of these projects, it has to be at 
+the right terms and right norms so that there is complete visibility on both profitability as well 
+as the fund involvement. These are the parts that we are just taking lessons from our past 
+experiences and I would say being more mindful of which projects we are part of, which 
+projects do we say yes to and sometimes we have to say no to. 
+Subrata Sarkar: 
+My second question is on the capital structure side. As you announced this year, we will have 
+a Rs. 500 crores CAPEX. Next year, we will have Rs. 350 crores of CAPEX. And our operation is 
+also growing, which will require higher working capital. Given all this context, whatever debt 
+reduction or rationalization that we are planning for, is it mainly from the external source like 
+funding through rights issue or whatever source or internally from operational cash flow also, 
+we are planning to reduce the debt to that extent? What's the strategy? 
+Tushar Shroff: 
+If you would have looked at the service business which is working capital heavy, and as we 
+continue to execute some of the projects, we tend to release a lot of retention money which 
+gets involved in this kind of a tender business. As we execute better and better, the opportunity 
+of releasing cash is much more. So, we are more focused in terms of ensuring that we are able 
+to generate more on the operational side of cash flow as well. 
+Subrata Sarkar: 
+Sir, lastly a small question. On the optical fiber side, we are above 20% margin which is more 
+or less the peak margin vis-a-vis our overall company-level margin we are operating at 13% 
+only. My point is at service level, that's also a strategic decision like how much we want to 
+penetrate at the service level because service is a much lower kind of a business, you are 
+guiding for 10% margin. From a strategic point of view, what kind of overall company-level 
+margin we are targeting given the mix of optical fiber interconnect as well as service? 
+Ankit Agarwal: 
+The way I would put it is, the optical today is at 20%, we are confident of that. I think it's 
+important, as we talked about, there will be improvement coming from the volume increase. 
+There is also both a focus on volume as well as profitability improvement coming from the 
+interconnect. As I said, the margins in interconnect are closer to 30% typically. So, it's important 
+for us to keep pushing that forward, getting all the technology, getting the innovation, and 
+pushing that to the customers. That is something that we are positive about and that is work 
+cut out for us. 
+In terms of the services part, as we stated in our last results as well, directionally, we want to 
+improve the profitability at EBITDA level of the services business, take it at least to 10% levels 
+from very low levels currently. One big part of that is to sort out the UK services margin so that 
+overall services improves as well as in India focus more on the private sector going forward so 
+that we have both good margins as well as better fund involvement. The combination of these 
+two, we believe, should help us improve the EBITDA margin. But as I said, this is probably a 6- 
+to 9-month process. 
+
+ 
+Page 18 of 18 
+Subrata Sarkar: 
+But are we targeting any optimal level of mix like the way our intention is to reach 40% in 
+interconnect? So, service to optical fiber interconnect mix are we targeting anything? Do we 
+have any optimal mix in our mind? 
+Ankit Agarwal: 
+Nothing specific. Already as you can see, directionally we are broadly at, say, 70% of optical 
+business, 25% -27% of services, and then balance is the digital business. So, as I said, we are 
+not consciously driving any top line growth in services. We are much more focused on taking 
+select projects at the right profit and cash level. I am comfortable at the split. More than the 
+split for me is making sure whatever business we are in is coming at the right terms. We are 
+positive when we look at the market trends of optical. We are fully committed on that. Services 
+require some sort of change in improvement from where it is. That's the second part. And in 
+digital, as I said, we will share more details by next quarter. But clearly, lot of opportunities 
+here for us to improve from here. 
+Pankaj Dhawan: 
+With this, we come to the end of the Q&A session and I now hand it over back to Ankit Agarwal 
+for closing remarks. 
+Ankit Agarwal: 
+I would like to thank everyone for attending this call and showing your interest in our company. 
+I hope we were able to address and clarify all your queries and comments. For any further 
+questions and discussions, please feel free to contact the Investor Relations team which 
+includes myself and Tushar. We really look forward to continuing the conversation with you in 
+the future. Thank you. Jai Hind. 
+Tushar Shroff: 
+Jai Hind. 
+ 

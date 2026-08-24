@@ -1,0 +1,968 @@
+ 
+ 
+ 
+ 
+Unicommerce eSolutions Ltd. 
+Registered Office: Mezzanine Floor, A-83, Okhla Industrial Area Phase-II, New Delhi 110020 India 
+Corporate Office: Landmark House, Plot No. 65, 6 & 7th Floor, Sector 44, Gurugram, Haryana 22003 India 
+Tel +91-888 7790 22, email: contactus@unicommerce.com I Web: www.unicommerce.com ICIN: 
+U74140DL2012PLC230932 
+ 
+5th September, 2024 
+ 
+National Stock Exchange of India Ltd.  
+Exchange Plaza, C – 1, Block G 
+Bandra-Kurla Complex, Bandra (E),  
+Mumbai-400 051  
+Symbol: UNIECOM 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, 
+Mumbai 400 001  
+Scrip Code: 544227 
+ 
+Subject: Q1 FY25 Earning Conference Call – Transcript 
+Reference: Intimation of Earnings Conference Call dated 27th August, 2024 and Audio Link of 
+Analyst/ Investor Conference Call dated 02nd September, 2024 
+Dear Sir/ Madam, 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed the transcript of the Q1 FY25 Results Conference Call held 
+on Monday, 2nd September, 2024 at 9.00 A.M. (IST) for the quarter ended on June 30, 2024. 
+This information is available on the website of the Company: https://unicommerce.com/ 
+You are requested to kindly take the abovementioned on record. 
+Thanking you. 
+For UNICOMMERCE ESOLUTIONS LIMITED 
+ 
+ 
+_________________ 
+Name: Ajinkya Jain 
+Designation: Company Secretary 
+Membership No.: A33261 
+Address: Sector 44, Gurugram, Haryana 
+Encl: As above 
+ 
+ 
+ 
+AJINKYA 
+RAJENDRA 
+JAIN
+Digitally signed by AJINKYA RAJENDRA JAIN 
+DN: c=IN, st=Maharashtra, 
+2.5.4.20=f45cd2690ce1ad7e1115966e095638eff
+75b98b8d0bb46b5fee0387458b6ff5a, 
+postalCode=400078, street=Mumbai, 
+pseudonym=ab91e308-451b-40b2-bc15-
+c8701644c139, 
+serialNumber=1d4e756d04ced5a06fc876a16b09
+07dbe920e1fbf422ef0d523484a302d58f40, 
+o=Personal, cn=AJINKYA RAJENDRA JAIN 
+Date: 2024.09.05 21:18:32 +05'30'
+
+Page 1 of 17 
+ 
+ 
+ 
+“Unicommerce eSolutions Limited 
+Q1 FY '25 Earnings Conference Call” 
+September 02, 2024 
+ 
+“E&OE - This transcript is edited for factual errors. In case of discrepancy, the audio recordings uploaded on 
+the stock exchange on 2nd September 2024 will prevail.” 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+MANAGEMENT: MR. KUNAL BAHL – PROMOTER AND NON-EXECUTIVE 
+DIRECTOR – UNICOMMERCE ESOLUTIONS LIMITED 
+ 
+MR. KAPIL MAKHIJA – MANAGING DIRECTOR AND 
+CHIEF EXECUTIVE OFFICER – UNICOMMERCE 
+ESOLUTIONS LIMITED 
+ 
+MR. ANURAG MITTAL – CHIEF FINANCIAL OFFICER – 
+UNICOMMERCE ESOLUTIONS LIMITED 
+ 
+MR. BHUPINDER GARG – CHIEF TECHNOLOGY 
+OFFICER – UNICOMMERCE ESOLUTIONS LIMITED 
+ 
+MR. DEEPAK GUPTA – DIRECTOR STRATEGY AND 
+INVESTOR RELATIONS – UNICOMMERCE ESOLUTIONS 
+LIMITED 
+ 
+SGA, INVESTOR RELATIONS ADVISORS 
+ 
+MODERATOR:  
+MR. RISHI JHUNJHUNWALA – IIFL SECURITIES 
+ 
+ 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 2 of 17 
+ 
+Moderator: 
+Ladies and gentlemen, good day and welcome to Unicommerce eSolutions Limited Q1 FY '25 
+Earnings Conference Call hosted by IIFL Securities Limited. This conference call may contain 
+forward-looking statements about the company which are based on the beliefs, opinions and 
+expectations of the company as on date of this call. These statements are not the guarantees of 
+future performance and involve risks and uncertainties that are difficult to predict. 
+ 
+As a reminder, all participant lines will be in the listen-only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during the conference call, please signal an operator by pressing star then zero on a touchtone 
+phone. Please note that this conference is being recorded. 
+ 
+I now hand the conference over to Mr. Rishi Jhunjhunwala, Senior Vice President and Lead 
+Analyst for Technology Sector at IIFL Securities. Thank you and over to you, sir. 
+Rishi Jhunjhunwala: 
+Thank you, Zico. Good morning, ladies and gentlemen. Thanks for joining us today for the first 
+quarter of FY '25 and the first ever Earnings Call of Unicommerce eSolutions Limited. 
+ 
+On behalf of IIFL Institutional Equities, I would like to thank the management of Unicommerce 
+for giving us the opportunity to host this earnings call. Today we have with us Mr. Kunal Bahl, 
+Promoter and Non-Executive Director, Mr. Kapil Makhija, Managing Director and CEO, Mr. 
+Anurag Mittal, Chief Financial Officer, Mr. Bhupinder Garg, Chief Technology Officer, and 
+Mr. Deepak Gupta, Director, Strategy and Investor Relations. With that, I'm going to hand it 
+over to Kunal to take the proceedings forward. 
+ 
+Thank you and over to you, Kunal. 
+Kunal Bahl: 
+Thank you, Rishi, and good morning, everyone. Welcome to the Q1 FY '25 Earnings Call. This 
+is our inaugural earnings call for Unicommerce eSolutions Limited. 
+ 
+I'm delighted to have with me today Kapil, Anurag, Bhupinder, Deepak, and our Investor 
+Relations Advisors from SGA. We are incredibly humbled and deeply grateful for the 
+overwhelming response Unicommerce has received to its IPO. This milestone is the culmination 
+of years of hard work and dedication from our entire team, and we are very excited to embark 
+on this new chapter as a publicly listed company. 
+ 
+Unicommerce's journey began with a simple conversation in a coffee shop back in 2012. The 
+vision was not merely to create another company, but to fundamentally transform the e-
+commerce landscape in India. Over the years, we have steadily grown, achieving significant 
+milestones, and establishing ourselves as a leader in this space. 
+ 
+As a picks and shovels company, we are uniquely positioned to grow alongside the expanding 
+e-commerce industry. Under the leadership of Kapil, Bhupinder, Anurag, and our exceptional 
+team, Unicommerce has emerged as a clear market leader, processing 850 million order items 
+annually for over 3,500 brands and sellers across six countries. Given the exciting long-term 
+prospects of the Indian e-commerce market, we are confident of Unicommerce continuing to be 
+a compelling growth story. 
+ 
+With that, I would now like to hand over to Kapil to share his insights. Thank you.  
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 3 of 17 
+ 
+Kapil Makhija: 
+Thank you very much, Kunal. Hello and good morning, everyone, and thank you for joining on 
+the maiden earnings call of Unicommerce eSolutions Limited for quarter one FY '25. We are 
+excited to meet all of you and share with you our company's story and how the first quarter of 
+this fiscal has been, what is driving growth for us, and where we are headed. I will start with a 
+brief overview of the Company. 
+ 
+Incorporated in 2012, Unicommerce is an e-commerce enablement software as a service, which 
+is a SaaS platform in the transaction processing and order fulfillment layer. The company enables 
+end-to-end management of e-commerce operations for brands, sellers, and logistics service 
+provider firms. As a consumer, when you order online, you see the website on which you order 
+and the delivery person who comes to your doorstep. 
+ 
+Whatever happens between you pressing the buy button and the product being delivered to your 
+home is powered by Unicommerce. We are the behind-the-scenes backend that powers 
+operations and smooth customer experience for a brand or a seller. Unicommerce's suite of 
+solutions act as a nerve center for e-commerce fulfillment operations, ensuring that the orders 
+received are processed correctly, efficiently, and within timelines as per the client needs. 
+ 
+Our products aid in streamlining e-commerce operations for clients, enabling us to become an 
+integral part of our clients' supply chain infrastructure. The growth of the e-commerce 
+enablement SaaS is directly linked to the rise of e-commerce sales. Brands and retailers are 
+increasingly engaging customers through multiple channels, both offline and online, and these 
+could be various marketplaces, both horizontal and vertical, their own website, and many other 
+touch points. 
+ 
+As India's e-commerce sector continues to grow, businesses and retailers are encountering 
+complex and substantial challenges in scaling their operations effectively. Key hurdles include 
+managing inventory across various locations, reducing fulfillment costs, processing orders from 
+multiple online and offline platforms, handling returns, generating accurate invoices, complying 
+with taxation and other regulatory requirements, etcetera. Because of this complexity of the e-
+commerce ecosystem, brands and sellers need a central system which can seamlessly interface 
+with all ecosystem players, such as marketplaces, website platforms, logistics players, fulfilment 
+players, ERPs, point-of-sales, etcetera. 
+ 
+Unicommerce is this centralized system that enables brands and sellers to focus on growing their 
+business without having to spend a lot of time managing their day-to-day operations. 
+Unicommerce, with its extensive 250-plus plug-and-play integrations, provides brands the 
+flexibility to choose the service provider that's best for their business, secure in the knowledge 
+that the service provider is already integrated in the workflows and with the ecosystem. 
+Any new innovation that happens in e-commerce, such as Quick Commerce or ONDC that have 
+happened in recent times, adds to the complexity for a brand and further strengthens the need 
+for our solutions and these new models become a new channel source for us as we integrate with 
+all these models. We stand for simplifying e-commerce and shielding the brand from the entire 
+complexity through our comprehensive product suite. 
+E-commerce is a fast-evolving industry with new trends coming up very often. For example, 
+direct-to-consumer and omnichannel were fringe use cases until a few years ago and now have 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 4 of 17 
+ 
+become mainstream. Similarly, Quick Commerce has now become a salient contributor in many 
+categories. Because of the fast-evolving nature of this industry, clients value a cloud-native and 
+a SaaS solution like Unicommerce, which can evolve as the market evolves and is able to 
+incorporate new integrations and new workflows, shielding clients from the complexity of 
+continually adapting to the new developments. 
+Unicommerce serves a diverse base of 3500 plus clients across many industries. 
+ 
+Our platform is sector and scale agnostic. From fashion to pharma, from home services to home 
+decor and much more, we serve a wide range of industries. And our platform is flexible to work 
+with a large enterprise processing millions of orders in a month to a small SME processing a few 
+hundred orders per month. 
+ 
+Our solutions can be configured to cater to use cases of different industries under a single 
+implementation and this makes us relevant for house of brands and brand aggregators as well. 
+Our role comes in the post-purchase journey in the transaction processing layer and order 
+fulfilment layer. Unicommerce enables its enterprise clients and small and medium businesses 
+to efficiently manage their entire journey of post-purchase e-commerce operations through a 
+comprehensive suite of SaaS products. 
+ 
+I will now give a quick overview of our six solutions. Our first solution is the multi-channel 
+Order Management System or OMS. This enables clients to aggregate orders across all 
+marketplaces and websites at one place. More importantly, it allows sellers to maximize sales 
+from a common pool of inventory. 
+ 
+By automating this task, sellers can run the business with leaner teams. For quarter one FY '25, 
+we had a run rate of processing 850 million plus order items through the OMS. Until the end of 
+quarter one FY '25, we had 250 plus plug-and-play integrations across marketplaces, web stores, 
+logistics providers, ERP, point of sale, etcetera to enable automated flow of order information 
+to be processed through OMS. 
+ 
+Our second solution is the warehouse and inventory management system or WMS. WMS 
+enables efficient management of day-to-day warehouse operations and helps management of 
+inventory distributed across the warehouse network. We are an e-commerce first WMS which 
+ensures that e-commerce specific workflows such as returns management, prioritizing picking 
+for a particular channel, etc. are available off the shelf. Till end of quarter one FY25, WMS was 
+deployed across 8,300 plus client warehouses of varying sizes. 
+ 
+Our third solution is the Omni-channel retail management system or Omni-RMS. Omni-RMS 
+streamlines retail by merging all offline and online sales channels on one platform. Brands are 
+rapidly gowing Omni-channel with digital-first brands expanding offline to expand consumer 
+reach while offline-first brands are going online to get a direct connect with the consumer. Our 
+Omni-RMS solution allows brands to power various Omni-channel use cases such as shift from 
+store, which means an online order will get serviced from the store that is nearest to the customer 
+or endless aisle where the store can order online or on behalf of a walk-in customer for a product 
+that is not in the store. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 5 of 17 
+ 
+ 
+During quarter one FY25, Omni-RMS was implemented across nearly 3,000 stores. Our fourth 
+solution is the seller management panel for marketplaces. Seller management panel helps 
+marketplaces work with third-party sellers. It allows third-party sellers to commit inventory 
+directly on the platform including available quantities. 
+ 
+Once the marketplace receives orders for these products from customers, they can be allocated 
+to specific sellers who fulfill orders directly from their location. During quarter one FY25, our 
+seller panel products collectively managed over 2,000 plus sellers on behalf of our client 
+marketplaces. 
+ 
+We discussed so far our solutions in the transaction processing layer. Now let me give you a 
+brief on the order fulfillment layer where we have recently launched two new products that is 
+UniShip and UniReco. They are currently in the build phase and we continue to evolve the 
+products based on our clients' feedback. 
+ 
+UniShip simplifies order tracking, returns and exchanges on the brand website. The default 
+experience on a brand website is fairly broken when it comes to forward or return flows and this 
+solution helps automate that. It essentially provides a smooth forward tracking and returns 
+management experience on the brand website. 
+ 
+And UniReco simplifies payment and returns reconciliation across marketplaces. Brands face 
+challenges with respect to marketplaces overcharging, pending payments and no view on 
+pending returns or lost returns. UniReco solution helps provide visibility for such overcharges, 
+missing returns, etc. so that brands can take appropriate actions to recover the same. 
+That was an overview of our six solutions. Our vision is to become a one-stop shop for e-
+commerce enablement as we are increasingly seeing brands preferring to use all the solutions 
+under a single umbrella. 
+ 
+I'd like to share very briefly case studies of two of our clients to illustrate the direct impact we 
+have on our clients' businesses. For a leading EPC player with an ARR of 300 plus crores, our 
+platform helps achieve an impressive 80% drop in order returns and cancellations. And for a 
+leading gifting platform with ARR of 200 plus crores, our platform helps achieve 50% faster 
+dispatches. 
+ 
+These clients have deployed our OMS and WMS solutions. With our extensive range of 
+solutions, we have been able to create a large growing base of marquee clients across the retail 
+and e-commerce landscape in India as well as consistently on board new clients in international 
+geographies. We serve ever-popular legacy brands such as Emami, Fabindia, Salo, etc. as well 
+as many leading digital-first brands such as Lenskart, Mamaearth, Boat, etc. Till the end of Q1 
+FY25, our annual transaction run rate stood at 850 million plus, enterprise clients at 850 plus, 
+and SMB clients at 2,700 plus. 
+Our enterprise clients account for 90% of our revenues. Our SMB customers contribute the 
+remaining 10% of our revenues. And over the years, we have observed that as SMB clients scale 
+up, they require more solutions and hence some of them are upsold to our enterprise plan. 
+I would now like to highlight the strong pillars of our business model. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 6 of 17 
+ 
+ 
+First, ours is a pure SaaS business model where revenue comes from purely platform usage with 
+no people-service components. This enables us to have a high gross margin. Second, our 
+platform is extremely sticky due to our deep integrations with the various technology processes 
+of a brand, making us a lifeline for the e-commerce journey of a brand. Third, our revenue is 
+linked with the number of transactions. Our enterprise customers, which constitute nearly 90% 
+of our revenues, pay us a minimum subscription fee each month, in which we bundle a certain 
+number of transactions in this cost. Once they utilize this quota of transactions, they pay us an 
+additional fee called the usage fees for the additional transactions they process. 
+ 
+Given that we charge per transaction, we are inherently set up for growth as e-commerce 
+transactions in the country have grown and will continue to grow. Fourth, we have a fairly 
+dominant position, being the largest player in the transaction processing layer by revenue for 
+FY23. Fifth, we have an optimized cost structure, leading to healthy profitability, thereby 
+leading to us being PAT profitable since FY21. We are the only profitable player amongst our 
+top five players in the transaction processing layer based on FY23 numbers. Sixth, our revenue 
+growth is driven by three cohorts of customers. Customers we acquire in the current year, which 
+we call as the T0 cohort, customers we acquired in the previous year, which we call as T-1 
+cohort, and which ends up more than doubling in the current year as we acquired these clients 
+through the year last year. So, on an average, we only got six months of revenue from them last 
+year, and we get at least full year revenue from them this year. And then, there is the T-2 or 
+before cohort. The growth of this cohort is driven by what we call as NRR. NRR is Net Revenue 
+Retention, which means that if NRR is 110%, the cohort of customers that paid us INR100 last 
+year, pay us INR110 this year. We have consistently maintained 100% plus NRRs over the years. 
+Given this construct, a large part of our growth comes from our existing customers itself.  
+Looking ahead, the market for e-commerce enablement SaaS presents a substantial and growing 
+opportunity. Key growth drivers for this business will be, first, e-commerce growth. Currently, 
+the e-commerce market in India is highly underpenetrated. In India, 4 to 4.5 billion shipments 
+were processed last year. By comparison, 130 plus billion shipments were processed in China 
+last year. 
+ 
+This shows a significant headroom for growth for the e-commerce market in India. We have also 
+demonstrated a market++ growth rate consistently. When the market during the pandemic years, 
+as per our estimates, grew at about 30% to 35%, we delivered a 50% revenue growth. 
+ 
+Last year was arguably the slowest year that I have personally seen in the last nine years of my 
+journey at Unicommerce, where the market, as per our estimates, grew late single digits, we 
+delivered a 15% revenue growth in FY24. 
+The second growth driver is new client additions. The e-commerce industry is currently 
+underpenetrated and there is a large scope for the company to add to its existing client base. 
+There are many categories that are yet to go online in a big way and many traditional brands that 
+are yet to adopt being direct-to-consumer and omni-channel in a big way. 
+The third growth driver is new products. Our vision is to become a one-stop shop for e-commerce 
+enablement and hence we recently launched two new products and we will continue to offer 
+more solutions so that the ecosystem can fulfill all their needs of e-commerce enablement from 
+a single place. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 7 of 17 
+ 
+The fourth growth driver is international expansion. We are already present in six countries 
+outside of India and our focus would be to go deeper in these geographies across Southeast Asia 
+and Middle East and deliver growth. 
+While e-commerce is an overall fast-growing industry, Unicommerce has built multiple strong 
+modes that give it a competitive advantage. 
+These are an extensive suite of 250-plus integrations, which continue to grow every quarter 
+along with a stable and scalable platform; second, our long-standing customer relationships due 
+to the sticky nature of the product. And third, our deep partnerships with various ecosystem 
+players. So together these help drive a strong network effect which is creating a virtuous cycle 
+of growth and profitability. 
+Summarizing the key trends and initiatives for this quarter, we continue to add enterprise 
+customers at a steady rate despite the softness in the overall e-commerce market. We added 
+nearly one new enterprise customer every day in quarter 1 FY'25. These customer additions 
+should help in revenue momentum in the coming quarter. 
+We continue to invest in new products and evolve our existing products, while our core business 
+continues to demonstrate a strong operating leverage. Some of the initiatives include enabling 
+integration for four leading quick commerce players, enhancing our returns management module 
+and building UniReco. We have also launched an AI tool UniGPT utilizing Gen-AI to assist e-
+commerce sellers. 
+In summary, looking ahead, we are optimistic about the future and confident in our ability to 
+navigate the e-commerce landscape and deliver long-term value to all our stakeholders. 
+I would now like to invite Anurag Mittal, our CFO, to share the financial performance. Over to 
+you, Anurag.  
+Anurag Mittal: 
+Thanks, Kapil. Hello and good morning, everyone. We are happy to report a good performance 
+for the quarter 1 FY'25. During the quarter gone by, our revenue for the quarter grew by 9.2% 
+year-on-year and stood at 274.7 million in quarter 1 FY'25 compared to 251.6 million in quarter 
+1 FY'24. We expect this growth momentum to continue as generally H2 is better than H1 due to 
+the festive season sales.  
+Our adjusted EBITDA for the quarter grew by 23.2% year-on-year and stood at 44.7 million. As 
+we continue to reap the benefits of operating leverage, our adjusted EBITDA margins grew by 
+185 basis points year-on-year to 16.3% in quarter 1 FY'25 compared to 14.4% in quarter 1 FY'24. 
+Our profit after tax grew by almost 30% year-on-year to 35.12 million in quarter 1 FY'25. 
+Also, as Kapil mentioned, we are working on developing various new products in the e-
+commerce enablement space along with enhancements to the existing products.  
+Over the years, for any enhancements we have made to the existing products, the costs have 
+been expensed in the profit and loss accounts and we continue to do the same. However, as we 
+are working on new products, the costs related to it have been capitalized as assets under 
+development on the balance sheet to the tune of 21 million in quarter 1 FY'25.  
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 8 of 17 
+ 
+Further, we are encouraged by the initial traction from alpha customers for our new products. 
+The feedback from these early adopters has been positive, suggesting that there is a meaningful 
+demand for our new products. This positive response validates our strategic decision to invest 
+in these new technologies and strengthens our belief that they will contribute significantly to our 
+growth trajectory in the coming years.  
+To summarize, our sustained investment in the existing products, combined with the 
+development of new products and the operational efficiencies provided by a scalable model, 
+position us well for future growth and profitability. With robust initial traction across our new 
+products and the benefits of operating leverage continuing to play out, we are optimistic about 
+our ability to capitalize on these investments and drive long-term value for the company. 
+Coming to a few KPIs for the quarter. Our annual recurring revenue as of quarter 1 FY'25 stood 
+at 1,099 million. Our net revenue retention ratio from enterprise clients continues to be 100% 
+plus for many years, reflecting steady revenue growth from contracts with our existing 
+customers, thereby indicating sticky client relationships. 
+Our enterprise clients as of quarter 1 FY'25 stood at 855. The annualized run rate for the number 
+of order items processed basis, quarter 1 FY'25 stood at 850 million. Our client concentration 
+from top 10 client revenues stood at 21%. 
+With this, I would now like to open the floor for Q&A. Thank you. 
+Moderator: 
+The first question is from the line of Payal Shah from Billion Securities. Please go ahead. 
+Payal Shah: 
+I have a question. Overall, the FMCG and retail sales have been slow over the last year or so. 
+What are the trends that are visible to us? 
+Kapil Makhija: 
+We are an e-commerce enablement SaaS platform. Overall, we have seen that e-commerce grew 
+strongly during the pandemic. But since the end of Q2 last year, we have seen some softness that 
+we have seen in the e-commerce overall growth. And the overall festive season also continued 
+to be subdued last year. We are seeing some recovery now happen in the e-commerce growth at 
+the end of quarter 1 for this financial year. And hope to see higher growth in the subsequent 
+quarters. But as of now, we have seen softness in the e-commerce growth as we have seen in the 
+retail as well. 
+Payal Shah: 
+Sir, just a follow-up to my question. How do we see the demand? What kind of growth are we 
+expecting for e-commerce for this fiscal? 
+Kapil Makhija: 
+As I mentioned, we have seen some softness in the e-commerce growth. But we have seen some 
+recovery at the end of quarter 1. And we are hopeful with now the demand picking up, we will 
+see higher growth in the subsequent quarters. I think it will be very early for us to predict what 
+the growth will be. But we are seeing some signs of recovery already and hopeful that the 
+subsequent quarters will demonstrate a higher growth going forward. 
+Moderator: 
+Thank you. The next question is from the line of Aashish Upganlawar with InvesQ PMS. Please 
+go ahead. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 9 of 17 
+ 
+Aashish Upganlawar: 
+So this is the first time I am listening to you so some basic questions. How do you see the drivers 
+for your business because as per the commentary till now basically the growth is e-commerce 
+plus some growth that you guys get. And there would be certain additional services that you 
+mentioned. So just to get some clarity, if you could make us understand how this would turn out 
+over the next 1 year, 2 years in terms of your growth? 
+Kapil Makhija: 
+Thanks for your question. The growth for our business is driven by four key pillars. First is, as 
+you rightly pointed out e-commerce growth. Given that we charge per transactions. As e-
+commerce continues to grow, we continue to grow with that. The second growth lever is addition 
+of new clients. The market is fairly underpenetrated. There are many traditional brands that are 
+yet to come online in a big way and there are many categories that are yet to come online. The 
+third growth driver for us is addition of new products. Our vision is to become a one-stop shop 
+for e-commerce enablement. So we will continue to offer new solutions as far as e-commerce 
+enablement is concerned. And fourth is international expansion. We are already present in 6 
+countries outside of India. Our focus is to go deeper in these geographies across Southeast Asia 
+and Middle East. So with these four growth levers, we are confident of continuing to deliver a 
+consistent growth and expanding profitability in the business. 
+Aashish Upganlawar: 
+So is it possible since the -- given the current activity levels or maybe the services additions or 
+client additions, key metrices how do we see next couple of years for us? Is it going to be organic 
+growth? I mean if you can give some numbers on that basis which one should expect certain 
+delivery on the top line for you.  
+I'm just trying to make a sense of how much growth you would bring in for your e-commerce 
+plus addition of new clients, plus international and stuff. Whatever you mentioned, if you could 
+give some sense on how we should look at your company maybe 2 years, if not immediate how 
+things should run out? 
+Kapil Makhija: 
+Sure, Aashish. So one, I want to clarify that we do not offer any services to our customers. We 
+offer a platform. So they use our solutions in a plug-and-play manner to manage their e-
+commerce. We as a business have delivered market++ growth rate. As I mentioned that during 
+the pandemic, when the market grew at 30% to 35%, we delivered a 50% revenue growth. 
+Last year, the market as per our estimates grew by late single digits and we delivered a 15% 
+revenue growth. We are confident as a management team to deliver a market++ growth going 
+forward as well. 
+Aashish Upganlawar: 
+Okay. And how does the operating leverage play out here, given we've seen some good 
+improvement in your profitability over the last, maybe I think whatever numbers are available. 
+So how does this work for you? And also, if you could give some idea about how much do you 
+charge because it's a small fee that you would be charging for your platform. So how does that 
+model work overall? 
+Kapil Makhija: 
+Sure. So our business has consistently demonstrated operating leverage because the four 
+products that I described to you in the transaction processing layer are fairly mature now. So we 
+do not need to invest a lot in those products. And hence whatever incremental revenue growth 
+we get, a large part of that flows to our bottom line demonstrating operating leverage.  
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 10 of 17 
+ 
+Out of this profit pool, we continue to invest in building new products and for international 
+expansion. And that's why, in spite of our investments that we're doing from our internal accruals 
+itself, we are still able to demonstrate an operating leverage for the overall business as well. 
+Aashish Upganlawar: 
+Okay. So what's the kind of vision you can say or you might have visualized how your platform 
+would look in maybe half mature stage, maybe still growing, but as you said the incremental 
+investments in the business rather the revenue traction would take over the incremental 
+investments that are needed in the business.  
+So is it likely to be a 20% operating margin business once the revenues grow to a certain level? 
+Some kind of idea like that or maybe the ROIs you can speak about in this business whenever 
+you see some kind of maturity in terms of revenues comes in. Any sense on that, if you could 
+share? 
+Kapil Makhija: 
+So our core products are fairly mature. So the incremental investments are not a lot that we go 
+there. Like I mentioned our new products, UniShip and UniReco are currently in the build phase. 
+The level of maturity that a product attains the timeline for that is a function of the complexity 
+of the product itself.  
+But as I mentioned that our core business continues to be significantly profitable and continues 
+to demonstrate a strong operating leverage, and we are able to dip into this profit pool and 
+continue to invest in new products as well as international expansion as well. And over time 
+some of the new products that we will be building will also reach this maturity phase. Our vision 
+is to become a one-stop shop for e-commerce enablement and we will continue to offer new 
+solutions. 
+So today we have launched UniShip and UniReco and we will continue to add more. So over 
+time these different product lines will attain their maturity stage at different points in the future 
+and will continue to add to the profit pool itself. But the idea is that all the brands and sellers in 
+the ecosystem are able to get all the solutions, all the relevant solutions that they need as far as 
+e-commerce enablement is concerned from a single umbrella which is what we offer and which 
+ensures that our relationships with the customers continue to be sticky. 
+Aashish Upganlawar: 
+Sure, thank you. So maybe I'll connect one-on-one with your team and gauge more on things. 
+Thank you so much. 
+Moderator: 
+Thank you. The next question is from the line of Sumeet Jain from CLSA. Please go ahead. 
+Sumeet Jain: 
+Yes, hi. Thanks for the opportunity and congratulations on a good profitability this quarter. So 
+Kapil and Anurag, firstly just housekeeping questions. Can you just guide us what is your Y-o-
+Y and Q-o-Q growth in items processed this quarter? 
+Anurag Mittal: 
+So, Sumeet Y-o-Y growth for the number of items processed in quarter 1 FY25 is 35%. We 
+processed 212.77 million in Q1 FY25 as compared to 158.19 million order items processed in 
+Q1 FY24. 
+Sumeet Jain: 
+Got it. And how is it sequentially, Anurag, if you can tell us? 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 11 of 17 
+ 
+Anurag Mittal: 
+Sumeet we processed 197.91 million of order items in quarter 4 FY24. And, in fact, if you see 
+the growth between the quarter 1 FY25 versus quarter 1 FY24 (wrongly said, kindly read it as 
+quarter 4 FY24), we have delivered a growth of near about 7.5%.  
+Sumeet Jain: 
+Got it. Now that's helpful. So coming to the pricing trend I mean is it like there is some bit of a 
+pricing pressure in the industry or is it like because of increase in the number of volumes from 
+your enterprise customers, your per-item pricing comes down because of that? So can you just 
+give us a highlight at a slightly higher level? 
+Kapil Makhija: 
+So our price steady state has been about 1.2 to 1.3 per item. It has stayed consistent, Sumeet. It 
+is a function of both as we add new enterprise clients which typically are at higher scale and are 
+able to get a lower rate and also a mix of categories itself where now we are seeing a lot of 
+traction across emerging categories like beauty and personal care, health and nutrition, etc where 
+again the volumes are high because of which they have a slightly lower rate. 
+So it's a function of us being able to get higher enterprise clients as well as a category mix that's 
+changing, but the price has stayed consistent in the range of 1.2 to 1.3.  
+Sumeet Jain: 
+Got it, Kapil. That's very helpful. And if I see your enterprise customer growth, I mean, almost 
+by 85 number, what you mentioned, it's almost a 10% growth sequentially, and I'm assuming 
+this must have happened over the course of the quarter. And obviously enterprise compromised 
+of almost 85% to 90% of your revenues. So does that imply that irrespective of how the festival 
+season goes by, this addition of enterprise customers itself will give you a good sequential 
+growth in the next quarter? 
+Kapil Makhija: 
+So, Sumeet, customer additions is definitely a factor for us to drive growth, but the other factors 
+are also important, which is the transaction growth. As I mentioned, in terms of our revenue 
+growth driven by different customer cohorts, a large part of our growth continues to be from 
+existing customers itself for the current year. So, it's a function of transaction growth as well as 
+new customer additions, as well as revenue that we start generating from new products, plus 
+international expansion. So our growth is a function of all these four factors. 
+Sumeet Jain: 
+Got it. And Anurag, you mentioned that you guys have capitalized almost 21 million expense 
+around product development. So if I actually include back in your P&L, your EBITDA 
+sequentially would have been slightly down. So I just want to understand this R&D expense 
+around new product development, is it spread across employee benefits and other expenses, or 
+how is it? And is this policy change only in this quarter, or how is it? 
+Anurag Mittal: 
+Sumeet, to answer this question, I want to clarify that we are investing in new product 
+development, which we intend to commercially launch towards the end of this calendar year or 
+early part of next year. Accordingly, the investments to build this product suite is capitalized, 
+including manpower expenses. So today all revenues is from existing set of products only. 
+ 
+Accordingly, for calculation of adjusted EBITDA of INR4.5 crores, the costs considered are 
+largely relating to the existing product suite. And therefore, the adjusted EBITDA margins of 
+16% represents the true operating margins for the company. And post the commercial launch of 
+the new product, the operating expenses will start getting expensed out in profit and loss account, 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 12 of 17 
+ 
+having marginal impact on the margins. Even then, we remain confident of our improvement in 
+margins playing out. 
+Kapil Makhija: 
+And one more point to add, Sumeet, that there is no policy change. For all incremental 
+enhancements, they still continue to be expensed. This is after a very long time we are actually 
+building new products, and that's why those have been capitalized. It is a consistent policy that 
+we have followed over the years. 
+Sumeet Jain: 
+Okay. And at a very high level, Kapil, just want to understand the three, four growth drivers you 
+mentioned. So if one has to assume you grow in let's say 15% to 20% range, in that range, in a 
+given year, given that e-commerce CAGR has been in that range over a 5 to 10-year period. 
+ 
+So out of, you know, the three, four initiatives you mentioned in terms of new client addition, 
+new products, international expansion, and the growth from existing client, these four areas, how 
+will you distribute your 15% to 20% growth? Let's say assuming, I'm not saying for a guidance 
+here, but let's say if you assume that to be the range, these four growth drivers you mentioned, 
+which will be the biggest and the least important, if you can mention? 
+Kapil Makhija: 
+Sumeet, as I mentioned, that our existing customers continue to drive a large part of our growth 
+because we are linked to a number of transactions. So transaction growth will continue to 
+determine our growth. Then the new customers that we add in the year continue to add some 
+contribution to the current year revenue growth.  
+But more importantly, these are additions that help us drive future revenue growth because as I 
+mentioned, the customers we acquired in the current year end up more than doubling in the next 
+year because in the current year, we only get average six months of revenue from that. Then new 
+products, today they are at a very early stage. As I mentioned, they are in the build phase today, 
+and we continue to incorporate client feedback to make them more mature. 
+ 
+So today they are negligible contributors because we just pilot-launched it with a few customers, 
+but we are getting very positive response from the alpha adopters. And finally, international 
+expansion. Again, we are expanding to new geographies, while the product is pretty much ready 
+for both the current and future needs in these geographies. 
+ 
+But we have to continue to build a strong customer base in these geographies as well. So it will 
+be in that order that we'll continue to demonstrate revenue growth for the business. 
+Sumeet Jain: 
+Got it. That's very helpful. And lastly, I mean, compared to your 9% revenue growth, any idea 
+about how much the overall e-commerce market would have grown in this quarter on a YOY 
+basis? Because we don't get any industry data, particularly. So just taking a cue from you, if you 
+get any sense.  
+Kapil Makhija: 
+So we continue to grow market++. We have demonstrated that over many years now. So even 
+in this quarter, as I mentioned, the market started to show subdued growth at the end of quarter 
+2 last year, and it continued to be subdued during the festive season and in quarter 1 itself. But 
+we've seen some recovery happen towards the end of quarter 1. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 13 of 17 
+ 
+ 
+So at least our hope is that in the subsequent quarters, the growth will continue to be high. But 
+as of now, the market in quarter 1 itself has been subdued and we have delivered a market plus 
+plus growth as per our estimates. 
+Sumeet Jain: 
+Got it. That's very helpful. All the best to the entire team and great show. Thank you. 
+Moderator: 
+Thank you. The next question is from Ankur Pant from IIFL. Please go ahead. 
+Ankur Pant: 
+Hi, sir. Good morning. I have a couple of questions. The first one is a short-term one. So we 
+have delivered 9% growth in 1Q. And while I do understand that there is a positive seasonality 
+heading into 2H, any reason you believe that this growth could be higher in 2H on a YoY basis? 
+Or is that completely market dependent? I'll ask my second question after this. 
+Kapil Makhija: 
+As you mentioned that there is a seasonality. So we typically have seen that revenue in H2 is 
+higher than H1 due to the festive season sale as our revenue is linked to the number of 
+transactions being processed. Last year, as I mentioned, we saw the e-commerce growth decline 
+towards the end of quarter 2 and the growth continued to be subdued during the festive season 
+last year. 
+ 
+However, this year we have seen some recovery happen towards the end of quarter 1, which 
+leads us to believe that we will continue to see higher growth in the subsequent quarters. The 
+other factor, obviously, because the last year's festive season was subdued, we will also see a 
+base effect and hope to see a higher growth in the second half of the season. 
+Ankur Pant: 
+Sure. And any company-specific reason on that front? Any new product or anything else which 
+could lead to a higher growth uptick? 
+Kapil Makhija: 
+So, in terms of us, one, we continue to add enterprise logos. We've added one enterprise customer 
+every day in quarter 1. So, these customer additions will continue to demonstrate higher growth 
+in the subsequent quarters, plus the new products as we continue to build on them and 
+incorporate feedback, there will be some additional revenue that will come our way. So it will 
+be a combination of transaction growth, client additions, as well as some traction that we will 
+start seeing from new products as well. 
+Ankur Pant: 
+Sure. Thank you. That's helpful. And my other question is a slightly longer-term question. So 
+just thinking from a three- to five-year perspective, what is the kind of top line and margin that 
+you're looking at? Just a broader sense that you think of internally. 
+ 
+And Unicommerce has been growing at market plus plus, what kind of a growth differential that 
+you expect Unicommerce to grow versus the market? Like 10%? What is the kind of number 
+that you think is feasible? 
+Kapil Makhija: 
+Sure. So we have seen some softness in the e-commerce growth in the recent quarters, but the 
+medium to long-term story of e-commerce growth is intact. As I mentioned, e-commerce market 
+in India is highly underpenetrated because in India, as an example, last year, 4 to 4.5 billion 
+shipments were processed. In comparison, 130-plus billion shipments were processed in China. 
+So there is a significant headroom for growth for e-commerce market in India. Our estimate is 
+that medium to long-term growth in e-commerce market overall should be 25% plus, and we 
+continue to deliver a market++ growth so far, which has been a combination of transaction 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 14 of 17 
+ 
+growth, our customer additions, as well as now we have a new product lever as well. So we are 
+hopeful that we'll continue to deliver a market++ growth in the medium- to long-term. 
+Ankur Pant: 
+Thank you. That's very helpful. I wish you all the best. 
+Moderator: 
+Thank you. The next question is from the line of Nikhil Chandak from JM Family Office. Please 
+go ahead. 
+Nikhil Chandak: 
+Yes, hi. Good morning. So, some few basic questions. The first clarification I wanted is how 
+much percent of your customers would be on a fixed fee kind of a model, say for the year, versus 
+per transaction kind of a revenue model? 
+Kapil Makhija: 
+So all our enterprise customers pay us a minimum subscription fee each month, and in which 
+they are allotted certain quota of transactions in this cost, and once they exhaust this quota, they 
+pay us an additional fee. There are, like all our customers follow this model. We continue to add 
+new customers every year, and it takes a couple of quarters for them to expand their transaction 
+base and exhaust this quota. 
+ 
+So it is a function of the number of customers that we add in a particular year, but steady state, 
+majority of our customers have already exceeded this quota of minimum transactions and 
+continue to pay us the additional usage fees, but given that we continue to add new customers 
+every year, they take certain time. 
+ 
+So at an overall company level, this number may be different, but today, majority of our steady 
+customers in steady state pay us an incremental or the usage-based fees, but the new customers 
+that we add, they continue. 
+Nikhil Chandak: 
+And the incremental usage-based fee is a, like, a flat-line kind of a structure, or there are some 
+slabs beyond which the fee keeps reducing? So if the customer exceeds, I'm just saying far too 
+many transactions, does the fee kind of come down? 
+Kapil Makhija: 
+No, so most of our contracts are linear, so as the transactions of the customer grows, our revenue 
+from that customer continues to grow in that line. There are a few contracts that have slab-based 
+commercial, so they get certain discounts for increasing scale, but that's a very small portion of 
+our contract. 
+ 
+See, for any e-commerce brand or seller, as the scale increases, they actually value the 
+complexity we are solving for them a lot more compared to a customer which is at lower scale. 
+So very rarely have we seen a customer demanding a discount as their scale increases because 
+we are helping them handle a large portion of this complexity very seamlessly, and they value 
+this solution a lot more at higher scale, and that's why most of our contracts continue to be linear. 
+Nikhil Chandak: 
+Understood. The other basic question I had is, who would be your competition in the market? 
+Or how small would be the other competition in the market? And would the companies' in-house 
+teams also be a competition for you? 
+Kapil Makhija: 
+See, the competitors for us are e-commerce first solution given that we play in e-commerce 
+enablement space. We have listed some of these players in our RHP as well, so these are players 
+such as Increff, Vinculum, etc. But essentially, as I mentioned, we are a fairly dominant player. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 15 of 17 
+ 
+ 
+We are the largest player in the transaction processing layer by revenue for FY '23, and the only 
+profitable player amongst the top five players in the transaction processing layer as of FY '23. 
+Nikhil Chandak: 
+Understood. Perfect. And just the last question, so I'm just trying to picture what is really the 
+industry size for you. I'm not talking about the e-commerce players. I'm saying the e-commerce 
+enablement segment. So, for example, you've done like a quarterly top line of roughly INR27-
+odd crores, I can see, say, for the last quarter. But what would be the industry size? What is the 
+TAM for this space? 
+Kapil Makhija: 
+See, today, e-commerce, while it's been around for a decade, it's very, very nascent. A lot of 
+brands today use Excel to manage their e-commerce operations. And very few brands today use 
+a software to manage e-commerce, and that's where we see a significant headroom for growth, 
+not just because of e-commerce being underpenetrated. 
+ 
+The penetration of software being used to manage their e-commerce business is fairly low today. 
+And as more and more brands see an increasing scale and increasing complexity, because for 
+many brands, e-commerce today is just maybe selling on one or, at best, two platforms. But as 
+brands start to grow, they realize that they have to be on multiple platforms, which is how a lot 
+of large brands and retailers have operated in India. 
+ 
+And as they get onto multiple platforms, as their scale increases, they realize that it is nearly 
+impossible to handle this complexity manually or using Excel to manage their operations. And 
+that is when they look for a solution. The overall TAM for the market... 
+Nikhil Chandak: 
+Could you kind of put a number to it, just in case if there's some industry-wide number? 
+Kapil Makhija: 
+Yes, so the overall market, the TAM for both the core products and the complementary offerings 
+that we offer is about $680 million. But as I mentioned, a large part of this market is today getting 
+managed on Excel, so it is addressable. But as the complexity and the scale for the market 
+increases, more and more brands will look for a software to manage their operations. 
+Nikhil Chandak: 
+Perfect. Great. Thank you so much. All the best. Thank you. 
+Moderator: 
+Thank you. The next question is from the line of Rohan Nagpal from Helios Capital. Please go 
+ahead. 
+Rohan Nagpal: 
+Yes, thanks for the opportunity. So, quick question. So, if I just take your... 
+Moderator: 
+Sorry to interrupt, sir. May we request you to use your handset, sir? Your audio is not very clear, 
+sir. 
+Rohan Nagpal: 
+Yes. So, if I just look at your revenue per item, it's gone from about 1.6-ish to 1.3, or there's a 
+20%-odd compression year-over-year and a 4% compression quarter-over-quarter. With an 
+increasing number of enterprise customers, do we expect this sort of compression to continue, 
+or do we expect it to sort of stabilize from here on? 
+Kapil Makhija: 
+As I mentioned, the price for us, the steady-state transaction rate, has been between 1.2 to 1.3 
+and continues to be there. The price changes that you've seen as a function of us acquiring more 
+enterprise customers, as well as the overall category mix changing. But now, a few levers that 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 16 of 17 
+ 
+we are deploying to increase the prices, that in all our new contracts, we have introduced a price 
+escalation clause, and this we have introduced since last year. So now, every new contract at the 
+end of 1 year, will have a price escalation already built in. 
+ 
+And also, as we launch new products, like we've launched UniShip and UniReco, for the same 
+transaction, or the same item that's going out of the warehouse, we are now able to charge 
+additional amount using UniShip, which is providing tracking services for the same item that's 
+going out, or using UniReco, that is providing reconciliation for the same item that's coming 
+back as a return. So through these two levers, we will be able to see a price, a stable to increasing 
+price trend for a price per item. 
+Rohan Nagpal: 
+Got it, okay. That's helpful. And in terms of your expense base, do we, I think last year, there 
+was a, between Q1 and Q4, there was about a 6% increase in the cost base. Do we expect a 
+similar sort of escalation this year, or how should one think about it? 
+Kapil Makhija: 
+So the overall cost base, absolute cost base increase is for the employees, and that's a result of 
+the appraisals that we do for our team in Q1. But if you look at as a percentage of revenue, our 
+employee cost base, as a percentage of revenue has seen a consistent decline over the last few 
+quarters, and that is a result of the operating leverage that the business continues to demonstrate, 
+because our cost base is largely fixed, as the core business continues to grow, and there are not 
+significant investments that are required in the business. 
+ 
+And whatever investments we are doing in new products and international expansion continue 
+to be there from our internal accruals itself. So as a percentage of revenue, we have demonstrated 
+a consistent decline of employee cost as a percentage of revenue, and we'll continue doing that. 
+Q1 is a result of appraisals, as I mentioned, and that is a seasonal, like every year, we do our 
+appraisals in Q1 of every financial year. 
+Rohan Nagpal: 
+Okay, so it's broadly going to stay fixed from here on for the rest of the year? 
+Kapil Makhija: 
+That's true. 
+Rohan Nagpal: 
+Okay, thank you. 
+Moderator: 
+Thank you. The next question is from the line of Deepak Jain, who's an Investor. Please go 
+ahead. 
+Deepak Jain: 
+Yes, so my question was, what part of our expenses do we incur towards marketing expenses 
+and development expenses? Do you disclose on that? 
+Anurag Mittal: 
+Thanks, Deepak, for asking this question. On the sales and marketing front, we continue to invest 
+in sales and marketing through digital marketing and offline events through both third-party and 
+our own. 
+Deepak Jain: 
+Okay. Any specific number? Any percentage wise in terms of the turnover?  
+Kapil Makhija: 
+So we disclose this in the advertising and travel expenditures in our P&L. That's there in our 
+disclosures. 
+
+ 
+ 
+Unicommerce eSolutions Limited 
+ 
+ 
+September 02, 2024 
+ 
+Page 17 of 17 
+ 
+Deepak Jain: 
+Thank you. 
+Moderator: 
+Thank you. Ladies and gentlemen, that was the last question for today. As there are no further 
+questions, I now hand the conference over to the management for closing comments. 
+Kapil Makhija: 
+Thank you, everyone, for joining the call today. We hope we have been able to give you a 
+detailed overview of our business and also answer your queries. Should you have further queries 
+or clarifications, please feel free to reach out to Strategic Growth Advisors, our Investor 
+Relations Advisors. Thank you and good day. 
+Moderator: 
+Thank you. On behalf of IIFL Securities Limited, that concludes this conference. Thank you for 
+joining us and you may now disconnect your lines. 

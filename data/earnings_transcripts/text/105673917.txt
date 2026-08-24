@@ -1,0 +1,929 @@
+ 
+ 
+ 
+November 10, 2023 
+ 
+To,
+BSE Limited, 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort, 
+Mumbai – 400001 
+ 
+BSE Scrip Code: 543451  
+ 
+To,
+National Stock Exchange of India Limited, 
+Exchange Plaza, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai - 400051 
+ 
+NSE Scrip Symbol: AGSTRA 
+ 
+ 
+Ref: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+ 
+Sub: Transcript of Earnings Conference Call held on November 6, 2023 
+ 
+Dear Sir, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find 
+enclosed, transcript of the earnings conference call held on Monday, November 6, 2023, post declaration of the 
+unaudited financial results (standalone and consolidated) for the quarter and half year ended September 30, 2023. 
+ 
+The above information will also be made available on the website of the Company at www.agsindia.com 
+ 
+This is for your information and record. 
+Thanking You, 
+For AGS Transact Technologies Limited 
+ 
+ 
+ 
+Sneha Kadam 
+Company Secretary and Compliance Officer 
+(Mem No: ACS31215) 
+ 
+ 
+Enclosure: As above 
+ 
+ 
+SNEHA 
+PRABHAKA
+R KADAM
+Digitally signed by 
+SNEHA 
+PRABHAKAR 
+KADAM 
+Date: 2023.11.10 
+21:42:19 +05'30'
+
+Page 1 of 17 
+ 
+ 
+“AGS Transact Technologies Limited 
+Q2 and H1 FY24 Earnings Conference Call” 
+November 06, 2023 
+ 
+Disclaimer: E&OE. This transcript is edited for factual errors. In case of discrepancy, the 
+audio recordings uploaded on the stock exchange on November 6th, 2023, will prevail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT: 
+MR. RAVI B. GOYAL – CHAIRMAN AND MANAGING 
+DIRECTOR – AGS TRANSACT TECHNOLOGIES LIMITED 
+ 
+MR. STANLEY JOHNSON – EXECUTIVE DIRECTOR – AGS 
+TRANSACT TECHNOLOGIES LIMITED 
+MR. VINAYAK GOYAL – EXECUTIVE DIRECTOR – AGS 
+TRANSACT TECHNOLOGIES LIMITED 
+MR. SAURABH LAL – CHIEF FINANCIAL OFFICER – AGS 
+TRANSACT TECHNOLOGIES LIMITED 
+ 
+ 
+ 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 2 of 17 
+ 
+Moderator: 
+Ladies and gentlemen, good day and welcome to the AGS Transact Technologies Limited Q2 
+and H1 FY '24 Conference Call. This conference call may contain forward-looking statements 
+about the company, which are based on the beliefs, opinions, and expectations of the company 
+as on date of this call. These statements are not the guarantees of future performance and 
+involve risks and uncertainties that are difficult to predict. 
+ 
+As a reminder, all participant lines will be in the listen-only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need 
+assistance during this conference call, please signal an operator by pressing star, then zero on 
+your touch-tone phone. Please note that this call is being recorded. 
+ 
+I now hand the conference over to Mr. Ravi Goyal, Chairman and Managing Director, AGS 
+Transact Technologies Limited. Thank you and over to you, sir. 
+Ravi Goyal: 
+Good afternoon, everyone. A very warm welcome to each one of you and thank you for 
+joining our Q2 and H1 FY24 Earnings Call. On this call, I am joined by our CFO, Mr. Saurabh 
+Lal, Executive Director, Mr. Vinayak Goyal, and Executive Director, Mr. Stanley Johnson. 
+The Indian economy is growing rapidly and with it, the demand for financial services. It is 
+crucial that technological advancements evolve in a responsible manner and are truly 
+beneficial to the people at large. These developments come about as a combined effect of 
+digital public infrastructure, institutional arrangements, and policy initiatives. 
+ 
+They help foster a conducive environment for nurturing creative ideas and promoting 
+transformative technologies, which lead to beneficial and impactful changes in the financial 
+industry. We at AGS Transact are at the heart of these changes in the ecosystem, with forays 
+into traditional cash management as well as digital payments via our PPI license and ongoing 
+framework. The currency in circulation stands at INR33 trillion as of 30th September 2023. It 
+is projected to reach INR35.5 trillion by the end of 2024. 
+ 
+On the digital payment front, UPI continues to make waves globally. Over 11 billion 
+transactions worth INR17.16 lakh crores took place via UPI in India in October 2023. The 
+reason for this sustainable growth and the driver going forward is the growth in person-to-
+merchant transactions. The growth of open-loop prepaid cards, which provide an increased 
+level of convenience for customers as a whole, is one of the most emerging trends that we have 
+seen. An industry study indicated that the Indian prepaid card market was likely to witness a 
+compounded annual growth rate of 40.5% between the years 2021 and 2026, and the trend is 
+already visible in the country. 
+ 
+This is primarily due to the increase in internet and smartphone usage, as well as the robust 
+growth in the e-commerce sector. Offline payments for multimodal travel are now made 
+possible through the use of the National Common Mobility Card or NCMC, which is backed 
+by the RuPay platforms. Commuters can now use these for making payments across metro 
+stations in the country, and soon for other modes such as bus, suburban railroads, smart city, 
+retail, toll and parking. 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 3 of 17 
+ 
+ 
+As of today, more than 23,000 NCMC cards powered by AGS Transact have been issued for 
+Bangalore Metro Rail Corporation. 
+  
+Coming to the ATM business specifically, several leading private and public sector banks are 
+expanding their bank branches. This is a very healthy sign for the industry, as every branch 
+requires at least one on-site ATM and about two off-site ATMs and with our pan-India 
+presence, it augurs well for us to capture this growth momentum. 
+Further, during H1 FY ‘24, we have seen total RFPss of 41,400+ ATMs and CRMs, and we 
+are confident that demand will continue in coming quarters. Cash Recycling Machines, or 
+CRMs, are w2 strong favour with all the leading banks and are being adopted widely. This can 
+be seen even in our operational metrics, wherein CRMs under our management have grown 
+from over 4,000, two quarters back to 8,247. We are confident that the rapid adoption and 
+transition to CRMs will continue. 
+The cash management market, which includes ATM cash management, retail cash 
+management and dedicated cash-in-transit vans, amounted to INR 3,920 crores in 2023. 
+Encouragingly, research indicates that this market is set to expand significantly, reaching INR 
+7,900 crores by 2027, presenting potential growth opportunities. 
+From a company standpoint, we are focused on further streamlining our overall business 
+operations and services. We had a flat performance last year, going through multiple 
+challenges in the macro environment, slower uptake of some initiatives, spillover of our order 
+book and some loss allowances. Strategically, we are focused on improving our business line 
+efficiencies and effectiveness. 
+Last quarter, we announced that we have received authorization from the RBI to issue co-
+branded prepaid cards in collaboration with our partners. We remain focused on enhancing 
+customer experience across our payment points through our offerings such as Ongo POS and 
+open-loop prepaid cards, etc.. 
+Overall, in Q2 FY ‘24, we serviced approximately 4,86,453 customer touchpoints across 2,200 
+cities and towns in India during this quarter. We provided cash management services to more 
+than 40,152 ATMs and CRMs through our wholly owned subsidiary, Secure value India. As 
+on 30, September 2023, AGS Transact Technologies has installed, maintained and managed a 
+network of approximately 77,685 ATMs and CRMs. Our CRM network has expanded to 
+8,247. Our ATM outsourcing and managed service business complements cash management 
+business, which is housed in our stand-alone entity. 
+I am pleased to share that we have completed the integration of all the 8,000 ATMs and CRMs 
+won recently and they are expected to add to our revenues and provide us scale benefits in the 
+coming quarters. This is testament to our timely and efficient execution capabilities, which will 
+augur meaningful benefits to the company going forward. 
+We are optimistic about securing additional contracts to expand our portfolio, which will in 
+turn also provide synergy benefits for our cash management business. Cash management 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 4 of 17 
+ 
+industry, which is driven by ATM roll-outs, is expected to grow at 4% CAGR, especially as 
+leading banks are stepping up their roll-outs. 
+Another factor is the growing demand for outsourcing as banks look to focus on their other 
+core and profitable operations. The proportion of ATMs/CRMs being outsourced for cash 
+management is expected to increase to 70% to 75% in the medium term. Since cash logistics is 
+a high operating leverage business which favours scaled players, it is very positive for a player 
+of our size and scale. 
+Talking about our sales mix for the quarter, the ATM outsourcing business, which is on a 
+transaction or fixed fee basis, contributed approximately 52% of our quarterly top line. 
+Another 12% of the top line came from AMC services and updates. Our cash management 
+subsidiary Securevalue India, which serves a mix of captive and non-captive ATMs, 
+contributed 14% of the top line from the non-captive ATMs. 
+In line with what I have mentioned above, we have scaled down our low margin product 
+business. As a consequence of that, our service revenue has inched up by 3% year-on-year, a 
+depiction of our gradually changing revenue mix and in line with our strategy. For Q2 FY ‘24, 
+service revenue accounted for approximately 98%. 
+From a way forward perspective, we see ourselves continuously expanding our ATM and 
+CRM network on the back of the RFPs being floated in the industry, the cash management 
+business and building upon the NCMCs powered by AGS Transact, in line with our objective 
+to pivot from payments as a service to payments as a convenience. 
+Now I would request my colleague Saurabh Lal, CFO of AGS Transact Technologies, to share 
+the financial highlights of the quarter and half year gone by. Saurabh, over to you. 
+Saurabh Lal: 
+Thank you Ravi. Good afternoon everyone. Continuing from the operational highlights and 
+major developments that happened over the quarter and half year gone by, I would like to take 
+you through the financial performance of the company. 
+In Q2 FY '24, the total income of the group stood at Rs. 3,886 million versus Rs. 4,206 million 
+in Q2 FY '23. The reduction in top line is the consequence of scaling down of our product 
+business, which was functional in the corresponding period last year. However, in connection 
+with this, we have also observed a simultaneous reduction in various associated costs also, 
+which has helped us to become more efficient in our operations. 
+Sequentially, the top line grew by 2% from Rs. 3,794 million in Q1 FY '24, despite phasing 
+out certain business lines that we have discussed. Talking about our EBITDA number, the 
+adjusted EBITDA for the group in Q2 FY '24 stood at Rs. 938 million as against Rs. 1,235 
+million in Q2 FY '23. The corresponding figures for Q1 FY '24 stood at Rs. 1,030 million. 
+The adjusted EBITDA margin for Q2 FY '24 stood at around 24.1% as against 29.4% in Q2 
+FY '23 and 27.1% in Q1 FY '24. Similarly, the numbers for H1 FY '24 are stacked as follows. 
+The revenue for this semi-annual period stands at Rs. 7,477 million versus Rs. 8,311 million in 
+H1 FY '23. 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 5 of 17 
+ 
+The EBITDA stands at Rs. 1,110 million in H1 FY '24 against the corresponding H1 FY '23 
+figure of Rs. 2,383 million. Coming to the adjusted EBITDA, the figure for H1 FY '24 is Rs. 
+1,968 million versus Rs. 2,505 million in H1 FY '23. During this semi-annual period, we have 
+taken some provisions towards the Rs. 450 million worth of receivables that had been 
+accumulated over a period of time. 
+We have also made a provision of about Rs. 395 million towards commitment fee which we 
+are hopeful of reversing in next few quarters, subject to successful negotiations which are 
+underway. If this charge gets reversed in subsequent quarters, we will have a quarterly charge 
+of around Rs. 60 million per quarter for the next two years. As we have been highlighting over 
+the past two quarters, we have been scaling down some of our business lines as a result of 
+which certain direct costs have reduced and certain indirect costs are expected to get pruned in 
+the subsequent quarters as well. 
+Our finance costs have stayed flat sequentially and stand at Rs. 367 million as against Rs. 367 
+million in Q1 FY '24. Our net debt stood at Rs. 6,479 million at the end of H1 FY '24 as 
+against Rs. 6,769 million as at the beginning of this financial year. From profit after tax 
+perspective, we recorded a loss of Rs. 609 million in Q2 FY '24 as against profit of Rs. 207 
+million in Q2 FY '23. 
+Talking about our segmental performance for the quarter, our payment solution business 
+contributed 87% of our revenue in H1 FY '24. This segment includes cash solution segment 
+accounting for 68% of total revenue. This covers ATM and CRM outsourcing and managed 
+services and cash management business also. 
+The growth is largely driven by expansion in all these business networks. The cash 
+management solution segment will grow in line of with ATM outsourcing which is already 
+captured in ATM outsourcing growth. Currently, we are the second largest player in the 
+market.  We leverage this as the market is looking for strong compliant players. The digital 
+solution contributed 19% to our total revenue. This includes revenue from POS machines, 
+switching transactions and transit solutions also. 
+We are aiming to leverage our PPI license and ongo digital strategies as we go forward. Our 
+banking automation solution comprises of sales of ATM/CRM and other currency technology 
+products, self-service terminals and their upgrades and AMCs. This segment contributes 11% 
+of our total revenue. 
+Lastly, the other automation solution business segment which encompasses sales of machines 
+and other related services to customers in retail, petroleum and color segment contributed 2% 
+of our total revenue. 
+With this, we conclude our presentation and open the floor for further discussion. Thank you. 
+Moderator: 
+Thank you sir. We will now begin the question-and-answer session. The first question is from 
+the line of Mr. Darshit from Robo Capital. Please go ahead, sir. 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 6 of 17 
+ 
+Darshit: 
+Good afternoon. Thanks for taking my question. So, first of all, I needed POS and SVIL 
+revenues for Q2? 
+Saurabh Lal: 
+Okay. Darshit, you can go ahead with the other question. 
+Darshit: 
+Okay, got it. So, my second question is, on a reported basis, our EBITDA in the range of 24%-
+25%, how it has been for some time Do we see that happening from Q3 or are there any 
+provisions yet to be taken apart from what you have already specified? 
+Saurabh Lal: 
+Sure. So, Darshit, I will go one by one. So, from the POS revenue basis and on the digital 
+revenue which you see is constituting around 19% of total revenue. Out of this, 19% represents 
+in the value terms is around Rs. 761 million. In this Rs. 761 million, the POS revenue is Rs. 
+468 million and the balance of the revenue comes from other digital solutions which is transit 
+solutions and mostly from the transit solutions and other switching businesses which stands as 
+Rs. 293 million. 
+So, total revenue for POS is Rs. 761 million for this quarter. On the secure value side, the cash 
+management business, the revenue for this quarter is Rs. 511 million. This is the net revenue 
+after removing AGS as a related party transaction. The gross revenue for securevalue is at Rs. 
+1,116 million. 
+Now, coming to the second part Darshit with respect to the EBITDA margin. If you see, the 
+overall from the company's standpoint of view, the adjusted EBITDA margin of the company 
+is varying between the range 25%, 26%, 27% we have seen the highest of 29.9% also in the 
+previous quarters as well. But considering those sectors and the various business that we have 
+scaling down a period of time which we have started doing in last one year specifically where 
+we are scaling now certain other automation businesses. 
+Now, the revenue has definitely scaled down immediately but there are certain costs which we 
+have already started reducing and started pruning. But there are certain costs I would say for 
+which the benefit is yet to come to us. So, I think within the next one quarter or two quarters, 
+we will see more benefit coming from the costs which are directly associated with the 
+businesses which we have already scaled down or have already moved to the next, closer 
+stage. 
+ 
+So, some benefits are yet to come. So, as soon as we see those benefits, there will be definitely 
+increase in the certain percentage of basis to the company's performance. Otherwise, from a 
+business perspective, the EBITDA percentage we expect and continue to see that this should 
+stay in this zone only. 
+Darshit: 
+Okay. So, in the 24%-25% range, it can stay, going forward? 
+Saurabh Lal: 
+Yes, that's true. Okay. 
+Darshit: 
+And secondly, what would be your gross debt levels for the next two years if you can give 
+some color on that? 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 7 of 17 
+ 
+Saurabh Lal: 
+So, Darshit on our debt side, we have been keeping a very, very close eye and tap on those 
+debts also. We have definitely, there is no specific metric but as an organization, as a 
+company, we maintain certain internal metrics so that we can keep on monitoring our debt 
+either as a percentage of revenue, as a percentage of net worth, as a percentage of EBITDA. 
+Definitely, those factors are taken into account. 
+ 
+But if you see our debt, we have a majority of our debt is into term loan debt and certain 
+portion of the debt into working capital debt. And we have a case of term debt. Definitely, 
+there is a scheduled repayment plan which will go for next one year and two years down the 
+line. 
+ 
+So, if the companies continue to generate a similar kind of cash flows that we have been 
+generating from the past or with the expected percentage of EBITDA that we are going to 
+generate in the next quarter or maybe a couple of years, we believe we will be able to keep on 
+paying those debt from internal accruals. Having said that, if we see an opportunity coming up 
+in the future to deploy more ATMs, to deploy more growth, to deploy more other businesses, 
+so definitely, company would look for all the options to raise this capital, maybe in the form of 
+debt or some other financial options available to the company. 
+Darshit: 
+Okay, so then we might have some more idea going forward in the next two, three quarters, 
+not as of now? 
+Saurabh Lal: 
+Correct. 
+Darshit: 
+Okay, and my final question, any revenue and EBITDA/PAT guidance for the next two, three 
+years? I mean, any key drivers do we have and what are we expecting? 
+Saurabh Lal: 
+So, as we speak Darshit, most of our revenue is into a service-based revenue. So, that gives 
+most of us as a company to predict our revenues in the form of that how much service revenue 
+constitute our business because most of the revenues that we get in this business are mostly 
+linked to the contract which are long-term in nature. So, from that perspective, we have always 
+been confident that this is the amount, percentage of revenue, this is the amount of revenue 
+which we can definitely forecast for next year or so. 
+ 
+Having said that, definitely, there are always an opportunity to grow the businesses, to add 
+more line of businesses. As Ravi has also mentioned, the strategy is very clear to grow ATMs, 
+CRM business, cash business, to build more businesses on this line of NCMC card and the 
+Ongo issuance card and everything. But going with a very specific guidance, it will be very 
+tough for us, but I think the company is working closely and monitoring all their business lines 
+and ensuring that we should be able to deliver to the best and considering our position in the 
+market, whether it's an ATM business, cash business, we continue to be a leader. 
+ 
+We would like to grab the opportunity which is available in the market so that we are also 
+growing as banks are growing and other institutions are growing. 
+Darshit:  
+Okay, but any ballpark figure also, I don't need your specific guidance, just some kind of 
+metric that you said, let's say 15%-20% growth that you are aiming for, something like that? 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 8 of 17 
+ 
+Saurabh Lal: 
+So, Darshit, if you see our financial performance for last two years, three years, which Ravi 
+also mentioned, it continues, it stays flattish and in last one year, we have taken certain calls, 
+where we have scaled up certain operations also. So, even though on a business perspective, 
+the company continues to have very strong contracts with them for one business line, but we 
+continue to take calls on certain businesses which is not generating profit as the businesses are 
+growing. The business has become very, very, I would say, commodity in nature and 
+everything. 
+ 
+So, from a growth perspective, I think the more important factor, which I'll explain, I think 
+we're trying to maintain a sustainable EBITDA margin so that the company is able to generate 
+sufficient cash flows for whether it's a repayment of debt, whether it's a growth capital, 
+whether it's an investment in capital and whatever capital is available, whatever profit is 
+available, they can be distributed and shared with all the stakeholders. 
+Darshit: 
+Okay, thank you and all the best. 
+Saurabh Lal: 
+Thank you, thank you, Darshit. 
+Moderator: 
+The next question is from the line of Ms. Ruchi Gupta from Valpreet Con. Please go ahead. 
+Ruchi Gupta: 
+Sir, could you please provide some clarity on our card service business from the total 
+addressable market point of view and therein, also scope of growth and potential to capture the 
+same? 
+Saurabh Lal: 
+Sure, Ruchi. So, Ruchi, in case of card service business, definitely, as you said, our strategy is 
+to go on the Ongo business, which is basically the issuance of the card businesses, where what 
+we're saying is that we are providing a new platform, which is called NCMC-based platform, 
+which is called National Common Mobility Card Business. So, that addressable market, as of 
+now, there are multi-folds, as we mentioned. 
+So, there are two business lines that can happen. One is definitely, as we already have a PPI 
+license from RBI, where we are issuing this card, which can be used by you, me, or anybody 
+else as a person. But our special focus is to build a business model, where we can definitely 
+create a very, very specific use case or niche use case, which we have done as a first of the 
+kind, you can say, where we have launched this card in partnership with Bangalore Metro and 
+the RBL Bank also, where we are issuing this card. And this card will have a very specific use 
+case to be used for a metro travel in Bangalore Metro. So, that is where the focus is. So, with 
+this network, as this business is growing, we'll definitely, as we mentioned, right now, we have 
+only said, we have only 23,000 cards. But just to give you a number perspective, Bangalore 
+Metro is a very old metro, has a very, very large customer base of people who travel and 
+frequently travel. The numbers are in millions. So, definitely, this network of card and getting 
+it from the core to open up a new option for us. And as we grow in the market, and as we 
+believe that over a period of time, most of the metros in the country will definitely, should 
+always explore the option of getting into NCMC-based platform, which will become a very 
+convenient from the consumer perspective by taking a one card, and that card can be used all 
+over the country. 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 9 of 17 
+ 
+So, I see that the opportunity is to be very manifold. So, the current number, if I give you any 
+current number, that number may not be valid, maybe after three months, six months, nine 
+months, because most of the metros, I think, are exploring or would be exploring as and when 
+they're going to change or upgrade their infrastructure, especially from the payment 
+perspective. 
+Ruchi Gupta: 
+Sir, another question is, our CRM count is going up steadily. So, just wanted to understand, are 
+these new CRM machines or we are replacing existing ATMs and placing the CRM machine 
+in their place? Currently, we have 8000 plus CRMs right now? So, how many do we see 
+getting added to our portfolio in next three to five years? 
+Saurabh Lal: 
+Ruchi, specifically yes. So, you are absolutely correct. Most of the banks, whenever they are 
+going for either new ATMs or new branch networks or new expansion of the offsite ATMs or 
+even for the replacement or renewal of their contracts, so most of the banks are exploring the 
+option of putting up the CRMs at the branch network.  
+We service two types of customers. One is the definitely new ATM that we are deploying from 
+branch operations. And second, wherever we are taking over the ATMs, CRMs from the 
+banks. So, as we speak, I think most of the banks over a period of time, maybe next one or two 
+years, as you rightly said, will definitely explore the options for both deploying of the CRM at 
+the branch level and replacing the existing ATM network with the CRM network. 
+And that is what is witnessed by us also and I think witnessed by the market also, both the 
+levels, that the future will definitely be CRM because CRM once gets enabled at the branch 
+level on the full functionality level, performs both the activities. It performs the withdrawal 
+facility also and it gives the option of depositing and immediate instant credit to the customer.  
+So, we believe over a period of time, I think banks will always or will consider the options of 
+putting up a CRM at the branch level which gives them the 24/7 availability of the ATMs as 
+earlier it was and additional facility of depositing everything in a seamless, I would say 
+automated manner for the banks also. 
+So, I think we see a good future and that is where we are also focusing up to put more and 
+more CRMs and the process and NPCI is also fully geared up where they offer the complete 
+seamless end-to-end reconciliation of all the deposit transactions. Ruchi, are you there? 
+Ruchi: 
+Yes, thank you. That's helpful. All the best for coming quarters. 
+Saurabh Lal: 
+Thank you, Ruchi. 
+Moderator: 
+Thank you. The next question is from the line of Mr. Parth Vasani from KK Advisors LLP. 
+Please go ahead. 
+Parth Vasani: 
+So, my question was on the order book side. Could you please help us with the total order 
+book detail? I mean, while we understand that the order wins have arised in the quarter, it 
+would be helpful to understand the magnitude of the business won and the business on hand at 
+a given point in time. Also, how much has been already executed so far? 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 10 of 17 
+ 
+Saurabh Lal: 
+Sure. Parth, from the order book perspective, as we mentioned, our business is largely service-
+based business where we have consistent long-term contracts running with the banks. So, as 
+we close the quarter or close the half-year or maybe the annual accounts, we always know the 
+visibility what is going to approximate revenue for us in the subsequent quarters and 
+subsequent future periods and everything. So, our deployment strategy is to keep on to deploy 
+all these machines for the banks. 
+From the order book perspective, I think that the number will be very different from what you 
+see on the growth side because, as we said, we are deploying the ATMs, we are deploying the 
+CRMs, we are adding those CRMs on the bank network. If you see our current speech also, we 
+have just completed over 8,000 deployments of ATMs/CRMs for UBI and PNB banks. So, this 
+contract was awarded to us in the last to last quarter and it took some time for us quarterly. 
+So, as such, from the RFP perspective, PSU perspective, it is very difficult to predict what is 
+going to be the exact order book. From the private sector bank wise, we keep on getting 
+running orders from them in the form of new ATMs, deployment of ATMs, replacement of 
+ATMs. So, as we are already a very, very dominant player in the market, we continue to get 
+those shares from the existing banks also and whenever any other new PSU's banks or any 
+other PSU's banks goes for a new order book in the market or new replacement or new 
+deployment, they usually follow the concept of RFP based process where we definitely 
+participate. 
+So, from a service revenue base, we have -- as we close the quarter, we know what is going to 
+be in the next quarter venue. We know the ATM base, we know the CRM base. Incremental 
+number will keep on adding. So, it will be very difficult for me to give you any specific order 
+book that we have in hand unless provided we have the -- like in last quarter, we could have 
+said that UBI, PNB was deployed 50% and 50% was deployed in this quarter. So, this is the 
+way you can track the order book status of the company. 
+Parth Vasani: 
+Sure, sir. Got it. That was helpful. Sir, my next question was on the cash logistic business. 
+Would it be possible for you to give a breakup like how much is ATM, how much is non-ATM 
+and also historical proportion and trend would also be helpful? 
+Saurabh Lal: 
+So, Parth. As of now, it will be difficult to distribute but yes, largely if you see our revenue is 
+coming from the ATM business and there are certain percentage of revenue that comes from 
+the non-ATM business. Approximately number I will able to share, Parth, we can take your 
+details and everything and will ask Shikha or any other team member to share with you exact 
+details that what is the split, but largely, our focus, since it was a subsidiary company of AGS, 
+and created to give the captives support first. So, we focused on setting up the network which 
+can support the ATM network of AGS as a primary source of revenue. 
+Over a period of time, now we expanded and almost 50%-plus revenue comes from the non-
+AGS customer also. But at the same time, we are expanding our business reach into various 
+non-ATM based revenues also where we get the form of revenue in the form of dedicated cash 
+vans, where we get revenue in the form of doorstep banking and certain other transportation of 
+other valuables and other things. But yes, to be very specific, Parth, we will definitely come 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 11 of 17 
+ 
+back to you and give you the detailed breakup that how much is the ATM and how much is the 
+non-ATM. 
+Parth Vasani: 
+Okay, sir. Okay. So, yes, that is it from my side. Thank you very much and Happy Diwali. 
+Saurabh Lal: 
+Thanks. Thanks, Parth. 
+Moderator: 
+Thank you. The next question is from the line of Ms. Jiya Shah from Wealth Securities 
+Incorporated. Please go ahead. 
+Jiya Shah: 
+So, in our presentation, we have mentioned that we have taken a provision of about Rs. 395 
+million for one-time commitment and we expect that to be reversed. Would you throw some 
+light on this development, please? 
+Saurabh Lal: 
+Sure, Jiya. As you rightly said, we have taken certain one-time commitment charge on the 
+P&L. I just take you the background that there are couple of businesses that AGS do. 
+Definitely, ATM outsourcing is one of the main core business of theirs. But we also do lot of 
+other payment solution services. Out of these payment solutions, some business comes from 
+the PoS, some business comes from transit and some of the business comes from various other 
+payment solutions that we do. 
+So, for that payment solutions, we have a partnership, I would say approach or an agreement 
+with one of the very large global player with whom we have entered into agreement 7 to 8 
+years back. And that agreement has certain minimum commitments from the parties, from both 
+the sides, where both the parties will try to sell this product in the market and make some and 
+end of the day, offer this solution to the market. Now, that contract is at the end of the expiry. 
+This contract is still has not finalized, been renewed and everything. 
+So, since the negotiations between both the parties were still going on and there is certain 
+minimum commitment that has to be closed over a period of time and since we have already 
+reached into the expiry of this contract. So, we discussed this with internally with the board 
+also and the auditor also and we thought, let's take this provision for the time-being. 
+As the negotiations are in the way forward, as it gets closed and gets finalized and cleared, we 
+may have option of that, we can take this reversal of the provision that we have taken. But yes, 
+as of today, since there was a commitment as per the agreement terms, we thought that it will 
+be prudent or conservative on our part, let's take this provision. And as we see, this contract is 
+getting finalized, streamlined and closed, renewed or whatever way we go forward, we may 
+see a reversal of this cost and then there will be some cost will come as a new revised 
+agreement terms. 
+Jiya Shah: 
+Okay, so just a follow up on that, so how sure are we about this contract going through and 
+how will our full numbers look like if this provision is rolled back? 
+Saurabh Lal: 
+So, since as we said, this is one of the business strategies that we have, we are definitely 
+working on to come out with a solution which is win-win for both the parties that we do. Both 
+the parties have invested good amount of time, a period of 7-8 years, we have built the 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 12 of 17 
+ 
+relationship with the customers. So, we are confident that it should sail through, but yes, since 
+it has not been finalized, the ball remains, I would say the opportunity remains or option 
+remains open for both the parties. 
+But yes, once it gets closed and finalized, we may see a good amount getting reversed and then 
+some would go as charged over a period of time. So, as of now, what we see that there will be 
+a reversal possibility of the amount that we mentioned and there is a charge that is expected to 
+get to the P&L over a period of next 2 years. 
+Jiya Shah: 
+Okay, just a last question. Our net debt stands at about Rs. 650 crores. What is our debt 
+repayment strategy going forward and what is the steady state level of debt we look to 
+maintain say 2-3 years down the road? 
+Saurabh Lal: 
+So, Jiya if you see, rightly said that net debt strategy of the company is to maintain the debt 
+within the certain internal covenants, may be net worth to the debt, may be EBITDA to the 
+debt level. And specifically, we see that most of the debt that we have raised in the books over 
+a period of time is largely linked to the capex (long trem) which the company has taken. May 
+be to fund the capex of the contract or may be to fund the future receivables of the contract, 
+there is a mix of debt and some portion of the debt lies in the working capital. 
+So, as we go forward, since there is a term debt that we have taken which has a scheduled 
+repayment plan, we continue to believe that keep on paying those repayments when they fall 
+due. And this payment will definitely help us to de-leverage ourselves as every quarter on 
+quarter, every month on month basis. And we believe that this debt level that we are, will be a 
+percentage of, I would say EBITDA and percentage of net worth rather than putting absolute 
+number to it. 
+I think that is what we target to internally maintain. And in next 2 to 3 years, if the company 
+continues to generate this much value of EBITDA and continues to, as I said in the previous 
+question also, that there will be a scheduled repayment which we keep on reducing unless and 
+until we see an opportunity coming up in the future which ask or give us the option to explore 
+some of the options which can be funded through any of the financial institution loan or debt 
+or anything. 
+But yes, the moment we say we have an opportunity in the market, I am sure those opportunity 
+will give us the new revenues, new EBITDA, new margins and a sufficient cash flow to take 
+care of the additional debt that we want to take in case there are any opportunity that comes. 
+Moderator: 
+The next question is from the line of Mr. Rahil Shah from Crown Capital Partners, Inc. Please 
+go ahead, sir. 
+Rahil Shah: 
+Hello sir. Good afternoon. So, you mentioned that you have a certain visibility when it comes 
+to the contracts you have from the banks, right? 
+Saurabh Lal: 
+Correct. 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 13 of 17 
+ 
+Rahil Shah: 
+Keeping that in mind, so the last two quarters, quarter-on-quarter basis have been flattish, June 
+quarter to September quarter. But now for the remaining part of the year, what kind of 
+visibility do you have? Do you see a year-on-year growth for the quarters ahead or are they 
+still likely to be flattish? So, just a general sense, how the business will be for the rest of the 
+year? 
+Saurabh Lal: 
+Sure. So, Rahil, as you said, we also covered the quarter-on-quarter and our half-year, half-
+yearly we saw certain flattish growth. It is primarily if you see there are three focus areas for 
+which the organization is right now working and ensuring that all that energy goes into that 
+business. 
+One is the ATM outsourcing/ CRM outsourcing business. Second is the cash management 
+business. And third one is the digital payment opportunity where we are exploring and putting 
+up our best foot forward in the form of issuance of cards to Bangalore Metro and we got, Ravi 
+also mentioned that, we got approval from RBI for co-branding card and everything. As we 
+move forward, we will see some good news in the market going forward basis. So, these three 
+businesses is where we are going to put focus on that. 
+Over a period of time, if you see the revenue has actually gone down to some percentage over 
+a period of time. But it is again as a strategy of the company, we are already moving slowly on 
+this phasing out certain businesses that we had in the past, be it the other automation 
+businesses or may be other product businesses where we are moving on. So, you may or may 
+not able to see the actual growth in the revenue as we keep on continuing to descale on those 
+side of businesses, but as we said, the focus is on these three business line of businesses where 
+we are constantly focusing to grow those businesses. So, on overall basis, there is a possibility 
+that or there may be you not able to see the major growth. But the revenue mix as you see 
+which used to be 70% of the service revenue over four years back is now reached to 98% level, 
+which we said. 
+So, this is the mix which we are working on. The more important factor for all of us internally, 
+me, Ravi, Stanley, Vinayak, Shailesh, everyone in the management who is working on is to 
+build up the good profitable business model which can generate a sustainable long term 
+EBITDA. So, that is where right now the focus is. 
+Yes, the growth has to also keep in mind. But growth what we are targeting is to coming from 
+the either to get more scale of businesses from the existing business or to go for a contract 
+where we see a good profitability that can act as a compliment to the existing business line of 
+the company. So, that is what the strategy is. 
+But yes, you may have to wait for another couple of quarters to see that where the business are 
+going in and then it will be more confident and comfortable from our side to share with you 
+any specific growth number on the revenue side. 
+Rahil Shah:  
+Yes, sir, that's what I wanted to ask. So, let's say near term we don't see any kind of growth. 
+But now, since you are focusing on these three verticals, do you have a certain timeline in 
+mind by when these will reach an optimum level and then will start contributing heavily and 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 14 of 17 
+ 
+help the business grow. So, that's what I want to understand. So, right now you are working on 
+these strategies but by when will they reach a certain level that you will be confident that, 
+okay, now growth will be seen? 
+Saurabh Lal: 
+So, as a company, as I said, we have a distinct running contracts with the customers where we 
+keep on, which we know that these businesses will continue to give this much value of 
+expected revenue to us. So, that strategy continues to grow. The additional revenues and 
+everything, again that the growth can, I would say the company's performance can be 
+measured through two parameters. 
+One, definitely revenue growth of everything. Second is how is the profitability of the 
+company is improving. So, if the revenue growth takes some time because of the right contract 
+or right mix of the revenue, the company is working very heavily to ensure that we have a right 
+cost mix also along with that, so that the margin should not get suffered except for these few 
+exception items which we have seen in the last couple of quarters. 
+Otherwise, the business continues to generate a sufficient amount of cash and we've seen 
+various heads of which you have got opportunity to study our balance sheet in the last two 
+years, three years. There are specific heads like manpower cost, sub-contracting cost, other 
+expenses, certain specific heads. We have actually worked on very heavily to ensure that, we 
+have a right optimized size of all those costs corresponding to our revenue. 
+So, that is what the strategy is, but to give you a very specific answer, the management knows 
+this business very well. We've been running this two-three business, specifically ATM, CRM, 
+cash management for, I would say, more than a decade now. I think the focus is to grow that 
+business, especially like cash management businesses, where there are very few players in the 
+market who can handle this size of scale. 
+So, as one of the questions also came in between that most of our revenue comes only from 
+cash management business in the ATM, what about the other segment which is also expanding 
+in the market? So, we are putting very much focus on to expand other – I would not say 
+territory, but yes, it’s a complementary business to us to add to ATM network because the 
+ATM network or cash management network works on a very specific route profitability model 
+which needs economies of scale to make it a very, very profitable or a good consistent 
+profitable business. 
+So, I think this is where the strategies are going on. The business continues to be very strong, 
+but on a growth perspective, I think maybe next quarter or maybe by year end we’ll be able to 
+give you more detail, Rahil. 
+Rahil Shah: 
+Okay, so it’s safe to say that you are focusing right now on profitability and maintaining the 
+margin levels. Growth will come when a certain scale is achieved for the strategies. I think 
+that’s safe to assume? 
+Saurabh Lal: 
+Yes. 
+Rahil Shah: 
+Okay, so thank you for explaining and all the best. 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 15 of 17 
+ 
+Saurabh Lal: 
+Thank you, Rahil. Thank you. 
+Moderator: 
+Thank you. The next question is from the line of Mr. Vinod Chandra Agarwal, an individual 
+investor. Please go ahead, sir. 
+Vinod Agarwal: 
+Thank you for the opportunity, sir. Sir, I have two questions. One is about interest cost. So, if I 
+heard correctly, we have a gross debt of around Rs. 750 crores. On that on an annualised basis, 
+we are paying around Rs. 150 crores as an interest cost, which comes to be around 20% per 
+annum as an interest cost. When I was looking at the annual report, our long-term debt is at 
+11%. So, can you just help me to reconcile this interest cost? 
+And the second question I have is about lease liability. I just want to understand how exactly 
+this lease works and how it becomes a liability as a lease? Because as an individual, what I 
+understand is when we take a lease from a property, we give them an advance for the whole, 
+let's say, five-year lease. And then, for five years, we don't pay a rent, and after five years, we 
+get that deposit back. But how it works in our business case, if you can help me to understand 
+that, it will be helpful? Thank you, sir. 
+Saurabh Lal: 
+Sure. Sure, Mr. Vinod. Thank you, Mr. Vinod. Mr. Vinod, I'll start with the lease liability 
+question first, and then automatically it will lead to the interest also. So, if you see, we have a 
+very, very large business called ATM outsourcing business. In this ATM outsourcing business, 
+we take various premises on lease. So, those premises on lease, basically the places where we 
+put the ATM, where we put our CRMs on rent and everything, basically on the rent which is 
+taken. 
+ 
+So, as per the Ind AS 116, Ind AS 116 says that in case you have taken any such premise on 
+lease or any other asset on lease also, if those assets are used primarily by you only, nobody 
+else can use, and that constitutes for long tenure of the period, running into five years, seven 
+years, eight years, nine years, 10 years also. So, what the Ind AS 116 says that you have to 
+take a provision in the form of that, what is the future expected rent payment that you're going 
+to do. 
+You discount that as per the cost of borrowing today. For example, let's suppose 10%, 11%, 
+that's okay. For example, if I've taken one site on lease which has a rent of Rs. 10,000 per 
+month, and if I've taken that site for 10-year rent, it means I have to pay Rs. 12 lakh in next 10 
+years. Now, Ind AS says, since this Rs. 12 lakh is a confirmed liability for you, you're not 
+going to change your premise in normal scenario, because it's a business loss for you if you 
+close your site and everything. 
+So, you take this Rs. 12 lakh as your lease liability, then that net present value of that asset of 
+payment, that okay, at 11% cost, this is going to cost me around NPV, around Rs. 5 lakh. You 
+will capitalize those values in the books, and at the same point of time, you will create one 
+other asset called right to use asset, because now I'm going to use the right to use. 
+So, whatever asset I create on Day 1, right to use will go as a depreciation in my books. 
+Whatever interest -- whatever lease liability that I have to create, I have to charge interest on 
+that liability, because that's payment I have to pay. So, my rent expense will get distributed 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 16 of 17 
+ 
+into two parts. One is the interest payment, and other part is called depreciation. So, that is 
+how this accounting of lease goes into books, and when I distribute this into accounts, it says 
+you reverse your rent from the P&L, and charge this into two accounts. One is depreciation, 
+and one is the interest in the account. 
+So, if you see my interest, interest cost may be not in the half-yearly number, but on the annual 
+account, you'll see there are three, four line items that come. There is one item called lease 
+liabilities interest. So, that interest that is coming as a lease liability interest in the P&L is 
+coming because of the lease interest which we have accumulated on the rent, that expense that 
+we are paying in the form of lease liability. 
+So, that is also a major delta to your first question, sir, though my borrowing is Rs. 750 crores 
+on a gross basis, my interest cost is coming Rs. 150 crores, so borrowing, why the interest cost 
+is coming at 20%? So, delta is basically interest cost that we've taken on the lease liability. So, 
+if you add lease liability, which is around Rs. 300-plus crores in the books, because I have 
+more than 7,000 sites in my books on which I pay rental on a monthly basis. 
+So, if I do a present value of all those future rentals, the lease liability stands at somewhere 
+around Rs. 300 crores in my balance sheet. So, that Rs. 300 crores, if I take annual interest rate 
+of 11%, means Rs. 33 crores or Rs. 35 crores has to be apportioned to that interest. So, if you 
+remove that interest from lease liability, you will be able to get those figures automatically, sir. 
+So, that is why we started with lease liability. Now, this is accounting standard, sir, followed 
+by industry. Everywhere where there are leases in the books, whether it's the ATM industry, 
+whether it's the -- I would say, aviation industry, whether it's the tower industry, wherever you 
+see a future lease, which are a kind of non-cancellable leases taken for a long-term purpose, for 
+the business purpose, IndAS says, you have to capitalize those leases in the books of accounts. 
+And instead of charging rent as expense, you have to distribute that rent into two parts. One is 
+called depreciation and one is called interest expense. And that is why the interest cost also 
+goes high on that basis, sir. 
+Vinod Agarwal: 
+Okay. So, that actual liability that what we have created as a lease liability, that is not the 
+actual liability taken. Actually, it is assumed that we are going to pay that one, right? I mean, 
+there is no liability unless we -- it's a gradual liability, right? It's not... 
+Saurabh Lal: 
+It's a liability to be paid in next -- like I gave an example of this 10-year one. This is the 
+expected liability or expected payout that is going to happen from the company's bank account 
+in the next 10 years. But since the accounting standard says, you record this liability on day 1, 
+on the net present value, so what we have done is that we did the net present value for Rs. 10 
+lakh or Rs. 12 lakh like rent, which I said is one example. 
+ 
+Since that present value has to be recorded as a liability in books and as I keep on adding the 
+interest cost to it, it will automatically take me to the Rs. 12 lakh of liability over 10 years. So, 
+I would not say it's a notional liability, but it's the actual payment that we're going to do in next 
+10 years to be accounted in the form of lease liabilities to be paid in future on the current date. 
+
+ 
+ 
+AGS Transact Technologies Limited
+ 
+ 
+November 06, 2023 
+ 
+Page 17 of 17 
+ 
+So, all future liabilities in the form of rental payment has to be discounted at the current rate 
+and has to be accounted in the books and has to bring to the balance sheet level. You cannot 
+keep it off balance sheet. 
+Vinod Agarwal: 
+Okay. Thank you, sir. Understood. Thank you for the detailed explanation. Thank you. 
+Saurabh Lal: 
+Thank you, Mr. Vinod. 
+Moderator: 
+Thank you. The next question is from the line of Mr. Darshit Vora from Robo Capital. Please 
+go ahead, sir. 
+Darshit Vora: 
+Yes, hi. Thanks for the follow-up. I just missed out on the SVIL revenue figures? 
+Saurabh Lal: 
+Okay. Sorry. Darshit, the SVIL revenue figure, if you take on the gross basis for this quarter, 
+the total revenue for SVIL is Rs. 1,116 million. While consolidating, if I eliminate AGS 
+revenue, the net revenue of Securevalue for a non-AGS customer stands at Rs. 511 million. 
+Darshit Vora: 
+Okay. Thank you. That's all. 
+Moderator: 
+Thank you, sir. In the interest of time, I would now like to hand over the conference to the 
+management for the closing comments. 
+Ravi Goyal: 
+Thank you everyone for joining us today on our Q2 and H1 FY ‘24 earnings call. We 
+appreciate your interest in AGS Transact Technologies Limited and we aim to act upon and 
+leverage the opportunities on offer by capitalizing on the work done so far and the strategic 
+direction we have taken for the future. Should you have any further queries, please contact 
+SGA, our Investor Relations Advisor. Thank you. 
+Saurabh Lal: 
+Thank you everyone. 
+Moderator: 
+Thank you, sir. On behalf of AGS Transact Technologies Limited, that concludes this 
+conference. Thank you for joining us and you may now disconnect your lines. 

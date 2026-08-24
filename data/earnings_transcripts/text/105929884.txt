@@ -1,0 +1,972 @@
+SYMBOL: NPST 
+  Date: July 29, 2024  
+ISIN: INE0FFK01017  
+To, 
+ 
+The Manager-Listing Department, 
+The National Stock Exchange of India Limited, 
+Exchange Plaza, NSE Building, Bandra Kurla  
+Complex, Bandra East, Mumbai-400 0513 
+Fax: 022-26598237, 022-26598238 
+Subject: Transcript of the Earnings Conference Call for quarter ended June 30, 2024. 
+Respected Sir/Madam, 
+Pursuant to the provision of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations 2015, please find enclosed herewith the transcript of the earnings conference call for quarter 
+ended June 30, 2024. 
+The same will also be available on the website of the Company. 
+Kindly take the same on your record. 
+Thanking You, 
+Yours Faithfully, 
+For Network People Services Technologies Limited 
+Chetna Chawla 
+Company Secretary and Compliance Officer 
+CHETNA AVINASH 
+CHAWLA
+Digitally signed by CHETNA 
+AVINASH CHAWLA 
+Date: 2024.07.29 17:34:02 
++05'30'
+
+Page 1 of 21 
+“Network People Services Technologies Limited 
+Q1 FY25 Earnings Conference Call” 
+July 24, 2024 
+MANAGEMENT: MR. DEEPAK CHAND THAKUR – CHAIRMAN & 
+MANAGING DIRECTOR – NETWORK PEOPLE SERVICES 
+TECHNOLOGIES LIMITED  
+MR. ASHISH AGGARWAL – JOINT MANAGING 
+DIRECTOR – NETWORK PEOPLE SERVICES 
+TECHNOLOGIES LIMITED 
+MODERATOR: 
+MR. JAINAM SAVLA – KIRIN ADVISORS 
+
+Network People Services Technologies Limited 
+July 24, 2024 
+Page 2 of 21 
+Moderator: 
+Ladies and gentlemen, good day, and welcome to Network People Services Technologies 
+Limited Q1 FY ‘25 Conference Call hosted by Kirin Advisors. 
+As a reminder, all participant lines will be in the listen-only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during the conference call, please signal an operator by pressing “*” then “0” on your touch-
+tone phone. Please note that this conference is being recorded. 
+I now hand the conference over to Mr. Jainam Savla from Kirin Advisors. Thank you, and over 
+to you, sir.  
+Jainam Savla: 
+Thank you. On behalf of Kirin Advisors, I welcome you all to the NPST Limited Quarter 1 FY 
+'25 Conference Call.  
+From the management team, we have Mr. Deepak Chand Thakur – Chairman and Managing 
+Director and Mr. Ashish Aggarwal – Joint Managing Director.  
+Now I hand over the call to Mr. Deepak Chand Thakur. Over to you, sir. 
+Deepak Chand Thakur: 
+Thanks, Jainam. Welcome everyone. This is Deepak. I represent my 350 crazy guys sitting in 
+NPST, working day in and out and delivering the results. This is that time when exactly we get 
+time to spend constructive time with shareholders where we take feedback, we understand what 
+exactly to be done next and how well aligned we are with the industry. Thank you so much for 
+joining guys. Really looking forward to have a great conversation.  
+What I will do, I will quickly give you a small background about the Company, what exactly we 
+are doing, what we have done in the last quarter, give you a breakup of the results and then we 
+can go into FAQ. Ashish is with me, he will also assist me on all the numbers and all the 
+questions around the P&L, balance sheet, whatever you want to understand around the quarterly 
+results.  
+So, guys, like you are well aware now, it is what seventh or eighth quarter we are doing this 
+quarterly call. We have been consistently trying to educate our people because the intent was to 
+give more and more clarity around payment technology. We being one of the first in the industry 
+to get listed, we always knew that it would have been a difficult task for people to understand 
+how the payment works, what kind of technology we are working on and how exactly the 
+organization would grow.  
+So, over the quarters, I believe with this consistent effort, all our shareholders and analysts are 
+well aware what exactly we are doing. But for everyone who has joined for right now, I mean, 
+for the first time, we have two major verticals on which we are working.  
+
+Network People Services Technologies Limited 
+July 24, 2024 
+Page 3 of 21 
+One is where we bridge the central engine with the bank where the interoperable payments can 
+be connected like UPI, IMPS, mobile banking, online dispute resolution, merchant acquiring. 
+Wherever you need a technology partner to upgrade your digital payment solution and market 
+and also go aggressive in the industry, this is about banks and the regulated entities, NPST 
+intends to be one of the top most service providers in the segment. Here we provide the 
+technology. We own the IP. We provide the solution. We provide the product and services over 
+the UPI, IMPS and all the products which I mentioned.  
+On the other hand, one of the reasons why we went to IPO was to set up a payment platform 
+wherein how do we take the solution to market and how do we empower fintech and the other 
+entities who would require payment as a service. So, we developed two platforms. One was 
+Evok, which is payment platform as a service for the online payments. Second is Qynx payment 
+platform as a service. This is a solution which today fintech and the payment aggregators, 
+payment gateway, they can ride on and utilize it with much higher capacity to deliver and 
+integrated services right from digital onboarding to reconciliation to dispute resolution, customer 
+management, everything as a single stack. Now this is what bridges the fintech and the banking 
+world. Now that's where we divide our vertical into two.  
+Over last quarter what we have done is thanks to all your blessings. Now NPST is one of the 
+1,000 top listed companies in India. But along, like it is always said, with greater power comes 
+greater responsibility, we have to now get into compliances around risk management, business 
+responsibility and sustainability reports.  
+So, there are a lot of efforts around how this organization would behave as one of the top 1,000 
+companies. The Company is geared. I think we have already taken up this in our Board meeting 
+and we have committed to ensure that new efforts around being there is what we are working on 
+and as you know that the Company is already gearing up for the main board. So, this is something 
+that's very important for us.  
+Secondly, there were new products lined up for this quarter. We have been able to successfully 
+complete our BBPS, which is bill aggregation product. We have been able to successfully 
+complete the certification. We are going live. Q4 is when we got the order. Q1 is when we 
+actually completed the certification. This quarter we will be going live with one of the big 
+products that we were targeting.  
+At the same time, we got two more orders around Super App from two of the RRBs, which is 
+KGB and KaGB. Here it allows us to get into semi-urban and rural India and see how we can 
+create a super app for this segment of population. It's a different challenge altogether, but that 
+again creates a bigger opportunity for NPST.  
+Then at the same time, we have ensured that we are entering into embedded payment as one of 
+the first movers. At the same time, we have committed to invest and we have already started 
+
+Network People Services Technologies Limited 
+July 24, 2024 
+Page 4 of 21 
+doing that around infrastructure, which should be having one of the best success rate, best TPS, 
+which is transaction processing capability. It should also have the best possible compliances, 
+regtech, and at the same time, the security should be at the best.  
+So, that's what we have been doing. We have picked this up in Q1. I always insist that NPST 
+needs great leaders, and that is what we have been doing. Q4, we added leaders around marketing 
+and HR, and Q1, as committed, we have two senior leaders who have joined for sales, and we 
+expect this to continue in Q3 as well.  
+You are already aware, we have, like I always say, if you have gone through the quarterly calls 
+earlier, we don't plan only one year, but we also plan what's in it for the next three years. That's 
+why we have already declared, and we are already working around the QIP so that we have much 
+larger stake in payment ecosystem and at the same time, we have first mover advantage in several 
+solutions right from how the payment terminal is evolving, how credit line is evolving, how 
+digital rupee or international landscape is evolving. So, there's a lot in line right now for the next 
+three years, so that this organization is planned for next five, six, seven years of very strong 
+fundamental values.  
+Well, that's about us. It's about getting into the numbers now. Great efforts by my entire team. 
+Again, a lot of credit to those 350 people sitting in my organization. Like at the beginning of the 
+call I said they are crazy, working day in and out and this number is only going to increase. We 
+already have more leadership positions lined up. We have more better department plan. We have 
+culture upliftment in the organization.  
+We also have a lot of value driven approach taken right now. This year is all about those 
+transformations. So, we believe that the organization, of course, has a great capability around 
+what business can be picked up, but it is very important how we establish a very strong culture 
+and how we create a value driven organization.  
+With that in intent, let me tell you the numbers although you have seen, we have seen a year-on-
+year growth of 141% from about 44 crore last quarter, which is Q4 FY '24 to about 60 crore this 
+quarter. Trust me, probably I think we underestimated the overall number that could be achieved, 
+but yes, that's really a great number.  
+EBITDA has again risen by about 180% from, Ashish, just correct me, it is about 22 crore as 
+against 15 crore quarter-on-quarter. Oh, I am so sorry. I think I mixed the number. So, from 24 
+crore to about 60 crore from Q1 FY '24 to Q1 FY '25 year-on-year growth has been about 141%, 
+but at the same time EBITDA has risen from about 7.8 crore to about 22 crore, which is again 
+year-on-year growth of 180%, but when you see quarter-on-quarter, still we see 34% growth 
+from Q4 last year to Q1 this year from about 44 crore to about 60 crore and which is again an 
+increase of about 503 bps in the EBITDA percentage growth year-on-year as against Q-o-Q 
+growth of about 255 bps.  
+
+Network People Services Technologies Limited 
+July 24, 2024 
+Page 5 of 21 
+Net profit has risen from 5 crore last year quarter 1 to about 15 crore quarter 1 this year and if 
+you compare quarter-on-quarter growth, it has grown from 10 to 15 crore. Again, I see a great 
+jump.  
+At the same time, when it comes to EPS, which, of course, everyone are interested in, we have 
+grown from about Rs. 5.17 to about Rs. 8.06 is quarter-on-quarter, but quarter 1 last year, it was 
+Rs. 7.98. When we apply the effect of bonus issue resulting into increase in share capital, the 
+EPS is diluted to 2.67 per share. So, I see a great jump when it comes to 8.06, which is right 
+now. 
+So, that's the number, guys, that as you know I would like to spend more time answering 
+questions. So, that's all from my side. Let's see what's in from the shareholders.  
+Moderator: 
+Thank you very much. We will now begin the question-and-answer session. Our first question 
+is from the line of CA Garvit Goyal from Nvest Analyst Advisor LLP. Please go ahead, sir. 
+CA Garvit Goyal: 
+Good afternoon sir and congrats for a good set of numbers. I am actually new to the Company. 
+So, I wish to understand from you a little bit more about the opportunities here for our existing 
+segments like Super App, Qynx, Evok that you mentioned in your opening commentary. So, 
+who are the typical adopters of these? And how big this market is? And who are our direct 
+competitors in these segments? 
+Deepak Chand Thakur: 
+See, try and understand that BFSI segment payment technology, so we are a part of a fintech 
+ecosystem within which there is wealth tech, there is PayTech and there are several other subsets. 
+In payment technology is like a horizontal across ecosystem. So, you have banking where you 
+need core solution, and they are the regulated entities who deliver various services on which 
+fintech ride.  
+In this particular ecosystem, we play a role of a technology partner to bank to give them the 
+digital payment platform. Majorly we work on the interoperable payments. So, we work on the 
+processing engine, which is core to the processing of transactions. So, banks are the ones who 
+usually are eligible. In fact, we develop the solution for banks and PPI and those who are the 
+regulated entities in the list of RBI. 
+Second, when it comes to Qynx, Evok, the question you asked, what we see that although you 
+have the payment in bank, but at the same time there are a lot of business cases in market which 
+is solved by Fintech and when it comes to understanding how the Fintech operates, how the 
+business is required, let's say the best example is payment aggregator. So, when you want to 
+empower a payment aggregator, simply giving a bank API may not solve the problem.  
+You need to have a very strong ecosystem right from what is the performance, what is the success 
+rate, how do you take the ownership around it, what kind of compliance is to be followed in 
+
+Network People Services Technologies Limited 
+July 24, 2024 
+Page 6 of 21 
+order to do that, and then comes the post transaction effort, which is around the digital 
+onboarding process, automation around it so that the cost can be saved, then at the same time 
+the reconciliation, at the same time dispute resolution all of this taken together becomes a single 
+package which goes to the payment aggregator.  
+So, these are our target audience, and the solution is divided based on the requirement of banks 
+and the Fintech. Our competitor, of course, you can take the list from the site as well. You have 
+Mindgate and you have Olive, you have Sarvatra. I mean, you don't have a Fintech, I mean, you 
+don't have a Company who is listed heavily. I think majorly top five, six, these are the companies 
+you can find out. Kia is also one when it comes to being a technology partner to bank.  
+When it comes to payment platform-as-a-service, which I mentioned, we don't see a direct 
+competition as such, but for sure in bits and pieces because we have built a complete integrated 
+ecosystem. You don't need multiple vendors. You don't need multiple service providers. You 
+just need one single entity who can deliver everything to you and that's us. So, I see in a breakup 
+you will have multiple players, but as an integrated product, I don't see the competitor as such.  
+CA Garvit Goyal: 
+So, what is exactly happening in the end industry, like what is driving this significant growth for 
+our Company, like for last two to three years? Like, what is making a different from the name 
+of the company that you mentioned?  
+Deepak Chand Thakur: 
+You just look at the industry stats. I mean, digital payments, just two years back, what was the 
+volume of UPI in this India versus what is it right now? We are currently sitting at a 14 billion 
+transactions a month. When that's the volume, there is a need for technology, there is a need for 
+better solutions. There are multiple new use cases which gets launched. There are new and new 
+products demand from the industry. So, I see that India is at such a cusp wherein when you apply 
+the payment requirement of this country, you will come to know it is well aligned with the India 
+story. So, digital payment industry itself is a great push. 
+Secondly, last four years, we anticipated something. We started working on this platform, which 
+probably others didn't do. So, we are the one who is cross available in the ecosystem. So, for us, 
+our dependency is not just into one vertical. We have diversified that into multiple and the next 
+step is to diversify this further so that the fundamental growth is much stronger.  
+Now when it comes to the growth factor, I think you just pull out the reports around UPI growth, 
+you pull out the growth around how India is being looked at from the international perspective 
+around payments. I think it's there and at the same time, when I say 14 billion transactions a 
+month, that's not where it is going to stop.  
+The number around 30 billion, a billion transactions a day is already planned. It's already worked 
+out. There are strategies around it. And then beyond 30 billion transactions a month, it's not 
+going to stop. It will further continue. How do we go to 100 billion transactions a month? And 
+
+Network People Services Technologies Limited 
+July 24, 2024 
+Page 7 of 21 
+when that happens, the demand increases, the ecosystem improves. All of this gives us an 
+opportunity in various products and services that we are delivering.  
+CA Garvit Goyal: 
+And sir, can you please also highlight a bit on like new initiatives that you also mentioned in the 
+opening commentary as well that we are taking on. So, what are the adopters of these new 
+initiatives and how big the opportunities do you look at?  
+Deepak Chand Thakur: 
+So, we have already taken a step of so we have committed that we should be continuously 
+investing into newer processing engines and newer segments. We are not an app-based 
+Company. We are not a web-based Company. We are not into a simple interface product. We 
+believe in creating an IP and we believe in creating solution that becomes a core to the processing 
+of the payments and that's where we launched BBPS. So, what will happen is the biller 
+aggregation will happen over our platform. So, there are several companies who have been with 
+us. We ventured into it. That's something new that we got into certified. It's going live.  
+When it comes to super app, the shape was majorly for a specific audience. But the moment we 
+take it to RRB, the shape of super app will change. It will create new opportunities. Then at the 
+same time, when it comes to API, we have API around payment collection.  
+But at the same time, we are also looking at how do we deliver the pay out? How do we as a 
+technology on which banks can ride? Then at the same time, how do we deliver the autopay, 
+wherein you have something like e-NACH? AutoPay can bring in more solution for 
+subscription-based business and use cases in market. So, these are all an opportunity around 
+what we are already doing. So, that's how we look at it. 
+CA Garvit Goyal: 
+And just last question on your growth guidance, sir, for FY '25. 
+Deepak Chand Thakur: 
+I have already given that. There is no change in growth guidance. 
+CA Garvit Goyal: 
+Is it for this year only or is it for next few years?  
+Deepak Chand Thakur: 
+No, I have given one year. 
+Moderator: 
+Thank you. Our next question is from the line of Parikshit Kabra from PKD Advisors LLP. 
+Please go ahead, sir.  
+Parikshit Kabra: 
+So, first, just a couple of housekeeping questions that I ask every time. What was the GMV and 
+the TSP versus TPAP split?  
+Deepak Chand Thakur: 
+This time the split has changed. So, TSP is about 20% and PPAS is about 80%. GMV, Ashish, 
+can you share that number? 
+
+Network People Services Technologies Limited 
+July 24, 2024 
+Page 8 of 21 
+Ashish Aggarwal: 
+It's somewhere about the, congratulations, guys. We have touched, we have closed the GMV of 
+somewhere about 10,000 crores in a quarter.  
+Parikshit Kabra: 
+Great to hear. So, one of the things that over the last two quarters that is clear to see is that our 
+rate of GMV and market share of, in fact, market share, not just the market growing, but market 
+share of ours is growing in the UPI transaction volumes. So, wanting to understand what has 
+clicked? How is this happening? Is it certain of our customers have started expanding really 
+quickly or have we added a lot more new customers? What is working for us?  
+Deepak Chand Thakur: 
+Parikshit, it's all cumulative impact of last one year, in fact. You see, if I told, if you remember 
+what I said earlier also that as and when you keep on, so we believe in last annual report also we 
+shared, we believe in horizontal and vertical strategy, both. So, you keep on adding new products 
+and services so that your revenue per customer increases and then at the same time, you keep on 
+adding new clients and that is what has been the approach forever.  
+So, what has happened is it is now giving a cumulative impact over quarters. So, this quarter, 
+obviously, whatever customers we added, maybe in Q3 or Q4, maybe last six months, the 
+confidence level, the service addition, all that has boosted them to do more transactions. And at 
+the same time, like I said, when it comes to banks, last financial year, we ended with just about 
+seven banks, last to last. This financial year, we ended with 14 banks.  
+Now, as and when it goes further, it only increases the potential of revenue that we are adding 
+from banks as well. Now, the opportunity from the same bank also increases. Like Kerala 
+Gramin Bank and Karnataka Gramin Bank, they were purely on UPI. Then we added IMPS, 
+mobile banking. From the same bank now, we have the super app also coming up. Then we have 
+BBPS also coming up. This is further increasing our ability to target bigger business in market.  
+So, even when it comes to tendering process, you see we having about 100 crore P&L allows us 
+to go stronger in the process and present that we are a much stronger and capable organization 
+right now to deliver the service to the larger entities. So, all of this has an impact. So, it's not the 
+rocket science. It's just that the strategy probably we adopted March 2023, has a cumulative 
+impact.  
+Parikshit Kabra: 
+So I was actually thinking and maybe that was part of your answer, that the new payout and 
+AutoPay APIs that we have launched, I think they are commercialized now, right?  
+Deepak Chand Thakur: 
+Not yet. 
+Parikshit Kabra: 
+Not yet. Okay. 
+Deepak Chand Thakur: 
+Not yet. Not yet. So, that the transition has been done, okay. We have completed. But what we 
+want to do is, like I said last time also, we are going slightly slow in setting up very strong 
+operational and compliance process. So, although it is there, we have transacted, but we are not 
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 9 of 21 
+pushing heavy to our customers that you have to we also have payout, why don't you start using 
+it?  
+ 
+We have multiple merchants who have transacted, but we have not put this on a very strong 
+production effort and the target around payout and AutoPay to our sales team is also for Q2, 
+although to initiate monetization, but for sure Q3 and these are all part of our launches in Global 
+Fintech Fest. So, it will go heavy post GFF.  
+Parikshit Kabra: 
+In terms of you said that you ended FY '24 with 14 banks. In this quarter, have you added any 
+more banks, accounts, I mean? 
+Deepak Chand Thakur: 
+I think we should wait for the Q2 calls.  
+Parikshit Kabra: 
+No worries. Fair enough. I just wanted to check now two last questions. One is your guidance. I 
+know you have given a 75% guidance and I know you have given it to under promise over 
+deliver, but if I assume that even now quarter-on-quarter, your growth is zero, you will still 
+overshoot your guidance. Any comment on that?  
+Deepak Chand Thakur: 
+So, the thing is now we are actually questioning certain numbers in Board meetings, and we are 
+actually trying to, at the CXO meeting also, we are continuously discussing on what further, 
+what next, because Q1 has been amazing for the Company and the pressure of guidance is also 
+now going down, but this does not mean that we have to sit idle. So, I don't think I will change 
+any guidance right now, but for sure, whatever you have calculated, it's there. I mean, it's right 
+there and it's not going to be zero for sure. So, we are yet to arrive at it, but we don't want to 
+revise anything at least until we have the half yearly numbers. So, it's going good. We are going 
+strong, but we don't want to overcome it right now.  
+Parikshit Kabra: 
+The last question that I had was on credit line, and I know we are nowhere there, but that's one 
+of the opportunities that you mentioned. I was reading upon it, and it seems like it's been there 
+for a while, but the uptake has not happened. The ecosystem or basically, the players have not 
+really pushed this product. Do you see that changing? How do you see this space evolving right 
+now?  
+Deepak Chand Thakur: 
+See, credit line always existed. However, credit lines adoption in UPI never started, but it has 
+lot of policy level impacts. The moment there is credit, then you know how NPCI foresees the 
+interoperability in the ecosystem. That is something that is still coming out. So, credit line is part 
+of our product portfolio and it's very right up there along with digital currency. However, we 
+need to see stronger use cases. We need to see how banks pursue this and how many banks are 
+opening up to this idea, how well they are taking it up.  
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 10 of 21 
+ 
+So, I believe that it's not the technology challenge. The challenge is about how it will be 
+executed. So, it is still, I mean, journey is still far. It's not adopted, and it will still take time. 
+According to me another six months is what we should be looking up to it.  
+Parikshit Kabra: 
+Last thing, I just want to leave a comment. The latest NPCI data has removed Cosmos Bank. I 
+would request you to get them to correct that as soon as possible. That's a very good indicator 
+for us investors sitting on the sidelines.  
+Deepak Chand Thakur: 
+Absolutely. I will cross check because I think two days back Ashish called me and he said that 
+I can't see it. I also saw. I said, frankly, I have no idea how this works internally, but I also saw 
+another change wherein when you go to PSP, you will see that the star was highlighted around 
+all, certain PSPs and when you go there, you will realize that they have bifurcated it into TPAP 
+and bank PSP. Now, that wasn't there in the earlier month. So, probably there has been some 
+change and around that they are keeping this number. So, we will go back, and we will see what 
+is it, but for sure I am seeing change in multiple data.  
+Moderator: 
+Thank you. Our next question is from the line of Prateek Chaudhary from Saamarthya Capital. 
+Please go ahead, sir.  
+Prateek Chaudhary: 
+So, you mentioned about in today's call as well as in the EGM, which happened a few weeks 
+back, one, you mentioned about embedded payments and second, you mentioned about AI, some 
+AI product for the financial sector. Can you please talk about these two products in more detail? 
+Deepak Chand Thakur: 
+So, it's, I hope you can link this to the budget which has come now. There is a good mention of 
+5G and when there is 5G, for sure it amplifies the impact on the IoT use cases, okay. And when 
+that happens, for sure there is an infra now, there is a platform now on which payments can ride.  
+ 
+So, earlier the payments was just a software driven approach. Now that we have great boost 
+coming in around the infra being available, see, it's like that era when India was moving from 
+3G to 4G, it paved the way for faster internet, better performance, building new applications, 
+and great demand coming in from the apps and ultimately boosting the demand for payment 
+because payment is a horizontal across all.  
+ 
+I see that 5G, IoT further creates a use case for embedded payments. So, that's in our radar, and 
+that's part of our core strategy. So, it's there along with digital rupee, along with credit line. That's 
+more of a product stack, but when it comes to embedded payment, it's more about technology 
+stacks.  
+ 
+So, for sure the use cases will multiply, but it's way too early to talk about it, but the moment 
+you start learning about IoT, let's say today you have a watch, okay. How do we bring UPI 
+payment in a watch? So, that kind of question can be answered in the embedded payment. That's 
+one. Which was the second question you asked me? So, sorry. 
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 11 of 21 
+Prateek Chaudhary: 
+AI product. Artificial intelligence.  
+Deepak Chand Thakur: 
+So, now we also need to understand that if the Company or I would say that those who are 
+forward-looking, in order to solve the problem around fraud, around suspicion, around business, 
+around growth, around whatever business cases we have, AI is not something that is just an add-
+on flavor. AI is something that will go deep down inside and ensure that all these requirements 
+are solved. So, we are adopting AI as part of our product stack. So, over a period of two years, 
+three years down the line, every single product that we have, it will have an AI tech inside it.  
+ 
+So, whenever we talk about data, we talk about business intelligence. A step beyond business 
+intelligence is artificial intelligence. So, can we get into predictive analytics? Can we give that 
+stack to banks, wherein the focus around the data that has been generated, the system which has 
+been created, they can actually start working around it? So, AI is going to be, I would say, a 
+module or a component as part of all our products, and not just future, but even the current one. 
+That's how we foresee.  
+Prateek Chaudhary: 
+And the tie-up with the SMB bank, that is also slated to happen with the GFF, right?  
+Deepak Chand Thakur: 
+SBM.  
+Prateek Chaudhary: 
+Sorry, SBM.  
+Deepak Chand Thakur: 
+Yes, so we have completed the certification. We are in the last stage of go live right now. This 
+is just those parts where the tech, ops, everything is established. Those audits and all, those are 
+the points which are left. So, for sure, we are good for GFF.  
+Prateek Chaudhary: 
+And how's our international foray progressing as of now?  
+Deepak Chand Thakur: 
+So, I always say it's at least one year down the line. FY '25 is when you should start looking at 
+it. We are working very closely with our partners. We have identified partners. We have started 
+working with them. We have started presenting what kind of capability Indian Company has. 
+So, that has started. So, I see, whatever I have said earlier, no change. It will be FY '25 and you 
+can see the Company transforming into international. Yes.  
+Prateek Chaudhary: 
+We are already in FY '25, sir.  
+Deepak Chand Thakur: 
+So, sorry. Change it to FY '26.  
+Prateek Chaudhary: 
+And in the EGM remarks, you mentioned that we have bidded for a couple of tenders where the 
+size is larger than our current Company, something like that.  
+Deepak Chand Thakur: 
+Yes. We are doing that. It is part and parcel of my sales team regular. It will take time. I mean, 
+to have that win, to have that break, it will take some time.  
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 12 of 21 
+Prateek Chaudhary: 
+Any vision statements, sir, for the three years that you have been speaking about, the next three 
+years?  
+Deepak Chand Thakur: 
+Yes, so there was this value driven, which I was talking about earlier. Basically, what we have 
+done is, we have brought all our leaders, all our senior guys and the managers into one session 
+and we conducted this session to how do we create that value and the culture in the organization 
+so that we become one of the most respected payment technology coming out of India. I think 
+you can take it from there.  
+Prateek Chaudhary: 
+And sir, one last question, again, coming from the EGM remarks. You said that your market 
+share will potentially increase from 0.5% to 5%. That's what you are targeting.  
+Deepak Chand Thakur: 
+That remains.  
+Prateek Chaudhary: 
+So, can this happen over the next four to five years? 
+Deepak Chand Thakur: 
+That's our three years' vision.  
+Prateek Chaudhary: 
+Oh! wow.  
+Deepak Chand Thakur: 
+That's part of our vision statement, yes. 
+Moderator: 
+Thank you. Our next question is from the line of Rupesh from Intelsense Capital. Please go 
+ahead, sir. 
+Rupesh: 
+My first question actually is related to budget. Yesterday, I think in the past, the government 
+used to allocate this incentive for promoting digital payments, and I think that number used to 
+be something like 3,500 crores. And yesterday, I mean, I am still figuring out, but my 
+understanding is that budget was either significantly slashed or it's not there from this year. So, 
+does that impact our business in any way?  
+Deepak Chand Thakur: 
+I don't think so. But see, it has come out yesterday. We need to get into much more detailing into 
+it. For sure, there is, I don't see the impact because the demand is very high. The fundamentals 
+of India's digital payment and when it comes to, so link it to all the growth, which is associated 
+across various segments, the apps those are getting launched in India, the solutions which are 
+getting launched in India, more and more products, more and more ideas getting online, 
+everything has a demand on payments.  
+ 
+So, that's where I don't see the impact coming in. And at the same time, the moment we say 
+going from 14 billion to 30 billion transaction kind of load that a processing engine has, it 
+demands the upscale in technology. There again, the funds are required. There again, 
+investments are required.  
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 13 of 21 
+ 
+We being a technology Company, we have the advantage of investments in technology, which 
+ultimately everyone will have to do to scale the performance and the number and the demand 
+which is coming from the industry and at the same time, the platform demand coming from the 
+businesses which are setting, getting either scale the existing one or the new one coming in. So, 
+there I see fundamentally it still remains as is. When it comes to the number which has come out 
+in that budget, we are yet to get into it. We have not dwelled into it.  
+Rupesh: 
+So, one clarification. So, I am not clear if there is a MDR on UPI transaction above Rs. 2,000. I 
+don't know if that's in force, but assuming that it is not, at least my thinking is that whatever this 
+budget outlay is for digital incentives, that is a significant part of how the banks and technology 
+players in the industry make money. So, is that not a correct understanding?  
+Deepak Chand Thakur: 
+That is one of the...  
+Rupesh: 
+And there is no MDR, right? There is no MDR.  
+Deepak Chand Thakur: 
+Absolutely. There is no MDR.  
+Rupesh: 
+So, then how, I thought that was the primary money from where the players in the ecosystem 
+make money.  
+Deepak Chand Thakur: 
+No. See, you just understand this thought process very clearly. In order to operate your business 
+around and you need a payment, what do you need? See, we are not an aggregator, right? We 
+are not a payment aggregator. In order for someone to deliver payment solution, they need 
+multiple vendors in the ecosystem.  
+ 
+Right from digital onboarding, there is one who is an expert around it. The other one is purely 
+an expert in recon. The third one has the operation capability. The fourth one has the capability 
+around customer service, where there are several ecosystems. What we have done is we are 
+binding all the ecosystem and there is a cost associated with it. You can't do away with that cost.  
+ 
+So, for sure, what you mentioned is one of the component of income in this particular piece. But 
+the cost of the platform and the cost of technology, the cost of services, that you cannot take 
+away. There will definitely be something associated with the incentives so that MDR can be kept 
+zero. That we cannot take away. That will definitely be there. But the services delivered in the 
+platform made available, there is something we generate revenue. And yes, we provide software 
+on a license model. We provide software on a SaaS model. We have revenue coming in right 
+from change requests to AMCs. So, all that adds to the revenue source.  
+Rupesh: 
+Sorry to hop on this, but one final question then, if assuming that there is no outlay for digital 
+incentives, do you see any pressure on your realization in the payment-as-a-service piece?  
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 14 of 21 
+Deepak Chand Thakur: 
+I don't see demand going down for this because you can't survive without the platform. That's 
+the requirement.  
+Rupesh: 
+I am asking per transaction realization. 
+Deepak Chand Thakur: 
+Per transaction realization? Yes, there will be the per transaction revenue that we have right now, 
+that will definitely get impacted if at all there is no outlay.  
+Moderator: 
+Thank you. Our next question is from the line of Srinivasu from TIA. Please go ahead, sir.  
+Srinivasu: 
+Sir, my question is about, can you give me a little light on the product that you are developing, 
+UPI offline that is small payment without any internet connection? And also, are you working 
+on UPI tap and pay that is contactless payment at NSP to enable PoE solutions? 
+Deepak Chand Thakur: 
+So, offline payment is something which is a combination of software and hardware together. So, 
+it requires a very different mindset than a simple API that we deliver. So, one, we just cannot 
+give a software to generate a QR. That's again, like I always say, you have to focus on the entire 
+value chain and have the integrated piece. So, that's why we have separate approach for Evok 
+and separate approach for Qynx.  
+ 
+In offline payment, we have software where the QR can be generated and at the same time, the 
+software has to be compliant as per the banking policy. There should be a complete process right 
+from maker, checker, officer, and approval, all of that basis which the account can be linked, the 
+QR can be generated. But next what? What about the static QR, dynamic QR, the standee, the 
+digital QR, print, Soundbox? When it comes to Soundbox , the SDK inside the Soundbox .  
+ 
+Soundbox is nothing but it operates like a mobile phone. So, then it requires a SIM card. Then 
+this has to be connected to a certain system so that the text can be sent, and it can be converted 
+to voice and the merchant comes to know that payment has been done. And when that happens 
+the reconciliation around the mobile app, sorry, around the transactions which is delivered over 
+the mobile app to the customer. So, once that is done and the dispute is raised, then how that 
+dispute can be solved by between the merchant and the customer and how bank is empowered 
+to do so.  
+ 
+So, there is a whole gamut of service involved in delivering this offline payment. So, that is what 
+we have achieved so far. And interestingly, we have about you know five, six banks right now 
+where we have the solution going in. That's why we see a great potential coming in from the 
+terminal business in payments. So, that's one.  
+ 
+Second is your tap and pay. So, tap and pay is part of our Go Live for GFF. So, we have almost 
+achieved it. We are at the closure. So, that will be delivered to our customers.  
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 15 of 21 
+Srinivasu: 
+The next question I have is internationally our UPI payment architecture got recognition and 
+there is an increasingly looking for transition, basically transition from card-based payments to 
+account-based payments using the real-time payments. So, there is a demand for modernizing 
+the central architecture. So, I know NPST is working on TSP and payment. Are we also looking 
+into this central infrastructure opportunity? 
+Deepak Chand Thakur: 
+We are looking at it very strongly, but it's more than technology, it is the ecosystem that we need 
+to solve, we need to understand. Let us understand, 2016 when UPI came, and we are in '24 and 
+then we have a tremendously evolved ecosystem. When you go to multiple countries, each 
+country has their own challenges. They have their own solution, which is already live. The banks 
+have already invested into certain technology, certain platform. So, how that piece will be taken 
+care? How deep the solution will be integrated? And how well it will be adopted?  
+ 
+So, we see UPI as a great platform which has brought in transformation. But is it the case in 
+those countries where it is going? So, that is why I am saying it is way too immature to right 
+now talk about the numbers or I know you have not asked the number, but I keep getting this 
+question. So, it is way too early for us to right now talk about how quickly international business 
+will contribute to NPST or the industry which is delivering this kind of solution for India and 
+abroad.  
+ 
+What we are supposed to see is closely keep looking at the opportunity coming in from multiple 
+countries, see what kind of technology help or technology support is required. How do we 
+become the proponent of this particular platform in those countries? How do we establish 
+ourselves as a thought leader in this segment so that when you go, you talk, you deliver, people 
+actually take that importance. 
+ 
+So, that is something that needs to be created and I think India is in that phase right now. So, 
+once this is done, the ecosystem is well established. Every country's challenges and every 
+country's requirement is understood. Then it is simply taking technology and the product and 
+increasing the P&U.  
+Srinivasu: 
+And my last question is your initial remarks, you mentioned about the new product called 
+Embedded Finance, right? When you say embedded finance, is it a lending product like buy 
+now, pay later, BNPL kind of thing or are you saying insurance or InsurTech or B2B lending?  
+Deepak Chand Thakur: 
+I think I touched the topic way too early. So, yes, it is nothing like that. So, what you are referring 
+to is various segments like when you say BNPL, it's a credit segment. When you are talking 
+about some other products, these are various segments. What we are talking about is how do we 
+embed payment into various platforms? This platform is not just mobile app. It can be various 
+other devices. Then this device has the ability to communicate over the Internet. Then is there a 
+possibility to bring payment over it?  
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 16 of 21 
+ 
+The best example right now for everyone to understand is a watch. So, can I just tap my watch 
+and travel in a metro? So, that's called embedded payment. So, we have embedded the payment 
+in the watch. So, that's what I mean. So, there are certain use cases, which will keep coming.  
+Moderator: 
+Thank you. Our next question is from the line of Rujuta from ARG Securities. Please go ahead, 
+ma'am. 
+Rujuta: 
+I just wanted to understand what the current TAM is? And also, are there any plans of going 
+from retail-based business to wholesale? 
+Deepak Chand Thakur: 
+There are a lot of discussion around B2B payments in UPI and there has been a discussion around 
+B2B service driven approach in BBPS. So, I believe the industry itself will take us to the 
+wholesale segment. So, as and when this progresses, we will keep investing into building the 
+stack around it, and when that happens so, because we have always believed that our capability 
+is to build a greater technology and better platform and support this kind of solution. So, for that 
+obviously is a very easy decision for us to get into when it comes to wholesale payment. What 
+was your other question?  
+Rujuta: 
+What is your current addressable TAM and where do you see that growing?  
+Deepak Chand Thakur: 
+If I restrict it to certain product, I think, see, I don't have very specific number right now. But I 
+can actually guide you on that. UPI growth is about 300% is what we see in coming 24 months. 
+So, that's the industry growth we expect. At the same time, when it comes to adding new use 
+cases in the merchant payments P2M, I believe that we can add another 100 odd. So, we see that 
+the growth can be 3x to 4x in next 3 years odd. So, that's what I see right now. 
+Moderator: 
+Thank you. Our next question is from the line of Anurag Agrawal, Agrawal Analyst Investment. 
+Please go ahead. 
+Anurag Agrawal: 
+I had a follow-up question on a previous participant's question. Like, if there is no incentives by 
+the government on digital payment in this budget, you mentioned that the realization per 
+transaction will go down.  
+Deepak Chand Thakur: 
+Yes. 
+Anurag Agrawal: 
+And I just wanted to understand what the quantum of could be that? 
+Deepak Chand Thakur: 
+What could be the quantum of that? 
+Anurag Agrawal: 
+Yes. If the incentives are not there, how much could the realization be affected? 
+Deepak Chand Thakur: 
+See, Anurag, I will be very careful in again breaking this up because I know there are people 
+who wrongly compute it. As and when the volume increases, it adds up to the revenue associated 
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 17 of 21 
+with the SaaS platform. So, if we take as a whole, I wouldn't say that we have the right number 
+right now. But if you take it as one of the components, then for only one specific component, 
+then for sure it will have an impact maybe, I don't know, maybe 10%, 15% approximately. But 
+what is the volume that gets added to take away this impact? That is something that we need to 
+go back and see.  
+Anurag Agrawal: 
+Also sir, I just wanted to understand on the fundraising side, we are raising aggressively to 
+expand, and could you just throw our roadmap to expanding to different products or 
+internationally?  
+Deepak Chand Thakur: 
+You are asking specifically to internationally or the overall roadmap?  
+Anurag Agrawal: 
+First of all, internationally, and then overall?  
+Deepak Chand Thakur: 
+See, internationally, again, I think, I am trying to explain this again and again. Whatever size, 
+shape or ecosystem that exists in multiple countries, like if you go to GCC, you may find all the 
+companies almost having a similar requirement. When you go to Africa, the requirement will be 
+similar. But when you go to Southeast Asia, it will differ.  
+ 
+So, very first thing we need to understand is that we need to reshape our products. We need to 
+reshape the way the solution is being anticipated and accepted by others. So, we need to 
+understand that piece very well. So, that's where we need to invest, one. 
+ 
+Secondly, how strong we are keeping the footprint in those country, what kind of partner 
+relations we have, what are the local compliances basis which the Company will have to go and 
+invest into it? So, those are areas where we will have to invest.  
+ 
+So, we will have to invest into technology, reshaping the solution, identifying the market well 
+and creating a stronger footprint in these areas. So, that's something I believe the organization 
+will have to do and that's where we need to have an investment.  
+ 
+And at the same time, when it comes to the total roadmap beyond international, we see, what we 
+have been doing is every quarter-on-quarter, we are redoing the entire work of calculating what 
+is my resource requirement versus what is the demand. So, from 180, we have gone to 300 plus 
+this time, and if you see '23 to '24, we have gone from 85 odd to 180. So, even if you are scaling 
+twice, we are still seeing the existing demand completely consuming the organization's ability 
+to deliver.  
+ 
+Now, that's where we realize that if we have to have more diversified portfolio, if we need to 
+have much stronger use cases in market, we need to also have an inorganic approach. The 
+inorganic approach can be product driven; it can be business driven, it can be account driven, it 
+can be geography driven. So, for all of that we are raising the fund.  
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 18 of 21 
+Moderator: 
+Thank you. Our next question is from the line of Rahul from 36one Wealth. Please go ahead.  
+Rahul: 
+My first question is in terms of your revenue, what percentage of the revenue is ARR and what 
+percentage of the revenue is more transaction driven kind of? That's my first question.  
+ 
+Second question considering the scalability of the business and the scalability of the people in 
+the organization, what do you see, where do you see yourself moving from SME segments to 
+main segment? So, sorry, just to interrupt, the third question is, do you have any ESOPs plan in 
+your mind for the employees as such? 
+Deepak Chand Thakur: 
+Deepak here. So, three questions. I will pick up the smaller one first. ESOP is already there. We 
+have already declared, I think last financial year, we have already announced it. It is already 
+there. However, what we are trying to do further is, we are trying to further reshape it and make 
+it more demographic so that whatever commitments we had earlier for those people who were 
+associated with us since day one, they were brought into ESOP. So, there is an incentive which 
+was given around it.  
+ 
+Now here onwards, as and when we are bringing leaders and when we are bringing in more 
+people in the organization, we want to make it more rewarding. And that's why the ESOP policy 
+needs to be redone in such a way that without any intervention, it should be a free-flowing reward 
+for everyone.  
+ 
+So, to answer you, short, ESOP exists. It is just that we are redoing it again for the next three, 
+four, five years, as long as possible. So, that's a part of our core policy. Can you question me on 
+the other one?  
+Rahul: 
+The second question was, what's the break-up in terms of revenue between ARR and transaction 
+driven?  
+Deepak Chand Thakur: 
+Ashish, can you take that up? Can you bring it up?  
+Ashish Aggarwal: 
+It's somewhere about 20% to 80%. 80% per transaction and 20% is other. 
+Rahul: 
+So, 80% is ARR and 20% is transaction driven.  
+Deepak Chand Thakur: 
+So, 80% is transaction.  
+Rahul: 
+80% is transaction.  
+Deepak Chand Thakur: 
+Yes. 
+Rahul: 
+So, just a follow-up question on that line. Do you think so the ARR revenue will bring more 
+stability to the revenue composition?  
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 19 of 21 
+Deepak Chand Thakur: 
+Absolutely.  
+Rahul: 
+Do you have any focus in that term?  
+Deepak Chand Thakur: 
+Absolutely. That's the reason why Ashish, you are saying something?  
+Ashish Aggarwal: 
+Nothing.  
+Deepak Chand Thakur: 
+Sorry, I thought someone said. Yes, see, that's why two of the verticals strongly co-exist in the 
+organization. And when we are bringing leaders, we have VP for the TSP domain, and then we 
+have VP for the platform business also. At the same time, we have started creating a very 
+structured team around where we have a service delivery team separate, we have product team 
+separate, and then we have a platform team separate when it comes to product and technology 
+as well. So, that's how we are focused into it.  
+ 
+So, for us, both are very important. Apart from stability, we also need to understand today, my 
+entire platform is because we were able to build the IP over the technology that we own, we do 
+not have to pay anyone for this. Now that adds to my margin. So, whatever I invest into the 
+processing engine we are building, that creates an IP, and that reduces my dependency on anyone 
+else, and it allows me to build the newer use cases and the platform whatever we see is required 
+in the industry. That's our belief. 
+Rahul: 
+My last question. Any plans to move to main segments from SME?  
+Deepak Chand Thakur: 
+So, we have already declared. We are working for the main board right now. See, there were 
+certain criteria basis which we were to qualify, although we were expecting last year, but then 
+the new rule came in to complete three years as SME. August 10th we will be completing that 
+and then there was I think paid-up capital criteria and then shareholder count. So, our shareholder 
+count has increased substantially. Paid-up capital once the QIB and everything is done, that will 
+also be done and then we are ready to go for main board. We are already prepped up for that.  
+Moderator: 
+Thank you. Our next question is from the line of CA Garvit Goyal from Nvest Analyst Advisor 
+LLP. Please go ahead.  
+CA Garvit Goyal: 
+Sir, just a clarification on you mentioned about 3x to 4x growth in next three to four years. So, 
+are you talking about the industry or the Company?  
+Deepak Chand Thakur: 
+I was expecting the question. Industry growth.  
+CA Garvit Goyal: 
+Industry growth is 3x to 4x, right?  
+Deepak Chand Thakur: 
+That's our anticipation based on the product that we have built.  
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 20 of 21 
+Moderator: 
+Thank you. Our next question is from the line of Aditya, an individual investor. Please go ahead.  
+Aditya: 
+So, I just want to know what exactly are triggers for NPST in next one or two years. That's it. 
+Because there are so many buzzwords going on. CBDC on the last call, E-Rupee on the last call 
+and embedded finance in the GM, then BBPS. Although we have started working on BBPS and 
+ODR, but what exactly could be the revenue contributing streams in next one to two years?  
+Deepak Chand Thakur: 
+We need to understand, Aditya, that there is always a peak for a particular product or solution, 
+and then there is always a growth and then there is always a maturity curve. So, that is standard 
+for everything that we build, if we apply that how we have learnt in our MBA school. We believe 
+that we cannot stop anywhere when we start building a solution.  
+ 
+So, far if you ask me triggers right now, every single product that we are building and every 
+segment that we are trying to enter, we believe it will give a trigger and at the same time, it will 
+allow us to diversify into new segment. As and when we move to a maturity curve for a particular 
+product or a solution, the other product will take us to the growth stage. So, that's how it will 
+start stabilizing or I would say fundamentally which just start picking the organization every 
+now and then.  
+ 
+So, BBPS we see is something that is going to be very basic. As soon as RBI announced that 
+credit card transactions over BBPS, imagine the volume it brings in. We did not anticipate this 
+trigger to come in BBPS, but being there, building that product, it allows us to be there whenever 
+such opportunity comes in.  
+ 
+Credit line, I think there was a discussion around what kind of MDR can be brought into credit 
+line and the moment we start building it up, as soon as there is an interoperability in this, for 
+sure it creates a great opportunity for the merchants and the aggregators with whom we are 
+working right now. It's important to stay there.  
+ 
+So far I see that trigger is present across all the products and solutions that we are working on. 
+There is a possibility that certain products we may work on may not give us an ROI or may not 
+give us a return. That's why we want to split our investments into multiple areas. Where it does 
+not work, we need to have something else to do so. So, for right now, I think, in fact, this segment 
+is so disruptive that every quarter-on-quarter, you need to re-look at what triggers will come into 
+your business.  
+Aditya: 
+So, that is the main thing which is creating confusion more in my head. So, I will reframe my 
+question. What I am trying to ask is which of the APIs are the first one to get commercialized? 
+The APIs which are ready by NPST and are floated in market and revenue can come any time 
+in next one quarter, two quarter, one year or one-and-a-half year, two years, whatever.  
+
+ 
+Network People Services Technologies Limited 
+July 24, 2024 
+ 
+ 
+Page 21 of 21 
+Deepak Chand Thakur: 
+There are three focus areas. One is, how do we attract the subscription-based business? So, 
+AutoPay is there. That's the trigger. Second is your… 
+Aditya: 
+API for AutoPay is ready, sir? 
+Deepak Chand Thakur: 
+It's tested already. We are looking more on the operationalizing it. It is part of our GFF launch.  
+Aditya: 
+First one is API, AutoPay, yes. 
+Deepak Chand Thakur: 
+So, when it comes to technology, I will always say it's there. And last quarterly call, I rectified. 
+I said that we did a mistake of declaring the date way too early because we realized that tech can 
+be taken care, but when it comes to ops and compliances, we now need to give more time to that 
+rather than just tech. So, I believe that the operation piece will be taken care in next by August 
+10th and probably Q3, we are seeing the numbers. It's already tested. It's done. Second is our 
+payout API. And third is our third-party verification API over API. So, these are the products.  
+Aditya: 
+Payout API and third-party verification.  
+Deepak Chand Thakur: 
+Yes.  
+Aditya: 
+So, what exactly we are doing in third-party verification?  
+Deepak Chand Thakur: 
+It allows you to validate before making a payment that this is the right customer.  
+Aditya: 
+And next, and one area of commercialization could be the State Bank of Mauritius partnership 
+also, right?  
+Deepak Chand Thakur: 
+That's more from the diversification perspective and strengthening the engine further. Yes, that's 
+one.  
+Aditya: 
+So, three focus area and one State Bank of Mauritius. That's it from my side.  
+Moderator: 
+Thank you. Ladies and gentlemen, that was the last question for the day. I now hand the 
+conference over to Jainam Savla for closing comments.  
+Jainam Savla: 
+Thank you everyone for joining the conference call of NPST Limited. If you have any query, 
+you can write us at info@kirinadvisors.com. And once more, thank you to the management team 
+and participants for joining the conference call. Thank you.  
+Moderator: 
+Thank you. On behalf of Kirin Advisors, that concludes this conference. Thank you for joining 
+us, and you may now disconnect your lines. 

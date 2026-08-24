@@ -1,0 +1,323 @@
+ 
+                                                                             
+ 
+ 
+ 
+ 
+Kellton Tech Solutions Ltd., CIN: L72200TG1993PLC016819  
+Regd. Office: Plot No. 1367, Road No. 45, Jubilee Hills, Hyderabad-500033, Telangana, India  
+Tel: +91-40-44333000 Email: info@kellton.com Website: www.kellton.com  
+Plot No. 404-405, 6th Floor, iLABS Centre, Udyog Vihar, Phase III, Gurugram-122016, Haryana, India Tel: +91-124-4698900 
+ 
+Ref no.- KTSL/2025-2026/069 
+ 
+To 
+ 
+The General Manager, 
+Listing Department, 
+BSE Limited, 
+1st Floor, New Trading Wing, 
+Rotunda Building, P.J. Towers, 
+Dalal Street Fort, Mumbai-400001 
+The Manager, 
+Listing Department, 
+National Stock Exchange of India Ltd, 
+Exchange Plaza, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai – 400051 
+Scrip Code: 519602 
+Scrip Code: KELLTONTEC 
+ 
+Subject: Transcript of Q2/FY 26 Earnings Call  
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed the transcript of Q2/FY 26 Earnings Call held on Thursday, November 13, 2025.  
+ 
+Further, in accordance to Regulation 46 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, the transcript is also available on the website of the Company.   
+ 
+This is for your information and record. 
+ 
+Thanking You, 
+ 
+For and on behalf of 
+Kellton Tech Solutions Limited 
+ 
+ 
+ 
+Rahul Jain 
+Company Secretary and Compliance Officer 
+ICSI M No. ACS62949 
+ 
+Date: November 19, 2025 
+Place: Hyderabad  
+Rahul 
+Jain
+Digitally signed 
+by Rahul Jain 
+Date: 2025.11.19 
+15:28:24 +05'30'
+
+ 
+ 
+Page 1 of 7 
+Kellton Tech Solutions Limited 
+Q2 and H1 FY’26 Earnings Conference Call 
+November 13, 2025 
+ 
+ 
+Moderator: 
+Ladies and gentlemen, good day and welcome to the Kellton Tech Solutions Limited Q2 and H1 
+FY’26 Earnings Conference Call. 
+As a reminder, all participant lines will be in the listen-only mode and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need 
+assistance during the conference call, please signal an operator by pressing “*” then “0” on 
+your touch-tone phone. Please note that this conference has been recorded. I would now like 
+to thank you all for participating in the company's earnings call for the second quarter of the 
+financial year 2026. 
+Before we begin, I would now like to mention a short cautionary statement. Some of the 
+statements made in today's call may be forward-looking in nature and such forward-looking 
+statements are subject to risks and uncertainties which could cause actual results to differ from 
+those anticipated. Such statements are based on management beliefs as well as assumptions 
+made from the information currently available to the management. Audiences are cautioned 
+not to place any undue reliance on these forward-looking statements in making any investment 
+decisions. The purpose of today's earnings conference call is purely to educate and bring 
+awareness about the company's fundamental business and a financial quarter under review. 
+Now, I would like to introduce to the management participating with us in today's earnings call. 
+We have with us Mr. Niranjan Chintam, Chairman and Whole-time Director, Mr. Karanjit Singh, 
+Chief Executive Officer, India, and Ms. Srinivas Potluri, Chief Executive Officer, US.  
+Thank you and over to you, Mr. Niranjan Chintam. 
+Niranjan Chintam: 
+Thank you, Anushka. Ladies and gentlemen, apologies in advance. I have a severe cold and 
+cough, so I may be coughing on the call, so I apologize for that. Okay, with that, I am going to 
+start off with thank you for joining our Q2 financial year’26 earnings call. 
+For this financial year, we have achieved Rs. 300 crores in revenue, which is about 11.1% year-
+on-year growth, Rs. 37.8 crores of EBITDA, and a net profit of Rs. 24 crores. EBITDA margin is 
+around 12.6, which is higher than last quarter. The PAT margin is again 8%. EPS is 42 paisa. 
+Despite the profit being high, the EPS is almost in line with what we had last quarter. The reason 
+for that is the whole FCCB round 1 has been completely converted into equity. The number of 
+equity shares went up, hence the EPS is like flat. 
+
+ 
+Page 2 of 7 
+Now, for H1 FY’26, we have Rs. 597 crores, Rs. 73 crores in EBITDA, and Rs. 46.8 crores in net 
+profit. EBITDA margin is today 12.3%, a PAT margin of 7.8%, and the EPS is at 90 paisa. 
+Okay, with that, I want to hand it off to Karanjit. Can you talk about operational highlight as 
+well as the customer wins this quarter? 
+Karanjit Singh: 
+Sure. Thank you, Niranjan, and hello everyone. So, let me first start off by speaking about the 
+operational highlights, and then I will speak about the new client wins. 
+So, this quarter, we have had about five, six major highlights- 
+So, the first one, let me start off by talking about we basically went live. We have implemented 
+a next generation integration platform for a global food services company, and this was done 
+across 10 countries and over 1,500 stores. So, what this meant was they basically would 
+decommission their legacy middleware and move to the more seamless and native scalable 
+architecture. 
+The other one, this was really something that was in the media. So, we basically played a key 
+role in powering a leading OTT platform in the live streaming of the recently concluded Asia 
+Cup. So, this was the first time that they were kind of scaling it up to this level, and this involved 
+a lot of deep expertise in the area of cloud native engineering, low latency streaming, and large 
+scale digital platform. The whole event went very absolutely flawlessly, and this was thanks to 
+all the readiness and the PSR that the teams had jointly done with the customer before the 
+event. 
+We were also recognized by a leading agri-tech enterprise for basically helping them with 
+problem solving and technical excellence and exceptional collaboration during a critical 
+production phase. They are a longstanding customer, and they were very appreciative of the 
+kind of deep technical analysis and coordination that the team did during this critical phase for 
+them. 
+We also went live with a platform, a taxation platform, that we were building. It is basically we 
+are modernizing or completely building a new taxation platform for a Big Four consulting 
+company. So, this was basically something that they are trying to launch at scale and also 
+modular, something that they can also give in the hands of their customers eventually. So, this 
+involved the absolute, it is almost like what we see in our taxation portals. So, it has got all that 
+complexity as dynamic schedule creation, customizable summaries, and all that. So, this will 
+eventually replace the old dated platform that we have. 
+Some of you must have also noticed, we basically signed a memorandum of understanding with 
+a leading European technology company to help them develop a sovereign human-centric AI 
+ecosystem under the EU-India Framework Agreement. So, this is something that Europe is 
+
+ 
+Page 3 of 7 
+focusing on AI sovereignty for the Europe region, and they are basically trying to build a 
+complete AI stack, including AI gigafactory. And we are very happy as Kellton to basically 
+collaborate and have a part to play with that particular thing. This, of course, will include 
+everything from basically the AI gigafactory, build out to enhancing capacity for advanced AI, 
+cloud, and cyber security, which is where we would sort of on the services side is where we 
+would help them. 
+We also, the last one that I would like to highlight is that we partnered with a leading industrial 
+solutions enterprise, where we are helping them modernize the customer engagement and 
+streamline the internal operation through a complete end-to-end digital transformation 
+initiative. That will help them basically provide a seamless experience to both their customers 
+as well as employees. So, those were all basically the kind of significant operational highlights 
+that we had. 
+Let me also quickly move to the customer acquisitions in this quarter before I hand it off back 
+to Niranjan. 
+So, Kellton, we have had four or five engagements that I would like to highlight- 
+The first one, we basically partnered with a leading global packaging solution provider to help 
+expand its intelligent payment processing framework across the international entities. So, we 
+have already done after having supported the U.S. rollout successfully. Now, we are moving it 
+to the international area. So, we just started off with Netherlands. So, basically, we are helping 
+that and also optimize the whole SAP-based payment interface that we have and also add an 
+AI-assisted automation layer to the whole thing. 
+We were also recently empaneled as a key technology partner by a leading global logistics 
+provider and we have initiated offshore IT support services. Also, basically, this will expand into 
+basically helping them, first of all, define and then implement the AI-driven initiatives.  
+The other one that we have basically won is basically a partnership with a leading U.S. 
+consumer finance company to reimagine, basically, redo their operational efficiency through 
+applied artificial intelligence. So, we are basically working with them to integrate frameworks 
+and basically automate risk modeling, portfolio evaluation, and decision workflows. So, that is 
+another client. 
+We also partnered with a leading engineering and industrial enterprise, again, to drive a large-
+scale digital transformation to modernize the ERP system and transition to a unified SAP S4 
+HANA landscape. 
+
+ 
+Page 4 of 7 
+And the last one that is in the healthcare space, so we basically just about started a 
+collaboration with a pioneering healthcare AI company to develop an agentic AI-powered risk 
+adjustment solution that will basically autonomously manage complex pair workflows.  
+So, these were sort of some of the wins that we have had this quarter. Thank you. Niranjan, 
+over to you. 
+Niranjan Chintam: 
+Thank you, Karanjit. I think a lot of people might have questions related to H1, the impact of 
+H1 on Kellton. We have a little over 400 people in the U.S. Of them, about 40 are H1s. And as 
+everybody is aware, the existing H1s have been grandfather. It is only impacting the new H1s. 
+And also, you must have been reading the news that because of the 100K that new H1s would 
+be required to pay, a lot of companies are outsourcing the work to India. So, our impact has 
+been none at this point. We will have to wait and watch what happens next year. But as we 
+have been hearing the news, the rules that have been framed are getting easier and easier. So, 
+basically, when initially what people thought to what it is now is completely different. So, there 
+is no impact at this point to Kellton's business. 
+Okay, with that, Anushka, I want to open up for questions. 
+Moderator: 
+Thank you very much. We will now begin the question and answer session. We take the first 
+question from the line of Jaymin Soni, an individual investor. Please proceed. 
+Niranjan Chintam: 
+Good evening, Jaymin. 
+Jaymin Soni: 
+Good evening, sir. Thank you for giving me an opportunity. My question is I could not find any 
+clarification from management for the requirement of this huge fundraising till now. 
+Niranjan Chintam: 
+So far, okay, let me clarify what that is for, right? See, when we initially, our company has so 
+far been self-funded. This is the first time where we are taking money from outside entities. 
+That is to be around one of $10 million that we are taking. Okay, that we are using for building 
+our IP, because a lot of, I guess, research is going on in the AI world, a lot of dollars that we are 
+spending. And also, the second one is for working capital. The third is to increase our reach. 
+Right now, Kellton's brand is known very well in India, but outside India, it is not known. We 
+are trying to spend money there. And the last one is we are looking at opportunistic buys of 
+companies. So that is what the first round of FCCB that, you know, we have sought the money, 
+and now we are deploying that money. Now, coming to the new round of FCCB, that is 
+primarily, again, some part is going to be for working capital reasons. As we are growing in size, 
+we would need working capital to go after contracts like LIC and HRMS too, where our payment 
+cycles are stretched. For that reason, we are taking money for that. However, the biggest 
+chunk, we are setting aside for acquisitions. 
+Jaymin Soni: 
+Sir, acquisition up to what time frame? 
+
+ 
+Page 5 of 7 
+Niranjan Chintam: 
+See, as soon as we get the money, right, we would like to deploy it within a year. 
+Jaymin Soni: 
+So our current market capitalization is Rs. 1100 crores. Okay? 
+Niranjan Chintam: 
+Okay. 
+Jaymin Soni: 
+And up till, for USD 40 million, it sums to around Rs. 350 odd crores. 
+Niranjan Chintam: 
+Okay. 
+Jaymin Soni: 
+And more of Rs. 250 crores of QIP. So we have a total amount of around Rs. 600 odd crores. So 
+what is the targeted company's market capitalization? 
+Niranjan Chintam: 
+See, I do not know what the market capitalization would be. But if you are looking at the 
+revenue that we are targeting, we do not go after revenue. So we go after what we call the 
+technology, where, you know, we need to beef up our existing technology capability to go after. 
+As you can imagine, every day, AI is like changing. What was good yesterday is not good today 
+anymore. So when we start building something, six months down the road, we find out that 
+whatever we built is not current to what the market is. So since the technology is evolving 
+rapidly, we want to invest or acquire companies who are into this deep tech, who are into data-
+related companies that would get us the capability to go after additional customers. Mind you, 
+existing customers are going to continue on. We are trying to go after new customers. So when 
+we acquire, we acquire either for capability or for customers is what we look at. Okay, those 
+are the two targets. 
+                                                     So to answer your question about QIP, at this point, right, the QIP round is probably a year or 
+so away, whereas the FCCB round that we are doing is immediate, that we are doing at this 
+point, and we would continue to look for targets. As we speak, you know, we are actually 
+looking around and seeing what is out there. What can we look at by that would make sense 
+for us from the two reasons that I talked about capability and or new customers that we can 
+acquire. 
+Jaymin Soni: 
+So what margin management is chasing for? 
+Niranjan Chintam: 
+What margin? 
+Jaymin Soni: 
+So what margin profile, or let us say, if a company is going to acquire a new company, so what 
+margin profile you are also chasing for? 
+Niranjan Chintam: 
+See, the margin, again, these are new tech companies, right? In some cases there may not be 
+any margin there. Okay, minimal margin would be there. What our target is, if you look at it, 
+20% EBITDA is our target, is what we want to go after. But with the new deep tech kind of 
+companies, right, the margin could be in the single digits. I am talking about EBITDA level, right? 
+
+ 
+Page 6 of 7 
+But what the capability that we bring to the table is, once we take on, we can get better EBITDA. 
+So whatever single digit, we will want to get it to the teams. You know, almost like six months 
+to a year, we want to increase that to our teams. So that is the target that we look at. So we 
+are not looking for, okay, I want to get a 20, let us say, 20% EBITDA number that I buy, you 
+know, I have to give EBITDA multiples. So I will be shelling out a lot more dollars for a 20% 
+EBITDA company that has it, versus, let us say, a single digit number, and then improve the 
+margins by our management, taking out some of the overhead that is not required, use 
+economies of scale that we bring to the table. So those are the way we operate, and we have 
+successfully operated before. 
+Jaymin Soni: 
+Okay. Thank you. 
+Moderator: 
+Thank you. We take the next question from the line of Siddharth, an individual investor, please 
+proceed. 
+Siddharth: 
+Good morning, and a very happy Diwali. 
+Niranjan Chintam: 
+Thank you, Siddharth, same to you. 
+Siddharth: 
+I have a question regarding the company that you told about the H1B crisis, H1B problem. So 
+most of the IT companies, including Kellton also the revenue comes from the North American 
+market, most of 80%. So this has exposed very much the risk of the market of geopolitical 
+uncertainty. So what have you planned for the future planning to diversify the market beyond 
+the North American, like in Southeast Asia, Middle East or Europe? 
+Niranjan Chintam: 
+So Europe has been our focus area, but as you are aware, Europe is pretty much in recession 
+because of the Ukraine war. We have not grown to the extent that we wanted to grow. That 
+has always been our focus area. To answer your question, yes, there is a geographic risk, 
+especially America. Let us not just talk about North America, but you probably must have 
+noticed in the news, Canada is opening up. They are saying they want to welcome all H1s there 
+into Canada. So that is a market that we already are present and we will expand there. So those 
+are the markets that we grow, and Asia Pacific is growing for us. We continue to grow. Middle 
+East is growing for us. We continue to grow there. So those are the markets that we have. Yes, 
+huge concentration is still America. I do not believe that anything is going to happen with the 
+American market, despite all the talk and speculations that are going there. Other than the 
+recession that might come about in America, I do not believe anything else that the media or 
+the talking heads are talking. 
+Siddharth: 
+Okay. Thank you. 
+Niranjan Chintam: 
+Thank you, Siddharth. 
+
+ 
+Page 7 of 7 
+Moderator: 
+Thank you.  
+Moderator: 
+As there are no further questions from the participants, I would now like to hand the 
+conference over to Mr. Niranjan Chintam for closing comments. Over to you, sir. 
+Niranjan Chintam: 
+Thank you. Ladies and gentlemen, thank you for joining the earnings call. So, we look forward 
+to talking to you soon in the next quarter's earnings call. Have a great day and we will see you 
+soon. Talk to you. Bye-bye. 
+Moderator: 
+On behalf of Kellton Tech Solutions Limited, that concludes this conference. Thank you for 
+joining us and you may now disconnect your lines. 
+ 
