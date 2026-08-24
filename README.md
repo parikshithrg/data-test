@@ -94,6 +94,7 @@ call from inside a signal):
 | Index reconstitution calendar | `dtest/data/index_reconstitution.py` | 2010–2026, 18,391 events, 303 indices | Real floor is ~2010 — pre-2010 NSE press releases have no ticker-symbol column at all |
 | ETF / Index-Fund AUM | `dtest/data/etf_aum.py` | 2006–2026, 24,836 rows, 1,719 schemes | `filing_date` is an assumed 15-day disclosure lag, not a confirmed broadcast timestamp — flagged, unlike every NSE-sourced date in this project |
 | Per-stock options chain | `dtest/data/options_chain.py` | 2008–2026, 460 symbols, strike-level | Already lived in the existing read-only `fno.db` — no live fetch. Corrects a 2026-08-17 finding ("no per-stock IV exists") that only checked a curated index-only table, not the raw bhavcopy |
+| Credit rating actions | `dtest/data/credit_ratings.py` | Apr 2023–2026, 1,080 actions, 6 agencies | The feed's own `Symbol` field is unreliable for most records — only 64.5% resolve to a real symbol, via a best-effort name-match, the rest correctly left null |
 | Macro cross-asset stress | `dtest/data/` (macro fetch) | varies by series | US VIX, USD/INR, DXY, gold |
 
 **A real landmine in the existing `fno.db`, found 2026-08-24, worth
@@ -140,6 +141,7 @@ dtest/
     index_reconstitution.py  NIFTY index add/exclude events (NSE Indices press releases)
     etf_aum.py               scheme-level ETF/Index-Fund AUM (AMFI average-aum-schemewise)
     options_chain.py         per-stock strike-level OI/volume/settle (fno_bhavcopy_full)
+    credit_ratings.py        multi-agency rating actions (NSE corporate-credit-rating)
   features/             point-in-time feature layer (technical, fundamentals, pairs, regime)
   signals/               one file per hypothesis (11 built, see Status)
   engine/
@@ -192,11 +194,17 @@ not.
 6. ~~ETF / Index-Fund AUM (AMFI)~~ — done
 7. ~~Per-stock options chain (strike-level OI/volume/settle)~~ — done
    (raw data only; IV/max-pain/PCR are feature engineering, deferred)
-8. **Per-stock participant-wise OI** — next up, not yet started (index-wide
-   version already tried and rejected as `participant_tilt` — per-stock
-   breakdown untested)
-9. Credit rating actions (CRISIL/ICRA/CARE/India Ratings)
-10. G-Sec yield curve (RBI) — macro regime context, not a standalone signal
+8. **Per-stock participant-wise OI** — **closed, does not exist**. NSE's
+   own Participant-wise OI report (`participant_oi_daily`/
+   `participant_vol_daily` in `fno.db`, 10,615 rows since 2018) is real
+   and complete as published — category × date only, no symbol dimension,
+   confirmed live that no per-stock variant exists anywhere on NSE. Not a
+   scraping-effort problem like items 2/4 — the data has never been
+   published at this granularity.
+9. ~~Credit rating actions (CRISIL/ICRA/CARE/India Ratings + 4 more)~~ —
+   done
+10. **G-Sec yield curve (RBI)** — next up, not yet started (macro regime
+    context, not a standalone per-stock signal)
 11. Corporate announcement feed (M&A, contract wins, dividends/buybacks)
 12. Earnings call transcripts — richer than existing RSS headlines
 13. Macro series (RBI repo/M3/forex, MOSPI IIP/CPI/GDP, GST collections)
