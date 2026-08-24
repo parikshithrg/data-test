@@ -92,6 +92,7 @@ call from inside a signal):
 | Shareholding pattern | `dtest/data/shareholding.py` | ~2021–2026, 597/926 symbols | Real coverage floor is recent — NSE's own XBRL disclosure system, not a scrape limitation |
 | Insider trading (SEBI PIT) | `dtest/data/insider_trading.py` | 2015–2026, 584/926 symbols, 251,933 disclosures | 2015 is a real regulatory floor (SEBI PIT Regulations, 2015), not a data gap |
 | Index reconstitution calendar | `dtest/data/index_reconstitution.py` | 2010–2026, 18,391 events, 303 indices | Real floor is ~2010 — pre-2010 NSE press releases have no ticker-symbol column at all |
+| ETF / Index-Fund AUM | `dtest/data/etf_aum.py` | 2006–2026, 24,836 rows, 1,719 schemes | `filing_date` is an assumed 15-day disclosure lag, not a confirmed broadcast timestamp — flagged, unlike every NSE-sourced date in this project |
 | Macro cross-asset stress | `dtest/data/` (macro fetch) | varies by series | US VIX, USD/INR, DXY, gold |
 
 Two more datasets were investigated and are explicitly **not** built:
@@ -123,6 +124,7 @@ dtest/
     shareholding.py       promoter/MF/FII/DII/pledge % (NSE shareholding XBRL)
     insider_trading.py    SEBI PIT buy/sell/pledge disclosures (NSE corporates-pit)
     index_reconstitution.py  NIFTY index add/exclude events (NSE Indices press releases)
+    etf_aum.py               scheme-level ETF/Index-Fund AUM (AMFI average-aum-schemewise)
   features/             point-in-time feature layer (technical, fundamentals, pairs, regime)
   signals/               one file per hypothesis (11 built, see Status)
   engine/
@@ -172,8 +174,9 @@ not.
    real decision on investing in browser-automation tooling for ~40
    individual fund-house sites, or dropping it from scope
 5. ~~Index reconstitution calendar~~ — done
-6. **ETF flow / AUM data (AMFI)** — next up, not yet started
-7. Per-stock options chain (strike-level OI/volume/IV, ~180-200 F&O names)
+6. ~~ETF / Index-Fund AUM (AMFI)~~ — done
+7. **Per-stock options chain (strike-level OI/volume/IV, ~180-200 F&O
+   names)** — next up, not yet started
 8. Per-stock participant-wise OI (index-wide version already tried and
    rejected as `participant_tilt` — per-stock breakdown untested)
 9. Credit rating actions (CRISIL/ICRA/CARE/India Ratings)
