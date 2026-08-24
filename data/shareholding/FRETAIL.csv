@@ -1,0 +1,4 @@
+symbol,filing_date,period_end,revised,promoter_pct,public_pct,mf_pct,insurance_pct,fii_pct,dii_pct,promoter_pledge_pct
+FRETAIL,2022-01-06 21:06:51,2021-09-30,False,19.86,80.14,0.04,0.02,2.97,9.04,50.4
+FRETAIL,2022-01-18 13:10:18,2021-12-31,False,18.24,81.76,0.04,0.02,2.85,10.06,45.97
+FRETAIL,2022-04-12 12:40:26,2022-03-31,False,14.31,85.69,0.04,0.02,2.6,9.21,31.14

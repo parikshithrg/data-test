@@ -40,6 +40,18 @@ macro_dir = "data/macro"
 # real acquisition step - same category as `fetch_macro_stress_series.py`,
 # never a live call from inside the deterministic harness itself.
 fundamentals_dir = "data/fundamentals"
+# Per-symbol quarterly shareholding-pattern data this project sourced itself
+# from NSE's own `corporate-share-holdings-master` endpoint and its linked
+# per-filing XBRL detail documents (promoter/MF/insurance/FII/DII/public %,
+# plus real promoter-pledge % - confirmed live 2026-08-24, see
+# `dtest/data/shareholding.py`'s own module docstring for the full probe,
+# including the real coverage caveat: most names' history starts ~2021-Q3,
+# a handful go back to 2015-2017, genuinely symbol-dependent). NOT read-only
+# like the three source paths above: `scripts/fetch_shareholding.py` writes
+# here, once per symbol, as a real acquisition step - same category as
+# `fetch_financial_results.py`, never a live call from inside the
+# deterministic harness itself.
+shareholding_dir = "data/shareholding"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under

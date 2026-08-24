@@ -1,0 +1,2433 @@
+computing the full point-in-time eligible universe (ever-eligible union) ...
+  926 symbols were ever eligible across 2004-01-01..2026-08-13
+warming up session (nseindia.com home page for cookies) ...
+  20MICRONS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[1/926] 20MICRONS: wrote 20 rows (8s elapsed, 7.8s/symbol avg)
+  360ONE: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[2/926] 360ONE: wrote 23 rows (16s elapsed, 7.8s/symbol avg)
+  3IINFOTECH: 0 filings with usable metadata
+[3/926] 3IINFOTECH: wrote 0 rows (16s elapsed, 5.2s/symbol avg)
+  8KMILES: 0 filings with usable metadata
+[4/926] 8KMILES: wrote 0 rows (16s elapsed, 3.9s/symbol avg)
+  AANJANEYA: 0 filings with usable metadata
+[5/926] AANJANEYA: wrote 0 rows (16s elapsed, 3.2s/symbol avg)
+  AARTIDRUGS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[6/926] AARTIDRUGS: wrote 20 rows (23s elapsed, 3.8s/symbol avg)
+  AARTIIND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[7/926] AARTIIND: wrote 20 rows (30s elapsed, 4.2s/symbol avg)
+  ABAN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[8/926] ABAN: wrote 20 rows (38s elapsed, 4.7s/symbol avg)
+  ABANLLOYD: 0 filings with usable metadata
+[9/926] ABANLLOYD: wrote 0 rows (38s elapsed, 4.2s/symbol avg)
+  ABANLOYD: 0 filings with usable metadata
+[10/926] ABANLOYD: wrote 0 rows (38s elapsed, 3.8s/symbol avg)
+  ABB: 19 filings with usable metadata
+[11/926] ABB: wrote 19 rows (45s elapsed, 4.1s/symbol avg)
+  ABBOTINDIA: 0 filings with usable metadata
+[12/926] ABBOTINDIA: wrote 0 rows (45s elapsed, 3.7s/symbol avg)
+  ABCAPITAL: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[13/926] ABCAPITAL: wrote 23 rows (53s elapsed, 4.1s/symbol avg)
+  ABFRL: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[14/926] ABFRL: wrote 24 rows (61s elapsed, 4.4s/symbol avg)
+  ABGSHIP: 0 filings with usable metadata
+[15/926] ABGSHIP: wrote 0 rows (61s elapsed, 4.1s/symbol avg)
+  ABIRLANUVO: 0 filings with usable metadata
+[16/926] ABIRLANUVO: wrote 0 rows (61s elapsed, 3.8s/symbol avg)
+  ACC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[17/926] ACC: wrote 20 rows (68s elapsed, 4.0s/symbol avg)
+  ACUTAAS: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[18/926] ACUTAAS: wrote 22 rows (76s elapsed, 4.2s/symbol avg)
+  ADANIENSOL: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[19/926] ADANIENSOL: wrote 22 rows (83s elapsed, 4.4s/symbol avg)
+  ADANIENT: 25 filings with usable metadata
+    ... 20/25 XBRL detail docs fetched
+[20/926] ADANIENT: wrote 25 rows (92s elapsed, 4.6s/symbol avg)
+  ADANIEXPO: 0 filings with usable metadata
+[21/926] ADANIEXPO: wrote 0 rows (92s elapsed, 4.4s/symbol avg)
+  ADANIGAS: 0 filings with usable metadata
+[22/926] ADANIGAS: wrote 0 rows (92s elapsed, 4.2s/symbol avg)
+  ADANIGREEN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[23/926] ADANIGREEN: wrote 20 rows (99s elapsed, 4.3s/symbol avg)
+  ADANIPORTS: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[24/926] ADANIPORTS: wrote 23 rows (108s elapsed, 4.5s/symbol avg)
+  ADANIPOWER: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[25/926] ADANIPOWER: wrote 20 rows (114s elapsed, 4.6s/symbol avg)
+  ADANITRANS: 0 filings with usable metadata
+[26/926] ADANITRANS: wrote 0 rows (115s elapsed, 4.4s/symbol avg)
+  ADHUNIK: 0 filings with usable metadata
+[27/926] ADHUNIK: wrote 0 rows (115s elapsed, 4.2s/symbol avg)
+  ADLABSFILM: 0 filings with usable metadata
+[28/926] ADLABSFILM: wrote 0 rows (115s elapsed, 4.1s/symbol avg)
+  ADORWELD: 0 filings with usable metadata
+[29/926] ADORWELD: wrote 0 rows (115s elapsed, 4.0s/symbol avg)
+  AEGISCHEM: 0 filings with usable metadata
+[30/926] AEGISCHEM: wrote 0 rows (115s elapsed, 3.8s/symbol avg)
+  AEGISLOG: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[31/926] AEGISLOG: wrote 21 rows (122s elapsed, 3.9s/symbol avg)
+  AFFLE: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[32/926] AFFLE: wrote 21 rows (130s elapsed, 4.1s/symbol avg)
+  AFTEKINFO: 0 filings with usable metadata
+[33/926] AFTEKINFO: wrote 0 rows (130s elapsed, 3.9s/symbol avg)
+  AHMEDFORGE: 0 filings with usable metadata
+[34/926] AHMEDFORGE: wrote 0 rows (130s elapsed, 3.8s/symbol avg)
+  AIAENG: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[35/926] AIAENG: wrote 20 rows (137s elapsed, 3.9s/symbol avg)
+  AIRDECCAN: 0 filings with usable metadata
+[36/926] AIRDECCAN: wrote 0 rows (137s elapsed, 3.8s/symbol avg)
+  AJANTPHARM: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[37/926] AJANTPHARM: wrote 21 rows (144s elapsed, 3.9s/symbol avg)
+  AKRUTI: 0 filings with usable metadata
+[38/926] AKRUTI: wrote 0 rows (145s elapsed, 3.8s/symbol avg)
+  ALBK: 0 filings with usable metadata
+[39/926] ALBK: wrote 0 rows (145s elapsed, 3.7s/symbol avg)
+  ALEMBICLTD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[40/926] ALEMBICLTD: wrote 20 rows (151s elapsed, 3.8s/symbol avg)
+  ALKEM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[41/926] ALKEM: wrote 20 rows (159s elapsed, 3.9s/symbol avg)
+  ALKYLAMINE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[42/926] ALKYLAMINE: wrote 20 rows (166s elapsed, 3.9s/symbol avg)
+  ALOKINDS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[43/926] ALOKINDS: wrote 20 rows (173s elapsed, 4.0s/symbol avg)
+  ALOKTEXT: 0 filings with usable metadata
+[44/926] ALOKTEXT: wrote 0 rows (173s elapsed, 3.9s/symbol avg)
+  ALPSINDUS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[45/926] ALPSINDUS: wrote 20 rows (181s elapsed, 4.0s/symbol avg)
+  AMARAJABAT: 0 filings with usable metadata
+[46/926] AMARAJABAT: wrote 0 rows (181s elapsed, 3.9s/symbol avg)
+  AMBER: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[47/926] AMBER: wrote 20 rows (188s elapsed, 4.0s/symbol avg)
+  AMBUJACEM: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[48/926] AMBUJACEM: wrote 23 rows (196s elapsed, 4.1s/symbol avg)
+  AMRUTANJAN: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_172402_737423_20102022054034_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_172402_737423_20102022054034_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[49/926] AMRUTANJAN: wrote 20 rows (204s elapsed, 4.2s/symbol avg)
+  AMTEKAUTO: 0 filings with usable metadata
+[50/926] AMTEKAUTO: wrote 0 rows (204s elapsed, 4.1s/symbol avg)
+  AMTEKINDIA: 0 filings with usable metadata
+[51/926] AMTEKINDIA: wrote 0 rows (204s elapsed, 4.0s/symbol avg)
+  ANANTRAJ: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[52/926] ANANTRAJ: wrote 23 rows (212s elapsed, 4.1s/symbol avg)
+  ANDHRABANK: 0 filings with usable metadata
+[53/926] ANDHRABANK: wrote 0 rows (212s elapsed, 4.0s/symbol avg)
+  ANDHRSUGAR: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[54/926] ANDHRSUGAR: wrote 20 rows (220s elapsed, 4.1s/symbol avg)
+  ANGELBRKG: 0 filings with usable metadata
+[55/926] ANGELBRKG: wrote 0 rows (220s elapsed, 4.0s/symbol avg)
+  ANGELONE: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[56/926] ANGELONE: wrote 21 rows (227s elapsed, 4.1s/symbol avg)
+  ANSALINFRA: 0 filings with usable metadata
+[57/926] ANSALINFRA: wrote 0 rows (227s elapsed, 4.0s/symbol avg)
+  APARINDS: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[58/926] APARINDS: wrote 22 rows (235s elapsed, 4.0s/symbol avg)
+  APIL: 0 filings with usable metadata
+[59/926] APIL: wrote 0 rows (235s elapsed, 4.0s/symbol avg)
+  APLAPOLLO: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[60/926] APLAPOLLO: wrote 21 rows (242s elapsed, 4.0s/symbol avg)
+  APLLTD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[61/926] APLLTD: wrote 20 rows (249s elapsed, 4.1s/symbol avg)
+  APOLLO: 29 filings with usable metadata
+    ... 20/29 XBRL detail docs fetched
+[62/926] APOLLO: wrote 29 rows (259s elapsed, 4.2s/symbol avg)
+  APOLLOHOSP: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[63/926] APOLLOHOSP: wrote 20 rows (266s elapsed, 4.2s/symbol avg)
+  APOLLOTYRE: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[64/926] APOLLOTYRE: wrote 21 rows (273s elapsed, 4.3s/symbol avg)
+  APPAPER: 0 filings with usable metadata
+[65/926] APPAPER: wrote 0 rows (273s elapsed, 4.2s/symbol avg)
+  APTECHT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[66/926] APTECHT: wrote 20 rows (280s elapsed, 4.2s/symbol avg)
+  ARCOTECH: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[67/926] ARCOTECH: wrote 20 rows (288s elapsed, 4.3s/symbol avg)
+  AREVAT&D: 0 filings with usable metadata
+[68/926] AREVAT&D: wrote 0 rows (288s elapsed, 4.2s/symbol avg)
+  ARSSINFRA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[69/926] ARSSINFRA: wrote 20 rows (297s elapsed, 4.3s/symbol avg)
+  ARVIND: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[70/926] ARVIND: wrote 21 rows (304s elapsed, 4.3s/symbol avg)
+  ARVINDMILL: 0 filings with usable metadata
+[71/926] ARVINDMILL: wrote 0 rows (304s elapsed, 4.3s/symbol avg)
+  ARVINDREM: 0 filings with usable metadata
+[72/926] ARVINDREM: wrote 0 rows (304s elapsed, 4.2s/symbol avg)
+  ASHOKLEY: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[73/926] ASHOKLEY: wrote 21 rows (312s elapsed, 4.3s/symbol avg)
+  ASIANELEC: 0 filings with usable metadata
+[74/926] ASIANELEC: wrote 0 rows (312s elapsed, 4.2s/symbol avg)
+  ASIANPAINT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[75/926] ASIANPAINT: wrote 20 rows (319s elapsed, 4.3s/symbol avg)
+  ASTRAL: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[76/926] ASTRAL: wrote 22 rows (327s elapsed, 4.3s/symbol avg)
+  ASTRAMICRO: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[77/926] ASTRAMICRO: wrote 21 rows (334s elapsed, 4.3s/symbol avg)
+  ASTRAZEN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[78/926] ASTRAZEN: wrote 20 rows (341s elapsed, 4.4s/symbol avg)
+  ATGL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[79/926] ATGL: wrote 20 rows (348s elapsed, 4.4s/symbol avg)
+  ATHERENERG: 7 filings with usable metadata
+[80/926] ATHERENERG: wrote 7 rows (350s elapsed, 4.4s/symbol avg)
+  ATLANTA: 0 filings with usable metadata
+[81/926] ATLANTA: wrote 0 rows (351s elapsed, 4.3s/symbol avg)
+  ATUL: 19 filings with usable metadata
+[82/926] ATUL: wrote 19 rows (357s elapsed, 4.4s/symbol avg)
+  ATULAUTO: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[83/926] ATULAUTO: wrote 23 rows (365s elapsed, 4.4s/symbol avg)
+  AUBANK: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[84/926] AUBANK: wrote 23 rows (374s elapsed, 4.5s/symbol avg)
+  AUROPHARMA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[85/926] AUROPHARMA: wrote 20 rows (382s elapsed, 4.5s/symbol avg)
+  AUSTRAL: 0 filings with usable metadata
+[86/926] AUSTRAL: wrote 0 rows (382s elapsed, 4.4s/symbol avg)
+  AVANTIFEED: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[87/926] AVANTIFEED: wrote 20 rows (389s elapsed, 4.5s/symbol avg)
+  AVENTIS: 0 filings with usable metadata
+[88/926] AVENTIS: wrote 0 rows (389s elapsed, 4.4s/symbol avg)
+  AWL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[89/926] AWL: wrote 21 rows (396s elapsed, 4.4s/symbol avg)
+  AXISBANK: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[90/926] AXISBANK: wrote 20 rows (403s elapsed, 4.5s/symbol avg)
+  AZTEC: 0 filings with usable metadata
+[91/926] AZTEC: wrote 0 rows (403s elapsed, 4.4s/symbol avg)
+  BAGFILMS: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[92/926] BAGFILMS: wrote 22 rows (411s elapsed, 4.5s/symbol avg)
+  BAJAJ-AUTO: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168199_645769_21042022032515_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168199_645769_21042022032515_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[93/926] BAJAJ-AUTO: wrote 20 rows (418s elapsed, 4.5s/symbol avg)
+  BAJAJAUTO: 0 filings with usable metadata
+[94/926] BAJAJAUTO: wrote 0 rows (418s elapsed, 4.5s/symbol avg)
+  BAJAJELEC: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_174535_769567_17012023041021_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_174535_769567_17012023041021_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[95/926] BAJAJELEC: wrote 20 rows (425s elapsed, 4.5s/symbol avg)
+  BAJAJFINSV: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[96/926] BAJAJFINSV: wrote 21 rows (433s elapsed, 4.5s/symbol avg)
+  BAJAJHIND: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[97/926] BAJAJHIND: wrote 21 rows (440s elapsed, 4.5s/symbol avg)
+  BAJAJHLDNG: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[98/926] BAJAJHLDNG: wrote 20 rows (447s elapsed, 4.6s/symbol avg)
+  BAJFINANCE: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[99/926] BAJFINANCE: wrote 22 rows (455s elapsed, 4.6s/symbol avg)
+  BALAJITELE: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[100/926] BALAJITELE: wrote 22 rows (464s elapsed, 4.6s/symbol avg)
+  BALKRISIND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[101/926] BALKRISIND: wrote 20 rows (470s elapsed, 4.7s/symbol avg)
+  BALRAMCHIN: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[102/926] BALRAMCHIN: wrote 22 rows (478s elapsed, 4.7s/symbol avg)
+  BANDHANBNK: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[103/926] BANDHANBNK: wrote 20 rows (485s elapsed, 4.7s/symbol avg)
+  BANKBARODA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[104/926] BANKBARODA: wrote 20 rows (492s elapsed, 4.7s/symbol avg)
+  BANKBEES: 0 filings with usable metadata
+[105/926] BANKBEES: wrote 0 rows (492s elapsed, 4.7s/symbol avg)
+  BANKINDIA: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[106/926] BANKINDIA: wrote 21 rows (499s elapsed, 4.7s/symbol avg)
+  BANKPUNJAB: 0 filings with usable metadata
+[107/926] BANKPUNJAB: wrote 0 rows (499s elapsed, 4.7s/symbol avg)
+  BANKRAJAS: 0 filings with usable metadata
+[108/926] BANKRAJAS: wrote 0 rows (500s elapsed, 4.6s/symbol avg)
+  BARTRONICS: 6 filings with usable metadata
+[109/926] BARTRONICS: wrote 6 rows (502s elapsed, 4.6s/symbol avg)
+  BATAINDIA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[110/926] BATAINDIA: wrote 20 rows (509s elapsed, 4.6s/symbol avg)
+  BBTC: 43 filings with usable metadata
+    ... 20/43 XBRL detail docs fetched
+    ... 40/43 XBRL detail docs fetched
+[111/926] BBTC: wrote 43 rows (523s elapsed, 4.7s/symbol avg)
+  BCG: 50 filings with usable metadata
+    ... 20/50 XBRL detail docs fetched
+    ... 40/50 XBRL detail docs fetched
+[112/926] BCG: wrote 50 rows (541s elapsed, 4.8s/symbol avg)
+  BDL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[113/926] BDL: wrote 20 rows (548s elapsed, 4.8s/symbol avg)
+  BEL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[114/926] BEL: wrote 21 rows (555s elapsed, 4.9s/symbol avg)
+  BEML: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[115/926] BEML: wrote 20 rows (562s elapsed, 4.9s/symbol avg)
+  BEPL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[116/926] BEPL: wrote 20 rows (569s elapsed, 4.9s/symbol avg)
+  BERGEPAINT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[117/926] BERGEPAINT: wrote 20 rows (576s elapsed, 4.9s/symbol avg)
+  BFUTILITIE: 43 filings with usable metadata
+    ... 20/43 XBRL detail docs fetched
+    ... 40/43 XBRL detail docs fetched
+[118/926] BFUTILITIE: wrote 43 rows (591s elapsed, 5.0s/symbol avg)
+  BGRENERGY: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[119/926] BGRENERGY: wrote 20 rows (598s elapsed, 5.0s/symbol avg)
+  BHARATFIN: 0 filings with usable metadata
+[120/926] BHARATFIN: wrote 0 rows (598s elapsed, 5.0s/symbol avg)
+  BHARATFORG: 43 filings with usable metadata
+    ... 20/43 XBRL detail docs fetched
+    ... 40/43 XBRL detail docs fetched
+[121/926] BHARATFORG: wrote 43 rows (613s elapsed, 5.1s/symbol avg)
+  BHARTI: 0 filings with usable metadata
+[122/926] BHARTI: wrote 0 rows (613s elapsed, 5.0s/symbol avg)
+  BHARTIARTL: 23 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168238_646177_21042022050619_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168238_646177_21042022050619_WEB.xml
+    ... 20/23 XBRL detail docs fetched
+[123/926] BHARTIARTL: wrote 23 rows (621s elapsed, 5.1s/symbol avg)
+  BHARTISHIP: 0 filings with usable metadata
+[124/926] BHARTISHIP: wrote 0 rows (621s elapsed, 5.0s/symbol avg)
+  BHEL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[125/926] BHEL: wrote 20 rows (629s elapsed, 5.0s/symbol avg)
+  BHUSANSTL: 0 filings with usable metadata
+[126/926] BHUSANSTL: wrote 0 rows (629s elapsed, 5.0s/symbol avg)
+  BILT: 0 filings with usable metadata
+[127/926] BILT: wrote 0 rows (629s elapsed, 5.0s/symbol avg)
+  BINDALAGRO: 0 filings with usable metadata
+[128/926] BINDALAGRO: wrote 0 rows (629s elapsed, 4.9s/symbol avg)
+  BIOCON: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[129/926] BIOCON: wrote 24 rows (637s elapsed, 4.9s/symbol avg)
+  BIRLAJUTE: 0 filings with usable metadata
+[130/926] BIRLAJUTE: wrote 0 rows (638s elapsed, 4.9s/symbol avg)
+  BLISSGVS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[131/926] BLISSGVS: wrote 20 rows (645s elapsed, 4.9s/symbol avg)
+  BLS: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[132/926] BLS: wrote 22 rows (652s elapsed, 4.9s/symbol avg)
+  BLUESTARCO: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[133/926] BLUESTARCO: wrote 22 rows (660s elapsed, 5.0s/symbol avg)
+  BOC: 0 filings with usable metadata
+[134/926] BOC: wrote 0 rows (660s elapsed, 4.9s/symbol avg)
+  BODALCHEM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[135/926] BODALCHEM: wrote 20 rows (667s elapsed, 4.9s/symbol avg)
+  BOMDYEING: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[136/926] BOMDYEING: wrote 20 rows (674s elapsed, 5.0s/symbol avg)
+  BONGAIREFN: 0 filings with usable metadata
+[137/926] BONGAIREFN: wrote 0 rows (674s elapsed, 4.9s/symbol avg)
+  BOSCHLTD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[138/926] BOSCHLTD: wrote 20 rows (681s elapsed, 4.9s/symbol avg)
+  BPCL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[139/926] BPCL: wrote 21 rows (689s elapsed, 5.0s/symbol avg)
+  BRFL: 9 filings with usable metadata
+[140/926] BRFL: wrote 9 rows (692s elapsed, 4.9s/symbol avg)
+  BRITANNIA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[141/926] BRITANNIA: wrote 20 rows (699s elapsed, 5.0s/symbol avg)
+  BSE: 22 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_188615_12499_09042025061750_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_188615_12499_09042025061750_WEB.xml
+    ... 20/22 XBRL detail docs fetched
+[142/926] BSE: wrote 22 rows (707s elapsed, 5.0s/symbol avg)
+  BSELINFRA: 0 filings with usable metadata
+[143/926] BSELINFRA: wrote 0 rows (707s elapsed, 4.9s/symbol avg)
+  BSOFT: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[144/926] BSOFT: wrote 21 rows (715s elapsed, 5.0s/symbol avg)
+  CADILAHC: 0 filings with usable metadata
+[145/926] CADILAHC: wrote 0 rows (715s elapsed, 4.9s/symbol avg)
+  CAIRN: 0 filings with usable metadata
+[146/926] CAIRN: wrote 0 rows (715s elapsed, 4.9s/symbol avg)
+  CAMS: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[147/926] CAMS: wrote 22 rows (722s elapsed, 4.9s/symbol avg)
+  CANBK: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[148/926] CANBK: wrote 20 rows (730s elapsed, 4.9s/symbol avg)
+  CANFINHOME: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[149/926] CANFINHOME: wrote 20 rows (737s elapsed, 4.9s/symbol avg)
+  CAPF: 0 filings with usable metadata
+[150/926] CAPF: wrote 0 rows (737s elapsed, 4.9s/symbol avg)
+  CARERATING: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[151/926] CARERATING: wrote 20 rows (744s elapsed, 4.9s/symbol avg)
+  CARTRADE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[152/926] CARTRADE: wrote 20 rows (751s elapsed, 4.9s/symbol avg)
+  CASTROL: 0 filings with usable metadata
+[153/926] CASTROL: wrote 0 rows (751s elapsed, 4.9s/symbol avg)
+  CASTROLIND: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_166705_632727_12042022081023_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_166705_632727_12042022081023_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[154/926] CASTROLIND: wrote 20 rows (758s elapsed, 4.9s/symbol avg)
+  CCL: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_167869_642853_20042022012700_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_167869_642853_20042022012700_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[155/926] CCL: wrote 20 rows (765s elapsed, 4.9s/symbol avg)
+  CDSL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[156/926] CDSL: wrote 21 rows (772s elapsed, 4.9s/symbol avg)
+  CEAT: 0 filings with usable metadata
+[157/926] CEAT: wrote 0 rows (772s elapsed, 4.9s/symbol avg)
+  CEATLTD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[158/926] CEATLTD: wrote 20 rows (779s elapsed, 4.9s/symbol avg)
+  CENBNK: 0 filings with usable metadata
+[159/926] CENBNK: wrote 0 rows (779s elapsed, 4.9s/symbol avg)
+  CENTBOP: 0 filings with usable metadata
+[160/926] CENTBOP: wrote 0 rows (779s elapsed, 4.9s/symbol avg)
+  CENTENKA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[161/926] CENTENKA: wrote 20 rows (787s elapsed, 4.9s/symbol avg)
+  CENTRALBK: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[162/926] CENTRALBK: wrote 22 rows (795s elapsed, 4.9s/symbol avg)
+  CENTURYPLY: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[163/926] CENTURYPLY: wrote 20 rows (802s elapsed, 4.9s/symbol avg)
+  CENTURYTEX: 0 filings with usable metadata
+[164/926] CENTURYTEX: wrote 0 rows (802s elapsed, 4.9s/symbol avg)
+  CESC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[165/926] CESC: wrote 20 rows (809s elapsed, 4.9s/symbol avg)
+  CGPOWER: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[166/926] CGPOWER: wrote 23 rows (818s elapsed, 4.9s/symbol avg)
+  CHAMBLFERT: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[167/926] CHAMBLFERT: wrote 21 rows (825s elapsed, 4.9s/symbol avg)
+  CHENNPETRO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[168/926] CHENNPETRO: wrote 20 rows (833s elapsed, 5.0s/symbol avg)
+  CHOLAFIN: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168107_645003_21042022112043_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168107_645003_21042022112043_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[169/926] CHOLAFIN: wrote 20 rows (840s elapsed, 5.0s/symbol avg)
+  CHOLAINV: 0 filings with usable metadata
+[170/926] CHOLAINV: wrote 0 rows (840s elapsed, 4.9s/symbol avg)
+  CIPLA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[171/926] CIPLA: wrote 20 rows (847s elapsed, 5.0s/symbol avg)
+  CMC: 0 filings with usable metadata
+[172/926] CMC: wrote 0 rows (847s elapsed, 4.9s/symbol avg)
+  COALINDIA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[173/926] COALINDIA: wrote 20 rows (854s elapsed, 4.9s/symbol avg)
+  COCHINREFN: 0 filings with usable metadata
+[174/926] COCHINREFN: wrote 0 rows (854s elapsed, 4.9s/symbol avg)
+  COCHINSHIP: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[175/926] COCHINSHIP: wrote 20 rows (862s elapsed, 4.9s/symbol avg)
+  COFORGE: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[176/926] COFORGE: wrote 23 rows (870s elapsed, 4.9s/symbol avg)
+  COLGATE: 0 filings with usable metadata
+[177/926] COLGATE: wrote 0 rows (870s elapsed, 4.9s/symbol avg)
+  COLPAL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[178/926] COLPAL: wrote 20 rows (877s elapsed, 4.9s/symbol avg)
+  CONCOR: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[179/926] CONCOR: wrote 21 rows (884s elapsed, 4.9s/symbol avg)
+  COREEDUTEC: 0 filings with usable metadata
+[180/926] COREEDUTEC: wrote 0 rows (884s elapsed, 4.9s/symbol avg)
+  COREPROTEC: 0 filings with usable metadata
+[181/926] COREPROTEC: wrote 0 rows (884s elapsed, 4.9s/symbol avg)
+  COROMANDEL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[182/926] COROMANDEL: wrote 20 rows (891s elapsed, 4.9s/symbol avg)
+  CORPBANK: 0 filings with usable metadata
+[183/926] CORPBANK: wrote 0 rows (891s elapsed, 4.9s/symbol avg)
+  COX&KINGS: 0 filings with usable metadata
+[184/926] COX&KINGS: wrote 0 rows (891s elapsed, 4.8s/symbol avg)
+  CPSEETF: 0 filings with usable metadata
+[185/926] CPSEETF: wrote 0 rows (892s elapsed, 4.8s/symbol avg)
+  CREDITACC: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[186/926] CREDITACC: wrote 21 rows (899s elapsed, 4.8s/symbol avg)
+  CREWBOS: 0 filings with usable metadata
+[187/926] CREWBOS: wrote 0 rows (899s elapsed, 4.8s/symbol avg)
+  CRISIL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[188/926] CRISIL: wrote 20 rows (906s elapsed, 4.8s/symbol avg)
+  CROMPGREAV: 0 filings with usable metadata
+[189/926] CROMPGREAV: wrote 0 rows (906s elapsed, 4.8s/symbol avg)
+  CROMPTON: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[190/926] CROMPTON: wrote 21 rows (914s elapsed, 4.8s/symbol avg)
+  CUB: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[191/926] CUB: wrote 20 rows (921s elapsed, 4.8s/symbol avg)
+  CUMMINSIND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[192/926] CUMMINSIND: wrote 20 rows (928s elapsed, 4.8s/symbol avg)
+  CUPID: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[193/926] CUPID: wrote 22 rows (936s elapsed, 4.8s/symbol avg)
+  CYIENT: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[194/926] CYIENT: wrote 21 rows (943s elapsed, 4.9s/symbol avg)
+  D-LINK: 0 filings with usable metadata
+[195/926] D-LINK: wrote 0 rows (943s elapsed, 4.8s/symbol avg)
+  DABUR: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[196/926] DABUR: wrote 20 rows (950s elapsed, 4.8s/symbol avg)
+  DALBHARAT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[197/926] DALBHARAT: wrote 20 rows (957s elapsed, 4.9s/symbol avg)
+  DALMIABHA: 0 filings with usable metadata
+[198/926] DALMIABHA: wrote 0 rows (957s elapsed, 4.8s/symbol avg)
+  DALMIACEM: 0 filings with usable metadata
+[199/926] DALMIACEM: wrote 0 rows (957s elapsed, 4.8s/symbol avg)
+  DATAMATICS: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[200/926] DATAMATICS: wrote 21 rows (965s elapsed, 4.8s/symbol avg)
+  DATAPATTNS: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[201/926] DATAPATTNS: wrote 21 rows (972s elapsed, 4.8s/symbol avg)
+  DBL: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[202/926] DBL: wrote 23 rows (980s elapsed, 4.9s/symbol avg)
+  DBREALTY: 31 filings with usable metadata
+    ... 20/31 XBRL detail docs fetched
+[203/926] DBREALTY: wrote 31 rows (991s elapsed, 4.9s/symbol avg)
+  DCB: 0 filings with usable metadata
+[204/926] DCB: wrote 0 rows (991s elapsed, 4.9s/symbol avg)
+  DCBBANK: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[205/926] DCBBANK: wrote 20 rows (998s elapsed, 4.9s/symbol avg)
+  DCHL: 0 filings with usable metadata
+[206/926] DCHL: wrote 0 rows (998s elapsed, 4.8s/symbol avg)
+  DCMSRMCONS: 0 filings with usable metadata
+[207/926] DCMSRMCONS: wrote 0 rows (998s elapsed, 4.8s/symbol avg)
+  DEEPAKFERT: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[208/926] DEEPAKFERT: wrote 21 rows (1006s elapsed, 4.8s/symbol avg)
+  DEEPAKNTR: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[209/926] DEEPAKNTR: wrote 20 rows (1013s elapsed, 4.8s/symbol avg)
+  DELHIVERY: 18 filings with usable metadata
+[210/926] DELHIVERY: wrote 18 rows (1020s elapsed, 4.9s/symbol avg)
+  DELTACORP: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[211/926] DELTACORP: wrote 20 rows (1026s elapsed, 4.9s/symbol avg)
+  DEN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[212/926] DEN: wrote 20 rows (1033s elapsed, 4.9s/symbol avg)
+  DENABANK: 0 filings with usable metadata
+[213/926] DENABANK: wrote 0 rows (1034s elapsed, 4.9s/symbol avg)
+  DEVYANI: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[214/926] DEVYANI: wrote 20 rows (1040s elapsed, 4.9s/symbol avg)
+  DEWANHOUS: 0 filings with usable metadata
+[215/926] DEWANHOUS: wrote 0 rows (1041s elapsed, 4.8s/symbol avg)
+  DHAMPURSUG: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[216/926] DHAMPURSUG: wrote 20 rows (1048s elapsed, 4.9s/symbol avg)
+  DHANBANK: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[217/926] DHANBANK: wrote 20 rows (1056s elapsed, 4.9s/symbol avg)
+  DHFL: 0 filings with usable metadata
+[218/926] DHFL: wrote 0 rows (1056s elapsed, 4.8s/symbol avg)
+  DIACABS: 14 filings with usable metadata
+[219/926] DIACABS: wrote 14 rows (1061s elapsed, 4.8s/symbol avg)
+  DISHMAN: 0 filings with usable metadata
+[220/926] DISHMAN: wrote 0 rows (1061s elapsed, 4.8s/symbol avg)
+  DISHTV: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[221/926] DISHTV: wrote 20 rows (1068s elapsed, 4.8s/symbol avg)
+  DIVISLAB: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[222/926] DIVISLAB: wrote 20 rows (1075s elapsed, 4.8s/symbol avg)
+  DIXON: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[223/926] DIXON: wrote 20 rows (1082s elapsed, 4.9s/symbol avg)
+  DLF: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[224/926] DLF: wrote 20 rows (1089s elapsed, 4.9s/symbol avg)
+  DMART: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[225/926] DMART: wrote 20 rows (1096s elapsed, 4.9s/symbol avg)
+  DOLPHINOFF: 4 filings with usable metadata
+[226/926] DOLPHINOFF: wrote 4 rows (1098s elapsed, 4.9s/symbol avg)
+  DRREDDY: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[227/926] DRREDDY: wrote 20 rows (1105s elapsed, 4.9s/symbol avg)
+  DSKULKARNI: 33 filings with usable metadata
+    ... 20/33 XBRL detail docs fetched
+[228/926] DSKULKARNI: wrote 33 rows (1119s elapsed, 4.9s/symbol avg)
+  DWARKESH: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[229/926] DWARKESH: wrote 20 rows (1126s elapsed, 4.9s/symbol avg)
+  EASEMYTRIP: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[230/926] EASEMYTRIP: wrote 23 rows (1133s elapsed, 4.9s/symbol avg)
+  EASUNREYRL: 1 filings with usable metadata
+[231/926] EASUNREYRL: wrote 1 rows (1134s elapsed, 4.9s/symbol avg)
+  EDELWEISS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[232/926] EDELWEISS: wrote 20 rows (1141s elapsed, 4.9s/symbol avg)
+  EDUCOMP: 18 filings with usable metadata
+[233/926] EDUCOMP: wrote 18 rows (1148s elapsed, 4.9s/symbol avg)
+  EICHERMOT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[234/926] EICHERMOT: wrote 20 rows (1155s elapsed, 4.9s/symbol avg)
+  EIDPARRY: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[235/926] EIDPARRY: wrote 20 rows (1162s elapsed, 4.9s/symbol avg)
+  EKC: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[236/926] EKC: wrote 21 rows (1170s elapsed, 5.0s/symbol avg)
+  ELDERPHARM: 0 filings with usable metadata
+[237/926] ELDERPHARM: wrote 0 rows (1170s elapsed, 4.9s/symbol avg)
+  ELECTCAST: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[238/926] ELECTCAST: wrote 22 rows (1178s elapsed, 5.0s/symbol avg)
+  EMAMILTD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[239/926] EMAMILTD: wrote 20 rows (1185s elapsed, 5.0s/symbol avg)
+  ENGINERSIN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[240/926] ENGINERSIN: wrote 20 rows (1192s elapsed, 5.0s/symbol avg)
+  ENRIN: 6 filings with usable metadata
+[241/926] ENRIN: wrote 6 rows (1194s elapsed, 5.0s/symbol avg)
+  EQUITAS: 6 filings with usable metadata
+[242/926] EQUITAS: wrote 6 rows (1197s elapsed, 4.9s/symbol avg)
+  EQUITASBNK: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[243/926] EQUITASBNK: wrote 24 rows (1205s elapsed, 5.0s/symbol avg)
+  ERACONS: 0 filings with usable metadata
+[244/926] ERACONS: wrote 0 rows (1205s elapsed, 4.9s/symbol avg)
+  ERAINFRA: 0 filings with usable metadata
+[245/926] ERAINFRA: wrote 0 rows (1205s elapsed, 4.9s/symbol avg)
+  EROSMEDIA: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[246/926] EROSMEDIA: wrote 22 rows (1214s elapsed, 4.9s/symbol avg)
+  ESABINDIA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[247/926] ESABINDIA: wrote 20 rows (1222s elapsed, 4.9s/symbol avg)
+  ESCORTS: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[248/926] ESCORTS: wrote 24 rows (1230s elapsed, 5.0s/symbol avg)
+  ESSARGUJ: 0 filings with usable metadata
+[249/926] ESSARGUJ: wrote 0 rows (1231s elapsed, 4.9s/symbol avg)
+  ESSAROIL: 0 filings with usable metadata
+[250/926] ESSAROIL: wrote 0 rows (1231s elapsed, 4.9s/symbol avg)
+  ESSDEE: 0 filings with usable metadata
+[251/926] ESSDEE: wrote 0 rows (1231s elapsed, 4.9s/symbol avg)
+  ESTL: 0 filings with usable metadata
+[252/926] ESTL: wrote 0 rows (1231s elapsed, 4.9s/symbol avg)
+  ETERNAL: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[253/926] ETERNAL: wrote 23 rows (1239s elapsed, 4.9s/symbol avg)
+  EVERONN: 0 filings with usable metadata
+[254/926] EVERONN: wrote 0 rows (1239s elapsed, 4.9s/symbol avg)
+  EXIDEIND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[255/926] EXIDEIND: wrote 20 rows (1246s elapsed, 4.9s/symbol avg)
+  FACT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[256/926] FACT: wrote 20 rows (1253s elapsed, 4.9s/symbol avg)
+  FCONSUMER: 15 filings with usable metadata
+[257/926] FCONSUMER: wrote 15 rows (1260s elapsed, 4.9s/symbol avg)
+  FDC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[258/926] FDC: wrote 20 rows (1267s elapsed, 4.9s/symbol avg)
+  FEDERALBNK: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[259/926] FEDERALBNK: wrote 22 rows (1276s elapsed, 4.9s/symbol avg)
+  FINANTECH: 0 filings with usable metadata
+[260/926] FINANTECH: wrote 0 rows (1276s elapsed, 4.9s/symbol avg)
+  FINCABLES: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[261/926] FINCABLES: wrote 20 rows (1283s elapsed, 4.9s/symbol avg)
+  FINEORG: 19 filings with usable metadata
+[262/926] FINEORG: wrote 19 rows (1289s elapsed, 4.9s/symbol avg)
+  FINPIPE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[263/926] FINPIPE: wrote 20 rows (1297s elapsed, 4.9s/symbol avg)
+  FLEX: 0 filings with usable metadata
+[264/926] FLEX: wrote 0 rows (1297s elapsed, 4.9s/symbol avg)
+  FLUOROCHEM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[265/926] FLUOROCHEM: wrote 20 rows (1304s elapsed, 4.9s/symbol avg)
+  FORCEMOT: 11 filings with usable metadata
+[266/926] FORCEMOT: wrote 11 rows (1308s elapsed, 4.9s/symbol avg)
+  FORTIS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[267/926] FORTIS: wrote 20 rows (1316s elapsed, 4.9s/symbol avg)
+  FOURSOFT: 0 filings with usable metadata
+[268/926] FOURSOFT: wrote 0 rows (1316s elapsed, 4.9s/symbol avg)
+  FRETAIL: 3 filings with usable metadata
+[269/926] FRETAIL: wrote 3 rows (1317s elapsed, 4.9s/symbol avg)
+  FRL: 0 filings with usable metadata
+[270/926] FRL: wrote 0 rows (1317s elapsed, 4.9s/symbol avg)
+  FSL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[271/926] FSL: wrote 20 rows (1324s elapsed, 4.9s/symbol avg)
+  GAIL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[272/926] GAIL: wrote 21 rows (1332s elapsed, 4.9s/symbol avg)
+  GAMMONIND: 12 filings with usable metadata
+[273/926] GAMMONIND: wrote 12 rows (1338s elapsed, 4.9s/symbol avg)
+  GATI: 0 filings with usable metadata
+[274/926] GATI: wrote 0 rows (1338s elapsed, 4.9s/symbol avg)
+  GDL: 0 filings with usable metadata
+[275/926] GDL: wrote 0 rows (1338s elapsed, 4.9s/symbol avg)
+  GEOINFO: 0 filings with usable metadata
+[276/926] GEOINFO: wrote 0 rows (1338s elapsed, 4.8s/symbol avg)
+  GEOJIT: 0 filings with usable metadata
+[277/926] GEOJIT: wrote 0 rows (1339s elapsed, 4.8s/symbol avg)
+  GEOMETRIC: 0 filings with usable metadata
+[278/926] GEOMETRIC: wrote 0 rows (1339s elapsed, 4.8s/symbol avg)
+  GEORGWILIM: 0 filings with usable metadata
+[279/926] GEORGWILIM: wrote 0 rows (1339s elapsed, 4.8s/symbol avg)
+  GESCOCORP: 0 filings with usable metadata
+[280/926] GESCOCORP: wrote 0 rows (1339s elapsed, 4.8s/symbol avg)
+  GESHIP: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[281/926] GESHIP: wrote 22 rows (1347s elapsed, 4.8s/symbol avg)
+  GESHIPPING: 0 filings with usable metadata
+[282/926] GESHIPPING: wrote 0 rows (1347s elapsed, 4.8s/symbol avg)
+  GHCL: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[283/926] GHCL: wrote 22 rows (1355s elapsed, 4.8s/symbol avg)
+  GIPCL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[284/926] GIPCL: wrote 21 rows (1362s elapsed, 4.8s/symbol avg)
+  GITANJALI: 0 filings with usable metadata
+[285/926] GITANJALI: wrote 0 rows (1363s elapsed, 4.8s/symbol avg)
+  GLAND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[286/926] GLAND: wrote 20 rows (1377s elapsed, 4.8s/symbol avg)
+  GLAXO: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_173962_763584_12012023024004_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_173962_763584_12012023024004_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[287/926] GLAXO: wrote 20 rows (1385s elapsed, 4.8s/symbol avg)
+  GLENMARK: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[288/926] GLENMARK: wrote 21 rows (1393s elapsed, 4.8s/symbol avg)
+  GLODYNE: 0 filings with usable metadata
+[289/926] GLODYNE: wrote 0 rows (1394s elapsed, 4.8s/symbol avg)
+  GMDCLTD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[290/926] GMDCLTD: wrote 20 rows (1403s elapsed, 4.8s/symbol avg)
+  GMMPFAUDLR: 25 filings with usable metadata
+    ... 20/25 XBRL detail docs fetched
+[291/926] GMMPFAUDLR: wrote 25 rows (1414s elapsed, 4.9s/symbol avg)
+  GMRAIRPORT: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[292/926] GMRAIRPORT: wrote 22 rows (1423s elapsed, 4.9s/symbol avg)
+  GMRINFRA: 0 filings with usable metadata
+[293/926] GMRINFRA: wrote 0 rows (1423s elapsed, 4.9s/symbol avg)
+  GNFC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[294/926] GNFC: wrote 20 rows (1432s elapsed, 4.9s/symbol avg)
+  GOACARBON: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[295/926] GOACARBON: wrote 20 rows (1440s elapsed, 4.9s/symbol avg)
+  GODFRYPHLP: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[296/926] GODFRYPHLP: wrote 21 rows (1448s elapsed, 4.9s/symbol avg)
+  GODREJCP: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[297/926] GODREJCP: wrote 20 rows (1455s elapsed, 4.9s/symbol avg)
+  GODREJIND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[298/926] GODREJIND: wrote 20 rows (1463s elapsed, 4.9s/symbol avg)
+  GODREJPROP: 31 filings with usable metadata
+    ... 20/31 XBRL detail docs fetched
+[299/926] GODREJPROP: wrote 31 rows (1475s elapsed, 4.9s/symbol avg)
+  GOETZEIND: 0 filings with usable metadata
+[300/926] GOETZEIND: wrote 0 rows (1475s elapsed, 4.9s/symbol avg)
+  GOLDBEES: 0 filings with usable metadata
+[301/926] GOLDBEES: wrote 0 rows (1475s elapsed, 4.9s/symbol avg)
+  GOLDIETF: 0 filings with usable metadata
+[302/926] GOLDIETF: wrote 0 rows (1475s elapsed, 4.9s/symbol avg)
+  GPPL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[303/926] GPPL: wrote 20 rows (1483s elapsed, 4.9s/symbol avg)
+  GRANULES: 22 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_1477166_04072025115317_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_1477166_04072025115317_WEB.xml
+    ... 20/22 XBRL detail docs fetched
+[304/926] GRANULES: wrote 22 rows (1491s elapsed, 4.9s/symbol avg)
+  GRAPHITE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[305/926] GRAPHITE: wrote 20 rows (1499s elapsed, 4.9s/symbol avg)
+  GRASIM: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[306/926] GRASIM: wrote 21 rows (1506s elapsed, 4.9s/symbol avg)
+  GRAVITA: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[307/926] GRAVITA: wrote 21 rows (1514s elapsed, 4.9s/symbol avg)
+  GREAVESCOT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[308/926] GREAVESCOT: wrote 20 rows (1521s elapsed, 4.9s/symbol avg)
+  GRSE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[309/926] GRSE: wrote 20 rows (1529s elapsed, 4.9s/symbol avg)
+  GRUH: 0 filings with usable metadata
+[310/926] GRUH: wrote 0 rows (1529s elapsed, 4.9s/symbol avg)
+  GSFC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[311/926] GSFC: wrote 20 rows (1536s elapsed, 4.9s/symbol avg)
+  GSKCONS: 0 filings with usable metadata
+[312/926] GSKCONS: wrote 0 rows (1536s elapsed, 4.9s/symbol avg)
+  GSPL: 19 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168115_645071_21042022114449_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168115_645071_21042022114449_WEB.xml
+[313/926] GSPL: wrote 19 rows (1543s elapsed, 4.9s/symbol avg)
+  GTCIND: 0 filings with usable metadata
+[314/926] GTCIND: wrote 0 rows (1543s elapsed, 4.9s/symbol avg)
+  GTL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[315/926] GTL: wrote 20 rows (1551s elapsed, 4.9s/symbol avg)
+  GTLINFRA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[316/926] GTLINFRA: wrote 20 rows (1559s elapsed, 4.9s/symbol avg)
+  GTOFFSHORE: 0 filings with usable metadata
+[317/926] GTOFFSHORE: wrote 0 rows (1559s elapsed, 4.9s/symbol avg)
+  GUJALKALI: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[318/926] GUJALKALI: wrote 20 rows (1566s elapsed, 4.9s/symbol avg)
+  GUJAMBCEM: 0 filings with usable metadata
+[319/926] GUJAMBCEM: wrote 0 rows (1566s elapsed, 4.9s/symbol avg)
+  GUJFLUORO: 0 filings with usable metadata
+[320/926] GUJFLUORO: wrote 0 rows (1566s elapsed, 4.9s/symbol avg)
+  GUJGASLTD: 0 filings with usable metadata
+[321/926] GUJGASLTD: wrote 0 rows (1566s elapsed, 4.9s/symbol avg)
+  GUJNRECOKE: 0 filings with usable metadata
+[322/926] GUJNRECOKE: wrote 0 rows (1567s elapsed, 4.9s/symbol avg)
+  GUJRATGAS: 0 filings with usable metadata
+[323/926] GUJRATGAS: wrote 0 rows (1567s elapsed, 4.9s/symbol avg)
+  GUJSIDHCEM: 0 filings with usable metadata
+[324/926] GUJSIDHCEM: wrote 0 rows (1567s elapsed, 4.8s/symbol avg)
+  GVKPIL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[325/926] GVKPIL: wrote 20 rows (1575s elapsed, 4.8s/symbol avg)
+  GVT&D: 0 filings with usable metadata
+[326/926] GVT&D: wrote 0 rows (1575s elapsed, 4.8s/symbol avg)
+  GWALCHEM: 0 filings with usable metadata
+[327/926] GWALCHEM: wrote 0 rows (1575s elapsed, 4.8s/symbol avg)
+  HAL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[328/926] HAL: wrote 20 rows (1582s elapsed, 4.8s/symbol avg)
+  HANUNG: 0 filings with usable metadata
+[329/926] HANUNG: wrote 0 rows (1582s elapsed, 4.8s/symbol avg)
+  HAPPSTMNDS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[330/926] HAPPSTMNDS: wrote 20 rows (1589s elapsed, 4.8s/symbol avg)
+  HARRMALAYA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[331/926] HARRMALAYA: wrote 20 rows (1598s elapsed, 4.8s/symbol avg)
+  HAVELLS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[332/926] HAVELLS: wrote 20 rows (1606s elapsed, 4.8s/symbol avg)
+  HBLENGINE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[333/926] HBLENGINE: wrote 20 rows (1613s elapsed, 4.8s/symbol avg)
+  HBLPOWER: 0 filings with usable metadata
+[334/926] HBLPOWER: wrote 0 rows (1613s elapsed, 4.8s/symbol avg)
+  HCC: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[335/926] HCC: wrote 22 rows (1623s elapsed, 4.8s/symbol avg)
+  HCL-INSYS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[336/926] HCL-INSYS: wrote 20 rows (1632s elapsed, 4.9s/symbol avg)
+  HCLTECH: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[337/926] HCLTECH: wrote 20 rows (1639s elapsed, 4.9s/symbol avg)
+  HDFC: 8 filings with usable metadata
+[338/926] HDFC: wrote 8 rows (1642s elapsed, 4.9s/symbol avg)
+  HDFCAMC: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[339/926] HDFCAMC: wrote 21 rows (1650s elapsed, 4.9s/symbol avg)
+  HDFCBANK: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[340/926] HDFCBANK: wrote 22 rows (1658s elapsed, 4.9s/symbol avg)
+  HDFCGOLD: 0 filings with usable metadata
+[341/926] HDFCGOLD: wrote 0 rows (1658s elapsed, 4.9s/symbol avg)
+  HDFCLIFE: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[342/926] HDFCLIFE: wrote 21 rows (1666s elapsed, 4.9s/symbol avg)
+  HDFCSILVER: 0 filings with usable metadata
+[343/926] HDFCSILVER: wrote 0 rows (1666s elapsed, 4.9s/symbol avg)
+  HDIL: 0 filings with usable metadata
+[344/926] HDIL: wrote 0 rows (1666s elapsed, 4.8s/symbol avg)
+  HEG: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[345/926] HEG: wrote 20 rows (1673s elapsed, 4.9s/symbol avg)
+  HEROHONDA: 0 filings with usable metadata
+[346/926] HEROHONDA: wrote 0 rows (1673s elapsed, 4.8s/symbol avg)
+  HEROMOTOCO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[347/926] HEROMOTOCO: wrote 20 rows (1681s elapsed, 4.8s/symbol avg)
+  HEXAWARE: 0 filings with usable metadata
+[348/926] HEXAWARE: wrote 0 rows (1681s elapsed, 4.8s/symbol avg)
+  HFCL: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[349/926] HFCL: wrote 23 rows (1689s elapsed, 4.8s/symbol avg)
+  HIMACHLFUT: 0 filings with usable metadata
+[350/926] HIMACHLFUT: wrote 0 rows (1689s elapsed, 4.8s/symbol avg)
+  HIMATSEIDE: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[351/926] HIMATSEIDE: wrote 21 rows (1697s elapsed, 4.8s/symbol avg)
+  HINDALC0: 0 filings with usable metadata
+[352/926] HINDALC0: wrote 0 rows (1697s elapsed, 4.8s/symbol avg)
+  HINDALCO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[353/926] HINDALCO: wrote 20 rows (1704s elapsed, 4.8s/symbol avg)
+  HINDCONS: 0 filings with usable metadata
+[354/926] HINDCONS: wrote 0 rows (1704s elapsed, 4.8s/symbol avg)
+  HINDCOPPER: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[355/926] HINDCOPPER: wrote 20 rows (1711s elapsed, 4.8s/symbol avg)
+  HINDLEVER: 0 filings with usable metadata
+[356/926] HINDLEVER: wrote 0 rows (1711s elapsed, 4.8s/symbol avg)
+  HINDMOTOR: 0 filings with usable metadata
+[357/926] HINDMOTOR: wrote 0 rows (1712s elapsed, 4.8s/symbol avg)
+  HINDOILEXP: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[358/926] HINDOILEXP: wrote 20 rows (1719s elapsed, 4.8s/symbol avg)
+  HINDPETRO: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[359/926] HINDPETRO: wrote 21 rows (1726s elapsed, 4.8s/symbol avg)
+  HINDUNILVR: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[360/926] HINDUNILVR: wrote 20 rows (1735s elapsed, 4.8s/symbol avg)
+  HINDZINC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[361/926] HINDZINC: wrote 20 rows (1742s elapsed, 4.8s/symbol avg)
+  HITACHIHOM: 0 filings with usable metadata
+[362/926] HITACHIHOM: wrote 0 rows (1742s elapsed, 4.8s/symbol avg)
+  HMT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[363/926] HMT: wrote 20 rows (1751s elapsed, 4.8s/symbol avg)
+  HONAUT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[364/926] HONAUT: wrote 20 rows (1758s elapsed, 4.8s/symbol avg)
+  HOTELEELA: 0 filings with usable metadata
+[365/926] HOTELEELA: wrote 0 rows (1758s elapsed, 4.8s/symbol avg)
+  HSCL: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[366/926] HSCL: wrote 24 rows (1767s elapsed, 4.8s/symbol avg)
+  HTMT: 0 filings with usable metadata
+[367/926] HTMT: wrote 0 rows (1767s elapsed, 4.8s/symbol avg)
+  HUDCO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[368/926] HUDCO: wrote 20 rows (1775s elapsed, 4.8s/symbol avg)
+  HYUNDAI: 8 filings with usable metadata
+[369/926] HYUNDAI: wrote 8 rows (1778s elapsed, 4.8s/symbol avg)
+  I-FLEX: 0 filings with usable metadata
+[370/926] I-FLEX: wrote 0 rows (1778s elapsed, 4.8s/symbol avg)
+  IBP: 0 filings with usable metadata
+[371/926] IBP: wrote 0 rows (1778s elapsed, 4.8s/symbol avg)
+  IBPOW: 0 filings with usable metadata
+[372/926] IBPOW: wrote 0 rows (1778s elapsed, 4.8s/symbol avg)
+  IBREALEST: 0 filings with usable metadata
+[373/926] IBREALEST: wrote 0 rows (1778s elapsed, 4.8s/symbol avg)
+  IBSEC: 0 filings with usable metadata
+[374/926] IBSEC: wrote 0 rows (1778s elapsed, 4.8s/symbol avg)
+  IBULHSGFIN: 0 filings with usable metadata
+[375/926] IBULHSGFIN: wrote 0 rows (1778s elapsed, 4.7s/symbol avg)
+  IBVENTURES: 0 filings with usable metadata
+[376/926] IBVENTURES: wrote 0 rows (1779s elapsed, 4.7s/symbol avg)
+  ICICIBANK: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[377/926] ICICIBANK: wrote 20 rows (1786s elapsed, 4.7s/symbol avg)
+  ICICIGI: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[378/926] ICICIGI: wrote 20 rows (1794s elapsed, 4.7s/symbol avg)
+  ICICIPRULI: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[379/926] ICICIPRULI: wrote 20 rows (1801s elapsed, 4.8s/symbol avg)
+  ICIL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[380/926] ICIL: wrote 20 rows (1808s elapsed, 4.8s/symbol avg)
+  ICSA: 15 filings with usable metadata
+[381/926] ICSA: wrote 15 rows (1814s elapsed, 4.8s/symbol avg)
+  IDBI: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[382/926] IDBI: wrote 20 rows (1822s elapsed, 4.8s/symbol avg)
+  IDBIBANK: 0 filings with usable metadata
+[383/926] IDBIBANK: wrote 0 rows (1822s elapsed, 4.8s/symbol avg)
+  IDEA: 28 filings with usable metadata
+    ... 20/28 XBRL detail docs fetched
+[384/926] IDEA: wrote 28 rows (1832s elapsed, 4.8s/symbol avg)
+  IDFC: 12 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168121_645104_21042022115556_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168121_645104_21042022115556_WEB.xml
+[385/926] IDFC: wrote 12 rows (1837s elapsed, 4.8s/symbol avg)
+  IDFCBANK: 0 filings with usable metadata
+[386/926] IDFCBANK: wrote 0 rows (1837s elapsed, 4.8s/symbol avg)
+  IDFCFIRSTB: 28 filings with usable metadata
+    ... 20/28 XBRL detail docs fetched
+[387/926] IDFCFIRSTB: wrote 28 rows (1847s elapsed, 4.8s/symbol avg)
+  IEX: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[388/926] IEX: wrote 21 rows (1855s elapsed, 4.8s/symbol avg)
+  IFCI: 25 filings with usable metadata
+    ... 20/25 XBRL detail docs fetched
+[389/926] IFCI: wrote 25 rows (1864s elapsed, 4.8s/symbol avg)
+  IGL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[390/926] IGL: wrote 21 rows (1872s elapsed, 4.8s/symbol avg)
+  INDHOTEL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[391/926] INDHOTEL: wrote 20 rows (1879s elapsed, 4.8s/symbol avg)
+  INDIABULLS: 0 filings with usable metadata
+[392/926] INDIABULLS: wrote 0 rows (1880s elapsed, 4.8s/symbol avg)
+  INDIACEM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[393/926] INDIACEM: wrote 20 rows (1887s elapsed, 4.8s/symbol avg)
+  INDIAINFO: 0 filings with usable metadata
+[394/926] INDIAINFO: wrote 0 rows (1887s elapsed, 4.8s/symbol avg)
+  INDIAMART: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[395/926] INDIAMART: wrote 22 rows (1895s elapsed, 4.8s/symbol avg)
+  INDIANB: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[396/926] INDIANB: wrote 21 rows (1904s elapsed, 4.8s/symbol avg)
+  INDIGO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[397/926] INDIGO: wrote 20 rows (1911s elapsed, 4.8s/symbol avg)
+  INDORAMA: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_169708_691884_16072022061002_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_169708_691884_16072022061002_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[398/926] INDORAMA: wrote 20 rows (1920s elapsed, 4.8s/symbol avg)
+  INDRAMEDCO: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[399/926] INDRAMEDCO: wrote 21 rows (1928s elapsed, 4.8s/symbol avg)
+  INDRAYON: 0 filings with usable metadata
+[400/926] INDRAYON: wrote 0 rows (1928s elapsed, 4.8s/symbol avg)
+  INDSWFTLAB: 27 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_167091_636366_15042022031031_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_167091_636366_15042022031031_WEB.xml
+    ... 20/27 XBRL detail docs fetched
+[401/926] INDSWFTLAB: wrote 27 rows (1941s elapsed, 4.8s/symbol avg)
+  INDUSINDBK: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[402/926] INDUSINDBK: wrote 21 rows (1955s elapsed, 4.9s/symbol avg)
+  INDUSTOWER: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[403/926] INDUSTOWER: wrote 21 rows (1968s elapsed, 4.9s/symbol avg)
+  INFIBEAM: 0 filings with usable metadata
+[404/926] INFIBEAM: wrote 0 rows (1969s elapsed, 4.9s/symbol avg)
+  INFOSYSTCH: 0 filings with usable metadata
+[405/926] INFOSYSTCH: wrote 0 rows (1969s elapsed, 4.9s/symbol avg)
+  INFOTECENT: 0 filings with usable metadata
+[406/926] INFOTECENT: wrote 0 rows (1969s elapsed, 4.9s/symbol avg)
+  INFRATEL: 0 filings with usable metadata
+[407/926] INFRATEL: wrote 0 rows (1969s elapsed, 4.8s/symbol avg)
+  INFY: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[408/926] INFY: wrote 21 rows (1984s elapsed, 4.9s/symbol avg)
+  INGVYSYABK: 0 filings with usable metadata
+[409/926] INGVYSYABK: wrote 0 rows (1984s elapsed, 4.9s/symbol avg)
+  INOXLEISUR: 6 filings with usable metadata
+[410/926] INOXLEISUR: wrote 6 rows (1989s elapsed, 4.9s/symbol avg)
+  INOXWIND: 26 filings with usable metadata
+    ... 20/26 XBRL detail docs fetched
+[411/926] INOXWIND: wrote 26 rows (2004s elapsed, 4.9s/symbol avg)
+  INTELLECT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[412/926] INTELLECT: wrote 20 rows (2011s elapsed, 4.9s/symbol avg)
+  IOB: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[413/926] IOB: wrote 22 rows (2020s elapsed, 4.9s/symbol avg)
+  IOC: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[414/926] IOC: wrote 21 rows (2028s elapsed, 4.9s/symbol avg)
+  IOL: 0 filings with usable metadata
+[415/926] IOL: wrote 0 rows (2028s elapsed, 4.9s/symbol avg)
+  IOLCP: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[416/926] IOLCP: wrote 20 rows (2035s elapsed, 4.9s/symbol avg)
+  IPCALAB: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[417/926] IPCALAB: wrote 20 rows (2042s elapsed, 4.9s/symbol avg)
+  IPCL: 0 filings with usable metadata
+[418/926] IPCL: wrote 0 rows (2043s elapsed, 4.9s/symbol avg)
+  IRB: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[419/926] IRB: wrote 22 rows (2051s elapsed, 4.9s/symbol avg)
+  IRCON: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[420/926] IRCON: wrote 20 rows (2058s elapsed, 4.9s/symbol avg)
+  IRCTC: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[421/926] IRCTC: wrote 21 rows (2066s elapsed, 4.9s/symbol avg)
+  IREDA: 13 filings with usable metadata
+[422/926] IREDA: wrote 13 rows (2071s elapsed, 4.9s/symbol avg)
+  IRFC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[423/926] IRFC: wrote 20 rows (2079s elapsed, 4.9s/symbol avg)
+  ISEC: 14 filings with usable metadata
+[424/926] ISEC: wrote 14 rows (2085s elapsed, 4.9s/symbol avg)
+  ISPATIND: 0 filings with usable metadata
+[425/926] ISPATIND: wrote 0 rows (2085s elapsed, 4.9s/symbol avg)
+  ITC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[426/926] ITC: wrote 20 rows (2092s elapsed, 4.9s/symbol avg)
+  ITI: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[427/926] ITI: wrote 23 rows (2100s elapsed, 4.9s/symbol avg)
+  IVRCLINFRA: 13 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_171869_733609_19102022031026_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_171869_733609_19102022031026_WEB.xml
+[428/926] IVRCLINFRA: wrote 13 rows (2106s elapsed, 4.9s/symbol avg)
+  J&KBANK: 0 filings with usable metadata
+[429/926] J&KBANK: wrote 0 rows (2106s elapsed, 4.9s/symbol avg)
+  JAICORPLTD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[430/926] JAICORPLTD: wrote 20 rows (2113s elapsed, 4.9s/symbol avg)
+  JAMNAAUTO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[431/926] JAMNAAUTO: wrote 20 rows (2120s elapsed, 4.9s/symbol avg)
+  JAYNECOIND: 34 filings with usable metadata
+    ... 20/34 XBRL detail docs fetched
+[432/926] JAYNECOIND: wrote 34 rows (2132s elapsed, 4.9s/symbol avg)
+  JAYSREETEA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[433/926] JAYSREETEA: wrote 20 rows (2140s elapsed, 4.9s/symbol avg)
+  JBCHEPHARM: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_174749_771558_18012023044010_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_174749_771558_18012023044010_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[434/926] JBCHEPHARM: wrote 20 rows (2147s elapsed, 4.9s/symbol avg)
+  JBFIND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[435/926] JBFIND: wrote 20 rows (2156s elapsed, 5.0s/symbol avg)
+  JETAIRWAYS: 17 filings with usable metadata
+[436/926] JETAIRWAYS: wrote 17 rows (2164s elapsed, 5.0s/symbol avg)
+  JINDALIRON: 0 filings with usable metadata
+[437/926] JINDALIRON: wrote 0 rows (2164s elapsed, 5.0s/symbol avg)
+  JINDALPOLY: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[438/926] JINDALPOLY: wrote 21 rows (2171s elapsed, 5.0s/symbol avg)
+  JINDALSAW: 31 filings with usable metadata
+    ... 20/31 XBRL detail docs fetched
+[439/926] JINDALSAW: wrote 31 rows (2183s elapsed, 5.0s/symbol avg)
+  JINDALSTEL: 26 filings with usable metadata
+    ... 20/26 XBRL detail docs fetched
+[440/926] JINDALSTEL: wrote 26 rows (2194s elapsed, 5.0s/symbol avg)
+  JINDALSWHL: 0 filings with usable metadata
+[441/926] JINDALSWHL: wrote 0 rows (2194s elapsed, 5.0s/symbol avg)
+  JINDVIJSTL: 0 filings with usable metadata
+[442/926] JINDVIJSTL: wrote 0 rows (2194s elapsed, 5.0s/symbol avg)
+  JIOFIN: 14 filings with usable metadata
+[443/926] JIOFIN: wrote 14 rows (2200s elapsed, 5.0s/symbol avg)
+  JISLJALEQS: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[444/926] JISLJALEQS: wrote 24 rows (2208s elapsed, 5.0s/symbol avg)
+  JKCEMENT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[445/926] JKCEMENT: wrote 20 rows (2216s elapsed, 5.0s/symbol avg)
+  JKLAKSHMI: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[446/926] JKLAKSHMI: wrote 21 rows (2224s elapsed, 5.0s/symbol avg)
+  JKPAPER: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[447/926] JKPAPER: wrote 21 rows (2232s elapsed, 5.0s/symbol avg)
+  JKTYRE: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[448/926] JKTYRE: wrote 23 rows (2240s elapsed, 5.0s/symbol avg)
+  JMFINANCIL: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168127_645137_21042022120620_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168127_645137_21042022120620_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[449/926] JMFINANCIL: wrote 20 rows (2248s elapsed, 5.0s/symbol avg)
+  JPASSOCIAT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[450/926] JPASSOCIAT: wrote 20 rows (2255s elapsed, 5.0s/symbol avg)
+  JPHYDRO: 0 filings with usable metadata
+[451/926] JPHYDRO: wrote 0 rows (2255s elapsed, 5.0s/symbol avg)
+  JPINFRATEC: 14 filings with usable metadata
+[452/926] JPINFRATEC: wrote 14 rows (2261s elapsed, 5.0s/symbol avg)
+  JPPOWER: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[453/926] JPPOWER: wrote 20 rows (2268s elapsed, 5.0s/symbol avg)
+  JSL: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[454/926] JSL: wrote 22 rows (2276s elapsed, 5.0s/symbol avg)
+  JSTAINLESS: 0 filings with usable metadata
+[455/926] JSTAINLESS: wrote 0 rows (2276s elapsed, 5.0s/symbol avg)
+  JSWENERGY: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[456/926] JSWENERGY: wrote 22 rows (2284s elapsed, 5.0s/symbol avg)
+  JSWISPAT: 0 filings with usable metadata
+[457/926] JSWISPAT: wrote 0 rows (2285s elapsed, 5.0s/symbol avg)
+  JSWSTEEL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[458/926] JSWSTEEL: wrote 20 rows (2292s elapsed, 5.0s/symbol avg)
+  JUBILANT: 0 filings with usable metadata
+[459/926] JUBILANT: wrote 0 rows (2292s elapsed, 5.0s/symbol avg)
+  JUBLFOOD: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_167755_641850_19042022071005_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_167755_641850_19042022071005_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[460/926] JUBLFOOD: wrote 20 rows (2299s elapsed, 5.0s/symbol avg)
+  JUPITER: 0 filings with usable metadata
+[461/926] JUPITER: wrote 0 rows (2299s elapsed, 5.0s/symbol avg)
+  JUSTDIAL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[462/926] JUSTDIAL: wrote 20 rows (2306s elapsed, 5.0s/symbol avg)
+  JWL: 25 filings with usable metadata
+    ... 20/25 XBRL detail docs fetched
+[463/926] JWL: wrote 25 rows (2315s elapsed, 5.0s/symbol avg)
+  JYOTISTRUC: 29 filings with usable metadata
+    ... 20/29 XBRL detail docs fetched
+[464/926] JYOTISTRUC: wrote 29 rows (2326s elapsed, 5.0s/symbol avg)
+  KAJARIACER: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[465/926] KAJARIACER: wrote 20 rows (2333s elapsed, 5.0s/symbol avg)
+  KALINDEE: 0 filings with usable metadata
+[466/926] KALINDEE: wrote 0 rows (2333s elapsed, 5.0s/symbol avg)
+  KALPATPOWR: 0 filings with usable metadata
+[467/926] KALPATPOWR: wrote 0 rows (2333s elapsed, 5.0s/symbol avg)
+  KALYANKJIL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[468/926] KALYANKJIL: wrote 20 rows (2341s elapsed, 5.0s/symbol avg)
+  KARURVYSYA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[469/926] KARURVYSYA: wrote 20 rows (2348s elapsed, 5.0s/symbol avg)
+  KAYNES: 18 filings with usable metadata
+[470/926] KAYNES: wrote 18 rows (2355s elapsed, 5.0s/symbol avg)
+  KCPSUGIND: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_172688_739023_21102022124008_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_172688_739023_21102022124008_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[471/926] KCPSUGIND: wrote 20 rows (2363s elapsed, 5.0s/symbol avg)
+  KEC: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[472/926] KEC: wrote 21 rows (2371s elapsed, 5.0s/symbol avg)
+  KECINTL: 0 filings with usable metadata
+[473/926] KECINTL: wrote 0 rows (2371s elapsed, 5.0s/symbol avg)
+  KEI: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[474/926] KEI: wrote 21 rows (2379s elapsed, 5.0s/symbol avg)
+  KESORAMIND: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[475/926] KESORAMIND: wrote 23 rows (2388s elapsed, 5.0s/symbol avg)
+  KFA: 0 filings with usable metadata
+[476/926] KFA: wrote 0 rows (2389s elapsed, 5.0s/symbol avg)
+  KFINTECH: 16 filings with usable metadata
+[477/926] KFINTECH: wrote 16 rows (2395s elapsed, 5.0s/symbol avg)
+  KGL: 0 filings with usable metadata
+[478/926] KGL: wrote 0 rows (2395s elapsed, 5.0s/symbol avg)
+  KIRIINDUS: 25 filings with usable metadata
+    ... 20/25 XBRL detail docs fetched
+[479/926] KIRIINDUS: wrote 25 rows (2406s elapsed, 5.0s/symbol avg)
+  KIRLOSKCUM: 0 filings with usable metadata
+[480/926] KIRLOSKCUM: wrote 0 rows (2407s elapsed, 5.0s/symbol avg)
+  KITEX: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[481/926] KITEX: wrote 21 rows (2414s elapsed, 5.0s/symbol avg)
+  KLGSYSTEL: 0 filings with usable metadata
+[482/926] KLGSYSTEL: wrote 0 rows (2414s elapsed, 5.0s/symbol avg)
+  KOPRAN: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[483/926] KOPRAN: wrote 21 rows (2422s elapsed, 5.0s/symbol avg)
+  KOTAKBANK: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[484/926] KOTAKBANK: wrote 20 rows (2429s elapsed, 5.0s/symbol avg)
+  KOTAKGOLD: 0 filings with usable metadata
+[485/926] KOTAKGOLD: wrote 0 rows (2429s elapsed, 5.0s/symbol avg)
+  KPIT: 0 filings with usable metadata
+[486/926] KPIT: wrote 0 rows (2429s elapsed, 5.0s/symbol avg)
+  KPITTECH: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[487/926] KPITTECH: wrote 20 rows (2436s elapsed, 5.0s/symbol avg)
+  KRBL: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[488/926] KRBL: wrote 22 rows (2444s elapsed, 5.0s/symbol avg)
+  KSCL: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[489/926] KSCL: wrote 23 rows (2457s elapsed, 5.0s/symbol avg)
+  KSOILS: 33 filings with usable metadata
+    ... 20/33 XBRL detail docs fetched
+[490/926] KSOILS: wrote 33 rows (2471s elapsed, 5.0s/symbol avg)
+  KTKBANK: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[491/926] KTKBANK: wrote 22 rows (2480s elapsed, 5.1s/symbol avg)
+  KWALITY: 1 filings with usable metadata
+[492/926] KWALITY: wrote 1 rows (2480s elapsed, 5.0s/symbol avg)
+  L&TFH: 0 filings with usable metadata
+[493/926] L&TFH: wrote 0 rows (2480s elapsed, 5.0s/symbol avg)
+  LAKSHVILAS: 0 filings with usable metadata
+[494/926] LAKSHVILAS: wrote 0 rows (2481s elapsed, 5.0s/symbol avg)
+  LALPATHLAB: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[495/926] LALPATHLAB: wrote 21 rows (2488s elapsed, 5.0s/symbol avg)
+  LAURUSLABS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[496/926] LAURUSLABS: wrote 20 rows (2495s elapsed, 5.0s/symbol avg)
+  LEMONTREE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[497/926] LEMONTREE: wrote 20 rows (2503s elapsed, 5.0s/symbol avg)
+  LICHSGFIN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[498/926] LICHSGFIN: wrote 20 rows (2511s elapsed, 5.0s/symbol avg)
+  LICI: 19 filings with usable metadata
+[499/926] LICI: wrote 19 rows (2518s elapsed, 5.0s/symbol avg)
+  LINDEINDIA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[500/926] LINDEINDIA: wrote 20 rows (2525s elapsed, 5.0s/symbol avg)
+  LIQUIDBEES: 0 filings with usable metadata
+[501/926] LIQUIDBEES: wrote 0 rows (2525s elapsed, 5.0s/symbol avg)
+  LIQUIDCASE: 0 filings with usable metadata
+[502/926] LIQUIDCASE: wrote 0 rows (2525s elapsed, 5.0s/symbol avg)
+  LITL: 0 filings with usable metadata
+[503/926] LITL: wrote 0 rows (2525s elapsed, 5.0s/symbol avg)
+  LLOYDSTEEL: 0 filings with usable metadata
+[504/926] LLOYDSTEEL: wrote 0 rows (2526s elapsed, 5.0s/symbol avg)
+  LML: 0 filings with usable metadata
+[505/926] LML: wrote 0 rows (2526s elapsed, 5.0s/symbol avg)
+  LODHA: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[506/926] LODHA: wrote 24 rows (2534s elapsed, 5.0s/symbol avg)
+  LOVABLE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[507/926] LOVABLE: wrote 20 rows (2542s elapsed, 5.0s/symbol avg)
+  LT: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[508/926] LT: wrote 21 rows (2550s elapsed, 5.0s/symbol avg)
+  LTF: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[509/926] LTF: wrote 20 rows (2558s elapsed, 5.0s/symbol avg)
+  LTI: 0 filings with usable metadata
+[510/926] LTI: wrote 0 rows (2558s elapsed, 5.0s/symbol avg)
+  LTIM: 0 filings with usable metadata
+[511/926] LTIM: wrote 0 rows (2558s elapsed, 5.0s/symbol avg)
+  LTTS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[512/926] LTTS: wrote 20 rows (2565s elapsed, 5.0s/symbol avg)
+  LUPIN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[513/926] LUPIN: wrote 20 rows (2573s elapsed, 5.0s/symbol avg)
+  M&M: 0 filings with usable metadata
+[514/926] M&M: wrote 0 rows (2573s elapsed, 5.0s/symbol avg)
+  M&MFIN: 0 filings with usable metadata
+[515/926] M&MFIN: wrote 0 rows (2573s elapsed, 5.0s/symbol avg)
+  MADRASCEM: 0 filings with usable metadata
+[516/926] MADRASCEM: wrote 0 rows (2573s elapsed, 5.0s/symbol avg)
+  MAHABANK: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[517/926] MAHABANK: wrote 23 rows (2582s elapsed, 5.0s/symbol avg)
+  MAHAVIRSPG: 0 filings with usable metadata
+[518/926] MAHAVIRSPG: wrote 0 rows (2582s elapsed, 5.0s/symbol avg)
+  MAHINDCIE: 0 filings with usable metadata
+[519/926] MAHINDCIE: wrote 0 rows (2582s elapsed, 5.0s/symbol avg)
+  MAHSEAMLES: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[520/926] MAHSEAMLES: wrote 21 rows (2590s elapsed, 5.0s/symbol avg)
+  MAJESCO: 0 filings with usable metadata
+[521/926] MAJESCO: wrote 0 rows (2590s elapsed, 5.0s/symbol avg)
+  MANALIPET: 0 filings with usable metadata
+[522/926] MANALIPET: wrote 0 rows (2590s elapsed, 5.0s/symbol avg)
+  MANAPPURAM: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[523/926] MANAPPURAM: wrote 21 rows (2598s elapsed, 5.0s/symbol avg)
+  MANGLMCEM: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[524/926] MANGLMCEM: wrote 21 rows (2606s elapsed, 5.0s/symbol avg)
+  MANKIND: 15 filings with usable metadata
+[525/926] MANKIND: wrote 15 rows (2612s elapsed, 5.0s/symbol avg)
+  MARICO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[526/926] MARICO: wrote 20 rows (2620s elapsed, 5.0s/symbol avg)
+  MARKSANS: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[527/926] MARKSANS: wrote 21 rows (2628s elapsed, 5.0s/symbol avg)
+  MARUTI: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[528/926] MARUTI: wrote 21 rows (2636s elapsed, 5.0s/symbol avg)
+  MASTEK: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[529/926] MASTEK: wrote 20 rows (2644s elapsed, 5.0s/symbol avg)
+  MATRIXLABS: 0 filings with usable metadata
+[530/926] MATRIXLABS: wrote 0 rows (2644s elapsed, 5.0s/symbol avg)
+  MAX: 0 filings with usable metadata
+[531/926] MAX: wrote 0 rows (2644s elapsed, 5.0s/symbol avg)
+  MAXHEALTH: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[532/926] MAXHEALTH: wrote 20 rows (2652s elapsed, 5.0s/symbol avg)
+  MAYTASINFR: 0 filings with usable metadata
+[533/926] MAYTASINFR: wrote 0 rows (2652s elapsed, 5.0s/symbol avg)
+  MAZDOCK: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[534/926] MAZDOCK: wrote 20 rows (2660s elapsed, 5.0s/symbol avg)
+  MCDOWELL-N: 0 filings with usable metadata
+[535/926] MCDOWELL-N: wrote 0 rows (2660s elapsed, 5.0s/symbol avg)
+  MCLEODRUSS: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[536/926] MCLEODRUSS: wrote 23 rows (2669s elapsed, 5.0s/symbol avg)
+  MCX: 0 filings with usable metadata
+[537/926] MCX: wrote 0 rows (2669s elapsed, 5.0s/symbol avg)
+  MEGH: 0 filings with usable metadata
+[538/926] MEGH: wrote 0 rows (2669s elapsed, 5.0s/symbol avg)
+  MEP: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[539/926] MEP: wrote 20 rows (2677s elapsed, 5.0s/symbol avg)
+  METROPOLIS: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[540/926] METROPOLIS: wrote 21 rows (2685s elapsed, 5.0s/symbol avg)
+  MFSL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[541/926] MFSL: wrote 20 rows (2693s elapsed, 5.0s/symbol avg)
+  MGL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[542/926] MGL: wrote 20 rows (2700s elapsed, 5.0s/symbol avg)
+  MIC: 0 filings with usable metadata
+[543/926] MIC: wrote 0 rows (2700s elapsed, 5.0s/symbol avg)
+  MICO: 0 filings with usable metadata
+[544/926] MICO: wrote 0 rows (2700s elapsed, 5.0s/symbol avg)
+  MID-DAY: 0 filings with usable metadata
+[545/926] MID-DAY: wrote 0 rows (2700s elapsed, 5.0s/symbol avg)
+  MIDHANI: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[546/926] MIDHANI: wrote 20 rows (2708s elapsed, 5.0s/symbol avg)
+  MINDAIND: 0 filings with usable metadata
+[547/926] MINDAIND: wrote 0 rows (2708s elapsed, 5.0s/symbol avg)
+  MINDTREE: 5 filings with usable metadata
+[548/926] MINDTREE: wrote 5 rows (2710s elapsed, 4.9s/symbol avg)
+  MIRZAINT: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[549/926] MIRZAINT: wrote 21 rows (2718s elapsed, 5.0s/symbol avg)
+  MIRZATAN: 0 filings with usable metadata
+[550/926] MIRZATAN: wrote 0 rows (2719s elapsed, 4.9s/symbol avg)
+  MLL: 0 filings with usable metadata
+[551/926] MLL: wrote 0 rows (2719s elapsed, 4.9s/symbol avg)
+  MMTC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[552/926] MMTC: wrote 20 rows (2727s elapsed, 4.9s/symbol avg)
+  MOIL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[553/926] MOIL: wrote 21 rows (2735s elapsed, 4.9s/symbol avg)
+  MONNETISPA: 0 filings with usable metadata
+[554/926] MONNETISPA: wrote 0 rows (2735s elapsed, 4.9s/symbol avg)
+  MONSANTO: 0 filings with usable metadata
+[555/926] MONSANTO: wrote 0 rows (2735s elapsed, 4.9s/symbol avg)
+  MOREPENLAB: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[556/926] MOREPENLAB: wrote 24 rows (2744s elapsed, 4.9s/symbol avg)
+  MOSERBAER: 0 filings with usable metadata
+[557/926] MOSERBAER: wrote 0 rows (2744s elapsed, 4.9s/symbol avg)
+  MOTHERSON: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[558/926] MOTHERSON: wrote 24 rows (2754s elapsed, 4.9s/symbol avg)
+  MOTHERSUMI: 0 filings with usable metadata
+[559/926] MOTHERSUMI: wrote 0 rows (2754s elapsed, 4.9s/symbol avg)
+  MOTILALOFS: 21 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_162929_541898_20102021081010_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_162929_541898_20102021081010_WEB.xml
+    ... 20/21 XBRL detail docs fetched
+[560/926] MOTILALOFS: wrote 21 rows (2767s elapsed, 4.9s/symbol avg)
+  MPHASIS: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[561/926] MPHASIS: wrote 21 rows (2775s elapsed, 4.9s/symbol avg)
+  MPHASISBFL: 0 filings with usable metadata
+[562/926] MPHASISBFL: wrote 0 rows (2775s elapsed, 4.9s/symbol avg)
+  MRF: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[563/926] MRF: wrote 20 rows (2783s elapsed, 4.9s/symbol avg)
+  MRO-TEK: 0 filings with usable metadata
+[564/926] MRO-TEK: wrote 0 rows (2783s elapsed, 4.9s/symbol avg)
+  MRPL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[565/926] MRPL: wrote 20 rows (2790s elapsed, 4.9s/symbol avg)
+  MSKPROJ: 0 filings with usable metadata
+[566/926] MSKPROJ: wrote 0 rows (2790s elapsed, 4.9s/symbol avg)
+  MTARTECH: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[567/926] MTARTECH: wrote 20 rows (2798s elapsed, 4.9s/symbol avg)
+  MTNL: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[568/926] MTNL: wrote 22 rows (2806s elapsed, 4.9s/symbol avg)
+  MUKANDLTD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[569/926] MUKANDLTD: wrote 20 rows (2814s elapsed, 4.9s/symbol avg)
+  MUNDRAPORT: 0 filings with usable metadata
+[570/926] MUNDRAPORT: wrote 0 rows (2814s elapsed, 4.9s/symbol avg)
+  MUTHOOTFIN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[571/926] MUTHOOTFIN: wrote 20 rows (2823s elapsed, 4.9s/symbol avg)
+  MYSORECEM: 0 filings with usable metadata
+[572/926] MYSORECEM: wrote 0 rows (2823s elapsed, 4.9s/symbol avg)
+  NAGARCONST: 0 filings with usable metadata
+[573/926] NAGARCONST: wrote 0 rows (2823s elapsed, 4.9s/symbol avg)
+  NAGARFERT: 0 filings with usable metadata
+[574/926] NAGARFERT: wrote 0 rows (2823s elapsed, 4.9s/symbol avg)
+  NAHAREXP: 0 filings with usable metadata
+[575/926] NAHAREXP: wrote 0 rows (2823s elapsed, 4.9s/symbol avg)
+  NAHARSPG: 0 filings with usable metadata
+[576/926] NAHARSPG: wrote 0 rows (2823s elapsed, 4.9s/symbol avg)
+  NAM-INDIA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[577/926] NAM-INDIA: wrote 20 rows (2831s elapsed, 4.9s/symbol avg)
+  NATCOPHARM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[578/926] NATCOPHARM: wrote 20 rows (2838s elapsed, 4.9s/symbol avg)
+  NATIONALUM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[579/926] NATIONALUM: wrote 20 rows (2846s elapsed, 4.9s/symbol avg)
+  NAUKRI: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[580/926] NAUKRI: wrote 20 rows (2853s elapsed, 4.9s/symbol avg)
+  NAVBARFERO: 0 filings with usable metadata
+[581/926] NAVBARFERO: wrote 0 rows (2853s elapsed, 4.9s/symbol avg)
+  NAVINFLUOR: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[582/926] NAVINFLUOR: wrote 21 rows (2860s elapsed, 4.9s/symbol avg)
+  NAZARA: 33 filings with usable metadata
+    ... 20/33 XBRL detail docs fetched
+[583/926] NAZARA: wrote 33 rows (2873s elapsed, 4.9s/symbol avg)
+  NBCC: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[584/926] NBCC: wrote 21 rows (2880s elapsed, 4.9s/symbol avg)
+  NBVENTURES: 0 filings with usable metadata
+[585/926] NBVENTURES: wrote 0 rows (2881s elapsed, 4.9s/symbol avg)
+  NCC: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[586/926] NCC: wrote 21 rows (2888s elapsed, 4.9s/symbol avg)
+  NDTV: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[587/926] NDTV: wrote 21 rows (2896s elapsed, 4.9s/symbol avg)
+  NESCO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[588/926] NESCO: wrote 20 rows (2903s elapsed, 4.9s/symbol avg)
+  NESTLEIND: 14 filings with usable metadata
+[589/926] NESTLEIND: wrote 14 rows (2909s elapsed, 4.9s/symbol avg)
+  NETWEB: 13 filings with usable metadata
+[590/926] NETWEB: wrote 13 rows (2914s elapsed, 4.9s/symbol avg)
+  NEULANDLAB: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[591/926] NEULANDLAB: wrote 20 rows (2921s elapsed, 4.9s/symbol avg)
+  NEYVELILIG: 0 filings with usable metadata
+[592/926] NEYVELILIG: wrote 0 rows (2921s elapsed, 4.9s/symbol avg)
+  NFL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[593/926] NFL: wrote 20 rows (2928s elapsed, 4.9s/symbol avg)
+  NHPC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[594/926] NHPC: wrote 20 rows (2935s elapsed, 4.9s/symbol avg)
+  NICOLASPIR: 0 filings with usable metadata
+[595/926] NICOLASPIR: wrote 0 rows (2935s elapsed, 4.9s/symbol avg)
+  NIFTYBEES: 0 filings with usable metadata
+[596/926] NIFTYBEES: wrote 0 rows (2936s elapsed, 4.9s/symbol avg)
+  NIITLTD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[597/926] NIITLTD: wrote 20 rows (2943s elapsed, 4.9s/symbol avg)
+  NIITTECH: 0 filings with usable metadata
+[598/926] NIITTECH: wrote 0 rows (2943s elapsed, 4.9s/symbol avg)
+  NILKAMAL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[599/926] NILKAMAL: wrote 20 rows (2951s elapsed, 4.9s/symbol avg)
+  NIPPONDENR: 0 filings with usable metadata
+[600/926] NIPPONDENR: wrote 0 rows (2951s elapsed, 4.9s/symbol avg)
+  NLCINDIA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[601/926] NLCINDIA: wrote 20 rows (2959s elapsed, 4.9s/symbol avg)
+  NMDC: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[602/926] NMDC: wrote 22 rows (2967s elapsed, 4.9s/symbol avg)
+  NOCIL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[603/926] NOCIL: wrote 20 rows (2974s elapsed, 4.9s/symbol avg)
+  NOIDATOLL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[604/926] NOIDATOLL: wrote 20 rows (2984s elapsed, 4.9s/symbol avg)
+  NRC: 0 filings with usable metadata
+[605/926] NRC: wrote 0 rows (2984s elapsed, 4.9s/symbol avg)
+  NTPC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[606/926] NTPC: wrote 20 rows (2994s elapsed, 4.9s/symbol avg)
+  NUCLEUS: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[607/926] NUCLEUS: wrote 22 rows (3002s elapsed, 4.9s/symbol avg)
+  NUVAMA: 13 filings with usable metadata
+[608/926] NUVAMA: wrote 13 rows (3007s elapsed, 4.9s/symbol avg)
+  NYKAA: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[609/926] NYKAA: wrote 21 rows (3016s elapsed, 5.0s/symbol avg)
+  OBEROIRLTY: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[610/926] OBEROIRLTY: wrote 20 rows (3024s elapsed, 5.0s/symbol avg)
+  OFSS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[611/926] OFSS: wrote 20 rows (3032s elapsed, 5.0s/symbol avg)
+  OIL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[612/926] OIL: wrote 21 rows (3039s elapsed, 5.0s/symbol avg)
+  OLAELEC: 10 filings with usable metadata
+[613/926] OLAELEC: wrote 10 rows (3043s elapsed, 5.0s/symbol avg)
+  OLECTRA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[614/926] OLECTRA: wrote 20 rows (3051s elapsed, 5.0s/symbol avg)
+  OMAXE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[615/926] OMAXE: wrote 20 rows (3059s elapsed, 5.0s/symbol avg)
+  ONELIFECAP: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[616/926] ONELIFECAP: wrote 21 rows (3068s elapsed, 5.0s/symbol avg)
+  ONGC: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_167321_638164_18042022014010_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_167321_638164_18042022014010_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[617/926] ONGC: wrote 20 rows (3077s elapsed, 5.0s/symbol avg)
+  ONMOBILE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[618/926] ONMOBILE: wrote 20 rows (3085s elapsed, 5.0s/symbol avg)
+  OPTOCIRCUI: 0 filings with usable metadata
+[619/926] OPTOCIRCUI: wrote 0 rows (3085s elapsed, 5.0s/symbol avg)
+  ORBITCORP: 0 filings with usable metadata
+[620/926] ORBITCORP: wrote 0 rows (3086s elapsed, 5.0s/symbol avg)
+  ORCHIDCHEM: 0 filings with usable metadata
+[621/926] ORCHIDCHEM: wrote 0 rows (3086s elapsed, 5.0s/symbol avg)
+  ORIENTBANK: 0 filings with usable metadata
+[622/926] ORIENTBANK: wrote 0 rows (3086s elapsed, 5.0s/symbol avg)
+  ORIENTPPR: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[623/926] ORIENTPPR: wrote 20 rows (3094s elapsed, 5.0s/symbol avg)
+  ORISSAMINE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[624/926] ORISSAMINE: wrote 20 rows (3103s elapsed, 5.0s/symbol avg)
+  OUDHSUG: 0 filings with usable metadata
+[625/926] OUDHSUG: wrote 0 rows (3103s elapsed, 5.0s/symbol avg)
+  PAGEIND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[626/926] PAGEIND: wrote 20 rows (3111s elapsed, 5.0s/symbol avg)
+  PANACEABIO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[627/926] PANACEABIO: wrote 20 rows (3119s elapsed, 5.0s/symbol avg)
+  PANTALOONR: 0 filings with usable metadata
+[628/926] PANTALOONR: wrote 0 rows (3119s elapsed, 5.0s/symbol avg)
+  PARADEEP: 19 filings with usable metadata
+[629/926] PARADEEP: wrote 19 rows (3126s elapsed, 5.0s/symbol avg)
+  PARAS: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[630/926] PARAS: wrote 22 rows (3134s elapsed, 5.0s/symbol avg)
+  PARSVNATH: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[631/926] PARSVNATH: wrote 20 rows (3144s elapsed, 5.0s/symbol avg)
+  PATANJALI: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[632/926] PATANJALI: wrote 22 rows (3152s elapsed, 5.0s/symbol avg)
+  PATELENG: 25 filings with usable metadata
+    ... 20/25 XBRL detail docs fetched
+[633/926] PATELENG: wrote 25 rows (3162s elapsed, 5.0s/symbol avg)
+  PATNI: 0 filings with usable metadata
+[634/926] PATNI: wrote 0 rows (3162s elapsed, 5.0s/symbol avg)
+  PAYTM: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[635/926] PAYTM: wrote 21 rows (3170s elapsed, 5.0s/symbol avg)
+  PCBL: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[636/926] PCBL: wrote 22 rows (3179s elapsed, 5.0s/symbol avg)
+  PCJEWELLER: 30 filings with usable metadata
+    ... 20/30 XBRL detail docs fetched
+[637/926] PCJEWELLER: wrote 30 rows (3190s elapsed, 5.0s/symbol avg)
+  PEL: 17 filings with usable metadata
+[638/926] PEL: wrote 17 rows (3197s elapsed, 5.0s/symbol avg)
+  PENINLAND: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[639/926] PENINLAND: wrote 24 rows (3207s elapsed, 5.0s/symbol avg)
+  PENTSFWARE: 0 filings with usable metadata
+[640/926] PENTSFWARE: wrote 0 rows (3207s elapsed, 5.0s/symbol avg)
+  PERSISTENT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[641/926] PERSISTENT: wrote 20 rows (3215s elapsed, 5.0s/symbol avg)
+  PETRONET: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[642/926] PETRONET: wrote 20 rows (3223s elapsed, 5.0s/symbol avg)
+  PFC: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[643/926] PFC: wrote 21 rows (3231s elapsed, 5.0s/symbol avg)
+  PFIZER: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[644/926] PFIZER: wrote 20 rows (3239s elapsed, 5.0s/symbol avg)
+  PFOCUS: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[645/926] PFOCUS: wrote 22 rows (3247s elapsed, 5.0s/symbol avg)
+  PFS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[646/926] PFS: wrote 20 rows (3255s elapsed, 5.0s/symbol avg)
+  PGEL: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[647/926] PGEL: wrote 24 rows (3264s elapsed, 5.0s/symbol avg)
+  PHILIPCARB: 0 filings with usable metadata
+[648/926] PHILIPCARB: wrote 0 rows (3264s elapsed, 5.0s/symbol avg)
+  PHOENIXLTD: 23 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168108_645033_21042022112738_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168108_645033_21042022112738_WEB.xml
+    ... 20/23 XBRL detail docs fetched
+[649/926] PHOENIXLTD: wrote 23 rows (3273s elapsed, 5.0s/symbol avg)
+  PIDILITIND: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[650/926] PIDILITIND: wrote 21 rows (3281s elapsed, 5.0s/symbol avg)
+  PIIND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[651/926] PIIND: wrote 20 rows (3288s elapsed, 5.1s/symbol avg)
+  PIPAVAVDOC: 0 filings with usable metadata
+[652/926] PIPAVAVDOC: wrote 0 rows (3288s elapsed, 5.0s/symbol avg)
+  PIPAVAVYD: 0 filings with usable metadata
+[653/926] PIPAVAVYD: wrote 0 rows (3288s elapsed, 5.0s/symbol avg)
+  PIRHEALTH: 0 filings with usable metadata
+[654/926] PIRHEALTH: wrote 0 rows (3289s elapsed, 5.0s/symbol avg)
+  PLETHICO: 0 filings with usable metadata
+[655/926] PLETHICO: wrote 0 rows (3289s elapsed, 5.0s/symbol avg)
+  PNB: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[656/926] PNB: wrote 21 rows (3297s elapsed, 5.0s/symbol avg)
+  PNBHOUSING: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[657/926] PNBHOUSING: wrote 22 rows (3305s elapsed, 5.0s/symbol avg)
+  POLARIS: 0 filings with usable metadata
+[658/926] POLARIS: wrote 0 rows (3306s elapsed, 5.0s/symbol avg)
+  POLICYBZR: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[659/926] POLICYBZR: wrote 20 rows (3313s elapsed, 5.0s/symbol avg)
+  POLYCAB: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[660/926] POLYCAB: wrote 20 rows (3320s elapsed, 5.0s/symbol avg)
+  POLYPLEX: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[661/926] POLYPLEX: wrote 20 rows (3328s elapsed, 5.0s/symbol avg)
+  POONAWALLA: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[662/926] POONAWALLA: wrote 22 rows (3337s elapsed, 5.0s/symbol avg)
+  POWERGRID: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[663/926] POWERGRID: wrote 20 rows (3345s elapsed, 5.0s/symbol avg)
+  POWERINDIA: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[664/926] POWERINDIA: wrote 21 rows (3353s elapsed, 5.0s/symbol avg)
+  PPLPHARMA: 18 filings with usable metadata
+[665/926] PPLPHARMA: wrote 18 rows (3364s elapsed, 5.1s/symbol avg)
+  PRAJIND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[666/926] PRAJIND: wrote 20 rows (3372s elapsed, 5.1s/symbol avg)
+  PRAKASH: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[667/926] PRAKASH: wrote 21 rows (3380s elapsed, 5.1s/symbol avg)
+  PREMIERENE: 9 filings with usable metadata
+[668/926] PREMIERENE: wrote 9 rows (3384s elapsed, 5.1s/symbol avg)
+  PRESTIGE: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[669/926] PRESTIGE: wrote 21 rows (3392s elapsed, 5.1s/symbol avg)
+  PRICOL: 0 filings with usable metadata
+[670/926] PRICOL: wrote 0 rows (3392s elapsed, 5.1s/symbol avg)
+  PRISMCEM: 0 filings with usable metadata
+[671/926] PRISMCEM: wrote 0 rows (3392s elapsed, 5.1s/symbol avg)
+  PRITHVI: 0 filings with usable metadata
+[672/926] PRITHVI: wrote 0 rows (3392s elapsed, 5.0s/symbol avg)
+  PSTL: 0 filings with usable metadata
+[673/926] PSTL: wrote 0 rows (3393s elapsed, 5.0s/symbol avg)
+  PTC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[674/926] PTC: wrote 20 rows (3400s elapsed, 5.0s/symbol avg)
+  PUNJABTRAC: 0 filings with usable metadata
+[675/926] PUNJABTRAC: wrote 0 rows (3400s elapsed, 5.0s/symbol avg)
+  PUNJLLOYD: 31 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_166927_635031_14042022011012_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_166927_635031_14042022011012_WEB.xml
+    ... 20/31 XBRL detail docs fetched
+[676/926] PUNJLLOYD: wrote 31 rows (3414s elapsed, 5.1s/symbol avg)
+  PVR: 0 filings with usable metadata
+[677/926] PVR: wrote 0 rows (3414s elapsed, 5.0s/symbol avg)
+  RADICO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[678/926] RADICO: wrote 20 rows (3421s elapsed, 5.0s/symbol avg)
+  RAILTEL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[679/926] RAILTEL: wrote 20 rows (3429s elapsed, 5.1s/symbol avg)
+  RAIN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[680/926] RAIN: wrote 20 rows (3437s elapsed, 5.1s/symbol avg)
+  RAINCALCIN: 0 filings with usable metadata
+[681/926] RAINCALCIN: wrote 0 rows (3437s elapsed, 5.0s/symbol avg)
+  RAJESHEXPO: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[682/926] RAJESHEXPO: wrote 22 rows (3445s elapsed, 5.1s/symbol avg)
+  RAJSREESUG: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[683/926] RAJSREESUG: wrote 20 rows (3453s elapsed, 5.1s/symbol avg)
+  RAJTV: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[684/926] RAJTV: wrote 20 rows (3462s elapsed, 5.1s/symbol avg)
+  RALLIS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[685/926] RALLIS: wrote 20 rows (3469s elapsed, 5.1s/symbol avg)
+  RAMANEWSPR: 0 filings with usable metadata
+[686/926] RAMANEWSPR: wrote 0 rows (3469s elapsed, 5.1s/symbol avg)
+  RAMCOCEM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[687/926] RAMCOCEM: wrote 20 rows (3477s elapsed, 5.1s/symbol avg)
+  RAMCOSYS: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[688/926] RAMCOSYS: wrote 22 rows (3485s elapsed, 5.1s/symbol avg)
+  RANASUG: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[689/926] RANASUG: wrote 20 rows (3493s elapsed, 5.1s/symbol avg)
+  RANBAXY: 0 filings with usable metadata
+[690/926] RANBAXY: wrote 0 rows (3493s elapsed, 5.1s/symbol avg)
+  RAYMOND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[691/926] RAYMOND: wrote 20 rows (3501s elapsed, 5.1s/symbol avg)
+  RBLBANK: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[692/926] RBLBANK: wrote 21 rows (3509s elapsed, 5.1s/symbol avg)
+  RCF: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[693/926] RCF: wrote 20 rows (3517s elapsed, 5.1s/symbol avg)
+  RCOM: 19 filings with usable metadata
+[694/926] RCOM: wrote 19 rows (3524s elapsed, 5.1s/symbol avg)
+  RECLTD: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[695/926] RECLTD: wrote 21 rows (3532s elapsed, 5.1s/symbol avg)
+  REDINGTON: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[696/926] REDINGTON: wrote 20 rows (3539s elapsed, 5.1s/symbol avg)
+  REIAGRO: 0 filings with usable metadata
+[697/926] REIAGRO: wrote 0 rows (3539s elapsed, 5.1s/symbol avg)
+  REL: 0 filings with usable metadata
+[698/926] REL: wrote 0 rows (3539s elapsed, 5.1s/symbol avg)
+  RELAXO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[699/926] RELAXO: wrote 20 rows (3548s elapsed, 5.1s/symbol avg)
+  RELCAPITAL: 14 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168300_646734_21042022074032_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168300_646734_21042022074032_WEB.xml
+[700/926] RELCAPITAL: wrote 14 rows (3554s elapsed, 5.1s/symbol avg)
+  RELIANCE: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[701/926] RELIANCE: wrote 22 rows (3563s elapsed, 5.1s/symbol avg)
+  RELIGARE: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[702/926] RELIGARE: wrote 22 rows (3571s elapsed, 5.1s/symbol avg)
+  RELINFRA: 24 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_169663_691463_15072022115451_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_169663_691463_15072022115451_WEB.xml
+    ... 20/24 XBRL detail docs fetched
+[703/926] RELINFRA: wrote 24 rows (3581s elapsed, 5.1s/symbol avg)
+  RELMEDIA: 0 filings with usable metadata
+[704/926] RELMEDIA: wrote 0 rows (3581s elapsed, 5.1s/symbol avg)
+  RENUKA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[705/926] RENUKA: wrote 20 rows (3588s elapsed, 5.1s/symbol avg)
+  REPCOHOME: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[706/926] REPCOHOME: wrote 20 rows (3595s elapsed, 5.1s/symbol avg)
+  RESURGERE: 0 filings with usable metadata
+[707/926] RESURGERE: wrote 0 rows (3596s elapsed, 5.1s/symbol avg)
+  RIIL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[708/926] RIIL: wrote 20 rows (3604s elapsed, 5.1s/symbol avg)
+  RITES: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[709/926] RITES: wrote 21 rows (3611s elapsed, 5.1s/symbol avg)
+  RNAM: 0 filings with usable metadata
+[710/926] RNAM: wrote 0 rows (3611s elapsed, 5.1s/symbol avg)
+  RNRL: 0 filings with usable metadata
+[711/926] RNRL: wrote 0 rows (3612s elapsed, 5.1s/symbol avg)
+  ROLTA: 17 filings with usable metadata
+[712/926] ROLTA: wrote 17 rows (3619s elapsed, 5.1s/symbol avg)
+  ROUTE: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[713/926] ROUTE: wrote 21 rows (3627s elapsed, 5.1s/symbol avg)
+  RPL: 0 filings with usable metadata
+[714/926] RPL: wrote 0 rows (3627s elapsed, 5.1s/symbol avg)
+  RPOWER: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[715/926] RPOWER: wrote 24 rows (3636s elapsed, 5.1s/symbol avg)
+  RRKABEL: 13 filings with usable metadata
+[716/926] RRKABEL: wrote 13 rows (3641s elapsed, 5.1s/symbol avg)
+  RSSOFTWARE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[717/926] RSSOFTWARE: wrote 20 rows (3650s elapsed, 5.1s/symbol avg)
+  RTNPOWER: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168237_646172_21042022050339_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168237_646172_21042022050339_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[718/926] RTNPOWER: wrote 20 rows (3657s elapsed, 5.1s/symbol avg)
+  RUCHISOYA: 0 filings with usable metadata
+[719/926] RUCHISOYA: wrote 0 rows (3657s elapsed, 5.1s/symbol avg)
+  RUSHIL: 23 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_1477280_04072025032028_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_1477280_04072025032028_WEB.xml
+    ... 20/23 XBRL detail docs fetched
+[720/926] RUSHIL: wrote 23 rows (3667s elapsed, 5.1s/symbol avg)
+  RVNL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[721/926] RVNL: wrote 21 rows (3675s elapsed, 5.1s/symbol avg)
+  SAGILITY: 8 filings with usable metadata
+[722/926] SAGILITY: wrote 8 rows (3678s elapsed, 5.1s/symbol avg)
+  SAIL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[723/926] SAIL: wrote 20 rows (3686s elapsed, 5.1s/symbol avg)
+  SAKHTISUG: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[724/926] SAKHTISUG: wrote 20 rows (3694s elapsed, 5.1s/symbol avg)
+  SAMMAANCAP: 24 filings with usable metadata
+    ... 20/24 XBRL detail docs fetched
+[725/926] SAMMAANCAP: wrote 24 rows (3705s elapsed, 5.1s/symbol avg)
+  SAMTEL: 0 filings with usable metadata
+[726/926] SAMTEL: wrote 0 rows (3705s elapsed, 5.1s/symbol avg)
+  SANOFI: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[727/926] SANOFI: wrote 20 rows (3713s elapsed, 5.1s/symbol avg)
+  SAREGAMA: 21 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168236_646140_21042022045721_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168236_646140_21042022045721_WEB.xml
+    ... 20/21 XBRL detail docs fetched
+[728/926] SAREGAMA: wrote 21 rows (3721s elapsed, 5.1s/symbol avg)
+  SASKEN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[729/926] SASKEN: wrote 20 rows (3730s elapsed, 5.1s/symbol avg)
+  SATNAMOVER: 0 filings with usable metadata
+[730/926] SATNAMOVER: wrote 0 rows (3730s elapsed, 5.1s/symbol avg)
+  SATYAMCOMP: 0 filings with usable metadata
+[731/926] SATYAMCOMP: wrote 0 rows (3730s elapsed, 5.1s/symbol avg)
+  SAWPIPES: 0 filings with usable metadata
+[732/926] SAWPIPES: wrote 0 rows (3730s elapsed, 5.1s/symbol avg)
+  SB&TINTL: 0 filings with usable metadata
+[733/926] SB&TINTL: wrote 0 rows (3730s elapsed, 5.1s/symbol avg)
+  SBICARD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[734/926] SBICARD: wrote 20 rows (3738s elapsed, 5.1s/symbol avg)
+  SBILIFE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[735/926] SBILIFE: wrote 20 rows (3746s elapsed, 5.1s/symbol avg)
+  SBIN: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[736/926] SBIN: wrote 21 rows (3754s elapsed, 5.1s/symbol avg)
+  SBISILVER: 0 filings with usable metadata
+[737/926] SBISILVER: wrote 0 rows (3754s elapsed, 5.1s/symbol avg)
+  SCANDENT: 0 filings with usable metadata
+[738/926] SCANDENT: wrote 0 rows (3754s elapsed, 5.1s/symbol avg)
+  SCHAEFFLER: 21 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_173963_763585_12012023024006_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_173963_763585_12012023024006_WEB.xml
+    ... 20/21 XBRL detail docs fetched
+[739/926] SCHAEFFLER: wrote 21 rows (3765s elapsed, 5.1s/symbol avg)
+  SCI: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[740/926] SCI: wrote 20 rows (3773s elapsed, 5.1s/symbol avg)
+  SEAMECLTD: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[741/926] SEAMECLTD: wrote 20 rows (3780s elapsed, 5.1s/symbol avg)
+  SEINV: 0 filings with usable metadata
+[742/926] SEINV: wrote 0 rows (3780s elapsed, 5.1s/symbol avg)
+  SELMCL: 0 filings with usable metadata
+[743/926] SELMCL: wrote 0 rows (3781s elapsed, 5.1s/symbol avg)
+  SEQUENT: 0 filings with usable metadata
+[744/926] SEQUENT: wrote 0 rows (3781s elapsed, 5.1s/symbol avg)
+  SESAGOA: 0 filings with usable metadata
+[745/926] SESAGOA: wrote 0 rows (3781s elapsed, 5.1s/symbol avg)
+  SETFGOLD: 0 filings with usable metadata
+[746/926] SETFGOLD: wrote 0 rows (3781s elapsed, 5.1s/symbol avg)
+  SHANTIGEAR: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_1481010_11072025045832_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_1481010_11072025045832_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[747/926] SHANTIGEAR: wrote 20 rows (3790s elapsed, 5.1s/symbol avg)
+  SHASUNPHAR: 0 filings with usable metadata
+[748/926] SHASUNPHAR: wrote 0 rows (3790s elapsed, 5.1s/symbol avg)
+  SHILPAMED: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[749/926] SHILPAMED: wrote 22 rows (3798s elapsed, 5.1s/symbol avg)
+  SHIV-VANI: 0 filings with usable metadata
+[750/926] SHIV-VANI: wrote 0 rows (3798s elapsed, 5.1s/symbol avg)
+  SHREEASHTA: 0 filings with usable metadata
+[751/926] SHREEASHTA: wrote 0 rows (3798s elapsed, 5.1s/symbol avg)
+  SHREECEM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[752/926] SHREECEM: wrote 20 rows (3806s elapsed, 5.1s/symbol avg)
+  SHRIRAMFIN: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[753/926] SHRIRAMFIN: wrote 22 rows (3814s elapsed, 5.1s/symbol avg)
+  SHYAMTELE: 0 filings with usable metadata
+[754/926] SHYAMTELE: wrote 0 rows (3814s elapsed, 5.1s/symbol avg)
+  SIEMENS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[755/926] SIEMENS: wrote 20 rows (3822s elapsed, 5.1s/symbol avg)
+  SILVER: 0 filings with usable metadata
+[756/926] SILVER: wrote 0 rows (3822s elapsed, 5.1s/symbol avg)
+  SILVERBEES: 0 filings with usable metadata
+[757/926] SILVERBEES: wrote 0 rows (3822s elapsed, 5.0s/symbol avg)
+  SILVERIETF: 0 filings with usable metadata
+[758/926] SILVERIETF: wrote 0 rows (3823s elapsed, 5.0s/symbol avg)
+  SINTEX: 6 filings with usable metadata
+[759/926] SINTEX: wrote 6 rows (3825s elapsed, 5.0s/symbol avg)
+  SIRPAPER: 0 filings with usable metadata
+[760/926] SIRPAPER: wrote 0 rows (3825s elapsed, 5.0s/symbol avg)
+  SJVN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[761/926] SJVN: wrote 20 rows (3833s elapsed, 5.0s/symbol avg)
+  SKFINDIA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[762/926] SKFINDIA: wrote 20 rows (3841s elapsed, 5.0s/symbol avg)
+  SKSMICRO: 0 filings with usable metadata
+[763/926] SKSMICRO: wrote 0 rows (3841s elapsed, 5.0s/symbol avg)
+  SKUMARSYNF: 0 filings with usable metadata
+[764/926] SKUMARSYNF: wrote 0 rows (3841s elapsed, 5.0s/symbol avg)
+  SMLISUZU: 0 filings with usable metadata
+[765/926] SMLISUZU: wrote 0 rows (3841s elapsed, 5.0s/symbol avg)
+  SNOWMAN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[766/926] SNOWMAN: wrote 20 rows (3849s elapsed, 5.0s/symbol avg)
+  SOBHA: 46 filings with usable metadata
+    ... 20/46 XBRL detail docs fetched
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_172436_737660_20102022061047_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_172436_737660_20102022061047_WEB.xml
+    ... 40/46 XBRL detail docs fetched
+[767/926] SOBHA: wrote 46 rows (3867s elapsed, 5.0s/symbol avg)
+  SOLARINDS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[768/926] SOLARINDS: wrote 20 rows (3875s elapsed, 5.0s/symbol avg)
+  SONACOMS: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[769/926] SONACOMS: wrote 21 rows (3885s elapsed, 5.1s/symbol avg)
+  SONATSOFTW: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[770/926] SONATSOFTW: wrote 22 rows (3894s elapsed, 5.1s/symbol avg)
+  SOUTHBANK: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[771/926] SOUTHBANK: wrote 21 rows (3904s elapsed, 5.1s/symbol avg)
+  SPARC: 23 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168087_644800_20042022112634_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168087_644800_20042022112634_WEB.xml
+    ... 20/23 XBRL detail docs fetched
+[772/926] SPARC: wrote 23 rows (3913s elapsed, 5.1s/symbol avg)
+  SPICEJET: 0 filings with usable metadata
+[773/926] SPICEJET: wrote 0 rows (3913s elapsed, 5.1s/symbol avg)
+  SREINFRA: 9 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_170511_698368_20072022094003_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_170511_698368_20072022094003_WEB.xml
+[774/926] SREINFRA: wrote 9 rows (3918s elapsed, 5.1s/symbol avg)
+  SREINTFIN: 0 filings with usable metadata
+[775/926] SREINTFIN: wrote 0 rows (3918s elapsed, 5.1s/symbol avg)
+  SRF: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[776/926] SRF: wrote 21 rows (3927s elapsed, 5.1s/symbol avg)
+  SRIADIKARI: 0 filings with usable metadata
+[777/926] SRIADIKARI: wrote 0 rows (3927s elapsed, 5.1s/symbol avg)
+  SRTRANSFIN: 0 filings with usable metadata
+[778/926] SRTRANSFIN: wrote 0 rows (3927s elapsed, 5.0s/symbol avg)
+  SSLT: 0 filings with usable metadata
+[779/926] SSLT: wrote 0 rows (3927s elapsed, 5.0s/symbol avg)
+  STAR: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[780/926] STAR: wrote 20 rows (3935s elapsed, 5.0s/symbol avg)
+  STCINDIA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[781/926] STCINDIA: wrote 20 rows (3944s elapsed, 5.0s/symbol avg)
+  STER: 0 filings with usable metadata
+[782/926] STER: wrote 0 rows (3944s elapsed, 5.0s/symbol avg)
+  STERLINBIO: 5 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168116_645078_21042022114741_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168116_645078_21042022114741_WEB.xml
+[783/926] STERLINBIO: wrote 5 rows (3946s elapsed, 5.0s/symbol avg)
+  STLTECH: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[784/926] STLTECH: wrote 22 rows (3955s elapsed, 5.0s/symbol avg)
+  STROPTICAL: 0 filings with usable metadata
+[785/926] STROPTICAL: wrote 0 rows (3955s elapsed, 5.0s/symbol avg)
+  STRTECH: 0 filings with usable metadata
+[786/926] STRTECH: wrote 0 rows (3955s elapsed, 5.0s/symbol avg)
+  SUBEX: 0 filings with usable metadata
+[787/926] SUBEX: wrote 0 rows (3955s elapsed, 5.0s/symbol avg)
+  SUJANATOW: 0 filings with usable metadata
+[788/926] SUJANATOW: wrote 0 rows (3955s elapsed, 5.0s/symbol avg)
+  SUNILHITEC: 0 filings with usable metadata
+[789/926] SUNILHITEC: wrote 0 rows (3955s elapsed, 5.0s/symbol avg)
+  SUNPHARMA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[790/926] SUNPHARMA: wrote 20 rows (3963s elapsed, 5.0s/symbol avg)
+  SUNTECK: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[791/926] SUNTECK: wrote 20 rows (3972s elapsed, 5.0s/symbol avg)
+  SUNTV: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[792/926] SUNTV: wrote 20 rows (3981s elapsed, 5.0s/symbol avg)
+  SUPREMEIND: 19 filings with usable metadata
+[793/926] SUPREMEIND: wrote 19 rows (3988s elapsed, 5.0s/symbol avg)
+  SURAJDIAMN: 0 filings with usable metadata
+[794/926] SURAJDIAMN: wrote 0 rows (3988s elapsed, 5.0s/symbol avg)
+  SURYAPHARM: 0 filings with usable metadata
+[795/926] SURYAPHARM: wrote 0 rows (3988s elapsed, 5.0s/symbol avg)
+  SUVEN: 25 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_167864_642810_20042022011321_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_167864_642810_20042022011321_WEB.xml
+    ... 20/25 XBRL detail docs fetched
+[796/926] SUVEN: wrote 25 rows (3999s elapsed, 5.0s/symbol avg)
+    SUZLON master fetch ERROR: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+  SUZLON: 0 filings with usable metadata
+[797/926] SUZLON: wrote 0 rows (3999s elapsed, 5.0s/symbol avg)
+  SWANENERGY: 0 filings with usable metadata
+[798/926] SWANENERGY: wrote 0 rows (4000s elapsed, 5.0s/symbol avg)
+  SWIGGY: 10 filings with usable metadata
+[799/926] SWIGGY: wrote 10 rows (4004s elapsed, 5.0s/symbol avg)
+  SWSOLAR: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[800/926] SWSOLAR: wrote 22 rows (4013s elapsed, 5.0s/symbol avg)
+  SYMPHONY: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_166072_625461_07042022044002_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_166072_625461_07042022044002_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[801/926] SYMPHONY: wrote 20 rows (4022s elapsed, 5.0s/symbol avg)
+  SYNDIBANK: 0 filings with usable metadata
+[802/926] SYNDIBANK: wrote 0 rows (4022s elapsed, 5.0s/symbol avg)
+  SYNGENE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[803/926] SYNGENE: wrote 20 rows (4031s elapsed, 5.0s/symbol avg)
+  SYRMA: 18 filings with usable metadata
+[804/926] SYRMA: wrote 18 rows (4039s elapsed, 5.0s/symbol avg)
+  TAKE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[805/926] TAKE: wrote 20 rows (4049s elapsed, 5.0s/symbol avg)
+  TANLA: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[806/926] TANLA: wrote 20 rows (4058s elapsed, 5.0s/symbol avg)
+  TARIL: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[807/926] TARIL: wrote 23 rows (4067s elapsed, 5.0s/symbol avg)
+  TASCPHARMA: 0 filings with usable metadata
+[808/926] TASCPHARMA: wrote 0 rows (4067s elapsed, 5.0s/symbol avg)
+  TATACHEM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[809/926] TATACHEM: wrote 20 rows (4076s elapsed, 5.0s/symbol avg)
+  TATACOFFEE: 9 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_167470_639619_18042022094026_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_167470_639619_18042022094026_WEB.xml
+[810/926] TATACOFFEE: wrote 9 rows (4079s elapsed, 5.0s/symbol avg)
+  TATACOMM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[811/926] TATACOMM: wrote 20 rows (4088s elapsed, 5.0s/symbol avg)
+  TATACONSUM: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[812/926] TATACONSUM: wrote 22 rows (4096s elapsed, 5.0s/symbol avg)
+  TATAELXSI: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[813/926] TATAELXSI: wrote 20 rows (4104s elapsed, 5.0s/symbol avg)
+  TATAFIN: 0 filings with usable metadata
+[814/926] TATAFIN: wrote 0 rows (4104s elapsed, 5.0s/symbol avg)
+  TATAGLOBAL: 0 filings with usable metadata
+[815/926] TATAGLOBAL: wrote 0 rows (4105s elapsed, 5.0s/symbol avg)
+  TATAGOLD: 0 filings with usable metadata
+[816/926] TATAGOLD: wrote 0 rows (4105s elapsed, 5.0s/symbol avg)
+  TATAMETALI: 10 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_168088_644802_20042022112839_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_168088_644802_20042022112839_WEB.xml
+[817/926] TATAMETALI: wrote 10 rows (4109s elapsed, 5.0s/symbol avg)
+  TATAMOTORS: 0 filings with usable metadata
+[818/926] TATAMOTORS: wrote 0 rows (4109s elapsed, 5.0s/symbol avg)
+  TATAMTRDVR: 12 filings with usable metadata
+[819/926] TATAMTRDVR: wrote 12 rows (4114s elapsed, 5.0s/symbol avg)
+  TATAPOWER: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[820/926] TATAPOWER: wrote 20 rows (4122s elapsed, 5.0s/symbol avg)
+  TATASPONGE: 0 filings with usable metadata
+[821/926] TATASPONGE: wrote 0 rows (4122s elapsed, 5.0s/symbol avg)
+  TATASTEEL: 28 filings with usable metadata
+    ... 20/28 XBRL detail docs fetched
+[822/926] TATASTEEL: wrote 28 rows (4134s elapsed, 5.0s/symbol avg)
+  TATASTLBSL: 0 filings with usable metadata
+[823/926] TATASTLBSL: wrote 0 rows (4134s elapsed, 5.0s/symbol avg)
+  TATATEA: 0 filings with usable metadata
+[824/926] TATATEA: wrote 0 rows (4134s elapsed, 5.0s/symbol avg)
+  TATATELSER: 0 filings with usable metadata
+[825/926] TATATELSER: wrote 0 rows (4134s elapsed, 5.0s/symbol avg)
+  TATSILV: 0 filings with usable metadata
+[826/926] TATSILV: wrote 0 rows (4134s elapsed, 5.0s/symbol avg)
+  TCS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[827/926] TCS: wrote 20 rows (4142s elapsed, 5.0s/symbol avg)
+  TDPOWERSYS: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[828/926] TDPOWERSYS: wrote 21 rows (4151s elapsed, 5.0s/symbol avg)
+  TECHM: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[829/926] TECHM: wrote 20 rows (4159s elapsed, 5.0s/symbol avg)
+  TEJASNET: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[830/926] TEJASNET: wrote 23 rows (4168s elapsed, 5.0s/symbol avg)
+  TELEDATAIN: 0 filings with usable metadata
+[831/926] TELEDATAIN: wrote 0 rows (4168s elapsed, 5.0s/symbol avg)
+  TEXRAIL: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[832/926] TEXRAIL: wrote 23 rows (4177s elapsed, 5.0s/symbol avg)
+  THEBYKE: 0 filings with usable metadata
+[833/926] THEBYKE: wrote 0 rows (4178s elapsed, 5.0s/symbol avg)
+  THERMAX: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[834/926] THERMAX: wrote 20 rows (4185s elapsed, 5.0s/symbol avg)
+  THYROCARE: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[835/926] THYROCARE: wrote 21 rows (4194s elapsed, 5.0s/symbol avg)
+  TIDEWATER: 0 filings with usable metadata
+[836/926] TIDEWATER: wrote 0 rows (4194s elapsed, 5.0s/symbol avg)
+  TIINDIA: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[837/926] TIINDIA: wrote 21 rows (4204s elapsed, 5.0s/symbol avg)
+  TIMKEN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[838/926] TIMKEN: wrote 20 rows (4212s elapsed, 5.0s/symbol avg)
+  TINPLATE: 10 filings with usable metadata
+[839/926] TINPLATE: wrote 10 rows (4217s elapsed, 5.0s/symbol avg)
+  TIRUMALCHM: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[840/926] TIRUMALCHM: wrote 22 rows (4225s elapsed, 5.0s/symbol avg)
+  TISCO: 0 filings with usable metadata
+[841/926] TISCO: wrote 0 rows (4226s elapsed, 5.0s/symbol avg)
+  TITAGARH: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[842/926] TITAGARH: wrote 22 rows (4235s elapsed, 5.0s/symbol avg)
+  TITAN: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[843/926] TITAN: wrote 20 rows (4243s elapsed, 5.0s/symbol avg)
+  TNPL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[844/926] TNPL: wrote 20 rows (4251s elapsed, 5.0s/symbol avg)
+  TODAYS: 0 filings with usable metadata
+[845/926] TODAYS: wrote 0 rows (4251s elapsed, 5.0s/symbol avg)
+  TORNTPHARM: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[846/926] TORNTPHARM: wrote 22 rows (4260s elapsed, 5.0s/symbol avg)
+  TORNTPOWER: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[847/926] TORNTPOWER: wrote 21 rows (4268s elapsed, 5.0s/symbol avg)
+  TRENT: 19 filings with usable metadata
+[848/926] TRENT: wrote 19 rows (4276s elapsed, 5.0s/symbol avg)
+  TRIDENT: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[849/926] TRIDENT: wrote 20 rows (4283s elapsed, 5.0s/symbol avg)
+  TRITURBINE: 19 filings with usable metadata
+[850/926] TRITURBINE: wrote 19 rows (4291s elapsed, 5.0s/symbol avg)
+  TRIVENI: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[851/926] TRIVENI: wrote 21 rows (4299s elapsed, 5.1s/symbol avg)
+  TTKPRESTIG: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[852/926] TTKPRESTIG: wrote 21 rows (4307s elapsed, 5.1s/symbol avg)
+  TTML: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[853/926] TTML: wrote 20 rows (4316s elapsed, 5.1s/symbol avg)
+  TULIP: 0 filings with usable metadata
+[854/926] TULIP: wrote 0 rows (4316s elapsed, 5.1s/symbol avg)
+  TV-18: 0 filings with usable metadata
+[855/926] TV-18: wrote 0 rows (4316s elapsed, 5.0s/symbol avg)
+  TV18: 0 filings with usable metadata
+[856/926] TV18: wrote 0 rows (4317s elapsed, 5.0s/symbol avg)
+  TV18BRDCST: 12 filings with usable metadata
+[857/926] TV18BRDCST: wrote 12 rows (4322s elapsed, 5.0s/symbol avg)
+  TVSMOTOR: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[858/926] TVSMOTOR: wrote 20 rows (4330s elapsed, 5.0s/symbol avg)
+  TVTODAY: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[859/926] TVTODAY: wrote 20 rows (4339s elapsed, 5.1s/symbol avg)
+  TWL: 0 filings with usable metadata
+[860/926] TWL: wrote 0 rows (4339s elapsed, 5.0s/symbol avg)
+  UBHOLDINGS: 0 filings with usable metadata
+[861/926] UBHOLDINGS: wrote 0 rows (4339s elapsed, 5.0s/symbol avg)
+  UBL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[862/926] UBL: wrote 20 rows (4347s elapsed, 5.0s/symbol avg)
+  UCALFUEL: 0 filings with usable metadata
+[863/926] UCALFUEL: wrote 0 rows (4347s elapsed, 5.0s/symbol avg)
+  UCOBANK: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[864/926] UCOBANK: wrote 21 rows (4357s elapsed, 5.0s/symbol avg)
+  UFLEX: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[865/926] UFLEX: wrote 20 rows (4365s elapsed, 5.0s/symbol avg)
+  UJJIVAN: 11 filings with usable metadata
+[866/926] UJJIVAN: wrote 11 rows (4370s elapsed, 5.0s/symbol avg)
+  UJJIVANSFB: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[867/926] UJJIVANSFB: wrote 22 rows (4379s elapsed, 5.1s/symbol avg)
+  ULTRACEMCO: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[868/926] ULTRACEMCO: wrote 20 rows (4387s elapsed, 5.1s/symbol avg)
+  UNICHEMLAB: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[869/926] UNICHEMLAB: wrote 20 rows (4395s elapsed, 5.1s/symbol avg)
+  UNIONBANK: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[870/926] UNIONBANK: wrote 23 rows (4404s elapsed, 5.1s/symbol avg)
+  UNIONCARBI: 0 filings with usable metadata
+[871/926] UNIONCARBI: wrote 0 rows (4404s elapsed, 5.1s/symbol avg)
+  UNIPHOS: 0 filings with usable metadata
+[872/926] UNIPHOS: wrote 0 rows (4404s elapsed, 5.1s/symbol avg)
+  UNITDSPR: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[873/926] UNITDSPR: wrote 20 rows (4412s elapsed, 5.1s/symbol avg)
+  UNITECH: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_174517_769385_17012023034008_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_174517_769385_17012023034008_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[874/926] UNITECH: wrote 20 rows (4422s elapsed, 5.1s/symbol avg)
+  UNOMINDA: 27 filings with usable metadata
+    ... 20/27 XBRL detail docs fetched
+[875/926] UNOMINDA: wrote 27 rows (4432s elapsed, 5.1s/symbol avg)
+  UPERGANGES: 0 filings with usable metadata
+[876/926] UPERGANGES: wrote 0 rows (4432s elapsed, 5.1s/symbol avg)
+  UPL: 41 filings with usable metadata
+    ... 20/41 XBRL detail docs fetched
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_165109_592958_19012022121004_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_165109_592958_19012022121004_WEB.xml
+    ... 40/41 XBRL detail docs fetched
+[877/926] UPL: wrote 41 rows (4449s elapsed, 5.1s/symbol avg)
+  USHAMART: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[878/926] USHAMART: wrote 20 rows (4458s elapsed, 5.1s/symbol avg)
+  UTIBANK: 0 filings with usable metadata
+[879/926] UTIBANK: wrote 0 rows (4459s elapsed, 5.1s/symbol avg)
+  UTISUNDER: 0 filings with usable metadata
+[880/926] UTISUNDER: wrote 0 rows (4459s elapsed, 5.1s/symbol avg)
+  UTTAMSTL: 5 filings with usable metadata
+[881/926] UTTAMSTL: wrote 5 rows (4461s elapsed, 5.1s/symbol avg)
+  UTVSOF: 0 filings with usable metadata
+[882/926] UTVSOF: wrote 0 rows (4461s elapsed, 5.1s/symbol avg)
+  VAKRANGEE: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[883/926] VAKRANGEE: wrote 20 rows (4470s elapsed, 5.1s/symbol avg)
+  VARDHACRLC: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[884/926] VARDHACRLC: wrote 20 rows (4478s elapsed, 5.1s/symbol avg)
+  VARUN: 0 filings with usable metadata
+[885/926] VARUN: wrote 0 rows (4478s elapsed, 5.1s/symbol avg)
+  VARUNSHIP: 0 filings with usable metadata
+[886/926] VARUNSHIP: wrote 0 rows (4478s elapsed, 5.1s/symbol avg)
+  VBL: 27 filings with usable metadata
+    ... 20/27 XBRL detail docs fetched
+[887/926] VBL: wrote 27 rows (4491s elapsed, 5.1s/symbol avg)
+  VDOCONINTL: 0 filings with usable metadata
+[888/926] VDOCONINTL: wrote 0 rows (4491s elapsed, 5.1s/symbol avg)
+  VEDL: 21 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_161933_533462_14102021061101_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_161933_533462_14102021061101_WEB.xml
+    ... 20/21 XBRL detail docs fetched
+[889/926] VEDL: wrote 21 rows (4499s elapsed, 5.1s/symbol avg)
+  VENKEYS: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[890/926] VENKEYS: wrote 20 rows (4508s elapsed, 5.1s/symbol avg)
+  VGUARD: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_167466_639563_18042022084018_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_167466_639563_18042022084018_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[891/926] VGUARD: wrote 20 rows (4516s elapsed, 5.1s/symbol avg)
+  VIDEOIND: 8 filings with usable metadata
+[892/926] VIDEOIND: wrote 8 rows (4520s elapsed, 5.1s/symbol avg)
+  VIJAYABANK: 0 filings with usable metadata
+[893/926] VIJAYABANK: wrote 0 rows (4520s elapsed, 5.1s/symbol avg)
+  VIMTALABS: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[894/926] VIMTALABS: wrote 21 rows (4528s elapsed, 5.1s/symbol avg)
+  VIPIND: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[895/926] VIPIND: wrote 20 rows (4536s elapsed, 5.1s/symbol avg)
+  VISAKAIND: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[896/926] VISAKAIND: wrote 21 rows (4545s elapsed, 5.1s/symbol avg)
+  VISHALEXPO: 0 filings with usable metadata
+[897/926] VISHALEXPO: wrote 0 rows (4545s elapsed, 5.1s/symbol avg)
+  VISUALSOFT: 0 filings with usable metadata
+[898/926] VISUALSOFT: wrote 0 rows (4545s elapsed, 5.1s/symbol avg)
+  VMM: 8 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_1477351_04072025043711_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_1477351_04072025043711_WEB.xml
+[899/926] VMM: wrote 8 rows (4548s elapsed, 5.1s/symbol avg)
+  VOLTAMP: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[900/926] VOLTAMP: wrote 20 rows (4556s elapsed, 5.1s/symbol avg)
+  VOLTAS: 20 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_201231_13920_23072025084147_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_201231_13920_23072025084147_WEB.xml
+    ... 20/20 XBRL detail docs fetched
+[901/926] VOLTAS: wrote 20 rows (4564s elapsed, 5.1s/symbol avg)
+  VRLLOG: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[902/926] VRLLOG: wrote 20 rows (4578s elapsed, 5.1s/symbol avg)
+  VSNL: 0 filings with usable metadata
+[903/926] VSNL: wrote 0 rows (4578s elapsed, 5.1s/symbol avg)
+  VYSYABANK: 0 filings with usable metadata
+[904/926] VYSYABANK: wrote 0 rows (4579s elapsed, 5.1s/symbol avg)
+  WAAREEENER: 8 filings with usable metadata
+[905/926] WAAREEENER: wrote 8 rows (4582s elapsed, 5.1s/symbol avg)
+  WALCHANNAG: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[906/926] WALCHANNAG: wrote 23 rows (4591s elapsed, 5.1s/symbol avg)
+  WELCORP: 19 filings with usable metadata
+[907/926] WELCORP: wrote 19 rows (4601s elapsed, 5.1s/symbol avg)
+  WELGUJ: 0 filings with usable metadata
+[908/926] WELGUJ: wrote 0 rows (4601s elapsed, 5.1s/symbol avg)
+  WELSPUNGUJ: 0 filings with usable metadata
+[909/926] WELSPUNGUJ: wrote 0 rows (4601s elapsed, 5.1s/symbol avg)
+  WELSPUNIND: 0 filings with usable metadata
+[910/926] WELSPUNIND: wrote 0 rows (4601s elapsed, 5.1s/symbol avg)
+  WHIRLPOOL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[911/926] WHIRLPOOL: wrote 20 rows (4609s elapsed, 5.1s/symbol avg)
+  WIPRO: 26 filings with usable metadata
+    ... 20/26 XBRL detail docs fetched
+[912/926] WIPRO: wrote 26 rows (4620s elapsed, 5.1s/symbol avg)
+  WOCKPHARMA: 23 filings with usable metadata
+      xbrl fetch failed (https://nsearchives.nseindia.com/corporate/xbrl/SHP_172872_739849_21102022041011_WEB.xml): 404 Client Error: Not Found for url: https://nsearchives.nseindia.com/corporate/xbrl/SHP_172872_739849_21102022041011_WEB.xml
+    ... 20/23 XBRL detail docs fetched
+[913/926] WOCKPHARMA: wrote 23 rows (4631s elapsed, 5.1s/symbol avg)
+  WWIL: 0 filings with usable metadata
+[914/926] WWIL: wrote 0 rows (4631s elapsed, 5.1s/symbol avg)
+  YESBANK: 23 filings with usable metadata
+    ... 20/23 XBRL detail docs fetched
+[915/926] YESBANK: wrote 23 rows (4640s elapsed, 5.1s/symbol avg)
+  ZANDUPHARM: 0 filings with usable metadata
+[916/926] ZANDUPHARM: wrote 0 rows (4640s elapsed, 5.1s/symbol avg)
+  ZEEL: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[917/926] ZEEL: wrote 20 rows (4648s elapsed, 5.1s/symbol avg)
+  ZEENEWS: 0 filings with usable metadata
+[918/926] ZEENEWS: wrote 0 rows (4648s elapsed, 5.1s/symbol avg)
+  ZEETELE: 0 filings with usable metadata
+[919/926] ZEETELE: wrote 0 rows (4648s elapsed, 5.1s/symbol avg)
+  ZENITHCOMP: 0 filings with usable metadata
+[920/926] ZENITHCOMP: wrote 0 rows (4649s elapsed, 5.1s/symbol avg)
+  ZENSARTECH: 20 filings with usable metadata
+    ... 20/20 XBRL detail docs fetched
+[921/926] ZENSARTECH: wrote 20 rows (4658s elapsed, 5.1s/symbol avg)
+  ZENTEC: 22 filings with usable metadata
+    ... 20/22 XBRL detail docs fetched
+[922/926] ZENTEC: wrote 22 rows (4667s elapsed, 5.1s/symbol avg)
+  ZOMATO: 0 filings with usable metadata
+[923/926] ZOMATO: wrote 0 rows (4667s elapsed, 5.1s/symbol avg)
+  ZUARIAGRO: 0 filings with usable metadata
+[924/926] ZUARIAGRO: wrote 0 rows (4667s elapsed, 5.1s/symbol avg)
+  ZYDUSLIFE: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[925/926] ZYDUSLIFE: wrote 21 rows (4676s elapsed, 5.1s/symbol avg)
+  ZYDUSWELL: 21 filings with usable metadata
+    ... 20/21 XBRL detail docs fetched
+[926/926] ZYDUSWELL: wrote 21 rows (4684s elapsed, 5.1s/symbol avg)
+
+Done. 926 symbols fetched to C:\Users\parik\OneDrive\Desktop\Data test\data\shareholding in 4684s

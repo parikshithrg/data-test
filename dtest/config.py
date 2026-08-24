@@ -36,6 +36,7 @@ class Paths:
     runs: Path
     macro_dir: Path
     fundamentals_dir: Path
+    shareholding_dir: Path
 
     def check_readable(self) -> None:
         """Fail loudly if source data is missing, before any run starts."""

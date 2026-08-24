@@ -1,0 +1,6 @@
+symbol,filing_date,period_end,revised,promoter_pct,public_pct,mf_pct,insurance_pct,fii_pct,dii_pct,promoter_pledge_pct
+STERLINBIO,2022-01-07 02:10:01,2021-09-30,False,24.64,75.36,0.0,0.0,12.66,21.93,62.29
+STERLINBIO,2022-01-21 14:40:03,2021-12-31,False,24.64,75.36,0.0,0.0,12.66,21.93,62.29
+STERLINBIO,2022-04-21 12:10:02,2022-03-31,False,24.64,75.36,,,,,
+STERLINBIO,2022-07-21 15:10:17,2022-06-30,False,24.64,75.36,0.0,0.0,12.66,21.93,62.29
+STERLINBIO,2022-11-04 18:10:02,2022-09-30,False,24.64,75.36,0.0,0.0,21.93,0.4,62.29
