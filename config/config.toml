@@ -72,6 +72,15 @@ insider_trading_dir = "data/insider_trading"
 # here, once, as a real acquisition step - same category as
 # `fetch_insider_trading.py`.
 index_reconstitution_dir = "data/index_reconstitution"
+# Quarterly scheme-level ETF/Index-Fund average AUM this project sourced
+# itself from AMFI's own `average-aum-schemewise` endpoint (confirmed
+# live 2026-08-24, ~20 years of real history - see
+# `dtest/data/etf_aum.py`'s own module docstring, including the real
+# caveat that its point-in-time `filing_date` is an ASSUMED disclosure
+# lag, not a confirmed broadcast timestamp). NOT read-only like the three
+# source paths above: `scripts/fetch_etf_aum.py` writes here, once, as a
+# real acquisition step - same category as `fetch_index_reconstitution.py`.
+etf_aum_dir = "data/etf_aum"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under
