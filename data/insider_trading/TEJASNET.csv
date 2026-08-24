@@ -1,0 +1,930 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+TEJASNET,2017-07-06 20:00:00,2017-07-04,2017-06-27,2017-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15020.0,0.0,0.0,0.0,0.0,24120.0,0.026,9100.0,0.01
+TEJASNET,2017-07-06 20:00:00,2017-07-06,2017-07-06,2017-07-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,164505.0,0.183,144505.0,0.16
+TEJASNET,2017-07-06 20:00:00,2017-07-04,2017-06-27,2017-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,10250.0,0.011,2250.0,0.002
+TEJASNET,2017-07-07 19:30:00,2017-07-07,2017-07-05,2017-07-05,Other,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,248700.0,0.28,241700.0,0.27
+TEJASNET,2017-07-07 19:30:00,2017-07-05,2017-06-27,2017-06-27,Other,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,103668.0,0.11,93668.0,0.104
+TEJASNET,2017-07-07 19:30:00,2017-07-07,2017-07-06,2017-07-06,Other,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,241700.0,0.27,234700.0,0.26
+TEJASNET,2017-07-07 19:30:00,2017-07-07,2017-07-07,2017-07-07,Other,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,234700.0,0.26,228700.0,0.26
+TEJASNET,2017-07-11 19:24:00,2017-07-11,2017-06-30,2017-07-07,Other,Market Sale,Sell,Equity Shares,4360.0,0.0,0.0,0.0,0.0,7360.0,0.0082,3000.0,0.0034
+TEJASNET,2017-07-11 19:24:00,2017-07-10,2017-07-06,2017-07-06,Other,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,274000.0,0.306,271000.0,0.303
+TEJASNET,2017-07-11 19:24:00,2017-07-10,2017-07-07,2017-07-07,Other,Market Sale,Sell,Equity Shares,27200.0,0.0,0.0,0.0,0.0,271000.0,0.303,243800.0,0.272
+TEJASNET,2017-07-11 19:24:00,2017-07-10,2017-07-10,2017-07-10,Other,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,243800.0,0.272,242200.0,0.27
+TEJASNET,2017-07-11 19:24:00,2017-07-10,2017-07-04,2017-07-04,Other,Market Sale,Sell,Equity Shares,3200.0,0.0,0.0,0.0,0.0,280200.0,0.313,277000.0,0.309
+TEJASNET,2017-07-11 19:24:00,2017-07-10,2017-07-05,2017-07-05,Other,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,277000.0,0.309,274000.0,0.306
+TEJASNET,2017-07-11 19:24:00,2017-07-10,2017-06-30,2017-06-30,Other,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,285400.0,0.319,282900.0,0.316
+TEJASNET,2017-07-11 19:24:00,2017-07-10,2017-07-03,2017-07-03,Other,Market Sale,Sell,Equity Shares,2700.0,0.0,0.0,0.0,0.0,282900.0,0.316,280200.0,0.313
+TEJASNET,2017-07-11 19:24:00,2017-07-10,2017-06-30,2017-07-06,Other,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,80521.0,0.089,76521.0,0.085
+TEJASNET,2017-07-13 19:38:00,2017-07-11,2017-07-10,2017-07-10,Other,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,141260.0,0.157,140560.0,0.156
+TEJASNET,2017-07-13 19:38:00,2017-07-11,2017-07-07,2017-07-07,Other,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,145260.0,0.162,141260.0,0.157
+TEJASNET,2017-07-13 19:38:00,2017-07-12,2017-07-06,2017-07-06,Other,Market Sale,Sell,Equity Shares,3993.0,0.0,0.0,0.0,0.0,25950.0,0.028,21957.0,0.024
+TEJASNET,2017-07-13 19:38:00,2017-07-11,2017-07-06,2017-07-06,Other,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,146360.0,0.163,145260.0,0.162
+TEJASNET,2017-08-16 19:11:00,2017-08-09,2017-08-08,2017-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,68700.0,0.0767,68000.0,0.0759
+TEJASNET,2017-08-16 19:11:00,2017-08-09,2017-08-08,2017-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,68000.0,0.0759,66500.0,0.0743
+TEJASNET,2017-08-16 19:11:00,2017-08-11,2017-08-09,2017-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,66500.0,0.0743,66000.0,0.0737
+TEJASNET,2017-08-16 19:11:00,2017-07-13,2017-07-12,2017-07-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,69600.0,0.0777,69000.0,0.0771
+TEJASNET,2017-08-16 19:11:00,2017-08-09,2017-08-07,2017-08-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,69000.0,0.0771,68700.0,0.0767
+TEJASNET,2017-08-22 19:04:00,2017-08-19,2017-08-17,2017-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,21700.0,0.024,17700.0,0.019
+TEJASNET,2017-08-22 19:04:00,2017-08-21,2017-08-17,2017-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,133374.0,0.148,132174.0,0.147
+TEJASNET,2017-08-22 19:04:00,2017-08-15,2017-08-10,2017-08-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,134974.0,0.15,133374.0,0.148
+TEJASNET,2017-08-22 19:04:00,2017-07-15,2017-07-11,2017-07-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,135574.0,0.151,134974.0,0.15
+TEJASNET,2017-08-22 19:04:00,2017-07-10,2017-07-06,2017-07-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,137074.0,0.153,135574.0,0.151
+TEJASNET,2017-08-22 19:04:00,2017-08-17,2017-08-16,2017-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,73667.0,0.0823,72667.0,0.0811
+TEJASNET,2017-08-22 19:04:00,2017-08-16,2017-08-14,2017-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2604.0,0.0,0.0,0.0,0.0,76271.0,0.0851,73667.0,0.0823
+TEJASNET,2017-08-22 19:04:00,2017-07-13,2017-07-11,2017-07-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,76521.0,0.0854,76271.0,0.0851
+TEJASNET,2017-08-22 19:04:00,2017-08-18,2017-08-09,2017-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3905.0,0.0,0.0,0.0,0.0,65646.0,0.073,61741.0,0.068
+TEJASNET,2017-09-05 22:38:00,2017-09-04,2017-09-01,2017-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,128974.0,0.14,128474.0,0.14
+TEJASNET,2017-09-05 22:38:00,2017-08-31,2017-08-30,2017-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,129974.0,0.15,128974.0,0.14
+TEJASNET,2017-09-05 22:38:00,2017-08-24,2017-08-23,2017-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,131774.0,0.15,131174.0,0.15
+TEJASNET,2017-09-05 22:38:00,2017-08-21,2017-08-17,2017-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,132174.0,0.15,131774.0,0.15
+TEJASNET,2017-09-05 22:38:00,2017-09-01,2017-08-30,2017-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,72667.0,0.0811,67667.0,0.075
+TEJASNET,2017-09-05 22:38:00,2017-08-31,2017-08-30,2017-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,201287.0,0.224,199287.0,0.222
+TEJASNET,2017-09-05 22:38:00,2017-08-30,2017-08-29,2017-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1536.0,0.0,0.0,0.0,0.0,202823.0,0.226,201287.0,0.224
+TEJASNET,2017-09-05 22:38:00,2017-08-29,2017-08-28,2017-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,464.0,0.0,0.0,0.0,0.0,203287.0,0.227,202823.0,0.226
+TEJASNET,2017-09-05 22:38:00,2017-08-23,2017-08-22,2017-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,204287.0,0.228,203287.0,0.227
+TEJASNET,2017-09-05 22:38:00,2017-08-31,2017-08-23,2017-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,72100.0,0.0805,67100.0,0.0749
+TEJASNET,2017-09-05 22:38:00,2017-08-28,2017-08-24,2017-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,131174.0,0.15,129974.0,0.15
+TEJASNET,2017-09-05 22:38:00,2017-09-01,2017-08-31,2017-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2600.0,0.0,0.0,0.0,0.0,66600.0,0.074,64000.0,0.071
+TEJASNET,2017-09-05 22:38:00,2017-08-31,2017-08-24,2017-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,67100.0,0.074,66600.0,0.074
+TEJASNET,2017-09-06 18:04:00,2017-08-28,2017-08-24,2017-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,17700.0,0.0197,15700.0,0.0175
+TEJASNET,2017-09-06 18:04:00,2017-09-02,2017-08-22,2017-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4747.0,0.0,0.0,0.0,0.0,55389.0,0.062,50642.0,0.057
+TEJASNET,2017-09-06 18:04:00,2017-09-01,2017-08-28,2017-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,15700.0,0.0175,13700.0,0.0152
+TEJASNET,2017-09-08 15:46:00,2017-09-05,2017-08-30,2017-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,42500.0,0.0474,42250.0,0.0471
+TEJASNET,2017-09-08 15:46:00,2017-09-05,2017-08-29,2017-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,42750.0,0.0477,42500.0,0.0474
+TEJASNET,2017-09-08 15:46:00,2017-09-05,2017-08-31,2017-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,41750.0,0.0466,41000.0,0.0457
+TEJASNET,2017-09-08 15:46:00,2017-09-05,2017-08-31,2017-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,42250.0,0.0471,41750.0,0.0466
+TEJASNET,2017-09-08 15:46:00,2017-08-28,2017-08-25,2017-08-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,43000.0,0.048,42750.0,0.0477
+TEJASNET,2017-09-08 15:46:00,2017-07-08,2017-07-07,2017-07-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,43500.0,0.0485,43000.0,0.048
+TEJASNET,2017-09-08 15:46:00,2017-07-08,2017-07-06,2017-07-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,44000.0,0.0491,43500.0,0.0485
+TEJASNET,2017-09-08 15:46:00,2017-07-08,2017-07-06,2017-07-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,44500.0,0.0496,44000.0,0.0491
+TEJASNET,2017-09-08 15:46:00,2017-09-05,2017-08-30,2017-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1150.0,0.0,0.0,0.0,0.0,13509.0,0.0151,12359.0,0.0138
+TEJASNET,2017-09-08 15:46:00,2017-08-13,2017-08-11,2017-08-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,14009.0,0.0156,13509.0,0.0151
+TEJASNET,2017-09-08 15:46:00,2017-07-09,2017-07-07,2017-07-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,16509.0,0.0184,14009.0,0.0156
+TEJASNET,2017-09-15 17:47:00,2017-08-21,2017-08-16,2017-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,139110.0,0.1553,138860.0,0.1551
+TEJASNET,2017-09-15 17:47:00,2017-09-12,2017-08-29,2017-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,138360.0,0.1545,138060.0,0.1541
+TEJASNET,2017-09-15 17:47:00,2017-09-12,2017-08-30,2017-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,138060.0,0.1541,137560.0,0.1536
+TEJASNET,2017-09-15 17:47:00,2017-09-12,2017-09-01,2017-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,550.0,0.0,0.0,0.0,0.0,137560.0,0.1536,137010.0,0.153
+TEJASNET,2017-09-15 17:47:00,2017-09-06,2017-09-05,2017-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,199287.0,0.222,197287.0,0.22
+TEJASNET,2017-09-15 17:47:00,2017-08-21,2017-08-16,2017-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,139110.0,0.1553,138860.0,0.1551
+TEJASNET,2017-09-15 17:47:00,2017-08-21,2017-08-17,2017-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,138860.0,0.1551,138360.0,0.1545
+TEJASNET,2017-09-15 17:47:00,2017-09-09,2017-09-07,2017-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,690.0,0.0,0.0,0.0,0.0,228700.0,0.255,228010.0,0.254
+TEJASNET,2017-09-15 17:47:00,2017-09-09,2017-09-08,2017-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,228010.0,0.254,226510.0,0.252
+TEJASNET,2017-09-15 17:47:00,2017-09-12,2017-09-11,2017-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1707.0,0.0,0.0,0.0,0.0,226510.0,0.252,224803.0,0.251
+TEJASNET,2017-09-15 17:47:00,2017-09-13,2017-09-12,2017-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1793.0,0.0,0.0,0.0,0.0,224803.0,0.251,223010.0,0.249
+TEJASNET,2017-09-15 17:47:00,2017-08-16,2017-08-11,2017-08-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,140560.0,0.1569,139360.0,0.1556
+TEJASNET,2017-09-15 17:47:00,2017-08-16,2017-08-14,2017-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,139360.0,0.1556,139110.0,0.1553
+TEJASNET,2017-09-15 17:47:00,2017-09-12,2017-09-08,2017-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,197217.0,0.22,196217.0,0.219
+TEJASNET,2017-09-15 17:47:00,2017-09-12,2017-09-11,2017-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,196217.0,0.219,195217.0,0.218
+TEJASNET,2017-09-18 18:29:00,2017-09-14,2017-09-13,2017-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,195217.0,0.2177,194217.0,0.2166
+TEJASNET,2017-09-18 18:29:00,2017-09-15,2017-09-14,2017-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,194217.0,0.2166,193217.0,0.2155
+TEJASNET,2017-09-18 18:29:00,2017-09-13,2017-09-12,2017-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1602.0,0.0,0.0,0.0,0.0,125674.0,0.14,124072.0,0.139
+TEJASNET,2017-09-18 18:29:00,2017-09-11,2017-09-08,2017-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,77.0,0.0,0.0,0.0,0.0,128474.0,0.1435,128397.0,0.1434
+TEJASNET,2017-09-18 18:29:00,2017-09-12,2017-09-11,2017-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2723.0,0.0,0.0,0.0,0.0,128397.0,0.1434,125674.0,0.14
+TEJASNET,2017-09-18 18:29:00,2017-09-16,2017-09-15,2017-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,193217.0,0.2155,191217.0,0.2133
+TEJASNET,2017-10-10 18:08:00,2017-10-05,2017-09-27,2017-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,59302.0,0.0,0.0,0.0,0.0,82354.0,0.09,23052.0,0.03
+TEJASNET,2017-10-31 19:57:00,2017-10-31,2017-10-27,2017-10-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,53250.0,0.06,47250.0,0.05
+TEJASNET,2017-11-02 21:31:00,2017-11-02,2017-10-31,2017-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3659.0,0.0,0.0,0.0,0.0,21700.0,0.0,18041.0,0.02
+TEJASNET,2017-11-02 21:31:00,2017-11-02,2017-10-30,2017-10-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,4333.0,0.0,0.0,0.0,0.0,18534.0,0.02,14201.0,0.02
+TEJASNET,2017-11-02 21:31:00,2017-11-02,2017-11-01,2017-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3675.0,0.0,0.0,0.0,0.0,82387.0,0.09,78712.0,0.09
+TEJASNET,2017-11-02 21:31:00,2017-11-02,2017-11-01,2017-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2171.0,0.0,0.0,0.0,0.0,2530.0,0.0,359.0,0.0
+TEJASNET,2017-11-02 21:31:00,2017-11-02,2017-11-01,2017-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4341.0,0.0,0.0,0.0,0.0,18401.0,0.02,14060.0,0.02
+TEJASNET,2017-11-02 21:31:00,2017-11-02,2017-10-31,2017-10-31,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5660.0,0.0,0.0,0.0,0.0,14201.0,0.02,8541.0,0.01
+TEJASNET,2017-11-02 21:31:00,2017-11-02,2017-10-31,2017-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,829.0,0.0,0.0,0.0,0.0,3359.0,0.0,2530.0,0.0
+TEJASNET,2017-11-02 21:31:00,2017-11-02,2017-11-01,2017-11-01,Key Managerial Personnel,Market Sale,Sell,Equity Shares,8400.0,0.0,0.0,0.0,0.0,8541.0,0.01,141.0,0.0
+TEJASNET,2017-11-02 21:31:00,2017-11-02,2017-10-25,2017-10-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,84387.0,0.09,83887.0,0.09
+TEJASNET,2017-11-02 21:31:00,2017-11-02,2017-10-27,2017-10-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,83887.0,0.09,82387.0,0.09
+TEJASNET,2017-11-03 18:13:00,2017-11-03,2017-11-02,2017-11-02,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.01,,0.0
+TEJASNET,2017-11-03 18:13:00,2017-11-03,2017-11-01,2017-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,150000.0,0.17,147000.0,0.16
+TEJASNET,2017-11-03 18:13:00,2017-11-03,2017-11-02,2017-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,13700.0,0.15,10700.0,0.01
+TEJASNET,2017-11-03 18:13:00,2017-11-01,2017-10-31,2017-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1999.0,0.0,0.0,0.0,0.0,189217.0,0.21,187218.0,0.21
+TEJASNET,2017-11-03 18:13:00,2017-11-03,2017-11-01,2017-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,187218.0,0.21,182218.0,0.2
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-10-31,2017-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,850.0,0.0,0.0,0.0,0.0,143910.0,0.16,143060.0,0.16
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-11-01,2017-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3350.0,0.0,0.0,0.0,0.0,143060.0,0.16,139710.0,0.16
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-11-02,2017-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,850.0,0.0,0.0,0.0,0.0,139710.0,0.16,138860.0,0.15
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-11-03,2017-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,138860.0,0.15,138160.0,0.15
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-11-01,2017-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,152355.0,0.17,149355.0,0.17
+TEJASNET,2017-11-07 19:32:00,2017-11-07,2017-11-06,2017-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,78712.0,0.09,78212.0,0.09
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-10-29,2017-10-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,950.0,0.0,0.0,0.0,0.0,144860.0,0.16,143910.0,0.16
+TEJASNET,2017-11-07 19:32:00,2017-11-07,2017-11-06,2017-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,180218.0,0.2,178218.0,0.2
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-11-02,2017-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,182218.0,0.2,180218.0,0.2
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-11-03,2017-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,124072.0,0.14,123272.0,0.14
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-11-02,2017-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,860.0,0.0,0.0,0.0,0.0,124932.0,0.14,124072.0,0.14
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-11-01,2017-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,125332.0,0.14,124932.0,0.14
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-10-31,2017-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,126232.0,0.14,125332.0,0.14
+TEJASNET,2017-11-07 19:32:00,2017-11-06,2017-10-30,2017-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,726.0,0.0,0.0,0.0,0.0,126958.0,0.14,126232.0,0.14
+TEJASNET,2017-11-07 19:32:00,2017-11-05,2017-10-30,2017-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,68000.0,0.08,66000.0,0.07
+TEJASNET,2017-11-07 19:32:00,2017-11-05,2017-11-02,2017-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,66000.0,0.07,64000.0,0.07
+TEJASNET,2017-11-09 17:06:00,2017-11-08,2017-11-01,2017-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,57037.0,0.06,55037.0,0.06
+TEJASNET,2017-11-09 17:06:00,2017-11-08,2017-11-02,2017-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,55037.0,0.06,53037.0,0.06
+TEJASNET,2017-11-09 17:06:00,2017-11-09,2017-11-08,2017-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,178218.0,0.2,177218.0,0.2
+TEJASNET,2017-11-09 17:06:00,2017-11-09,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,12625.0,0.0,0.0,0.0,0.0,101778.0,0.11,114403.0,0.13
+TEJASNET,2017-11-09 17:06:00,2017-11-09,2017-11-08,2017-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,122672.0,0.14,122072.0,0.14
+TEJASNET,2017-11-09 17:06:00,2017-11-08,2017-11-02,2017-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,33620.0,0.04,30620.0,0.03
+TEJASNET,2017-11-09 17:06:00,2017-11-08,2017-11-03,2017-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,53037.0,0.06,52037.0,0.58
+TEJASNET,2017-11-10 18:27:00,2017-11-10,2017-11-01,2017-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,71457.0,0.08,67457.0,0.08
+TEJASNET,2017-11-10 18:27:00,2017-11-09,2017-11-08,2017-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,138160.0,0.15,137910.0,0.15
+TEJASNET,2017-11-13 19:22:00,2017-11-13,2017-11-10,2017-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2350.0,0.0,0.0,0.0,0.0,137710.0,0.15,135360.0,0.15
+TEJASNET,2017-11-13 19:22:00,2017-11-12,2017-11-10,2017-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,59033.0,0.07,56533.0,0.06
+TEJASNET,2017-11-13 19:22:00,2017-11-12,2017-11-10,2017-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,550.0,0.0,0.0,0.0,0.0,122072.0,0.14,121522.0,0.14
+TEJASNET,2017-11-13 19:22:00,2017-11-11,2017-11-09,2017-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,137910.0,0.15,137710.0,0.15
+TEJASNET,2017-11-14 19:43:00,2017-11-14,2017-11-02,2017-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2800.0,0.0,0.0,0.0,0.0,2800.0,0.0,,0.0
+TEJASNET,2017-11-14 19:43:00,2017-11-14,2017-11-13,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,142710.0,0.16,141710.0,0.16
+TEJASNET,2017-11-14 19:43:00,2017-11-14,2017-11-01,2017-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2900.0,0.0,0.0,0.0,0.0,19131.0,0.02,16231.0,0.02
+TEJASNET,2017-11-15 20:02:00,2017-11-15,2017-11-13,2017-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,64596.0,0.07,64096.0,0.07
+TEJASNET,2017-11-15 20:02:00,2017-11-15,2017-11-13,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,65178.0,0.07,64178.0,0.07
+TEJASNET,2017-11-15 20:02:00,2017-11-15,2017-11-13,2017-11-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,6437.0,0.0,0.0,0.0,0.0,58741.0,0.07,65178.0,0.07
+TEJASNET,2017-11-15 20:02:00,2017-11-15,2017-11-15,2017-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,680.0,0.0,0.0,0.0,0.0,30620.0,0.03,29940.0,0.03
+TEJASNET,2017-11-15 20:02:00,2017-11-15,2017-11-13,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,177288.0,0.2,175288.0,0.19
+TEJASNET,2017-11-15 20:02:00,2017-11-15,2017-10-27,2017-10-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,61741.0,0.07,58741.0,0.07
+TEJASNET,2017-11-16 22:03:00,2017-11-16,2017-11-15,2017-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,174288.0,0.19,173288.0,0.19
+TEJASNET,2017-11-16 22:03:00,2017-11-16,2017-11-15,2017-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1350.0,0.0,0.0,0.0,0.0,141710.0,0.16,140360.0,0.16
+TEJASNET,2017-11-16 22:03:00,2017-11-16,2017-11-15,2017-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,53187.0,0.01,47187.0,0.0
+TEJASNET,2017-11-16 22:03:00,2017-11-16,2017-11-14,2017-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,175288.0,0.19,174288.0,0.19
+TEJASNET,2017-11-17 16:53:00,2017-11-17,2017-11-15,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,67457.0,0.07,65957.0,0.07
+TEJASNET,2017-11-17 16:53:00,2017-11-17,2017-11-15,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,64096.0,0.07,62596.0,0.07
+TEJASNET,2017-11-17 16:53:00,2017-11-17,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,173288.0,0.19,171288.0,0.19
+TEJASNET,2017-11-17 16:53:00,2017-11-17,2017-11-13,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2125.0,0.0,0.0,0.0,0.0,10000.0,0.01,7875.0,0.01
+TEJASNET,2017-11-17 16:53:00,2017-11-17,2017-11-14,2017-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,64750.0,0.07,64500.0,0.07
+TEJASNET,2017-11-17 16:53:00,2017-11-17,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,6000.0,0.01,5900.0,0.01
+TEJASNET,2017-11-17 16:53:00,2017-11-17,2017-11-15,2017-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7000.0,0.01,6000.0,0.01
+TEJASNET,2017-11-17 16:53:00,2017-11-16,2017-11-15,2017-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,125522.0,0.14,125122.0,0.14
+TEJASNET,2017-11-17 16:53:00,2017-11-17,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,64500.0,0.07,64000.0,0.07
+TEJASNET,2017-11-17 16:53:00,2017-11-17,2017-11-14,2017-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,65000.0,0.07,64750.0,0.07
+TEJASNET,2017-11-17 16:53:00,2017-11-17,2017-11-14,2017-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,875.0,0.0,0.0,0.0,0.0,7875.0,0.01,7000.0,0.01
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-03,2017-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,111656.0,0.12,109656.0,0.12
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,102927.0,0.11,100927.0,0.11
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,530.0,0.0,0.0,0.0,0.0,103457.0,0.11,102927.0,0.11
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,105457.0,0.11,103457.0,0.11
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1470.0,0.0,0.0,0.0,0.0,106927.0,0.11,105457.0,0.11
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-17,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,125122.0,0.14,124522.0,0.14
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-10,2017-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,108927.0,0.12,106927.0,0.11
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-10,2017-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,729.0,0.0,0.0,0.0,0.0,109656.0,0.12,108927.0,0.12
+TEJASNET,2017-11-20 20:33:00,2017-11-18,2017-11-17,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,62596.0,0.06,62096.0,0.06
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-17,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,81650.0,0.09,81150.0,0.09
+TEJASNET,2017-11-20 20:33:00,2017-11-17,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,138010.0,0.15,137310.0,0.15
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-17,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,67412.0,0.07,65412.0,0.07
+TEJASNET,2017-11-20 20:33:00,2017-11-20,2017-11-17,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,171288.0,0.19,169288.0,0.19
+TEJASNET,2017-11-20 20:33:00,2017-11-18,2017-11-13,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3749.0,0.0,0.0,0.0,0.0,91646.0,0.1,87897.0,0.1
+TEJASNET,2017-11-20 20:33:00,2017-11-19,2017-11-03,2017-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,113656.0,0.12,111656.0,0.12
+TEJASNET,2017-11-20 20:33:00,2017-11-17,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,110550.0,0.12,105550.0,0.12
+TEJASNET,2017-11-22 19:04:00,2017-11-22,2017-11-20,2017-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,169288.0,0.19,168288.0,0.19
+TEJASNET,2017-11-22 19:04:00,2017-11-22,2017-11-21,2017-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,548.0,0.0,0.0,0.0,0.0,124522.0,0.14,123974.0,0.14
+TEJASNET,2017-11-22 19:04:00,2017-11-21,2017-11-16,2017-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12525.0,0.0,0.0,0.0,0.0,118400.0,0.13,105875.0,0.12
+TEJASNET,2017-11-22 19:04:00,2017-11-22,2017-11-21,2017-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1484.0,0.0,0.0,0.0,0.0,105875.0,0.12,104391.0,0.12
+TEJASNET,2017-11-22 19:04:00,2017-11-22,2017-11-20,2017-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,137310.0,0.15,136910.0,0.02
+TEJASNET,2017-11-29 19:58:00,2017-11-28,2017-11-27,2017-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,168288.0,0.19,167288.0,0.19
+TEJASNET,2017-11-29 19:58:00,2017-11-29,2017-11-28,2017-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,167288.0,0.19,166288.0,0.18
+TEJASNET,2017-11-29 19:58:00,2017-11-28,2017-11-27,2017-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,134710.0,0.15,133710.0,0.14
+TEJASNET,2017-11-29 19:58:00,2017-11-29,2017-11-28,2017-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1550.0,0.0,0.0,0.0,0.0,134610.0,0.15,133060.0,0.14
+TEJASNET,2017-11-29 19:58:00,2017-11-28,2017-11-23,2017-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,136010.0,0.15,134710.0,0.14
+TEJASNET,2017-11-29 19:58:00,2017-11-28,2017-11-13,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,62682.0,0.07,57682.0,0.07
+TEJASNET,2017-11-29 19:58:00,2017-11-28,2017-11-10,2017-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,67682.0,0.08,62682.0,0.07
+TEJASNET,2017-11-29 19:58:00,2017-11-28,2017-11-13,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,41044.0,0.05,37544.0,0.04
+TEJASNET,2017-11-30 19:22:00,2017-11-30,2017-11-16,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,21350.0,0.02,19650.0,0.02
+TEJASNET,2017-11-30 19:22:00,2017-11-28,2017-11-27,2017-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,49.0,0.0,0.0,0.0,0.0,219559.0,0.24,219510.0,0.24
+TEJASNET,2017-11-30 19:22:00,2017-11-28,2017-11-22,2017-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,951.0,0.0,0.0,0.0,0.0,220510.0,0.24,219559.0,0.24
+TEJASNET,2017-11-30 19:22:00,2017-11-28,2017-11-21,2017-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,221010.0,0.24,220510.0,0.24
+TEJASNET,2017-11-30 19:22:00,2017-11-30,2017-11-28,2017-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,123974.0,0.14,123574.0,0.14
+TEJASNET,2017-11-30 19:22:00,2017-11-28,2017-11-27,2017-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,219510.0,0.24,216010.0,0.24
+TEJASNET,2017-12-01 18:38:00,2017-12-01,2017-11-30,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,100927.0,0.11,98927.0,0.1
+TEJASNET,2017-12-01 18:38:00,2017-12-01,2017-11-30,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,102927.0,0.11,100927.0,0.11
+TEJASNET,2017-12-01 18:38:00,2017-12-01,2017-11-30,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,166288.0,0.18,164288.0,0.18
+TEJASNET,2017-12-01 18:38:00,2017-12-01,2017-11-29,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,62096.0,0.06,61096.0,0.06
+TEJASNET,2017-12-01 18:38:00,2017-12-01,2017-11-30,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,98927.0,0.1,96927.0,0.1
+TEJASNET,2017-12-01 18:38:00,2017-12-01,2017-11-30,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,96927.0,0.11,94927.0,0.1
+TEJASNET,2017-12-04 19:52:00,2017-12-01,2017-11-30,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,133060.0,0.14,130560.0,0.14
+TEJASNET,2017-12-04 19:52:00,2017-12-03,2017-12-01,2017-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,130560.0,0.14,130260.0,0.14
+TEJASNET,2017-12-05 19:15:00,2017-12-03,2017-12-01,2017-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,61096.0,0.07,60846.0,0.07
+TEJASNET,2017-12-06 19:37:00,2017-12-06,2017-12-05,2017-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,164288.0,0.18,163288.0,0.18
+TEJASNET,2017-12-13 18:45:00,2017-12-13,2017-12-08,2017-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,129310.0,0.14,128560.0,0.14
+TEJASNET,2017-12-13 18:45:00,2017-12-12,2017-12-11,2017-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,162288.0,0.18,161288.0,0.18
+TEJASNET,2017-12-13 18:45:00,2017-12-11,2017-11-01,2017-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,899.0,0.0,0.0,0.0,0.0,23462.0,0.03,22563.0,0.03
+TEJASNET,2017-12-13 18:45:00,2017-12-12,2017-12-11,2017-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,123574.0,0.14,123074.0,0.14
+TEJASNET,2017-12-13 18:45:00,2017-12-11,2017-09-22,2017-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4800.0,0.0,0.0,0.0,0.0,28262.0,0.03,23462.0,0.03
+TEJASNET,2017-12-18 19:27:00,2017-12-15,2017-12-14,2017-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,128560.0,0.14,128260.0,0.14
+TEJASNET,2017-12-18 19:27:00,2017-12-17,2017-12-15,2017-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,128260.0,0.14,128010.0,0.14
+TEJASNET,2017-12-18 19:27:00,2017-12-18,2017-12-14,2017-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,325.0,0.0,0.0,0.0,0.0,69075.0,0.07,68750.0,0.07
+TEJASNET,2017-12-18 19:27:00,2017-12-14,2017-12-06,2017-12-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,64178.0,0.07,63178.0,0.07
+TEJASNET,2017-12-18 19:27:00,2017-12-18,2017-12-15,2017-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,68750.0,0.07,68400.0,0.07
+TEJASNET,2017-12-21 19:30:00,2017-12-20,2017-12-19,2017-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,377.0,0.0,0.0,0.0,0.0,128010.0,0.14,127633.0,0.14
+TEJASNET,2017-12-21 19:30:00,2017-12-21,2017-12-20,2017-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,161288.0,0.17,159288.0,0.17
+TEJASNET,2017-12-21 19:30:00,2017-12-21,2017-12-19,2017-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,68400.0,0.07,68100.0,0.07
+TEJASNET,2017-12-26 19:14:00,2017-12-22,2017-12-20,2017-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,60846.0,0.07,60596.0,0.07
+TEJASNET,2017-12-26 19:14:00,2017-12-22,2017-12-21,2017-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,127083.0,0.14,127033.0,0.14
+TEJASNET,2017-12-26 19:14:00,2017-12-21,2017-12-20,2017-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,550.0,0.0,0.0,0.0,0.0,127633.0,0.14,127083.0,0.14
+TEJASNET,2017-12-29 18:03:00,2017-12-27,2017-12-19,2017-12-19,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10000.0,0.01,5000.0,0.01
+TEJASNET,2017-12-29 18:03:00,2017-12-27,2017-12-20,2017-12-20,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2828.0,0.0,0.0,0.0,0.0,5000.0,0.0,2172.0,0.0
+TEJASNET,2017-12-29 18:03:00,2017-12-28,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,35010.0,0.03,30010.0,0.03
+TEJASNET,2017-12-29 18:03:00,2017-12-27,2017-12-04,2017-12-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,76727.0,0.0,0.0,0.0,0.0,90000.0,0.1,166727.0,0.18
+TEJASNET,2018-01-02 19:37:00,2017-12-31,2017-12-29,2017-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,123074.0,0.13,122874.0,0.13
+TEJASNET,2018-01-02 19:37:00,2017-12-30,2017-12-29,2017-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,60596.0,0.06,60096.0,0.06
+TEJASNET,2018-01-02 19:37:00,2018-01-02,2018-01-01,2018-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,60096.0,0.06,59346.0,0.06
+TEJASNET,2018-01-02 19:37:00,2018-01-02,2018-01-01,2018-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,159288.0,0.17,155288.0,0.17
+TEJASNET,2018-01-02 19:37:00,2017-12-31,2017-12-28,2017-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,127033.0,0.14,126683.0,0.14
+TEJASNET,2018-01-02 19:37:00,2017-12-31,2017-12-29,2017-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,126683.0,0.14,125933.0,0.13
+TEJASNET,2018-01-04 19:31:00,2018-01-03,2018-01-01,2018-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,68100.0,0.08,67000.0,0.07
+TEJASNET,2018-01-04 19:31:00,2018-01-03,2018-01-01,2018-01-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,67000.0,0.75,65500.0,0.07
+TEJASNET,2018-01-04 19:31:00,2018-01-04,2018-01-02,2018-01-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,123583.0,0.14,123083.0,0.14
+TEJASNET,2018-01-04 19:31:00,2018-01-03,2018-01-01,2018-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2350.0,0.0,0.0,0.0,0.0,125933.0,0.14,123583.0,0.14
+TEJASNET,2018-01-08 19:08:00,2018-01-05,2018-01-04,2018-01-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,155288.0,0.17,154288.0,0.17
+TEJASNET,2018-01-08 19:08:00,2018-01-05,2018-01-04,2018-01-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,87897.0,0.09,84897.0,0.09
+TEJASNET,2018-01-08 19:08:00,2018-01-05,2017-09-06,2017-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2857.0,0.0,0.0,0.0,0.0,93561.0,0.1,90704.0,0.1
+TEJASNET,2018-01-08 19:08:00,2018-01-05,2018-01-02,2018-01-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,54642.0,0.06,44642.0,0.04
+TEJASNET,2018-01-08 19:08:00,2018-01-05,2018-01-03,2018-01-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1350.0,0.0,0.0,0.0,0.0,123083.0,0.13,121733.0,0.13
+TEJASNET,2018-01-08 19:08:00,2018-01-06,2018-01-04,2018-01-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2050.0,0.0,0.0,0.0,0.0,121733.0,0.13,119683.0,0.13
+TEJASNET,2018-01-29 19:17:00,2018-01-29,2018-01-24,2018-01-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,82256.0,0.09,81256.0,0.09
+TEJASNET,2018-01-29 19:17:00,2018-01-24,2018-01-22,2018-01-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1744.0,0.0,0.0,0.0,0.0,84000.0,0.09,82256.0,0.09
+TEJASNET,2018-01-29 19:17:00,2018-01-26,2018-01-24,2018-01-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,148983.0,0.16,147983.0,0.16
+TEJASNET,2018-01-29 19:17:00,2018-01-28,2018-01-25,2018-01-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,147983.0,0.16,147633.0,0.16
+TEJASNET,2018-01-29 19:17:00,2018-01-25,2018-01-23,2018-01-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,149683.0,0.16,148983.0,0.16
+TEJASNET,2018-02-01 18:24:00,2018-01-31,2018-01-29,2018-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,81256.0,0.09,80606.0,0.09
+TEJASNET,2018-02-01 18:24:00,2018-01-31,2018-01-29,2018-01-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2041.0,0.0,0.0,0.0,0.0,80606.0,0.08,78565.0,0.08
+TEJASNET,2018-02-05 19:07:00,2018-02-01,2018-02-01,2018-02-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,154288.0,0.17,151288.0,0.16
+TEJASNET,2018-02-08 16:50:00,2018-02-06,2018-02-02,2018-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,78565.0,0.08,77565.0,0.08
+TEJASNET,2018-02-08 16:50:00,2018-02-06,2018-02-02,2018-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,77565.0,0.08,77065.0,0.08
+TEJASNET,2018-02-08 16:50:00,2018-02-08,2018-01-29,2018-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,778.0,0.0,0.0,0.0,0.0,20500.0,0.02,19722.0,0.02
+TEJASNET,2018-02-08 16:50:00,2018-02-07,2018-02-05,2018-02-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,130374.0,0.14,129674.0,0.14
+TEJASNET,2018-02-08 16:50:00,2018-02-08,2018-02-05,2018-02-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,147233.0,0.16,147133.0,0.16
+TEJASNET,2018-02-08 16:50:00,2018-02-08,2018-01-29,2018-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3722.0,0.0,0.0,0.0,0.0,19722.0,0.02,16000.0,0.01
+TEJASNET,2018-02-15 18:36:00,2018-02-15,2018-02-14,2018-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,128174.0,0.14,126674.0,0.14
+TEJASNET,2018-02-21 16:43:00,2018-02-21,2018-02-19,2018-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,77000.0,0.09,76350.0,0.09
+TEJASNET,2018-02-21 16:43:00,2018-02-19,2018-02-16,2018-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,77500.0,0.08,77000.0,0.09
+TEJASNET,2018-02-21 16:43:00,2018-02-19,2018-02-16,2018-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,150150.0,0.17,149150.0,0.16
+TEJASNET,2018-02-21 16:43:00,2018-02-19,2018-02-15,2018-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,16782.0,0.0,0.0,0.0,0.0,21000.0,0.02,4218.0,0.0
+TEJASNET,2018-02-21 16:43:00,2018-02-19,2018-02-15,2018-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1065.0,0.0,0.0,0.0,0.0,78565.0,0.08,77500.0,0.09
+TEJASNET,2018-02-21 16:43:00,2018-02-21,2018-02-02,2018-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,101778.0,0.11,76778.0,0.08
+TEJASNET,2018-02-27 18:13:00,2018-02-23,2018-02-05,2018-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3137.0,0.0,0.0,0.0,0.0,86400.0,0.09,83263.0,0.09
+TEJASNET,2018-02-27 18:13:00,2018-02-21,2018-02-20,2018-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,131174.0,0.14,129974.0,0.14
+TEJASNET,2018-02-27 18:13:00,2018-02-21,2018-02-20,2018-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,149150.0,0.17,148150.0,0.16
+TEJASNET,2018-03-06 19:41:00,2018-03-01,2018-02-27,2018-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,76350.0,0.08,76000.0,0.08
+TEJASNET,2018-03-06 19:41:00,2018-02-28,2018-01-01,2018-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2750.0,0.0,0.0,0.0,0.0,60096.0,0.06,57346.0,0.05
+TEJASNET,2018-03-06 19:41:00,2018-02-28,2018-02-26,2018-02-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,83263.0,0.09,83013.0,0.09
+TEJASNET,2018-03-08 13:01:00,2018-03-07,2018-03-05,2018-03-05,Employees/Designated Employees,Others,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,75850.0,0.08,75450.0,0.08
+TEJASNET,2018-03-08 13:01:00,2018-03-06,2018-03-05,2018-03-05,Other,Others,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,61158.0,0.06,60908.0,0.06
+TEJASNET,2018-03-08 13:01:00,2018-03-05,2018-02-28,2018-02-28,Other,Others,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,146583.0,0.16,146233.0,0.16
+TEJASNET,2018-03-08 13:01:00,2018-03-05,2018-03-01,2018-03-01,Employees/Designated Employees,Others,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,76000.0,0.08,75850.0,0.08
+TEJASNET,2018-03-09 12:27:00,2018-03-05,2018-03-01,2018-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,76000.0,0.08,75850.0,0.08
+TEJASNET,2018-03-09 12:27:00,2018-03-07,2018-03-05,2018-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,75850.0,0.08,75450.0,0.08
+TEJASNET,2018-03-09 12:27:00,2018-03-06,2018-03-05,2018-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,61158.0,0.06,60908.0,0.06
+TEJASNET,2018-03-09 12:27:00,2018-03-05,2018-02-28,2018-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,146583.0,0.16,146233.0,0.16
+TEJASNET,2018-03-12 21:56:00,2018-03-09,2018-03-07,2018-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13400.0,0.0,0.0,0.0,0.0,120500.0,0.13,107100.0,0.11
+TEJASNET,2018-03-12 21:56:00,2018-03-10,2018-03-08,2018-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,83013.0,0.09,82013.0,0.09
+TEJASNET,2018-03-12 21:56:00,2018-03-10,2018-03-09,2018-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,813.0,0.0,0.0,0.0,0.0,60908.0,0.06,60095.0,0.06
+TEJASNET,2018-03-12 21:56:00,2018-03-12,2018-02-26,2018-02-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1145.0,0.0,0.0,0.0,0.0,9635.0,0.01,8490.0,0.01
+TEJASNET,2018-03-12 21:56:00,2018-03-10,2018-03-09,2018-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,164138.0,0.18,160138.0,0.17
+TEJASNET,2018-03-12 21:56:00,2018-03-09,2018-03-08,2018-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,17100.0,0.0,0.0,0.0,0.0,107100.0,0.11,90000.0,0.09
+TEJASNET,2018-03-12 21:56:00,2018-03-12,2018-03-11,2018-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,716.0,0.0,0.0,0.0,0.0,154074.0,0.16,153358.0,0.16
+TEJASNET,2018-03-12 21:56:00,2018-03-09,2018-03-06,2018-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15500.0,0.0,0.0,0.0,0.0,136000.0,0.14,120500.0,0.13
+TEJASNET,2018-03-12 21:56:00,2018-03-12,2018-03-06,2018-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5273.0,0.0,0.0,0.0,0.0,8490.0,0.0,3217.0,0.0
+TEJASNET,2018-03-15 21:54:00,2018-03-14,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,168233.0,0.18,167583.0,0.18
+TEJASNET,2018-03-15 21:54:00,2018-03-13,2018-03-12,2018-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,550.0,0.0,0.0,0.0,0.0,168783.0,0.18,168233.0,0.18
+TEJASNET,2018-03-15 21:54:00,2018-03-14,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1290.0,0.0,0.0,0.0,0.0,84410.0,0.09,83120.0,0.09
+TEJASNET,2018-03-15 21:54:00,2018-03-15,2018-03-14,2018-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,153358.0,0.16,149358.0,0.16
+TEJASNET,2018-03-15 21:54:00,2018-03-15,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,600095.0,0.06,599595.0,0.06
+TEJASNET,2018-03-15 21:54:00,2018-03-15,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,77075.0,0.08,76975.0,0.08
+TEJASNET,2018-03-15 21:54:00,2018-03-15,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,625.0,0.0,0.0,0.0,0.0,77700.0,0.09,77075.0,0.08
+TEJASNET,2018-03-15 21:54:00,2018-03-13,2018-03-12,2018-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,150000.0,0.16,143000.0,0.16
+TEJASNET,2018-03-15 21:54:00,2018-03-14,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,143000.0,0.16,135500.0,0.16
+TEJASNET,2018-03-15 21:54:00,2018-03-14,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11860.0,0.0,0.0,0.0,0.0,226860.0,0.25,215000.0,0.23
+TEJASNET,2018-03-19 18:42:00,2018-03-17,2018-03-16,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,160138.0,0.17,159138.0,0.17
+TEJASNET,2018-03-19 18:42:00,2018-03-17,2018-03-16,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,139358.0,0.15,129358.0,0.14
+TEJASNET,2018-03-19 18:42:00,2018-03-16,2018-03-14,2018-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7647.0,0.0,0.0,0.0,0.0,135647.0,0.14,128000.0,0.14
+TEJASNET,2018-03-19 18:42:00,2018-03-18,2018-03-16,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,128000.0,0.14,120000.0,0.14
+TEJASNET,2018-03-19 18:42:00,2018-03-16,2018-03-15,2018-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,149358.0,0.16,139358.0,0.15
+TEJASNET,2018-03-19 18:42:00,2018-03-16,2018-03-15,2018-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1170.0,0.0,0.0,0.0,0.0,83120.0,0.09,81950.0,0.09
+TEJASNET,2018-03-19 18:42:00,2018-03-19,2018-03-15,2018-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,167583.0,0.18,166933.0,0.18
+TEJASNET,2018-03-19 18:42:00,2018-03-18,2018-03-16,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1270.0,0.0,0.0,0.0,0.0,81950.0,0.09,80680.0,0.08
+TEJASNET,2018-03-23 17:03:00,2018-03-20,2018-03-19,2018-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,166933.0,0.18,166233.0,0.18
+TEJASNET,2018-03-23 17:03:00,2018-03-20,2018-03-16,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,850.0,0.0,0.0,0.0,0.0,76975.0,0.08,76125.0,0.08
+TEJASNET,2018-03-23 17:03:00,2018-03-22,2018-03-21,2018-03-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,158138.0,0.17,155138.0,0.17
+TEJASNET,2018-03-23 17:03:00,2018-03-21,2018-03-19,2018-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,82013.0,0.09,81763.0,0.09
+TEJASNET,2018-03-23 17:03:00,2018-03-20,2018-02-26,2018-02-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1209.0,0.0,0.0,0.0,0.0,27751.0,0.03,26542.0,0.03
+TEJASNET,2018-03-23 17:03:00,2018-03-22,2018-02-05,2018-03-05,Employees/Designated Employees,ESOP,Buy,Equity Shares,2438.0,0.0,0.0,0.0,0.0,62178.0,0.06,64616.0,0.07
+TEJASNET,2018-03-23 17:03:00,2018-03-20,2018-02-26,2018-02-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2147.0,0.0,0.0,0.0,0.0,26542.0,0.02,24395.0,0.02
+TEJASNET,2018-03-23 17:03:00,2018-03-22,2018-01-02,2018-01-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,63178.0,0.07,62178.0,0.06
+TEJASNET,2018-03-23 17:03:00,2018-03-20,2018-03-19,2018-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,59595.0,0.06,58595.0,0.06
+TEJASNET,2018-03-23 17:03:00,2018-03-21,2018-03-20,2018-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,159138.0,0.17,158138.0,0.17
+TEJASNET,2018-03-23 17:03:00,2018-03-20,2018-03-19,2018-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,129358.0,0.14,126358.0,0.13
+TEJASNET,2018-03-23 17:03:00,2018-03-20,2018-03-19,2018-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,76125.0,0.08,75425.0,0.08
+TEJASNET,2018-03-23 17:03:00,2018-03-22,2018-02-12,2018-03-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,64616.0,0.07,62616.0,0.06
+TEJASNET,2018-04-12 14:29:00,2018-04-06,2018-01-23,2018-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3363.0,0.0,0.0,0.0,0.0,25831.0,0.02,22468.0,0.02
+TEJASNET,2018-05-10 19:31:00,2018-05-10,2018-05-08,2018-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3258.0,0.0,0.0,0.0,0.0,75850.0,0.08,72592.0,0.07
+TEJASNET,2018-05-10 19:31:00,2018-05-10,2018-05-08,2018-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,981.0,0.0,0.0,0.0,0.0,72592.0,0.07,71611.0,0.07
+TEJASNET,2018-05-10 19:31:00,2018-05-04,2018-05-02,2018-05-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,76050.0,0.08,75850.0,0.08
+TEJASNET,2018-05-18 17:55:00,2018-05-17,2018-05-15,2018-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,73111.0,0.08,72211.0,0.07
+TEJASNET,2018-05-29 18:55:00,2018-04-12,2018-04-04,2018-04-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,854.0,0.0,0.0,0.0,0.0,93561.0,0.1,92707.0,0.1
+TEJASNET,2018-05-29 18:55:00,2018-05-29,2018-05-22,2018-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2833.0,0.0,0.0,0.0,0.0,92707.0,0.1,89874.0,0.1
+TEJASNET,2018-05-29 18:55:00,2018-05-29,2018-05-25,2018-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2811.0,0.0,0.0,0.0,0.0,72211.0,0.07,69400.0,0.07
+TEJASNET,2018-06-06 18:33:00,2018-06-05,2018-06-04,2018-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,135974.0,0.14,132974.0,0.14
+TEJASNET,2018-06-06 18:33:00,2018-06-04,2018-04-19,2018-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3426.0,0.0,0.0,0.0,0.0,15921.0,0.01,12495.0,0.01
+TEJASNET,2018-06-08 17:56:00,2018-06-08,2018-06-07,2018-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,6000.0,0.01,2000.0,0.0
+TEJASNET,2018-06-08 17:56:00,2018-06-06,2018-05-18,2018-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3638.0,0.0,0.0,0.0,0.0,56283.0,0.06,52645.0,0.05
+TEJASNET,2018-06-13 12:44:00,2018-06-13,2018-06-11,2018-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,71900.0,0.07,71750.0,0.07
+TEJASNET,2018-06-13 12:44:00,2018-06-12,2018-06-11,2018-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,55458.0,0.06,54458.0,0.05
+TEJASNET,2018-06-13 12:44:00,2018-06-13,2018-06-12,2018-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1050.0,0.0,0.0,0.0,0.0,71750.0,0.07,70700.0,0.07
+TEJASNET,2018-06-13 12:44:00,2018-06-09,2018-06-07,2018-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,56458.0,0.06,55458.0,0.06
+TEJASNET,2018-06-13 12:44:00,2018-06-11,2018-06-07,2018-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,172573.0,0.18,172173.0,0.18
+TEJASNET,2018-06-13 12:44:00,2018-06-09,2018-06-07,2018-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,69400.0,0.07,68900.0,0.07
+TEJASNET,2018-06-15 15:52:00,2018-06-15,2018-06-13,2018-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,69700.0,0.07,69500.0,0.07
+TEJASNET,2018-06-15 15:52:00,2018-06-13,2018-06-12,2018-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2000.0,0.0,1500.0,0.0
+TEJASNET,2018-06-15 15:52:00,2018-06-15,2018-06-13,2018-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,70700.0,0.07,69700.0,0.07
+TEJASNET,2018-06-15 15:52:00,2018-06-14,2018-06-13,2018-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,150138.0,0.16,149138.0,0.16
+TEJASNET,2018-06-15 15:52:00,2018-06-13,2018-06-11,2018-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,152138.0,0.16,150138.0,0.16
+TEJASNET,2018-06-15 15:52:00,2018-06-15,2018-06-14,2018-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,149138.0,0.16,146138.0,0.16
+TEJASNET,2018-06-19 10:52:00,2018-06-16,2018-06-15,2018-06-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,53958.0,0.05,52458.0,0.05
+TEJASNET,2018-06-19 10:52:00,2018-06-16,2018-06-15,2018-06-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1988.0,0.0,0.0,0.0,0.0,146138.0,0.16,144150.0,0.15
+TEJASNET,2018-06-19 10:52:00,2018-06-15,2018-06-14,2018-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,155328.0,0.17,150328.0,0.16
+TEJASNET,2018-06-19 10:52:00,2018-06-18,2018-05-31,2018-06-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2012.0,0.0,0.0,0.0,0.0,93874.0,0.13,91862.0,0.1
+TEJASNET,2018-06-19 10:52:00,2018-06-16,2018-06-15,2018-06-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,136724.0,0.15,130724.0,0.14
+TEJASNET,2018-07-26 18:37:00,2018-07-25,2018-07-23,2018-07-23,Key Managerial Personnel,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,2471991.0,2.71,2481991.0,2.73
+TEJASNET,2018-07-26 18:37:00,2018-07-26,2018-07-26,2018-07-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7672.0,0.0,0.0,0.0,0.0,18214.0,0.02,10542.0,0.01
+TEJASNET,2018-07-26 18:37:00,2018-07-25,2018-07-23,2018-07-23,Key Managerial Personnel,ESOP,Buy,Equity Shares,81250.0,0.0,0.0,0.0,0.0,44000.0,0.05,125250.0,0.13
+TEJASNET,2018-07-26 18:37:00,2018-07-25,2018-07-23,2018-07-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,24875.0,0.0,0.0,0.0,0.0,57682.0,0.06,82557.0,0.09
+TEJASNET,2018-08-01 18:01:00,2018-07-30,2018-07-27,2018-07-27,Director,Market Sale,Sell,Equity Shares,6339.0,0.0,0.0,0.0,0.0,57612.0,0.06,51273.0,0.05
+TEJASNET,2018-08-07 18:59:00,2018-08-07,2018-08-03,2018-08-03,Other,Market Sale,Sell,Equity Shares,4500000.0,0.0,0.0,0.0,0.0,13941649.0,15.28,9441649.0,10.34
+TEJASNET,2018-08-07 18:59:00,2018-08-03,2018-08-01,2018-08-01,Other,Market Sale,Sell,Equity Shares,28573.0,0.0,0.0,0.0,0.0,13970222.0,15.31,13941649.0,15.28
+TEJASNET,2018-08-07 18:59:00,2018-08-03,2018-07-26,2018-07-26,Other,Market Sale,Sell,Equity Shares,11426.0,0.0,0.0,0.0,0.0,13981648.0,15.32,13970222.0,15.31
+TEJASNET,2018-08-08 16:02:00,2018-08-08,2018-08-08,2018-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4750.0,0.0,0.0,0.0,0.0,130724.0,0.14,125974.0,0.13
+TEJASNET,2018-08-10 17:10:00,2018-08-09,2018-07-27,2018-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,177423.0,0.19,172923.0,0.18
+TEJASNET,2018-08-10 17:10:00,2018-08-09,2018-08-08,2018-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,51273.0,0.06,46273.0,0.05
+TEJASNET,2018-08-10 17:10:00,2018-08-08,2018-08-08,2018-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,125974.0,0.13,121974.0,0.13
+TEJASNET,2018-08-10 17:10:00,2018-08-10,2018-08-09,2018-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,121974.0,0.13,119974.0,0.13
+TEJASNET,2018-08-10 17:10:00,2018-08-08,2018-08-02,2018-08-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8150.0,0.0,0.0,0.0,0.0,29650.0,0.03,21500.0,0.02
+TEJASNET,2018-08-10 17:10:00,2018-08-10,2018-08-07,2018-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4154.0,0.0,0.0,0.0,0.0,37544.0,0.04,33390.0,0.03
+TEJASNET,2018-08-13 18:46:00,2018-08-10,2018-08-09,2018-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,172923.0,0.18,171723.0,0.18
+TEJASNET,2018-08-13 18:46:00,2018-08-13,2018-08-10,2018-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,171723.0,0.18,170523.0,0.18
+TEJASNET,2018-08-13 18:46:00,2018-08-13,2018-08-09,2018-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1290.0,0.0,0.0,0.0,0.0,46273.0,0.05,44983.0,0.04
+TEJASNET,2018-08-14 19:44:00,2018-08-14,2018-07-27,2018-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,22011.0,0.02,18011.0,0.01
+TEJASNET,2018-08-14 19:44:00,2018-08-13,2018-08-02,2018-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4988.0,0.0,0.0,0.0,0.0,91862.0,0.1,86874.0,0.09
+TEJASNET,2018-08-16 14:56:00,2018-08-16,2018-08-14,2018-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,44983.0,0.04,32483.0,0.03
+TEJASNET,2018-08-16 14:56:00,2018-08-16,2018-08-13,2018-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,69950.0,0.07,69550.0,0.07
+TEJASNET,2018-08-16 14:56:00,2018-08-15,2018-08-13,2018-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,170523.0,0.18,169723.0,0.18
+TEJASNET,2018-08-30 11:29:00,2018-08-29,2018-08-28,2018-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3960.0,0.0,0.0,0.0,0.0,119974.0,0.13,116014.0,0.12
+TEJASNET,2018-08-31 17:31:00,2018-08-31,2018-08-20,2018-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14576.0,0.0,0.0,0.0,0.0,86874.0,0.1,72298.0,0.09
+TEJASNET,2018-09-02 06:57:00,2018-08-31,2018-08-29,2018-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1900.0,0.0,0.0,0.0,0.0,169723.0,0.19,167823.0,0.18
+TEJASNET,2018-09-04 12:12:00,2018-09-03,2018-08-31,2018-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1050.0,0.0,0.0,0.0,0.0,173823.0,0.19,172773.0,0.19
+TEJASNET,2018-09-04 12:12:00,2018-09-02,2018-08-31,2018-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,116014.0,0.13,111014.0,0.12
+TEJASNET,2018-09-04 12:12:00,2018-09-02,2018-08-30,2018-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,69550.0,0.08,68850.0,0.08
+TEJASNET,2018-09-06 07:00:00,2018-09-05,2018-09-03,2018-09-04,Employees/Designated Employees,Market Purchase,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,68850.0,0.08,68500.0,0.08
+TEJASNET,2018-09-06 07:00:00,2018-09-04,2018-09-03,2018-09-03,Employees/Designated Employees,Market Purchase,Sell,Equity Shares,638.0,0.0,0.0,0.0,0.0,11180.0,0.01,10542.0,0.01
+TEJASNET,2018-09-06 07:00:00,2018-09-05,2018-08-31,2018-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,19385.0,0.02,16385.0,0.02
+TEJASNET,2018-09-06 07:00:00,2018-09-04,2018-08-31,2018-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3250.0,0.0,0.0,0.0,0.0,13752.0,0.02,10502.0,0.01
+TEJASNET,2018-09-11 16:28:00,2018-09-07,2018-09-06,2018-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,111014.0,0.12,106014.0,0.11
+TEJASNET,2018-09-11 16:28:00,2018-09-10,2018-09-07,2018-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1440.0,0.0,0.0,0.0,0.0,10502.0,0.0,9062.0,0.0
+TEJASNET,2018-09-11 16:28:00,2018-09-09,2018-08-14,2018-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,56270.0,0.06,52270.0,0.05
+TEJASNET,2018-09-11 16:28:00,2018-09-09,2018-09-07,2018-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3100.0,0.0,0.0,0.0,0.0,172773.0,0.18,169673.0,0.18
+TEJASNET,2018-09-11 16:28:00,2018-09-10,2018-09-07,2018-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,88897.0,0.09,84897.0,0.09
+TEJASNET,2018-09-11 16:28:00,2018-09-07,2018-08-29,2018-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,140129.0,0.15,120129.0,0.13
+TEJASNET,2018-09-11 16:28:00,2018-09-10,2018-09-07,2018-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9150.0,0.0,0.0,0.0,0.0,144150.0,0.15,135000.0,0.14
+TEJASNET,2018-09-11 16:28:00,2018-09-11,2018-09-10,2018-09-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,106014.0,0.11,103014.0,0.11
+TEJASNET,2018-09-11 16:28:00,2018-09-07,2018-09-07,2018-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13118.0,0.0,0.0,0.0,0.0,14805.0,0.06,1687.0,0.0
+TEJASNET,2018-09-11 16:28:00,2018-09-11,2018-09-07,2018-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,16385.0,0.01,12385.0,0.01
+TEJASNET,2018-09-11 16:28:00,2018-09-11,2018-09-07,2018-09-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7650.0,0.0,0.0,0.0,0.0,68500.0,0.07,60850.0,0.06
+TEJASNET,2018-09-11 16:28:00,2018-09-10,2018-09-06,2018-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,221188.0,0.24,206188.0,0.22
+TEJASNET,2018-09-14 16:41:00,2018-09-14,2018-07-02,2018-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3960.0,0.0,0.0,0.0,0.0,26933.0,0.02,22973.0,0.02
+TEJASNET,2018-09-14 16:41:00,2018-09-12,2018-09-10,2018-09-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,52270.0,0.05,51770.0,0.05
+TEJASNET,2018-09-14 16:41:00,2018-09-14,2018-09-12,2018-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,100014.0,0.1,95014.0,0.1
+TEJASNET,2018-09-14 16:41:00,2018-09-12,2018-09-11,2018-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,51770.0,0.05,51270.0,0.05
+TEJASNET,2018-09-14 16:41:00,2018-09-13,2018-09-11,2018-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,60850.0,0.06,60550.0,0.06
+TEJASNET,2018-09-14 16:41:00,2018-09-12,2018-09-11,2018-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,168273.0,0.18,167273.0,0.18
+TEJASNET,2018-09-14 16:41:00,2018-09-11,2018-09-10,2018-09-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,169673.0,0.18,168273.0,0.18
+TEJASNET,2018-09-14 16:41:00,2018-09-13,2018-09-12,2018-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,60550.0,0.06,59850.0,0.06
+TEJASNET,2018-09-14 16:41:00,2018-09-14,2018-09-12,2018-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,32483.0,0.03,31983.0,0.03
+TEJASNET,2018-09-14 16:41:00,2018-09-12,2018-08-20,2018-09-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3700.0,0.0,0.0,0.0,0.0,24524.0,0.03,20824.0,0.03
+TEJASNET,2018-09-14 16:41:00,2018-09-12,2018-09-11,2018-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,103014.0,0.11,100014.0,0.1
+TEJASNET,2018-09-17 15:56:00,2018-09-16,2018-09-14,2018-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2180.0,0.0,0.0,0.0,0.0,149341.0,0.16,147161.0,0.16
+TEJASNET,2018-09-17 15:56:00,2018-09-14,2018-09-11,2018-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,72582.0,0.08,65082.0,0.07
+TEJASNET,2018-09-17 15:56:00,2018-09-14,2018-08-31,2018-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,19174.0,0.0,0.0,0.0,0.0,72298.0,0.08,53124.0,0.06
+TEJASNET,2018-09-17 15:56:00,2018-09-14,2018-09-14,2018-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,81224.0,0.09,76224.0,0.08
+TEJASNET,2018-09-17 15:56:00,2018-09-15,2018-09-14,2018-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,164773.0,0.18,163973.0,0.18
+TEJASNET,2018-09-17 15:56:00,2018-09-17,2018-09-14,2018-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,95014.0,0.1,90014.0,0.09
+TEJASNET,2018-09-17 15:56:00,2018-09-17,2018-09-14,2018-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6188.0,0.0,0.0,0.0,0.0,206188.0,0.22,200000.0,0.21
+TEJASNET,2018-09-17 15:56:00,2018-09-14,2018-09-12,2018-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,167273.0,0.18,164773.0,0.18
+TEJASNET,2018-09-17 15:56:00,2018-09-15,2018-09-14,2018-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,51270.0,0.05,49270.0,0.05
+TEJASNET,2018-09-17 15:56:00,2018-09-16,2018-09-14,2018-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,181.0,0.0,0.0,0.0,0.0,59850.0,0.06,59669.0,0.06
+TEJASNET,2018-11-13 18:14:00,2018-11-09,2018-11-05,2018-11-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2100.0,0.0,0.0,0.0,0.0,25200.0,0.03,23100.0,0.03
+TEJASNET,2018-11-13 18:14:00,2018-11-09,2018-11-06,2018-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,23100.0,0.0,0.0,0.0,0.0,23100.0,0.03,,0.0
+TEJASNET,2018-11-15 15:57:00,2018-11-14,2018-11-13,2018-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7709.0,0.0,0.0,0.0,0.0,206812.0,0.22,199103.0,0.21
+TEJASNET,2018-11-16 16:37:00,2018-11-16,2018-11-15,2018-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3924.0,0.0,0.0,0.0,0.0,199103.0,0.21,195179.0,0.21
+TEJASNET,2018-11-20 15:10:00,2018-11-19,2018-11-16,2018-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5179.0,0.0,0.0,0.0,0.0,195179.0,0.21,190000.0,0.2
+TEJASNET,2018-11-20 15:10:00,2018-11-17,2018-11-15,2018-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,90014.0,0.09,86014.0,0.09
+TEJASNET,2018-11-27 17:14:00,2018-11-27,2018-11-26,2018-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,86014.0,0.09,84014.0,0.09
+TEJASNET,2018-12-06 15:24:00,2018-11-30,2018-11-29,2018-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14753.0,0.0,0.0,0.0,0.0,147161.0,0.16,132408.0,0.14
+TEJASNET,2018-12-06 15:24:00,2018-12-04,2018-11-30,2018-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,81014.0,0.08,78014.0,0.08
+TEJASNET,2018-12-06 15:24:00,2018-12-03,2018-11-29,2018-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,84014.0,0.09,81014.0,0.08
+TEJASNET,2018-12-11 11:02:00,2018-12-08,2018-12-06,2018-12-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,78014.0,0.08,75014.0,0.08
+TEJASNET,2018-12-13 16:20:00,2018-12-13,2018-12-12,2018-12-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4328.0,0.0,0.0,0.0,0.0,79519.0,0.09,75191.0,0.09
+TEJASNET,2018-12-13 16:20:00,2018-12-07,2018-12-05,2018-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1543.0,0.0,0.0,0.0,0.0,79063.0,0.09,77520.0,0.09
+TEJASNET,2018-12-13 16:20:00,2018-12-11,2018-10-31,2018-12-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,163973.0,0.18,159973.0,0.17
+TEJASNET,2019-02-07 15:06:00,2019-02-06,2019-02-04,2019-02-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,16500.0,0.0,0.0,0.0,0.0,38999.0,0.04,22499.0,0.02
+TEJASNET,2019-02-11 16:00:00,2019-02-08,2019-02-08,2019-02-08,Key Managerial Personnel,ESOP,Buy,Equity Shares,25000.0,0.0,0.0,0.0,0.0,2481991.0,2.71,2506991.0,2.74
+TEJASNET,2019-02-11 16:00:00,2019-02-08,2019-02-08,2019-02-08,Key Managerial Personnel,ESOP,Buy,Equity Shares,20625.0,0.0,0.0,0.0,0.0,125250.0,0.14,145875.0,0.16
+TEJASNET,2019-02-19 14:06:00,2019-02-19,2019-02-19,2019-02-19,Director,Market Purchase,Buy,Equity Shares,53000.0,0.0,0.0,0.0,0.0,76133.0,0.08,129133.0,0.14
+TEJASNET,2019-02-20 15:20:00,2019-02-20,2019-02-20,2019-02-20,Director,Market Purchase,Buy,Equity Shares,47000.0,0.0,0.0,0.0,0.0,129133.0,0.14,176133.0,0.19
+TEJASNET,2019-02-20 15:20:00,2019-02-19,2019-02-19,2019-02-19,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,145875.0,0.16,153875.0,0.17
+TEJASNET,2019-02-22 16:54:00,2019-02-22,2019-02-22,2019-02-22,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,2506991.0,2.74,2513991.0,2.75
+TEJASNET,2019-02-22 16:54:00,2019-02-21,2019-02-21,2019-02-21,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,42000.0,0.0,0.0,0.0,0.0,153875.0,0.17,195875.0,0.21
+TEJASNET,2019-03-04 12:48:00,2019-03-01,2019-02-22,2019-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,14500.0,0.02,13250.0,0.01
+TEJASNET,2019-03-04 12:48:00,2019-03-01,2019-02-22,2019-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5750.0,0.0,0.0,0.0,0.0,13250.0,0.01,7500.0,0.01
+TEJASNET,2019-03-13 16:24:00,2019-03-12,2019-03-08,2019-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,135000.0,0.14,133000.0,0.14
+TEJASNET,2019-03-13 16:24:00,2019-03-13,2019-03-12,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,133000.0,0.14,129000.0,0.14
+TEJASNET,2019-03-14 15:16:00,2019-03-14,2019-03-13,2019-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,129000.0,0.14,128000.0,0.13
+TEJASNET,2019-03-20 17:44:00,2019-03-19,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8298.0,0.0,0.0,0.0,0.0,23642.0,0.0,15344.0,0.0
+TEJASNET,2019-03-20 17:44:00,2019-03-15,2019-03-14,2019-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,128000.0,0.13,126000.0,0.13
+TEJASNET,2019-04-29 12:43:00,2019-04-29,2019-04-26,2019-04-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9042.0,0.0,0.0,0.0,0.0,9042.0,0.01,,0.0
+TEJASNET,2019-05-03 13:05:00,2019-05-03,2019-04-22,2019-04-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,84375.0,0.0,0.0,0.0,0.0,1384168.0,1.51,1468543.0,1.6
+TEJASNET,2019-05-07 13:12:00,2019-05-06,2019-04-30,2019-05-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,41596.0,0.05,35596.0,0.04
+TEJASNET,2019-05-08 17:48:00,2019-05-08,2019-05-06,2019-05-07,Key Managerial Personnel,Market Sale,Sell,Equity Shares,3793.0,0.0,0.0,0.0,0.0,35596.0,0.04,31803.0,0.03
+TEJASNET,2019-05-16 17:23:00,2019-05-16,2019-05-13,2019-05-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,31803.0,0.03,23803.0,0.02
+TEJASNET,2019-05-20 15:38:00,2019-05-20,2019-05-16,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,23803.0,0.02,17803.0,0.01
+TEJASNET,2019-05-20 15:38:00,2019-05-17,2019-05-16,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,30483.0,0.03,25483.0,0.02
+TEJASNET,2019-05-20 15:38:00,2019-05-19,2019-05-16,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,53450.0,0.05,52550.0,0.05
+TEJASNET,2019-05-20 15:38:00,2019-05-17,2019-04-26,2019-05-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3001.0,0.0,0.0,0.0,0.0,58875.0,0.06,55874.0,0.06
+TEJASNET,2019-05-20 15:38:00,2019-05-20,2019-05-17,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,25483.0,0.02,20483.0,0.02
+TEJASNET,2019-05-20 16:48:00,2019-05-17,2019-04-26,2019-05-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2424.0,0.0,0.0,0.0,0.0,55874.0,0.06,53450.0,0.05
+TEJASNET,2019-05-20 16:48:00,2019-05-19,2019-05-17,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,52550.0,0.05,52100.0,0.05
+TEJASNET,2019-05-22 15:34:00,2019-05-21,2019-05-14,2019-05-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,193000.0,0.21,183000.0,0.19
+TEJASNET,2019-05-22 15:34:00,2019-05-21,2019-05-17,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,127000.0,0.13,123000.0,0.13
+TEJASNET,2019-05-24 19:36:00,2019-05-24,2019-05-23,2019-05-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,68014.0,0.07,66014.0,0.07
+TEJASNET,2019-05-24 19:36:00,2019-05-23,2019-05-22,2019-05-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,70014.0,0.08,68014.0,0.07
+TEJASNET,2019-05-24 19:36:00,2019-05-23,2019-05-10,2019-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,72014.0,0.08,70014.0,0.08
+TEJASNET,2019-05-24 19:36:00,2019-05-23,2019-05-08,2019-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,74014.0,0.08,72014.0,0.08
+TEJASNET,2019-05-24 19:36:00,2019-05-23,2019-05-20,2019-05-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7800.0,0.0,0.0,0.0,0.0,17803.0,0.02,10003.0,0.01
+TEJASNET,2019-05-31 16:57:00,2019-05-30,2019-05-29,2019-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,60014.0,0.06,58014.0,0.06
+TEJASNET,2019-05-31 16:57:00,2019-05-29,2019-05-28,2019-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,62014.0,0.06,60014.0,0.06
+TEJASNET,2019-05-31 16:57:00,2019-05-29,2019-05-27,2019-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,52100.0,0.05,51300.0,0.05
+TEJASNET,2019-05-31 16:57:00,2019-05-30,2019-05-29,2019-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1154.0,0.0,0.0,0.0,0.0,51300.0,0.05,50146.0,0.05
+TEJASNET,2019-05-31 16:57:00,2019-05-31,2019-05-30,2019-05-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,58014.0,0.06,56014.0,0.06
+TEJASNET,2019-05-31 17:22:00,2019-05-26,2019-05-24,2019-05-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,66014.0,0.07,64014.0,0.06
+TEJASNET,2019-05-31 17:22:00,2019-05-28,2019-05-27,2019-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,64014.0,0.06,62014.0,0.08
+TEJASNET,2019-05-31 17:22:00,2019-05-28,2019-05-24,2019-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2545.0,0.0,0.0,0.0,0.0,10003.0,0.01,7458.0,0.01
+TEJASNET,2019-06-05 15:24:00,2019-06-05,2019-06-04,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,123000.0,0.13,122000.0,0.13
+TEJASNET,2019-06-05 15:24:00,2019-06-04,2019-05-30,2019-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2910.0,0.0,0.0,0.0,0.0,7458.0,0.08,4548.0,0.04
+TEJASNET,2019-06-05 15:24:00,2019-06-03,2019-05-28,2019-05-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9359.0,0.0,0.0,0.0,0.0,15354.0,0.01,5995.0,0.01
+TEJASNET,2019-06-07 18:24:00,2019-06-06,2019-06-04,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,38270.0,0.04,37270.0,0.04
+TEJASNET,2019-06-10 22:06:00,2019-06-08,2019-06-06,2019-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,37270.0,0.04,35270.0,0.03
+TEJASNET,2019-06-10 22:06:00,2019-06-10,2019-06-07,2019-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,122000.0,0.13,121000.0,0.13
+TEJASNET,2019-06-10 22:06:00,2019-06-07,2019-05-31,2019-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6040.0,0.0,0.0,0.0,0.0,7500.0,0.01,1460.0,0.0
+TEJASNET,2019-06-10 22:06:00,2019-06-07,2019-05-31,2019-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1460.0,0.0,0.0,0.0,0.0,1460.0,0.0,,0.0
+TEJASNET,2019-07-30 20:43:00,2019-07-30,2019-07-26,2019-07-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14300.0,0.0,0.0,0.0,0.0,23658.0,0.03,9358.0,0.01
+TEJASNET,2019-07-30 20:43:00,2019-07-28,2019-07-26,2019-07-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,145665.0,0.16,115665.0,0.13
+TEJASNET,2019-07-30 20:43:00,2019-07-30,2019-07-25,2019-07-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,63645.0,0.07,57645.0,0.06
+TEJASNET,2019-07-30 20:43:00,2019-07-30,2019-07-26,2019-07-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,26500.0,0.0,0.0,0.0,0.0,57645.0,0.06,31145.0,0.03
+TEJASNET,2019-09-16 16:25:00,2019-09-16,2019-09-13,2019-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,24012.0,0.0,0.0,0.0,0.0,53124.0,0.06,29112.0,0.03
+TEJASNET,2019-09-25 12:15:00,2019-09-24,2019-09-19,2019-09-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,68673.0,0.0,0.0,0.0,0.0,68673.0,0.07,,0.0
+TEJASNET,2019-11-28 17:50:00,2019-11-26,2019-11-20,2019-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3509.0,0.0,0.0,0.0,0.0,28175.0,0.03,24666.0,0.03
+TEJASNET,2019-11-28 17:50:00,2019-11-26,2019-11-21,2019-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3890.0,0.0,0.0,0.0,0.0,24666.0,0.03,20776.0,0.02
+TEJASNET,2020-02-27 11:52:00,2020-02-26,2020-02-24,2020-02-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,49219.0,0.0,0.0,0.0,0.0,1577031.0,1.71,1626250.0,1.76
+TEJASNET,2020-03-03 19:14:00,2020-03-02,2020-02-28,2020-02-28,Director,Market Purchase,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,2528991.0,2.74,2558991.0,2.78
+TEJASNET,2020-05-19 14:16:00,2020-05-18,2020-05-18,2020-05-18,Director,Market Purchase,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,2558991.0,2.77,2658991.0,2.88
+TEJASNET,2020-05-22 17:30:00,2020-05-22,2020-05-22,2020-05-22,Director,ESOP,Buy,Equity Shares,41538.0,0.0,0.0,0.0,0.0,2658991.0,2.88,2700529.0,2.93
+TEJASNET,2020-05-22 17:30:00,2020-05-22,2020-05-22,2020-05-22,Key Managerial Personnel,ESOP,Buy,Equity Shares,3550.0,0.0,0.0,0.0,0.0,9153.0,0.01,12703.0,0.01
+TEJASNET,2020-09-25 23:54:00,2020-09-24,2020-09-24,2020-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,105652.0,0.0,0.0,0.0,0.0,1641880.0,1.78,1747532.0,1.89
+TEJASNET,2020-09-25 23:54:00,2020-09-24,2020-09-24,2020-09-24,Key Managerial Personnel,ESOP,Buy,Equity Shares,72801.0,0.0,0.0,0.0,0.0,195875.0,0.21,268676.0,0.29
+TEJASNET,2020-10-23 23:37:00,2020-10-22,2020-10-21,2020-10-21,Employees/Designated Employees,ESOP,Buy,Equity Shares,105652.0,0.0,0.0,0.0,0.0,1747532.0,1.89,1853184.0,2.01
+TEJASNET,2020-11-26 22:59:00,2020-11-25,2020-11-25,2020-11-25,Key Managerial Personnel,ESOP,Buy,Equity Shares,3301.0,0.0,0.0,0.0,0.0,12703.0,0.01,16004.0,0.02
+TEJASNET,2021-01-22 15:57:00,2021-01-22,2021-01-20,2021-01-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,30875.0,0.0,0.0,0.0,0.0,200956.0,0.22,231831.0,0.25
+TEJASNET,2021-02-10 13:04:00,2021-02-09,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,220089.0,0.24,190089.0,0.2
+TEJASNET,2021-02-15 15:25:00,2021-02-12,2021-02-11,2021-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,45000.0,0.0,0.0,0.0,0.0,190089.0,0.2,145089.0,0.16
+TEJASNET,2021-02-25 15:09:00,2021-02-24,2021-02-24,2021-02-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,145089.0,0.16,120089.0,0.13
+TEJASNET,2021-02-25 15:09:00,2021-02-24,2021-02-15,2021-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5087.0,0.0,0.0,0.0,0.0,12615.0,0.01,7528.0,0.01
+TEJASNET,2021-03-02 16:50:00,2021-03-02,2021-03-01,2021-03-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,100089.0,0.11,200089.0,0.22
+TEJASNET,2021-03-02 16:50:00,2021-02-26,2021-02-25,2021-02-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,120089.0,0.13,100089.0,0.11
+TEJASNET,2021-03-07 20:18:00,2021-03-05,2021-03-03,2021-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,331169.0,0.36,318669.0,0.34
+TEJASNET,2021-03-22 17:50:00,2021-03-22,2021-03-22,2021-03-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,78251.0,0.0,0.0,0.0,0.0,200089.0,0.22,278340.0,0.3
+TEJASNET,2021-03-23 19:58:00,2021-03-22,2021-03-22,2021-03-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,15000.0,0.0,0.0,0.0,0.0,154873.0,0.17,169873.0,0.18
+TEJASNET,2021-03-24 18:37:00,2021-03-24,2021-03-23,2021-03-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,73620.0,0.0,0.0,0.0,0.0,,0.0,73620.0,0.08
+TEJASNET,2021-03-24 18:37:00,2021-03-23,2021-03-22,2021-03-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,7528.0,0.01,12528.0,0.01
+TEJASNET,2021-04-30 21:36:00,2021-04-28,2021-04-27,2021-04-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,75000.0,0.0,0.0,0.0,0.0,278340.0,0.3,203340.0,0.22
+TEJASNET,2021-05-25 17:16:00,2021-05-22,2021-05-20,2021-05-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,75000.0,0.0,0.0,0.0,0.0,203340.0,0.22,128340.0,0.14
+TEJASNET,2021-05-27 22:12:00,2021-05-27,2021-05-27,2021-05-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,128340.0,0.14,228340.0,0.24
+TEJASNET,2021-05-27 22:12:00,2021-05-27,2021-05-27,2021-05-27,Key Managerial Personnel,ESOP,Buy,Equity Shares,3550.0,0.0,0.0,0.0,0.0,16004.0,0.02,19554.0,0.02
+TEJASNET,2021-06-03 23:55:00,2021-06-02,2021-05-26,2021-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,12636.0,0.01,5636.0,0.01
+TEJASNET,2021-06-08 00:31:00,2021-06-05,2021-06-03,2021-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14085.0,0.0,0.0,0.0,0.0,228340.0,0.24,214255.0,0.23
+TEJASNET,2021-06-23 16:28:00,2021-06-23,2021-06-23,2021-06-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,115745.0,0.0,0.0,0.0,0.0,214255.0,0.23,330000.0,0.35
+TEJASNET,2021-07-23 16:02:00,2021-07-21,2021-07-21,2021-07-21,Key Managerial Personnel,ESOP,Buy,Equity Shares,28332.0,0.0,0.0,0.0,0.0,268676.0,0.29,297008.0,0.32
+TEJASNET,2021-07-23 16:02:00,2021-07-21,2021-07-21,2021-07-21,Key Managerial Personnel,ESOP,Buy,Equity Shares,42941.0,0.0,0.0,0.0,0.0,2700529.0,2.88,2743470.0,2.93
+TEJASNET,2021-07-28 19:56:00,2021-07-26,2021-07-21,2021-07-21,Employees/Designated Employees,ESOP,Buy,Equity Shares,22493.0,0.0,0.0,0.0,0.0,6115.0,0.01,28608.0,0.03
+TEJASNET,2021-07-30 23:34:00,2021-07-30,2021-07-30,2021-07-30,Director,Market Sale,Sell,Equity Shares,400000.0,0.0,0.0,0.0,0.0,664200.0,0.71,264200.0,0.28
+TEJASNET,2021-07-30 23:34:00,2021-07-30,2021-07-30,2021-07-30,Director,Market Sale,Sell,Equity Shares,400000.0,0.0,0.0,0.0,0.0,2743470.0,2.93,2343470.0,2.5
+TEJASNET,2021-07-30 23:34:00,2021-07-30,2021-07-30,2021-07-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,400000.0,0.0,0.0,0.0,0.0,1853184.0,1.98,1453184.0,1.55
+TEJASNET,2021-08-13 19:58:00,2021-08-13,2021-08-11,2021-08-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,80709.0,0.09,74209.0,0.08
+TEJASNET,2021-08-13 19:58:00,2021-08-13,2021-08-11,2021-08-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,23672.0,0.03,19172.0,0.02
+TEJASNET,2021-08-13 19:58:00,2021-08-13,2021-08-11,2021-08-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,318669.0,0.34,268669.0,0.29
+TEJASNET,2021-08-13 19:58:00,2021-08-11,2021-08-11,2021-08-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,7223.0,0.01,4223.0,0.01
+TEJASNET,2021-08-18 09:54:00,2021-08-16,2021-08-13,2021-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,16300.0,0.02,11300.0,0.01
+TEJASNET,2021-08-18 09:54:00,2021-08-17,2021-08-12,2021-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,84897.0,0.09,77897.0,0.08
+TEJASNET,2021-08-18 09:54:00,2021-08-17,2021-08-09,2021-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5100.0,0.0,0.0,0.0,0.0,25931.0,0.03,20831.0,0.02
+TEJASNET,2021-08-18 09:54:00,2021-08-17,2021-08-11,2021-08-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,35238.0,0.04,28238.0,0.03
+TEJASNET,2021-08-24 20:48:00,2021-08-20,2021-08-18,2021-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,45104.0,0.05,40104.0,0.04
+TEJASNET,2021-08-24 20:48:00,2021-08-22,2021-08-11,2021-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3100.0,0.0,0.0,0.0,0.0,14350.0,0.02,11250.0,0.01
+TEJASNET,2021-08-24 20:48:00,2021-08-24,2021-08-23,2021-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8600.0,0.0,0.0,0.0,0.0,15959.0,0.02,7359.0,0.01
+TEJASNET,2021-08-24 20:48:00,2021-08-23,2021-08-09,2021-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5100.0,0.0,0.0,0.0,0.0,25931.0,0.03,20831.0,0.02
+TEJASNET,2021-08-24 20:48:00,2021-08-23,2021-08-18,2021-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,77897.0,0.08,75897.0,0.08
+TEJASNET,2021-08-24 20:48:00,2021-08-20,2021-08-12,2021-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11000.0,0.0,0.0,0.0,0.0,68926.0,0.07,57926.0,0.06
+TEJASNET,2021-08-24 20:48:00,2021-08-23,2021-08-11,2021-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13524.0,0.0,0.0,0.0,0.0,78500.0,0.08,64976.0,0.07
+TEJASNET,2021-08-24 20:48:00,2021-08-23,2021-08-18,2021-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,140000.0,0.15,120000.0,0.13
+TEJASNET,2021-08-30 19:44:00,2021-08-27,2021-08-25,2021-08-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,80738.0,0.09,79738.0,0.09
+TEJASNET,2021-08-30 19:44:00,2021-08-30,2021-08-27,2021-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,164373.0,0.18,163373.0,0.17
+TEJASNET,2021-08-30 19:44:00,2021-08-27,2021-08-25,2021-08-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,77500.0,0.08,67500.0,0.07
+TEJASNET,2021-08-30 19:44:00,2021-08-27,2021-08-16,2021-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,169873.0,0.18,164373.0,0.18
+TEJASNET,2021-09-02 14:05:00,2021-09-01,2021-08-27,2021-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1008.0,0.0,0.0,0.0,0.0,75897.0,0.08,74889.0,0.09
+TEJASNET,2021-09-02 14:05:00,2021-09-01,2021-08-23,2021-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,44500.0,0.05,34500.0,0.04
+TEJASNET,2021-09-02 14:05:00,2021-09-02,2021-08-30,2021-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,67500.0,0.07,57500.0,0.06
+TEJASNET,2021-09-02 14:05:00,2021-09-02,2021-08-23,2021-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11485.0,0.0,0.0,0.0,0.0,16485.0,0.02,5000.0,0.01
+TEJASNET,2021-09-08 13:14:00,2021-09-06,2021-09-06,2021-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,57500.0,0.06,47500.0,0.05
+TEJASNET,2021-09-08 13:14:00,2021-09-08,2021-09-06,2021-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,79738.0,0.09,73738.0,0.08
+TEJASNET,2021-09-09 20:08:00,2021-09-09,2021-09-06,2021-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,74889.0,0.08,70389.0,0.08
+TEJASNET,2021-09-09 20:08:00,2021-09-08,2021-08-27,2021-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,23053.0,0.02,13053.0,0.01
+TEJASNET,2021-09-09 20:08:00,2021-09-08,2021-09-06,2021-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,163373.0,0.17,158873.0,0.17
+TEJASNET,2021-09-15 23:02:00,2021-09-14,2021-09-08,2021-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,70389.0,0.08,63889.0,0.07
+TEJASNET,2021-09-15 23:02:00,2021-09-11,2021-09-08,2021-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,158873.0,0.17,150873.0,0.16
+TEJASNET,2021-09-15 23:02:00,2021-09-15,2021-09-08,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2262.0,0.0,0.0,0.0,0.0,35127.0,0.04,32865.0,0.04
+TEJASNET,2021-09-15 23:02:00,2021-09-14,2021-09-07,2021-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1550.0,0.0,0.0,0.0,0.0,20831.0,0.02,19281.0,0.02
+TEJASNET,2021-09-15 23:02:00,2021-09-15,2021-09-08,2021-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,26457.0,0.03,16457.0,0.02
+TEJASNET,2021-09-15 23:02:00,2021-09-14,2021-09-13,2021-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4223.0,0.0,3223.0,0.0
+TEJASNET,2021-09-15 23:02:00,2021-09-15,2021-09-13,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,115665.0,0.12,110665.0,0.12
+TEJASNET,2021-09-21 23:52:00,2021-09-17,2021-09-14,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4350.0,0.0,0.0,0.0,0.0,14350.0,0.01,10000.0,0.01
+TEJASNET,2021-09-21 23:52:00,2021-09-19,2021-09-14,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6874.0,0.01,3874.0,0.0
+TEJASNET,2021-09-21 23:52:00,2021-09-16,2021-08-23,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7042.0,0.0,0.0,0.0,0.0,32615.0,0.03,25573.0,0.02
+TEJASNET,2021-09-21 23:52:00,2021-09-20,2021-09-06,2021-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3211.0,0.0,0.0,0.0,0.0,20776.0,0.02,17565.0,0.02
+TEJASNET,2021-09-21 23:52:00,2021-09-16,2021-09-09,2021-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,34950.0,0.03,31950.0,0.03
+TEJASNET,2021-09-28 21:46:00,2021-09-27,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,15293.0,0.0,0.0,0.0,0.0,110665.0,0.1,125958.0,0.11
+TEJASNET,2021-09-28 21:46:00,2021-09-28,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,9875.0,0.0,0.0,0.0,0.0,57926.0,0.05,67801.0,0.06
+TEJASNET,2021-09-28 21:46:00,2021-09-28,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,31950.0,0.03,32950.0,0.03
+TEJASNET,2021-09-28 21:46:00,2021-09-25,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,14500.0,0.0,0.0,0.0,0.0,150873.0,0.13,165373.0,0.15
+TEJASNET,2021-09-28 21:46:00,2021-09-27,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,16298.0,0.0,0.0,0.0,0.0,16992.0,0.01,33290.0,0.03
+TEJASNET,2021-09-28 21:46:00,2021-09-27,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,19869.0,0.0,0.0,0.0,0.0,1597.0,0.0,21466.0,0.02
+TEJASNET,2021-09-28 21:46:00,2021-09-27,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,8012.0,0.0,0.0,0.0,0.0,17565.0,0.02,25577.0,0.02
+TEJASNET,2021-09-28 21:46:00,2021-09-25,2021-09-24,2021-09-24,Director,ESOP,Buy,Equity Shares,340000.0,0.0,0.0,0.0,0.0,264200.0,0.23,604200.0,0.53
+TEJASNET,2021-09-28 21:46:00,2021-09-27,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,829.0,0.0,0.0,0.0,0.0,74209.0,0.07,75038.0,0.07
+TEJASNET,2021-09-28 21:46:00,2021-09-27,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,13603.0,0.0,0.0,0.0,0.0,67738.0,0.06,81341.0,0.07
+TEJASNET,2021-09-28 21:46:00,2021-09-27,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,23345.0,0.0,0.0,0.0,0.0,63889.0,0.06,87234.0,0.08
+TEJASNET,2021-09-28 21:46:00,2021-09-28,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,12971.0,0.0,0.0,0.0,0.0,25573.0,0.02,38544.0,0.03
+TEJASNET,2021-09-28 21:46:00,2021-09-27,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,5938.0,0.0,0.0,0.0,0.0,11050.0,0.01,16988.0,0.01
+TEJASNET,2021-09-28 21:46:00,2021-09-26,2021-09-07,2021-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,11250.0,0.01,11050.0,0.01
+TEJASNET,2021-09-28 21:46:00,2021-09-27,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,5618.0,0.0,0.0,0.0,0.0,114211.0,0.1,119829.0,0.11
+TEJASNET,2021-09-28 21:46:00,2021-09-25,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,1007.0,0.0,0.0,0.0,0.0,19554.0,0.02,20561.0,0.02
+TEJASNET,2021-11-29 18:17:00,2021-11-26,2021-11-24,2021-11-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,17800.0,0.0,0.0,0.0,0.0,22953.0,0.02,40753.0,0.04
+TEJASNET,2021-12-15 21:10:00,2021-12-14,2021-08-18,2021-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,101890.0,0.0,0.0,0.0,0.0,135873.0,0.12,33983.0,0.03
+TEJASNET,2021-12-15 21:10:00,2021-12-15,2021-12-07,2021-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,170388.0,0.15,166388.0,0.15
+TEJASNET,2021-12-20 14:11:00,2021-12-20,2021-12-14,2021-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3063.0,0.0,0.0,0.0,0.0,5000.0,0.0,1937.0,0.0
+TEJASNET,2021-12-20 14:11:00,2021-12-17,2021-12-14,2021-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,18952.0,0.0,0.0,0.0,0.0,268669.0,0.24,249717.0,0.22
+TEJASNET,2021-12-28 15:25:00,2021-12-27,2021-12-23,2021-12-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,2700.0,0.0,0.0,0.0,0.0,40753.0,0.04,43453.0,0.04
+TEJASNET,2021-12-28 15:25:00,2021-12-27,2021-12-23,2021-12-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,23027.0,0.0,0.0,0.0,0.0,33983.0,0.03,57010.0,0.05
+TEJASNET,2021-12-30 16:18:00,2021-12-28,2021-12-23,2021-12-23,Other,ESOP,Buy,Equity Shares,24200.0,0.0,0.0,0.0,0.0,300.0,0.0,24500.0,0.02
+TEJASNET,2022-02-11 15:14:00,2022-02-08,2022-02-04,2022-02-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,166388.0,0.15,161888.0,0.14
+TEJASNET,2022-02-24 16:27:00,2022-02-24,2022-02-24,2022-02-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,25000.0,0.0,0.0,0.0,0.0,57010.0,0.05,82010.0,0.07
+TEJASNET,2022-02-24 16:27:00,2022-02-24,2022-02-24,2022-02-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,153526.0,0.0,0.0,0.0,0.0,,0.0,153526.0,0.13
+TEJASNET,2022-03-24 15:07:00,2022-03-23,2022-03-23,2022-03-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,79545.0,0.0,0.0,0.0,0.0,82010.0,0.07,161555.0,0.14
+TEJASNET,2022-03-24 15:07:00,2022-03-23,2022-03-23,2022-03-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,14546.0,0.0,0.0,0.0,0.0,95032.0,0.08,109578.0,0.1
+TEJASNET,2022-04-12 16:03:00,2022-04-11,2022-04-08,2022-04-08,Promoters,Off Market,Buy,Equity Shares,36821706.0,0.0,0.0,0.0,0.0,42580104.0,37.17,79401810.0,52.45
+TEJASNET,2022-05-30 15:30:00,2022-05-27,2022-05-26,2022-05-26,Key Managerial Personnel,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,20561.0,0.01,21561.0,0.01
+TEJASNET,2022-06-09 23:03:00,2022-06-08,2022-04-29,2022-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,159388.0,0.11,153388.0,0.1
+TEJASNET,2022-06-13 14:04:00,2022-06-12,2022-06-09,2022-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,153388.0,0.1,149888.0,0.1
+TEJASNET,2022-06-13 14:04:00,2022-06-10,2022-05-13,2022-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3300.0,0.0,0.0,0.0,0.0,3363.0,0.0,63.0,0.0
+TEJASNET,2022-06-20 18:07:00,2022-06-16,2022-06-14,2022-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2223.0,0.0,0.0,0.0,0.0,3223.0,0.0,1000.0,0.0
+TEJASNET,2022-06-27 18:33:00,2022-06-25,2022-06-24,2022-06-24,Key Managerial Personnel,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,21561.0,0.01,22561.0,0.01
+TEJASNET,2022-07-28 17:10:00,2022-07-26,2022-07-25,2022-07-25,Key Managerial Personnel,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,22561.0,0.01,23561.0,0.02
+TEJASNET,2022-08-08 18:21:00,2022-08-05,2022-07-29,2022-08-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,20253.0,0.01,17253.0,0.01
+TEJASNET,2022-08-12 16:24:00,2022-08-10,2022-08-08,2022-08-08,Director,Market Sale,Sell,Equity Shares,5017.0,0.0,0.0,0.0,0.0,604200.0,0.4,599183.0,0.4
+TEJASNET,2022-08-19 15:03:00,2022-08-18,2022-08-18,2022-08-18,Director,Market Sale,Sell,Equity Shares,3955.0,0.0,0.0,0.0,0.0,553138.0,0.36,549183.0,0.36
+TEJASNET,2022-08-19 15:03:00,2022-08-18,2022-08-17,2022-08-17,Director,Market Sale,Sell,Equity Shares,46045.0,0.0,0.0,0.0,0.0,599183.0,0.4,553138.0,0.36
+TEJASNET,2022-08-19 16:50:00,2022-08-19,2022-08-19,2022-08-19,Director,Market Sale,Sell,Equity Shares,44983.0,0.0,0.0,0.0,0.0,549183.0,0.36,504200.0,0.33
+TEJASNET,2022-08-24 13:22:00,2022-08-22,2022-08-19,2022-08-19,Director,Market Sale,Sell,Equity Shares,60000.0,0.0,0.0,0.0,0.0,2343470.0,1.55,2283470.0,1.51
+TEJASNET,2022-08-24 13:27:00,2022-08-22,2022-08-22,2022-08-22,Director,Market Sale,Sell,Equity Shares,40117.0,0.0,0.0,0.0,0.0,2283470.0,1.51,2243353.0,1.48
+TEJASNET,2022-08-24 13:31:00,2022-08-23,2022-08-23,2022-08-23,Director,Market Sale,Sell,Equity Shares,5489.0,0.0,0.0,0.0,0.0,2243353.0,1.48,2237864.0,1.48
+TEJASNET,2022-08-24 13:39:00,2022-08-24,2022-08-23,2022-08-23,Director,ESOP,Buy,Equity Shares,172920.0,0.0,0.0,0.0,0.0,2237864.0,1.47,2410784.0,1.59
+TEJASNET,2022-08-24 15:02:00,2022-08-22,2022-08-22,2022-08-22,Director,Market Sale,Sell,Equity Shares,65904.0,0.0,0.0,0.0,0.0,504200.0,0.33,438296.0,0.29
+TEJASNET,2022-08-24 15:06:00,2022-08-23,2022-08-23,2022-08-23,Director,Market Sale,Sell,Equity Shares,34096.0,0.0,0.0,0.0,0.0,438296.0,0.29,404200.0,0.27
+TEJASNET,2022-08-24 17:56:00,2022-08-22,2022-08-19,2022-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14984.0,0.0,0.0,0.0,0.0,1453184.0,0.96,1438200.0,0.95
+TEJASNET,2022-08-24 18:03:00,2022-08-22,2022-08-22,2022-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2020.0,0.0,0.0,0.0,0.0,1438200.0,0.95,1436180.0,0.95
+TEJASNET,2022-08-24 18:11:00,2022-08-23,2022-08-23,2022-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,49854.0,0.0,0.0,0.0,0.0,1436180.0,0.95,1386326.0,0.91
+TEJASNET,2022-08-25 14:56:00,2022-08-24,2022-08-24,2022-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,121143.0,0.0,0.0,0.0,0.0,1386326.0,0.91,1265183.0,0.83
+TEJASNET,2022-08-25 15:10:00,2022-08-24,2022-08-24,2022-08-24,Director,Market Sale,Sell,Equity Shares,50914.0,0.0,0.0,0.0,0.0,404200.0,0.27,353286.0,0.23
+TEJASNET,2022-08-25 21:49:00,2022-08-25,2022-08-25,2022-08-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11999.0,0.0,0.0,0.0,0.0,1265183.0,0.83,1253184.0,0.83
+TEJASNET,2022-08-29 16:05:00,2022-08-26,2022-08-26,2022-08-26,-,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,1253184.0,0.83,1203184.0,0.79
+TEJASNET,2022-08-29 16:47:00,2022-08-29,2022-08-26,2022-08-26,Director,Market Sale,Sell,Equity Shares,13286.0,0.0,0.0,0.0,0.0,353286.0,0.23,340000.0,0.22
+TEJASNET,2022-09-07 12:26:00,2022-09-06,2022-08-22,2022-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,18000.0,0.0,0.0,0.0,0.0,149888.0,0.1,131888.0,0.09
+TEJASNET,2022-09-07 12:37:00,2022-09-05,2022-09-05,2022-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1203184.0,0.79,1198184.0,0.79
+TEJASNET,2022-09-14 23:20:00,2022-09-12,2022-09-07,2022-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,131888.0,0.09,130688.0,0.09
+TEJASNET,2022-09-14 23:20:00,2022-09-12,2022-09-08,2022-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,42708.0,0.03,39708.0,0.03
+TEJASNET,2022-09-15 16:34:00,2022-09-13,2022-09-12,2022-09-12,Director,Market Sale,Sell,Equity Shares,40735.0,0.0,0.0,0.0,0.0,2410784.0,1.59,2370049.0,1.56
+TEJASNET,2022-09-15 16:42:00,2022-09-13,2022-09-13,2022-09-13,Director,Market Sale,Sell,Equity Shares,46892.0,0.0,0.0,0.0,0.0,2370049.0,1.56,2323157.0,1.53
+TEJASNET,2022-09-15 16:48:00,2022-09-15,2022-09-14,2022-09-14,Director,Market Sale,Sell,Equity Shares,19265.0,0.0,0.0,0.0,0.0,2323157.0,1.53,2303892.0,1.52
+TEJASNET,2022-09-15 16:55:00,2022-09-15,2022-09-15,2022-09-15,Director,ESOP,Buy,Equity Shares,290000.0,0.0,0.0,0.0,0.0,2303892.0,1.52,2593892.0,1.71
+TEJASNET,2022-09-15 17:01:00,2022-09-15,2022-09-15,2022-09-15,Key Managerial Personnel,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,23561.0,0.02,24561.0,0.02
+TEJASNET,2022-09-15 17:01:00,2022-09-15,2022-09-15,2022-09-15,Key Managerial Personnel,ESOP,Buy,Equity Shares,17280.0,0.0,0.0,0.0,0.0,297008.0,0.2,314288.0,0.21
+TEJASNET,2022-09-15 17:36:00,2022-09-15,2022-09-14,2022-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,192919.0,0.13,187919.0,0.12
+TEJASNET,2022-10-21 19:18:00,2022-10-21,2022-10-21,2022-10-21,Director,ESOP,Buy,Equity Shares,24921.0,0.0,0.0,0.0,0.0,2593892.0,1.71,2618813.0,1.72
+TEJASNET,2022-10-21 19:18:00,2022-10-21,2022-10-21,2022-10-21,Key Managerial Personnel,ESOP,Buy,Equity Shares,1277.0,0.0,0.0,0.0,0.0,24561.0,0.02,25838.0,0.02
+TEJASNET,2022-11-24 15:28:00,2022-11-23,2022-11-23,2022-11-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,49076.0,0.0,0.0,0.0,0.0,1198184.0,0.79,1247260.0,0.82
+TEJASNET,2022-11-24 15:28:00,2022-11-23,2022-11-23,2022-11-23,Director,ESOP,Buy,Equity Shares,400000.0,0.0,0.0,0.0,0.0,2618813.0,1.72,3018813.0,1.98
+TEJASNET,2022-11-24 18:14:00,2022-11-23,2022-11-23,2022-11-23,Key Managerial Personnel,ESOP,Buy,Equity Shares,737.0,0.0,0.0,0.0,0.0,25838.0,0.02,26575.0,0.02
+TEJASNET,2022-12-09 15:43:00,2022-12-07,2022-12-06,2022-12-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3224.0,0.0,0.0,0.0,0.0,52724.0,0.03,49500.0,0.03
+TEJASNET,2022-12-23 13:53:00,2022-12-23,2022-12-22,2022-12-22,Director,ESOP,Buy,Equity Shares,40000.0,0.0,0.0,0.0,0.0,3018813.0,1.98,3058813.0,2.0
+TEJASNET,2022-12-23 13:53:00,2022-12-23,2022-12-14,2022-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,73234.0,0.05,70234.0,0.05
+TEJASNET,2023-02-07 18:08:00,2023-02-07,2023-02-06,2023-02-06,Promoters,Off Market,Buy,Equity Shares,15503876.0,0.0,0.0,0.0,0.0,79401810.0,51.96,94905686.0,56.38
+TEJASNET,2023-03-23 16:36:00,2023-03-22,2023-03-21,2023-03-21,Key Managerial Personnel,ESOP,Buy,Equity Shares,148.0,0.0,0.0,0.0,0.0,9153.0,0.01,9301.0,0.01
+TEJASNET,2023-03-23 16:52:00,2023-03-22,2023-03-21,2023-03-21,Key Managerial Personnel,ESOP,Buy,Equity Shares,148.0,0.0,0.0,0.0,0.0,26575.0,0.02,26723.0,0.02
+TEJASNET,2023-04-24 14:14:00,2023-04-22,2023-04-21,2023-04-21,Director,ESOP,Buy,Equity Shares,9845.0,0.0,0.0,0.0,0.0,3058813.0,1.82,3068658.0,1.82
+TEJASNET,2023-04-28 12:49:00,2023-04-27,2023-04-27,2023-04-27,Director,Market Sale,Sell,Equity Shares,26586.0,0.0,0.0,0.0,0.0,334365.0,0.2,307779.0,0.18
+TEJASNET,2023-04-28 12:49:00,2023-04-27,2023-04-26,2023-04-26,Director,Market Sale,Sell,Equity Shares,5635.0,0.0,0.0,0.0,0.0,340000.0,0.2,334365.0,0.2
+TEJASNET,2023-04-30 17:28:00,2023-04-28,2023-04-28,2023-04-28,Director,Market Sale,Sell,Equity Shares,112873.0,0.0,0.0,0.0,0.0,307779.0,0.18,194906.0,0.12
+TEJASNET,2023-05-02 13:43:00,2023-04-29,2023-04-28,2023-04-28,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,3068658.0,1.82,3018658.0,1.79
+TEJASNET,2023-05-04 17:23:00,2023-05-03,2023-05-02,2023-05-02,Director,Market Sale,Sell,Equity Shares,11126.0,0.0,0.0,0.0,0.0,194906.0,0.12,183780.0,0.11
+TEJASNET,2023-05-15 17:42:00,2023-05-13,2023-05-12,2023-05-12,Director,Market Sale,Sell,Equity Shares,122727.0,0.0,0.0,0.0,0.0,183780.0,0.11,61053.0,0.04
+TEJASNET,2023-05-15 18:25:00,2023-05-15,2023-05-15,2023-05-15,Key Managerial Personnel,ESOP,Buy,Equity Shares,19003.0,0.0,0.0,0.0,0.0,314288.0,0.19,333291.0,0.2
+TEJASNET,2023-05-15 18:25:00,2023-05-15,2023-05-15,2023-05-15,Director,ESOP,Buy,Equity Shares,37500.0,0.0,0.0,0.0,0.0,3018658.0,1.79,3056158.0,1.81
+TEJASNET,2023-05-15 18:25:00,2023-05-15,2023-05-15,2023-05-15,Director,ESOP,Buy,Equity Shares,659111.0,0.0,0.0,0.0,0.0,61053.0,0.04,720164.0,0.43
+TEJASNET,2023-05-17 19:43:00,2023-05-17,2023-05-15,2023-05-15,Director,Market Sale,Sell,Equity Shares,128.0,0.0,0.0,0.0,0.0,720164.0,0.43,720036.0,0.43
+TEJASNET,2023-05-25 19:45:00,2023-05-25,2023-05-23,2023-05-23,Director,Market Sale,Sell,Equity Shares,60925.0,0.0,0.0,0.0,0.0,720036.0,0.43,659111.0,0.39
+TEJASNET,2023-05-25 20:20:00,2023-05-25,2023-05-24,2023-05-24,Key Managerial Personnel,ESOP,Buy,Equity Shares,2149.0,0.0,0.0,0.0,0.0,26723.0,0.02,28872.0,0.02
+TEJASNET,2023-05-25 20:20:00,2023-05-25,2023-05-24,2023-05-24,Director,ESOP,Buy,Equity Shares,59425.0,0.0,0.0,0.0,0.0,659111.0,0.39,718536.0,0.42
+TEJASNET,2023-05-29 14:19:00,2023-05-27,2023-05-25,2023-05-25,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,3056158.0,1.81,3006158.0,1.78
+TEJASNET,2023-05-30 19:43:00,2023-05-28,2023-05-26,2023-05-26,Director,Market Sale,Sell,Equity Shares,1256.0,0.0,0.0,0.0,0.0,3006158.0,1.78,3004902.0,1.78
+TEJASNET,2023-06-05 18:20:00,2023-06-02,2023-05-31,2023-05-31,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,3004902.0,1.78,2954902.0,1.75
+TEJASNET,2023-06-11 19:19:00,2023-06-10,2023-06-09,2023-06-09,Director,Market Sale,Sell,Equity Shares,9632.0,0.0,0.0,0.0,0.0,2904902.0,1.72,2895270.0,1.71
+TEJASNET,2023-06-11 19:19:00,2023-06-09,2023-06-07,2023-06-07,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,2954902.0,1.75,2904902.0,1.72
+TEJASNET,2023-06-15 13:07:00,2023-06-15,2023-06-13,2023-06-14,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,718536.0,0.42,668536.0,0.39
+TEJASNET,2023-06-15 13:07:00,2023-06-15,2023-06-14,2023-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,31596.0,0.0,0.0,0.0,0.0,1247260.0,0.74,1215664.0,0.72
+TEJASNET,2023-06-16 13:05:00,2023-06-15,2023-06-13,2023-06-13,Director,Market Sale,Sell,Equity Shares,30868.0,0.0,0.0,0.0,0.0,2895270.0,1.71,2864402.0,1.69
+TEJASNET,2023-06-28 21:59:00,2023-06-27,2023-06-26,2023-06-26,Director,ESOP,Buy,Equity Shares,288804.0,0.0,0.0,0.0,0.0,668536.0,0.39,957340.0,0.56
+TEJASNET,2023-08-18 12:33:00,2023-08-17,2023-08-17,2023-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,19368.0,0.0,0.0,0.0,0.0,1215664.0,0.72,1196296.0,0.71
+TEJASNET,2023-08-21 19:25:00,2023-08-19,2023-08-17,2023-08-18,Director,Market Sale,Sell,Equity Shares,45162.0,0.0,0.0,0.0,0.0,2864402.0,1.69,2819240.0,1.66
+TEJASNET,2023-08-21 19:25:00,2023-08-19,2023-08-18,2023-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9174.0,0.0,0.0,0.0,0.0,1196296.0,0.71,1187122.0,0.7
+TEJASNET,2023-08-24 15:06:00,2023-08-23,2023-08-22,2023-08-22,Director,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,985012.0,0.58,885012.0,0.52
+TEJASNET,2023-08-24 15:06:00,2023-08-23,2023-08-22,2023-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40312.0,0.0,0.0,0.0,0.0,1187122.0,0.7,1146810.0,0.68
+TEJASNET,2023-08-24 15:06:00,2023-08-23,2023-08-22,2023-08-22,Key Managerial Personnel,ESOP,Buy,Equity Shares,1589.0,0.0,0.0,0.0,0.0,28872.0,0.02,30461.0,0.02
+TEJASNET,2023-08-24 15:06:00,2023-08-23,2023-08-22,2023-08-22,Key Managerial Personnel,ESOP,Buy,Equity Shares,7716.0,0.0,0.0,0.0,0.0,333291.0,0.2,341007.0,0.2
+TEJASNET,2023-08-24 17:34:00,2023-08-24,2023-08-23,2023-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2549.0,0.0,0.0,0.0,0.0,1146810.0,0.68,1144261.0,0.67
+TEJASNET,2023-08-28 15:39:00,2023-08-26,2023-08-25,2023-08-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12603.0,0.0,0.0,0.0,0.0,1144261.0,0.67,1131658.0,0.67
+TEJASNET,2023-08-28 15:39:00,2023-08-26,2023-08-24,2023-08-25,Director,Market Sale,Sell,Equity Shares,81335.0,0.0,0.0,0.0,0.0,885012.0,0.52,803677.0,0.47
+TEJASNET,2023-09-01 23:43:00,2023-08-31,2023-08-31,2023-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,29398.0,0.0,0.0,0.0,0.0,1131658.0,0.67,1102260.0,0.65
+TEJASNET,2023-09-01 23:43:00,2023-08-30,2023-08-28,2023-08-28,Director,Market Sale,Sell,Equity Shares,18665.0,0.0,0.0,0.0,0.0,803677.0,0.47,785012.0,0.46
+TEJASNET,2023-09-11 21:44:00,2023-09-11,2023-09-08,2023-09-08,Director,Market Sale,Sell,Equity Shares,25076.0,0.0,0.0,0.0,0.0,785012.0,0.46,759936.0,0.45
+TEJASNET,2023-09-13 17:38:00,2023-09-12,2023-08-21,2023-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13000.0,0.0,0.0,0.0,0.0,130188.0,0.08,117188.0,0.7
+TEJASNET,2023-09-13 17:38:00,2023-09-12,2023-09-11,2023-09-11,Director,Market Sale,Sell,Equity Shares,74924.0,0.0,0.0,0.0,0.0,759936.0,0.45,685012.0,0.4
+TEJASNET,2023-09-13 17:38:00,2023-09-11,2023-09-04,2023-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,37709.0,0.02,32709.0,0.02
+TEJASNET,2023-12-12 14:23:00,2023-12-11,2023-12-08,2023-12-08,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,685012.0,0.4,635012.0,0.37
+TEJASNET,2024-02-18 11:57:00,2024-02-17,2024-02-15,2024-02-15,Director,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,635012.0,0.37,535012.0,0.31
+TEJASNET,2024-02-22 20:37:00,2024-02-22,2024-02-21,2024-02-21,Director,ESOP,Buy,Equity Shares,205500.0,0.0,0.0,0.0,0.0,535012.0,0.31,740512.0,0.43
+TEJASNET,2024-04-24 19:25:00,2024-04-23,2024-04-22,2024-04-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,84667.0,0.0,0.0,0.0,0.0,10000.0,0.01,94667.0,0.06
+TEJASNET,2024-05-01 13:41:00,2024-04-30,2024-04-29,2024-04-29,Director,Market Sale,Sell,Equity Shares,247000.0,0.0,0.0,0.0,0.0,740512.0,0.43,493512.0,0.29
+TEJASNET,2024-05-01 16:47:00,2024-04-30,2024-04-26,2024-04-29,Director,Market Sale,Sell,Equity Shares,400000.0,0.0,0.0,0.0,0.0,740512.0,0.43,340512.0,0.2
+TEJASNET,2024-05-02 16:34:00,2024-04-27,2024-04-25,2024-04-25,Other,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2486.0,0.0,1486.0,0.0
+TEJASNET,2024-05-02 16:34:00,2024-04-27,2024-04-25,2024-04-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,51583.0,0.03,49783.0,0.03
+TEJASNET,2024-05-02 16:34:00,2024-04-27,2024-04-25,2024-04-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+TEJASNET,2024-05-02 16:34:00,2024-04-27,2024-04-25,2024-04-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1144.0,0.0,0.0,0.0,0.0,4144.0,0.0,3000.0,0.0
+TEJASNET,2024-05-02 16:34:00,2024-04-28,2024-04-25,2024-04-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,9406.0,0.01,6906.0,0.0
+TEJASNET,2024-05-02 16:34:00,2024-04-27,2024-04-26,2024-04-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,34245.0,0.02,24245.0,0.01
+TEJASNET,2024-05-02 16:34:00,2024-04-27,2024-04-25,2024-04-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3828.0,0.0,0.0,0.0,0.0,3828.0,0.0,,0.0
+TEJASNET,2024-05-02 16:34:00,2024-04-27,2024-04-25,2024-04-25,Other,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1421.0,0.0,421.0,0.0
+TEJASNET,2024-05-02 16:34:00,2024-04-27,2024-04-25,2024-04-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,146426.0,0.09,136426.0,0.08
+TEJASNET,2024-05-02 17:20:00,2024-04-29,2024-04-25,2024-04-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,75234.0,0.04,73234.0,0.04
+TEJASNET,2024-05-02 17:20:00,2024-04-29,2024-04-25,2024-04-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,5367.0,0.0,867.0,0.0
+TEJASNET,2024-05-02 17:20:00,2024-04-30,2024-04-25,2024-04-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5197.0,0.0,0.0,0.0,0.0,13257.0,0.01,8060.0,0.0
+TEJASNET,2024-05-02 17:20:00,2024-04-30,2024-04-29,2024-04-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,136426.0,0.08,126426.0,0.07
+TEJASNET,2024-05-02 17:20:00,2024-04-30,2024-04-29,2024-04-29,Other,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1486.0,0.0,986.0,0.0
+TEJASNET,2024-05-02 17:20:00,2024-04-29,2024-04-25,2024-04-25,Other,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,1431.0,0.0,31.0,0.0
+TEJASNET,2024-05-02 17:20:00,2024-04-29,2024-04-26,2024-04-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,64128.0,0.04,54128.0,0.03
+TEJASNET,2024-05-02 17:20:00,2024-04-30,2024-04-25,2024-04-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,25700.0,0.02,23300.0,0.01
+TEJASNET,2024-05-05 22:21:00,2024-05-02,2024-04-29,2024-04-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,73234.0,0.04,68234.0,0.04
+TEJASNET,2024-05-05 22:21:00,2024-05-02,2024-04-30,2024-04-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,191825.0,0.11,171825.0,0.1
+TEJASNET,2024-05-05 22:21:00,2024-05-02,2024-04-26,2024-04-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,18600.0,0.01,17000.0,0.01
+TEJASNET,2024-05-05 22:21:00,2024-05-02,2024-04-26,2024-04-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,70204.0,0.04,60204.0,0.03
+TEJASNET,2024-05-05 22:21:00,2024-05-02,2024-04-26,2024-04-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,24015.0,0.01,19015.0,0.01
+TEJASNET,2024-05-05 22:21:00,2024-05-04,2024-04-29,2024-04-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1111.0,0.0,0.0,0.0,0.0,130706.0,0.08,129595.0,0.08
+TEJASNET,2024-05-05 22:21:00,2024-05-04,2024-04-30,2024-05-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2729.0,0.0,0.0,0.0,0.0,49395.0,0.03,46666.0,0.03
+TEJASNET,2024-05-05 22:21:00,2024-05-02,2024-04-29,2024-04-30,Other,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1700.0,0.0,200.0,0.0
+TEJASNET,2024-05-05 22:21:00,2024-05-01,2024-04-29,2024-04-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,79341.0,0.05,74341.0,0.04
+TEJASNET,2024-05-05 22:21:00,2024-05-04,2024-05-02,2024-05-02,Director,Market Sale,Sell,Equity Shares,83000.0,0.0,0.0,0.0,0.0,340512.0,0.2,257512.0,0.15
+TEJASNET,2024-05-05 22:21:00,2024-05-04,2024-04-29,2024-05-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8783.0,0.0,0.0,0.0,0.0,49783.0,0.03,41000.0,0.02
+TEJASNET,2024-05-06 19:14:00,2024-05-05,2024-05-03,2024-05-03,Director,Market Sale,Sell,Equity Shares,17000.0,0.0,0.0,0.0,0.0,257512.0,0.15,240512.0,0.14
+TEJASNET,2024-05-17 00:15:00,2024-05-14,2024-04-29,2024-05-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8500.0,0.0,0.0,0.0,0.0,110414.0,0.06,101914.0,0.06
+TEJASNET,2024-05-17 00:15:00,2024-05-09,2024-04-25,2024-05-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,18522.0,0.01,13522.0,0.01
+TEJASNET,2024-05-17 00:15:00,2024-05-10,2024-05-08,2024-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,27124.0,0.02,25624.0,0.02
+TEJASNET,2024-05-17 00:15:00,2024-05-07,2024-04-29,2024-04-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1650.0,0.0,0.0,0.0,0.0,2750.0,0.0,1100.0,0.0
+TEJASNET,2024-05-17 00:15:00,2024-05-16,2024-05-07,2024-05-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4260.0,0.0,0.0,0.0,0.0,46666.0,0.03,42406.0,0.02
+TEJASNET,2024-05-17 00:15:00,2024-05-07,2024-04-30,2024-04-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,131600.0,0.08,126600.0,0.07
+TEJASNET,2024-05-17 00:15:00,2024-05-06,2024-04-30,2024-04-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,65356.0,0.04,63356.0,0.04
+TEJASNET,2024-05-17 00:15:00,2024-05-14,2024-05-10,2024-05-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10500.0,0.0,0.0,0.0,0.0,41000.0,0.02,30500.0,0.02
+TEJASNET,2024-05-17 00:15:00,2024-05-09,2024-05-07,2024-05-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,34735.0,0.02,24735.0,0.01
+TEJASNET,2024-05-17 15:11:00,2024-05-07,2024-04-25,2024-05-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,62173.0,0.04,52173.0,0.03
+TEJASNET,2024-05-17 15:11:00,2024-05-11,2024-05-07,2024-05-10,Other,Market Sale,Sell,Equity Shares,986.0,0.0,0.0,0.0,0.0,986.0,0.0,,0.0
+TEJASNET,2024-05-17 15:11:00,2024-05-15,2024-05-14,2024-05-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,68234.0,0.04,66234.0,0.04
+TEJASNET,2024-05-17 15:11:00,2024-05-13,2024-05-10,2024-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,53011.0,0.03,52011.0,0.03
+TEJASNET,2024-05-17 15:11:00,2024-05-16,2024-04-29,2024-04-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,58000.0,0.03,50500.0,0.03
+TEJASNET,2024-05-21 14:49:00,2024-05-20,2024-05-16,2024-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,32777.0,0.02,22777.0,0.01
+TEJASNET,2024-05-21 14:49:00,2024-05-17,2024-05-16,2024-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,52011.0,0.03,51611.0,0.03
+TEJASNET,2024-05-21 14:49:00,2024-05-19,2024-05-17,2024-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,42406.0,0.02,41906.0,0.02
+TEJASNET,2024-05-21 14:49:00,2024-05-20,2024-05-16,2024-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,637.0,0.0,0.0,0.0,0.0,13078.0,0.01,12441.0,0.01
+TEJASNET,2024-05-21 14:49:00,2024-05-18,2024-05-16,2024-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,30500.0,0.02,29900.0,0.02
+TEJASNET,2024-05-21 14:49:00,2024-05-20,2024-04-30,2024-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,22000.0,0.01,17500.0,0.01
+TEJASNET,2024-05-21 14:49:00,2024-05-18,2024-04-29,2024-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1020.0,0.0,0.0,0.0,0.0,34931.0,0.02,33911.0,0.02
+TEJASNET,2024-05-24 18:05:00,2024-05-23,2024-05-22,2024-05-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,3474.0,0.0,0.0,0.0,0.0,30461.0,0.02,33935.0,0.02
+TEJASNET,2024-05-24 18:05:00,2024-05-23,2024-04-25,2024-05-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,94667.0,0.06,64667.0,0.04
+TEJASNET,2024-05-27 17:30:00,2024-05-24,2024-05-22,2024-05-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,2905.0,0.0,0.0,0.0,0.0,101914.0,0.06,104819.0,0.06
+TEJASNET,2024-05-27 17:30:00,2024-05-24,2024-05-22,2024-05-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,3568.0,0.0,0.0,0.0,0.0,171825.0,0.1,175393.0,0.1
+TEJASNET,2024-05-27 17:30:00,2024-05-24,2024-05-22,2024-05-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,2017.0,0.0,0.0,0.0,0.0,52173.0,0.03,54190.0,0.03
+TEJASNET,2024-05-27 17:30:00,2024-05-24,2024-05-22,2024-05-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,3717.0,0.0,0.0,0.0,0.0,60204.0,0.03,63921.0,0.04
+TEJASNET,2024-05-27 17:30:00,2024-05-24,2024-05-22,2024-05-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,958.0,0.0,0.0,0.0,0.0,,0.0,958.0,0.0
+TEJASNET,2024-05-27 17:30:00,2024-05-24,2024-05-22,2024-05-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,700.0,0.0,0.0,0.0,0.0,23300.0,0.01,24000.0,0.01
+TEJASNET,2024-05-27 17:30:00,2024-05-24,2024-05-22,2024-05-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,825.0,0.0,0.0,0.0,0.0,17000.0,0.01,17825.0,0.01
+TEJASNET,2024-05-27 17:30:00,2024-05-24,2024-05-22,2024-05-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,2780.0,0.0,0.0,0.0,0.0,29900.0,0.02,32680.0,0.02
+TEJASNET,2024-05-27 17:30:00,2024-05-25,2024-05-23,2024-05-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,21707.0,0.0,0.0,0.0,0.0,64667.0,0.04,42960.0,0.03
+TEJASNET,2024-05-30 13:39:00,2024-05-28,2024-05-27,2024-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,41906.0,0.02,41406.0,0.02
+TEJASNET,2024-05-30 13:39:00,2024-05-28,2024-05-27,2024-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10988.0,0.0,0.0,0.0,0.0,42960.0,0.03,31972.0,0.02
+TEJASNET,2024-06-11 18:52:00,2024-06-10,2024-05-07,2024-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3578.0,0.0,0.0,0.0,0.0,106578.0,0.06,103000.0,0.06
+TEJASNET,2024-06-11 18:52:00,2024-06-08,2024-05-29,2024-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,41406.0,0.02,37656.0,0.02
+TEJASNET,2024-06-11 18:52:00,2024-06-09,2024-05-27,2024-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1920.0,0.0,0.0,0.0,0.0,3018.0,0.0,1098.0,0.0
+TEJASNET,2024-06-11 18:52:00,2024-06-08,2024-05-28,2024-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,31972.0,0.0,0.0,0.0,0.0,31972.0,0.02,,0.0
+TEJASNET,2024-06-11 18:52:00,2024-06-09,2024-04-30,2024-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1506.0,0.0,0.0,0.0,0.0,11257.0,0.01,9751.0,0.01
+TEJASNET,2024-06-11 18:52:00,2024-06-10,2024-06-06,2024-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,66234.0,0.04,64234.0,0.04
+TEJASNET,2024-06-11 18:52:00,2024-06-11,2024-05-30,2024-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,51611.0,0.03,49611.0,0.03
+TEJASNET,2024-06-11 18:52:00,2024-06-07,2024-05-29,2024-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1243.0,0.0,0.0,0.0,0.0,1243.0,0.0,,0.0
+TEJASNET,2024-06-11 18:52:00,2024-06-08,2024-06-06,2024-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2180.0,0.0,0.0,0.0,0.0,32680.0,0.02,30500.0,0.02
+TEJASNET,2024-06-11 18:52:00,2024-05-31,2024-05-27,2024-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,12441.0,0.01,9941.0,0.01
+TEJASNET,2024-06-11 18:52:00,2024-06-03,2024-04-26,2024-05-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8767.0,0.0,0.0,0.0,0.0,25267.0,0.01,16500.0,0.01
+TEJASNET,2024-06-11 18:52:00,2024-05-31,2024-05-29,2024-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1254.0,0.0,0.0,0.0,0.0,1954.0,0.0,700.0,0.0
+TEJASNET,2024-06-14 16:48:00,2024-06-13,2024-06-11,2024-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,126600.0,0.07,123600.0,0.07
+TEJASNET,2024-06-14 16:48:00,2024-06-13,2024-06-10,2024-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1650.0,0.0,0.0,0.0,0.0,16500.0,0.01,14850.0,0.01
+TEJASNET,2024-06-17 17:48:00,2024-06-17,2024-05-22,2024-05-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,587.0,0.0,0.0,0.0,0.0,8060.0,0.0,8647.0,0.0
+TEJASNET,2024-06-17 17:48:00,2024-06-12,2024-06-10,2024-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,3000.0,0.0,1600.0,0.0
+TEJASNET,2024-06-17 17:48:00,2024-06-12,2024-06-10,2024-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15393.0,0.0,0.0,0.0,0.0,175393.0,0.1,160000.0,0.1
+TEJASNET,2024-06-17 17:48:00,2024-06-12,2024-06-11,2024-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14254.0,0.01,13254.0,0.01
+TEJASNET,2024-06-17 17:48:00,2024-06-13,2024-06-11,2024-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1098.0,0.0,98.0,0.0
+TEJASNET,2024-06-17 17:48:00,2024-06-12,2024-06-11,2024-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,74341.0,0.04,69341.0,0.04
+TEJASNET,2024-06-17 17:48:00,2024-06-12,2024-06-07,2024-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,3818.0,0.0,2018.0,0.0
+TEJASNET,2024-06-17 18:14:00,2024-06-12,2024-06-04,2024-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8647.0,0.0,6647.0,0.0
+TEJASNET,2024-06-17 18:14:00,2024-06-13,2024-06-12,2024-06-12,Other,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3500.0,0.0,500.0,0.0
+TEJASNET,2024-06-17 18:14:00,2024-06-14,2024-06-14,2024-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13522.0,0.01,12522.0,0.01
+TEJASNET,2024-06-17 18:14:00,2024-06-14,2024-06-07,2024-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,3000.0,0.0,1200.0,0.0
+TEJASNET,2024-06-17 18:14:00,2024-06-14,2024-06-11,2024-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,103000.0,0.06,102000.0,0.06
+TEJASNET,2024-06-17 18:14:00,2024-06-13,2024-06-11,2024-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,30500.0,0.02,29900.0,0.02
+TEJASNET,2024-06-17 18:14:00,2024-06-16,2024-06-11,2024-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,16050.0,0.01,14550.0,0.01
+TEJASNET,2024-06-17 18:14:00,2024-06-15,2024-06-11,2024-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,63921.0,0.04,53921.0,0.03
+TEJASNET,2024-06-20 16:55:00,2024-06-18,2024-06-14,2024-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,129595.0,0.08,125595.0,0.07
+TEJASNET,2024-06-20 16:55:00,2024-06-18,2024-06-13,2024-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,97.0,0.0,0.0,0.0,0.0,98.0,0.0,1.0,0.0
+TEJASNET,2024-06-24 13:15:00,2024-06-21,2024-06-12,2024-06-16,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,9388.0,0.01,10888.0,0.01
+TEJASNET,2024-06-24 13:15:00,2024-06-18,2024-06-10,2024-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,64234.0,0.04,58234.0,0.03
+TEJASNET,2024-06-24 13:15:00,2024-06-19,2024-06-13,2024-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,14850.0,0.01,14250.0,0.01
+TEJASNET,2024-06-24 13:15:00,2024-06-19,2024-05-14,2024-05-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1430.0,0.0,0.0,0.0,0.0,1430.0,0.0,,0.0
+TEJASNET,2024-06-27 15:10:00,2024-06-25,2024-06-18,2024-06-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,7900.0,0.0,4900.0,0.0
+TEJASNET,2024-06-27 15:10:00,2024-06-25,2024-06-14,2024-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1328.0,0.0,0.0,0.0,0.0,1328.0,0.0,,0.0
+TEJASNET,2024-06-27 15:10:00,2024-06-25,2024-04-02,2024-04-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,6071.0,0.0,4971.0,0.0
+TEJASNET,2024-07-04 18:43:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,104819.0,0.06,107819.0,0.06
+TEJASNET,2024-07-04 18:43:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,55.0,0.0,0.0,0.0,0.0,1100.0,0.0,1155.0,0.0
+TEJASNET,2024-07-04 18:43:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,2262.0,0.0,0.0,0.0,0.0,200.0,0.0,2462.0,0.0
+TEJASNET,2024-07-04 18:43:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,1548.0,0.0,0.0,0.0,0.0,9751.0,0.01,11299.0,0.01
+TEJASNET,2024-07-04 18:43:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,383.0,0.0,0.0,0.0,0.0,867.0,0.0,1250.0,0.0
+TEJASNET,2024-07-04 18:43:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,39038.0,0.0,0.0,0.0,0.0,,0.0,39038.0,0.02
+TEJASNET,2024-07-04 18:43:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,3955.0,0.0,0.0,0.0,0.0,125595.0,0.07,129550.0,0.08
+TEJASNET,2024-07-04 18:43:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,468.0,0.0,0.0,0.0,0.0,24000.0,0.01,24468.0,0.01
+TEJASNET,2024-08-12 14:11:00,2024-08-09,2024-07-22,2024-08-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,6906.0,0.0,4406.0,0.0
+TEJASNET,2024-08-12 14:11:00,2024-08-09,2024-08-06,2024-08-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3139.0,0.0,0.0,0.0,0.0,23768.0,0.01,20629.0,0.01
+TEJASNET,2024-08-21 15:38:00,2024-08-16,2024-08-14,2024-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,48611.0,0.02,47611.0,0.02
+TEJASNET,2024-08-21 15:38:00,2024-08-14,2024-08-13,2024-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,825.0,0.0,0.0,0.0,0.0,17825.0,0.01,17000.0,0.01
+TEJASNET,2024-08-21 15:38:00,2024-08-20,2024-08-16,2024-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,895.0,0.0,0.0,0.0,0.0,2025.0,0.01,1130.0,0.0
+TEJASNET,2024-08-29 18:31:00,2024-08-27,2024-08-26,2024-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,47611.0,0.02,46611.0,0.02
+TEJASNET,2024-09-04 19:58:00,2024-08-27,2024-08-27,2024-08-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1130.0,0.0,2130.0,0.0
+TEJASNET,2024-09-04 19:58:00,2024-09-04,2024-09-03,2024-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1500.0,0.0,,0.0
+TEJASNET,2024-09-04 19:58:00,2024-09-02,2024-08-30,2024-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2632.0,0.0,0.0,0.0,0.0,5015.0,0.0,2383.0,0.0
+TEJASNET,2024-09-04 19:58:00,2024-08-27,2024-08-27,2024-08-27,Key Managerial Personnel,ESOP,Buy,Equity Shares,1421.0,0.0,0.0,0.0,0.0,33935.0,0.02,35356.0,0.02
+TEJASNET,2024-09-04 20:11:00,2024-08-31,2024-08-30,2024-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,2130.0,0.0,1730.0,0.0
+TEJASNET,2024-09-11 19:17:00,2024-09-11,2024-09-10,2024-09-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,832.0,0.0,0.0,0.0,0.0,832.0,0.0,,0.0
+TEJASNET,2024-09-11 19:17:00,2024-09-06,2024-09-05,2024-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,1730.0,0.0,1130.0,0.0
+TEJASNET,2024-09-11 19:17:00,2024-09-06,2024-08-30,2024-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,63356.0,0.04,61356.0,0.04
+TEJASNET,2024-09-11 19:17:00,2024-09-05,2024-09-04,2024-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,46611.0,0.02,45111.0,0.02
+TEJASNET,2024-09-17 16:30:00,2024-09-14,2024-09-11,2024-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,45111.0,0.03,42111.0,0.02
+TEJASNET,2024-09-17 16:30:00,2024-09-17,2024-09-13,2024-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,60526.0,0.04,55526.0,0.03
+TEJASNET,2024-09-17 16:30:00,2024-09-14,2024-07-26,2024-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10500.0,0.0,0.0,0.0,0.0,26022.0,0.02,15522.0,0.01
+TEJASNET,2024-09-17 16:30:00,2024-09-14,2024-07-22,2024-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,33059.0,0.0,0.0,0.0,0.0,39038.0,0.01,5979.0,0.0
+TEJASNET,2024-09-17 16:30:00,2024-09-13,2024-09-09,2024-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4906.0,0.0,4406.0,0.0
+TEJASNET,2024-09-17 16:30:00,2024-09-14,2024-07-26,2024-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11015.0,0.0,0.0,0.0,0.0,55015.0,0.03,44000.0,0.03
+TEJASNET,2024-09-17 16:30:00,2024-09-16,2024-09-12,2024-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,7850.0,0.0,6950.0,0.0
+TEJASNET,2024-09-23 15:52:00,2024-09-18,2024-09-13,2024-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,41751.0,0.02,40751.0,0.02
+TEJASNET,2024-09-23 15:52:00,2024-09-20,2024-09-13,2024-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,17000.0,0.01,16000.0,0.01
+TEJASNET,2024-10-22 18:48:00,2024-10-20,2024-10-18,2024-10-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,105592.0,0.0,0.0,0.0,0.0,,0.0,105592.0,0.06
+TEJASNET,2024-10-22 18:48:00,2024-10-20,2024-10-18,2024-10-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,102548.0,0.0,0.0,0.0,0.0,100.0,0.0,102648.0,0.06
+TEJASNET,2024-10-22 18:48:00,2024-10-20,2024-10-18,2024-10-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,105592.0,0.0,0.0,0.0,0.0,5979.0,0.0,111571.0,0.06
+TEJASNET,2024-10-25 17:32:00,2024-10-25,2024-10-22,2024-10-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,12100.0,0.01,6100.0,0.0
+TEJASNET,2024-10-25 17:32:00,2024-10-23,2024-10-21,2024-10-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,16894.0,0.01,15094.0,0.01
+TEJASNET,2024-10-25 17:32:00,2024-10-25,2024-10-23,2024-10-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,64234.0,0.04,60234.0,0.03
+TEJASNET,2024-10-25 17:32:00,2024-10-23,2024-10-21,2024-10-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,13522.0,0.01,11522.0,0.01
+TEJASNET,2024-10-30 17:06:00,2024-10-29,2024-10-21,2024-10-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1088.0,0.0,0.0,0.0,0.0,18888.0,0.01,17800.0,0.01
+TEJASNET,2024-10-30 17:06:00,2024-10-29,2024-10-25,2024-10-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,6100.0,0.0,4600.0,0.0
+TEJASNET,2024-11-05 15:53:00,2024-11-05,2024-10-23,2024-10-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,61356.0,0.03,59356.0,0.03
+TEJASNET,2024-11-05 15:53:00,2024-10-31,2024-10-30,2024-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5979.0,0.0,0.0,0.0,0.0,5979.0,0.0,,0.0
+TEJASNET,2024-11-05 15:53:00,2024-10-31,2024-10-29,2024-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1500.0,0.0,500.0,0.0
+TEJASNET,2024-11-05 15:53:00,2024-11-02,2024-08-27,2024-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1625.0,0.0,0.0,0.0,0.0,9941.0,0.01,8316.0,0.0
+TEJASNET,2024-11-05 15:53:00,2024-11-05,2024-10-29,2024-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2100.0,0.0,0.0,0.0,0.0,4600.0,0.0,2500.0,0.0
+TEJASNET,2024-11-05 15:53:00,2024-11-04,2024-11-01,2024-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,60234.0,0.03,56234.0,0.03
+TEJASNET,2024-11-05 15:53:00,2024-11-04,2024-10-31,2024-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1750.0,0.0,0.0,0.0,0.0,17800.0,0.01,16050.0,0.01
+TEJASNET,2024-11-06 16:29:00,2024-11-04,2024-10-28,2024-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1886.0,0.0,0.0,0.0,0.0,6633.0,0.0,4747.0,0.0
+TEJASNET,2024-11-06 16:29:00,2024-11-05,2024-10-31,2024-11-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2087.0,0.0,87.0,0.0
+TEJASNET,2024-11-08 17:33:00,2024-11-07,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10837.0,0.0,0.0,0.0,0.0,28837.0,0.02,18000.0,0.01
+TEJASNET,2024-11-08 17:33:00,2024-11-07,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,21300.0,0.01,20000.0,0.01
+TEJASNET,2024-11-08 17:33:00,2024-11-08,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,42111.0,0.02,41111.0,0.02
+TEJASNET,2024-11-08 17:33:00,2024-11-08,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,59356.0,0.03,44356.0,0.03
+TEJASNET,2024-11-08 17:33:00,2024-11-08,2024-10-23,2024-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2980.0,0.0,0.0,0.0,0.0,30280.0,0.02,27300.0,0.02
+TEJASNET,2024-11-08 17:33:00,2024-11-07,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,69341.0,0.04,57341.0,0.03
+TEJASNET,2024-11-08 17:33:00,2024-11-07,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,19066.0,0.01,17566.0,0.01
+TEJASNET,2024-11-08 17:33:00,2024-11-08,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,49927.0,0.03,44927.0,0.03
+TEJASNET,2024-11-08 17:33:00,2024-11-07,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,16050.0,0.01,15350.0,0.01
+TEJASNET,2024-11-08 17:56:00,2024-11-07,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,8177.0,0.0,177.0,0.0
+TEJASNET,2024-11-12 20:54:00,2024-11-09,2024-11-08,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,57341.0,0.03,52341.0,0.03
+TEJASNET,2024-11-12 20:54:00,2024-11-11,2024-11-07,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,40751.0,0.02,39751.0,0.02
+TEJASNET,2024-11-12 20:54:00,2024-11-11,2024-11-08,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,15350.0,0.01,15100.0,0.01
+TEJASNET,2024-11-12 20:54:00,2024-11-11,2024-11-08,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,44356.0,0.03,39856.0,0.02
+TEJASNET,2024-11-12 20:54:00,2024-11-08,2024-11-05,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3800.0,0.0,0.0,0.0,0.0,5300.0,0.0,1500.0,0.0
+TEJASNET,2024-11-12 20:54:00,2024-11-11,2024-11-06,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1900.0,0.0,0.0,0.0,0.0,2500.0,0.0,600.0,0.0
+TEJASNET,2024-11-12 20:54:00,2024-11-10,2024-11-08,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10728.0,0.0,0.0,0.0,0.0,10728.0,0.01,,0.0
+TEJASNET,2024-11-14 17:59:00,2024-11-12,2024-11-11,2024-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,41111.0,0.02,39611.0,0.02
+TEJASNET,2024-11-14 17:59:00,2024-11-12,2024-11-08,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,15350.0,0.01,15100.0,0.01
+TEJASNET,2024-11-14 17:59:00,2024-11-14,2024-11-06,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1350.0,0.0,0.0,0.0,0.0,8316.0,0.0,6966.0,0.0
+TEJASNET,2024-11-14 17:59:00,2024-11-12,2024-11-08,2024-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2050.0,0.0,0.0,0.0,0.0,27300.0,0.02,25250.0,0.01
+TEJASNET,2024-11-14 17:59:00,2024-11-13,2024-11-08,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,16000.0,0.01,11000.0,0.01
+TEJASNET,2024-11-14 17:59:00,2024-11-12,2024-11-08,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3001.0,0.0,0.0,0.0,0.0,11522.0,0.01,8521.0,0.0
+TEJASNET,2024-11-14 17:59:00,2024-11-12,2024-11-08,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,55526.0,0.03,54526.0,0.03
+TEJASNET,2024-11-29 18:39:00,2024-11-28,2024-11-26,2024-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,46875.0,0.03,43375.0,0.02
+TEJASNET,2024-11-29 18:39:00,2024-11-18,2024-10-24,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2713.0,0.0,0.0,0.0,0.0,14250.0,0.01,11537.0,0.01
+TEJASNET,2024-11-29 18:39:00,2024-11-29,2024-11-19,2024-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3950.0,0.0,0.0,0.0,0.0,25250.0,0.01,21300.0,0.01
+TEJASNET,2024-11-29 18:39:00,2024-11-28,2024-11-19,2024-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,15100.0,0.01,14850.0,0.01
+TEJASNET,2024-11-29 18:39:00,2024-11-28,2024-11-25,2024-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,23624.0,0.01,20124.0,0.01
+TEJASNET,2024-11-29 18:39:00,2024-11-22,2024-11-21,2024-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,39611.0,0.02,37611.0,0.02
+TEJASNET,2024-12-05 17:02:00,2024-12-04,2024-12-02,2024-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,43375.0,0.02,42375.0,0.02
+TEJASNET,2024-12-05 17:02:00,2024-12-03,2024-12-02,2024-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,54526.0,0.03,53526.0,0.03
+TEJASNET,2024-12-05 17:02:00,2024-12-01,2024-11-29,2024-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,37611.0,0.02,34611.0,0.02
+TEJASNET,2024-12-05 17:02:00,2024-12-05,2024-12-04,2024-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8427.0,0.0,0.0,0.0,0.0,160927.0,0.09,152500.0,0.09
+TEJASNET,2024-12-05 17:02:00,2024-12-03,2024-12-02,2024-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,21300.0,0.01,20300.0,0.01
+TEJASNET,2024-12-11 14:13:00,2024-12-06,2024-12-05,2024-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,14850.0,0.01,14750.0,0.01
+TEJASNET,2024-12-11 14:13:00,2024-12-07,2024-12-05,2024-12-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,20300.0,0.01,19000.0,0.01
+TEJASNET,2024-12-11 14:13:00,2024-12-11,2024-12-02,2024-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,20124.0,0.01,19624.0,0.01
+TEJASNET,2024-12-11 14:13:00,2024-12-06,2024-12-05,2024-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8427.0,0.0,0.0,0.0,0.0,152500.0,0.09,144073.0,0.08
+TEJASNET,2024-12-11 14:13:00,2024-12-06,2024-12-04,2024-12-05,Employees/Designated Employees,-,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,42375.0,0.02,40875.0,0.02
+TEJASNET,2024-12-11 14:13:00,2024-12-06,2024-12-02,2024-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,610.0,0.0,0.0,0.0,0.0,11537.0,0.01,10927.0,0.01
+TEJASNET,2024-12-11 14:13:00,2024-12-06,2024-11-27,2024-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,44000.0,0.03,34000.0,0.02
+TEJASNET,2024-12-16 18:29:00,2024-12-12,2024-12-09,2024-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,34611.0,0.02,24611.0,0.01
+TEJASNET,2024-12-16 18:29:00,2024-12-14,2024-12-10,2024-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,850.0,0.0,0.0,0.0,0.0,15094.0,0.01,14244.0,0.01
+TEJASNET,2024-12-16 18:29:00,2024-12-12,2024-12-11,2024-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8082.0,0.0,0.0,0.0,0.0,59500.0,0.03,51418.0,0.03
+TEJASNET,2024-12-16 18:29:00,2024-12-14,2024-12-12,2024-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,40875.0,0.02,38875.0,0.02
+TEJASNET,2024-12-16 18:29:00,2024-12-14,2024-12-11,2024-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9940.0,0.0,0.0,0.0,0.0,28864.0,0.02,18924.0,0.01
+TEJASNET,2024-12-16 18:29:00,2024-12-16,2024-12-12,2024-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2915.0,0.0,0.0,0.0,0.0,33062.0,0.02,30147.0,0.02
+TEJASNET,2024-12-16 18:29:00,2024-12-16,2024-12-12,2024-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,54526.0,0.03,50526.0,0.03
+TEJASNET,2024-12-16 18:29:00,2024-12-14,2024-12-12,2024-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,34448.0,0.0,0.0,0.0,0.0,132859.0,0.08,98411.0,0.06
+TEJASNET,2024-12-16 18:29:00,2024-12-12,2024-12-05,2024-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,56234.0,0.03,52234.0,0.03
+TEJASNET,2024-12-16 18:29:00,2024-12-15,2024-12-10,2024-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,19000.0,0.01,17700.0,0.01
+TEJASNET,2024-12-16 18:29:00,2024-12-11,2024-11-06,2024-12-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,33811.0,0.02,31311.0,0.02
+TEJASNET,2024-12-16 18:29:00,2024-12-13,2024-12-12,2024-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,19624.0,0.01,15874.0,0.01
+TEJASNET,2025-01-31 18:03:00,2025-01-28,2025-01-27,2025-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,41738.0,0.02,31738.0,0.02
+TEJASNET,2025-01-31 18:03:00,2025-01-29,2025-01-27,2025-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9000.0,0.0,0.0,0.0,0.0,31608.0,0.02,22608.0,0.01
+TEJASNET,2025-01-31 18:03:00,2025-01-29,2025-01-27,2025-01-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,62243.0,0.0,0.0,0.0,0.0,347988.0,0.2,285745.0,0.16
+TEJASNET,2025-01-31 18:03:00,2025-01-29,2025-01-27,2025-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,15192.0,0.01,13592.0,0.01
+TEJASNET,2025-01-31 18:03:00,2025-01-30,2025-01-28,2025-01-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,24611.0,0.01,21611.0,0.01
+TEJASNET,2025-01-31 18:03:00,2025-01-30,2025-01-27,2025-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,15874.0,0.01,5874.0,0.0
+TEJASNET,2025-01-31 18:03:00,2025-01-31,2025-01-28,2025-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,69214.0,0.04,57214.0,0.03
+TEJASNET,2025-02-10 14:44:00,,,,-,Market Sale,-,,,0.0,0.0,0.0,0.0,,0.0,,
+TEJASNET,2025-02-10 14:44:00,2025-02-03,2025-01-31,2025-01-31,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,15796.0,0.01,16296.0,0.01
+TEJASNET,2025-02-10 14:44:00,2025-02-10,2025-01-27,2025-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6172.0,0.0,0.0,0.0,0.0,16296.0,0.01,10124.0,0.01
+TEJASNET,2025-02-10 14:44:00,2025-02-08,2025-01-31,2025-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,33500.0,0.0,0.0,0.0,0.0,478574.0,0.27,445074.0,0.25
+TEJASNET,2025-02-10 14:44:00,2025-02-04,2025-02-01,2025-02-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3006.0,0.0,0.0,0.0,0.0,98411.0,0.06,95405.0,0.06
+TEJASNET,2025-02-10 14:44:00,2025-02-04,2025-01-27,2025-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1916.0,0.0,0.0,0.0,0.0,1916.0,0.0,,0.0
+TEJASNET,2025-02-10 14:44:00,2025-02-04,2025-01-31,2025-01-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,57214.0,0.04,52214.0,0.03
+TEJASNET,2025-02-10 14:44:00,2025-02-01,2025-01-31,2025-01-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,31738.0,0.02,26738.0,0.02
+TEJASNET,2025-02-10 14:44:00,2025-02-09,2025-01-30,2025-02-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100473.0,0.0,0.0,0.0,0.0,285745.0,0.16,185272.0,0.11
+TEJASNET,2025-02-10 14:44:00,2025-02-03,2025-01-31,2025-01-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,13592.0,0.01,13092.0,0.01
+TEJASNET,2025-02-10 14:44:00,2025-02-04,2025-02-03,2025-02-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3100.0,0.0,0.0,0.0,0.0,21611.0,0.01,18511.0,0.01
+TEJASNET,2025-02-10 14:44:00,2025-02-03,2025-01-27,2025-02-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,35288.0,0.0,0.0,0.0,0.0,45288.0,0.03,10000.0,0.01
+TEJASNET,2025-02-19 23:30:00,2025-02-11,2025-02-10,2025-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,52214.0,0.03,47214.0,0.03
+TEJASNET,2025-02-19 23:30:00,2025-02-15,2025-02-14,2025-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,18511.0,0.01,8511.0,0.01
+TEJASNET,2025-02-19 23:30:00,2025-02-13,2025-02-10,2025-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,64074.0,0.0,0.0,0.0,0.0,185272.0,0.11,121198.0,0.7
+TEJASNET,2025-02-19 23:30:00,2025-02-10,2025-02-04,2025-02-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,104725.0,0.0,0.0,0.0,0.0,241647.0,0.14,136922.0,0.08
+TEJASNET,2025-02-19 23:30:00,2025-02-14,2025-02-03,2025-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3334.0,0.0,0.0,0.0,0.0,38875.0,0.02,35541.0,0.02
+TEJASNET,2025-02-19 23:30:00,2025-02-10,2025-02-05,2025-02-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,95405.0,0.06,91405.0,0.06
+TEJASNET,2025-02-19 23:30:00,2025-02-19,2025-02-12,2025-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,49153.0,0.0,0.0,0.0,0.0,445074.0,0.25,395921.0,0.23
+TEJASNET,2025-02-27 18:35:00,2025-02-24,2025-02-19,2025-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,47214.0,0.03,41214.0,0.03
+TEJASNET,2025-02-27 18:35:00,2025-02-22,2025-02-19,2025-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,61065.0,0.0,0.0,0.0,0.0,395921.0,0.23,334856.0,0.19
+TEJASNET,2025-02-27 18:35:00,2025-02-20,2025-02-19,2025-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,35541.0,0.02,33541.0,0.02
+TEJASNET,2025-02-27 18:35:00,2025-02-22,2025-01-29,2025-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,17700.0,0.01,15700.0,0.01
+TEJASNET,2025-02-27 18:35:00,2025-02-24,2025-02-21,2025-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,10124.0,0.01,7624.0,0.01
+TEJASNET,2025-02-27 18:48:00,2025-02-24,2025-02-19,2025-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,47214.0,0.03,41214.0,0.03
+TEJASNET,2025-02-27 18:48:00,2025-02-20,2025-02-19,2025-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,35541.0,0.02,33541.0,0.02
+TEJASNET,2025-02-27 18:48:00,2025-02-24,2025-02-21,2025-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,10124.0,0.01,7624.0,0.01
+TEJASNET,2025-02-27 18:48:00,2025-02-22,2025-02-19,2025-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,61065.0,0.0,0.0,0.0,0.0,395921.0,0.23,334856.0,0.19
+TEJASNET,2025-02-27 18:48:00,2025-02-22,2025-01-29,2025-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,17700.0,0.01,15700.0,0.01
+TEJASNET,2025-03-11 16:59:00,2025-03-09,2025-02-28,2025-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,62501.0,0.0,0.0,0.0,0.0,334856.0,0.19,272355.0,0.15
+TEJASNET,2025-03-11 16:59:00,2025-03-02,2025-02-27,2025-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10749.0,0.01,5749.0,0.0
+TEJASNET,2025-03-11 16:59:00,2025-03-10,2025-03-06,2025-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,41214.0,0.02,39214.0,0.01
+TEJASNET,2025-03-11 16:59:00,2025-03-10,2025-03-04,2025-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,33541.0,0.02,31041.0,0.02
+TEJASNET,2025-03-11 16:59:00,2025-03-08,2025-03-04,2025-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3400.0,0.0,0.0,0.0,0.0,15700.0,0.01,12300.0,0.01
+TEJASNET,2025-03-11 17:00:00,2025-02-25,2025-02-25,2025-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,2429.0,0.0,0.0,0.0,0.0,7624.0,0.0,10053.0,0.01
+TEJASNET,2025-03-11 17:00:00,2025-02-25,2025-02-25,2025-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,4264.0,0.0,0.0,0.0,0.0,8511.0,0.0,12775.0,0.01
+TEJASNET,2025-03-11 17:00:00,2025-02-25,2025-02-25,2025-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,133478.0,0.0,0.0,0.0,0.0,1124640.0,0.64,1258118.0,0.71
+TEJASNET,2025-03-11 17:00:00,2025-02-25,2025-02-25,2025-02-25,Director,ESOP,Buy,Equity Shares,76175.0,0.0,0.0,0.0,0.0,,0.0,76175.0,0.04
+TEJASNET,2025-03-25 15:40:00,2025-03-24,2025-03-22,2025-03-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,150250.0,0.0,0.0,0.0,0.0,1258118.0,0.71,1408368.0,0.8
+TEJASNET,2025-03-25 15:40:00,2025-03-24,2025-03-22,2025-03-22,Director,ESOP,Buy,Equity Shares,55386.0,0.0,0.0,0.0,0.0,240512.0,0.14,295898.0,0.17
+TEJASNET,2025-05-29 14:22:00,2025-05-24,2025-05-23,2025-05-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,68500.0,0.0,0.0,0.0,0.0,1408368.0,0.8,1476868.0,0.84
+TEJASNET,2025-05-29 14:22:00,2025-05-24,2025-05-23,2025-05-23,Director,ESOP,Buy,Equity Shares,93018.0,0.0,0.0,0.0,0.0,76175.0,0.04,169193.0,0.1
+TEJASNET,2025-05-29 14:22:00,2025-05-24,2025-05-23,2025-05-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,7866.0,0.0,0.0,0.0,0.0,,0.0,7866.0,0.0
+TEJASNET,2025-06-10 17:54:00,2025-06-02,2025-05-30,2025-05-30,Director,ESOP,Buy,Equity Shares,32083.0,0.0,0.0,0.0,0.0,169193.0,0.1,201276.0,0.11

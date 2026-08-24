@@ -1,0 +1,14 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+HANUNG,2016-07-07 09:46:00,2016-07-01,,,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,1892482.0,0.0,0.0,0.0,0.0,1892482.0,6.14,,0.0
+HANUNG,2016-07-09 15:15:00,2016-07-01,,,Promoters,Pledge Creation,Pledge,Equity Shares,1026690.0,0.0,0.0,0.0,0.0,1026690.0,3.33,1026690.0,3.33
+HANUNG,2016-07-11 17:17:00,2016-07-01,,,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,1128276.0,0.0,0.0,0.0,0.0,1128276.0,3.66,,0.0
+HANUNG,2016-07-19 09:44:00,2016-07-15,,,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,1952059.0,0.0,0.0,0.0,0.0,1952059.0,6.33,,
+HANUNG,2016-07-20 16:56:00,2016-07-18,,,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,2651418.0,0.0,0.0,0.0,0.0,2651418.0,8.6,2651418.0,8.6
+HANUNG,2016-08-02 09:58:00,2016-07-30,,,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,1026690.0,0.0,0.0,0.0,0.0,1026690.0,3.33,,
+HANUNG,2016-12-02 18:53:00,2016-12-01,2016-11-29,2016-11-30,Promoter Group,Pledge Creation,Pledge,Equity Shares,697526.0,0.0,0.0,0.0,0.0,697526.0,2.26,697526.0,2.26
+HANUNG,2016-12-02 18:53:00,2016-12-01,2016-11-29,2016-11-30,Promoter Group,Pledge Creation,Pledge,Equity Shares,728366.0,0.0,0.0,0.0,0.0,728366.0,2.36,728366.0,2.36
+HANUNG,2016-12-20 21:54:00,2016-12-19,2016-12-19,2016-12-19,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,728366.0,0.0,0.0,0.0,0.0,728366.0,2.36,,0.0
+HANUNG,2016-12-20 21:54:00,2016-12-19,2016-12-19,2016-12-19,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,697526.0,0.0,0.0,0.0,0.0,697526.0,2.26,,0.0
+HANUNG,2017-01-30 17:58:00,2017-01-30,2017-01-27,2017-01-27,Promoters,Pledge Creation,Pledge,Equity Shares,1322150.0,0.0,0.0,0.0,0.0,1322150.0,4.28,1322150.0,4.28
+HANUNG,2017-02-20 17:10:00,2017-02-20,2017-02-17,2017-02-17,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,1322150.0,0.0,0.0,0.0,0.0,1322150.0,4.28,,0.0
+HANUNG,2018-06-20 13:20:00,2018-06-12,2018-06-12,2018-06-12,Promoters,Pledge Creation,Pledge,Equity Shares,2651418.0,0.0,0.0,0.0,0.0,2651418.0,8.6,2651418.0,8.6

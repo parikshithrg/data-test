@@ -1,0 +1,14 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+BAGFILMS,2016-01-27 12:02:00,2016-01-18,2016-01-14,2016-01-14,Promoters,Preferential Offer,Buy,Equity Shares,9400000.0,0.0,0.0,0.0,0.0,4250000.0,2.38,13650000.0,7.26
+BAGFILMS,2017-10-25 16:30:00,2017-10-25,2017-10-23,2017-10-23,Promoter Group,Preferential Offer,Buy,Warrants,9800000.0,0.0,0.0,0.0,0.0,,0.0,9800000.0,4.95
+BAGFILMS,2019-04-02 14:29:00,2019-04-01,2019-03-30,2019-03-30,Promoter Group,Preferential Offer,Buy,Equity Shares,9800000.0,0.0,0.0,0.0,0.0,13650000.0,7.26,23450000.0,11.85
+BAGFILMS,2019-09-18 12:56:00,2019-09-17,2019-09-13,2019-09-16,Promoters,Market Purchase,Buy,Equity Shares,500000.0,0.0,0.0,0.0,0.0,21479190.0,10.85,21979190.0,11.11
+BAGFILMS,2019-09-21 12:31:00,2019-09-20,2019-09-19,2019-09-19,Promoters,Market Purchase,Buy,Equity Shares,500000.0,0.0,0.0,0.0,0.0,21979190.0,11.11,22479190.0,11.36
+BAGFILMS,2019-09-26 18:10:00,2019-09-26,2019-09-23,2019-09-24,Promoters,Market Purchase,Buy,Equity Shares,570000.0,0.0,0.0,0.0,0.0,22479190.0,11.36,23049190.0,11.65
+BAGFILMS,2019-10-04 15:08:00,2019-10-03,2019-09-30,2019-09-30,Promoters,Market Purchase,Buy,Equity Shares,561000.0,0.0,0.0,0.0,0.0,23450000.0,11.85,24011000.0,12.13
+BAGFILMS,2020-03-16 15:05:00,2020-03-14,2020-03-04,2020-03-13,Promoters,Market Purchase,Buy,Equity Shares,757697.0,0.0,0.0,0.0,0.0,24011000.0,12.13,24768697.0,12.52
+BAGFILMS,2020-03-21 12:32:00,2020-03-20,2020-03-16,2020-03-19,Promoters,Market Purchase,Buy,Equity Shares,632477.0,0.0,0.0,0.0,0.0,24768697.0,12.52,25401174.0,12.83
+BAGFILMS,2020-03-27 13:19:00,2020-03-26,2020-03-20,2020-03-25,Promoters,Market Purchase,Buy,Equity Shares,1129205.0,0.0,0.0,0.0,0.0,25401174.0,12.83,26530379.0,13.41
+BAGFILMS,2020-03-30 13:32:00,2020-03-28,2020-03-26,2020-03-27,Promoters,Market Purchase,Buy,Equity Shares,587254.0,0.0,0.0,0.0,0.0,26530379.0,13.41,27117633.0,13.7
+BAGFILMS,2026-03-25 17:04:00,2026-03-23,2026-03-19,2026-03-19,Promoter Group,Preferential Offer,Buy,Warrants,20000000.0,0.0,0.0,0.0,0.0,,0.0,20000000.0,9.18
+BAGFILMS,2026-04-02 13:01:00,2026-04-01,2026-03-28,2026-03-28,Promoter Group,Preferential Offer,Buy,Equity Shares,9800000.0,0.0,0.0,0.0,0.0,27225524.0,13.76,37025524.0,17.82

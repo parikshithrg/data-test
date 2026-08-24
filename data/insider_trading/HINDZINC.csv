@@ -1,0 +1,2 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+HINDZINC,2020-09-01 21:28:00,2020-09-01,2020-08-28,2020-08-28,Promoters,Pledge Creation,Pledge,Equity Shares,626192276.0,0.0,0.0,0.0,0.0,2743154310.0,64.92,2743154310.0,64.92

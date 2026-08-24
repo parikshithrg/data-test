@@ -1,0 +1,370 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+RELAXO,2016-05-10 17:45:00,2016-05-10,2016-03-21,2016-03-21,Director,Market Sale,Sell,Equity Shares,2720.0,0.0,0.0,0.0,0.0,2720.0,0.0023,,0.0
+RELAXO,2016-05-23 17:27:00,2016-05-23,2016-05-20,2016-05-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2410.0,0.0,0.0,0.0,0.0,2410.0,0.002,,0.0
+RELAXO,2017-09-25 15:42:00,2017-09-22,2017-08-29,2017-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,7210.0,0.006,3210.0,0.003
+RELAXO,2017-10-12 17:06:00,2017-10-11,2017-09-25,2017-10-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2600.0,0.0,0.0,0.0,0.0,14000.0,0.01,11400.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-16,2017-11-04,2017-11-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3990.0,0.0,6990.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-16,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,4420.0,0.0,0.0,0.0,0.0,1530.0,0.0,5950.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-16,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,17990.0,0.0,0.0,0.0,0.0,21710.0,0.02,39700.0,0.03
+RELAXO,2017-11-17 17:59:00,2017-11-17,2017-11-04,2017-11-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,,0.0,8000.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-17,2017-11-04,2017-11-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,5590.0,0.0,0.0,0.0,0.0,3010.0,0.0,8600.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-16,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,15860.0,0.0,0.0,0.0,0.0,11400.0,0.01,27260.0,0.02
+RELAXO,2017-11-17 17:59:00,2017-11-16,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,7930.0,0.0,0.0,0.0,0.0,74.0,0.0,8004.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-16,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2700.0,0.0,0.0,0.0,0.0,625.0,0.0,3325.0,0.0
+RELAXO,2017-11-17 17:59:00,2017-11-16,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,4160.0,0.0,0.0,0.0,0.0,2240.0,0.0,6400.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-16,2017-11-04,2017-11-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,5720.0,0.0,0.0,0.0,0.0,500.0,0.0,6220.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-16,2017-11-04,2017-11-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,8710.0,0.0,0.0,0.0,0.0,,0.0,8710.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-17,2017-11-04,2017-11-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,6760.0,0.0,0.0,0.0,0.0,72.0,0.0,6832.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-16,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,10530.0,0.0,0.0,0.0,0.0,,0.0,10530.0,0.01
+RELAXO,2017-11-17 17:59:00,2017-11-17,2017-11-04,2017-11-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,11180.0,0.0,0.0,0.0,0.0,1073.0,0.0,12253.0,0.01
+RELAXO,2017-11-20 12:47:00,2017-11-17,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,12500.0,0.0,0.0,0.0,0.0,,0.0,12500.0,0.01
+RELAXO,2017-11-20 12:47:00,2017-11-17,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,7410.0,0.0,0.0,0.0,0.0,700.0,0.0,8110.0,0.01
+RELAXO,2017-11-20 12:47:00,2017-11-17,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,7930.0,0.0,0.0,0.0,0.0,,0.0,7930.0,0.01
+RELAXO,2017-11-20 12:47:00,2017-11-17,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,24480.0,0.0,0.0,0.0,0.0,,0.0,24480.0,0.02
+RELAXO,2017-11-20 12:47:00,2017-11-17,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,5200.0,0.0,0.0,0.0,0.0,1100.0,0.0,6300.0,0.0
+RELAXO,2017-11-20 12:47:00,2017-11-17,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,5740.0,0.0,0.0,0.0,0.0,3060.0,0.0,8800.0,0.01
+RELAXO,2017-11-20 12:47:00,2017-11-18,2017-11-16,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,8000.0,0.01,4000.0,0.0
+RELAXO,2017-11-20 12:47:00,2017-11-17,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,5720.0,0.0,0.0,0.0,0.0,,0.0,5720.0,0.0
+RELAXO,2017-11-22 12:05:00,2017-11-21,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0
+RELAXO,2017-11-22 12:05:00,2017-11-21,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,4550.0,0.0,0.0,0.0,0.0,,0.0,4550.0,0.0
+RELAXO,2017-11-23 18:06:00,2017-11-23,2017-11-09,2017-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,27260.0,0.03,24860.0,0.03
+RELAXO,2017-11-23 18:06:00,2017-11-23,2017-11-21,2017-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4550.0,0.0,0.0,0.0,0.0,4550.0,0.0,,0.0
+RELAXO,2017-11-23 18:06:00,2017-11-23,2017-11-21,2017-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,4000.0,0.0,1500.0,0.0
+RELAXO,2017-11-23 18:06:00,2017-11-23,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,8320.0,0.0,0.0,0.0,0.0,,0.0,8320.0,0.01
+RELAXO,2017-11-24 15:27:00,2017-11-23,2017-11-16,2017-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8320.0,0.0,6320.0,0.0
+RELAXO,2017-11-24 15:27:00,2017-11-24,2017-11-04,2017-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,11290.0,0.0,0.0,0.0,0.0,210.0,0.0,11500.0,0.02
+RELAXO,2017-11-30 16:39:00,2017-11-30,2017-11-29,2017-11-29,Promoters,Market Sale,Sell,Equity Shares,325000.0,0.0,0.0,0.0,0.0,31473150.0,26.15,31148150.0,25.88
+RELAXO,2017-11-30 16:39:00,2017-11-30,2017-11-29,2017-11-29,Promoters,Market Sale,Sell,Equity Shares,325000.0,0.0,0.0,0.0,0.0,26770700.0,22.24,26445700.0,21.97
+RELAXO,2017-12-11 16:09:00,2017-12-11,2017-11-27,2017-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1845.0,0.0,0.0,0.0,0.0,24860.0,0.03,23015.0,0.03
+RELAXO,2017-12-16 12:09:00,2017-12-16,2017-12-11,2017-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1637.0,0.0,0.0,0.0,0.0,23015.0,0.03,21378.0,0.02
+RELAXO,2017-12-20 14:35:00,2017-12-20,2017-11-17,2017-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10530.0,0.0,0.0,0.0,0.0,10530.0,0.01,,0.0
+RELAXO,2018-01-17 15:38:00,2018-01-16,2017-12-11,2017-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,,0.0
+RELAXO,2018-01-17 15:38:00,2018-01-16,2017-11-01,2018-01-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,8004.0,0.01,5004.0,0.0
+RELAXO,2018-01-17 15:38:00,2018-01-16,2017-11-24,2018-01-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4891.0,0.0,0.0,0.0,0.0,6320.0,0.01,1429.0,0.0
+RELAXO,2018-01-17 15:38:00,2018-01-16,2017-11-18,2018-01-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2250.0,0.0,0.0,0.0,0.0,6832.0,0.01,4582.0,0.0
+RELAXO,2018-01-17 15:38:00,2018-01-16,2017-11-23,2018-01-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,8110.0,0.01,4610.0,0.0
+RELAXO,2018-01-19 15:54:00,2018-01-18,2017-11-09,2018-01-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,14500.0,0.02,11500.0,0.01
+RELAXO,2018-02-15 10:50:00,2018-02-15,2018-02-12,2018-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,8710.0,0.01,2710.0,0.0
+RELAXO,2018-03-16 14:12:00,2018-03-16,2018-03-13,2018-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,12500.0,0.01,10500.0,0.0
+RELAXO,2018-03-16 14:12:00,2018-03-15,2018-03-13,2018-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9381.0,0.0,0.0,0.0,0.0,24480.0,0.02,15099.0,0.01
+RELAXO,2018-03-17 12:07:00,2018-03-16,2018-03-08,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2710.0,0.0,0.0,0.0,0.0,2710.0,0.0,,0.0
+RELAXO,2018-03-17 12:07:00,2018-03-16,2018-03-15,2018-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3869.0,0.0,0.0,0.0,0.0,15099.0,0.01,11230.0,0.0
+RELAXO,2018-04-04 14:09:00,2018-04-02,2018-03-26,2018-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1870.0,0.0,0.0,0.0,0.0,11230.0,0.0,9360.0,0.0
+RELAXO,2018-04-04 14:09:00,2018-04-03,2018-03-28,2018-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4968.0,0.0,0.0,0.0,0.0,10500.0,0.0,5532.0,0.0
+RELAXO,2018-06-08 11:20:00,2018-06-07,2018-06-01,2018-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4862.0,0.0,0.0,0.0,0.0,11500.0,0.01,6638.0,0.0
+RELAXO,2018-06-27 17:27:00,2018-06-27,2018-05-30,2018-05-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,289.0,0.0,0.0,0.0,0.0,5532.0,0.0,5243.0,0.0
+RELAXO,2018-06-27 17:27:00,2018-06-27,2018-06-01,2018-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4743.0,0.0,4243.0,0.0
+RELAXO,2018-06-27 17:27:00,2018-06-27,2018-06-26,2018-06-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4243.0,0.0,3243.0,0.0
+RELAXO,2018-06-27 17:27:00,2018-06-27,2018-05-31,2018-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5243.0,0.0,4743.0,0.0
+RELAXO,2018-07-19 17:18:00,2018-07-19,2018-07-11,2018-07-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6638.0,0.01,3638.0,0.0
+RELAXO,2018-07-21 14:28:00,2018-07-21,2018-07-12,2018-07-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2743.0,0.0,2243.0,0.0
+RELAXO,2018-07-21 14:28:00,2018-07-21,2018-07-19,2018-07-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2243.0,0.0,1743.0,0.0
+RELAXO,2018-07-21 14:28:00,2018-07-21,2018-07-12,2018-07-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3243.0,0.0,2743.0,0.0
+RELAXO,2018-09-11 16:53:00,2018-09-11,2018-08-27,2018-08-27,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2950.0,0.0,0.0,0.0,0.0,7930.0,0.01,10880.0,0.01
+RELAXO,2018-09-13 17:27:00,2018-08-17,2018-08-13,2018-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1500.0,0.0,1000.0,0.0
+RELAXO,2018-09-13 17:27:00,2018-08-17,2018-08-08,2018-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,243.0,0.0,0.0,0.0,0.0,1743.0,0.0,1500.0,0.0
+RELAXO,2018-09-13 17:27:00,2018-09-12,2018-08-23,2018-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+RELAXO,2018-10-10 17:55:00,2018-10-10,2018-08-07,2018-08-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,323.0,0.0,0.0,0.0,0.0,2504.0,0.0,2181.0,0.0
+RELAXO,2018-10-10 17:55:00,2018-10-10,2018-07-03,2018-07-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3504.0,0.0,2504.0,0.0
+RELAXO,2018-10-10 17:55:00,2018-10-10,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,2181.0,0.0,931.0,0.0
+RELAXO,2018-11-16 18:45:00,2018-11-15,2018-11-15,2018-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,4850.0,0.0,0.0,0.0,0.0,3.0,0.0,4853.0,0.0
+RELAXO,2018-11-16 18:45:00,2018-11-15,2018-11-15,2018-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,3810.0,0.0,0.0,0.0,0.0,,0.0,3810.0,0.0
+RELAXO,2018-11-16 18:45:00,2018-11-15,2018-11-15,2018-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,5680.0,0.0,0.0,0.0,0.0,2800.0,0.0,8480.0,0.01
+RELAXO,2018-11-16 18:45:00,2018-11-15,2018-11-15,2018-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,4980.0,0.0,0.0,0.0,0.0,,0.0,4980.0,0.0
+RELAXO,2018-11-16 18:45:00,2018-11-16,2018-11-15,2018-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,4670.0,0.0,0.0,0.0,0.0,700.0,0.0,5370.0,0.0
+RELAXO,2018-11-16 18:45:00,2018-11-16,2018-11-15,2018-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2900.0,0.0,0.0,0.0,0.0,,0.0,2900.0,0.0
+RELAXO,2018-11-22 13:04:00,2018-11-21,2018-11-15,2018-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,9740.0,0.0,0.0,0.0,0.0,,0.0,9740.0,0.01
+RELAXO,2018-11-26 12:50:00,2018-11-23,2018-11-22,2018-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2891.0,0.0,0.0,0.0,0.0,2891.0,0.0,,0.0
+RELAXO,2018-11-26 12:50:00,2018-11-23,2018-11-21,2018-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9.0,0.0,0.0,0.0,0.0,2900.0,0.0,2891.0,0.0
+RELAXO,2018-11-28 15:28:00,2018-11-28,2018-11-15,2018-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,,0.0,3300.0,0.0
+RELAXO,2018-11-30 17:52:00,2018-11-30,2018-11-30,2018-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,840.0,0.0,0.0,0.0,0.0,840.0,0.0,,0.0
+RELAXO,2018-11-30 17:52:00,2018-11-30,2018-11-15,2018-11-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,840.0,0.0,0.0,0.0,0.0,,0.0,840.0,0.0
+RELAXO,2018-12-04 16:22:00,2018-12-03,2018-11-27,2018-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,4853.0,0.0,3053.0,0.0
+RELAXO,2018-12-24 13:00:00,2018-12-21,2018-11-15,2018-11-15,Key Managerial Personnel,ESOP,Buy,Equity Shares,1720.0,0.0,0.0,0.0,0.0,39700.0,0.03,41420.0,0.03
+RELAXO,2018-12-24 13:00:00,2018-12-21,2018-12-18,2018-12-20,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2330.0,0.0,0.0,0.0,0.0,41420.0,0.03,39090.0,0.03
+RELAXO,2018-12-27 16:22:00,2018-12-26,2018-12-26,2018-12-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,39090.0,0.03,38590.0,0.03
+RELAXO,2019-01-02 17:24:00,2018-12-31,2018-12-28,2018-12-31,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,38590.0,0.03,37490.0,0.03
+RELAXO,2019-01-04 15:11:00,2019-01-04,2019-01-03,2019-01-03,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,36490.0,0.03,34790.0,0.03
+RELAXO,2019-01-04 15:11:00,2019-01-04,2019-01-01,2019-01-01,Key Managerial Personnel,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,37490.0,0.03,36990.0,0.03
+RELAXO,2019-01-04 15:11:00,2019-01-04,2019-01-02,2019-01-02,Key Managerial Personnel,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,36990.0,0.03,36490.0,0.03
+RELAXO,2019-01-08 18:22:00,2019-01-08,2019-01-07,2019-01-07,Key Managerial Personnel,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,32990.0,0.03,32790.0,0.03
+RELAXO,2019-01-08 18:22:00,2019-01-08,2019-01-04,2019-01-04,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,34790.0,0.03,33290.0,0.03
+RELAXO,2019-01-08 18:22:00,2019-01-08,2019-01-07,2019-01-07,Key Managerial Personnel,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,33290.0,0.03,32990.0,0.03
+RELAXO,2019-01-11 14:39:00,2019-01-10,2019-01-09,2019-01-09,Key Managerial Personnel,Market Sale,Sell,Equity Shares,64.0,0.0,0.0,0.0,0.0,32350.0,0.03,32286.0,0.03
+RELAXO,2019-01-11 14:39:00,2019-01-10,2019-01-08,2019-01-08,Key Managerial Personnel,Market Sale,Sell,Equity Shares,440.0,0.0,0.0,0.0,0.0,32790.0,0.03,32350.0,0.03
+RELAXO,2019-01-11 14:39:00,2019-01-10,2019-01-10,2019-01-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,136.0,0.0,0.0,0.0,0.0,32286.0,0.03,32150.0,0.03
+RELAXO,2019-02-12 20:38:00,2019-02-11,2019-02-08,2019-02-08,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,1200722.0,0.0,0.0,0.0,0.0,31148150.0,25.86,32348872.0,26.08
+RELAXO,2019-02-12 20:38:00,2019-02-11,2019-02-08,2019-02-08,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,265731.0,0.0,0.0,0.0,0.0,4500450.0,3.74,4766181.0,3.84
+RELAXO,2019-02-12 20:38:00,2019-02-11,2019-02-08,2019-02-08,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,1065260.0,0.0,0.0,0.0,0.0,26445700.0,21.96,27510960.0,22.18
+RELAXO,2019-02-12 20:38:00,2019-02-11,2019-02-08,2019-02-08,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,229805.0,0.0,0.0,0.0,0.0,4500450.0,3.74,4730255.0,3.81
+RELAXO,2019-02-12 20:38:00,2019-02-11,2019-02-08,2019-02-08,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,171387.0,0.0,0.0,0.0,0.0,4500450.0,3.74,4671837.0,3.77
+RELAXO,2019-02-12 20:38:00,2019-02-11,2019-02-08,2019-02-08,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,171387.0,0.0,0.0,0.0,0.0,4500450.0,3.74,4671837.0,3.77
+RELAXO,2019-02-12 20:38:00,2019-02-11,2019-02-08,2019-02-08,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,171387.0,0.0,0.0,0.0,0.0,4500450.0,3.74,4671837.0,3.77
+RELAXO,2019-02-12 20:38:00,2019-02-11,2019-02-08,2019-02-08,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,171387.0,0.0,0.0,0.0,0.0,4500450.0,3.74,4671837.0,3.77
+RELAXO,2019-02-12 20:42:00,2019-02-11,2019-02-11,2019-02-11,Immediate relative,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,12000.0,0.01,11850.0,0.01
+RELAXO,2019-02-12 20:42:00,2019-02-12,2019-02-12,2019-02-12,Immediate relative,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,11850.0,0.01,11800.0,0.01
+RELAXO,2019-02-13 19:02:00,2019-02-11,2019-02-08,2019-02-08,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,171387.0,0.0,0.0,0.0,0.0,4500450.0,3.74,4671837.0,3.77
+RELAXO,2019-02-13 19:02:00,2019-02-13,2019-02-13,2019-02-13,Immediate relative,Market Sale,Sell,Equity Shares,1481.0,0.0,0.0,0.0,0.0,11800.0,0.01,10319.0,0.01
+RELAXO,2019-02-15 16:46:00,2019-02-15,2019-02-15,2019-02-15,Immediate relative,Market Sale,Sell,Equity Shares,75.0,0.0,0.0,0.0,0.0,10109.0,0.01,10034.0,0.01
+RELAXO,2019-02-15 16:46:00,2019-02-14,2019-02-14,2019-02-14,Director,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,22000.0,0.02,21950.0,0.02
+RELAXO,2019-02-15 16:46:00,2019-02-14,2019-02-14,2019-02-14,Immediate relative,Market Sale,Sell,Equity Shares,210.0,0.0,0.0,0.0,0.0,10319.0,0.01,10109.0,0.01
+RELAXO,2019-02-19 12:19:00,2019-02-18,2019-02-18,2019-02-18,Director,Market Sale,Sell,Equity Shares,25.0,0.0,0.0,0.0,0.0,21950.0,0.02,21925.0,0.02
+RELAXO,2019-02-19 12:19:00,2019-02-18,2019-02-18,2019-02-18,Immediate relative,Market Sale,Sell,Equity Shares,225.0,0.0,0.0,0.0,0.0,10034.0,0.01,9809.0,0.01
+RELAXO,2019-02-20 11:50:00,2019-02-19,2019-02-19,2019-02-19,Immediate relative,Market Sale,Sell,Equity Shares,584.0,0.0,0.0,0.0,0.0,9809.0,0.01,9225.0,0.01
+RELAXO,2019-02-20 11:50:00,2019-02-19,2019-02-19,2019-02-19,Director,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,21925.0,0.02,21825.0,0.02
+RELAXO,2019-02-22 16:58:00,2019-02-21,2019-02-21,2019-02-21,Immediate relative,Market Sale,Sell,Equity Shares,2008.0,0.0,0.0,0.0,0.0,9225.0,0.01,7217.0,0.01
+RELAXO,2019-02-26 16:56:00,2019-02-22,2019-02-18,2019-02-18,Director,Market Sale,Sell,Equity Shares,3300.0,0.0,0.0,0.0,0.0,5556.0,0.0,2256.0,0.0
+RELAXO,2019-02-26 16:56:00,2019-02-22,2019-02-08,2019-02-08,Director,Market Sale,Sell,Equity Shares,219.0,0.0,0.0,0.0,0.0,6775.0,0.01,6556.0,0.01
+RELAXO,2019-02-26 16:56:00,2019-02-22,2019-02-13,2019-02-13,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6556.0,0.01,5556.0,0.0
+RELAXO,2019-03-06 17:17:00,2019-03-06,2019-03-06,2019-03-06,Promoter Group,Market Sale,Sell,Equity Shares,440000.0,0.0,0.0,0.0,0.0,25510960.0,20.56,25070960.0,20.21
+RELAXO,2019-03-06 17:17:00,2019-03-06,2019-03-06,2019-03-06,Promoter Group,Market Sale,Sell,Equity Shares,440000.0,0.0,0.0,0.0,0.0,30348872.0,24.46,29908872.0,24.11
+RELAXO,2019-03-06 17:17:00,2019-03-06,2019-03-05,2019-03-05,Promoter Group,Market Sale,Sell,Equity Shares,2000000.0,0.0,0.0,0.0,0.0,27510960.0,22.18,25510960.0,20.56
+RELAXO,2019-03-06 17:17:00,2019-03-06,2019-03-05,2019-03-05,Promoter Group,Market Sale,Sell,Equity Shares,2000000.0,0.0,0.0,0.0,0.0,32348872.0,26.08,30348872.0,24.46
+RELAXO,2019-03-06 17:17:00,2019-03-06,2019-03-05,2019-03-05,Immediate relative,Market Sale,Sell,Equity Shares,20.0,0.0,0.0,0.0,0.0,7217.0,0.01,7197.0,0.01
+RELAXO,2019-03-07 16:22:00,2019-03-06,2019-03-06,2019-03-06,Director,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,21825.0,0.02,20325.0,0.02
+RELAXO,2019-03-07 16:22:00,2019-03-06,2019-03-06,2019-03-06,Immediate relative,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7197.0,0.01,6697.0,0.01
+RELAXO,2019-03-16 14:32:00,2019-03-15,2019-03-15,2019-03-15,Director,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,20205.0,0.02,20005.0,0.02
+RELAXO,2019-03-20 16:15:00,2019-03-19,2019-01-07,2019-01-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,903.0,0.0,0.0,0.0,0.0,9740.0,0.01,8837.0,0.01
+RELAXO,2019-03-20 16:15:00,2019-03-19,2019-01-07,2019-01-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3.0,0.0,0.0,0.0,0.0,8757.0,0.01,8754.0,0.01
+RELAXO,2019-03-20 16:15:00,2019-03-19,2019-01-07,2019-01-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14.0,0.0,0.0,0.0,0.0,8754.0,0.01,8740.0,0.01
+RELAXO,2019-03-20 16:15:00,2019-03-19,2019-02-14,2019-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,180.0,0.0,0.0,0.0,0.0,8740.0,0.01,8560.0,0.01
+RELAXO,2019-03-20 16:15:00,2019-03-19,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,8560.0,0.01,7060.0,0.01
+RELAXO,2019-03-20 16:15:00,2019-03-19,2019-01-07,2019-01-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,80.0,0.0,0.0,0.0,0.0,8837.0,0.01,8757.0,0.01
+RELAXO,2019-03-20 17:52:00,2019-03-20,2019-03-06,2019-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9662.0,0.01,8662.0,0.01
+RELAXO,2019-03-20 17:52:00,2019-03-20,2019-03-05,2019-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10662.0,0.01,9662.0,0.01
+RELAXO,2019-03-20 17:52:00,2019-03-20,2019-03-01,2019-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,11162.0,0.01,10662.0,0.01
+RELAXO,2019-03-25 17:54:00,2019-03-25,2019-03-25,2019-03-25,Immediate relative,Market Sale,Sell,Equity Shares,296.0,0.0,0.0,0.0,0.0,6697.0,0.01,6401.0,0.01
+RELAXO,2019-03-25 17:54:00,2019-03-25,2019-03-25,2019-03-25,Director,Market Sale,Sell,Equity Shares,296.0,0.0,0.0,0.0,0.0,20005.0,0.02,19709.0,0.02
+RELAXO,2019-03-26 17:25:00,2019-03-26,2019-03-25,2019-03-25,Director,Market Sale,Sell,Equity Shares,304.0,0.0,0.0,0.0,0.0,19709.0,0.02,19405.0,0.02
+RELAXO,2019-03-26 17:25:00,2019-03-26,2019-03-26,2019-03-26,Immediate relative,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,6401.0,0.01,6301.0,0.01
+RELAXO,2019-03-28 17:53:00,2019-03-28,2019-03-28,2019-03-28,Director,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,19405.0,0.02,19005.0,0.02
+RELAXO,2019-03-29 19:29:00,2019-03-29,2019-01-08,2019-01-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,170.0,0.0,0.0,0.0,0.0,4500.0,0.0,4330.0,0.0
+RELAXO,2019-03-29 19:29:00,2019-03-29,2019-02-13,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,4100.0,0.0,4000.0,0.0
+RELAXO,2019-03-29 19:29:00,2019-03-29,2019-03-29,2019-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1310.0,0.0,0.0,0.0,0.0,4000.0,0.0,2690.0,0.0
+RELAXO,2019-03-29 19:29:00,2019-03-29,2019-03-29,2019-03-29,Director,Market Sale,Sell,Equity Shares,2955.0,0.0,0.0,0.0,0.0,19005.0,0.02,16050.0,0.02
+RELAXO,2019-03-29 19:29:00,2019-03-29,2019-03-29,2019-03-29,Immediate relative,Market Sale,Sell,Equity Shares,1301.0,0.0,0.0,0.0,0.0,6301.0,0.01,5000.0,0.01
+RELAXO,2019-03-29 19:29:00,2019-03-29,2019-01-16,2019-01-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,4200.0,0.0,4100.0,0.0
+RELAXO,2019-03-29 19:29:00,2019-03-29,2019-01-11,2019-01-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,130.0,0.0,0.0,0.0,0.0,4330.0,0.0,4200.0,0.0
+RELAXO,2019-03-30 18:52:00,2019-03-30,2019-03-28,2019-03-28,Key Managerial Personnel,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,32150.0,0.03,31950.0,0.03
+RELAXO,2019-03-30 18:52:00,2019-03-30,2019-03-29,2019-03-29,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,31950.0,0.03,30650.0,0.02
+RELAXO,2019-06-01 10:14:00,2019-05-31,2019-05-31,2019-05-31,Immediate relative,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,5000.0,0.01,4900.0,0.01
+RELAXO,2019-06-05 18:48:00,2019-06-04,2019-06-04,2019-06-04,Immediate relative,Market Sale,Sell,Equity Shares,20.0,0.0,0.0,0.0,0.0,4900.0,0.01,4880.0,0.01
+RELAXO,2019-06-06 17:09:00,2019-06-06,2019-06-06,2019-06-06,Immediate relative,Market Sale,Sell,Equity Shares,63.0,0.0,0.0,0.0,0.0,4880.0,0.01,4817.0,0.01
+RELAXO,2019-06-07 16:09:00,2019-06-07,2019-06-07,2019-06-07,Immediate relative,Market Sale,Sell,Equity Shares,311.0,0.0,0.0,0.0,0.0,4817.0,0.01,4506.0,0.01
+RELAXO,2019-06-11 10:05:00,2019-06-10,2019-03-05,2019-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,597.0,0.0,0.0,0.0,0.0,5693.0,0.0,5096.0,0.0
+RELAXO,2019-06-11 10:05:00,2019-06-10,2019-06-10,2019-06-10,Immediate relative,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4506.0,0.01,4006.0,0.01
+RELAXO,2019-06-11 10:05:00,2019-06-10,2019-01-08,2019-01-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,6217.0,0.01,6017.0,0.0
+RELAXO,2019-06-11 10:05:00,2019-06-10,2019-02-14,2019-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,74.0,0.0,0.0,0.0,0.0,6017.0,0.0,5943.0,0.0
+RELAXO,2019-06-11 10:05:00,2019-06-10,2019-06-03,2019-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4295.0,0.0,3295.0,0.0
+RELAXO,2019-06-11 10:05:00,2019-06-10,2019-05-27,2019-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,4595.0,0.0,4295.0,0.0
+RELAXO,2019-06-11 10:05:00,2019-06-10,2019-03-27,2019-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5095.0,0.0,4595.0,0.0
+RELAXO,2019-06-11 10:05:00,2019-06-10,2019-03-08,2019-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1.0,0.0,0.0,0.0,0.0,5096.0,0.0,5095.0,0.0
+RELAXO,2019-06-11 10:05:00,2019-06-10,2019-02-18,2019-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,5943.0,0.0,5693.0,0.0
+RELAXO,2019-06-17 18:25:00,2019-06-17,2019-06-17,2019-06-17,Immediate relative,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,4006.0,0.01,3906.0,0.01
+RELAXO,2019-07-03 14:41:00,2019-07-02,2019-05-13,2019-05-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1547.0,0.0,0.0,0.0,0.0,6547.0,0.01,5000.0,0.0
+RELAXO,2019-07-03 14:41:00,2019-07-02,2019-05-13,2019-05-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,513.0,0.0,0.0,0.0,0.0,7060.0,0.01,6547.0,0.01
+RELAXO,2019-07-11 19:34:00,2019-07-09,2019-07-05,2019-07-05,Employees/Designated Employees,Bonus,Buy,Equity Shares,4671837.0,0.0,0.0,0.0,0.0,4671837.0,3.77,9343674.0,3.77
+RELAXO,2019-07-11 19:34:00,2019-07-09,2019-07-05,2019-07-05,Employees/Designated Employees,Bonus,Buy,Equity Shares,4671837.0,0.0,0.0,0.0,0.0,4671837.0,3.77,9343674.0,3.77
+RELAXO,2019-07-11 19:34:00,2019-07-09,2019-07-05,2019-07-05,Employees/Designated Employees,Bonus,Buy,Equity Shares,4671837.0,0.0,0.0,0.0,0.0,4671837.0,3.77,9343674.0,3.77
+RELAXO,2019-07-11 19:34:00,2019-07-09,2019-07-05,2019-07-05,Immediate relative,Bonus,Buy,Equity Shares,4766181.0,0.0,0.0,0.0,0.0,4766181.0,3.84,9532362.0,3.84
+RELAXO,2019-07-11 19:34:00,2019-07-09,2019-07-05,2019-07-05,Director,Bonus,Buy,Equity Shares,4671837.0,0.0,0.0,0.0,0.0,4671837.0,3.77,9343674.0,3.77
+RELAXO,2019-07-11 19:34:00,2019-07-09,2019-07-05,2019-07-05,Employees/Designated Employees,Bonus,Buy,Equity Shares,4671837.0,0.0,0.0,0.0,0.0,4671837.0,3.77,9343674.0,3.77
+RELAXO,2019-07-11 19:34:00,2019-07-09,2019-07-05,2019-07-05,Immediate relative,Bonus,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,20000.0,0.02,40000.0,0.02
+RELAXO,2019-07-11 19:34:00,2019-07-09,2019-07-05,2019-07-05,Immediate relative,Bonus,Buy,Equity Shares,14850.0,0.0,0.0,0.0,0.0,14850.0,0.01,29700.0,0.01
+RELAXO,2019-07-11 19:34:00,2019-07-09,2019-07-05,2019-07-05,Director,Bonus,Buy,Equity Shares,29908872.0,0.0,0.0,0.0,0.0,29908872.0,24.11,59817744.0,24.11
+RELAXO,2019-07-11 19:34:00,2019-07-09,2019-07-05,2019-07-05,Key Managerial Personnel,Bonus,Buy,Equity Shares,30650.0,0.0,0.0,0.0,0.0,30650.0,0.02,61300.0,0.02
+RELAXO,2019-07-12 18:49:00,2019-07-10,2019-07-05,2019-07-05,Immediate relative,Bonus,Buy,Equity Shares,3906.0,0.0,0.0,0.0,0.0,3906.0,0.0,7812.0,0.0
+RELAXO,2019-07-12 18:49:00,2019-07-10,2019-07-05,2019-07-05,Director,Bonus,Buy,Equity Shares,16050.0,0.0,0.0,0.0,0.0,16050.0,0.01,32100.0,0.01
+RELAXO,2019-07-17 15:08:00,2019-07-16,2019-07-05,2019-07-05,Promoters,Bonus,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.01,20000.0,0.01
+RELAXO,2019-07-22 19:15:00,2019-07-22,2019-07-05,2019-07-05,Promoters,Bonus,Buy,Equity Shares,25070960.0,0.0,0.0,0.0,0.0,25070960.0,20.21,50141920.0,20.21
+RELAXO,2019-07-22 19:15:00,2019-07-22,2019-07-05,2019-07-05,Promoters,Bonus,Buy,Equity Shares,4730255.0,0.0,0.0,0.0,0.0,4730255.0,3.81,9460510.0,3.81
+RELAXO,2019-07-22 19:15:00,2019-07-22,2019-07-05,2019-07-05,Promoters,Bonus,Buy,Equity Shares,232000.0,0.0,0.0,0.0,0.0,232000.0,0.19,464000.0,0.19
+RELAXO,2019-08-06 22:44:00,2019-08-06,2019-08-06,2019-08-06,Immediate relative,Market Sale,Sell,Equity Shares,1616.0,0.0,0.0,0.0,0.0,7812.0,0.0,6196.0,0.0
+RELAXO,2019-08-06 22:44:00,2019-08-06,2019-08-06,2019-08-06,Director,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,32100.0,0.01,31700.0,0.01
+RELAXO,2019-08-08 18:21:00,2019-08-08,2019-08-08,2019-08-08,Immediate relative,Market Sale,Sell,Equity Shares,248.0,0.0,0.0,0.0,0.0,6196.0,0.0,5948.0,0.0
+RELAXO,2019-08-13 18:13:00,2019-08-13,2019-08-13,2019-08-13,Immediate relative,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,5948.0,0.0,4648.0,0.0
+RELAXO,2019-08-13 18:13:00,2019-08-13,2019-08-13,2019-08-13,Director,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,31700.0,0.01,31200.0,0.01
+RELAXO,2019-08-16 17:12:00,2019-08-16,2019-08-16,2019-08-16,Immediate relative,Market Sale,Sell,Equity Shares,626.0,0.0,0.0,0.0,0.0,4648.0,0.0,4022.0,0.0
+RELAXO,2019-08-16 17:12:00,2019-08-14,2019-08-14,2019-08-14,Director,Market Sale,Sell,Equity Shares,554.0,0.0,0.0,0.0,0.0,31200.0,0.01,30646.0,0.01
+RELAXO,2019-08-20 18:35:00,2019-08-20,2019-08-20,2019-08-20,Immediate relative,Market Sale,Sell,Equity Shares,116.0,0.0,0.0,0.0,0.0,4022.0,0.0,3906.0,0.0
+RELAXO,2019-08-20 18:35:00,2019-08-20,2019-08-20,2019-08-20,Director,Market Sale,Sell,Equity Shares,710.0,0.0,0.0,0.0,0.0,30646.0,0.01,29936.0,0.01
+RELAXO,2019-08-21 18:05:00,2019-08-21,2019-08-21,2019-08-21,Director,Market Sale,Sell,Equity Shares,5930.0,0.0,0.0,0.0,0.0,29936.0,0.01,24006.0,0.01
+RELAXO,2019-08-23 14:44:00,2019-08-22,2019-08-22,2019-08-22,Director,Market Sale,Sell,Equity Shares,7956.0,0.0,0.0,0.0,0.0,24006.0,0.01,16050.0,0.01
+RELAXO,2019-08-26 18:02:00,2019-08-23,2019-08-23,2019-08-23,Immediate relative,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3906.0,0.0,3706.0,0.0
+RELAXO,2019-08-29 22:16:00,2019-08-29,2019-08-29,2019-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7000.0,0.0,6000.0,0.0
+RELAXO,2019-08-29 22:16:00,2019-08-29,2019-08-27,2019-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,8000.0,0.0,7000.0,0.0
+RELAXO,2019-08-29 22:16:00,2019-08-29,2019-08-26,2019-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9000.0,0.0,8000.0,0.0
+RELAXO,2019-08-29 22:16:00,2019-08-29,2019-08-22,2019-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10000.0,0.0,9000.0,0.0
+RELAXO,2019-08-29 22:16:00,2019-08-29,2019-07-08,2019-07-08,Employees/Designated Employees,Bonus,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,10000.0,0.0
+RELAXO,2019-08-29 22:16:00,2019-08-29,2019-08-29,2019-08-29,Immediate relative,Market Sale,Sell,Equity Shares,106.0,0.0,0.0,0.0,0.0,3706.0,0.0,3600.0,0.0
+RELAXO,2019-09-02 19:53:00,2019-09-02,2019-08-29,2019-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9960.0,0.0,8960.0,0.0
+RELAXO,2019-09-02 19:53:00,2019-09-02,2019-07-05,2019-07-05,Employees/Designated Employees,Bonus,Buy,Equity Shares,4980.0,0.0,0.0,0.0,0.0,4980.0,0.0,9960.0,0.0
+RELAXO,2019-09-02 19:53:00,2019-08-30,2019-08-28,2019-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5000.0,0.0,4500.0,0.0
+RELAXO,2019-09-02 19:53:00,2019-08-30,2019-08-28,2019-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,6500.0,0.0,5000.0,0.0
+RELAXO,2019-09-02 19:53:00,2019-08-30,2019-08-28,2019-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,6800.0,0.0,6500.0,0.0
+RELAXO,2019-09-02 19:53:00,2019-08-30,2019-08-28,2019-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,9000.0,0.0,6800.0,0.0
+RELAXO,2019-09-02 19:53:00,2019-08-30,2019-07-03,2019-07-03,Employees/Designated Employees,Bonus,Buy,Equity Shares,4500.0,0.0,0.0,0.0,0.0,4500.0,0.0,9000.0,0.0
+RELAXO,2019-09-02 19:53:00,2019-09-02,2019-08-29,2019-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8960.0,0.0,6960.0,0.0
+RELAXO,2019-09-02 19:53:00,2019-09-02,2019-08-30,2019-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4960.0,0.0,3960.0,0.0
+RELAXO,2019-09-02 19:53:00,2019-09-02,2019-08-29,2019-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,6960.0,0.0,4960.0,0.0
+RELAXO,2019-09-04 18:53:00,2019-09-04,2019-09-04,2019-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0,1500.0,0.0
+RELAXO,2019-09-04 18:53:00,2019-09-04,2019-09-03,2019-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4500.0,0.0,2500.0,0.0
+RELAXO,2019-09-13 17:24:00,2019-09-12,2019-09-09,2019-09-09,Promoter Group,Gift,Sell,Equity Shares,2000000.0,0.0,0.0,0.0,0.0,59817744.0,24.11,57817744.0,23.3
+RELAXO,2019-09-16 14:50:00,2019-09-12,2019-09-10,2019-09-10,Promoters,Gift,Buy,Equity Shares,2000000.0,0.0,0.0,0.0,0.0,20000.0,0.01,2020000.0,0.81
+RELAXO,2019-09-25 23:18:00,2019-09-24,2019-09-11,2019-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7660.0,0.0,6660.0,0.0
+RELAXO,2019-09-25 23:18:00,2019-09-24,2019-09-23,2019-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6660.0,0.0,5660.0,0.0
+RELAXO,2019-09-25 23:18:00,2019-09-24,2019-07-05,2019-07-05,Employees/Designated Employees,Bonus,Buy,Equity Shares,3830.0,0.0,0.0,0.0,0.0,3830.0,0.0,7660.0,0.0
+RELAXO,2019-11-22 18:48:00,2019-11-22,2019-11-21,2019-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2950.0,0.0,950.0,0.0
+RELAXO,2019-11-22 18:48:00,2019-11-22,2019-11-13,2019-11-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,1800.0,0.0,0.0,0.0,0.0,,0.0,1800.0,0.0
+RELAXO,2019-11-22 18:48:00,2019-11-22,2019-11-21,2019-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,1800.0,0.0,,0.0
+RELAXO,2019-11-22 18:48:00,2019-11-22,2019-11-13,2019-11-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,2950.0,0.0,0.0,0.0,0.0,,0.0,2950.0,0.0
+RELAXO,2019-12-02 10:32:00,2019-11-30,2019-11-13,2019-11-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,5160.0,0.0,0.0,0.0,0.0,61300.0,0.02,66460.0,0.03
+RELAXO,2019-12-04 18:30:00,2019-12-04,2019-11-13,2019-11-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,18600.0,0.0,0.0,0.0,0.0,,0.0,18600.0,0.01
+RELAXO,2019-12-04 18:30:00,2019-12-03,2019-11-13,2019-11-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,6200.0,0.0,0.0,0.0,0.0,,0.0,6200.0,0.0
+RELAXO,2019-12-04 18:30:00,2019-12-04,2019-11-13,2019-11-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,4800.0,0.0,0.0,0.0,0.0,43740.0,0.02,48540.0,0.02
+RELAXO,2019-12-06 17:42:00,2019-12-06,2019-11-18,2019-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,5000.0,0.0,3800.0,0.0
+RELAXO,2019-12-06 17:42:00,2019-12-06,2019-11-13,2019-11-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,4620.0,0.0,0.0,0.0,0.0,3800.0,0.0,8420.0,0.0
+RELAXO,2019-12-06 17:42:00,2019-12-05,2019-11-13,2019-11-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,3940.0,0.0,0.0,0.0,0.0,,0.0,3940.0,0.0
+RELAXO,2019-12-13 17:30:00,2019-12-13,2019-12-04,2019-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,861.0,0.0,0.0,0.0,0.0,3940.0,0.0,3079.0,0.0
+RELAXO,2019-12-13 17:30:00,2019-12-13,2019-12-06,2019-12-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3079.0,0.0,2079.0,0.0
+RELAXO,2019-12-13 17:30:00,2019-12-13,2019-12-10,2019-12-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,339.0,0.0,0.0,0.0,0.0,2079.0,0.0,1740.0,0.0
+RELAXO,2019-12-30 14:28:00,2019-12-30,2019-12-06,2019-12-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7800.0,0.0,6800.0,0.0
+RELAXO,2019-12-30 14:28:00,2019-12-30,2019-12-09,2019-12-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6800.0,0.0,5800.0,0.0
+RELAXO,2019-12-30 14:28:00,2019-12-30,2019-11-25,2019-11-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,620.0,0.0,0.0,0.0,0.0,8420.0,0.0,7800.0,0.0
+RELAXO,2020-02-28 18:21:00,2020-02-27,2019-12-03,2019-12-03,Employees/Designated Employees,Gift,Sell,Equity Shares,6200.0,0.0,0.0,0.0,0.0,6200.0,0.0,,0.0
+RELAXO,2020-09-30 18:18:00,2020-09-30,2020-09-25,2020-09-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4000.0,0.0,3000.0,0.0
+RELAXO,2020-09-30 18:18:00,2020-09-30,2020-09-28,2020-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3000.0,0.0,1000.0,0.0
+RELAXO,2020-09-30 18:18:00,2020-09-30,2020-09-30,2020-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+RELAXO,2020-10-06 17:56:00,2020-10-03,2020-09-30,2020-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2268.0,0.0,0.0,0.0,0.0,5068.0,0.0,2800.0,0.0
+RELAXO,2020-11-19 18:15:00,2020-11-18,2020-11-14,2020-11-14,Key Managerial Personnel,ESOP,Buy,Equity Shares,8600.0,0.0,0.0,0.0,0.0,66610.0,0.03,75210.0,0.03
+RELAXO,2020-11-19 18:15:00,2020-11-18,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,6100.0,0.0,0.0,0.0,0.0,17576.0,0.01,23676.0,0.01
+RELAXO,2020-11-19 18:15:00,2020-11-18,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,5500.0,0.0,0.0,0.0,0.0,20624.0,0.01,26124.0,0.01
+RELAXO,2020-11-19 18:15:00,2020-11-18,2020-11-14,2020-11-14,Director,ESOP,Buy,Equity Shares,6500.0,0.0,0.0,0.0,0.0,2000.0,0.0,8500.0,0.0
+RELAXO,2020-11-19 18:15:00,2020-11-18,2020-11-06,2020-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6200.0,0.0,5700.0,0.0
+RELAXO,2020-11-19 18:15:00,2020-11-18,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,3700.0,0.0,0.0,0.0,0.0,2500.0,0.0,6200.0,0.0
+RELAXO,2020-11-19 18:15:00,2020-11-19,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,7200.0,0.0,0.0,0.0,0.0,4800.0,0.0,12000.0,0.0
+RELAXO,2020-11-19 18:15:00,2020-11-18,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,7700.0,0.0,0.0,0.0,0.0,,0.0,7700.0,0.0
+RELAXO,2020-11-19 18:15:00,2020-11-19,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,48540.0,0.02,56540.0,0.02
+RELAXO,2020-11-23 16:44:00,2020-11-21,2020-11-18,2020-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,500.0,0.0,400.0,0.0
+RELAXO,2020-11-23 16:44:00,2020-11-21,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1300.0,0.0,0.0,0.0,0.0,,0.0,1300.0,0.0
+RELAXO,2020-11-23 16:44:00,2020-11-23,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,4900.0,0.0,0.0,0.0,0.0,,0.0,4900.0,0.0
+RELAXO,2020-11-23 16:44:00,2020-11-21,2020-11-17,2020-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,1300.0,0.0,500.0,0.0
+RELAXO,2020-12-01 18:20:00,2020-12-01,2020-08-05,2020-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6620.0,0.0,6120.0,0.0
+RELAXO,2020-12-01 18:20:00,2020-12-01,2020-09-01,2020-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6120.0,0.0,5620.0,0.0
+RELAXO,2020-12-01 18:20:00,2020-12-01,2020-09-28,2020-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5120.0,0.0,4620.0,0.0
+RELAXO,2020-12-01 18:20:00,2020-12-01,2020-09-18,2020-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5620.0,0.0,5120.0,0.0
+RELAXO,2020-12-11 11:36:00,2020-12-11,2020-12-09,2020-12-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3000.0,0.0,2800.0,0.0
+RELAXO,2020-12-11 11:36:00,2020-12-11,2020-12-01,2020-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3400.0,0.0,3200.0,0.0
+RELAXO,2020-12-11 11:36:00,2020-12-11,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,2720.0,0.0,0.0,0.0,0.0,680.0,0.0,3400.0,0.0
+RELAXO,2020-12-11 11:36:00,2020-12-11,2020-12-10,2020-12-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,2800.0,0.0,2000.0,0.0
+RELAXO,2020-12-11 11:36:00,2020-12-11,2020-12-08,2020-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3200.0,0.0,3000.0,0.0
+RELAXO,2020-12-11 14:49:00,2020-12-11,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1550.0,0.0,0.0,0.0,0.0,1530.0,0.0,3080.0,0.0
+RELAXO,2020-12-11 14:49:00,2020-12-11,2020-12-02,2020-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,3080.0,0.0,1830.0,0.0
+RELAXO,2020-12-15 20:56:00,2020-12-15,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,6935.0,0.0,0.0,0.0,0.0,1091.0,0.0,8026.0,0.0
+RELAXO,2020-12-18 17:01:00,2020-12-17,2020-12-16,2020-12-16,Director,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,8500.0,0.0,4000.0,0.0
+RELAXO,2020-12-18 17:01:00,2020-12-18,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,400.0,0.0,,0.0
+RELAXO,2020-12-22 22:34:00,2020-12-21,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25.0,0.0,0.0,0.0,0.0,5700.0,0.0,5675.0,0.0
+RELAXO,2020-12-22 22:34:00,2020-12-21,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1650.0,0.0,0.0,0.0,0.0,990.0,0.0,2640.0,0.0
+RELAXO,2020-12-22 22:34:00,2020-12-21,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2640.0,0.0,0.0,0.0,0.0,2640.0,0.0,,0.0
+RELAXO,2020-12-22 22:34:00,2020-12-22,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1800.0,0.0,0.0,0.0,0.0,,0.0,1800.0,0.0
+RELAXO,2020-12-22 22:34:00,2020-12-22,2020-12-16,2020-12-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1800.0,0.0,1300.0,0.0
+RELAXO,2020-12-22 22:34:00,2020-12-22,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1300.0,0.0,1000.0,0.0
+RELAXO,2020-12-22 22:34:00,2020-12-22,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5675.0,0.0,4675.0,0.0
+RELAXO,2020-12-22 22:34:00,2020-12-22,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1000.0,0.0,500.0,0.0
+RELAXO,2020-12-24 21:57:00,2020-12-23,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,4262.0,0.0,3162.0,0.0
+RELAXO,2020-12-24 21:57:00,2020-12-23,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,3700.0,0.0,0.0,0.0,0.0,3162.0,0.0,6862.0,0.0
+RELAXO,2020-12-24 21:57:00,2020-12-24,2020-12-23,2020-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2176.0,0.0,0.0,0.0,0.0,23676.0,0.01,21500.0,0.01
+RELAXO,2020-12-24 21:57:00,2020-12-24,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,3900.0,0.0,0.0,0.0,0.0,6300.0,0.0,10200.0,0.0
+RELAXO,2020-12-24 21:57:00,2020-12-24,2020-12-24,2020-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1850.0,0.0,0.0,0.0,0.0,10200.0,0.0,8350.0,0.0
+RELAXO,2020-12-24 21:57:00,2020-12-24,2020-12-24,2020-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5310.0,0.0,4310.0,0.0
+RELAXO,2020-12-24 21:57:00,2020-12-24,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,2950.0,0.0,0.0,0.0,0.0,2360.0,0.0,5310.0,0.0
+RELAXO,2020-12-28 18:51:00,2020-12-28,2020-12-24,2020-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,500.0,0.0,300.0,0.0
+RELAXO,2020-12-28 18:51:00,2020-12-28,2020-12-28,2020-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3550.0,0.0,550.0,0.0
+RELAXO,2020-12-28 18:51:00,2020-12-28,2020-12-15,2020-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,1400.0,0.0,,0.0
+RELAXO,2020-12-28 18:51:00,2020-12-28,2020-11-17,2020-11-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,1400.0,0.0,0.0,0.0,0.0,,0.0,1400.0,0.0
+RELAXO,2020-12-28 18:51:00,2020-12-28,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1700.0,0.0,0.0,0.0,0.0,1850.0,0.0,3550.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,500.0,0.0,1750.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-12-16,2020-12-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7699.0,0.0,7199.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-11-27,2020-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1250.0,0.0,750.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-12-10,2020-12-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,750.0,0.0,250.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,3150.0,0.0,0.0,0.0,0.0,,0.0,3150.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-12-09,2020-12-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1150.0,0.0,0.0,0.0,0.0,3150.0,0.0,2000.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-12-28,2020-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4675.0,0.0,3675.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,7199.0,0.0,6999.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-11-26,2020-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1750.0,0.0,1250.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-11-30,2020-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1.0,0.0,0.0,0.0,0.0,7700.0,0.0,7699.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,2550.0,0.0,0.0,0.0,0.0,5150.0,0.0,7700.0,0.0
+RELAXO,2020-12-30 17:54:00,2020-12-29,2020-12-24,2020-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2000.0,0.0,1900.0,0.0
+RELAXO,2021-01-01 10:46:00,2020-12-31,2020-12-28,2020-12-28,Director,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4000.0,0.0,,0.0
+RELAXO,2021-01-02 16:39:00,2021-01-02,2020-12-31,2020-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8026.0,0.0,6026.0,0.0
+RELAXO,2021-01-04 18:35:00,2021-01-04,2020-10-14,2020-10-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,3800.0,0.0,0.0,0.0,0.0,2800.0,0.0,6600.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-13,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,3150.0,0.0,0.0,0.0,0.0,3350.0,0.0,6500.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-13,2020-11-05,2020-11-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4320.0,0.0,3820.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-13,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,2550.0,0.0,0.0,0.0,0.0,3820.0,0.0,6370.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-14,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1150.0,0.0,900.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-14,2020-11-17,2020-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1650.0,0.0,1150.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-14,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1650.0,0.0,0.0,0.0,0.0,,0.0,1650.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-14,2020-11-14,2020-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,7200.0,0.0,0.0,0.0,0.0,4800.0,0.0,12000.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-14,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7700.0,0.0,6700.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-13,2020-12-29,2020-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,5500.0,0.0,5400.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-13,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,5800.0,0.0,5500.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-13,2020-12-16,2020-12-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,6000.0,0.0,5800.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-13,2020-12-09,2020-12-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,370.0,0.0,0.0,0.0,0.0,6370.0,0.0,6000.0,0.0
+RELAXO,2021-01-14 18:26:00,2021-01-13,2020-11-09,2020-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,5550.0,0.0,3350.0,0.0
+RELAXO,2021-01-18 16:38:00,2021-01-18,2020-11-16,2020-11-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2550.0,0.0,0.0,0.0,0.0,3930.0,0.0,6480.0,0.0
+RELAXO,2021-01-18 16:38:00,2021-01-18,2020-11-17,2020-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,6480.0,0.0,4480.0,0.0
+RELAXO,2021-02-10 18:13:00,2021-02-09,2020-11-20,2020-11-20,Employees/Designated Employees,Gift,Sell,Equity Shares,4900.0,0.0,0.0,0.0,0.0,4900.0,0.0,,0.0
+RELAXO,2021-05-28 20:12:00,2021-05-27,2021-05-26,2021-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4500.0,0.0,3500.0,0.0
+RELAXO,2021-05-28 20:12:00,2021-05-27,2021-05-27,2021-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,5500.0,0.0,4100.0,0.0
+RELAXO,2021-05-28 20:12:00,2021-05-28,2021-05-24,2021-05-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,9700.0,0.0,9200.0,0.0
+RELAXO,2021-05-28 20:12:00,2021-05-28,2021-05-27,2021-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,8500.0,0.0,8400.0,0.0
+RELAXO,2021-05-28 20:12:00,2021-05-28,2021-05-25,2021-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,9200.0,0.0,8500.0,0.0
+RELAXO,2021-05-31 19:15:00,2021-05-28,2021-05-28,2021-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,8400.0,0.0,8200.0,0.0
+RELAXO,2021-06-10 16:40:00,2021-06-08,2021-05-25,2021-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5526.0,0.0,5026.0,0.0
+RELAXO,2021-06-10 16:40:00,2021-06-08,2021-05-24,2021-05-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6026.0,0.0,5526.0,0.0
+RELAXO,2021-06-10 16:40:00,2021-06-10,2021-05-27,2021-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1050.0,0.0,0.0,0.0,0.0,1550.0,0.0,500.0,0.0
+RELAXO,2021-06-10 16:40:00,2021-06-10,2021-05-26,2021-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4300.0,0.0,3300.0,0.0
+RELAXO,2021-06-14 13:56:00,2021-06-11,2021-05-27,2021-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,1260.0,0.0,1060.0,0.0
+RELAXO,2021-06-14 13:56:00,2021-06-11,2021-05-26,2021-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,1960.0,0.0,1260.0,0.0
+RELAXO,2021-06-15 15:53:00,2021-06-15,2021-06-09,2021-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1000.0,0.0,500.0,0.0
+RELAXO,2021-06-15 15:53:00,2021-06-15,2021-05-24,2021-05-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,950.0,0.0,0.0,0.0,0.0,2950.0,0.0,2000.0,0.0
+RELAXO,2021-06-15 15:53:00,2021-06-15,2021-06-03,2021-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+RELAXO,2021-06-15 15:53:00,2021-06-15,2021-06-14,2021-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,500.0,0.0,50.0,0.0
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-14,2021-06-14,-,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5026.0,0.0,4526.0,0.0
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-15,2021-06-15,-,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4526.0,0.0,4026.0,0.0
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-18,2021-06-18,-,Market Sale,Sell,Equity Shares,426.0,0.0,0.0,0.0,0.0,4026.0,0.0,3600.0,0.0
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-05-24,2021-05-24,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4500.0,0.0,3500.0,0.0
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-05-26,2021-05-26,-,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,56540.0,0.02,56340.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-05-28,2021-05-27,-,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,56340.0,0.02,56140.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-05-31,2021-05-31,-,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,56140.0,0.02,55940.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-01,2021-06-01,-,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,55940.0,0.02,55890.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-03,2021-06-03,-,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,55890.0,0.02,55790.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-04,2021-06-04,-,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,55790.0,0.02,55740.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-07,2021-06-07,-,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,55740.0,0.02,55690.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-10,2021-06-10,-,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,55690.0,0.02,55490.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-14,2021-06-14,-,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,55490.0,0.02,55290.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-15,2021-06-15,-,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,55290.0,0.02,55140.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-17,2021-06-17,-,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,55140.0,0.02,54890.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-18,2021-06-18,-,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,54890.0,0.02,54790.0,0.02
+RELAXO,2021-06-22 19:56:00,2021-06-22,2021-06-18,2021-06-18,-,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,54790.0,0.02,54690.0,0.02
+RELAXO,2021-06-28 21:41:00,2021-06-28,2021-05-31,2021-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,8200.0,0.0,8100.0,0.0
+RELAXO,2021-06-28 21:41:00,2021-06-28,2021-06-18,2021-06-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8330.0,0.0,6330.0,0.0
+RELAXO,2021-06-28 21:41:00,2021-06-28,2021-06-17,2021-06-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,9830.0,0.0,8330.0,0.0
+RELAXO,2021-06-28 21:41:00,2021-06-28,2021-06-24,2021-06-24,-,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,54040.0,0.02,53940.0,0.02
+RELAXO,2021-06-28 21:41:00,2021-06-28,2021-06-23,2021-06-23,-,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,54690.0,0.02,54040.0,0.02
+RELAXO,2021-07-02 14:20:00,2021-07-01,2021-06-30,2021-06-30,-,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,53940.0,0.02,53840.0,0.02
+RELAXO,2021-07-07 09:45:00,2021-07-06,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,8200.0,0.0,8100.0,0.0
+RELAXO,2021-07-07 09:45:00,2021-07-06,2021-06-30,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9.0,0.0,0.0,0.0,0.0,8100.0,0.0,8091.0,0.0
+RELAXO,2021-07-07 09:45:00,2021-07-06,2021-06-25,2021-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,8300.0,0.0,8200.0,0.0
+RELAXO,2021-07-07 09:45:00,2021-07-06,2021-06-23,2021-06-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,8600.0,0.0,8400.0,0.0
+RELAXO,2021-07-07 09:45:00,2021-07-06,2021-06-15,2021-06-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,8700.0,0.0,8600.0,0.0
+RELAXO,2021-07-07 09:45:00,2021-07-06,2021-05-31,2021-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,8800.0,0.0,8700.0,0.0
+RELAXO,2021-07-07 09:45:00,2021-07-06,2021-05-28,2021-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,8900.0,0.0,8800.0,0.0
+RELAXO,2021-07-07 09:45:00,2021-07-06,2021-05-28,2021-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,9000.0,0.0,8900.0,0.0
+RELAXO,2021-07-07 09:45:00,2021-07-06,2021-06-23,2021-06-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,8400.0,0.0,8300.0,0.0
+RELAXO,2021-07-08 16:57:00,2021-07-07,2021-06-23,2021-06-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,4100.0,0.0,3800.0,0.0
+RELAXO,2021-07-14 16:47:00,2021-07-14,2021-06-17,2021-06-17,-,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2660.0,0.0,2560.0,0.0
+RELAXO,2021-07-14 16:47:00,2021-07-14,2021-06-23,2021-06-23,-,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,2560.0,0.0,2160.0,0.0
+RELAXO,2021-07-14 16:47:00,2021-07-14,2021-05-26,2021-05-26,-,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,3660.0,0.0,2860.0,0.0
+RELAXO,2021-07-14 16:47:00,2021-07-13,2021-03-22,2021-03-22,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,7000.0,0.0,0.0,0.0,0.0,23240.0,0.01,23240.0,0.01
+RELAXO,2021-07-14 16:47:00,2021-07-14,2021-06-15,2021-06-15,-,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2860.0,0.0,2660.0,0.0

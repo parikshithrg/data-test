@@ -1,0 +1,10 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ALBK,2016-04-04 12:51:00,2016-04-01,2016-03-31,2016-03-31,Other,Preferential Offer,Buy,Equity Shares,13244282.0,0.0,0.0,0.0,0.0,75757323.0,12.34,89001605.0,14.5
+ALBK,2016-05-17 19:44:00,2016-05-16,2016-05-16,2016-05-16,Promoters,Preferential Offer,Buy,Equity Shares,109229064.0,0.0,0.0,0.0,0.0,376749121.0,61.38,485978185.0,67.21
+ALBK,2016-10-26 18:27:00,2016-10-26,2016-10-24,2016-10-24,Other,Preferential Offer,Buy,Equity Shares,16426392.0,0.0,0.0,0.0,0.0,88946605.0,12.23,105372997.0,14.17
+ALBK,2017-08-07 20:56:00,2017-08-07,2017-08-07,2017-08-07,Promoter Group,Preferential Offer,Buy,Equity Shares,56524678.0,0.0,0.0,0.0,0.0,490208411.0,65.92,546733089.0,68.32
+ALBK,2018-05-29 19:32:00,2018-05-29,2018-05-29,2018-05-29,Promoters,Preferential Offer,Buy,Equity Shares,210733352.0,0.0,0.0,0.0,0.0,546733089.0,64.78,757466441.0,71.81
+ALBK,2018-10-15 18:17:00,2018-10-15,2018-10-15,2018-10-15,Promoters,Preferential Offer,Buy,Equity Shares,389215046.0,0.0,0.0,0.0,0.0,757466441.0,71.81,1146681487.0,79.41
+ALBK,2019-02-18 18:28:00,2019-02-18,2019-02-18,2019-02-18,Promoters,Preferential Offer,Buy,Equity Shares,652843095.0,0.0,0.0,0.0,0.0,1146681487.0,79.41,1799524582.0,85.82
+ALBK,2019-04-26 15:27:00,2019-04-24,2019-04-24,2019-04-24,Promoters,Preferential Offer,Buy,Equity Shares,1624882186.0,0.0,0.0,0.0,0.0,1799524582.0,85.82,3424406768.0,92.01
+ALBK,2019-05-13 14:55:00,,2019-04-24,2019-04-24,Promoters,Preferential Offer,Buy,Equity Shares,1624882186.0,0.0,0.0,0.0,0.0,1799524582.0,85.82,3424406768.0,92.01

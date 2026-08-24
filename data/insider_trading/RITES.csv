@@ -1,0 +1,62 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+RITES,2018-07-09 15:27:00,2018-07-04,2018-07-02,2018-07-02,Employees/Designated Employees,Market Purchase,Buy,Equity,4515.0,0.0,0.0,0.0,0.0,2720.0,0.0,7235.0,0.0
+RITES,2018-07-09 15:27:00,2018-07-04,2018-06-28,2018-06-28,Employees/Designated Employees,Others,Buy,Equity,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.0
+RITES,2018-07-09 15:27:00,2018-07-05,2018-07-05,2018-07-05,Employees/Designated Employees,Market Purchase,Buy,Equity,2000.0,0.0,0.0,0.0,0.0,720.0,0.0,2720.0,0.0
+RITES,2018-07-09 15:27:00,2018-07-04,2018-07-02,2018-07-02,Employees/Designated Employees,Market Sale,Sell,Equity,2000.0,0.0,0.0,0.0,0.0,2720.0,0.0,720.0,0.0
+RITES,2018-07-09 15:27:00,2018-07-04,2018-07-02,2018-07-02,Employees/Designated Employees,Market Sale,Sell,Equity,5940.0,0.0,0.0,0.0,0.0,7235.0,0.0,1295.0,0.0
+RITES,2018-07-09 15:27:00,2018-07-04,2018-07-02,2018-07-02,Employees/Designated Employees,Market Sale,Sell,Equity,2720.0,0.0,0.0,0.0,0.0,2720.0,0.0,,0.0
+RITES,2018-07-09 15:27:00,2018-07-04,2018-06-28,2018-07-02,Employees/Designated Employees,Others,Buy,Equity,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.0
+RITES,2018-07-09 15:27:00,2018-07-04,2018-07-02,2018-07-02,Employees/Designated Employees,Market Sale,Sell,Equity,2720.0,0.0,0.0,0.0,0.0,2720.0,0.0,,0.0
+RITES,2018-07-09 15:27:00,2018-07-04,2018-06-28,2018-06-28,Employees/Designated Employees,Others,Buy,Equity,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.0
+RITES,2018-07-09 15:27:00,2018-07-04,2018-06-28,2018-06-28,Employees/Designated Employees,Others,Buy,Equity,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.0
+RITES,2018-07-13 12:11:00,2018-07-05,2018-07-03,2018-07-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2500.0,0.0,2000.0,0.0
+RITES,2018-07-13 12:11:00,2018-07-05,2018-07-02,2018-07-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,220.0,0.0,0.0,0.0,0.0,2720.0,0.0,2500.0,0.0
+RITES,2018-07-13 12:11:00,2018-07-05,2018-06-28,2018-06-28,Employees/Designated Employees,Others,Buy,Equity Shares,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.0
+RITES,2018-07-13 12:11:00,2018-07-12,2018-07-09,2018-07-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+RITES,2018-07-13 12:11:00,2018-07-05,2018-07-02,2018-07-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2220.0,0.0,0.0,0.0,0.0,2720.0,0.0,500.0,0.0
+RITES,2018-07-13 12:11:00,2018-07-05,2018-06-28,2018-06-28,Employees/Designated Employees,Others,Buy,Equity Shares,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.0
+RITES,2018-07-13 12:11:00,2018-07-12,2018-07-10,2018-07-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+RITES,2018-07-13 12:11:00,2018-07-05,2018-07-05,2018-07-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,2000.0,0.0,1250.0,0.0
+RITES,2018-07-13 12:11:00,2018-07-12,2018-07-06,2018-07-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1250.0,0.0,1000.0,0.0
+RITES,2018-08-01 11:46:00,2018-07-31,2018-07-30,2018-07-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2220.0,0.0,0.0,0.0,0.0,2220.0,0.0,,0.0
+RITES,2018-08-01 11:46:00,2018-07-31,2018-07-27,2018-07-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2720.0,0.0,2220.0,0.0
+RITES,2018-08-01 11:46:00,2018-07-05,2018-06-28,2018-06-28,Employees/Designated Employees,Others,Buy,Equity Shares,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.0
+RITES,2018-08-01 11:46:00,2018-07-31,2018-07-25,2018-07-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,750.0,0.0,,0.0
+RITES,2018-08-01 11:46:00,2018-07-31,2018-07-24,2018-07-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,1500.0,0.0,750.0,0.0
+RITES,2018-08-01 11:46:00,2018-07-31,2018-07-10,2018-07-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,720.0,0.0,0.0,0.0,0.0,2220.0,0.0,1500.0,0.0
+RITES,2018-08-01 11:46:00,2018-07-31,2018-07-04,2018-07-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2720.0,0.0,2220.0,0.0
+RITES,2018-08-01 11:46:00,2018-07-02,2018-06-28,2018-06-28,Employees/Designated Employees,Others,Buy,Equity Shares,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.0
+RITES,2018-08-08 10:50:00,2018-08-04,2018-07-02,2018-07-02,Employees/Designated Employees,Others,Buy,Equity Shares,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.01
+RITES,2018-08-08 10:50:00,2018-07-04,2018-07-02,2018-07-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1220.0,0.0,0.0,0.0,0.0,2720.0,0.01,1500.0,0.08
+RITES,2018-08-08 10:50:00,2018-07-27,2018-07-26,2018-07-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1500.0,0.08,500.0,0.03
+RITES,2018-08-08 10:50:00,2018-08-06,2018-07-31,2018-07-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,500.0,0.03,400.0,0.02
+RITES,2018-08-08 10:50:00,2018-08-06,2018-08-06,2018-08-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,300.0,0.02,200.0,0.01
+RITES,2018-08-08 10:50:00,2018-08-06,2018-08-03,2018-08-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,400.0,0.02,300.0,0.02
+RITES,2018-08-16 17:31:00,2018-08-14,2018-07-26,2018-07-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1320.0,0.01,820.0,0.0
+RITES,2018-08-16 17:31:00,2018-08-14,2018-07-24,2018-07-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1820.0,0.01,1320.0,0.01
+RITES,2018-08-16 17:31:00,2018-08-14,2018-07-17,2018-07-17,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2.0,0.0,0.0,0.0,0.0,1818.0,0.01,1820.0,0.01
+RITES,2018-08-16 17:31:00,2018-08-14,2018-07-12,2018-07-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2318.0,0.01,1818.0,0.01
+RITES,2018-08-16 17:31:00,2018-08-14,2018-08-03,2018-08-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,420.0,0.0,220.0,0.0
+RITES,2018-08-16 17:31:00,2018-08-14,2018-07-02,2018-07-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,2720.0,0.01,2320.0,0.01
+RITES,2018-08-16 17:31:00,2018-08-14,2018-06-23,2018-06-28,Employees/Designated Employees,Others,Buy,Equity Shares,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.01
+RITES,2018-08-16 17:31:00,2018-08-14,2018-07-27,2018-07-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,820.0,0.0,420.0,0.0
+RITES,2018-08-16 17:31:00,2018-08-14,2018-07-02,2018-07-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2.0,0.0,0.0,0.0,0.0,2320.0,0.01,2318.0,0.01
+RITES,2018-08-21 15:26:00,2018-08-20,2018-08-17,2018-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2600.0,0.0,0.0,0.0,0.0,2920.0,0.0,320.0,0.0
+RITES,2018-08-21 15:26:00,2018-08-20,2018-06-28,2018-08-20,Employees/Designated Employees,Others,Buy,Equity Shares,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.0
+RITES,2018-08-21 15:26:00,2018-08-20,2018-08-17,2018-08-17,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,200.0,0.0,0.0,0.0,0.0,2720.0,0.0,2920.0,0.0
+RITES,2018-08-24 13:19:00,2018-08-23,2018-07-27,2018-07-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1820.0,0.01,1320.0,0.01
+RITES,2018-08-24 13:19:00,2018-08-23,2018-06-28,2018-06-28,Employees/Designated Employees,Others,Buy,Equity Shares,2720.0,0.0,0.0,0.0,0.0,,0.0,2720.0,0.01
+RITES,2018-08-24 13:19:00,2018-08-23,2018-08-17,2018-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,820.0,0.0,70.0,0.0
+RITES,2018-08-24 13:19:00,2018-08-23,2018-07-02,2018-07-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,2720.0,0.01,1820.0,0.01
+RITES,2018-08-24 13:19:00,2018-08-23,2018-08-03,2018-08-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1320.0,0.01,820.0,0.0
+RITES,2019-11-26 20:08:00,2019-11-26,2019-11-22,2019-11-22,Promoters,Market Sale,Sell,Equity Shares,22144523.0,0.0,0.0,0.0,0.0,218500000.0,87.4,196355477.0,78.54
+RITES,2019-11-26 20:08:00,2019-11-26,2019-11-22,2019-11-22,Promoters,Market Sale,Sell,Equity Shares,22144523.0,0.0,0.0,0.0,0.0,218500000.0,87.4,196355477.0,78.54
+RITES,2019-11-26 20:08:00,2019-11-26,2019-11-25,2019-11-25,Promoters,Market Sale,Sell,Equity Shares,2858244.0,0.0,0.0,0.0,0.0,196355477.0,78.54,193497233.0,77.4
+RITES,2019-11-26 20:08:00,2019-11-26,2019-11-25,2019-11-25,Promoters,Market Sale,Sell,Equity Shares,2858244.0,0.0,0.0,0.0,0.0,196355477.0,78.54,193497233.0,77.4
+RITES,2019-12-12 14:57:00,2019-12-11,2019-12-11,2019-12-11,Promoters,Market Sale,Sell,Equity Shares,31985.0,0.0,0.0,0.0,0.0,193497233.0,77.4,193465248.0,77.39
+RITES,2019-12-12 14:57:00,2019-12-11,2019-12-11,2019-12-11,Promoters,Market Sale,Sell,Equity Shares,31985.0,0.0,0.0,0.0,0.0,193497233.0,77.4,193465248.0,77.39
+RITES,2020-03-02 19:18:00,2020-03-02,2020-02-27,2020-02-27,Promoters,Market Sale,Sell,Equity Shares,5661271.0,0.0,0.0,0.0,0.0,185926638.0,74.37,180265367.0,72.11
+RITES,2020-03-02 19:18:00,2020-03-02,2020-02-28,2020-02-28,Promoters,Market Sale,Sell,Equity Shares,123057.0,0.0,0.0,0.0,0.0,180265367.0,72.11,180142310.0,72.06
+RITES,2020-03-02 19:18:00,2020-03-02,2020-02-28,2020-02-28,Promoters,Market Sale,Sell,Equity Shares,95136.0,0.0,0.0,0.0,0.0,180142310.0,72.06,180047174.0,72.02
+RITES,2020-03-02 19:18:00,2020-03-02,2020-02-27,2020-02-27,Promoters,Market Sale,Sell,Equity Shares,7538610.0,0.0,0.0,0.0,0.0,193465248.0,77.39,185926638.0,74.37
+RITES,2020-11-20 12:05:00,2020-11-19,2020-11-18,2020-11-18,Promoters,Others,Sell,Equity Shares,6542401.0,0.0,0.0,0.0,0.0,180047174.0,72.02,173504773.0,72.2

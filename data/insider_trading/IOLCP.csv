@@ -1,0 +1,16 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+IOLCP,2017-04-01 18:01:00,2017-03-31,2017-03-30,2017-03-30,Promoter Group,Off Market,Buy,Equity Shares,312032.0,0.0,0.0,0.0,0.0,,0.0,312032.0,0.56
+IOLCP,2017-04-01 18:01:00,2017-03-31,2017-03-30,2017-03-30,Promoter Group,Off Market,Buy,Equity Shares,400000.0,0.0,0.0,0.0,0.0,,0.0,400000.0,0.71
+IOLCP,2017-11-02 16:45:00,2017-11-01,2017-10-23,2017-10-23,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,22585.0,0.0,0.0,0.0,0.0,,0.0,22585.0,0.04
+IOLCP,2019-04-03 16:03:00,2019-04-01,2019-03-30,2019-03-30,Promoter Group,Preferential Offer,Buy,Equity Shares,682000.0,0.0,0.0,0.0,0.0,312032.0,0.56,994032.0,1.75
+IOLCP,2020-06-22 17:04:00,2020-06-19,2020-06-08,2020-06-17,Promoter Group,Conversion of security,Buy,Equity Shares,1418000.0,0.0,0.0,0.0,0.0,994032.0,1.75,2412032.0,4.14
+IOLCP,2020-06-26 12:26:00,2020-06-26,2020-06-25,2020-06-25,Promoter Group,Conversion of security,Buy,Equity Shares,400000.0,0.0,0.0,0.0,0.0,2412032.0,4.14,2812032.0,4.79
+IOLCP,2021-03-17 17:23:00,2021-03-16,2021-02-18,2021-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3850.0,0.0,0.0,0.0,0.0,11550.0,0.02,7700.0,0.01
+IOLCP,2021-04-07 10:47:00,2021-04-05,2021-03-22,2021-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,7700.0,0.01,6000.0,0.01
+IOLCP,2021-08-24 16:34:00,2021-08-20,2021-08-17,2021-08-17,-,Market Sale,Sell,Equity Shares,3525.0,0.0,0.0,0.0,0.0,6000.0,0.01,2475.0,0.0
+IOLCP,2021-08-24 17:07:00,2021-08-24,2021-08-23,2021-08-24,-,Market Sale,Sell,Equity Shares,2475.0,0.0,0.0,0.0,0.0,2475.0,0.0,,0.0
+IOLCP,2026-03-18 15:54:00,2026-03-18,2026-03-16,2026-03-16,Promoter Group,Market Purchase,Buy,Equity Shares,700000.0,0.0,0.0,0.0,0.0,46850695.0,15.96,47550695.0,16.2
+IOLCP,2026-03-18 16:29:00,2026-03-18,2026-03-17,2026-03-17,Promoter Group,Market Purchase,Buy,Equity Shares,654123.0,0.0,0.0,0.0,0.0,63237010.0,21.54,63891133.0,21.76
+IOLCP,2026-03-19 16:36:00,2026-03-19,2026-03-18,2026-03-18,Promoter Group,Market Purchase,Buy,Equity Shares,54197.0,0.0,0.0,0.0,0.0,63891133.0,21.76,63945330.0,21.78
+IOLCP,2026-03-19 16:43:00,2026-03-19,2026-03-18,2026-03-18,Promoter Group,Market Purchase,Buy,Equity Shares,700000.0,0.0,0.0,0.0,0.0,47550695.0,16.2,48250695.0,16.44
+IOLCP,2026-03-20 14:12:00,2026-03-20,2026-03-19,2026-03-19,Promoter Group,Market Purchase,Buy,Equity Shares,404305.0,0.0,0.0,0.0,0.0,48250695.0,16.44,48655000.0,16.58

@@ -1,0 +1,26 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+NHPC,2016-05-06 16:15:00,2016-05-02,2016-04-27,2016-04-28,Promoters,-,Sell,Equity Shares,1257627941.0,0.0,0.0,0.0,0.0,9516209722.0,85.96,8258581781.0,74.6
+NHPC,2016-11-29 19:45:00,2016-11-29,2016-11-04,2016-11-11,Promoters,Market Sale,Sell,Equity Shares,10296420.0,0.0,0.0,0.0,0.0,8258581781.0,74.6,8248285361.0,74.51
+NHPC,2017-03-29 14:31:00,2017-03-28,2017-03-27,2017-03-27,Promoters,Others,Sell,Equity Shares,604878460.0,0.0,0.0,0.0,0.0,8248285361.0,74.51,7643406901.0,74.5
+NHPC,2017-11-28 11:57:00,2017-11-27,2017-11-14,2017-11-17,Promoters,Others,Sell,Equity Shares,55925819.0,0.0,0.0,0.0,0.0,7643406901.0,74.5,7587481082.0,73.96
+NHPC,2018-07-06 18:03:00,2018-07-06,2018-06-21,2018-06-22,Promoters,Others,Sell,Equity Shares,29354564.0,0.0,0.0,0.0,0.0,7587481082.0,73.96,7558126518.0,73.67
+NHPC,2019-01-25 17:25:00,2019-01-24,2019-01-22,2019-01-22,Promoters,Others,Sell,Equity Shares,142271903.0,0.0,0.0,0.0,0.0,7558126518.0,73.67,7415854615.0,73.83
+NHPC,2019-03-11 17:14:00,2019-03-11,2019-02-21,2019-02-21,Promoters,Others,Sell,Equity Shares,49889622.0,0.0,0.0,0.0,0.0,7415854615.0,73.83,7365964993.0,73.33
+NHPC,2019-08-19 15:01:00,2019-08-16,2019-08-13,2019-08-13,Immediate relative,Market Purchase,Buy,Equity Shares,25000.0,0.0,0.0,0.0,0.0,225000.0,0.0,250000.0,0.0
+NHPC,2019-08-19 15:01:00,2019-08-16,2019-08-13,2019-08-13,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,25000.0,0.0,0.0,0.0,0.0,25000.0,0.0,50000.0,0.0
+NHPC,2019-10-17 16:37:00,2019-10-16,2019-10-10,2019-10-10,Promoters,Others,Sell,Equity Shares,22034198.0,0.0,0.0,0.0,0.0,7365964993.0,73.33,7343930795.0,73.11
+NHPC,2019-11-15 16:57:00,2019-11-15,2019-11-14,2019-11-14,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,50000.0,0.0,0.0,0.0,0.0,50000.0,0.0,100000.0,0.0
+NHPC,2019-11-15 16:57:00,2019-11-15,2019-11-14,2019-11-14,Immediate relative,Market Purchase,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,250000.0,0.0,400000.0,0.0
+NHPC,2020-02-06 15:51:00,2020-02-06,2020-02-03,2020-02-03,Promoters,Off Market,Sell,Equity Shares,217158119.0,0.0,0.0,0.0,0.0,7343930795.0,73.11,7126772676.0,70.95
+NHPC,2022-03-14 17:40:00,2022-03-14,2022-03-11,2022-03-11,Employees/Designated Employees,Gift,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,100000.0,0.0,,0.0
+NHPC,2022-11-18 14:09:00,2022-11-17,2022-11-16,2022-11-16,Immediate relative,Gift,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,400000.0,0.0,300000.0,0.0
+NHPC,2023-06-15 18:32:00,2023-06-15,2023-06-07,2023-06-12,Immediate relative,Market Purchase,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,300000.0,0.0,450000.0,0.0
+NHPC,2024-02-02 19:30:00,2024-02-02,2023-12-28,2023-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,21000.0,0.0,0.0,0.0,0.0,21000.0,0.0,,0.0
+NHPC,2024-02-22 12:59:00,2024-02-21,2024-02-20,2024-02-20,Promoters,Off Market,Sell,Equity Shares,5050000.0,0.0,0.0,0.0,0.0,6775196458.0,67.45,6770146458.0,67.4
+NHPC,2026-01-14 19:48:00,2026-01-14,2025-12-30,2025-12-30,Immediate relative,Market Sale,Sell,Equity Shares,1900.0,0.0,0.0,0.0,0.0,3900.0,0.0,2000.0,0.0
+NHPC,2026-01-14 19:48:00,2026-01-14,2025-12-29,2025-12-29,Immediate relative,Market Purchase,Buy,Equity Shares,3900.0,0.0,0.0,0.0,0.0,,0.0,3900.0,0.0
+NHPC,2026-01-14 19:48:00,2026-01-14,2025-12-26,2025-12-26,Immediate relative,Market Sale,Sell,Equity Shares,3815.0,0.0,0.0,0.0,0.0,3815.0,0.0,,0.0
+NHPC,2026-01-14 19:48:00,2026-01-14,2025-12-23,2025-12-23,Immediate relative,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6815.0,0.0,3815.0,0.0
+NHPC,2026-01-14 19:48:00,2026-01-14,2025-12-22,2025-12-22,Immediate relative,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,13815.0,0.0,6815.0,0.0
+NHPC,2026-01-14 19:48:00,2026-01-14,2025-12-30,2025-12-30,Immediate relative,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,,0.0
+NHPC,2026-01-14 19:48:00,2026-01-14,2025-12-01,2025-12-01,Immediate relative,Market Purchase,Buy,Equity Shares,13000.0,0.0,0.0,0.0,0.0,815.0,0.0,13815.0,0.0

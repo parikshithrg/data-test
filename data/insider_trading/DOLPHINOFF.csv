@@ -1,0 +1,19 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+DOLPHINOFF,2016-09-29 16:21:00,2016-09-28,2016-09-27,2016-09-27,Promoters,Pledge Creation,Pledge,Equity Shares,250000.0,0.0,0.0,0.0,0.0,956840.0,5.7,956840.0,5.7
+DOLPHINOFF,2016-10-12 17:04:00,2016-10-10,2016-10-07,2016-10-07,Promoters,Pledge Creation,Pledge,Equity Shares,250000.0,0.0,0.0,0.0,0.0,992084.0,5.91,992084.0,5.91
+DOLPHINOFF,2018-06-29 20:37:00,2018-06-29,2018-06-06,2018-06-06,Promoters,Pledge Creation,Pledge,Equity Shares,450000.0,0.0,0.0,0.0,0.0,921923.0,0.0,921923.0,0.0
+DOLPHINOFF,2018-06-29 20:38:00,2018-06-29,2018-05-04,2018-05-04,Promoters,Pledge Creation,Pledge,Equity Shares,300000.0,0.0,0.0,0.0,0.0,548857.0,0.0,548857.0,0.0
+DOLPHINOFF,2018-07-04 14:26:00,2018-06-29,2018-05-16,2018-05-16,Promoters,Others,Pledge,Equity Shares,200000.0,0.0,0.0,0.0,0.0,548857.0,0.0,548857.0,0.0
+DOLPHINOFF,2018-07-06 18:45:00,2018-06-29,2018-06-06,2018-06-06,Promoters,Others,Pledge,Equity Shares,450000.0,0.0,0.0,0.0,0.0,921923.0,0.0,921923.0,0.0
+DOLPHINOFF,2018-08-31 12:06:00,2018-08-30,2018-08-24,2018-08-24,Promoters,Pledge Creation,Pledge,Equity Shares,210000.0,0.0,0.0,0.0,0.0,923921.0,5.5,923921.0,5.5
+DOLPHINOFF,2018-09-20 12:03:00,2018-09-19,2018-09-06,2018-09-06,Promoter Group,Revokation of Pledge,Pledge,Equity Shares,140000.0,0.0,0.0,0.0,0.0,956840.0,5.7,956840.0,5.7
+DOLPHINOFF,2018-09-20 12:14:00,2018-09-19,2018-09-06,2018-09-06,Promoter Group,Revokation of Pledge,Pledge,Equity Shares,70000.0,0.0,0.0,0.0,0.0,992084.0,5.91,992084.0,5.91
+DOLPHINOFF,2018-09-20 17:55:00,2018-09-19,2018-09-17,2018-09-17,Promoter Group,Pledge Creation,Pledge,Equity Shares,140000.0,0.0,0.0,0.0,0.0,956840.0,5.7,956840.0,5.7
+DOLPHINOFF,2018-09-20 18:05:00,2018-09-19,2018-09-18,2018-09-18,Promoter Group,Pledge Creation,Pledge,Equity Shares,70000.0,0.0,0.0,0.0,0.0,992084.0,5.91,992084.0,5.91
+DOLPHINOFF,2018-12-07 18:15:00,2018-12-07,2018-11-26,2018-11-26,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,100000.0,0.0,0.0,0.0,0.0,548857.0,3.27,548857.0,3.27
+DOLPHINOFF,2018-12-18 15:28:00,2018-12-17,2018-12-13,2018-12-14,Promoters,Revokation of Pledge,Pledge,Equity Shares,258072.0,0.0,0.0,0.0,0.0,956840.0,5.7,956840.0,5.7
+DOLPHINOFF,2018-12-18 15:37:00,2018-12-17,2018-12-13,2018-12-14,Promoters,Revokation of Pledge,Pledge,Equity Shares,188768.0,0.0,0.0,0.0,0.0,956840.0,5.7,956840.0,5.7
+DOLPHINOFF,2018-12-18 16:00:00,2018-12-17,2018-12-13,2018-12-14,Promoters,Revokation of Pledge,Pledge,Equity Shares,244084.0,0.0,0.0,0.0,0.0,992084.0,5.91,992084.0,5.91
+DOLPHINOFF,2018-12-18 16:05:00,2018-12-17,2018-12-13,2018-12-14,Promoters,Revokation of Pledge,Pledge,Equity Shares,40000.0,0.0,0.0,0.0,0.0,992084.0,5.91,992084.0,5.91
+DOLPHINOFF,2019-02-22 15:52:00,2019-02-22,2019-02-14,2019-02-14,Promoters,Pledge Creation,Pledge,Equity Shares,100000.0,0.0,0.0,0.0,0.0,956840.0,5.71,956840.0,5.71
+DOLPHINOFF,2019-02-22 16:00:00,2019-02-22,2019-02-14,2019-02-14,Promoters,Pledge Creation,Pledge,Equity Shares,100000.0,0.0,0.0,0.0,0.0,992084.0,5.92,992084.0,5.92

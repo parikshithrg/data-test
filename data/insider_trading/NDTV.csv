@@ -1,0 +1,16 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+NDTV,2021-12-20 20:44:00,2021-12-20,2021-12-16,2021-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,24400.0,0.03,14400.0,0.02
+NDTV,2022-03-24 10:05:00,2022-03-23,2022-03-22,2022-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,32500.0,0.0,0.0,0.0,0.0,65000.0,0.1,32500.0,0.05
+NDTV,2022-03-26 18:39:00,2022-03-26,2022-03-25,2022-03-25,-,Market Sale,Sell,Equity Shares,4400.0,0.0,0.0,0.0,0.0,14400.0,0.02,10000.0,0.02
+NDTV,2022-08-24 19:20:00,2022-08-23,2022-08-22,2022-08-22,-,Market Sale,Sell,Equity Shares,11000.0,0.0,0.0,0.0,0.0,11640.0,0.02,640.0,0.0
+NDTV,2022-08-24 19:20:00,2022-08-24,2022-08-18,2022-08-23,-,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,10000.0,0.02,7000.0,0.01
+NDTV,2022-09-02 15:16:00,2022-09-01,2022-09-01,2022-09-01,-,Market Sale,Sell,Equity Shares,53726.0,0.0,0.0,0.0,0.0,53726.0,0.08,,0.0
+NDTV,2022-09-16 23:42:00,2022-09-16,2022-09-15,2022-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2267.0,0.0,267.0,0.0
+NDTV,2022-09-16 23:42:00,2022-09-16,2022-09-15,2022-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2767.0,0.0,2267.0,0.0
+NDTV,2022-09-16 23:42:00,2022-09-16,2022-09-15,2022-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4267.0,0.01,3267.0,0.01
+NDTV,2022-09-16 23:42:00,2022-09-16,2022-09-15,2022-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3267.0,0.01,2767.0,0.0
+NDTV,2022-12-19 18:58:00,2022-12-19,2022-12-15,2022-12-15,Promoters,Others,Buy,Equity Shares,5327740.0,0.0,0.0,0.0,0.0,,0.0,5327740.0,8.26
+NDTV,2022-12-19 18:58:00,2022-12-19,2022-12-15,2022-12-15,Promoters,Others,Buy,Equity Shares,3052.0,0.0,0.0,0.0,0.0,,0.0,3052.0,0.01
+NDTV,2022-12-30 23:02:00,2022-12-30,2022-12-30,2022-12-30,Promoters,Inter-se-Transfer,Sell,Equity Shares,8665209.0,0.0,0.0,0.0,0.0,10276991.0,15.94,1611782.0,2.5
+NDTV,2022-12-30 23:02:00,2022-12-30,2022-12-30,2022-12-30,Promoters,Inter-se-Transfer,Sell,Equity Shares,8912467.0,0.0,0.0,0.0,0.0,10524249.0,16.32,1611782.0,2.5
+NDTV,2022-12-30 23:11:00,2022-12-30,2022-12-30,2022-12-30,Promoters,Inter-se-Transfer,Buy,Equity Shares,17577676.0,0.0,0.0,0.0,0.0,18813928.0,29.18,36391604.0,56.45

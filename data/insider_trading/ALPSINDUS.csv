@@ -1,0 +1,7 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ALPSINDUS,2023-12-23 18:36:00,2023-12-23,2023-12-22,2023-12-22,Promoter Group,Market Sale,Sell,Equity Shares,1300000.0,0.0,0.0,0.0,0.0,1688200.0,4.32,388200.0,1.0
+ALPSINDUS,2023-12-23 18:36:00,2023-12-23,2023-12-22,2023-12-22,Promoter Group,Market Sale,Sell,Equity Shares,200000.0,0.0,0.0,0.0,0.0,900000.0,2.3,700000.0,1.79
+ALPSINDUS,2023-12-23 18:36:00,2023-12-23,2023-12-22,2023-12-22,Promoter Group,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,94380.0,0.24,44380.0,0.11
+ALPSINDUS,2023-12-23 18:36:00,2023-12-23,2023-12-22,2023-12-22,Promoter Group,Market Sale,Sell,Equity Shares,150000.0,0.0,0.0,0.0,0.0,290000.0,0.74,140000.0,0.36
+ALPSINDUS,2023-12-28 15:12:00,2023-12-28,2023-12-26,2023-12-27,Promoter Group,Market Sale,Sell,Equity Shares,58118.0,0.0,0.0,0.0,0.0,388200.0,1.0,330082.0,0.85
+ALPSINDUS,2023-12-28 15:12:00,2023-12-28,2023-12-26,2023-12-27,Promoter Group,Market Sale,Sell,Equity Shares,141882.0,0.0,0.0,0.0,0.0,330082.0,0.85,188200.0,0.49

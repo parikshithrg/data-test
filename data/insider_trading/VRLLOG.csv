@@ -1,0 +1,2 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+VRLLOG,2017-09-01 18:24:00,2017-09-01,2017-08-31,2017-08-31,Promoters,Market Sale,Sell,Equity Shares,2000000.0,0.0,0.0,0.0,0.0,31792000.0,34.84,29792000.0,32.65

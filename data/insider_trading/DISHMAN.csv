@@ -1,0 +1,15 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+DISHMAN,2017-04-03 18:22:00,2017-03-31,2017-03-29,2017-03-29,Immediate relative,Market Purchase,Buy,Equity Shares,24700.0,0.0,0.0,0.0,0.0,17200.0,0.01,41900.0,0.02
+DISHMAN,2017-04-03 18:22:00,2017-03-31,2017-03-29,2017-03-29,Immediate relative,Market Purchase,Buy,Equity Shares,41900.0,0.0,0.0,0.0,0.0,,0.0,41900.0,0.02
+DISHMAN,2017-04-03 18:22:00,2017-03-31,2017-03-29,2017-03-29,Immediate relative,Market Sale,Sell,Equity Shares,24700.0,0.0,0.0,0.0,0.0,24700.0,0.01,,0.0
+DISHMAN,2017-04-03 18:22:00,2017-03-31,2017-03-29,2017-03-29,Immediate relative,Market Sale,Sell,Equity Shares,24700.0,0.0,0.0,0.0,0.0,41900.0,0.02,17200.0,0.01
+DISHMAN,2017-04-03 18:27:00,2017-03-31,2017-03-29,2017-03-29,Director,Market Purchase,Buy,Equity Shares,24700.0,0.0,0.0,0.0,0.0,24700.0,0.01,49400.0,0.03
+DISHMAN,2017-04-03 18:27:00,2017-03-31,2017-03-29,2017-03-29,Director,Market Sale,Sell,Equity Shares,49300.0,0.0,0.0,0.0,0.0,74000.0,0.04,24700.0,0.01
+DISHMAN,2017-04-03 18:27:00,2017-03-31,2017-03-29,2017-03-29,Director,Market Sale,Sell,Equity Shares,24700.0,0.0,0.0,0.0,0.0,49400.0,0.03,24700.0,0.01
+DISHMAN,2017-04-03 18:27:00,2017-03-31,2017-03-29,2017-03-29,Director,Market Purchase,Buy,Equity Shares,24700.0,0.0,0.0,0.0,0.0,49300.0,0.03,74000.0,0.04
+DISHMAN,2017-04-05 18:45:00,2017-04-03,2017-03-31,2017-03-31,Director,Gift,Sell,Equity Shares,50558710.0,0.0,0.0,0.0,0.0,50559710.0,31.33,1000.0,0.0006
+DISHMAN,2017-04-05 18:45:00,2017-04-03,2017-03-31,2017-03-31,Director,Gift,Sell,Equity Shares,25126950.0,0.0,0.0,0.0,0.0,25127950.0,15.57,1000.0,0.0006
+DISHMAN,2017-04-05 18:45:00,2017-04-03,2017-03-31,2017-03-31,Promoter Group,Gift,Buy,Equity Shares,97891898.0,0.0,0.0,0.0,0.0,1200000.0,0.74,99091898.0,61.4
+DISHMAN,2017-04-05 18:45:00,2017-04-03,2017-03-31,2017-03-31,Immediate relative,Gift,Sell,Equity Shares,206238.0,0.0,0.0,0.0,0.0,207238.0,0.13,1000.0,0.0006
+DISHMAN,2017-04-05 18:45:00,2017-04-03,2017-03-31,2017-03-31,Director,Gift,Sell,Equity Shares,21928000.0,0.0,0.0,0.0,0.0,21929000.0,13.59,1000.0,0.0006
+DISHMAN,2017-04-05 18:45:00,2017-04-03,2017-03-31,2017-03-31,Immediate relative,Gift,Sell,Equity Shares,72000.0,0.0,0.0,0.0,0.0,73000.0,0.04,1000.0,0.0006

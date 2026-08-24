@@ -1,0 +1,8 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+HINDCOPPER,2016-10-03 18:21:00,2016-10-03,2016-09-29,2016-09-29,Promoters,Others,Sell,Equity Shares,51812208.0,0.0,0.0,0.0,0.0,832218459.0,89.95,780406251.0,84.35
+HINDCOPPER,2016-10-04 16:40:00,2016-10-04,2016-09-30,2016-09-30,Promoters,Others,Sell,Equity Shares,12953052.0,0.0,0.0,0.0,0.0,780406251.0,84.35,767453199.0,82.95
+HINDCOPPER,2017-04-05 18:12:00,2017-04-03,2017-03-31,2017-03-31,Promoters,Off Market,Sell,Equity Shares,608023.0,0.0,0.0,0.0,0.0,767453199.0,82.95,766845176.0,82.88
+HINDCOPPER,2017-04-05 18:25:00,2017-04-03,2017-04-03,2017-04-03,Promoters,Off Market,Sell,Equity Shares,25365.0,0.0,0.0,0.0,0.0,766845176.0,82.88,766819811.0,82.88
+HINDCOPPER,2017-08-04 17:46:00,2017-08-04,2017-08-02,2017-08-02,Promoters,Others,Sell,Equity Shares,50535783.0,0.0,0.0,0.0,0.0,766819811.0,82.88,716284028.0,77.42
+HINDCOPPER,2017-08-07 16:38:00,2017-08-07,2017-08-03,2017-08-03,Promoters,Others,Sell,Equity Shares,12637066.0,0.0,0.0,0.0,0.0,716284028.0,77.42,703646962.0,76.05
+HINDCOPPER,2017-10-25 16:52:00,2017-10-25,2017-10-10,2017-10-18,Promoters,Off Market,Sell,Equity Shares,59110.0,0.0,0.0,0.0,0.0,703646962.0,76.05,703587852.0,76.05

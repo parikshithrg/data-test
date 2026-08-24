@@ -1,0 +1,2 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+DENABANK,2018-04-17 13:36:00,2018-04-16,2018-03-27,2018-03-27,Promoters,Preferential Offer,Buy,Equity Shares,1128195628.0,0.0,0.0,0.0,0.0,695836216.0,61.53,1824031844.0,80.74

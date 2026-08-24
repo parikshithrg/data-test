@@ -1,0 +1,10 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+RECLTD,2017-02-01 15:22:00,2017-01-31,2017-01-25,2017-01-25,Promoters,Off Market,Sell,Equity Shares,25133733.0,0.0,0.0,0.0,0.0,1197535360.0,60.64,1172401627.0,59.36
+RECLTD,2017-03-27 17:18:00,2017-03-27,2017-03-22,2017-03-22,Promoters,Off Market,Sell,Equity Shares,9897155.0,0.0,0.0,0.0,0.0,1172401627.0,59.36,1162504472.0,58.86
+RECLTD,2017-04-18 17:17:00,2017-04-18,2017-04-17,2017-04-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5120.0,0.0,120.0,0.0
+RECLTD,2017-11-14 17:39:00,2017-11-13,2017-11-09,2017-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,17800.0,0.0,0.0,0.0,0.0,17800.0,0.0,,0.0
+RECLTD,2017-12-04 17:11:00,2017-12-04,2017-11-23,2017-11-23,Promoters,Off Market,Sell,Equity Shares,10825689.0,0.0,0.0,0.0,0.0,1162504472.0,58.86,1151678783.0,58.32
+RECLTD,2018-07-11 13:20:00,2018-07-10,2018-06-18,2018-06-18,Promoters,Off Market,Sell,Equity Shares,6473244.0,0.0,0.0,0.0,0.0,1151678783.0,58.32,1145205539.0,57.99
+RECLTD,2018-12-19 16:47:00,2018-12-19,2018-12-04,2018-12-04,Promoters,Off Market,Sell,Equity Shares,101470139.0,0.0,0.0,0.0,0.0,1145205539.0,57.99,1043735400.0,52.85
+RECLTD,2019-03-07 17:13:00,2019-03-07,2019-02-21,2019-02-21,Promoters,Off Market,Sell,Equity Shares,4336057.0,0.0,0.0,0.0,0.0,1043735400.0,52.85,1039399343.0,52.63
+RECLTD,2019-04-02 17:11:00,2019-03-29,2019-03-28,2019-03-28,Promoters,Off Market,Sell,Equity Shares,1039399343.0,0.0,0.0,0.0,0.0,1039399343.0,52.63,,0.0

@@ -1,0 +1,8 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+IOB,2018-04-03 19:37:00,2018-03-28,2018-03-28,2018-03-28,Promoters,Preferential Offer,Buy,Equity Shares,2038211029.0,0.0,0.0,0.0,0.0,2350873260.0,82.41,4389084289.0,89.74
+IOB,2018-11-13 17:41:00,2018-11-12,2018-11-12,2018-11-12,Promoters,Preferential Offer,Buy,Equity Shares,1373010821.0,0.0,0.0,0.0,0.0,4389084289.0,89.74,5762095110.0,91.99
+IOB,2019-03-30 20:10:00,2019-03-28,2019-03-28,2019-03-28,Promoters,Preferential Offer,Buy,Equity Shares,2695467422.0,0.0,0.0,0.0,0.0,5762095110.0,89.39,8457562532.0,92.52
+IOB,2019-04-03 19:52:00,2019-03-28,2019-03-28,2019-03-28,Promoters,Others,Buy,Equity Shares,2695467422.0,0.0,0.0,0.0,0.0,5762095110.0,89.39,8457562532.0,92.52
+IOB,2019-12-02 17:31:00,2019-11-28,2019-11-28,2019-11-28,Promoters,Preferential Offer,Buy,Equity Shares,3443750000.0,0.0,0.0,0.0,0.0,8457562532.0,92.52,11901312532.0,94.56
+IOB,2020-02-28 19:48:00,2020-02-27,2020-02-27,2020-02-27,Promoters,Preferential Offer,Buy,Equity Shares,3851590106.0,0.0,0.0,0.0,0.0,11901312532.0,94.56,15752902638.0,95.84
+IOB,2025-12-20 14:38:00,2025-12-19,2025-12-17,2025-12-18,Promoters,Market Sale,Sell,Equity Shares,417838271.0,0.0,0.0,0.0,0.0,18218326570.0,94.61,17800488299.0,92.44

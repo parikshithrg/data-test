@@ -1,0 +1,5 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+CONCOR,2016-03-14 12:39:00,2016-03-11,2016-03-09,2016-03-09,Promoters,-,Sell,Equity Shares,7798968.0,0.0,0.0,0.0,0.0,120482495.0,61.79,112683527.0,0.0
+CONCOR,2016-03-16 10:32:00,2016-03-14,2016-03-10,2016-03-10,Promoters,-,Sell,Equity Shares,1949742.0,0.0,0.0,0.0,0.0,112683527.0,57.79,110733785.0,56.79
+CONCOR,2016-10-19 09:02:00,2016-10-17,2016-10-07,2016-10-07,Promoters,Market Sale,Sell,Equity Shares,79083.0,0.0,0.0,0.0,0.0,110733785.0,56.79,110654702.0,56.754
+CONCOR,2016-11-01 12:02:00,2016-10-26,2016-10-25,2016-10-25,Promoters,Off Market,Sell,Equity Shares,3257.0,0.0,0.0,0.0,0.0,110654702.0,56.754,110651445.0,56.752

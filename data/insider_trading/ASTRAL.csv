@@ -1,0 +1,106 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ASTRAL,2016-01-18 14:04:00,2016-01-16,2016-01-15,2016-01-15,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2755.0,0.0,0.0,0.0,0.0,83970.0,0.07,81215.0,0.07
+ASTRAL,2016-01-18 14:04:00,2016-01-14,2016-01-12,2016-01-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,9002.0,0.0,0.0,0.0,0.0,92972.0,0.08,83970.0,0.07
+ASTRAL,2017-03-24 19:10:00,2017-03-23,2017-03-21,2017-03-21,Director,Market Sale,Sell,Equity Shares,19434.0,0.0,0.0,0.0,0.0,19434.0,0.02,,0.0
+ASTRAL,2017-03-24 19:10:00,2017-03-23,2017-03-21,2017-03-22,Director,Market Sale,Sell,Equity Shares,85710.0,0.0,0.0,0.0,0.0,385710.0,0.32,300000.0,0.25
+ASTRAL,2017-03-30 16:21:00,2017-03-30,2017-03-28,2017-03-29,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,81215.0,0.0,0.0,0.0,0.0,,0.0,81215.0,0.07
+ASTRAL,2017-03-30 16:35:00,2017-03-30,2017-03-28,2017-03-29,Key Managerial Personnel,Market Sale,Sell,Equity Shares,81215.0,0.0,0.0,0.0,0.0,86929.0,0.07,5714.0,0.0
+ASTRAL,2017-03-31 18:25:00,2017-03-30,2017-03-29,2017-03-29,Promoters,Market Purchase,Buy,Equity Shares,14171050.0,0.0,0.0,0.0,0.0,23671410.0,19.76,37842460.0,31.6
+ASTRAL,2017-03-31 18:25:00,2017-03-30,2017-03-29,2017-03-29,Promoters,Market Sale,Sell,Equity Shares,6664670.0,0.0,0.0,0.0,0.0,6670460.0,5.57,5790.0,0.004
+ASTRAL,2017-03-31 18:25:00,2017-03-30,2017-03-29,2017-03-29,Promoters,Market Sale,Sell,Equity Shares,7506380.0,0.0,0.0,0.0,0.0,23264550.0,19.42,15758170.0,13.16
+ASTRAL,2017-08-23 17:04:00,2017-08-22,2017-08-22,2017-08-22,Promoters,Market Sale,Sell,Equity Shares,1000000.0,0.0,0.0,0.0,0.0,15758170.0,13.16,14758170.0,12.32
+ASTRAL,2017-09-06 17:01:00,2017-09-06,2017-09-05,2017-09-05,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,3750000.0,0.0,0.0,0.0,0.0,37842460.0,31.6,37842460.0,31.6
+ASTRAL,2018-11-27 18:30:00,2018-11-26,2018-11-23,2018-11-23,Key Managerial Personnel,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,96929.0,0.08,106929.0,0.09
+ASTRAL,2018-11-29 20:54:00,2018-11-27,2018-11-23,2018-11-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,900.0,0.0,0.0,0.0,0.0,3768.0,0.0,4668.0,0.0
+ASTRAL,2018-11-29 20:54:00,2018-11-27,2018-11-19,2018-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,4118.0,0.0,3768.0,0.0
+ASTRAL,2018-12-08 17:02:00,2018-12-08,2018-12-06,2018-12-07,Key Managerial Personnel,Market Sale,Sell,Equity Shares,8340.0,0.0,0.0,0.0,0.0,106929.0,0.09,98589.0,0.08
+ASTRAL,2018-12-13 17:32:00,2018-12-12,2018-12-10,2018-12-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1994.0,0.0,1694.0,0.0
+ASTRAL,2018-12-13 17:32:00,2018-12-12,2018-11-19,2018-11-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,60.0,0.0,0.0,0.0,0.0,1354.0,0.0,1294.0,0.0
+ASTRAL,2018-12-13 17:32:00,2018-12-12,2018-11-23,2018-11-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,700.0,0.0,0.0,0.0,0.0,1294.0,0.0,1994.0,0.0
+ASTRAL,2019-05-24 14:54:00,2019-05-22,2019-05-20,2019-05-20,Employees/Designated Employees,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,656752.0,0.0,0.0,0.0,0.0,,0.0,656752.0,0.54
+ASTRAL,2019-05-29 19:33:00,2019-05-29,2019-05-28,2019-05-28,Other,Market Sale,Sell,Equity Shares,155000.0,0.0,0.0,0.0,0.0,1385204.0,1.15,1230204.0,1.02
+ASTRAL,2019-05-29 19:33:00,2019-05-27,2019-05-23,2019-05-23,Other,Market Sale,Sell,Equity Shares,15229.0,0.0,0.0,0.0,0.0,1400433.0,1.16,1385204.0,1.15
+ASTRAL,2019-05-29 19:33:00,2019-05-29,2019-05-29,2019-05-29,Other,Market Sale,Sell,Equity Shares,131776.0,0.0,0.0,0.0,0.0,1230204.0,1.02,1098428.0,0.91
+ASTRAL,2019-06-28 16:51:00,2019-06-26,2019-06-24,2019-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7000.0,0.0,6000.0,0.0
+ASTRAL,2019-09-13 17:57:00,2019-09-11,2019-09-06,2019-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,138407.0,0.0,0.0,0.0,0.0,656752.0,0.54,518345.0,0.43
+ASTRAL,2019-09-21 17:54:00,2019-09-20,2019-09-20,2019-09-20,Promoter Group,Market Sale,Sell,Equity Shares,3600000.0,0.0,0.0,0.0,0.0,18447712.0,12.24,14847712.0,9.85
+ASTRAL,2019-10-03 16:57:00,2019-10-01,2019-10-01,2019-10-01,Key Managerial Personnel,Market Sale,Sell,Equity Shares,9988.0,0.0,0.0,0.0,0.0,9988.0,0.0,,0.0
+ASTRAL,2019-11-12 18:36:00,2019-11-08,2019-11-08,2019-11-08,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,7444712.0,0.0,0.0,0.0,0.0,2950325.0,1.96,10395037.0,6.9
+ASTRAL,2019-11-12 18:46:00,2019-11-08,2019-11-08,2019-11-08,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Sell,Equity Shares,7444712.0,0.0,0.0,0.0,0.0,7444712.0,4.94,,0.0
+ASTRAL,2020-02-26 18:46:00,2020-02-24,2020-02-19,2020-02-20,Immediate relative,Market Sale,Sell,Equity Shares,8008.0,0.0,0.0,0.0,0.0,185000.0,0.12,176992.0,0.12
+ASTRAL,2020-02-26 18:46:00,2020-02-24,2020-02-19,2020-02-19,Immediate relative,Market Sale,Sell,Equity Shares,1375.0,0.0,0.0,0.0,0.0,49375.0,0.03,48000.0,0.03
+ASTRAL,2020-02-26 18:46:00,2020-02-24,2020-02-19,2020-02-19,Immediate relative,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,50000.0,0.03,48000.0,0.03
+ASTRAL,2020-04-30 16:17:00,2020-04-29,2020-02-14,2020-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,2661.0,0.0,961.0,0.0
+ASTRAL,2020-06-27 22:08:00,2020-06-26,2020-06-25,2020-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,53000.0,0.0,0.0,0.0,0.0,647931.0,0.43,594931.0,0.4
+ASTRAL,2020-07-03 10:36:00,2020-07-02,2020-06-30,2020-06-30,Key Managerial Personnel,ESOP,Buy,Equity Shares,6250.0,0.0,0.0,0.0,0.0,123235.0,0.08,129485.0,0.08
+ASTRAL,2020-08-10 22:47:00,2020-08-10,2020-08-07,2020-08-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10107.0,0.0,0.0,0.0,0.0,594931.0,0.39,584824.0,0.39
+ASTRAL,2020-08-14 16:49:00,2020-08-12,2020-08-10,2020-08-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,89893.0,0.0,0.0,0.0,0.0,584824.0,0.39,494931.0,0.33
+ASTRAL,2020-09-11 16:56:00,2020-09-10,2020-09-08,2020-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3133.0,0.0,2133.0,0.0
+ASTRAL,2020-09-11 16:56:00,2020-09-10,2020-09-03,2020-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3633.0,0.0,3133.0,0.0
+ASTRAL,2020-11-13 17:33:00,2020-11-12,2020-11-10,2020-11-12,Immediate relative,Market Sale,Sell,Equity Shares,29492.0,0.0,0.0,0.0,0.0,176992.0,0.12,147500.0,0.12
+ASTRAL,2020-11-13 17:33:00,2020-11-12,2020-11-10,2020-11-10,Immediate relative,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,48000.0,0.03,45000.0,0.03
+ASTRAL,2020-11-13 17:33:00,2020-11-12,2020-11-10,2020-11-10,Immediate relative,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,48000.0,0.03,45000.0,0.03
+ASTRAL,2020-11-20 16:51:00,2020-11-19,2020-11-18,2020-11-18,Key Managerial Personnel,ESOP,Buy,Equity Shares,6250.0,0.0,0.0,0.0,0.0,129485.0,0.08,135735.0,0.08
+ASTRAL,2021-01-16 17:57:00,2021-01-15,2020-11-18,2020-11-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,312.0,0.0,0.0,0.0,0.0,5646.0,0.0,5958.0,0.0
+ASTRAL,2021-01-16 17:57:00,2021-01-15,2020-11-17,2020-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,6046.0,0.0,5646.0,0.0
+ASTRAL,2021-01-16 17:57:00,2021-01-15,2020-11-17,2020-11-17,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,400.0,0.0,0.0,0.0,0.0,5646.0,0.0,6046.0,0.0
+ASTRAL,2021-02-12 15:50:00,2021-02-12,2021-02-10,2021-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5750.0,0.0,0.0,0.0,0.0,13642.0,0.0,7892.0,0.0
+ASTRAL,2021-04-13 22:07:00,2021-04-13,2021-04-13,2021-04-13,Key Managerial Personnel,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,18000.0,0.0,14000.0,0.0
+ASTRAL,2021-04-13 22:07:00,2021-04-13,2021-04-09,2021-04-09,Key Managerial Personnel,Market Sale,Sell,Equity Shares,4129.0,0.0,0.0,0.0,0.0,22129.0,0.0,18000.0,0.0
+ASTRAL,2021-04-13 22:07:00,2021-04-13,2021-04-09,2021-04-09,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,23129.0,0.0,22129.0,0.0
+ASTRAL,2021-04-13 22:07:00,2021-04-13,2021-04-13,2021-04-13,Key Managerial Personnel,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,14000.0,0.0,,0.0
+ASTRAL,2021-07-01 12:07:00,2021-06-30,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3175.0,0.0,0.0,0.0,0.0,10522.0,0.0,7347.0,0.0
+ASTRAL,2021-07-01 18:17:00,2021-06-30,2021-06-28,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,17200.0,0.0,16100.0,0.0
+ASTRAL,2021-07-01 18:17:00,2021-07-01,2021-06-30,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4856.0,0.0,3856.0,0.0
+ASTRAL,2021-08-28 20:28:00,2021-08-27,2021-08-25,2021-08-26,Immediate relative,Market Sale,Sell,Equity Shares,14666.0,0.0,0.0,0.0,0.0,196666.0,0.1,182000.0,0.09
+ASTRAL,2021-08-28 20:28:00,2021-08-27,2021-08-25,2021-08-26,Immediate relative,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,60000.0,0.03,56500.0,0.03
+ASTRAL,2021-08-28 20:28:00,2021-08-27,2021-08-25,2021-08-26,Immediate relative,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,60000.0,0.03,56500.0,0.03
+ASTRAL,2022-06-17 20:53:00,2022-06-15,2022-06-13,2022-06-13,Immediate relative,Gift,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,182000.0,0.09,157000.0,0.08
+ASTRAL,2022-06-29 18:51:00,2022-06-28,2022-06-27,2022-06-27,Immediate relative,Market Sale,Sell,Equity Shares,7165.0,0.0,0.0,0.0,0.0,1570000.0,0.08,149835.0,0.07
+ASTRAL,2022-07-26 19:51:00,2022-07-25,2022-07-23,2022-07-23,Key Managerial Personnel,ESOP,Buy,Equity Shares,4166.0,0.0,0.0,0.0,0.0,67855.0,0.03,72021.0,0.03
+ASTRAL,2022-08-18 18:25:00,2022-08-17,2022-07-23,2022-07-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,208.0,0.0,0.0,0.0,0.0,3870.0,0.0,4078.0,0.0
+ASTRAL,2022-08-18 18:25:00,2022-08-17,2022-08-16,2022-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4078.0,0.0,3078.0,0.0
+ASTRAL,2022-08-22 18:33:00,2022-08-19,2022-08-17,2022-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,931.0,0.0,0.0,0.0,0.0,12931.0,0.0,12000.0,0.0
+ASTRAL,2022-08-22 18:33:00,2022-08-19,2022-07-23,2022-07-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,250.0,0.0,0.0,0.0,0.0,12681.0,0.0,12931.0,0.0
+ASTRAL,2022-09-05 19:21:00,2022-09-05,2022-09-02,2022-09-05,Immediate relative,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,56500.0,0.03,50500.0,0.03
+ASTRAL,2022-09-05 19:21:00,2022-09-05,2022-09-01,2022-09-02,Immediate relative,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,149835.0,0.07,137335.0,0.07
+ASTRAL,2022-09-15 16:39:00,2022-09-13,2022-09-12,2022-09-12,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,532500.0,0.0,0.0,0.0,0.0,63070765.0,31.39,63603265.0,31.57
+ASTRAL,2023-03-13 10:09:00,2023-03-11,2023-03-10,2023-03-10,Key Managerial Personnel,Gift,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,72021.0,0.03,42021.0,0.02
+ASTRAL,2023-05-26 12:14:00,2023-05-26,2023-05-24,2023-05-25,Immediate relative,Market Sale,Sell,Equity Shares,9533.0,0.0,0.0,0.0,0.0,67333.0,0.02,57800.0,0.02
+ASTRAL,2023-05-26 12:14:00,2023-05-26,2023-05-24,2023-05-24,Immediate relative,Market Sale,Sell,Equity Shares,4333.0,0.0,0.0,0.0,0.0,75333.0,0.03,71000.0,0.03
+ASTRAL,2023-05-26 12:14:00,2023-05-26,2023-05-25,2023-05-25,Immediate relative,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,183113.0,0.07,176113.0,0.06
+ASTRAL,2023-06-07 14:29:00,2023-06-07,2023-06-05,2023-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,246666.0,0.09,196666.0,0.07
+ASTRAL,2023-06-15 16:35:00,2023-06-15,2023-06-13,2023-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,23474.0,0.0,22724.0,0.0
+ASTRAL,2023-06-29 16:50:00,2023-06-29,2023-06-28,2023-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2770.0,0.0,1770.0,0.0
+ASTRAL,2023-07-01 08:40:00,2023-07-01,2023-06-28,2023-06-30,Other,Market Sale,Sell,Equity Shares,23926.0,0.0,0.0,0.0,0.0,161942.0,0.06,138016.0,0.05
+ASTRAL,2023-07-01 08:46:00,2023-06-30,2023-06-30,2023-06-30,Key Managerial Personnel,Gift,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,56028.0,0.02,36028.0,0.01
+ASTRAL,2023-07-03 16:40:00,2023-06-30,2023-06-30,2023-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6141.0,0.0,5141.0,0.0
+ASTRAL,2023-07-03 16:46:00,2023-06-30,2023-06-30,2023-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,21466.0,0.0,20466.0,0.0
+ASTRAL,2023-09-11 17:31:00,2023-09-08,2023-09-08,2023-09-08,Director,Gift,Buy,Equity Shares,3333.0,0.0,0.0,0.0,0.0,,0.0,3333.0,0.0
+ASTRAL,2023-09-11 17:37:00,2023-09-08,2023-09-08,2023-09-08,Immediate relative,Gift,Sell,Equity Shares,3333.0,0.0,0.0,0.0,0.0,3333.0,0.0,,0.0
+ASTRAL,2023-09-27 12:53:00,2023-09-27,2023-09-26,2023-09-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8462.0,0.0,0.0,0.0,0.0,11128.0,0.0,2666.0,0.0
+ASTRAL,2023-11-23 15:21:00,2023-11-23,2023-11-22,2023-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2324.0,0.0,1324.0,0.0
+ASTRAL,2023-11-30 18:26:00,2023-11-30,2023-11-29,2023-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,999.0,0.0,0.0,0.0,0.0,2999.0,0.0,2000.0,0.0
+ASTRAL,2023-12-02 12:41:00,2023-12-01,2023-11-30,2023-11-30,Immediate relative,Market Sale,Sell,Equity Shares,11382.0,0.0,0.0,0.0,0.0,20000.0,0.0,8618.0,0.0
+ASTRAL,2023-12-02 12:41:00,2023-12-02,2023-12-01,2023-12-01,Immediate relative,Market Sale,Sell,Equity Shares,8618.0,0.0,0.0,0.0,0.0,8618.0,0.0,,0.0
+ASTRAL,2023-12-05 14:55:00,2023-12-05,2023-12-04,2023-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2465.0,0.0,0.0,0.0,0.0,20466.0,0.0,18001.0,0.0
+ASTRAL,2023-12-22 17:09:00,2023-12-21,2023-12-20,2023-12-20,Promoter Group,Others,Sell,Equity Shares,1060000.0,0.0,0.0,0.0,0.0,18480065.0,6.88,17420065.0,6.49
+ASTRAL,2023-12-22 17:23:00,2023-12-21,2023-12-20,2023-12-20,Promoter Group,Others,Sell,Equity Shares,3620737.0,0.0,0.0,0.0,0.0,26395932.0,9.83,22775195.0,8.48
+ASTRAL,2024-01-01 16:55:00,2023-12-29,2023-12-28,2023-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,696.0,0.0,0.0,0.0,0.0,1110.0,0.0,414.0,0.0
+ASTRAL,2024-03-27 14:31:00,2024-03-27,2024-03-26,2024-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,2000.0,0.0,700.0,0.0
+ASTRAL,2024-06-04 14:37:00,2024-06-04,2024-06-03,2024-06-03,Director,Market Sale,Sell,Equity Shares,777.0,0.0,0.0,0.0,0.0,1777.0,0.0,1000.0,0.0
+ASTRAL,2024-06-12 13:35:00,2024-06-11,2024-06-10,2024-06-10,Immediate relative,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,71000.0,0.03,69000.0,0.03
+ASTRAL,2024-06-12 13:38:00,2024-06-12,2024-06-11,2024-06-11,Immediate relative,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,57800.0,0.02,53300.0,0.02
+ASTRAL,2024-06-25 12:35:00,2024-06-25,2024-06-24,2024-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,15501.0,0.0,13001.0,0.0
+ASTRAL,2024-06-27 11:23:00,2024-06-27,2024-06-26,2024-06-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,13001.0,0.0,11501.0,0.0
+ASTRAL,2024-06-27 13:01:00,2024-06-27,2024-06-26,2024-06-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1324.0,0.0,324.0,0.0
+ASTRAL,2024-06-29 16:18:00,2024-06-28,2024-06-26,2024-06-26,Other,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,138016.0,0.05,113016.0,0.04
+ASTRAL,2024-06-29 16:20:00,2024-06-28,2024-06-26,2024-06-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,5307.0,0.0,4207.0,0.0
+ASTRAL,2025-08-19 11:30:00,2025-08-19,2025-08-18,2025-08-18,Promoter Group,Market Purchase,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,22775195.0,8.48,22875195.0,8.52
+ASTRAL,2025-08-19 11:30:00,2025-08-19,2025-08-18,2025-08-18,Promoter Group,Market Purchase,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,17420065.0,6.48,17520065.0,6.52
+ASTRAL,2025-09-25 12:03:00,2025-09-25,2025-09-23,2025-09-24,Promoter Group,Market Purchase,Buy,Equity Shares,50000.0,0.0,0.0,0.0,0.0,22875195.0,8.52,22925195.0,8.53
+ASTRAL,2025-09-25 12:03:00,2025-09-25,2025-09-23,2025-09-24,Promoter Group,Market Purchase,Buy,Equity Shares,50000.0,0.0,0.0,0.0,0.0,17520065.0,6.52,17570065.0,6.54
+ASTRAL,2025-12-18 18:32:00,2025-12-17,2025-12-15,2025-12-15,Immediate relative,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,69000.0,0.02,67000.0,0.02
+ASTRAL,2025-12-18 18:32:00,2025-12-17,2025-12-15,2025-12-15,Immediate relative,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,53300.0,0.02,51300.0,0.02
+ASTRAL,2026-01-01 12:03:00,2025-12-31,2025-12-30,2025-12-30,Promoter Group,Market Purchase,Buy,Equity Shares,18000.0,0.0,0.0,0.0,0.0,17570065.0,6.54,17588065.0,6.55
+ASTRAL,2026-01-01 12:03:00,2025-12-31,2025-12-30,2025-12-30,Promoter Group,Market Purchase,Buy,Equity Shares,18000.0,0.0,0.0,0.0,0.0,22925195.0,8.53,22943195.0,8.54

@@ -1,0 +1,11 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+GAMMONIND,2016-05-02 19:59:00,2016-05-02,2016-04-18,2016-04-18,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,225000.0,0.0,0.0,0.0,0.0,12182805.0,3.33,11957805.0,3.27
+GAMMONIND,2016-05-02 19:59:00,2016-05-02,2016-04-20,2016-04-20,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,125000.0,0.0,0.0,0.0,0.0,11957805.0,3.27,11832805.0,3.24
+GAMMONIND,2017-03-31 15:07:00,2017-03-30,2017-03-29,2017-03-29,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,540000.0,0.0,0.0,0.0,0.0,10872805.0,2.94,10332805.0,2.79
+GAMMONIND,2017-03-31 15:07:00,2017-03-30,2017-03-30,2017-03-30,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,440000.0,0.0,0.0,0.0,0.0,10332805.0,2.79,9892805.0,2.68
+GAMMONIND,2017-04-03 10:52:00,2017-04-01,2017-03-31,2017-03-31,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,200000.0,0.0,0.0,0.0,0.0,9892805.0,2.68,9692805.0,2.62
+GAMMONIND,2017-04-04 16:22:00,2017-04-04,2017-04-03,2017-04-03,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,465000.0,0.0,0.0,0.0,0.0,9692805.0,2.62,9227805.0,2.5
+GAMMONIND,2017-04-07 13:23:00,2017-04-06,2017-04-06,2017-04-06,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,650000.0,0.0,0.0,0.0,0.0,9227805.0,2.5,8577805.0,2.32
+GAMMONIND,2017-04-07 19:38:00,2017-04-07,2017-04-07,2017-04-07,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,480000.0,0.0,0.0,0.0,0.0,8577805.0,2.32,8097805.0,2.19
+GAMMONIND,2017-04-10 18:16:00,2017-04-10,2017-04-07,2017-04-07,Promoters,Invocation of pledge,Sell,Equity Shares,915000.0,0.0,0.0,0.0,0.0,8097805.0,2.19,7182805.0,1.94
+GAMMONIND,2017-04-29 15:02:00,,2017-04-27,2017-04-27,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,100000.0,0.0,0.0,0.0,0.0,18013015.0,4.87,17913015.0,4.85

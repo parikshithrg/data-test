@@ -1,0 +1,18 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+HCC,2018-07-03 15:31:00,2018-07-03,2018-06-29,2018-06-29,Director,Market Purchase,Buy,Equity Shares,500000.0,0.0,0.0,0.0,0.0,,0.0,500000.0,0.05
+HCC,2018-11-22 18:50:00,2018-11-21,2018-11-19,2018-11-19,Promoter Group,Market Purchase,Buy,Equity Shares,1035000.0,0.0,0.0,0.0,0.0,65000.0,0.01,1100000.0,0.11
+HCC,2019-01-02 19:43:00,2018-12-31,2018-12-28,2018-12-28,Promoter Group,Public Right,Buy,Equity Shares,218888139.0,0.0,0.0,0.0,0.0,1100000.0,0.07,219988139.0,14.54
+HCC,2019-01-03 12:21:00,2018-12-31,2018-12-31,2018-12-31,Director,Public Right,Buy,Equity Shares,500000.0,0.0,0.0,0.0,0.0,500000.0,0.03,1000000.0,0.07
+HCC,2019-01-03 16:13:00,2019-01-02,2018-12-31,2018-12-31,Promoter Group,Market Purchase,Buy,Equity Shares,18393703.0,0.0,0.0,0.0,0.0,219988139.0,14.54,238381842.0,15.76
+HCC,2019-01-07 18:38:00,2019-01-04,2018-12-31,2018-12-31,Promoter Group,Market Purchase,Buy,Equity Shares,57234.0,0.0,0.0,0.0,0.0,238381842.0,15.76,238439076.0,15.76
+HCC,2019-02-14 18:08:00,2019-02-13,2019-02-11,2019-02-12,Promoter Group,Market Purchase,Buy,Equity Shares,1600782.0,0.0,0.0,0.0,0.0,238439076.0,15.76,240039858.0,15.86
+HCC,2019-02-18 19:22:00,2019-02-15,2019-02-13,2019-02-14,Promoter Group,Market Purchase,Buy,Equity Shares,2554804.0,0.0,0.0,0.0,0.0,240039858.0,15.86,242594662.0,16.03
+HCC,2019-02-18 19:22:00,2019-02-18,2019-02-15,2019-02-15,Promoter Group,Market Purchase,Buy,Equity Shares,790333.0,0.0,0.0,0.0,0.0,242594662.0,16.03,243384995.0,16.09
+HCC,2019-02-21 18:29:00,2019-02-20,2019-02-18,2019-02-19,Promoter Group,Market Purchase,Buy,Equity Shares,1557699.0,0.0,0.0,0.0,0.0,243384995.0,16.09,244942694.0,16.19
+HCC,2019-02-21 18:29:00,2019-02-21,2019-02-20,2019-02-20,Promoter Group,Market Purchase,Buy,Equity Shares,966886.0,0.0,0.0,0.0,0.0,244942694.0,16.19,245909580.0,16.25
+HCC,2019-02-26 17:17:00,2019-02-25,2019-02-21,2019-02-21,Promoter Group,Market Purchase,Buy,Equity Shares,346037.0,0.0,0.0,0.0,0.0,245909580.0,16.25,246255617.0,16.28
+HCC,2019-07-01 17:42:00,2019-06-28,2019-06-25,2019-06-28,Promoter Group,Market Purchase,Buy,Equity Shares,160000.0,0.0,0.0,0.0,0.0,246255617.0,16.28,246415617.0,16.29
+HCC,2019-07-01 17:42:00,2019-07-01,2019-06-28,2019-06-28,Promoter Group,Market Purchase,Buy,Equity Shares,151000.0,0.0,0.0,0.0,0.0,246415617.0,16.29,246566617.0,16.3
+HCC,2019-08-12 15:20:00,2019-08-09,2019-08-07,2019-08-08,Promoter Group,Market Purchase,Buy,Equity Shares,469774.0,0.0,0.0,0.0,0.0,246566617.0,16.3,247036391.0,16.33
+HCC,2019-11-28 16:10:00,2019-11-28,2019-11-26,2019-11-27,Director,Market Sale,Sell,Equity Shares,600000.0,0.0,0.0,0.0,0.0,1000000.0,0.07,400000.0,0.03
+HCC,2019-12-03 12:17:00,2019-12-02,2019-11-29,2019-11-29,Director,Market Sale,Sell,Equity Shares,400000.0,0.0,0.0,0.0,0.0,400000.0,0.03,,0.0

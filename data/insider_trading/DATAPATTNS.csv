@@ -1,0 +1,5 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+DATAPATTNS,2022-09-30 14:56:00,2022-09-28,2022-09-16,2022-09-19,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,29000.0,0.0,0.0,0.0,0.0,10620948.0,20.47,10649948.0,20.52
+DATAPATTNS,2024-02-19 18:05:00,2024-02-16,2024-02-16,2024-02-16,-,Market Sale,Sell,Equity Shares,5996622.0,0.0,0.0,0.0,0.0,5996622.0,10.71,,0.0
+DATAPATTNS,2024-02-19 18:12:00,2024-02-16,2024-02-16,2024-02-16,Director,Market Purchase,Buy,Equity Shares,680622.0,0.0,0.0,0.0,0.0,,0.0,680622.0,1.22
+DATAPATTNS,2025-04-09 15:49:00,2025-04-07,2025-04-03,2025-04-03,Promoter Group,Others,Buy,Equity Shares,327120.0,0.0,0.0,0.0,0.0,,0.0,327120.0,0.58

@@ -1,0 +1,25 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+TRENT,2016-09-23 15:47:00,2016-09-22,2016-09-22,2016-09-22,Promoters,Inter-se-Transfer,Buy,Equity Shares,3877140.0,0.0,0.0,0.0,0.0,88292470.0,26.57,92169610.0,27.74
+TRENT,2019-08-09 15:19:00,2019-08-08,2019-08-06,2019-08-06,Promoters,Preferential Offer,Buy,Equity Shares,23170731.0,0.0,0.0,0.0,0.0,92169610.0,27.74,115340341.0,32.45
+TRENT,2021-08-17 15:21:00,2021-08-16,2021-08-13,2021-08-13,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,4537.0,0.0,0.0,0.0,0.0,5911.0,0.0,10448.0,0.0
+TRENT,2021-09-08 12:17:00,2021-09-07,2021-09-06,2021-09-06,Immediate relative,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,42590.0,0.01,43590.0,0.01
+TRENT,2021-09-08 12:17:00,2021-09-07,2021-09-07,2021-09-07,Immediate relative,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,43590.0,0.01,44590.0,0.01
+TRENT,2021-09-14 14:51:00,2021-09-14,2021-09-13,2021-09-13,Immediate relative,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,44590.0,0.01,45590.0,0.01
+TRENT,2021-09-22 15:19:00,2021-09-22,2021-09-21,2021-09-21,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,7185.0,0.0,0.0,0.0,0.0,10448.0,0.0,17633.0,0.01
+TRENT,2021-11-15 18:41:00,2021-11-13,2021-11-12,2021-11-12,Immediate relative,Market Purchase,Buy,Equity Shares,435.0,0.0,0.0,0.0,0.0,45590.0,0.01,46025.0,0.01
+TRENT,2021-11-19 16:09:00,2021-11-18,2021-11-18,2021-11-18,Immediate relative,Market Purchase,Buy,Equity Shares,900.0,0.0,0.0,0.0,0.0,47225.0,0.01,48125.0,0.01
+TRENT,2021-11-19 16:09:00,2021-11-18,2021-11-17,2021-11-17,Immediate relative,Market Purchase,Buy,Equity Shares,1200.0,0.0,0.0,0.0,0.0,46025.0,0.01,47225.0,0.01
+TRENT,2022-05-06 16:21:00,2022-05-05,2022-05-04,2022-05-04,Immediate relative,Market Purchase,Buy,Equity Shares,650.0,0.0,0.0,0.0,0.0,48125.0,0.01,48775.0,0.01
+TRENT,2022-05-06 16:21:00,2022-05-06,2022-05-05,2022-05-05,Immediate relative,Market Purchase,Buy,Equity Shares,325.0,0.0,0.0,0.0,0.0,48775.0,0.01,49100.0,0.01
+TRENT,2022-05-09 16:21:00,2022-05-09,2022-05-06,2022-05-06,Immediate relative,Market Purchase,Buy,Equity Shares,1205.0,0.0,0.0,0.0,0.0,49100.0,0.01,50305.0,0.01
+TRENT,2022-05-23 15:13:00,2022-05-20,2022-05-19,2022-05-19,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,425.0,0.0,0.0,0.0,0.0,640.0,0.0,1065.0,0.0
+TRENT,2022-05-23 15:13:00,2022-05-23,2022-05-20,2022-05-20,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,515.0,0.0,0.0,0.0,0.0,1065.0,0.0,1580.0,0.0
+TRENT,2022-05-23 15:13:00,2022-05-19,2022-05-18,2022-05-18,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,440.0,0.0,0.0,0.0,0.0,200.0,0.0,640.0,0.0
+TRENT,2022-08-23 11:29:00,2022-08-20,2022-08-19,2022-08-19,Immediate relative,Market Purchase,Buy,Equity Shares,140.0,0.0,0.0,0.0,0.0,50305.0,0.01,50445.0,0.01
+TRENT,2022-08-23 16:57:00,2022-08-23,2022-08-22,2022-08-22,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,137.0,0.0,0.0,0.0,0.0,1710.0,0.0,1847.0,0.0
+TRENT,2022-08-23 16:57:00,2022-08-22,2022-08-19,2022-08-19,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,130.0,0.0,0.0,0.0,0.0,1580.0,0.0,1710.0,0.0
+TRENT,2022-08-25 12:43:00,2022-08-24,2022-08-23,2022-08-23,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,10.0,0.0,0.0,0.0,0.0,1847.0,0.0,1857.0,0.0
+TRENT,2022-09-19 15:56:00,2022-09-19,2022-09-16,2022-09-16,Immediate relative,Market Purchase,Buy,Equity Shares,560.0,0.0,0.0,0.0,0.0,50445.0,0.01,51005.0,0.01
+TRENT,2022-09-20 19:35:00,2022-09-20,2022-09-19,2022-09-19,Immediate relative,Market Purchase,Buy,Equity Shares,440.0,0.0,0.0,0.0,0.0,51005.0,0.01,51445.0,0.01
+TRENT,2023-09-07 18:32:00,2023-09-06,2023-09-04,2023-09-04,Immediate relative,Market Purchase,Buy,Equity Shares,1040.0,0.0,0.0,0.0,0.0,,0.0,1040.0,0.0
+TRENT,2025-09-09 18:47:00,2025-09-09,2025-09-08,2025-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,72560.0,0.02,70060.0,0.02

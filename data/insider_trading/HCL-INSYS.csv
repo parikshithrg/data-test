@@ -1,0 +1,6 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+HCL-INSYS,2016-10-21 14:17:00,2016-10-21,2016-10-20,2016-10-20,Promoters,Market Sale,Sell,Equity Shares,1825703.0,0.0,0.0,0.0,0.0,1825703.0,0.82,,0.0
+HCL-INSYS,2016-10-21 14:17:00,2016-10-21,2016-10-20,2016-10-20,Promoters,Market Purchase,Buy,Equity Shares,1825703.0,0.0,0.0,0.0,0.0,,0.0,1825703.0,0.82
+HCL-INSYS,2017-12-15 11:39:00,2017-12-13,2017-12-12,2017-12-12,Promoters,Others,Buy,Equity Shares,41564346.0,0.0,0.0,0.0,0.0,1038848.0,0.47,42603194.0,12.94
+HCL-INSYS,2017-12-15 11:39:00,2017-12-13,2017-12-12,2017-12-12,Promoters,Others,Buy,Equity Shares,53039160.0,0.0,0.0,0.0,0.0,111382239.0,49.95,164421399.0,49.95
+HCL-INSYS,2018-01-03 15:39:00,2018-01-02,2017-12-29,2017-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,80000.0,0.02,50000.0,0.02

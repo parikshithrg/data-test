@@ -1,0 +1,25 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+MOREPENLAB,2016-11-02 20:03:00,2016-11-01,2016-10-29,2016-10-29,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,61000.0,0.0,0.0,0.0,0.0,12075405.0,2.68,12075405.0,2.68
+MOREPENLAB,2016-11-02 20:26:00,2016-11-01,2016-10-29,2016-10-29,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,610000.0,0.0,0.0,0.0,0.0,12075405.0,2.68,12075405.0,2.68
+MOREPENLAB,2021-04-01 14:42:00,2021-03-30,2021-03-25,2021-03-25,Promoter Group,Preferential Offer,Buy,Warrants,3500000.0,0.0,0.0,0.0,0.0,,0.0,3500000.0,0.72
+MOREPENLAB,2021-04-01 14:42:00,2021-03-30,2021-03-25,2021-03-25,Promoter Group,Preferential Offer,Buy,Warrants,3500000.0,0.0,0.0,0.0,0.0,,0.0,3500000.0,0.72
+MOREPENLAB,2021-04-01 14:42:00,2021-03-30,2021-03-25,2021-03-25,Promoter Group,Preferential Offer,Buy,Warrants,3500000.0,0.0,0.0,0.0,0.0,,0.0,3500000.0,0.72
+MOREPENLAB,2021-04-01 14:42:00,2021-03-30,2021-03-25,2021-03-25,Promoter Group,Preferential Offer,Buy,Warrants,3500000.0,0.0,0.0,0.0,0.0,,0.0,3500000.0,0.72
+MOREPENLAB,2021-04-01 14:42:00,2021-03-30,2021-03-25,2021-03-25,Promoter Group,Preferential Offer,Buy,Warrants,3500000.0,0.0,0.0,0.0,0.0,,0.0,3500000.0,0.72
+MOREPENLAB,2021-04-01 14:42:00,2021-03-30,2021-03-25,2021-03-25,Promoter Group,Preferential Offer,Buy,Warrants,3500000.0,0.0,0.0,0.0,0.0,,0.0,3500000.0,0.72
+MOREPENLAB,2021-04-01 14:42:00,2021-03-30,2021-03-25,2021-03-25,Promoter Group,Preferential Offer,Buy,Warrants,3500000.0,0.0,0.0,0.0,0.0,,0.0,3500000.0,0.72
+MOREPENLAB,2021-04-01 14:42:00,2021-03-30,2021-03-25,2021-03-25,Promoter Group,Preferential Offer,Buy,Warrants,3500000.0,0.0,0.0,0.0,0.0,,0.0,3500000.0,0.72
+MOREPENLAB,2021-04-01 14:42:00,2021-03-30,2021-03-25,2021-03-25,Promoter Group,Preferential Offer,Buy,Warrants,3500000.0,0.0,0.0,0.0,0.0,,0.0,3500000.0,0.72
+MOREPENLAB,2021-04-01 14:42:00,2021-03-30,2021-03-25,2021-03-25,Promoter Group,Preferential Offer,Buy,Warrants,3500000.0,0.0,0.0,0.0,0.0,,0.0,3500000.0,0.72
+MOREPENLAB,2021-04-01 16:37:00,2021-03-31,2021-03-26,2021-03-26,Promoter Group,Preferential Offer,Buy,Warrants,35000000.0,0.0,0.0,0.0,0.0,,0.0,35000000.0,6.73
+MOREPENLAB,2022-04-05 17:32:00,2022-04-01,2022-03-30,2022-03-30,Promoter Group,Conversion of security,Buy,Equity Shares,3500000.0,0.0,0.0,0.0,0.0,11000820.0,2.45,14500820.0,3.04
+MOREPENLAB,2022-04-05 17:32:00,2022-04-01,2022-03-30,2022-03-30,Promoter Group,Conversion of security,Buy,Equity Shares,3500000.0,0.0,0.0,0.0,0.0,11847724.0,2.63,15347724.0,3.21
+MOREPENLAB,2022-04-05 17:32:00,2022-04-01,2022-03-30,2022-03-30,Promoter Group,Conversion of security,Buy,Equity Shares,3500000.0,0.0,0.0,0.0,0.0,11659252.0,2.59,15159252.0,3.17
+MOREPENLAB,2022-04-05 17:32:00,2022-04-01,2022-03-30,2022-03-30,Promoter Group,Conversion of security,Buy,Equity Shares,3500000.0,0.0,0.0,0.0,0.0,10602075.0,2.36,14102075.0,2.95
+MOREPENLAB,2022-04-05 17:32:00,2022-04-01,2022-03-30,2022-03-30,Promoter Group,Conversion of security,Buy,Equity Shares,3500000.0,0.0,0.0,0.0,0.0,12075405.0,2.68,15575405.0,3.26
+MOREPENLAB,2022-04-05 17:32:00,2022-04-01,2022-03-30,2022-03-30,Promoter Group,Conversion of security,Buy,Equity Shares,3500000.0,0.0,0.0,0.0,0.0,11582790.0,2.58,15082790.0,3.16
+MOREPENLAB,2022-04-05 17:32:00,2022-04-01,2022-03-30,2022-03-30,Promoter Group,Conversion of security,Buy,Equity Shares,3500000.0,0.0,0.0,0.0,0.0,11614045.0,2.58,15114045.0,3.16
+MOREPENLAB,2022-04-05 17:32:00,2022-04-01,2022-03-30,2022-03-30,Promoter Group,Conversion of security,Buy,Equity Shares,3500000.0,0.0,0.0,0.0,0.0,10828780.0,2.41,14328780.0,3.0
+MOREPENLAB,2022-09-22 18:12:00,2022-09-22,2022-09-21,2022-09-21,Promoter Group,Conversion of security,Buy,Equity Shares,3500000.0,0.0,0.0,0.0,0.0,11473813.0,2.3,14973813.0,2.93
+MOREPENLAB,2022-09-22 18:12:00,2022-09-22,2022-09-21,2022-09-21,Promoter Group,Conversion of security,Buy,Equity Shares,3500000.0,0.0,0.0,0.0,0.0,11442134.0,2.29,14942134.0,2.92
+MOREPENLAB,2022-09-22 18:12:00,2022-09-22,2022-09-21,2022-09-21,Promoter Group,Conversion of security,Buy,Equity Shares,5000000.0,0.0,0.0,0.0,0.0,3000.0,0.0,5003000.0,0.98

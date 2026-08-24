@@ -1,0 +1,2 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+KALINDEE,2017-01-11 17:14:00,2017-01-09,2017-01-05,2017-01-05,Promoters,Market Purchase,Buy,Equity Shares,88434.0,0.0,0.0,0.0,0.0,7076293.0,42.87,7164727.0,43.41

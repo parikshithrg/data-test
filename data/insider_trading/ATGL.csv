@@ -1,0 +1,30 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ATGL,2018-12-08 14:48:00,2018-12-07,2018-12-06,2018-12-06,Promoter Group,Off Market,Sell,Equity Shares,1500000.0,0.0,0.0,0.0,0.0,621197910.0,56.48,619697910.0,56.35
+ATGL,2018-12-08 14:48:00,2018-12-07,2018-12-06,2018-12-06,Promoters,Off Market,Buy,Equity Shares,750000.0,0.0,0.0,0.0,0.0,1.0,0.0,750001.0,0.07
+ATGL,2018-12-08 14:48:00,2018-12-07,2018-12-06,2018-12-06,Promoters,Off Market,Buy,Equity Shares,750000.0,0.0,0.0,0.0,0.0,1.0,0.0,750001.0,0.07
+ATGL,2018-12-13 17:20:00,2018-12-13,2018-12-12,2018-12-12,Promoters,Off Market,Sell,Equity Shares,750000.0,0.0,0.0,0.0,0.0,750001.0,0.07,1.0,0.0
+ATGL,2018-12-13 17:20:00,2018-12-13,2018-12-12,2018-12-12,Promoters,Off Market,Sell,Equity Shares,750000.0,0.0,0.0,0.0,0.0,750001.0,0.07,1.0,0.0
+ATGL,2018-12-13 17:20:00,2018-12-13,2018-12-12,2018-12-12,Promoter Group,Off Market,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,,0.0,100000.0,0.01
+ATGL,2018-12-13 17:20:00,2018-12-13,2018-12-12,2018-12-12,Promoter Group,Off Market,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,,0.0,100000.0,0.01
+ATGL,2019-02-21 18:15:00,2019-02-21,2019-02-19,2019-02-19,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,3688000.0,0.0,0.0,0.0,0.0,,0.0,3688000.0,0.34
+ATGL,2020-02-17 18:57:00,2020-02-14,2020-02-12,2020-02-12,Other,Market Purchase,Buy,Equity Shares,35000.0,0.0,0.0,0.0,0.0,,0.0,35000.0,0.0
+ATGL,2020-02-17 18:57:00,2020-02-14,2020-02-13,2020-02-13,Other,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,,0.0,500.0,0.0
+ATGL,2020-03-02 17:48:00,2020-03-02,2020-02-28,2020-02-28,Promoter Group,Market Sale,Sell,Equity Shares,3688000.0,0.0,0.0,0.0,0.0,3688000.0,0.34,,0.0
+ATGL,2020-03-02 17:48:00,2020-03-02,2020-02-28,2020-02-28,Promoter Group,Market Sale,Sell,Equity Shares,30249700.0,0.0,0.0,0.0,0.0,30249700.0,2.75,,0.0
+ATGL,2020-03-02 17:48:00,2020-03-02,2020-02-28,2020-02-28,Promoter Group,Market Sale,Sell,Equity Shares,30249700.0,0.0,0.0,0.0,0.0,30249700.0,2.75,,0.0
+ATGL,2020-03-02 17:48:00,2020-03-02,2020-02-28,2020-02-28,Promoter Group,Market Sale,Sell,Equity Shares,99491719.0,0.0,0.0,0.0,0.0,99491719.0,9.05,,0.0
+ATGL,2020-03-02 17:48:00,2020-02-28,2020-02-28,2020-02-28,Promoters,Market Purchase,Buy,Equity Shares,411331145.0,0.0,0.0,0.0,0.0,595.0,0.0,411331740.0,37.4
+ATGL,2020-03-02 17:48:00,2020-03-02,2020-02-28,2020-02-28,Promoter Group,Market Sale,Sell,Equity Shares,217402326.0,0.0,0.0,0.0,0.0,619697910.0,56.35,402295584.0,36.58
+ATGL,2020-03-02 17:48:00,2020-03-02,2020-02-28,2020-02-28,Promoter Group,Market Sale,Sell,Equity Shares,30249700.0,0.0,0.0,0.0,0.0,30249700.0,2.75,,0.0
+ATGL,2021-10-01 20:04:00,2021-09-29,2021-09-27,2021-09-29,Immediate relative,Market Sale,Sell,Equity Shares,1225.0,0.0,0.0,0.0,0.0,1225.0,0.0,,0.0
+ATGL,2022-01-01 19:01:00,2022-01-01,2021-12-27,2021-12-31,Immediate relative,Market Sale,Sell,Equity Shares,2100.0,0.0,0.0,0.0,0.0,5501.0,0.0,3401.0,0.0
+ATGL,2022-01-01 19:01:00,2022-01-01,2021-12-27,2021-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4325.0,0.0,0.0,0.0,0.0,9900.0,0.0,5575.0,0.0
+ATGL,2022-03-19 13:43:00,2022-03-17,2022-03-08,2022-03-16,Immediate relative,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,900.0,0.0,,0.0
+ATGL,2022-03-31 22:34:00,2022-03-30,2022-03-21,2022-03-29,Immediate relative,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,3000.0,0.0,2550.0,0.0
+ATGL,2022-03-31 22:34:00,2022-03-30,2022-03-17,2022-03-28,Immediate relative,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3401.0,0.0,1401.0,0.0
+ATGL,2022-03-31 22:34:00,2022-03-30,2022-03-21,2022-03-29,Immediate relative,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,6605.0,0.0,4405.0,0.0
+ATGL,2022-08-25 18:47:00,2022-08-24,2022-08-11,2022-08-22,Immediate relative,Market Sale,Sell,Equity Shares,3339.0,0.0,0.0,0.0,0.0,4339.0,0.0,1000.0,0.0
+ATGL,2022-09-07 22:24:00,2022-09-06,2022-08-24,2022-09-02,Immediate relative,Market Sale,Sell,Equity Shares,401.0,0.0,0.0,0.0,0.0,1301.0,0.0,900.0,0.0
+ATGL,2022-09-14 23:49:00,2022-09-13,2022-09-01,2022-09-09,Immediate relative,Market Sale,Sell,Equity Shares,1150.0,0.0,0.0,0.0,0.0,4100.0,0.0,2950.0,0.0
+ATGL,2022-09-14 23:49:00,2022-09-13,2022-09-01,2022-09-09,Immediate relative,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,2550.0,0.0,1800.0,0.0
+ATGL,2022-09-14 23:49:00,2022-09-13,2022-09-01,2022-09-09,Immediate relative,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,900.0,0.0,200.0,0.0

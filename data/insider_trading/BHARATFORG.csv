@@ -1,0 +1,20 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+BHARATFORG,2016-12-01 17:18:00,2016-12-01,2016-11-30,2016-11-30,Promoters,Market Sale,Sell,Equity Shares,2327000.0,0.0,0.0,0.0,0.0,29907087.0,12.85,27580087.0,11.85
+BHARATFORG,2018-07-18 16:59:00,2018-07-18,2018-07-17,2018-07-17,Promoters,Market Purchase,Buy,Equity Shares,64000.0,0.0,0.0,0.0,0.0,55160174.0,11.85,55224174.0,11.86
+BHARATFORG,2018-07-20 12:15:00,2018-07-19,2018-07-18,2018-07-18,Promoters,Market Purchase,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,55224174.0,11.86,55230174.0,11.86
+BHARATFORG,2018-07-20 14:36:00,2018-07-20,2018-07-19,2018-07-19,Promoters,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,55230174.0,11.86,55240174.0,11.86
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-08,2021-01-08,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,130.0,0.0,230.0,0.0
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-04,2021-01-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,140.0,0.0,0.0,0.0,0.0,270.0,0.0,130.0,0.0
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-13,2021-01-13,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,430.0,0.0,730.0,0.0
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-11,2021-01-11,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,330.0,0.0,430.0,0.0
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-27,2021-01-27,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,200.0,0.0,0.0,0.0,0.0,430.0,0.0,630.0,0.0
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-08,2021-01-08,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,230.0,0.0,330.0,0.0
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-25,2021-01-25,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,130.0,0.0,430.0,0.0
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-21,2021-01-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,530.0,0.0,130.0,0.0
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-14,2021-01-14,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,430.0,0.0,530.0,0.0
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-13,2021-01-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,730.0,0.0,630.0,0.0
+BHARATFORG,2021-02-18 10:31:00,2021-02-17,2021-01-13,2021-01-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,630.0,0.0,430.0,0.0
+BHARATFORG,2021-06-12 14:03:00,2021-06-11,2021-06-11,2021-06-11,Promoter Group,Market Sale,Sell,Equity Shares,4656000.0,0.0,0.0,0.0,0.0,19637850.0,4.22,14981850.0,3.22
+BHARATFORG,2021-09-29 16:38:00,2021-09-29,2021-09-27,2021-09-27,Promoter Group,Pledge Creation,Pledge,Equity Shares,7500000.0,0.0,0.0,0.0,0.0,55240174.0,11.86,55240174.0,11.86
+BHARATFORG,2021-09-30 14:45:00,2021-09-30,2021-09-29,2021-09-29,Promoter Group,Pledge Creation,Pledge,Equity Shares,7500000.0,0.0,0.0,0.0,0.0,55240174.0,11.86,55240174.0,11.86
+BHARATFORG,2021-10-04 16:28:00,2021-10-01,2021-09-30,2021-09-30,Promoter Group,Others,Pledge,Equity Shares,0.0,0.0,0.0,0.0,0.0,46285740.0,9.94,46285740.0,9.94

@@ -1,0 +1,5 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+BANKINDIA,2018-04-03 18:20:00,2018-04-03,2018-03-27,2018-03-27,Promoters,Preferential Offer,Buy,Equity Shares,558432131.0,0.0,0.0,0.0,0.0,889865942.0,75.12,1448298073.0,83.09
+BANKINDIA,2018-04-03 18:20:00,2018-04-03,2018-03-27,2018-03-27,Promoters,Preferential Offer,Buy,Equity Shares,558432131.0,0.0,0.0,0.0,0.0,889865942.0,75.12,1448298073.0,83.09
+BANKINDIA,2019-02-18 16:32:00,2019-02-16,2019-02-16,2019-02-16,Promoters,Preferential Offer,Buy,Equity Shares,953758865.0,0.0,0.0,0.0,0.0,1448298073.0,83.09,2402056938.0,89.07
+BANKINDIA,2019-04-23 11:21:00,2019-04-20,2019-04-20,2019-04-20,Promoter Group,Preferential Offer,Buy,Equity Shares,517633928.0,0.0,0.0,0.0,0.0,2402056938.0,87.05,2919690866.0,89.1

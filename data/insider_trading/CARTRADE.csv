@@ -1,0 +1,13 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+CARTRADE,2021-11-10 17:23:00,2021-10-08,2021-10-29,2021-10-29,-,Pledge Creation,Pledge,Equity Shares,40000.0,0.0,0.0,0.0,0.0,40000.0,0.09,40000.0,0.09
+CARTRADE,2021-11-10 17:23:00,2021-10-08,2021-10-29,2021-10-29,-,Pledge Creation,Pledge,Equity Shares,75000.0,0.0,0.0,0.0,0.0,75000.0,0.16,75000.0,0.16
+CARTRADE,2021-11-10 17:23:00,2021-10-08,2021-10-29,2021-10-29,-,Pledge Creation,Pledge,Equity Shares,8000.0,0.0,0.0,0.0,0.0,8000.0,0.02,8000.0,0.02
+CARTRADE,2021-11-10 17:23:00,2021-10-08,2021-10-29,2021-10-29,-,Pledge Creation,Pledge,Equity Shares,8000.0,0.0,0.0,0.0,0.0,8000.0,0.02,8000.0,0.02
+CARTRADE,2021-11-10 17:23:00,2021-10-08,2021-10-29,2021-10-29,-,Pledge Creation,Pledge,Equity Shares,8000.0,0.0,0.0,0.0,0.0,8000.0,0.02,8000.0,0.02
+CARTRADE,2021-11-10 17:23:00,2021-10-10,2021-11-01,2021-11-01,-,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,40000.0,0.09,,0.09
+CARTRADE,2021-11-10 17:23:00,2021-10-08,2021-10-29,2021-10-29,-,Pledge Creation,Pledge,Equity Shares,16500.0,0.0,0.0,0.0,0.0,16500.0,0.04,16500.0,0.04
+CARTRADE,2021-11-10 17:23:00,2021-10-08,2021-10-29,2021-10-29,-,Pledge Creation,Pledge,Equity Shares,15000.0,0.0,0.0,0.0,0.0,15000.0,0.03,15000.0,0.03
+CARTRADE,2021-11-10 17:23:00,2021-10-08,2021-10-29,2021-10-29,-,Pledge Creation,Pledge,Equity Shares,13000.0,0.0,0.0,0.0,0.0,13000.0,0.03,13000.0,0.03
+CARTRADE,2021-11-10 17:23:00,2021-10-08,2021-10-29,2021-10-29,-,Pledge Creation,Pledge,Equity Shares,40000.0,0.0,0.0,0.0,0.0,40000.0,0.09,40000.0,0.09
+CARTRADE,2021-11-10 17:23:00,2021-10-10,2021-11-01,2021-11-01,-,Revokation of Pledge,Pledge Revoke,Equity Shares,40000.0,0.0,0.0,0.0,0.0,40000.0,0.09,40000.0,0.09
+CARTRADE,2021-11-10 17:23:00,2021-10-08,2021-10-29,2021-10-29,-,Pledge Creation,Pledge,Equity Shares,12000.0,0.0,0.0,0.0,0.0,12000.0,0.03,12000.0,0.03

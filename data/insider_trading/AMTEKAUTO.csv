@@ -1,0 +1,3 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+AMTEKAUTO,2017-04-03 18:48:00,2017-03-31,2017-03-31,2017-03-31,Promoters,Preferential Offer,Buy,Equity Shares,11750000.0,0.0,0.0,0.0,0.0,16490895.0,7.34,28240895.0,11.37
+AMTEKAUTO,2017-04-03 18:48:00,2017-03-31,2017-03-31,2017-03-31,Promoters,Preferential Offer,Buy,Equity Shares,11750000.0,0.0,0.0,0.0,0.0,12660000.0,5.63,24410000.0,9.83

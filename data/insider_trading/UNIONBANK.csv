@@ -1,0 +1,6 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+UNIONBANK,2017-08-05 17:05:00,2017-08-04,2017-08-04,2017-08-04,Promoters,Preferential Offer,Buy,Equity Shares,38988181.0,0.0,0.0,0.0,0.0,436106597.0,63.44,475094778.0,65.4
+UNIONBANK,2018-03-28 22:02:00,2018-03-27,2018-03-27,2018-03-27,Promoters,Preferential Offer,Buy,Equity Shares,312819803.0,0.0,0.0,0.0,0.0,475094778.0,55.52,787914581.0,67.43
+UNIONBANK,2019-03-29 20:47:00,2019-03-28,2019-03-28,2019-03-28,Promoters,Preferential Offer,Buy,Equity Shares,521562658.0,0.0,0.0,0.0,0.0,787914581.0,63.47,1309477239.0,74.27
+UNIONBANK,2019-12-02 12:43:00,2019-11-30,2019-11-30,2019-11-30,Promoters,Preferential Offer,Buy,Equity Shares,1659802538.0,0.0,0.0,0.0,0.0,1309477239.0,74.27,2969279777.0,86.75
+UNIONBANK,2020-04-04 19:49:00,2020-04-01,2020-04-01,2020-04-01,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,2737381073.0,0.0,0.0,0.0,0.0,2969279777.0,86.75,5706660850.0,89.07

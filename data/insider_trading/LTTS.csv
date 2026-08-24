@@ -1,0 +1,998 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+LTTS,2017-11-28 20:10:00,2017-11-27,2017-11-24,2017-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+LTTS,2017-11-28 20:10:00,2017-11-27,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-27,2017-11-22,2017-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25.0,0.0,0.0,0.0,0.0,6000.0,0.0,5975.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-27,2017-11-23,2017-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5975.0,0.0,3975.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-27,2017-11-24,2017-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3975.0,0.0,1975.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-28,2017-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,4000.0,0.0,2400.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-22,2017-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,4000.0,0.0,2600.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,4000.0,0.0,1600.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-24,2017-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3417.0,0.0,0.0,0.0,0.0,10000.0,0.0,6583.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,5001.0,0.0,0.0,0.0,0.0,,0.0,5001.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-16,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3001.0,0.0,0.0,0.0,0.0,5001.0,0.0,2000.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-28,2017-11-20,2017-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,,0.0
+LTTS,2017-11-28 20:10:00,2017-11-27,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-27,2017-11-20,2017-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,,0.0
+LTTS,2017-11-28 20:10:00,2017-11-27,2017-11-15,2017-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,7000.0,0.0,2000.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-27,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,,0.0,7000.0,0.0
+LTTS,2017-11-28 20:10:00,2017-11-27,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,,0.0,6000.0,0.0
+LTTS,2017-11-30 17:56:00,2017-11-30,2017-11-17,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,,0.0
+LTTS,2017-11-30 17:56:00,2017-11-30,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+LTTS,2017-11-30 17:56:00,2017-11-30,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,,0.0,6000.0,0.0
+LTTS,2017-11-30 17:56:00,2017-11-30,2017-11-17,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,6000.0,0.0,,0.0
+LTTS,2017-12-01 17:17:00,2017-12-01,2017-11-30,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7000.0,0.0,6000.0,0.0
+LTTS,2017-12-01 17:17:00,2017-11-30,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,,0.0,7000.0,0.0
+LTTS,2017-12-04 16:01:00,2017-12-04,2017-12-01,2017-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3000.0,0.0,2000.0,0.0
+LTTS,2017-12-04 16:01:00,2017-11-30,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0
+LTTS,2017-12-05 15:17:00,2017-12-04,2017-11-27,2017-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2950.0,0.0,0.0,0.0,0.0,3000.0,0.0,50.0,0.0
+LTTS,2017-12-05 15:17:00,2017-11-30,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0
+LTTS,2017-12-05 15:17:00,2017-12-05,2017-11-07,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1975.0,0.0,0.0,0.0,0.0,1975.0,0.0,,0.0
+LTTS,2017-12-06 16:37:00,2017-11-30,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,,0.0,7000.0,0.0
+LTTS,2017-12-06 16:37:00,2017-12-05,2017-12-05,2017-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7000.0,0.0,6000.0,0.0
+LTTS,2017-12-21 11:22:00,2017-12-21,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,,0.0,7000.0,0.0
+LTTS,2017-12-21 11:22:00,2017-12-21,2017-11-07,2017-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6500.0,0.0,6000.0,0.0
+LTTS,2017-12-21 11:22:00,2017-12-21,2017-11-07,2017-12-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7000.0,0.0,6500.0,0.0
+LTTS,2018-01-04 11:49:00,2018-01-04,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,,0.0,6000.0,0.0
+LTTS,2018-01-04 11:49:00,2018-01-04,2018-01-02,2018-01-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6000.0,0.0,5500.0,0.0
+LTTS,2018-02-05 18:58:00,2018-02-05,2018-01-23,2018-01-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+LTTS,2018-02-05 18:58:00,2018-02-05,2018-01-23,2018-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4050.0,0.0,0.0,0.0,0.0,10000.0,0.0,5950.0,0.0
+LTTS,2018-02-05 18:58:00,2018-02-05,2018-01-23,2018-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,950.0,0.0,0.0,0.0,0.0,5950.0,0.0,5000.0,0.0
+LTTS,2018-02-05 18:58:00,2018-02-05,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,6583.0,0.0,0.0,0.0,0.0,,0.0,6583.0,0.0
+LTTS,2018-02-05 18:58:00,2018-02-05,2017-11-07,2018-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,6583.0,0.0,5983.0,0.0
+LTTS,2018-02-05 18:58:00,2018-02-05,2017-11-07,2018-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2100.0,0.0,0.0,0.0,0.0,5983.0,0.0,3883.0,0.0
+LTTS,2018-02-05 18:58:00,2018-02-05,2018-01-23,2018-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,349.0,0.0,0.0,0.0,0.0,5000.0,0.0,4651.0,0.0
+LTTS,2018-02-09 12:56:00,2018-02-08,2018-01-23,2018-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,67.0,0.0,0.0,0.0,0.0,104.0,0.0,37.0,0.0
+LTTS,2018-02-09 12:56:00,2018-02-08,2018-01-23,2018-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,87.0,0.0,0.0,0.0,0.0,191.0,0.0,104.0,0.0
+LTTS,2018-02-09 12:56:00,2018-02-08,2018-01-23,2018-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4460.0,0.0,0.0,0.0,0.0,4651.0,0.0,191.0,0.0
+LTTS,2018-02-09 12:56:00,2018-02-08,2018-01-23,2018-01-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,4651.0,0.0,0.0,0.0,0.0,,0.0,4651.0,0.0
+LTTS,2018-02-09 12:56:00,2018-02-08,2018-01-23,2018-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3.0,0.0,0.0,0.0,0.0,37.0,0.0,34.0,0.0
+LTTS,2018-02-09 12:56:00,2018-02-08,2018-01-23,2018-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,34.0,0.0,0.0,0.0,0.0,34.0,0.0,,0.0
+LTTS,2018-02-20 17:41:00,2018-02-20,2017-11-07,2017-11-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0
+LTTS,2018-02-20 17:41:00,2018-02-20,2017-11-07,2017-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,,0.0
+LTTS,2018-03-01 12:34:00,2018-02-28,2018-01-23,2018-02-26,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,59050.0,0.0,58050.0,0.0
+LTTS,2018-03-01 12:34:00,2018-02-28,2018-01-23,2018-02-26,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,60050.0,0.0,59050.0,0.0
+LTTS,2018-03-06 09:23:00,2018-03-03,2018-01-23,2018-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,14000.0,0.0,12000.0,0.0
+LTTS,2018-03-06 09:23:00,2018-03-03,2018-01-23,2018-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,12000.0,0.0,10000.0,0.0
+LTTS,2018-03-06 09:23:00,2018-03-03,2018-01-23,2018-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,10000.0,0.0,7000.0,0.0
+LTTS,2018-03-06 09:23:00,2018-03-05,2018-01-23,2018-03-01,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,58050.0,0.0,57050.0,0.0
+LTTS,2018-03-06 09:23:00,2018-03-05,2018-01-23,2018-03-01,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,57050.0,0.0,56050.0,0.0
+LTTS,2018-03-06 11:46:00,2018-03-06,2018-03-05,2018-03-05,Promoters,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,91290392.0,89.1,91260392.0,89.07
+LTTS,2018-03-07 10:51:00,2018-03-06,2018-01-23,2018-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3211.0,0.0,0.0,0.0,0.0,5399.0,0.0,2188.0,0.0
+LTTS,2018-03-07 10:51:00,2018-03-06,2018-01-23,2018-02-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8000.0,0.0,6000.0,0.0
+LTTS,2018-03-07 10:51:00,2018-03-06,2018-01-23,2018-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2188.0,0.0,0.0,0.0,0.0,2188.0,0.0,,0.0
+LTTS,2018-03-07 10:51:00,2018-03-06,2018-01-23,2018-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,601.0,0.0,0.0,0.0,0.0,6000.0,0.0,5399.0,0.0
+LTTS,2018-03-07 15:17:00,2018-03-07,2018-03-06,2018-03-06,Promoters,Market Sale,Sell,Equity Shares,19130.0,0.0,0.0,0.0,0.0,91260392.0,89.07,91241262.0,89.05
+LTTS,2018-03-14 14:46:00,2018-03-14,2018-03-13,2018-03-13,Promoters,Market Sale,Sell,Equity Shares,17372.0,0.0,0.0,0.0,0.0,91241262.0,89.05,91223890.0,89.04
+LTTS,2018-03-15 10:42:00,2018-03-15,2018-03-14,2018-03-14,Promoters,Market Sale,Sell,Equity Shares,11410.0,0.0,0.0,0.0,0.0,91223890.0,89.04,91212480.0,89.03
+LTTS,2018-03-16 12:06:00,2018-03-16,2018-03-15,2018-03-15,Promoters,Market Sale,Sell,Equity Shares,55000.0,0.0,0.0,0.0,0.0,91212480.0,89.03,91157480.0,88.97
+LTTS,2018-03-20 09:41:00,2018-03-19,2017-11-07,2018-03-15,Employees/Designated Employees,ESOP,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4000.0,0.0,3500.0,0.0
+LTTS,2018-03-20 09:41:00,2018-03-19,2017-11-07,2018-03-16,Employees/Designated Employees,ESOP,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,3500.0,0.0,2000.0,0.0
+LTTS,2018-03-27 14:50:00,2018-03-27,2018-03-26,2018-03-26,Promoters,Market Sale,Sell,Equity Shares,103452.0,0.0,0.0,0.0,0.0,91157480.0,88.97,91054028.0,88.87
+LTTS,2018-03-28 14:51:00,2018-03-28,2018-03-27,2018-03-27,Promoters,Market Sale,Sell,Equity Shares,62928.0,0.0,0.0,0.0,0.0,91054028.0,88.87,90991100.0,88.81
+LTTS,2018-03-29 11:10:00,2018-03-29,2018-03-28,2018-03-28,Promoters,Market Sale,Sell,Equity Shares,169000.0,0.0,0.0,0.0,0.0,90991100.0,88.81,90822100.0,88.64
+LTTS,2018-04-03 14:57:00,2018-04-03,2018-04-02,2018-04-02,Promoters,Market Sale,Sell,Equity Shares,31540.0,0.0,0.0,0.0,0.0,90822100.0,88.64,90790560.0,88.61
+LTTS,2018-04-03 15:10:00,2018-03-31,2018-01-23,2018-03-13,Other,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,3950.0,0.0,3500.0,0.0
+LTTS,2018-04-03 15:10:00,2018-03-31,2018-01-23,2018-03-23,Other,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3500.0,0.0,3000.0,0.0
+LTTS,2018-04-03 15:10:00,2018-03-31,2018-01-23,2018-03-08,Other,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,4000.0,0.0,3950.0,0.0
+LTTS,2018-04-04 12:07:00,2018-04-04,2018-04-03,2018-04-03,Promoters,Market Sale,Sell,Equity Shares,13000.0,0.0,0.0,0.0,0.0,90790560.0,88.61,90777560.0,88.6
+LTTS,2018-04-05 15:14:00,2018-04-05,2018-04-04,2018-04-04,Promoters,Market Sale,Sell,Equity Shares,6957.0,0.0,0.0,0.0,0.0,90777560.0,88.6,90770603.0,88.59
+LTTS,2018-04-06 15:20:00,2018-04-06,2018-04-05,2018-04-05,Promoters,Market Sale,Sell,Equity Shares,14115.0,0.0,0.0,0.0,0.0,90770603.0,88.59,90756488.0,88.58
+LTTS,2018-04-09 09:38:00,2018-04-07,2018-04-06,2018-04-06,Promoters,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,90756488.0,88.58,90754488.0,88.58
+LTTS,2018-04-10 11:44:00,2018-04-10,2018-04-09,2018-04-09,Promoters,Market Sale,Sell,Equity Shares,148502.0,0.0,0.0,0.0,0.0,90754488.0,88.58,90605986.0,88.43
+LTTS,2018-04-11 12:14:00,2018-04-11,2018-04-10,2018-04-10,Promoters,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,90605986.0,88.43,90585986.0,88.41
+LTTS,2018-04-12 11:38:00,2018-04-12,2018-04-11,2018-04-11,Promoters,Market Sale,Sell,Equity Shares,11903.0,0.0,0.0,0.0,0.0,90585986.0,88.41,90574083.0,88.4
+LTTS,2018-04-13 12:47:00,2018-04-13,2018-04-12,2018-04-12,Promoters,Market Sale,Sell,Equity Shares,59322.0,0.0,0.0,0.0,0.0,90574083.0,88.4,90514761.0,88.34
+LTTS,2018-04-16 15:04:00,2018-04-16,2018-04-13,2018-04-13,Promoters,Market Sale,Sell,Equity Shares,8500.0,0.0,0.0,0.0,0.0,90424761.0,88.26,90416261.0,88.25
+LTTS,2018-04-16 15:04:00,2018-04-16,2018-04-12,2018-04-12,Promoters,Market Sale,Sell,Equity Shares,90000.0,0.0,0.0,0.0,0.0,90514761.0,88.34,90424761.0,88.26
+LTTS,2018-04-21 10:27:00,2018-04-21,2018-04-20,2018-04-20,Promoters,Market Sale,Sell,Equity Shares,171000.0,0.0,0.0,0.0,0.0,90416261.0,88.25,90245261.0,88.08
+LTTS,2018-04-24 11:42:00,2018-04-24,2018-04-23,2018-04-23,Promoters,Market Sale,Sell,Equity Shares,128000.0,0.0,0.0,0.0,0.0,90245261.0,88.08,90117261.0,87.96
+LTTS,2018-04-25 11:54:00,2018-04-25,2018-04-24,2018-04-24,Promoters,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,90117261.0,87.96,90087261.0,87.93
+LTTS,2018-04-26 17:51:00,2018-04-26,2018-04-25,2018-04-25,Promoters,Market Sale,Sell,Equity Shares,587989.0,0.0,0.0,0.0,0.0,90087261.0,87.93,89499272.0,87.35
+LTTS,2018-04-26 17:51:00,2018-04-26,2018-04-25,2018-04-25,Promoters,Market Sale,Sell,Equity Shares,258000.0,0.0,0.0,0.0,0.0,89499272.0,87.35,89241272.0,87.1
+LTTS,2018-04-27 17:31:00,2018-04-27,2017-11-07,2018-04-25,Employees/Designated Employees,ESOP,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1500.0,0.0,1000.0,0.0
+LTTS,2018-04-27 17:31:00,2018-04-27,2017-11-07,2018-04-20,Employees/Designated Employees,ESOP,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2000.0,0.0,1500.0,0.0
+LTTS,2018-05-30 17:22:00,2018-05-30,2018-05-29,2018-05-29,Employees/Designated Employees,ESOP,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+LTTS,2018-06-12 19:32:00,2018-06-10,2018-01-23,2018-06-08,Director,ESOP,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,39850.0,0.0,39400.0,0.0
+LTTS,2018-06-12 19:32:00,2018-06-10,2018-01-23,2018-06-08,Director,ESOP,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,40050.0,0.0,39850.0,0.0
+LTTS,2018-06-12 19:32:00,2018-06-11,2018-01-23,2018-06-11,Director,ESOP,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,39400.0,0.0,38800.0,0.0
+LTTS,2018-06-13 17:30:00,2018-06-13,2018-01-23,2018-06-12,Director,ESOP,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,38800.0,0.0,37600.0,0.0
+LTTS,2018-07-17 18:51:00,2018-07-17,2018-01-23,2018-07-11,Employees/Designated Employees,ESOP,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,8000.0,0.0,6500.0,0.0
+LTTS,2018-07-27 17:34:00,2018-07-11,2018-01-23,2018-07-10,Director,Market Sale,Sell,Equity Shares,18.0,0.0,0.0,0.0,0.0,37018.0,0.0,37000.0,0.0
+LTTS,2018-07-27 17:34:00,2018-07-12,2018-01-23,2018-07-11,Director,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,37000.0,0.0,36600.0,0.0
+LTTS,2018-07-27 17:34:00,2018-07-27,2018-01-23,2018-07-26,Director,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,36600.0,0.0,24600.0,0.0
+LTTS,2018-07-30 17:15:00,2018-07-28,2018-01-23,2018-07-27,Director,Market Sale,Sell,Equity Shares,3600.0,0.0,0.0,0.0,0.0,24600.0,0.0,21000.0,0.0
+LTTS,2018-08-06 14:45:00,2018-08-06,2018-01-23,2018-08-03,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,58050.0,0.0,56050.0,0.0
+LTTS,2018-08-06 14:45:00,2018-08-06,2018-08-02,2018-08-03,Promoters,Market Sale,Sell,Equity Shares,1315946.0,0.0,0.0,0.0,0.0,89241272.0,87.08,87925326.0,85.8
+LTTS,2018-08-06 14:45:00,2018-08-06,2018-08-02,2018-08-03,Promoters,Market Sale,Sell,Equity Shares,4322526.0,0.0,0.0,0.0,0.0,87925326.0,85.8,83602800.0,81.58
+LTTS,2018-08-07 17:24:00,2018-08-07,2018-01-23,2018-08-03,Director,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,54050.0,0.0,53750.0,0.0
+LTTS,2018-08-07 17:24:00,2018-08-07,2018-01-23,2018-08-06,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,43750.0,0.0,33750.0,0.0
+LTTS,2018-08-07 17:24:00,2018-08-07,2018-01-23,2018-08-06,Director,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,33750.0,0.0,26750.0,0.0
+LTTS,2018-08-07 17:24:00,2018-08-07,2018-01-23,2018-08-06,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,48750.0,0.0,43750.0,0.0
+LTTS,2018-08-07 17:24:00,2018-08-07,2018-01-23,2018-08-06,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,53750.0,0.0,48750.0,0.0
+LTTS,2018-10-01 18:29:00,2018-09-30,2017-11-07,2018-09-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2700.0,0.0,0.0,0.0,0.0,3631.0,0.0,931.0,0.0
+LTTS,2018-10-01 18:29:00,2018-09-30,2017-11-07,2018-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,252.0,0.0,0.0,0.0,0.0,3883.0,0.0,3631.0,0.0
+LTTS,2018-10-01 18:29:00,2018-09-28,2017-11-07,2018-09-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0,1500.0,0.0
+LTTS,2018-10-08 17:20:00,2018-10-08,2018-05-22,2018-10-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,2300.0,0.0,100.0,0.0
+LTTS,2018-10-24 17:31:00,2018-10-24,2018-01-23,2018-09-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,6500.0,0.0,,0.0
+LTTS,2018-11-06 15:51:00,2018-11-03,2017-11-07,2018-11-01,Other,Market Sale,Sell,Equity Shares,520.0,0.0,0.0,0.0,0.0,3290.0,0.0,2770.0,0.0
+LTTS,2018-11-06 15:51:00,2018-11-03,2017-11-07,2018-11-02,Other,Market Sale,Sell,Equity Shares,299.0,0.0,0.0,0.0,0.0,2385.0,0.0,2086.0,0.0
+LTTS,2018-11-06 15:51:00,2018-11-03,2017-11-07,2018-11-02,Other,Market Sale,Sell,Equity Shares,385.0,0.0,0.0,0.0,0.0,2770.0,0.0,2385.0,0.0
+LTTS,2018-11-06 15:51:00,2018-11-03,2017-11-07,2018-11-01,Other,Market Sale,Sell,Equity Shares,320.0,0.0,0.0,0.0,0.0,3610.0,0.0,3290.0,0.0
+LTTS,2018-11-12 18:53:00,2018-11-12,2018-10-25,2018-11-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1704.0,0.0,0.0,0.0,0.0,8000.0,0.0,6296.0,0.0
+LTTS,2018-11-12 18:53:00,2018-11-12,2018-10-25,2018-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1082.0,0.0,0.0,0.0,0.0,6296.0,0.0,5214.0,0.0
+LTTS,2018-11-12 18:53:00,2018-11-12,2018-10-25,2018-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5214.0,0.0,4214.0,0.0
+LTTS,2018-12-17 15:35:00,2018-12-14,2018-10-25,2018-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5000.0,0.0,4000.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4500.0,0.0,3500.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3400.0,0.0,3300.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3500.0,0.0,3400.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3600.0,0.0,3500.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3700.0,0.0,3600.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3800.0,0.0,3700.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3900.0,0.0,3800.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,4000.0,0.0,3900.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1993.0,0.0,0.0,0.0,0.0,6993.0,0.0,5000.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7.0,0.0,0.0,0.0,0.0,7000.0,0.0,6993.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5000.0,0.0,4500.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,5250.0,0.0,5000.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,5500.0,0.0,5250.0,0.0
+LTTS,2018-12-21 14:52:00,2018-12-20,2018-10-25,2018-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6000.0,0.0,5500.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2600.0,0.0,2500.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2800.0,0.0,2700.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2900.0,0.0,2800.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3000.0,0.0,2900.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3100.0,0.0,3000.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3200.0,0.0,3100.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-25,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4000.0,0.0,3500.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-25,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4500.0,0.0,4000.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-25,2018-10-25,2018-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,4700.0,0.0,4500.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-25,2018-10-25,2018-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,278.0,0.0,0.0,0.0,0.0,4978.0,0.0,4700.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3300.0,0.0,3200.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2500.0,0.0,2400.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2400.0,0.0,2300.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2300.0,0.0,2200.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2200.0,0.0,2000.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-25,2018-10-25,2018-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,22.0,0.0,0.0,0.0,0.0,5000.0,0.0,4978.0,0.0
+LTTS,2018-12-26 15:35:00,2018-12-24,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2700.0,0.0,2600.0,0.0
+LTTS,2018-12-28 17:00:00,2018-12-27,2018-10-25,2018-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1293.0,0.0,0.0,0.0,0.0,15004.0,0.0,13711.0,0.0
+LTTS,2018-12-28 17:00:00,2018-12-27,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,16000.0,0.0,11500.0,0.0
+LTTS,2018-12-31 15:16:00,2018-12-31,2018-10-25,2018-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,2950.0,0.0,2500.0,0.0
+LTTS,2018-12-31 15:16:00,2018-12-31,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3500.0,0.0,3000.0,0.0
+LTTS,2018-12-31 15:16:00,2018-12-31,2018-10-25,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40.0,0.0,0.0,0.0,0.0,3000.0,0.0,2960.0,0.0
+LTTS,2019-01-02 17:17:00,2018-12-31,2018-10-25,2018-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4201.0,0.0,0.0,0.0,0.0,13550.0,0.0,9349.0,0.0
+LTTS,2019-01-02 17:17:00,2018-12-31,2018-10-25,2018-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3799.0,0.0,0.0,0.0,0.0,9349.0,0.0,5550.0,0.0
+LTTS,2019-01-09 16:23:00,2019-01-08,2018-10-25,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5000.0,0.0,3000.0,0.0
+LTTS,2019-01-28 16:01:00,2019-01-27,2018-10-25,2019-01-25,Other,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,6350.0,0.0,5650.0,0.0
+LTTS,2019-01-31 17:21:00,2019-01-31,2019-01-30,2019-01-30,Promoters,Market Sale,Sell,Equity Shares,1225820.0,0.0,0.0,0.0,0.0,83283339.0,80.06,82057519.0,78.89
+LTTS,2019-01-31 17:21:00,2019-01-31,2019-01-30,2019-01-30,Promoters,Market Sale,Sell,Equity Shares,319461.0,0.0,0.0,0.0,0.0,83602800.0,80.38,83283339.0,80.06
+LTTS,2019-02-04 10:33:00,2019-02-01,2019-01-31,2019-01-31,Promoters,Market Sale,Sell,Equity Shares,5252.0,0.0,0.0,0.0,0.0,82055783.0,78.88,82050531.0,78.88
+LTTS,2019-02-04 10:33:00,2019-02-01,2019-01-31,2019-01-31,Promoters,Market Sale,Sell,Equity Shares,1736.0,0.0,0.0,0.0,0.0,82057519.0,78.89,82055783.0,78.88
+LTTS,2019-02-05 11:37:00,2019-02-04,2017-11-07,2018-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6000.0,0.0,5000.0,0.0
+LTTS,2019-02-08 11:16:00,2019-02-07,2019-01-17,2019-01-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,10511.0,0.0,10111.0,0.0
+LTTS,2019-02-08 11:16:00,2019-02-07,2019-01-17,2019-01-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,911.0,0.0,11.0,0.0
+LTTS,2019-02-08 11:16:00,2019-02-07,2019-01-17,2019-01-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1011.0,0.0,911.0,0.0
+LTTS,2019-02-08 11:16:00,2019-02-07,2019-01-17,2019-01-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,511.0,0.0,10511.0,0.0
+LTTS,2019-02-08 11:16:00,2019-02-07,2019-01-17,2019-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8700.0,0.0,0.0,0.0,0.0,9711.0,0.0,1011.0,0.0
+LTTS,2019-02-08 11:16:00,2019-02-07,2019-01-17,2019-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,10111.0,0.0,9711.0,0.0
+LTTS,2019-02-11 16:46:00,2019-02-11,2018-10-25,2019-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7800.0,0.0,7300.0,0.0
+LTTS,2019-02-11 16:46:00,2019-02-11,2018-10-25,2019-02-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,8000.0,0.0,7800.0,0.0
+LTTS,2019-02-12 18:34:00,2019-02-12,2018-10-25,2019-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,6800.0,0.0,4800.0,0.0
+LTTS,2019-02-12 18:34:00,2019-02-12,2018-10-25,2019-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7300.0,0.0,6800.0,0.0
+LTTS,2019-02-25 18:27:00,2019-02-24,2018-10-25,2019-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4500.0,0.0,2500.0,0.0
+LTTS,2019-03-01 13:14:00,2019-02-28,2018-10-25,2019-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0,1500.0,0.0
+LTTS,2019-03-08 15:02:00,2019-03-08,2018-10-25,2019-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5800.0,0.0,4800.0,0.0
+LTTS,2019-03-12 14:34:00,2019-03-11,2018-10-25,2019-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10000.0,0.0,9000.0,0.0
+LTTS,2019-05-09 17:42:00,2019-05-08,2018-10-25,2019-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,9400.0,0.0,8900.0,0.0
+LTTS,2019-05-09 17:42:00,2019-05-08,2018-10-25,2019-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,73677.0,0.0,73477.0,0.0
+LTTS,2019-05-09 17:42:00,2019-05-08,2018-10-25,2019-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5415.0,0.0,0.0,0.0,0.0,79092.0,0.0,73677.0,0.0
+LTTS,2019-05-09 17:42:00,2019-05-08,2018-10-25,2019-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,10600.0,0.0,9400.0,0.0
+LTTS,2019-05-09 17:42:00,2019-05-08,2018-10-25,2019-05-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,834.0,0.0,0.0,0.0,0.0,79926.0,0.0,79092.0,0.0
+LTTS,2019-05-09 17:42:00,2019-05-08,2018-10-25,2019-05-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2824.0,0.0,0.0,0.0,0.0,82750.0,0.0,79926.0,0.0
+LTTS,2019-05-09 17:42:00,2019-05-08,2018-10-25,2019-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1900.0,0.0,0.0,0.0,0.0,8900.0,0.0,7000.0,0.0
+LTTS,2019-05-13 19:48:00,2019-05-13,2018-10-25,2019-05-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2000.0,0.0,1900.0,0.0
+LTTS,2019-05-13 19:48:00,2019-05-13,2018-10-25,2019-05-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,1900.0,0.0,1300.0,0.0
+LTTS,2019-05-13 19:48:00,2019-05-13,2018-10-25,2019-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1300.0,0.0,1050.0,0.0
+LTTS,2019-05-13 19:48:00,2019-05-13,2018-10-25,2019-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,70350.0,0.0,69750.0,0.0
+LTTS,2019-05-13 19:48:00,2019-05-13,2018-10-25,2019-05-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1300.0,0.0,800.0,0.0
+LTTS,2019-05-13 19:48:00,2019-05-13,2018-10-25,2019-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,90.0,0.0,0.0,0.0,0.0,800.0,0.0,710.0,0.0
+LTTS,2019-05-13 19:48:00,2019-05-13,2018-10-25,2019-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3127.0,0.0,0.0,0.0,0.0,73477.0,0.0,70350.0,0.0
+LTTS,2019-05-15 19:27:00,2019-05-14,2018-10-25,2019-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,206.0,0.0,0.0,0.0,0.0,25362.0,0.0,25156.0,0.0
+LTTS,2019-05-15 19:27:00,2019-05-14,2018-10-25,2019-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,25156.0,0.0,25056.0,0.0
+LTTS,2019-05-15 19:27:00,2019-05-14,2018-10-25,2019-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,25056.0,0.0,24556.0,0.0
+LTTS,2019-05-15 19:27:00,2019-05-14,2018-10-25,2019-05-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,26362.0,0.0,25362.0,0.0
+LTTS,2019-05-17 14:35:00,2019-05-17,2018-01-23,2019-05-16,Director,Market Sale,Sell,Equity Shares,2431.0,0.0,0.0,0.0,0.0,60692.0,0.0,58261.0,0.0
+LTTS,2019-05-17 14:35:00,2019-05-17,2018-01-23,2019-05-13,Director,Market Sale,Sell,Equity Shares,308.0,0.0,0.0,0.0,0.0,61000.0,0.0,60692.0,0.0
+LTTS,2019-05-21 14:49:00,2019-05-19,2018-01-23,2019-05-17,Director,Market Sale,Sell,Equity Shares,1761.0,0.0,0.0,0.0,0.0,58261.0,0.0,56500.0,0.0
+LTTS,2019-05-21 14:49:00,2019-05-19,2018-01-23,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,5000.0,0.0,2000.0,0.0
+LTTS,2019-05-21 14:49:00,2019-05-19,2018-01-23,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,14000.0,0.0,12500.0,0.0
+LTTS,2019-05-21 14:49:00,2019-05-20,2018-01-23,2019-05-20,Director,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,56500.0,0.0,50500.0,0.0
+LTTS,2019-05-21 14:49:00,2019-05-19,2018-01-23,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1439.0,0.0,0.0,0.0,0.0,20634.0,0.0,19195.0,0.0
+LTTS,2019-05-21 14:49:00,2019-05-20,2018-01-23,2019-05-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,19195.0,0.0,18195.0,0.0
+LTTS,2019-05-27 09:59:00,2019-05-24,2018-01-23,2019-05-23,Director,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,50500.0,0.0,50000.0,0.0
+LTTS,2019-05-27 09:59:00,2019-05-25,2018-01-23,2019-05-24,Director,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,50000.0,0.0,49500.0,0.0
+LTTS,2019-05-29 10:55:00,2019-05-28,2018-01-23,2019-05-28,Director,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,49000.0,0.0,48500.0,0.0
+LTTS,2019-05-29 10:55:00,2019-05-28,2018-01-23,2019-05-27,Director,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,49500.0,0.0,49000.0,0.0
+LTTS,2019-06-03 14:50:00,2019-05-31,2018-10-22,2019-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,10500.0,0.0,10000.0,0.0
+LTTS,2019-06-03 14:50:00,2019-05-31,2018-10-22,2019-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,313.0,0.0,0.0,0.0,0.0,10813.0,0.0,10500.0,0.0
+LTTS,2019-06-03 14:50:00,2019-05-31,2018-10-22,2019-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,187.0,0.0,0.0,0.0,0.0,12000.0,0.0,11813.0,0.0
+LTTS,2019-06-03 14:50:00,2019-05-31,2018-10-22,2019-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,11813.0,0.0,10813.0,0.0
+LTTS,2019-06-04 13:00:00,2019-06-03,2018-10-22,2019-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2386.0,0.0,0.0,0.0,0.0,2486.0,0.0,100.0,0.0
+LTTS,2019-06-04 13:00:00,2019-06-03,2018-10-22,2019-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,514.0,0.0,0.0,0.0,0.0,3000.0,0.0,2486.0,0.0
+LTTS,2019-06-05 14:33:00,2019-06-04,2018-10-22,2019-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5000.0,0.0,4000.0,0.0
+LTTS,2019-06-05 14:39:00,2019-06-05,2019-06-04,2019-06-04,Promoters,Market Sale,Sell,Equity Shares,855243.0,0.0,0.0,0.0,0.0,82050531.0,78.88,81195288.0,78.05
+LTTS,2019-06-05 14:39:00,2019-06-05,2019-06-04,2019-06-04,Promoters,Market Sale,Sell,Equity Shares,2775716.0,0.0,0.0,0.0,0.0,81195288.0,78.05,78419572.0,75.39
+LTTS,2019-06-06 15:59:00,2019-06-04,2018-08-08,2019-06-03,Director,Market Sale,Sell,Equity Shares,1288.0,0.0,0.0,0.0,0.0,48500.0,0.0,47212.0,0.0
+LTTS,2019-06-07 12:53:00,2019-06-07,2019-06-06,2019-06-06,Promoters,Market Sale,Sell,Equity Shares,174767.0,0.0,0.0,0.0,0.0,78361666.0,75.33,78186899.0,75.16
+LTTS,2019-06-07 12:53:00,2019-06-07,2019-06-06,2019-06-06,Promoters,Market Sale,Sell,Equity Shares,57906.0,0.0,0.0,0.0,0.0,78419572.0,75.39,78361666.0,75.33
+LTTS,2019-06-17 17:15:00,2019-06-17,2018-10-25,2019-05-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3299.0,0.0,0.0,0.0,0.0,10000.0,0.0,6701.0,0.0
+LTTS,2019-06-17 17:15:00,2019-06-17,2018-10-25,2019-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6701.0,0.0,0.0,0.0,0.0,6701.0,0.0,,0.0
+LTTS,2019-06-24 15:54:00,2019-06-23,2018-10-25,2019-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5050.0,0.0,50.0,0.0
+LTTS,2019-06-26 18:13:00,2019-06-26,2019-06-25,2019-06-25,Promoters,Market Sale,Sell,Equity Shares,98836.0,0.0,0.0,0.0,0.0,78105735.0,75.08,78006899.0,74.99
+LTTS,2019-06-26 18:13:00,2019-06-26,2019-06-25,2019-06-25,Promoters,Market Sale,Sell,Equity Shares,81164.0,0.0,0.0,0.0,0.0,78186899.0,75.16,78105735.0,75.08
+LTTS,2019-06-27 19:06:00,2019-06-26,2019-06-25,2019-06-25,Promoters,Market Sale,Sell,Equity Shares,98836.0,0.0,0.0,0.0,0.0,78105735.0,75.08,78006899.0,74.99
+LTTS,2019-06-27 19:06:00,2019-06-26,2019-06-25,2019-06-25,Promoters,Market Sale,Sell,Equity Shares,81164.0,0.0,0.0,0.0,0.0,78186899.0,75.16,78105735.0,75.08
+LTTS,2019-06-28 19:22:00,2019-06-27,2018-10-25,2019-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0,1500.0,0.0
+LTTS,2019-06-28 19:22:00,2019-06-27,2018-10-25,2019-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2600.0,0.0,2500.0,0.0
+LTTS,2019-06-28 19:22:00,2019-06-27,2018-10-25,2019-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,147.0,0.0,0.0,0.0,0.0,2747.0,0.0,2600.0,0.0
+LTTS,2019-06-28 19:22:00,2019-06-27,2018-10-25,2019-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,53.0,0.0,0.0,0.0,0.0,2800.0,0.0,2747.0,0.0
+LTTS,2019-06-28 19:22:00,2019-06-27,2018-10-25,2019-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3500.0,0.0,3000.0,0.0
+LTTS,2019-06-28 19:22:00,2019-06-27,2018-10-25,2019-05-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3000.0,0.0,2800.0,0.0
+LTTS,2019-07-02 17:49:00,2019-07-01,2018-10-25,2019-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10000.0,0.0,5000.0,0.0
+LTTS,2019-08-27 18:09:00,2019-08-26,2018-10-25,2019-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,12500.0,0.0,11000.0,0.0
+LTTS,2019-08-27 18:09:00,2019-08-27,2018-10-25,2019-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1500.0,0.0,1000.0,0.0
+LTTS,2019-08-27 18:09:00,2019-08-27,2018-10-25,2019-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1000.0,0.0,500.0,0.0
+LTTS,2019-08-29 19:46:00,2019-08-28,2018-10-22,2019-08-27,Other,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,9500.0,0.0,9000.0,0.0
+LTTS,2019-08-29 19:46:00,2019-08-28,2018-10-22,2019-08-28,Other,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,8750.0,0.0,8500.0,0.0
+LTTS,2019-08-29 19:46:00,2019-08-28,2018-10-22,2019-08-27,Other,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,10000.0,0.0,9500.0,0.0
+LTTS,2019-09-05 10:03:00,2019-09-04,2018-10-22,2019-09-03,Other,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,8500.0,0.0,8250.0,0.0
+LTTS,2019-09-05 10:03:00,2019-09-04,2018-10-22,2019-09-03,Other,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,8250.0,0.0,8000.0,0.0
+LTTS,2019-09-09 17:15:00,2019-09-06,2018-09-25,2019-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,4800.0,0.0,3300.0,0.0
+LTTS,2019-09-17 18:35:00,2019-09-16,2018-10-25,2019-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4553.0,0.0,3553.0,0.0
+LTTS,2019-09-19 12:20:00,2019-09-18,2018-10-25,2019-09-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1970.0,0.0,0.0,0.0,0.0,7970.0,0.0,6000.0,0.0
+LTTS,2019-09-24 11:03:00,2019-09-23,2018-10-25,2019-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3553.0,0.0,2553.0,0.0
+LTTS,2019-09-24 17:19:00,2019-06-27,2019-06-26,2019-06-26,Promoters,Market Sale,Sell,Equity Shares,8362.0,0.0,0.0,0.0,0.0,78006899.0,74.99,77998537.0,74.98
+LTTS,2019-09-24 17:19:00,2019-06-27,2019-06-26,2019-06-26,Promoters,Market Sale,Sell,Equity Shares,11638.0,0.0,0.0,0.0,0.0,77998537.0,74.98,77986899.0,74.97
+LTTS,2019-09-25 16:50:00,2019-09-24,2018-10-25,2019-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,3700.0,0.0,3000.0,0.0
+LTTS,2019-10-01 17:17:00,2019-09-27,2018-10-25,2019-09-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3050.0,0.0,2050.0,0.0
+LTTS,2019-10-09 19:37:00,2019-10-09,2018-10-25,2019-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1171.0,0.0,0.0,0.0,0.0,11000.0,0.0,9829.0,0.0
+LTTS,2019-10-09 19:37:00,2019-10-09,2018-10-25,2019-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,414.0,0.0,0.0,0.0,0.0,570.0,0.0,156.0,0.0
+LTTS,2019-12-09 11:22:00,2019-12-06,2019-10-18,2019-12-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,16829.0,0.0,14829.0,0.0
+LTTS,2019-12-09 11:22:00,2019-12-06,2019-10-18,2019-10-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,9829.0,0.0,16829.0,0.0
+LTTS,2019-12-09 15:27:00,2019-12-06,2019-10-18,2019-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,9500.0,0.0,6500.0,0.0
+LTTS,2019-12-09 15:27:00,2019-12-06,2019-10-18,2019-10-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,1500.0,0.0,9500.0,0.0
+LTTS,2019-12-10 19:26:00,2019-12-09,2019-10-18,2019-12-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4629.0,0.0,0.0,0.0,0.0,6807.0,0.0,2178.0,0.0
+LTTS,2019-12-10 19:26:00,2019-12-09,2019-10-18,2019-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,8000.0,0.0,7200.0,0.0
+LTTS,2019-12-16 18:59:00,2019-12-16,2019-10-18,2019-12-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,4518.0,0.0,3418.0,0.0
+LTTS,2019-12-16 18:59:00,2019-12-16,2019-10-18,2019-10-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4000.0,0.0,8000.0,0.0
+LTTS,2019-12-16 18:59:00,2019-12-16,2019-10-18,2019-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,7350.0,0.0,7250.0,0.0
+LTTS,2019-12-16 18:59:00,2019-12-16,2019-10-18,2019-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,7700.0,0.0,7550.0,0.0
+LTTS,2019-12-16 18:59:00,2019-12-16,2019-10-18,2019-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,7550.0,0.0,7350.0,0.0
+LTTS,2019-12-16 18:59:00,2019-12-16,2019-10-18,2019-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,8000.0,0.0,7700.0,0.0
+LTTS,2019-12-16 18:59:00,2019-12-16,2019-10-18,2019-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,3418.0,0.0,2318.0,0.0
+LTTS,2019-12-17 17:14:00,2019-12-17,2019-10-18,2019-12-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,6500.0,0.0,500.0,0.0
+LTTS,2020-01-20 17:41:00,2020-01-20,2019-10-18,2020-01-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,875.0,0.0,0.0,0.0,0.0,2156.0,0.0,1281.0,0.0
+LTTS,2020-01-21 13:05:00,2020-01-20,2019-10-18,2020-01-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,7200.0,0.0,6000.0,0.0
+LTTS,2020-01-22 18:45:00,2020-01-21,2019-10-18,2020-01-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,302.0,0.0,0.0,0.0,0.0,6000.0,0.0,5698.0,0.0
+LTTS,2020-01-22 18:45:00,2020-01-21,2019-10-18,2020-01-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,489.0,0.0,0.0,0.0,0.0,5698.0,0.0,5209.0,0.0
+LTTS,2020-01-22 18:45:00,2020-01-21,2019-10-18,2020-01-21,Director,Market Sale,Sell,Equity Shares,974.0,0.0,0.0,0.0,0.0,95750.0,0.0,94776.0,0.0
+LTTS,2020-01-22 18:45:00,2020-01-21,2019-10-18,2020-01-20,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,97750.0,0.0,95750.0,0.0
+LTTS,2020-01-24 17:08:00,2020-01-23,2019-10-18,2020-01-23,Director,Market Sale,Sell,Equity Shares,14026.0,0.0,0.0,0.0,0.0,86776.0,0.0,72750.0,0.0
+LTTS,2020-01-24 17:08:00,2020-01-22,2019-10-18,2020-01-22,Director,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,94776.0,0.0,86776.0,0.0
+LTTS,2020-01-24 17:08:00,2020-01-23,2019-10-18,2020-01-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,14829.0,0.0,14329.0,0.0
+LTTS,2020-01-24 17:08:00,2020-01-23,2019-10-18,2020-01-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14329.0,0.0,13329.0,0.0
+LTTS,2020-01-27 17:23:00,2020-01-27,2019-10-18,2020-01-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,14000.0,0.0,11500.0,0.0
+LTTS,2020-01-27 17:23:00,2020-01-27,2019-10-18,2020-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1993.0,0.0,0.0,0.0,0.0,5000.0,0.0,3007.0,0.0
+LTTS,2020-01-27 17:23:00,2020-01-27,2019-10-18,2020-01-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,209.0,0.0,0.0,0.0,0.0,5209.0,0.0,5000.0,0.0
+LTTS,2020-01-28 18:22:00,2020-01-28,2018-10-25,2020-01-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,19550.0,0.0,14550.0,0.0
+LTTS,2020-01-28 18:22:00,2020-01-28,2019-10-18,2020-01-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,1156.0,0.0,456.0,0.0
+LTTS,2020-01-28 18:22:00,2020-01-28,2019-10-18,2020-01-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,125.0,0.0,0.0,0.0,0.0,1281.0,0.0,1156.0,0.0
+LTTS,2020-01-29 17:39:00,2020-01-29,2019-10-18,2020-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7.0,0.0,0.0,0.0,0.0,3007.0,0.0,3000.0,0.0
+LTTS,2020-01-29 17:39:00,2020-01-29,2019-10-18,2020-01-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3000.0,0.0,2000.0,0.0
+LTTS,2020-01-30 17:57:00,2020-01-29,2019-10-18,2020-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,17500.0,0.0,15500.0,0.0
+LTTS,2020-01-30 17:57:00,2020-01-29,2019-10-18,2020-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,36.0,0.0,0.0,0.0,0.0,2178.0,0.0,2142.0,0.0
+LTTS,2020-01-30 17:57:00,2020-01-29,2019-10-18,2020-01-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2064.0,0.0,0.0,0.0,0.0,2142.0,0.0,78.0,0.0
+LTTS,2020-01-30 17:57:00,2020-01-30,2019-10-18,2020-01-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,,0.0
+LTTS,2020-01-30 17:57:00,2020-01-28,2019-10-18,2020-01-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,19500.0,0.0,17500.0,0.0
+LTTS,2020-01-30 17:57:00,2020-01-30,2020-01-17,2020-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1050.0,0.0,0.0,0.0,0.0,2001.0,0.0,951.0,0.0
+LTTS,2020-01-31 18:08:00,2020-01-31,2020-01-17,2020-01-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6000.0,0.0,3000.0,0.0
+LTTS,2020-02-03 17:54:00,2020-01-30,2019-10-18,2020-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,975.0,0.0,0.0,0.0,0.0,2318.0,0.0,1343.0,0.0
+LTTS,2020-02-03 17:54:00,2020-01-31,2019-10-18,2020-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,1343.0,0.0,43.0,0.0
+LTTS,2020-02-11 16:07:00,2020-02-10,2020-01-17,2020-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,80.0,0.0,0.0,0.0,0.0,926.0,0.0,846.0,0.0
+LTTS,2020-02-11 16:07:00,2020-02-10,2020-01-17,2020-01-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,1356.0,0.0,1006.0,0.0
+LTTS,2020-02-11 16:07:00,2020-02-10,2019-10-18,2020-01-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1456.0,0.0,1356.0,0.0
+LTTS,2020-02-11 16:07:00,2020-02-10,2020-01-17,2020-02-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,80.0,0.0,0.0,0.0,0.0,1006.0,0.0,926.0,0.0
+LTTS,2020-02-12 18:08:00,2020-02-12,2019-10-18,2020-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13329.0,0.0,12329.0,0.0
+LTTS,2020-02-13 18:14:00,2020-02-11,2020-01-17,2020-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,7000.0,0.0,3500.0,0.0
+LTTS,2020-02-19 15:35:00,2020-02-19,2020-01-17,2020-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,499.0,0.0,0.0,0.0,0.0,1011.0,0.0,512.0,0.0
+LTTS,2020-02-19 15:35:00,2020-02-19,2020-01-17,2020-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,499.0,0.0,0.0,0.0,0.0,1510.0,0.0,1011.0,0.0
+LTTS,2020-02-20 17:10:00,2020-02-19,2019-10-18,2020-01-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,7150.0,0.0,6900.0,0.0
+LTTS,2020-02-20 17:10:00,2020-02-19,2019-10-18,2020-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,6590.0,0.0,6490.0,0.0
+LTTS,2020-02-20 17:10:00,2020-02-19,2019-10-18,2020-01-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,210.0,0.0,0.0,0.0,0.0,6900.0,0.0,6690.0,0.0
+LTTS,2020-02-20 17:10:00,2020-02-19,2019-10-18,2020-02-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,6690.0,0.0,6590.0,0.0
+LTTS,2020-02-28 10:44:00,2020-02-27,2019-10-18,2020-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,9000.0,0.0,6000.0,0.0
+LTTS,2020-03-04 09:52:00,2020-03-03,2020-01-17,2020-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,850.0,0.0,0.0,0.0,0.0,951.0,0.0,101.0,0.0
+LTTS,2020-03-09 18:48:00,2020-03-09,2019-10-18,2020-01-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,5000.0,0.0,3500.0,0.0
+LTTS,2020-03-09 18:48:00,2020-03-09,2019-10-18,2020-01-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,,0.0
+LTTS,2020-03-11 17:11:00,2020-03-09,2019-10-18,2020-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,12329.0,0.0,10829.0,0.0
+LTTS,2020-04-09 12:29:00,2020-04-08,2020-01-17,2020-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,7989.0,0.0,7689.0,0.0
+LTTS,2020-04-09 12:29:00,2020-04-08,2018-10-25,2020-01-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,550.0,0.0,0.0,0.0,0.0,8539.0,0.0,7989.0,0.0
+LTTS,2020-06-12 18:53:00,2020-06-12,2020-01-17,2020-06-11,Director,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,104199.0,0.0,102699.0,0.0
+LTTS,2020-06-12 18:53:00,2020-06-12,2020-01-17,2020-06-10,Director,Market Sale,Sell,Equity Shares,551.0,0.0,0.0,0.0,0.0,104750.0,0.0,104199.0,0.0
+LTTS,2020-06-15 18:48:00,2020-06-14,2020-01-17,2020-06-12,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,102699.0,0.0,92699.0,0.0
+LTTS,2020-06-18 12:29:00,2020-06-17,2020-01-17,2020-06-15,Director,Market Sale,Sell,Equity Shares,7851.0,0.0,0.0,0.0,0.0,92699.0,0.0,84848.0,0.0
+LTTS,2020-06-24 19:10:00,2020-06-24,2020-01-17,2020-06-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10000.0,0.0,9000.0,0.0
+LTTS,2020-06-24 19:10:00,2020-06-24,2020-01-17,2020-06-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,9000.0,0.0,5000.0,0.0
+LTTS,2020-06-24 19:10:00,2020-06-24,2019-10-18,2020-04-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,499.0,0.0,0.0,0.0,0.0,8000.0,0.0,7501.0,0.0
+LTTS,2020-06-24 19:10:00,2020-06-24,2019-10-18,2020-04-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,499.0,0.0,0.0,0.0,0.0,7501.0,0.0,7002.0,0.0
+LTTS,2020-07-21 20:02:00,2020-07-21,2020-01-17,2020-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,14000.0,0.0,11000.0,0.0
+LTTS,2020-07-31 18:40:00,2020-07-31,2020-01-17,2020-07-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,11000.0,0.0,10000.0,0.0
+LTTS,2020-08-03 19:18:00,2020-08-01,2019-10-18,2020-07-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10829.0,0.0,9829.0,0.0
+LTTS,2020-08-03 19:18:00,2020-07-31,2020-01-17,2020-07-30,Director,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,84848.0,0.0,78848.0,0.0
+LTTS,2020-08-04 19:27:00,2020-08-04,2019-10-18,2020-07-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,4597.0,0.0,3097.0,0.0
+LTTS,2020-08-04 19:27:00,2020-08-04,2020-01-17,2020-08-03,Director,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,78848.0,0.0,74848.0,0.0
+LTTS,2020-08-05 20:37:00,2020-08-05,2020-01-17,2020-08-05,Director,Market Sale,Sell,Equity Shares,2150.0,0.0,0.0,0.0,0.0,85800.0,0.0,83650.0,0.0
+LTTS,2020-08-05 20:37:00,2020-08-05,2020-01-17,2020-08-04,Director,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,86000.0,0.0,85800.0,0.0
+LTTS,2020-08-05 20:37:00,2020-08-04,2020-01-17,2020-08-03,Director,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,86100.0,0.0,86000.0,0.0
+LTTS,2020-08-05 20:37:00,2020-08-04,2020-01-17,2020-08-03,Director,Market Sale,Sell,Equity Shares,1112.0,0.0,0.0,0.0,0.0,87212.0,0.0,86100.0,0.0
+LTTS,2020-08-07 10:47:00,2020-08-06,2020-01-17,2020-08-06,Director,Market Sale,Sell,Equity Shares,2850.0,0.0,0.0,0.0,0.0,83650.0,0.0,80800.0,0.0
+LTTS,2020-08-10 17:48:00,2020-08-08,2020-01-17,2020-08-07,Director,Market Sale,Sell,Equity Shares,788.0,0.0,0.0,0.0,0.0,80800.0,0.0,80012.0,0.0
+LTTS,2020-08-17 17:58:00,2020-08-17,2020-01-17,2020-08-14,Director,Market Sale,Sell,Equity Shares,1512.0,0.0,0.0,0.0,0.0,74848.0,0.0,73336.0,0.0
+LTTS,2020-08-19 13:23:00,2020-08-18,2020-03-20,2020-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,445.0,0.0,0.0,0.0,0.0,1046.0,0.0,601.0,0.0
+LTTS,2020-08-19 13:23:00,2020-08-14,2020-03-20,2020-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1351.0,0.0,1101.0,0.0
+LTTS,2020-08-19 13:23:00,2020-08-18,2020-03-20,2020-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,55.0,0.0,0.0,0.0,0.0,1101.0,0.0,1046.0,0.0
+LTTS,2020-08-24 18:53:00,2020-08-21,2020-01-17,2020-08-20,Director,Market Sale,Sell,Equity Shares,272.0,0.0,0.0,0.0,0.0,80000.0,0.0,79728.0,0.0
+LTTS,2020-08-24 18:53:00,2020-08-21,2020-01-17,2020-08-21,Director,Market Sale,Sell,Equity Shares,2318.0,0.0,0.0,0.0,0.0,79728.0,0.0,77410.0,0.0
+LTTS,2020-08-24 18:53:00,2020-08-21,2020-01-17,2020-08-07,Director,Market Sale,Sell,Equity Shares,12.0,0.0,0.0,0.0,0.0,80012.0,0.0,80000.0,0.0
+LTTS,2020-08-24 18:53:00,2020-08-22,2020-01-17,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,7689.0,0.0,6989.0,0.0
+LTTS,2020-08-25 17:57:00,2020-08-25,2020-01-17,2020-08-24,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,77410.0,0.0,76410.0,0.0
+LTTS,2020-09-01 14:19:00,2020-09-01,2019-10-18,2020-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,7300.0,0.0,5300.0,0.0
+LTTS,2020-09-07 20:18:00,2020-09-07,2019-10-18,2020-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,6000.0,0.0,4500.0,0.0
+LTTS,2020-09-15 20:11:00,2020-09-15,2020-09-03,2020-09-14,Director,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,76410.0,0.0,75510.0,0.0
+LTTS,2020-09-18 19:59:00,2020-09-16,2020-07-31,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,748.0,0.0,0.0,0.0,0.0,20521.0,0.0,19773.0,0.0
+LTTS,2020-09-18 19:59:00,2020-09-17,2020-09-15,2020-09-17,Director,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,75510.0,0.0,74010.0,0.0
+LTTS,2020-09-18 19:59:00,2020-09-18,2020-08-13,2020-09-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,9829.0,0.0,8329.0,0.0
+LTTS,2020-09-21 20:26:00,2020-09-17,2020-07-16,2020-07-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2350.0,0.0,0.0,0.0,0.0,2951.0,0.0,5301.0,0.0
+LTTS,2020-09-21 20:26:00,2020-09-17,2020-08-03,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,5301.0,0.0,4551.0,0.0
+LTTS,2020-09-21 20:26:00,2020-09-21,2020-09-18,2020-09-21,Director,Market Sale,Sell,Equity Shares,13336.0,0.0,0.0,0.0,0.0,73336.0,0.0,60000.0,0.0
+LTTS,2020-09-21 20:26:00,2020-09-21,2020-08-11,2020-09-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10000.0,0.0,9000.0,0.0
+LTTS,2020-09-25 13:05:00,2020-09-24,2020-09-15,2020-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,4551.0,0.0,3851.0,0.0
+LTTS,2020-10-05 13:36:00,2020-10-01,2020-09-19,2020-09-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,1200.0,0.0,0.0,0.0,0.0,291.0,0.0,1491.0,0.0
+LTTS,2020-10-05 13:36:00,2020-10-01,2020-09-30,2020-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,1491.0,0.0,791.0,0.0
+LTTS,2020-10-29 18:28:00,2020-10-29,2020-10-22,2020-10-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14829.0,0.0,13829.0,0.0
+LTTS,2020-10-29 18:28:00,2020-10-28,2020-10-28,2020-10-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,5068.0,0.0,4768.0,0.0
+LTTS,2020-10-29 18:28:00,2020-10-28,2020-10-28,2020-10-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,4768.0,0.0,3868.0,0.0
+LTTS,2020-10-30 13:04:00,2020-10-30,2020-10-28,2020-10-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,7078.0,0.0,4078.0,0.0
+LTTS,2020-11-06 16:16:00,2020-11-05,2020-11-04,2020-11-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,,0.0
+LTTS,2020-11-25 17:00:00,2020-11-25,2020-11-20,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1130.0,0.0,0.0,0.0,0.0,2751.0,0.0,1621.0,0.0
+LTTS,2020-11-25 17:00:00,2020-11-25,2020-10-19,2020-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,375.0,0.0,0.0,0.0,0.0,2526.0,0.0,2901.0,0.0
+LTTS,2020-11-25 17:00:00,2020-11-25,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,2901.0,0.0,2751.0,0.0
+LTTS,2020-11-25 17:00:00,2020-11-25,2020-11-23,2020-11-23,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1621.0,0.0,2621.0,0.0
+LTTS,2020-11-26 15:30:00,2020-11-26,2020-11-24,2020-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+LTTS,2020-12-02 17:57:00,2020-12-02,2020-12-02,2020-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13829.0,0.01,12829.0,0.01
+LTTS,2020-12-08 16:56:00,2020-12-07,2020-12-07,2020-12-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12829.0,0.01,11829.0,0.01
+LTTS,2020-12-08 16:56:00,2020-12-07,2020-12-07,2020-12-07,Director,Gift,Sell,Equity Shares,500000.0,0.0,0.0,0.0,0.0,1300000.0,1.24,800000.0,0.76
+LTTS,2020-12-10 13:16:00,2020-12-09,2020-12-08,2020-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,,0.0
+LTTS,2020-12-10 13:16:00,2020-12-09,2020-12-08,2020-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,2101.0,0.0,1301.0,0.0
+LTTS,2020-12-10 13:16:00,2020-12-08,2020-12-07,2020-12-07,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3002.0,0.0,4002.0,0.0
+LTTS,2020-12-10 13:16:00,2020-12-08,2020-12-07,2020-12-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4002.0,0.0,3002.0,0.0
+LTTS,2020-12-10 13:16:00,2020-12-08,2020-12-07,2020-12-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,5502.0,0.01,4002.0,0.0
+LTTS,2020-12-10 13:16:00,2020-12-08,2020-12-01,2020-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,11002.0,0.01,8002.0,0.01
+LTTS,2020-12-10 13:16:00,2020-12-08,2020-12-04,2020-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6502.0,0.01,5502.0,0.01
+LTTS,2020-12-10 13:16:00,2020-12-08,2020-12-02,2020-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,8002.0,0.01,7502.0,0.01
+LTTS,2020-12-10 13:16:00,2020-12-08,2020-12-04,2020-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7502.0,0.01,6502.0,0.01
+LTTS,2020-12-11 18:24:00,2020-12-11,2020-12-04,2020-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,7000.0,0.01,5000.0,0.0
+LTTS,2020-12-17 18:18:00,2020-12-16,2020-12-14,2020-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2621.0,0.0,1621.0,0.0
+LTTS,2020-12-18 18:02:00,2020-12-18,2020-12-17,2020-12-17,Director,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,114010.0,0.11,113210.0,0.11
+LTTS,2020-12-18 18:02:00,2020-12-18,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5000.0,0.0,3000.0,0.0
+LTTS,2020-12-18 18:02:00,2020-12-17,2020-12-17,2020-12-17,Director,Gift,Sell,Equity Shares,300000.0,0.0,0.0,0.0,0.0,800000.0,0.76,500000.0,0.48
+LTTS,2020-12-18 18:02:00,2020-12-18,2020-12-18,2020-12-18,Director,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,113210.0,0.11,111410.0,0.11
+LTTS,2020-12-21 17:07:00,2020-12-18,2020-12-17,2020-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,11829.0,0.01,10829.0,0.01
+LTTS,2020-12-21 17:07:00,2020-12-18,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10829.0,0.01,9829.0,0.01
+LTTS,2020-12-22 17:48:00,2020-12-22,2020-12-02,2020-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3351.0,0.0,3251.0,0.0
+LTTS,2020-12-22 17:48:00,2020-12-21,2020-12-17,2020-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,17500.0,0.02,14500.0,0.01
+LTTS,2020-12-22 17:48:00,2020-12-22,2020-12-22,2020-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3251.0,0.0,3051.0,0.0
+LTTS,2020-12-22 17:48:00,2020-12-22,2020-10-22,2020-10-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3651.0,0.0,3351.0,0.0
+LTTS,2020-12-22 17:48:00,2020-12-21,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,42550.0,0.04,37550.0,0.04
+LTTS,2020-12-23 18:50:00,2020-12-23,2020-12-22,2020-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,570.0,0.0,0.0,0.0,0.0,26413.0,0.03,25843.0,0.02
+LTTS,2020-12-23 18:50:00,2020-12-23,2020-12-23,2020-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,23500.0,0.02,19500.0,0.02
+LTTS,2020-12-23 18:50:00,2020-12-22,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,34.0,0.0,0.0,0.0,0.0,18000.0,0.02,17966.0,0.02
+LTTS,2020-12-23 18:50:00,2020-12-22,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,466.0,0.0,0.0,0.0,0.0,17966.0,0.02,17500.0,0.02
+LTTS,2020-12-23 18:50:00,2020-12-22,2020-12-22,2020-12-22,Director,Market Sale,Sell,Equity Shares,1420.0,0.0,0.0,0.0,0.0,111410.0,0.11,109990.0,0.1
+LTTS,2020-12-23 18:50:00,2020-12-22,2020-10-28,2020-10-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,18500.0,0.02,18000.0,0.02
+LTTS,2020-12-24 18:35:00,2020-12-22,2020-12-21,2020-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6226.0,0.0,0.0,0.0,0.0,20000.0,0.02,13774.0,0.01
+LTTS,2020-12-24 18:35:00,2020-12-24,2020-12-23,2020-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,8000.0,0.01,7500.0,0.01
+LTTS,2020-12-25 09:47:00,2020-12-24,2020-12-15,2020-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,899.0,0.0,0.0,0.0,0.0,16000.0,0.02,15101.0,0.01
+LTTS,2020-12-25 09:47:00,2020-12-24,2020-12-23,2020-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1497.0,0.0,0.0,0.0,0.0,1507.0,0.0,10.0,0.0
+LTTS,2020-12-25 09:47:00,2020-12-22,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3.0,0.0,0.0,0.0,0.0,1510.0,0.0,1507.0,0.0
+LTTS,2020-12-28 18:12:00,2020-12-26,2020-12-24,2020-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4078.0,0.0,3078.0,0.0
+LTTS,2020-12-28 18:12:00,2020-12-25,2020-12-23,2020-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,9829.0,0.01,9329.0,0.01
+LTTS,2020-12-29 17:09:00,2020-12-29,2020-12-29,2020-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9329.0,0.01,8329.0,0.01
+LTTS,2020-12-29 17:09:00,2020-12-29,2020-12-23,2020-12-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,25843.0,0.02,25243.0,0.02
+LTTS,2020-12-29 17:09:00,2020-12-29,2020-12-03,2020-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4005.0,0.0,0.0,0.0,0.0,7990.0,0.01,3985.0,0.0
+LTTS,2020-12-29 17:09:00,2020-12-28,2020-12-28,2020-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,35000.0,0.03,31000.0,0.03
+LTTS,2020-12-30 17:58:00,2020-12-29,2020-12-28,2020-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2499.0,0.0,0.0,0.0,0.0,15999.0,0.02,13500.0,0.01
+LTTS,2020-12-31 18:56:00,2020-12-31,2020-12-14,2020-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+LTTS,2020-12-31 18:56:00,2020-12-31,2020-12-29,2020-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2555.0,0.0,0.0,0.0,0.0,5000.0,0.0,2455.0,0.0
+LTTS,2020-12-31 18:56:00,2020-12-31,2020-12-30,2020-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7500.0,0.01,7000.0,0.01
+LTTS,2020-12-31 18:56:00,2020-12-31,2020-12-22,2020-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3051.0,0.0,2551.0,0.0
+LTTS,2021-01-01 16:22:00,2020-12-31,2020-12-30,2020-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,15000.0,0.01,10000.0,0.01
+LTTS,2021-01-01 16:22:00,2020-12-31,2020-12-14,2020-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10000.0,0.01,15000.0,0.01
+LTTS,2021-01-01 16:22:00,2020-12-30,2020-12-14,2020-12-14,Director,ESOP,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,90000.0,0.09,120000.0,0.11
+LTTS,2021-01-01 16:22:00,2020-12-30,2020-12-29,2020-12-29,Director,Market Sale,Sell,Equity Shares,3400.0,0.0,0.0,0.0,0.0,120000.0,0.11,116600.0,0.11
+LTTS,2021-01-04 18:07:00,2021-01-02,2020-12-31,2020-12-31,Director,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,116600.0,0.11,115000.0,0.11
+LTTS,2021-01-04 18:07:00,2021-01-03,2020-12-14,2020-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,12000.0,0.01,16000.0,0.02
+LTTS,2021-01-04 18:07:00,2021-01-03,2020-12-29,2020-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,16000.0,0.02,15500.0,0.01
+LTTS,2021-01-04 18:07:00,2021-01-02,2020-12-31,2020-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2145.0,0.0,0.0,0.0,0.0,2445.0,0.0,300.0,0.0
+LTTS,2021-01-29 12:07:00,2021-01-28,2021-01-25,2021-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4694.0,0.0,0.0,0.0,0.0,12000.0,0.01,7306.0,0.01
+LTTS,2021-01-29 12:07:00,2021-01-28,2021-01-28,2021-01-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,6100.0,0.01,5400.0,0.01
+LTTS,2021-01-29 12:07:00,2021-01-28,2021-01-28,2021-01-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,268.0,0.0,0.0,0.0,0.0,6368.0,0.01,6100.0,0.01
+LTTS,2021-02-01 15:42:00,2021-01-29,2020-12-22,2020-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,20000.0,0.02,19000.0,0.02
+LTTS,2021-02-02 16:32:00,2021-02-02,2021-02-01,2021-02-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,15162.0,0.01,14162.0,0.01
+LTTS,2021-02-04 12:53:00,2021-02-03,2021-01-20,2021-01-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,2800.0,0.0,0.0,0.0,0.0,12400.0,0.01,15200.0,0.01
+LTTS,2021-02-04 12:53:00,2021-02-03,2021-01-29,2021-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,15200.0,0.01,10200.0,0.01
+LTTS,2021-02-04 16:43:00,2021-02-04,2021-02-04,2021-02-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,8500.0,0.01,7000.0,0.01
+LTTS,2021-02-08 12:31:00,2021-02-05,2021-02-05,2021-02-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,5400.0,0.01,5000.0,0.0
+LTTS,2021-02-08 12:31:00,2021-02-05,2021-02-05,2021-02-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,5000.0,0.0,4400.0,0.0
+LTTS,2021-02-08 12:31:00,2021-02-08,2021-02-05,2021-02-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+LTTS,2021-02-08 17:33:00,2021-02-08,2021-01-20,2021-01-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,550.0,0.0,0.0,0.0,0.0,2631.0,0.0,3181.0,0.0
+LTTS,2021-02-08 17:33:00,2021-02-08,2021-02-04,2021-02-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,580.0,0.0,0.0,0.0,0.0,1581.0,0.0,1001.0,0.0
+LTTS,2021-02-08 17:33:00,2021-02-08,2021-02-04,2021-02-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,3181.0,0.0,1581.0,0.0
+LTTS,2021-02-09 16:58:00,2021-02-09,2021-02-08,2021-02-08,Director,Gift,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,500000.0,0.48,400000.0,0.38
+LTTS,2021-02-09 16:58:00,2021-02-09,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3078.0,0.0,2078.0,0.0
+LTTS,2021-02-09 16:58:00,2021-02-09,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2171.0,0.0,0.0,0.0,0.0,10000.0,0.01,7829.0,0.01
+LTTS,2021-02-10 17:43:00,2021-02-10,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,420.0,0.0,0.0,0.0,0.0,7000.0,0.01,6580.0,0.01
+LTTS,2021-02-10 17:43:00,2021-02-10,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,7829.0,0.01,7029.0,0.01
+LTTS,2021-02-10 17:43:00,2021-02-10,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,667.0,0.0,0.0,0.0,0.0,19500.0,0.02,18833.0,0.02
+LTTS,2021-02-15 17:52:00,2021-02-15,2021-02-12,2021-02-12,Director,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,115000.0,0.11,114600.0,0.11
+LTTS,2021-02-16 13:20:00,2021-02-16,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,14500.0,0.01,12500.0,0.01
+LTTS,2021-02-17 19:11:00,2021-02-17,2021-02-16,2021-02-16,Director,Market Sale,Sell,Equity Shares,490.0,0.0,0.0,0.0,0.0,109990.0,0.1,109500.0,0.1
+LTTS,2021-02-17 19:11:00,2021-02-16,2021-02-05,2021-02-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8000.0,0.01,6000.0,0.01
+LTTS,2021-02-17 19:11:00,2021-02-17,2021-02-15,2021-02-16,Director,Market Sale,Sell,Equity Shares,19600.0,0.0,0.0,0.0,0.0,114600.0,0.11,95000.0,0.09
+LTTS,2021-02-18 17:31:00,2021-02-18,2021-02-17,2021-02-17,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,109500.0,0.1,108500.0,0.1
+LTTS,2021-02-18 17:31:00,2021-02-17,2021-02-17,2021-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4000.0,0.0,3000.0,0.0
+LTTS,2021-02-19 17:15:00,2021-02-19,2021-02-18,2021-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3000.0,0.0,2000.0,0.0
+LTTS,2021-02-25 13:25:00,2021-02-24,2020-01-29,2020-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,6000.0,0.01,4000.0,0.0
+LTTS,2021-02-25 13:25:00,2021-02-25,2021-02-18,2021-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,12500.0,0.01,9500.0,0.01
+LTTS,2021-02-26 18:14:00,2021-02-26,2021-02-25,2021-02-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,8288.0,0.01,7288.0,0.01
+LTTS,2021-02-26 18:14:00,2021-02-26,2021-02-24,2021-02-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,41.0,0.0,0.0,0.0,0.0,8329.0,0.01,8288.0,0.01
+LTTS,2021-03-03 18:33:00,2021-03-03,2021-03-03,2021-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2633.0,0.0,0.0,0.0,0.0,18833.0,0.02,16200.0,0.02
+LTTS,2021-03-03 18:33:00,2021-03-02,2021-03-02,2021-03-02,Director,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,108500.0,0.1,107000.0,0.1
+LTTS,2021-03-03 18:33:00,2021-03-03,2021-03-02,2021-03-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,7000.0,0.01,5000.0,0.0
+LTTS,2021-03-03 18:33:00,2021-03-03,2021-03-03,2021-03-03,Director,Gift,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,400000.0,0.38,300000.0,0.29
+LTTS,2021-03-03 18:33:00,2021-03-03,2021-03-02,2021-03-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,17300.0,0.02,16800.0,0.02
+LTTS,2021-03-04 18:07:00,2021-03-04,2021-02-16,2021-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,5551.0,0.01,5151.0,0.0
+LTTS,2021-03-04 18:07:00,2021-03-04,2021-01-20,2021-01-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,2551.0,0.0,5551.0,0.01
+LTTS,2021-03-05 17:34:00,2021-03-05,2021-03-04,2021-03-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1125.0,0.0,0.0,0.0,0.0,16200.0,0.02,15075.0,0.01
+LTTS,2021-03-09 16:28:00,2021-03-09,2021-03-08,2021-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2500.0,0.0,2000.0,0.0
+LTTS,2021-03-09 16:28:00,2021-03-08,2021-03-08,2021-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1042.0,0.0,0.0,0.0,0.0,15075.0,0.01,14033.0,0.01
+LTTS,2021-03-09 16:28:00,2021-03-09,2021-03-03,2021-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1150.0,0.0,0.0,0.0,0.0,37550.0,0.04,36400.0,0.03
+LTTS,2021-03-10 18:48:00,2021-03-10,2021-03-08,2021-03-09,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,95000.0,0.09,85000.0,0.08
+LTTS,2021-03-10 18:48:00,2021-03-10,2021-03-10,2021-03-10,Director,Gift,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,300000.0,0.29,200000.0,0.19
+LTTS,2021-03-11 18:42:00,2021-03-11,2021-03-10,2021-03-10,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,85000.0,0.08,80000.0,0.08
+LTTS,2021-03-11 18:42:00,2021-03-10,2021-03-03,2021-03-10,Director,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,107000.0,0.1,105600.0,0.1
+LTTS,2021-03-15 18:30:00,2021-03-14,2021-03-08,2021-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1362.0,0.0,0.0,0.0,0.0,18553.0,0.02,17191.0,0.02
+LTTS,2021-03-15 18:30:00,2021-03-13,2021-03-12,2021-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7288.0,0.01,6788.0,0.01
+LTTS,2021-03-16 18:20:00,2021-03-15,2021-03-11,2021-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,36400.0,0.03,34600.0,0.03
+LTTS,2021-03-16 18:20:00,2021-03-15,2021-02-03,2021-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,24943.0,0.02,24493.0,0.02
+LTTS,2021-03-17 18:04:00,2021-03-17,2021-03-16,2021-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1900.0,0.0,0.0,0.0,0.0,14033.0,0.01,12133.0,0.01
+LTTS,2021-03-17 18:04:00,2021-03-16,2021-03-08,2021-03-08,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,0.0
+LTTS,2021-03-17 18:04:00,2021-03-16,2021-03-10,2021-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,8000.0,0.01,3500.0,0.0
+LTTS,2021-03-22 18:39:00,2021-03-19,2021-03-12,2021-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2034.0,0.0,0.0,0.0,0.0,17191.0,0.02,15157.0,0.01
+LTTS,2021-03-22 18:39:00,2021-03-22,2021-03-03,2021-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,19600.0,0.02,19200.0,0.02
+LTTS,2021-03-30 20:38:00,2021-03-30,2021-03-16,2021-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,357.0,0.0,0.0,0.0,0.0,15157.0,0.01,14800.0,0.01
+LTTS,2021-04-01 18:05:00,2021-04-01,2021-01-20,2021-01-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,9000.0,0.01,17000.0,0.02
+LTTS,2021-04-01 18:05:00,2021-04-01,2021-03-30,2021-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,17000.0,0.02,16000.0,0.02
+LTTS,2021-05-12 19:47:00,2021-05-12,2021-05-12,2021-05-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,580.0,0.0,0.0,0.0,0.0,6580.0,0.01,6000.0,0.01
+LTTS,2021-06-02 20:40:00,2021-06-01,2021-05-25,2021-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14162.0,0.01,13162.0,0.01
+LTTS,2021-06-03 18:36:00,2021-06-03,2021-05-31,2021-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,880.0,0.0,0.0,0.0,0.0,1101.0,0.0,221.0,0.0
+LTTS,2021-06-07 18:27:00,2021-06-07,2021-06-07,2021-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6788.0,0.01,6288.0,0.01
+LTTS,2021-06-08 20:17:00,2021-06-08,2021-06-08,2021-06-08,Director,Gift,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,150000.0,0.14,130000.0,0.12
+LTTS,2021-06-08 20:17:00,2021-06-07,2021-06-07,2021-06-07,Director,Gift,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,200000.0,0.19,150000.0,0.14
+LTTS,2021-06-10 18:42:00,2021-06-09,2021-06-09,2021-06-09,Director,Gift,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,130000.0,0.12,100000.0,0.1
+LTTS,2021-06-11 18:37:00,2021-06-11,2021-06-11,2021-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6288.0,0.01,5788.0,0.01
+LTTS,2021-06-14 19:34:00,2021-06-12,2021-06-10,2021-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,14900.0,0.01,12900.0,0.01
+LTTS,2021-06-14 19:34:00,2021-06-14,2021-06-10,2021-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,16000.0,0.02,15000.0,0.01
+LTTS,2021-06-25 18:07:00,2021-06-25,2021-06-24,2021-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,6000.0,0.01,5400.0,0.01
+LTTS,2021-06-28 17:52:00,2021-06-25,2021-06-21,2021-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7500.0,0.01,7000.0,0.01
+LTTS,2021-06-28 17:52:00,2021-06-25,2021-06-24,2021-06-24,Director,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,80000.0,0.08,60000.0,0.06
+LTTS,2021-06-28 17:52:00,2021-06-28,2021-06-07,2021-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,2985.0,0.0,2635.0,0.0
+LTTS,2021-06-29 18:04:00,2021-06-28,2021-06-22,2021-06-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,10200.0,0.01,10100.0,0.01
+LTTS,2021-06-29 18:04:00,2021-06-28,2021-06-23,2021-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,10100.0,0.01,9800.0,0.01
+LTTS,2021-06-29 18:04:00,2021-06-29,2021-06-24,2021-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,3500.0,0.0,,0.0
+LTTS,2021-07-01 18:39:00,2021-06-30,2021-06-30,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5788.0,0.01,4788.0,0.0
+LTTS,2021-07-19 19:01:00,2021-07-19,2021-07-19,2021-07-19,Director,Gift,Sell,Equity Shares,75000.0,0.0,0.0,0.0,0.0,100000.0,0.1,25000.0,0.02
+LTTS,2021-07-19 19:01:00,2021-07-19,2021-07-19,2021-07-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4788.0,0.0,2788.0,0.0
+LTTS,2021-07-20 18:58:00,2021-07-20,2021-07-19,2021-07-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1150.0,0.0,0.0,0.0,0.0,8050.0,0.01,6900.0,0.01
+LTTS,2021-07-20 18:58:00,2021-07-20,2021-07-20,2021-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2788.0,0.0,1788.0,0.0
+LTTS,2021-07-21 17:58:00,2021-07-21,2021-07-20,2021-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,1750.0,0.0,1000.0,0.0
+LTTS,2021-07-22 17:00:00,2021-07-22,2021-07-22,2021-07-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1000.0,0.0,500.0,0.0
+LTTS,2021-07-22 17:00:00,2021-07-22,2021-07-22,2021-07-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1788.0,0.0,1488.0,0.0
+LTTS,2021-07-23 18:24:00,2021-07-23,2021-07-22,2021-07-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,335.0,0.0,0.0,0.0,0.0,9735.0,0.01,9400.0,0.01
+LTTS,2021-07-23 18:24:00,2021-07-23,2021-07-23,2021-07-23,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,25000.0,0.02,15000.0,0.01
+LTTS,2021-07-23 18:24:00,2021-07-23,2021-07-20,2021-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,65.0,0.0,0.0,0.0,0.0,9800.0,0.01,9735.0,0.01
+LTTS,2021-07-23 18:24:00,2021-07-23,2021-07-22,2021-07-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,15101.0,0.01,13101.0,0.01
+LTTS,2021-07-28 18:34:00,2021-07-28,2021-07-14,2021-07-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1400.0,0.0,2900.0,0.0
+LTTS,2021-07-28 18:34:00,2021-07-27,2021-07-27,2021-07-27,Director,Market Sale,Sell,Equity Shares,15600.0,0.0,0.0,0.0,0.0,105600.0,0.1,90000.0,0.09
+LTTS,2021-07-28 18:34:00,2021-07-27,2021-07-27,2021-07-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,290.0,0.0,0.0,0.0,0.0,7900.0,0.01,7610.0,0.01
+LTTS,2021-07-28 18:34:00,2021-07-28,2021-07-27,2021-07-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,2900.0,0.0,1700.0,0.0
+LTTS,2021-07-29 17:09:00,2021-07-27,2021-07-27,2021-07-27,Director,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+LTTS,2021-07-29 17:09:00,2021-07-27,2021-07-27,2021-07-27,Director,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,15000.0,0.01,,0.0
+LTTS,2021-08-03 18:18:00,2021-08-03,2021-07-30,2021-07-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12900.0,0.01,11900.0,0.01
+LTTS,2021-08-03 18:18:00,2021-08-02,2021-07-12,2021-07-12,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,0.0
+LTTS,2021-08-05 18:00:00,2021-08-05,2021-08-04,2021-08-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,5400.0,0.01,4800.0,0.01
+LTTS,2021-08-11 17:01:00,2021-08-10,2021-08-10,2021-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,15000.0,0.01,14000.0,0.01
+LTTS,2021-08-13 17:17:00,2021-08-13,2021-08-12,2021-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,34600.0,0.03,31100.0,0.03
+LTTS,2021-08-16 17:52:00,2021-08-15,2021-08-12,2021-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,13162.0,0.01,12862.0,0.01
+LTTS,2021-08-17 18:02:00,2021-08-16,2021-08-13,2021-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,7500.0,0.01,5000.0,0.01
+LTTS,2021-08-17 18:02:00,2021-08-16,2021-08-12,2021-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,14000.0,0.01,12000.0,0.01
+LTTS,2021-08-17 18:02:00,2021-08-16,2021-08-13,2021-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,10000.0,0.01,7500.0,0.01
+LTTS,2021-08-19 18:09:00,2021-08-18,2021-08-17,2021-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1236.0,0.0,0.0,0.0,0.0,2536.0,0.0,1300.0,0.0
+LTTS,2021-08-24 18:28:00,2021-08-24,2021-08-23,2021-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,19000.0,0.02,9000.0,0.01
+LTTS,2021-08-26 17:57:00,2021-08-26,2021-08-23,2021-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,45000.0,0.04,40000.0,0.04
+LTTS,2021-08-27 17:30:00,2021-08-27,2021-08-26,2021-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2900.0,0.0,0.0,0.0,0.0,6900.0,0.01,4000.0,0.0
+LTTS,2021-08-27 17:30:00,2021-08-27,2021-07-22,2021-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,1488.0,0.0,788.0,0.0
+LTTS,2021-08-30 18:10:00,2021-08-29,2021-08-27,2021-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,9500.0,0.01,9000.0,0.01
+LTTS,2021-08-31 17:47:00,2021-08-31,2021-08-31,2021-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,9300.0,0.01,7300.0,0.01
+LTTS,2021-09-03 17:22:00,2021-09-03,2021-09-02,2021-09-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,788.0,0.0,88.0,0.0
+LTTS,2021-09-06 17:19:00,2021-09-03,2021-09-03,2021-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,10850.0,0.01,9650.0,0.01
+LTTS,2021-09-07 18:08:00,2021-09-07,2021-09-03,2021-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,14000.0,0.01,13400.0,0.01
+LTTS,2021-09-07 18:08:00,2021-09-07,2021-09-03,2021-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,11900.0,0.01,10900.0,0.01
+LTTS,2021-09-07 18:08:00,2021-09-06,2021-07-27,2021-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1170.0,0.0,0.0,0.0,0.0,7610.0,0.01,6440.0,0.01
+LTTS,2021-09-08 17:19:00,2021-09-08,2021-09-08,2021-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6440.0,0.01,5440.0,0.01
+LTTS,2021-09-08 17:19:00,2021-09-07,2021-09-07,2021-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,9000.0,0.01,5000.0,0.0
+LTTS,2021-09-08 17:19:00,2021-09-08,2021-08-06,2021-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,19200.0,0.02,17600.0,0.02
+LTTS,2021-09-08 17:19:00,2021-09-08,2021-09-06,2021-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1510.0,0.0,10.0,0.0
+LTTS,2021-09-08 17:19:00,2021-09-08,2021-06-26,2021-08-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,10.0,0.0,1510.0,0.0
+LTTS,2021-09-09 17:18:00,2021-09-09,2021-09-08,2021-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+LTTS,2021-09-09 17:18:00,2021-09-09,2021-09-08,2021-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,4800.0,0.0,4400.0,0.0
+LTTS,2021-09-13 18:20:00,2021-09-10,2021-09-08,2021-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,8600.0,0.01,7100.0,0.01
+LTTS,2021-09-13 18:20:00,2021-09-13,2021-09-13,2021-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,12133.0,0.01,8133.0,0.01
+LTTS,2021-09-13 18:20:00,2021-09-10,2021-09-08,2021-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,9400.0,0.01,8600.0,0.01
+LTTS,2021-09-14 17:57:00,2021-09-14,2021-09-08,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1899.0,0.0,0.0,0.0,0.0,7306.0,0.01,5407.0,0.01
+LTTS,2021-09-15 18:25:00,2021-09-14,2021-09-14,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10900.0,0.01,9900.0,0.01
+LTTS,2021-09-16 18:00:00,2021-09-15,2021-09-14,2021-09-14,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,90000.0,0.09,80000.0,0.08
+LTTS,2021-09-16 18:00:00,2021-09-15,2021-08-26,2021-08-26,Director,ESOP,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,60000.0,0.06,90000.0,0.09
+LTTS,2021-09-16 18:00:00,2021-09-16,2021-09-15,2021-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9900.0,0.01,8900.0,0.01
+LTTS,2021-09-16 18:00:00,2021-09-16,2021-09-15,2021-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,1300.0,0.0,850.0,0.0
+LTTS,2021-09-18 11:26:00,2021-09-17,2021-09-14,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,1354.0,0.0,954.0,0.0
+LTTS,2021-09-20 19:51:00,2021-09-20,2021-07-20,2021-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1590.0,0.0,0.0,0.0,0.0,8540.0,0.01,6950.0,0.01
+LTTS,2021-09-21 20:43:00,2021-09-21,2021-09-14,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,12000.0,0.01,11750.0,0.01
+LTTS,2021-09-21 20:43:00,2021-09-21,2021-08-26,2021-08-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,8000.0,0.01,12000.0,0.01
+LTTS,2021-09-21 20:43:00,2021-09-21,2021-09-21,2021-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,850.0,0.0,400.0,0.0
+LTTS,2021-09-21 20:43:00,2021-09-20,2021-09-20,2021-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,5051.0,0.0,4751.0,0.0
+LTTS,2021-09-21 20:43:00,2021-09-20,2021-09-16,2021-09-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,850.0,0.0,0.0,0.0,0.0,9420.0,0.01,8570.0,0.01
+LTTS,2021-09-21 20:43:00,2021-09-21,2021-09-21,2021-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,24000.0,0.02,19000.0,0.02
+LTTS,2021-09-22 18:54:00,2021-09-22,2021-09-21,2021-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,14800.0,0.01,11800.0,0.01
+LTTS,2021-09-22 18:54:00,2021-09-21,2021-09-20,2021-09-20,Other,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,20016.0,0.02,10016.0,0.01
+LTTS,2021-09-23 18:11:00,2021-09-23,2021-09-22,2021-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,4002.0,0.0,1002.0,0.0
+LTTS,2021-09-23 18:11:00,2021-09-23,2021-09-23,2021-09-23,Other,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,10016.0,0.01,8016.0,0.01
+LTTS,2021-09-23 18:11:00,2021-09-22,2021-09-14,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2078.0,0.0,78.0,0.0
+LTTS,2021-09-23 18:11:00,2021-09-23,2021-08-30,2021-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,6900.0,0.01,6800.0,0.01
+LTTS,2021-09-23 18:11:00,2021-09-23,2021-09-22,2021-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,6800.0,0.01,6700.0,0.01
+LTTS,2021-09-23 18:11:00,2021-09-23,2021-09-22,2021-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,4751.0,0.0,4351.0,0.0
+LTTS,2021-09-23 18:11:00,2021-09-23,2021-08-27,2021-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,7000.0,0.01,6900.0,0.01
+LTTS,2021-09-23 18:11:00,2021-09-23,2021-09-22,2021-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1500.0,0.0,1000.0,0.0
+LTTS,2021-09-24 18:30:00,2021-09-24,2021-09-09,2021-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,4400.0,0.0,3500.0,0.0
+LTTS,2021-09-24 18:30:00,2021-09-23,2021-09-20,2021-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,304.0,0.0,0.0,0.0,0.0,2635.0,0.0,2331.0,0.0
+LTTS,2021-09-27 17:39:00,2021-09-27,2021-09-27,2021-09-27,Other,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,8016.0,0.01,5016.0,0.0
+LTTS,2021-09-27 17:39:00,2021-09-27,2021-09-21,2021-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2250.0,0.0,0.0,0.0,0.0,22990.0,0.02,20740.0,0.02
+LTTS,2021-09-27 17:39:00,2021-09-26,2021-09-24,2021-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,3500.0,0.0,2900.0,0.0
+LTTS,2021-09-27 17:39:00,2021-09-24,2021-09-23,2021-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13101.0,0.01,12101.0,0.01
+LTTS,2021-09-30 18:42:00,2021-09-30,2021-09-29,2021-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,12862.0,0.01,12362.0,0.01
+LTTS,2021-09-30 18:42:00,2021-09-29,2021-09-24,2021-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,3000.0,0.0,2600.0,0.0
+LTTS,2021-09-30 18:42:00,2021-09-30,2021-07-27,2021-07-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,350.0,0.0,250.0,0.0
+LTTS,2021-09-30 18:42:00,2021-09-30,2021-08-16,2021-08-16,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,50.0,0.0,0.0,0.0,0.0,250.0,0.0,250.0,0.0
+LTTS,2021-09-30 18:42:00,2021-09-30,2021-09-15,2021-09-15,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,50.0,0.0,0.0,0.0,0.0,250.0,0.0,250.0,0.0
+LTTS,2021-09-30 18:42:00,2021-09-30,2021-09-15,2021-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,250.0,0.0,150.0,0.0
+LTTS,2021-10-01 19:29:00,2021-09-30,2021-09-29,2021-09-29,Director,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,80000.0,0.08,77500.0,0.07
+LTTS,2021-10-01 19:29:00,2021-10-01,2021-09-29,2021-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,7029.0,0.01,5029.0,0.0
+LTTS,2021-10-01 19:29:00,2021-09-30,2021-09-29,2021-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6000.0,0.01,5000.0,0.0
+LTTS,2021-10-01 19:29:00,2021-09-30,2021-09-30,2021-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,5440.0,0.01,4640.0,0.0
+LTTS,2021-10-04 18:52:00,2021-10-01,2021-09-06,2021-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,230.0,0.0,0.0,0.0,0.0,242.0,0.0,12.0,0.0
+LTTS,2021-11-09 17:33:00,2021-11-08,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,13500.0,0.01,17500.0,0.02
+LTTS,2021-11-09 17:33:00,2021-11-05,2021-08-06,2021-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,360.0,0.0,0.0,0.0,0.0,24493.0,0.02,24133.0,0.02
+LTTS,2021-11-09 17:33:00,2021-11-08,2021-11-03,2021-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,17500.0,0.02,16000.0,0.02
+LTTS,2021-11-10 18:27:00,2021-11-10,2021-11-04,2021-11-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30.0,0.0,0.0,0.0,0.0,922.0,0.0,892.0,0.0
+LTTS,2021-11-10 18:27:00,2021-11-10,2021-11-08,2021-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,892.0,0.0,842.0,0.0
+LTTS,2021-11-10 18:27:00,2021-11-10,2021-11-08,2021-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,842.0,0.0,792.0,0.0
+LTTS,2021-11-10 18:27:00,2021-11-10,2021-11-01,2021-11-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,90.0,0.0,0.0,0.0,0.0,1012.0,0.0,922.0,0.0
+LTTS,2021-11-10 18:27:00,2021-11-10,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12.0,0.0,1012.0,0.0
+LTTS,2021-11-10 18:27:00,2021-11-10,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,24133.0,0.02,31133.0,0.03
+LTTS,2021-11-10 18:27:00,2021-11-10,2021-11-04,2021-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,281.0,0.0,0.0,0.0,0.0,31133.0,0.03,30852.0,0.03
+LTTS,2021-11-12 17:59:00,2021-11-10,2021-11-08,2021-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,276.0,0.0,0.0,0.0,0.0,6776.0,0.0,6500.0,0.0
+LTTS,2021-11-12 17:59:00,2021-11-10,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3776.0,0.0,6776.0,0.0
+LTTS,2021-11-15 18:17:00,2021-11-12,2021-11-11,2021-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,225.0,0.0,0.0,0.0,0.0,30852.0,0.03,30627.0,0.03
+LTTS,2021-11-15 18:17:00,2021-11-15,2021-11-12,2021-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,15101.0,0.01,14101.0,0.01
+LTTS,2021-11-15 18:17:00,2021-11-15,2021-11-12,2021-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,270.0,0.0,0.0,0.0,0.0,30627.0,0.03,30357.0,0.03
+LTTS,2021-11-15 18:17:00,2021-11-11,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,12101.0,0.01,16101.0,0.02
+LTTS,2021-11-15 18:17:00,2021-11-11,2021-11-09,2021-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,16101.0,0.02,15101.0,0.01
+LTTS,2021-11-15 18:17:00,2021-11-12,2021-11-12,2021-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,9000.0,0.01,8500.0,0.01
+LTTS,2021-11-16 17:52:00,2021-11-16,2021-11-15,2021-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4000.0,0.0,2000.0,0.0
+LTTS,2021-11-16 17:52:00,2021-11-16,2021-11-16,2021-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,720.0,0.0,0.0,0.0,0.0,30357.0,0.03,29637.0,0.03
+LTTS,2021-11-16 17:52:00,2021-11-16,2021-11-15,2021-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,26740.0,0.03,25740.0,0.02
+LTTS,2021-11-16 17:52:00,2021-11-16,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,20740.0,0.02,26740.0,0.03
+LTTS,2021-11-17 18:30:00,2021-11-17,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,16800.0,0.02,23800.0,0.02
+LTTS,2021-11-17 18:30:00,2021-11-17,2021-11-17,2021-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,498.0,0.0,0.0,0.0,0.0,5425.0,0.01,4927.0,0.0
+LTTS,2021-11-17 18:30:00,2021-11-17,2021-11-17,2021-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,23800.0,0.02,23300.0,0.02
+LTTS,2021-11-18 17:46:00,2021-11-18,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+LTTS,2021-11-18 17:46:00,2021-11-18,2021-11-17,2021-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,29637.0,0.03,28737.0,0.03
+LTTS,2021-11-18 17:46:00,2021-11-18,2021-11-17,2021-11-17,Other,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2900.0,0.0,1900.0,0.0
+LTTS,2021-11-18 17:46:00,2021-11-18,2021-11-17,2021-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5000.0,0.0,4500.0,0.0
+LTTS,2021-11-19 15:38:00,2021-11-18,2021-10-19,2021-10-19,Director,ESOP,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,77500.0,0.07,107500.0,0.1
+LTTS,2021-11-19 15:38:00,2021-11-18,2021-11-18,2021-11-18,Director,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,107500.0,0.1,107400.0,0.1
+LTTS,2021-11-19 15:38:00,2021-11-18,2021-11-18,2021-11-18,Director,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,107400.0,0.1,105700.0,0.1
+LTTS,2021-11-23 17:43:00,2021-11-23,2021-11-22,2021-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,8640.0,0.01,7640.0,0.01
+LTTS,2021-11-23 17:43:00,2021-11-23,2021-11-23,2021-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,7640.0,0.01,7440.0,0.01
+LTTS,2021-11-23 17:43:00,2021-11-23,2021-11-23,2021-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,7440.0,0.01,6640.0,0.01
+LTTS,2021-11-23 17:43:00,2021-11-23,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4640.0,0.0,8640.0,0.01
+LTTS,2021-11-24 17:53:00,2021-11-24,2021-10-19,2021-10-19,Other,ESOP,Buy,Equity Shares,15000.0,0.0,0.0,0.0,0.0,5016.0,0.0,20016.0,0.02
+LTTS,2021-11-24 17:53:00,2021-11-24,2021-11-24,2021-11-24,Other,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,20016.0,0.02,15016.0,0.01
+LTTS,2021-11-25 18:33:00,2021-11-25,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,2181.0,0.0,2681.0,0.0
+LTTS,2021-11-25 18:33:00,2021-11-25,2021-11-04,2021-11-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,211.0,0.0,0.0,0.0,0.0,2681.0,0.0,2470.0,0.0
+LTTS,2021-11-30 16:57:00,2021-11-29,2021-11-26,2021-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,1000.0,0.0,250.0,0.0
+LTTS,2021-12-01 17:58:00,2021-12-01,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,900.0,0.0,0.0,0.0,0.0,4200.0,0.0,5100.0,0.0
+LTTS,2021-12-01 17:58:00,2021-12-01,2021-11-29,2021-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,5100.0,0.0,4300.0,0.0
+LTTS,2021-12-03 17:40:00,2021-12-01,2021-11-29,2021-11-29,Director,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,105700.0,0.1,105500.0,0.1
+LTTS,2021-12-03 17:40:00,2021-12-01,2021-11-29,2021-11-29,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,105500.0,0.1,104500.0,0.1
+LTTS,2021-12-03 17:40:00,2021-12-02,2021-12-01,2021-12-01,Director,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,102500.0,0.1,101300.0,0.1
+LTTS,2021-12-03 17:40:00,2021-12-02,2021-11-30,2021-11-30,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,104500.0,0.1,102500.0,0.1
+LTTS,2021-12-03 17:40:00,2021-12-02,2021-12-02,2021-12-02,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,100500.0,0.1,97500.0,0.09
+LTTS,2021-12-03 17:40:00,2021-12-02,2021-12-01,2021-12-01,Director,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,101300.0,0.1,100500.0,0.1
+LTTS,2021-12-06 18:11:00,2021-12-03,2021-12-03,2021-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,16133.0,0.02,14883.0,0.01
+LTTS,2021-12-06 18:11:00,2021-12-03,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,8133.0,0.01,16133.0,0.02
+LTTS,2021-12-06 18:11:00,2021-12-06,2021-12-02,2021-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12000.0,0.01,11000.0,0.01
+LTTS,2021-12-13 18:05:00,2021-12-13,2021-12-13,2021-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2085.0,0.0,0.0,0.0,0.0,14883.0,0.01,12798.0,0.01
+LTTS,2021-12-14 16:46:00,2021-12-14,2021-12-13,2021-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,16362.0,0.02,15862.0,0.02
+LTTS,2021-12-14 16:46:00,2021-12-13,2021-12-13,2021-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8000.0,0.01,6000.0,0.01
+LTTS,2021-12-14 16:46:00,2021-12-14,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,12362.0,0.01,16362.0,0.02
+LTTS,2021-12-14 16:46:00,2021-12-13,2021-12-13,2021-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,45100.0,0.04,42600.0,0.04
+LTTS,2021-12-14 16:46:00,2021-12-13,2021-12-06,2021-12-06,Employees/Designated Employees,ESOP,Buy,Equity Shares,3500.0,0.0,0.0,0.0,0.0,4500.0,0.0,8000.0,0.01
+LTTS,2021-12-14 16:46:00,2021-12-13,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,4500.0,0.0,0.0,0.0,0.0,,0.0,4500.0,0.0
+LTTS,2021-12-14 16:46:00,2021-12-13,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,14000.0,0.0,0.0,0.0,0.0,31100.0,0.03,45100.0,0.04
+LTTS,2021-12-16 19:49:00,2021-12-16,2021-12-16,2021-12-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,415.0,0.0,0.0,0.0,0.0,12798.0,0.01,12383.0,0.01
+LTTS,2021-12-16 19:49:00,2021-12-15,2021-12-14,2021-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,42600.0,0.04,42250.0,0.04
+LTTS,2021-12-16 19:49:00,2021-12-16,2021-12-06,2021-12-06,Employees/Designated Employees,ESOP,Buy,Equity Shares,1200.0,0.0,0.0,0.0,0.0,954.0,0.0,2154.0,0.0
+LTTS,2021-12-16 19:49:00,2021-12-16,2021-12-16,2021-12-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2154.0,0.0,1654.0,0.0
+LTTS,2021-12-20 17:50:00,2021-12-17,2021-12-16,2021-12-16,Other,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,5900.0,0.01,5000.0,0.0
+LTTS,2021-12-20 17:50:00,2021-12-17,2021-12-06,2021-12-06,Other,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,1900.0,0.0,5900.0,0.01
+LTTS,2021-12-21 17:46:00,2021-12-21,2021-12-06,2021-12-06,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,2300.0,0.0,3800.0,0.0
+LTTS,2021-12-21 17:46:00,2021-12-21,2021-12-21,2021-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+LTTS,2021-12-21 17:46:00,2021-12-21,2021-11-26,2021-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,170.0,0.0,0.0,0.0,0.0,2470.0,0.0,2300.0,0.0
+LTTS,2021-12-21 17:46:00,2021-12-21,2021-12-06,2021-12-06,Employees/Designated Employees,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,,0.0,500.0,0.0
+LTTS,2021-12-21 17:46:00,2021-12-21,2021-12-21,2021-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,3800.0,0.0,3750.0,0.0
+LTTS,2021-12-21 17:46:00,2021-12-21,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,17600.0,0.02,22600.0,0.02
+LTTS,2021-12-21 17:46:00,2021-12-21,2021-12-21,2021-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,22600.0,0.02,22000.0,0.02
+LTTS,2021-12-22 18:36:00,2021-12-20,2021-12-16,2021-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6407.0,0.01,5407.0,0.01
+LTTS,2021-12-22 18:36:00,2021-12-20,2021-12-06,2021-12-06,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5407.0,0.01,6407.0,0.01
+LTTS,2021-12-23 18:12:00,2021-12-22,2021-12-21,2021-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,6000.0,0.01,2000.0,0.0
+LTTS,2021-12-23 18:12:00,2021-12-23,2021-12-21,2021-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,,0.0
+LTTS,2021-12-24 17:17:00,2021-12-24,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,11800.0,0.01,19800.0,0.02
+LTTS,2021-12-24 17:17:00,2021-12-24,2021-12-23,2021-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,19800.0,0.02,19300.0,0.02
+LTTS,2021-12-27 18:07:00,2021-12-24,2021-12-06,2021-12-06,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,1001.0,0.0,3001.0,0.0
+LTTS,2021-12-27 18:07:00,2021-12-25,2021-12-24,2021-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,22000.0,0.02,21500.0,0.02
+LTTS,2021-12-27 18:07:00,2021-12-24,2021-12-23,2021-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3001.0,0.0,2701.0,0.0
+LTTS,2021-12-27 18:07:00,2021-12-27,2021-12-24,2021-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,19300.0,0.02,18800.0,0.02
+LTTS,2021-12-27 18:07:00,2021-12-27,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,660.0,0.0,0.0,0.0,0.0,1544.0,0.0,2204.0,0.0
+LTTS,2021-12-27 18:07:00,2021-12-27,2021-11-17,2021-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,204.0,0.0,0.0,0.0,0.0,2204.0,0.0,2000.0,0.0
+LTTS,2021-12-29 17:50:00,2021-12-28,2021-12-28,2021-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,8500.0,0.01,5000.0,0.0
+LTTS,2021-12-30 17:40:00,2021-12-29,2021-12-06,2021-12-06,Employees/Designated Employees,ESOP,Buy,Equity Shares,450.0,0.0,0.0,0.0,0.0,735.0,0.0,1185.0,0.0
+LTTS,2021-12-30 17:40:00,2021-12-29,2021-12-01,2021-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20.0,0.0,0.0,0.0,0.0,755.0,0.0,735.0,0.0
+LTTS,2021-12-30 17:40:00,2021-12-29,2021-12-01,2021-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5.0,0.0,0.0,0.0,0.0,760.0,0.0,755.0,0.0
+LTTS,2021-12-30 17:40:00,2021-12-29,2021-12-29,2021-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1654.0,0.0,1154.0,0.0
+LTTS,2021-12-30 17:40:00,2021-12-29,2021-12-22,2021-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40.0,0.0,0.0,0.0,0.0,1185.0,0.0,1145.0,0.0
+LTTS,2021-12-30 17:40:00,2021-12-29,2021-12-24,2021-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,27.0,0.0,0.0,0.0,0.0,1145.0,0.0,1118.0,0.0
+LTTS,2021-12-30 17:40:00,2021-12-29,2021-12-24,2021-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,160.0,0.0,0.0,0.0,0.0,1118.0,0.0,958.0,0.0
+LTTS,2021-12-30 17:40:00,2021-12-29,2021-11-30,2021-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,32.0,0.0,0.0,0.0,0.0,792.0,0.0,760.0,0.0
+LTTS,2021-12-30 17:40:00,2021-12-30,2021-12-28,2021-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,11000.0,0.01,9000.0,0.01
+LTTS,2021-12-31 17:49:00,2021-12-31,2021-12-31,2021-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6000.0,0.01,5500.0,0.01
+LTTS,2021-12-31 17:49:00,2021-12-31,2021-12-29,2021-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,2000.0,0.0,1600.0,0.0
+LTTS,2021-12-31 17:49:00,2021-12-31,2021-12-31,2021-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6500.0,0.01,6000.0,0.01
+LTTS,2022-01-03 17:56:00,2021-12-31,2021-12-31,2021-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8000.0,0.01,6000.0,0.01
+LTTS,2022-01-03 17:56:00,2021-12-31,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,5000.0,0.01,8000.0,0.01
+LTTS,2022-01-21 18:08:00,2022-01-21,2022-01-21,2022-01-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,6000.0,0.01,5800.0,0.01
+LTTS,2022-01-27 15:38:00,2022-01-25,2022-01-21,2022-01-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,297.0,0.0,0.0,0.0,0.0,23272.0,0.02,22975.0,0.02
+LTTS,2022-01-27 15:38:00,2022-01-25,2022-01-21,2022-01-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,28.0,0.0,0.0,0.0,0.0,23300.0,0.02,23272.0,0.02
+LTTS,2022-01-28 19:43:00,2022-01-28,2022-01-18,2022-01-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,1600.0,0.0,0.0,0.0,0.0,4300.0,0.0,5900.0,0.01
+LTTS,2022-01-28 19:43:00,2022-01-28,2022-01-24,2022-01-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,290.0,0.0,0.0,0.0,0.0,5900.0,0.01,5610.0,0.01
+LTTS,2022-02-03 17:45:00,2022-02-03,2021-12-20,2021-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,850.0,0.0,0.0,0.0,0.0,11570.0,0.01,10720.0,0.01
+LTTS,2022-02-03 17:45:00,2022-02-03,2021-10-19,2021-10-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,8570.0,0.01,11570.0,0.01
+LTTS,2022-02-15 16:52:00,2022-02-15,2022-02-14,2022-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3553.0,0.0,0.0,0.0,0.0,21500.0,0.02,17947.0,0.02
+LTTS,2022-02-18 16:07:00,2022-02-17,2022-02-16,2022-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1326.0,0.0,0.0,0.0,0.0,17947.0,0.02,16621.0,0.02
+LTTS,2022-02-24 17:50:00,2022-02-24,2022-01-18,2022-01-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5407.0,0.01,7407.0,0.01
+LTTS,2022-02-24 17:50:00,2022-02-24,2022-02-22,2022-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,7407.0,0.01,5407.0,0.01
+LTTS,2022-02-28 17:55:00,2022-02-24,2022-01-24,2022-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,310.0,0.0,0.0,0.0,0.0,928.0,0.0,618.0,0.0
+LTTS,2022-03-01 17:25:00,2022-02-28,2022-02-18,2022-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,16621.0,0.02,14421.0,0.01
+LTTS,2022-03-03 17:57:00,2022-03-03,2022-03-03,2022-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,499.0,0.0,0.0,0.0,0.0,6727.0,0.01,6228.0,0.01
+LTTS,2022-03-15 18:03:00,2022-03-14,2022-02-23,2022-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,220.0,0.0,0.0,0.0,0.0,618.0,0.0,398.0,0.0
+LTTS,2022-03-17 17:43:00,2022-03-15,2022-03-15,2022-03-15,Director,Market Sale,Sell,Equity Shares,1175.0,0.0,0.0,0.0,0.0,97500.0,0.09,96325.0,0.09
+LTTS,2022-03-21 17:15:00,2022-03-16,2022-03-14,2022-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,801.0,0.0,0.0,0.0,0.0,10000.0,0.01,9199.0,0.01
+LTTS,2022-03-21 17:15:00,2022-03-17,2022-03-15,2022-03-15,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,96325.0,0.09,95325.0,0.09
+LTTS,2022-03-23 18:58:00,2022-03-23,2022-02-17,2022-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,480.0,0.0,0.0,0.0,0.0,9140.0,0.01,8660.0,0.01
+LTTS,2022-03-25 17:21:00,2022-03-25,2022-03-24,2022-03-24,Director,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,95325.0,0.09,88325.0,0.08
+LTTS,2022-03-25 17:21:00,2022-03-25,2022-03-24,2022-03-24,Director,Market Sale,Sell,Equity Shares,3400.0,0.0,0.0,0.0,0.0,130000.0,0.12,126600.0,0.12
+LTTS,2022-03-28 18:45:00,2022-03-25,2022-01-28,2022-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,5610.0,0.01,5260.0,0.0
+LTTS,2022-03-28 18:45:00,2022-03-25,2022-03-23,2022-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4199.0,0.0,0.0,0.0,0.0,9199.0,0.01,5000.0,0.0
+LTTS,2022-03-28 18:45:00,2022-03-28,2022-03-28,2022-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,990.0,0.0,0.0,0.0,0.0,6228.0,0.01,5238.0,0.0
+LTTS,2022-03-29 18:00:00,2022-03-29,2022-03-28,2022-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,2600.0,0.0,1000.0,0.0
+LTTS,2022-03-31 17:27:00,2022-03-30,2022-03-30,2022-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,11000.0,0.01,10800.0,0.01
+LTTS,2022-03-31 17:27:00,2022-03-31,2022-03-23,2022-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,240.0,0.0,0.0,0.0,0.0,398.0,0.0,158.0,0.0
+LTTS,2022-04-01 17:50:00,2022-04-01,2022-01-18,2022-01-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,9000.0,0.01,17000.0,0.02
+LTTS,2022-04-01 17:50:00,2022-04-01,2022-03-30,2022-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,17000.0,0.02,16000.0,0.02
+LTTS,2022-04-06 17:21:00,2022-04-04,2022-03-31,2022-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,10000.0,0.01,8500.0,0.01
+LTTS,2022-05-04 18:51:00,2022-05-04,2022-05-04,2022-05-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,8660.0,0.01,8160.0,0.01
+LTTS,2022-05-19 17:40:00,2022-05-19,2022-05-18,2022-05-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,8160.0,0.01,7560.0,0.01
+LTTS,2022-05-20 16:45:00,2022-05-20,2022-05-20,2022-05-20,Other,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,25016.0,0.02,20016.0,0.02
+LTTS,2022-05-25 18:14:00,2022-05-25,2022-05-25,2022-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,498.0,0.0,0.0,0.0,0.0,6738.0,0.01,6240.0,0.01
+LTTS,2022-05-26 17:39:00,2022-05-26,2022-05-25,2022-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,7560.0,0.01,7160.0,0.01
+LTTS,2022-05-27 17:45:00,2022-05-27,2022-05-26,2022-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5500.0,0.01,3500.0,0.0
+LTTS,2022-06-20 18:22:00,2022-06-20,2022-06-16,2022-06-16,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,499.0,0.0,0.0,0.0,0.0,500.0,0.0,500.0,0.0
+LTTS,2022-06-20 18:22:00,2022-06-20,2022-06-20,2022-06-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,490.0,0.0,0.0,0.0,0.0,6240.0,0.01,5750.0,0.01
+LTTS,2022-06-24 17:32:00,2022-06-24,2022-06-24,2022-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,14421.0,0.01,12421.0,0.01
+LTTS,2022-08-05 19:09:00,2022-08-03,2022-07-30,2022-07-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13900.0,0.01,12900.0,0.01
+LTTS,2022-08-08 18:23:00,2022-08-05,2022-08-05,2022-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,11660.0,0.01,10660.0,0.01
+LTTS,2022-08-08 18:23:00,2022-08-05,2022-08-04,2022-08-05,Director,Market Sale,Sell,Equity Shares,4859.0,0.0,0.0,0.0,0.0,88325.0,0.08,83466.0,0.08
+LTTS,2022-08-12 19:21:00,2022-08-10,2022-08-08,2022-08-08,Director,Market Sale,Sell,Equity Shares,466.0,0.0,0.0,0.0,0.0,83466.0,0.08,83000.0,0.08
+LTTS,2022-08-19 15:40:00,2022-08-19,2022-08-18,2022-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,16001.0,0.02,15001.0,0.01
+LTTS,2022-09-12 17:33:00,2022-09-09,2022-08-05,2022-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,297.0,0.0,0.0,0.0,0.0,3600.0,0.0,3303.0,0.0
+LTTS,2022-09-12 17:33:00,2022-09-12,2022-09-09,2022-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10660.0,0.01,9660.0,0.01
+LTTS,2022-09-22 15:09:00,2022-09-13,2022-08-17,2022-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,297.0,0.0,0.0,0.0,0.0,3303.0,0.0,3006.0,0.0
+LTTS,2022-10-03 16:26:00,2022-10-03,2022-09-30,2022-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,16000.0,0.02,14000.0,0.01
+LTTS,2022-11-09 18:27:00,2022-11-09,2022-11-07,2022-11-07,Director,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,83000.0,0.08,80600.0,0.08
+LTTS,2022-11-11 18:41:00,2022-11-11,2022-11-09,2022-11-09,Director,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,80600.0,0.08,76600.0,0.07
+LTTS,2022-11-14 17:41:00,2022-11-14,2022-11-01,2022-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,5660.0,0.01,5260.0,0.0
+LTTS,2022-11-15 17:27:00,2022-11-15,2022-11-14,2022-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3500.0,0.0,1500.0,0.0
+LTTS,2022-11-15 17:27:00,2022-11-15,2022-11-14,2022-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1500.0,0.0,500.0,0.0
+LTTS,2022-11-21 15:40:00,2022-11-18,2022-11-18,2022-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,498.0,0.0,0.0,0.0,0.0,5750.0,0.01,5252.0,0.0
+LTTS,2022-11-28 16:43:00,2022-11-28,2021-12-31,2021-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,1900.0,0.0,1500.0,0.0
+LTTS,2022-11-28 16:43:00,2022-11-28,2021-12-06,2021-12-06,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,2000.0,0.0
+LTTS,2022-11-28 16:43:00,2022-11-28,2021-12-21,2021-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2000.0,0.0,1900.0,0.0
+LTTS,2022-11-28 16:43:00,2022-11-28,2022-11-28,2022-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,452.0,0.0,0.0,0.0,0.0,5252.0,0.0,4800.0,0.0
+LTTS,2022-12-01 18:02:00,2022-12-01,2022-11-14,2022-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,230.0,0.0,0.0,0.0,0.0,858.0,0.0,628.0,0.0
+LTTS,2022-12-01 18:02:00,2022-12-01,2022-12-01,2022-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,628.0,0.0,578.0,0.0
+LTTS,2022-12-02 17:44:00,2022-12-02,2022-12-01,2022-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,325.0,0.0,0.0,0.0,0.0,4985.0,0.0,4660.0,0.0
+LTTS,2022-12-02 17:44:00,2022-12-02,2022-11-24,2022-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,275.0,0.0,0.0,0.0,0.0,5260.0,0.0,4985.0,0.0
+LTTS,2022-12-06 19:12:00,2022-12-05,2022-07-22,2022-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3150.0,0.0,2850.0,0.0
+LTTS,2022-12-23 17:49:00,2022-12-22,2022-12-21,2022-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,348.0,0.0,0.0,0.0,0.0,1954.0,0.0,1606.0,0.0
+LTTS,2023-01-02 17:42:00,2022-12-30,2022-12-28,2022-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,18800.0,0.02,18300.0,0.02
+LTTS,2023-02-24 17:46:00,2023-02-23,2023-01-19,2023-01-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,1200.0,0.0,0.0,0.0,0.0,,0.0,1200.0,0.0
+LTTS,2023-02-24 17:46:00,2023-02-23,2023-02-21,2023-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,460.0,0.0,0.0,0.0,0.0,1200.0,0.0,740.0,0.0
+LTTS,2023-03-08 18:14:00,2023-03-07,2022-12-02,2022-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,420.0,0.0,0.0,0.0,0.0,2400.0,0.0,1980.0,0.0
+LTTS,2023-03-09 18:38:00,2023-03-09,2023-03-09,2023-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,126600.0,0.12,125600.0,0.12
+LTTS,2023-04-05 19:24:00,2023-03-31,2023-01-24,2023-01-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20.0,0.0,0.0,0.0,0.0,1081.0,0.0,1061.0,0.0
+LTTS,2023-04-05 19:24:00,2023-03-31,2023-03-13,2023-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20.0,0.0,0.0,0.0,0.0,930.0,0.0,910.0,0.0
+LTTS,2023-04-05 19:24:00,2023-03-31,2023-03-16,2023-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,164.0,0.0,0.0,0.0,0.0,910.0,0.0,746.0,0.0
+LTTS,2023-04-05 19:24:00,2023-03-31,2023-01-23,2023-01-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15.0,0.0,0.0,0.0,0.0,1096.0,0.0,1081.0,0.0
+LTTS,2023-04-05 19:24:00,2023-03-31,2023-02-06,2023-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,131.0,0.0,0.0,0.0,0.0,1061.0,0.0,930.0,0.0
+LTTS,2023-04-21 20:38:00,2023-04-19,2023-04-10,2023-04-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,8000.0,0.01,3000.0,0.0
+LTTS,2023-05-08 17:34:00,2023-05-08,2023-05-03,2023-05-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,12660.0,0.01,11760.0,0.01
+LTTS,2023-05-11 18:02:00,2023-05-11,2023-05-09,2023-05-10,Director,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,76600.0,0.07,70100.0,0.07
+LTTS,2023-05-17 18:23:00,2023-05-16,2023-05-16,2023-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4150.0,0.0,3150.0,0.0
+LTTS,2023-05-17 18:23:00,2023-05-17,2023-05-16,2023-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,495.0,0.0,0.0,0.0,0.0,12870.0,0.01,12375.0,0.01
+LTTS,2023-05-17 18:27:00,2023-05-15,2023-05-03,2023-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,411.0,0.0,11.0,0.0
+LTTS,2023-05-22 15:14:00,2023-05-18,2023-05-16,2023-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4000.0,0.0,3500.0,0.0
+LTTS,2023-05-25 18:16:00,2023-05-23,2023-05-02,2023-05-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,306.0,0.0,0.0,0.0,0.0,756.0,0.0,450.0,0.0
+LTTS,2023-05-31 17:25:00,2023-05-31,2023-05-26,2023-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,14000.0,0.01,13300.0,0.01
+LTTS,2023-06-02 17:22:00,2023-06-02,2023-06-01,2023-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+LTTS,2023-06-05 17:14:00,2023-06-01,2023-05-30,2023-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,13300.0,0.01,13000.0,0.01
+LTTS,2023-06-22 21:44:00,2023-06-21,2023-06-14,2023-06-14,Director,ESOP,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,125600.0,0.12,145600.0,0.14
+LTTS,2023-06-22 21:44:00,2023-06-22,2023-06-14,2023-06-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,750.0,0.0,0.0,0.0,0.0,14535.0,0.01,15285.0,0.01
+LTTS,2023-06-22 21:44:00,2023-06-21,2023-06-20,2023-06-20,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,145600.0,0.14,143600.0,0.14
+LTTS,2023-06-22 21:44:00,2023-06-22,2023-06-22,2023-06-22,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,143600.0,0.14,141600.0,0.13
+LTTS,2023-06-22 21:44:00,2023-06-22,2023-06-21,2023-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,35.0,0.0,0.0,0.0,0.0,15285.0,0.01,15250.0,0.01
+LTTS,2023-06-22 21:44:00,2023-06-22,2023-06-21,2023-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,3606.0,0.0,2006.0,0.0
+LTTS,2023-06-22 21:44:00,2023-06-22,2023-05-05,2023-05-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,14800.0,0.01,14750.0,0.01
+LTTS,2023-06-22 21:44:00,2023-06-22,2023-05-08,2023-05-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,215.0,0.0,0.0,0.0,0.0,14750.0,0.01,14535.0,0.01
+LTTS,2023-06-24 09:57:00,2023-06-22,2023-06-20,2023-06-20,Other,Market Sale,Sell,Equity Shares,2516.0,0.0,0.0,0.0,0.0,25016.0,0.02,22500.0,0.02
+LTTS,2023-07-03 20:05:00,2023-06-30,2023-06-28,2023-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,900.0,0.0,,0.0
+LTTS,2023-07-03 20:05:00,2023-06-29,2023-06-28,2023-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,15000.0,0.01,13000.0,0.01
+LTTS,2023-07-03 20:05:00,2023-06-29,2023-04-26,2023-04-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,12000.0,0.0,0.0,0.0,0.0,3000.0,0.0,15000.0,0.01
+LTTS,2023-07-03 20:05:00,2023-06-30,2023-06-14,2023-06-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,900.0,0.0,0.0,0.0,0.0,,0.0,900.0,0.0
+LTTS,2023-07-24 17:19:00,2023-07-24,2023-07-24,2023-07-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,7300.0,0.01,7000.0,0.01
+LTTS,2023-07-25 17:03:00,2023-07-24,2023-07-24,2023-07-24,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,141600.0,0.13,138600.0,0.13
+LTTS,2023-07-28 13:24:00,2023-07-28,2023-07-27,2023-07-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,10600.0,0.01,10100.0,0.01
+LTTS,2023-08-01 14:22:00,2023-07-31,2023-07-28,2023-07-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2260.0,0.0,1260.0,0.0
+LTTS,2023-08-02 18:52:00,2023-08-02,2023-08-01,2023-08-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1260.0,0.0,760.0,0.0
+LTTS,2023-08-02 18:52:00,2023-08-02,2023-07-24,2023-07-24,Director,Market Sale,Sell,Equity Shares,5400.0,0.0,0.0,0.0,0.0,5400.0,0.01,,0.0
+LTTS,2023-08-02 18:52:00,2023-08-02,2023-07-31,2023-07-31,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,70100.0,0.07,60100.0,0.06
+LTTS,2023-08-02 18:52:00,2023-08-02,2023-08-01,2023-08-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,8788.0,0.01,7388.0,0.01
+LTTS,2023-08-04 17:52:00,2023-08-04,2023-08-02,2023-08-02,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,54000.0,0.05,49000.0,0.05
+LTTS,2023-08-04 17:52:00,2023-08-04,2023-08-01,2023-08-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,252.0,0.0,0.0,0.0,0.0,4412.0,0.0,4160.0,0.0
+LTTS,2023-08-04 17:52:00,2023-08-02,2023-07-25,2023-07-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,297.0,0.0,0.0,0.0,0.0,4709.0,0.0,4412.0,0.0
+LTTS,2023-08-10 15:31:00,2023-08-09,2023-08-03,2023-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,297.0,0.0,0.0,0.0,0.0,4160.0,0.0,3863.0,0.0
+LTTS,2023-08-11 18:35:00,2023-08-11,2023-08-09,2023-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,657.0,0.0,0.0,0.0,0.0,40857.0,0.04,40200.0,0.04
+LTTS,2023-08-11 18:35:00,2023-08-10,2023-08-10,2023-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2006.0,0.0,6.0,0.0
+LTTS,2023-08-11 18:35:00,2023-08-10,2023-08-08,2023-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1393.0,0.0,0.0,0.0,0.0,42250.0,0.04,40857.0,0.04
+LTTS,2023-08-14 18:57:00,2023-08-14,2023-08-01,2023-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,2250.0,0.0,1850.0,0.0
+LTTS,2023-08-18 10:29:00,2023-08-17,2023-08-16,2023-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5002.0,0.0,4002.0,0.0
+LTTS,2023-08-22 17:35:00,2023-08-22,2023-07-28,2023-07-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,,0.0,300.0,0.0
+LTTS,2023-08-22 17:35:00,2023-08-22,2023-08-22,2023-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,300.0,0.0,,0.0
+LTTS,2023-08-31 16:12:00,2023-08-30,2023-07-24,2023-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,570.0,0.0,320.0,0.0
+LTTS,2023-09-01 14:16:00,2023-08-30,2023-08-28,2023-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,11300.0,0.01,10800.0,0.01
+LTTS,2023-09-04 17:29:00,2023-09-04,2023-09-01,2023-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,9900.0,0.01,9000.0,0.01
+LTTS,2023-09-04 17:29:00,2023-09-04,2023-07-28,2023-07-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,900.0,0.0,0.0,0.0,0.0,9000.0,0.01,9900.0,0.01
+LTTS,2023-09-04 17:29:00,2023-09-04,2023-08-17,2023-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,253.0,0.0,0.0,0.0,0.0,3863.0,0.0,3610.0,0.0
+LTTS,2023-09-13 16:27:00,2023-09-13,2023-09-13,2023-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,498.0,0.0,0.0,0.0,0.0,7000.0,0.01,6502.0,0.01
+LTTS,2023-09-14 18:12:00,2023-09-14,2023-09-12,2023-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,4002.0,0.0,1802.0,0.0
+LTTS,2023-09-18 16:46:00,2023-09-18,2023-09-18,2023-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,22500.0,0.02,20000.0,0.02
+LTTS,2023-09-26 18:26:00,2023-09-25,2023-09-04,2023-09-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,341.0,0.0,0.0,0.0,0.0,3610.0,0.0,3269.0,0.0
+LTTS,2023-09-26 18:26:00,2023-09-26,2023-09-25,2023-09-25,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,60100.0,0.06,55100.0,0.05
+LTTS,2023-09-28 17:58:00,2023-09-27,2023-09-26,2023-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,4635.0,0.0,4285.0,0.0
+LTTS,2023-10-03 19:03:00,2023-09-29,2023-08-24,2023-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,260.0,0.0,0.0,0.0,0.0,320.0,0.0,60.0,0.0
+LTTS,2023-10-03 19:03:00,2023-10-03,2023-09-29,2023-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,7288.0,0.01,6488.0,0.01
+LTTS,2023-10-27 16:53:00,2023-10-25,2023-10-25,2023-10-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,297.0,0.0,0.0,0.0,0.0,5170.0,0.0,4873.0,0.0
+LTTS,2023-11-10 12:03:00,2023-11-10,2023-11-09,2023-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,13760.0,0.01,11960.0,0.01
+LTTS,2023-11-20 11:14:00,2023-11-17,2023-11-15,2023-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,11960.0,0.01,9460.0,0.01
+LTTS,2023-11-21 14:33:00,2023-11-21,2023-11-20,2023-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6000.0,0.01,5000.0,0.0
+LTTS,2023-11-27 15:45:00,2023-11-24,2023-11-23,2023-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1500.0,0.0,1000.0,0.0
+LTTS,2023-11-28 17:35:00,2023-11-23,2023-10-17,2023-10-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,1100.0,0.0,0.0,0.0,0.0,12285.0,0.01,13385.0,0.01
+LTTS,2023-11-28 17:35:00,2023-11-23,2023-11-21,2023-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,13385.0,0.01,12485.0,0.01
+LTTS,2023-12-01 10:14:00,2023-11-29,2023-11-28,2023-11-28,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,4006.0,0.0,0.0,0.0,0.0,6006.0,0.01,6006.0,0.01
+LTTS,2023-12-04 12:06:00,2023-12-04,2023-12-01,2023-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,400.0,0.0,,0.0
+LTTS,2023-12-04 12:06:00,2023-12-01,2023-10-27,2023-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,6488.0,0.01,5288.0,0.01
+LTTS,2023-12-04 12:06:00,2023-12-01,2023-12-01,2023-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,250.0,0.0,,0.0
+LTTS,2023-12-05 15:20:00,2023-12-04,2023-12-01,2023-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,13701.0,0.01,13201.0,0.01
+LTTS,2023-12-05 15:20:00,2023-12-01,2023-11-29,2023-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,15201.0,0.01,13701.0,0.01
+LTTS,2023-12-05 15:20:00,2023-12-05,2023-12-05,2023-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,6502.0,0.01,4502.0,0.0
+LTTS,2023-12-11 11:33:00,2023-12-08,2023-12-06,2023-07-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9460.0,0.01,8460.0,0.01
+LTTS,2023-12-11 11:33:00,2023-12-08,2023-10-27,2023-12-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,299.0,0.0,0.0,0.0,0.0,4873.0,0.0,4574.0,0.0
+LTTS,2023-12-11 17:35:00,2023-12-11,2023-12-07,2023-12-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1510.0,0.0,1010.0,0.0
+LTTS,2023-12-15 18:14:00,2023-12-15,2023-12-13,2023-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,4285.0,0.0,3685.0,0.0
+LTTS,2023-12-15 18:14:00,2023-12-14,2023-12-14,2023-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7000.0,0.01,6000.0,0.01
+LTTS,2023-12-15 18:14:00,2023-12-15,2023-12-14,2023-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6000.0,0.01,5000.0,0.0
+LTTS,2023-12-19 10:46:00,2023-12-18,2023-12-14,2023-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,700.0,0.0,0.0,0.0,0.0,4502.0,0.0,5202.0,0.0
+LTTS,2023-12-19 10:46:00,2023-12-18,2023-12-18,2023-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5202.0,0.0,4702.0,0.0
+LTTS,2023-12-19 10:46:00,2023-12-18,2023-12-14,2023-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1010.0,0.0,760.0,0.0
+LTTS,2023-12-19 10:46:00,2023-12-19,2023-12-14,2023-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,198.0,0.0,0.0,0.0,0.0,4574.0,0.0,4376.0,0.0
+LTTS,2023-12-19 10:46:00,2023-12-18,2023-12-14,2023-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13000.0,0.01,12000.0,0.01
+LTTS,2023-12-19 10:46:00,2023-12-18,2023-12-14,2023-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,18300.0,0.02,16800.0,0.02
+LTTS,2023-12-20 12:05:00,2023-12-19,2023-12-06,2023-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,1750.0,0.0,1350.0,0.0
+LTTS,2023-12-20 12:05:00,2023-12-19,2023-12-19,2023-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4702.0,0.0,4202.0,0.0
+LTTS,2023-12-20 12:05:00,2023-12-19,2023-12-18,2023-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,16800.0,0.02,16550.0,0.02
+LTTS,2023-12-20 12:05:00,2023-12-20,2023-12-20,2023-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4202.0,0.0,3702.0,0.0
+LTTS,2023-12-20 12:05:00,2023-12-19,2023-12-15,2023-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,760.0,0.0,260.0,0.0
+LTTS,2023-12-22 14:51:00,2023-12-22,2023-12-20,2023-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,481.0,0.0,0.0,0.0,0.0,3500.0,0.0,3019.0,0.0
+LTTS,2023-12-22 14:51:00,2023-12-22,2023-12-14,2023-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0,3500.0,0.0
+LTTS,2023-12-22 14:51:00,2023-12-21,2023-12-21,2023-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3702.0,0.0,3202.0,0.0
+LTTS,2023-12-22 14:51:00,2023-12-21,2023-12-21,2023-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,20000.0,0.02,18000.0,0.02
+LTTS,2023-12-22 14:51:00,2023-12-20,2023-11-15,2023-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,710.0,0.0,0.0,0.0,0.0,760.0,0.0,50.0,0.0
+LTTS,2023-12-26 13:07:00,2023-12-22,2023-12-20,2023-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,16550.0,0.02,16300.0,0.02
+LTTS,2023-12-26 13:07:00,2023-12-22,2023-12-21,2023-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,16300.0,0.02,15650.0,0.01
+LTTS,2023-12-26 13:07:00,2023-12-26,2023-12-22,2023-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,15650.0,0.01,14650.0,0.01
+LTTS,2023-12-28 16:12:00,2023-12-26,2023-10-30,2023-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,10175.0,0.01,9275.0,0.01
+LTTS,2023-12-28 16:12:00,2023-12-27,2023-12-27,2023-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3202.0,0.0,2702.0,0.0
+LTTS,2024-01-01 16:30:00,2023-12-29,2023-12-28,2023-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,198.0,0.0,0.0,0.0,0.0,4376.0,0.0,4178.0,0.0
+LTTS,2024-01-01 16:30:00,2023-12-29,2023-12-14,2023-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,6006.0,0.01,8006.0,0.01
+LTTS,2024-01-01 16:30:00,2024-01-01,2023-12-29,2023-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,14650.0,0.01,14300.0,0.01
+LTTS,2024-01-01 16:30:00,2024-01-01,2023-12-14,2023-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1200.0,0.0,0.0,0.0,0.0,6.0,0.0,1206.0,0.0
+LTTS,2024-01-01 16:30:00,2024-01-01,2023-12-29,2023-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1206.0,0.0,0.0,0.0,0.0,1206.0,0.0,,0.0
+LTTS,2024-01-01 16:30:00,2023-12-29,2023-12-29,2023-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8500.0,0.0,0.0,0.0,0.0,20500.0,0.02,12000.0,0.01
+LTTS,2024-01-01 16:30:00,2023-12-29,2023-12-29,2023-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,750.0,0.0,450.0,0.0
+LTTS,2024-01-01 16:30:00,2023-12-29,2023-12-14,2023-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,400.0,0.0,0.0,0.0,0.0,350.0,0.0,750.0,0.0
+LTTS,2024-01-01 16:30:00,2023-12-29,2023-12-29,2023-12-29,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8006.0,0.01,8006.0,0.01
+LTTS,2024-01-24 15:26:00,2024-01-23,2024-01-19,2024-01-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,15550.0,0.01,15050.0,0.01
+LTTS,2024-01-25 17:21:00,2024-01-25,2023-12-29,2023-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,14300.0,0.01,14050.0,0.01
+LTTS,2024-01-25 17:21:00,2024-01-24,2024-01-19,2024-01-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,243.0,0.0,0.0,0.0,0.0,4178.0,0.0,3935.0,0.0
+LTTS,2024-02-01 12:44:00,2024-01-29,2024-01-22,2024-01-24,Director,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,55100.0,0.05,49600.0,0.05
+LTTS,2024-02-02 14:01:00,2024-02-01,2024-01-29,2024-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5188.0,0.0,4688.0,0.0
+LTTS,2024-02-02 14:01:00,2024-01-31,2024-01-16,2024-01-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,3685.0,0.0,3985.0,0.0
+LTTS,2024-02-02 14:01:00,2024-01-31,2024-01-31,2024-01-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3985.0,0.0,3785.0,0.0
+LTTS,2024-02-02 14:01:00,2024-01-31,2024-01-29,2024-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,14410.0,0.01,14210.0,0.01
+LTTS,2024-02-02 14:01:00,2024-02-02,2024-01-31,2024-01-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,15050.0,0.01,14800.0,0.01
+LTTS,2024-02-05 18:45:00,2024-02-05,2024-02-02,2024-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,9000.0,0.01,8100.0,0.01
+LTTS,2024-02-05 18:45:00,2024-02-03,2024-02-02,2024-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,11200.0,0.01,11000.0,0.01
+LTTS,2024-02-05 18:45:00,2024-02-05,2024-01-30,2024-01-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3800.0,0.0,3600.0,0.0
+LTTS,2024-02-05 18:45:00,2024-02-05,2023-12-22,2023-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,4000.0,0.0,3800.0,0.0
+LTTS,2024-02-05 18:45:00,2024-02-05,2023-12-14,2023-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3000.0,0.0,4000.0,0.0
+LTTS,2024-02-12 16:26:00,2024-02-08,2024-02-02,2024-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,209.0,0.0,0.0,0.0,0.0,3935.0,0.0,3726.0,0.0
+LTTS,2024-02-14 16:31:00,2024-02-13,2024-12-02,2024-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,900.0,0.0,750.0,0.0
+LTTS,2024-02-14 16:31:00,2024-02-13,2024-08-02,2024-08-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1000.0,0.0,900.0,0.0
+LTTS,2024-02-14 16:31:00,2024-02-13,2024-09-02,2024-09-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4701.0,0.0,3701.0,0.0
+LTTS,2024-02-14 16:31:00,2024-02-13,2024-12-02,2024-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,700.0,0.0,,0.0
+LTTS,2024-02-22 17:29:00,2024-02-21,2024-02-19,2024-02-19,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.01,,0.0
+LTTS,2024-02-27 16:12:00,2024-02-23,2024-02-13,2024-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,243.0,0.0,0.0,0.0,0.0,3726.0,0.0,3483.0,0.0
+LTTS,2024-03-01 17:00:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,4688.0,0.0,4238.0,0.0
+LTTS,2024-03-06 09:48:00,2024-03-04,2024-03-04,2024-03-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8006.0,0.01,6006.0,0.01
+LTTS,2024-03-13 18:30:00,2024-03-11,2024-03-11,2024-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,11000.0,0.01,10800.0,0.01
+LTTS,2024-03-15 09:44:00,2024-03-14,2024-03-12,2024-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,11900.0,0.01,7400.0,0.01
+LTTS,2024-03-19 18:02:00,2024-03-18,2024-03-14,2024-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3785.0,0.0,3585.0,0.0
+LTTS,2024-03-19 18:02:00,2024-03-15,2024-03-15,2024-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,198.0,0.0,0.0,0.0,0.0,3483.0,0.0,3285.0,0.0
+LTTS,2024-03-22 17:18:00,2024-03-21,2024-03-21,2024-03-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,247.0,0.0,0.0,0.0,0.0,3585.0,0.0,3338.0,0.0
+LTTS,2024-03-22 17:18:00,2024-03-22,2024-03-20,2024-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,20050.0,0.02,19800.0,0.02
+LTTS,2024-03-22 17:18:00,2024-03-22,2024-01-16,2024-01-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,14050.0,0.01,20050.0,0.02
+LTTS,2024-03-27 17:57:00,2024-03-26,2024-03-26,2024-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,14183.0,0.01,9183.0,0.01
+LTTS,2024-03-27 17:57:00,2024-03-26,2024-03-22,2024-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1171.0,0.0,0.0,0.0,0.0,4238.0,0.0,3067.0,0.0
+LTTS,2024-03-27 17:57:00,2024-03-26,2024-03-21,2024-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,19800.0,0.02,17800.0,0.02
+LTTS,2024-03-29 16:03:00,2024-03-27,2024-03-05,2024-03-05,Employees/Designated Employees,ESOP,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,60.0,0.0,160.0,0.0
+LTTS,2024-03-29 16:03:00,2024-03-27,2024-01-19,2024-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,160.0,0.0,60.0,0.0
+LTTS,2024-03-29 16:03:00,2024-03-27,2024-03-21,2024-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,90.0,0.0,0.0,0.0,0.0,160.0,0.0,70.0,0.0
+LTTS,2024-03-29 16:03:00,2024-03-28,2024-03-27,2024-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3067.0,0.0,2567.0,0.0
+LTTS,2024-03-29 16:03:00,2024-03-29,2024-03-26,2024-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,17800.0,0.02,16300.0,0.02
+LTTS,2024-03-29 16:03:00,2024-03-28,2024-03-27,2024-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5800.0,0.0,0.0,0.0,0.0,43300.0,0.04,37500.0,0.04
+LTTS,2024-03-29 16:03:00,2024-03-29,2024-01-16,2024-01-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1700.0,0.0,0.0,0.0,0.0,12000.0,0.01,13700.0,0.01
+LTTS,2024-03-29 16:03:00,2024-03-29,2024-03-26,2024-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13700.0,0.01,12700.0,0.01
+LTTS,2024-04-03 16:27:00,2024-04-03,2024-03-27,2024-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,1350.0,0.0,1150.0,0.0
+LTTS,2024-04-03 16:27:00,2024-04-01,2024-03-28,2024-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2567.0,0.0,2367.0,0.0
+LTTS,2024-05-09 14:29:00,2024-05-08,2024-05-08,2024-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,8460.0,0.01,7710.0,0.01
+LTTS,2024-05-15 10:29:00,2024-05-13,2024-05-10,2024-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,7710.0,0.01,7460.0,0.01
+LTTS,2024-05-24 19:02:00,2024-05-13,2024-04-30,2024-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,14210.0,0.01,13860.0,0.01
+LTTS,2024-05-29 15:44:00,2024-05-27,2024-05-23,2024-05-23,Employees/Designated Employees,Invocation of pledge,Pledge Invoke,Equity Shares,2000.0,0.0,0.0,0.0,0.0,6006.0,0.01,4006.0,0.0
+LTTS,2024-05-30 11:02:00,2024-05-29,2024-05-27,2024-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,13860.0,0.01,13410.0,0.01
+LTTS,2024-06-06 16:05:00,2024-06-06,2024-06-05,2024-06-05,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,348.0,0.0,0.0,0.0,0.0,650.0,0.0,650.0,0.0
+LTTS,2024-06-06 16:05:00,2024-06-06,2024-06-05,2024-06-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,499.0,0.0,0.0,0.0,0.0,650.0,0.0,151.0,0.0
+LTTS,2024-06-17 16:01:00,2024-06-15,2024-06-06,2024-06-06,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,900.0,0.0,0.0,0.0,0.0,14800.0,0.01,14800.0,0.01
+LTTS,2024-06-20 14:37:00,2024-06-19,2024-06-18,2024-06-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1450.0,0.0,0.0,0.0,0.0,14550.0,0.01,13100.0,0.01
+LTTS,2024-06-20 14:37:00,2024-06-19,2024-06-19,2024-06-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,10800.0,0.01,10350.0,0.01
+LTTS,2024-06-21 18:07:00,2024-06-21,2024-06-20,2024-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,297.0,0.0,0.0,0.0,0.0,3186.0,0.0,2889.0,0.0
+LTTS,2024-06-21 18:07:00,2024-06-21,2024-06-21,2024-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,778.0,0.0,0.0,0.0,0.0,8778.0,0.01,8000.0,0.01
+LTTS,2024-06-25 13:37:00,2024-06-21,2024-06-20,2024-06-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7460.0,0.01,6960.0,0.01
+LTTS,2024-06-25 13:37:00,2024-06-21,2024-06-21,2024-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6800.0,0.01,5800.0,0.01
+LTTS,2024-06-27 14:13:00,2024-06-25,2024-06-24,2024-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,490.0,0.0,0.0,0.0,0.0,13410.0,0.01,12920.0,0.01
+LTTS,2024-07-02 09:25:00,2024-06-28,2024-06-27,2024-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,18500.0,0.02,13500.0,0.01
+LTTS,2024-07-02 09:25:00,2024-06-28,2024-06-27,2024-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,642.0,0.0,0.0,0.0,0.0,3638.0,0.0,2996.0,0.0
+LTTS,2024-07-02 09:25:00,2024-06-28,2024-06-25,2024-06-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,3338.0,0.0,3638.0,0.0
+LTTS,2024-07-03 15:42:00,2024-07-01,2024-06-14,2024-06-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6800.0,0.01,7800.0,0.01
+LTTS,2024-07-03 15:42:00,2024-07-01,2024-06-28,2024-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7800.0,0.01,7300.0,0.01
+LTTS,2024-07-24 17:07:00,2024-07-22,2024-07-22,2024-07-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,396.0,0.0,0.0,0.0,0.0,2592.0,0.0,2196.0,0.0
+LTTS,2024-07-25 15:36:00,2024-07-24,2024-07-22,2024-07-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,558.0,0.0,0.0,0.0,0.0,2196.0,0.0,1638.0,0.0
+LTTS,2024-07-30 17:12:00,2024-07-26,2024-07-24,2024-07-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4000.0,0.0,2000.0,0.0
+LTTS,2024-07-30 17:12:00,2024-07-30,2024-07-29,2024-07-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,198.0,0.0,0.0,0.0,0.0,1638.0,0.0,1440.0,0.0
+LTTS,2024-08-05 14:49:00,2024-08-02,2024-06-27,2024-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3896.0,0.0,3596.0,0.0
+LTTS,2024-08-05 14:49:00,2024-08-01,2024-07-31,2024-08-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,198.0,0.0,0.0,0.0,0.0,1440.0,0.0,1242.0,0.0
+LTTS,2024-08-07 16:28:00,2024-08-05,2024-08-05,2024-08-05,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,500.0,0.0,0.0,0.0,0.0,651.0,0.0,651.0,0.0
+LTTS,2024-08-07 16:28:00,2024-08-05,2024-05-08,2024-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,573.0,0.0,0.0,0.0,0.0,8960.0,0.01,8387.0,0.01
+LTTS,2024-08-09 11:52:00,2024-07-08,2024-06-08,2024-07-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1337.0,0.0,0.0,0.0,0.0,8387.0,0.01,7050.0,0.01
+LTTS,2024-08-13 17:49:00,2024-08-13,2024-08-07,2024-08-07,Employees/Designated Employees,Invocation of pledge,Pledge Revoke,Equity Shares,350.0,0.0,0.0,0.0,0.0,18300.0,0.02,18300.0,0.02
+LTTS,2024-08-19 16:27:00,2024-08-19,2024-08-16,2024-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,4006.0,0.0,3256.0,0.0
+LTTS,2024-08-19 16:27:00,2024-08-19,2024-08-19,2024-08-19,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1250.0,0.0,0.0,0.0,0.0,3256.0,0.0,3256.0,0.0
+LTTS,2024-08-19 16:27:00,2024-08-16,2024-08-13,2024-08-14,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,756.0,0.0,0.0,0.0,0.0,4006.0,0.0,4006.0,0.0
+LTTS,2024-08-21 09:01:00,2024-08-20,2024-08-19,2024-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,198.0,0.0,0.0,0.0,0.0,1242.0,0.0,1044.0,0.0
+LTTS,2024-08-21 09:01:00,2024-08-19,2024-08-19,2024-08-19,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,500.0,0.0,0.0,0.0,0.0,3256.0,0.0,3256.0,0.0
+LTTS,2024-08-21 09:01:00,2024-08-20,2024-08-20,2024-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1756.0,0.0,0.0,0.0,0.0,3256.0,0.0,1500.0,0.0
+LTTS,2024-08-21 17:33:00,2024-08-21,2024-08-20,2024-08-21,Director,Market Sale,Sell,Equity Shares,198.0,0.0,0.0,0.0,0.0,1044.0,0.0,846.0,0.0
+LTTS,2024-08-21 17:33:00,2024-08-21,2024-08-20,2024-08-20,Director,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,6000.0,0.0,,0.0
+LTTS,2024-08-22 15:46:00,2024-08-22,2024-08-22,2024-08-22,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,700.0,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,0.0
+LTTS,2024-08-23 17:10:00,2024-08-23,2024-08-23,2024-08-23,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,800.0,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,0.0
+LTTS,2024-08-23 17:10:00,2024-08-22,2024-08-22,2024-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,9975.0,0.01,8575.0,0.01
+LTTS,2024-08-23 17:10:00,2024-08-23,2024-08-23,2024-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,1500.0,0.0,800.0,0.0
+LTTS,2024-08-26 17:05:00,2024-08-26,2024-08-23,2024-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,600.0,0.0,,0.0
+LTTS,2024-08-26 17:05:00,2024-08-26,2024-08-23,2024-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,61000.0,0.06,56000.0,0.05
+LTTS,2024-08-29 09:13:00,2024-08-28,2024-08-28,2024-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,9000.0,0.01,8100.0,0.01
+LTTS,2024-08-29 09:13:00,2024-08-27,2024-08-27,2024-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,800.0,0.0,,0.0
+LTTS,2024-08-29 09:13:00,2024-08-28,2024-08-22,2024-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,396.0,0.0,0.0,0.0,0.0,846.0,0.0,450.0,0.0
+LTTS,2024-08-29 09:13:00,2024-08-28,2024-01-08,2024-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,900.0,0.0,500.0,0.0
+LTTS,2024-08-30 10:12:00,2024-08-29,2024-08-27,2024-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,12700.0,0.01,10700.0,0.01
+LTTS,2024-09-02 17:11:00,2024-08-30,2024-08-16,2024-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2650.0,0.0,2450.0,0.0
+LTTS,2024-09-02 17:11:00,2024-09-02,2024-08-30,2024-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,700.0,0.0,,0.0
+LTTS,2024-09-04 11:01:00,2024-09-02,2024-08-28,2024-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,1900.0,0.0,700.0,0.0
+LTTS,2024-09-04 11:01:00,2024-09-03,2024-08-29,2024-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,8800.0,0.01,8500.0,0.01
+LTTS,2024-09-04 17:15:00,2024-09-03,2024-09-03,2024-09-03,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,158600.0,0.15,157600.0,0.15
+LTTS,2024-09-05 14:15:00,2024-09-04,2024-08-30,2024-09-02,Director,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,49600.0,0.05,45600.0,0.04
+LTTS,2024-09-10 17:04:00,2024-09-10,2024-09-06,2024-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3600.0,0.0,3400.0,0.0
+LTTS,2024-09-13 17:28:00,2024-09-11,2024-09-09,2024-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,14301.0,0.01,12801.0,0.01
+LTTS,2024-09-17 17:18:00,2024-09-13,2024-09-13,2024-09-13,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,100.0,0.0,0.0,0.0,0.0,651.0,0.0,651.0,0.0
+LTTS,2024-09-17 17:18:00,2024-09-16,2024-09-13,2024-09-13,Director,Market Sale,Sell,Equity Shares,4100.0,0.0,0.0,0.0,0.0,157600.0,0.15,153500.0,0.15
+LTTS,2024-09-17 17:18:00,2024-09-13,2024-09-13,2024-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,651.0,0.0,551.0,0.0
+LTTS,2024-09-20 17:07:00,2024-09-19,2024-09-09,2024-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,12920.0,0.01,12620.0,0.01
+LTTS,2024-09-24 09:38:00,2024-09-19,2024-09-20,2024-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,501.0,0.0,1.0,0.0
+LTTS,2024-09-25 16:49:00,2024-09-24,2024-09-11,2024-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7050.0,0.01,6550.0,0.01
+LTTS,2024-09-25 16:49:00,2024-09-24,2024-07-23,2024-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,16.0,0.0,0.0,0.0,0.0,701.0,0.0,685.0,0.0
+LTTS,2024-09-25 16:49:00,2024-09-24,2024-08-19,2024-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6.0,0.0,0.0,0.0,0.0,685.0,0.0,679.0,0.0
+LTTS,2024-09-25 16:49:00,2024-09-24,2024-08-21,2024-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,47.0,0.0,0.0,0.0,0.0,679.0,0.0,632.0,0.0
+LTTS,2024-09-25 16:49:00,2024-09-24,2024-09-12,2024-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6.0,0.0,0.0,0.0,0.0,632.0,0.0,626.0,0.0
+LTTS,2024-09-25 16:49:00,2024-09-24,2024-09-18,2024-09-18,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,500.0,0.0,0.0,0.0,0.0,626.0,0.0,626.0,0.0
+LTTS,2024-09-26 17:26:00,2024-09-26,2024-09-25,2024-09-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12620.0,0.01,11620.0,0.01
+LTTS,2024-10-04 14:28:00,2024-10-02,2024-09-02,2024-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,550.0,0.0,0.0,0.0,0.0,10700.0,0.01,10150.0,0.01
+LTTS,2024-10-24 08:43:00,2024-10-23,2024-10-22,2024-10-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6550.0,0.01,6050.0,0.01
+LTTS,2024-11-06 16:35:00,2024-11-06,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,6050.0,0.01,5350.0,0.01
+LTTS,2024-11-12 16:35:00,2024-11-12,2024-11-12,2024-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,201.0,0.0,0.0,0.0,0.0,2702.0,0.0,2501.0,0.0
+LTTS,2024-11-19 17:36:00,2024-11-19,2024-11-18,2024-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,5350.0,0.01,5050.0,0.0
+LTTS,2024-11-19 17:36:00,2024-11-17,2024-11-12,2024-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,11620.0,0.01,11120.0,0.01
+LTTS,2024-11-26 15:32:00,2024-11-25,2024-11-22,2024-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,600.0,0.0,300.0,0.0
+LTTS,2024-11-26 17:21:00,2024-11-26,2024-11-25,2024-11-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,300.0,0.0,,0.0
+LTTS,2024-11-28 16:05:00,2024-11-28,2024-11-16,2024-11-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1100.0,0.0,0.0,0.0,0.0,7400.0,0.01,8500.0,0.01
+LTTS,2024-11-28 16:05:00,2024-11-28,2024-11-27,2024-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,8500.0,0.01,4500.0,0.0
+LTTS,2024-11-29 15:32:00,2024-11-29,2024-11-06,2024-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,295.0,0.0,0.0,0.0,0.0,14295.0,0.01,14000.0,0.01
+LTTS,2024-12-19 12:25:00,2024-12-19,2024-12-18,2024-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,451.0,0.0,0.0,0.0,0.0,10150.0,0.01,9699.0,0.01

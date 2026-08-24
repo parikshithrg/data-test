@@ -1,0 +1,27 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+SIEMENS,2016-12-14 16:29:00,2016-12-13,2016-12-12,2016-12-12,Other,Market Sale,Sell,Equity Shares,954.0,0.0,0.0,0.0,0.0,954.0,0.0002,,0.0
+SIEMENS,2017-09-18 18:10:00,2017-09-18,2017-09-15,2017-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3650.0,0.0,0.0,0.0,0.0,3654.0,0.001,4.0,0.0
+SIEMENS,2018-03-12 11:45:00,2018-03-12,2018-03-09,2018-03-09,Immediate relative,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+SIEMENS,2018-03-12 11:45:00,2018-03-12,2018-03-09,2018-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,55.0,0.0,0.0,0.0,0.0,55.0,0.0,,0.0
+SIEMENS,2018-03-12 12:10:00,2018-03-12,2018-03-09,2018-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,55.0,0.0,0.0,0.0,0.0,55.0,0.0,,0.0
+SIEMENS,2018-03-12 12:10:00,2018-03-12,2018-03-09,2018-03-09,Immediate relative,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+SIEMENS,2020-05-21 23:53:00,2020-05-20,2020-05-19,2020-05-19,Promoters,Inter-se-Transfer,Buy,Equity Shares,85468862.0,0.0,0.0,0.0,0.0,,0.0,85468862.0,24.0
+SIEMENS,2020-05-21 23:53:00,2020-05-20,2020-05-19,2020-05-19,Promoters,Inter-se-Transfer,Sell,Equity Shares,85468862.0,0.0,0.0,0.0,0.0,255351805.0,71.7,169882943.0,47.7
+SIEMENS,2020-06-24 22:25:00,2020-06-24,2020-06-23,2020-06-23,Promoters,Inter-se-Transfer,Buy,Equity Shares,169882943.0,0.0,0.0,0.0,0.0,,0.0,169882943.0,47.7
+SIEMENS,2020-06-24 22:25:00,2020-06-24,2020-06-23,2020-06-23,Promoters,Inter-se-Transfer,Sell,Equity Shares,169882943.0,0.0,0.0,0.0,0.0,169882943.0,47.7,,0.0
+SIEMENS,2020-09-24 13:56:00,2020-09-24,2020-09-23,2020-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1220.0,0.0,0.0,0.0,0.0,1220.0,0.0,,0.0
+SIEMENS,2021-10-18 22:12:00,,,,Employees/Designated Employees,-,-,,,0.0,550.0,0.0,1964.25,,0.0,,
+SIEMENS,2021-10-18 22:12:00,,,,Employees/Designated Employees,-,-,,,550.0,0.0,1964.25,0.0,,0.0,,
+SIEMENS,2021-11-10 19:39:00,,,,Employees/Designated Employees,-,-,,,550.0,550.0,1641.0,1639.5,,0.0,,
+SIEMENS,2022-12-13 16:00:00,2022-12-12,2022-12-09,2022-12-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,310.0,0.0,160.0,0.0
+SIEMENS,2022-12-13 16:00:00,2022-12-12,2022-12-09,2022-12-09,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,150.0,0.0,0.0,0.0,0.0,160.0,0.0,310.0,0.0
+SIEMENS,2022-12-13 16:00:00,2022-12-12,2022-12-09,2022-12-09,Immediate relative,Market Purchase,Buy,Equity Shares,63.0,0.0,0.0,0.0,0.0,,0.0,63.0,0.0
+SIEMENS,2022-12-15 13:08:00,2022-12-15,2022-12-14,2022-12-14,Immediate relative,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,200.0,0.0,,0.0
+SIEMENS,2022-12-15 13:08:00,2022-12-15,2022-12-14,2022-12-14,Immediate relative,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,200.0,0.0,,0.0
+SIEMENS,2023-12-12 12:07:00,2023-12-11,2023-12-08,2023-12-08,Promoters,Inter-se-Transfer,Sell,Equity Shares,64101646.0,0.0,0.0,0.0,0.0,85468862.0,24.0,21367216.0,6.0
+SIEMENS,2023-12-12 12:16:00,2023-12-11,2023-12-08,2023-12-08,Promoters,Inter-se-Transfer,Buy,Equity Shares,64101646.0,0.0,0.0,0.0,0.0,,0.0,64101646.0,18.0
+SIEMENS,2023-12-22 15:31:00,2023-12-21,2023-12-20,2023-12-20,Promoters,Inter-se-Transfer,Sell,Equity Shares,17806013.0,0.0,0.0,0.0,0.0,21367216.0,6.0,3561203.0,1.0
+SIEMENS,2025-12-17 14:48:00,2025-12-16,2025-12-16,2025-12-16,Promoters,Inter-se-Transfer,Sell,Equity Shares,14503026.0,0.0,0.0,0.0,0.0,17806013.0,5.0,3302987.0,0.93
+SIEMENS,2025-12-17 14:48:00,2025-12-16,2025-12-16,2025-12-16,Promoters,Inter-se-Transfer,Buy,Equity Shares,14503026.0,0.0,0.0,0.0,0.0,169882943.0,47.7,184385969.0,51.77
+SIEMENS,2025-12-18 13:52:00,2025-12-17,2025-12-17,2025-12-17,Promoters,Inter-se-Transfer,Buy,Equity Shares,3561203.0,0.0,0.0,0.0,0.0,184385969.0,51.77,187947172.0,52.77
+SIEMENS,2025-12-18 13:52:00,2025-12-17,2025-12-17,2025-12-17,Promoters,Inter-se-Transfer,Sell,Equity Shares,3561203.0,0.0,0.0,0.0,0.0,3561203.0,1.0,,0.0

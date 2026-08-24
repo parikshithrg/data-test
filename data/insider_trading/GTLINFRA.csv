@@ -1,0 +1,11 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+GTLINFRA,2018-02-02 16:27:00,2018-02-02,2018-01-30,2018-01-31,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,1700742399.0,0.0,0.0,0.0,0.0,345763466.0,7.62,2046505865.0,16.88
+GTLINFRA,2018-02-02 16:27:00,2018-02-02,2018-01-30,2018-01-31,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,37081407.0,0.0,0.0,0.0,0.0,283062609.0,6.24,320144016.0,2.64
+GTLINFRA,2018-08-02 16:59:00,2018-08-01,2018-05-19,2018-05-19,Promoter Group,Others,Pledge,Equity Shares,100000000.0,0.0,0.0,0.0,0.0,420144016.0,3.42,420144016.0,3.42
+GTLINFRA,2018-08-02 16:59:00,2018-08-01,2018-05-19,2018-05-19,Promoter Group,Revokation of Pledge,Pledge Revoke,Equity Shares,100000000.0,0.0,0.0,0.0,0.0,420144016.0,3.42,420144016.0,3.42
+GTLINFRA,2018-08-02 16:59:00,2018-08-01,2018-05-11,2018-05-11,Promoter Group,Others,Pledge,Equity Shares,100000000.0,0.0,0.0,0.0,0.0,320144016.0,2.6,320144016.0,2.6
+GTLINFRA,2018-08-30 13:18:00,2018-08-28,2018-05-11,2018-05-11,Promoter Group,Others,Pledge,Equity Shares,100000000.0,0.0,0.0,0.0,0.0,320144016.0,2.6,420144016.0,3.42
+GTLINFRA,2018-08-30 13:18:00,2018-08-28,2018-05-19,2018-05-19,Promoter Group,Others,Pledge,Equity Shares,100000000.0,0.0,0.0,0.0,0.0,420144016.0,3.42,420144016.0,3.42
+GTLINFRA,2018-08-30 13:18:00,2018-08-28,2018-05-19,2018-05-19,Promoter Group,Revokation of Pledge,Pledge Revoke,Equity Shares,100000000.0,0.0,0.0,0.0,0.0,420144016.0,3.42,420144016.0,3.42
+GTLINFRA,2019-04-02 18:05:00,2019-04-02,2019-03-28,2019-03-28,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,2046505865.0,0.0,0.0,0.0,0.0,2046505865.0,16.61,,0.0
+GTLINFRA,2019-04-26 16:21:00,2019-04-02,2019-03-28,2019-03-28,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,2046505865.0,0.0,0.0,0.0,0.0,2046505865.0,16.61,,0.0

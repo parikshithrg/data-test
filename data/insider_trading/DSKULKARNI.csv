@@ -1,0 +1,12 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+DSKULKARNI,2015-12-04 15:26:00,2015-12-03,2015-12-02,2015-12-02,Promoters,Market Purchase,Buy,Equity Shares,22355.0,0.0,0.0,0.0,0.0,5800469.0,22.48,5822824.0,22.57
+DSKULKARNI,2016-02-23 16:49:00,2016-02-23,2016-02-16,2016-02-22,Promoters,Market Purchase,Buy,Equity Shares,41003.0,0.0,0.0,0.0,0.0,5822824.0,22.57,5863827.0,22.73
+DSKULKARNI,2016-02-25 09:04:00,2016-02-24,2016-02-23,2016-02-23,Promoters,Market Purchase,Buy,Equity Shares,30500.0,0.0,0.0,0.0,0.0,5863827.0,22.73,5894327.0,22.85
+DSKULKARNI,2016-03-02 08:33:00,2016-02-26,2016-02-24,2016-02-25,Promoters,Market Purchase,Buy,Equity Shares,30833.0,0.0,0.0,0.0,0.0,5894327.0,22.85,5925160.0,22.96
+DSKULKARNI,2016-03-02 18:50:00,2016-03-02,2016-03-01,2016-03-01,Promoters,Market Purchase,Buy,Equity Shares,33200.0,0.0,0.0,0.0,0.0,5956160.0,23.08,5989360.0,23.21
+DSKULKARNI,2016-03-03 18:42:00,2016-03-03,2016-03-02,2016-03-02,Promoters,Market Purchase,Buy,Equity Shares,11109.0,0.0,0.0,0.0,0.0,5989360.0,23.21,6000469.0,23.26
+DSKULKARNI,2016-03-04 08:55:00,2016-02-27,2016-02-26,2016-02-26,Promoters,Market Purchase,Buy,Equity Shares,31000.0,0.0,0.0,0.0,0.0,5925160.0,22.96,5956160.0,23.08
+DSKULKARNI,2016-03-29 20:19:00,2016-03-23,2016-03-22,2016-03-22,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,20000.0,0.0,0.0,0.0,0.0,4905908.0,19.01,4905908.0,19.01
+DSKULKARNI,2016-05-16 12:01:00,2016-05-13,2016-05-12,2016-05-12,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,100000.0,0.0,0.0,0.0,0.0,4905908.0,19.01,4905908.0,19.01
+DSKULKARNI,2016-09-29 20:14:00,2016-09-29,2016-09-29,2016-09-29,Promoters,Off Market,Pledge Revoke,Equity Shares,100000.0,0.0,0.0,0.0,0.0,4905908.0,19.01,4905908.0,19.01
+DSKULKARNI,2016-11-21 17:44:00,2016-11-19,2016-11-17,2016-11-17,Promoters,Pledge Creation,Pledge,Equity Shares,60000.0,0.0,0.0,0.0,0.0,4905908.0,19.01,4905908.0,19.01

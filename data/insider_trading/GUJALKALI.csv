@@ -1,0 +1,5 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+GUJALKALI,2026-03-19 15:58:00,2026-03-19,2026-03-18,2026-03-18,Promoters,Market Purchase,Buy,Equity Shares,3529.0,0.0,0.0,0.0,0.0,1759996.0,2.4,1763525.0,2.4
+GUJALKALI,2026-03-20 15:46:00,2026-03-20,2026-03-19,2026-03-19,Promoters,Market Purchase,Buy,Equity Shares,270500.0,0.0,0.0,0.0,0.0,1763525.0,2.4,2034025.0,2.77
+GUJALKALI,2026-03-21 12:56:00,2026-03-21,2026-03-20,2026-03-20,Promoters,Market Purchase,Buy,Equity Shares,460340.0,0.0,0.0,0.0,0.0,2034025.0,2.77,2494365.0,3.4
+GUJALKALI,2026-03-28 14:37:00,2026-03-28,2026-03-27,2026-03-27,Promoters,Market Purchase,Buy,Equity Shares,10600.0,0.0,0.0,0.0,0.0,2483765.0,3.38,2494365.0,3.4

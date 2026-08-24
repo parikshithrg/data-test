@@ -1,0 +1,5 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+SKSMICRO,2016-04-13 19:03:00,2016-04-12,2016-04-11,2016-04-12,Director,ESOP,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,20000.0,0.016,8000.0,0.0006
+SKSMICRO,2016-04-13 19:03:00,2016-04-12,2016-04-12,2016-04-12,Director,ESOP,Sell,Equity Shares,18000.0,0.0,0.0,0.0,0.0,19000.0,0.01,1000.0,0.0
+SKSMICRO,2016-04-13 19:03:00,2016-04-11,2016-04-07,2016-04-07,Key Managerial Personnel,ESOP,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,25892.0,0.02,23892.0,0.01
+SKSMICRO,2016-04-13 19:03:00,2016-04-12,2016-04-12,2016-04-12,Director,ESOP,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8000.0,0.0006,6000.0,0.0006

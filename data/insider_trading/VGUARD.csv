@@ -1,0 +1,929 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+VGUARD,2016-05-23 09:52:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3624.0,0.0,0.0,0.0,0.0,9551.0,0.04,13175.0,0.04
+VGUARD,2016-05-23 09:52:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3624.0,0.0,0.0,0.0,0.0,9551.0,0.04,13175.0,0.04
+VGUARD,2016-05-23 09:52:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2348.0,0.0,0.0,0.0,0.0,321.0,0.001,2669.0,0.009
+VGUARD,2016-05-23 09:52:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2400.0,0.0,0.0,0.0,0.0,13.0,0.0,2413.0,0.01
+VGUARD,2016-05-23 09:52:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2400.0,0.0,0.0,0.0,0.0,13.0,0.0,2413.0,0.01
+VGUARD,2016-05-23 09:52:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2348.0,0.0,0.0,0.0,0.0,321.0,0.001,2669.0,0.009
+VGUARD,2016-05-23 09:52:00,2016-05-17,2016-05-17,2016-05-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,3213.0,0.0,0.0,0.0,0.0,16413.0,0.05,19626.0,0.06
+VGUARD,2016-05-23 09:52:00,2016-05-17,2016-05-17,2016-05-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,3213.0,0.0,0.0,0.0,0.0,16413.0,0.05,19626.0,0.06
+VGUARD,2016-05-23 09:53:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3624.0,0.0,0.0,0.0,0.0,9551.0,0.04,13175.0,0.04
+VGUARD,2016-05-23 09:53:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2400.0,0.0,0.0,0.0,0.0,13.0,0.0,2413.0,0.01
+VGUARD,2016-05-23 09:53:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2348.0,0.0,0.0,0.0,0.0,321.0,0.001,2669.0,0.009
+VGUARD,2016-05-23 09:53:00,2016-05-17,2016-05-17,2016-05-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,3213.0,0.0,0.0,0.0,0.0,16413.0,0.05,19626.0,0.06
+VGUARD,2016-05-23 09:53:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3624.0,0.0,0.0,0.0,0.0,9551.0,0.04,13175.0,0.04
+VGUARD,2016-05-23 09:53:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2400.0,0.0,0.0,0.0,0.0,13.0,0.0,2413.0,0.01
+VGUARD,2016-05-23 09:53:00,2016-05-18,2016-05-16,2016-05-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2348.0,0.0,0.0,0.0,0.0,321.0,0.001,2669.0,0.009
+VGUARD,2016-05-23 09:53:00,2016-05-17,2016-05-17,2016-05-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,3213.0,0.0,0.0,0.0,0.0,16413.0,0.05,19626.0,0.06
+VGUARD,2016-05-23 11:27:00,2016-05-20,2016-05-10,2016-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1207.0,0.0,0.0,0.0,0.0,1207.0,0.004,,
+VGUARD,2016-05-23 11:27:00,2016-05-20,2016-05-17,2016-05-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2470.0,0.0,0.0,0.0,0.0,2.0,0.0,2472.0,0.01
+VGUARD,2016-08-06 15:30:00,2016-08-02,2016-08-01,2016-08-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,2343.0,0.0,1943.0,0.0
+VGUARD,2016-08-06 15:30:00,2016-08-02,2016-07-29,2016-08-01,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1320.0,0.0,0.0,0.0,0.0,2669.0,0.01,1349.0,0.0
+VGUARD,2016-08-06 15:30:00,2016-08-03,2016-08-01,2016-08-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,3250.0,0.01,2600.0,0.01
+VGUARD,2016-08-06 18:01:00,2016-08-06,2016-08-01,2016-08-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,8602.0,0.02,8102.0,0.02
+VGUARD,2016-08-06 18:01:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,4950.0,0.0,0.0,0.0,0.0,17626.0,0.06,22576.0,0.08
+VGUARD,2016-08-06 18:01:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,1494.0,0.0,0.0,0.0,0.0,2469.0,0.0,3963.0,0.0
+VGUARD,2016-08-06 18:01:00,2016-08-05,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,903.0,0.0,0.0,0.0,0.0,250.0,0.0,1153.0,0.0
+VGUARD,2016-08-06 18:01:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,1169.0,0.0,0.0,0.0,0.0,,0.0,1169.0,0.0
+VGUARD,2016-08-06 18:01:00,2016-08-05,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,4261.0,0.0,0.0,0.0,0.0,73.0,0.0,4334.0,0.0
+VGUARD,2016-08-06 18:01:00,2016-08-05,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,10565.0,0.0,0.0,0.0,0.0,2600.0,0.0,13165.0,0.0
+VGUARD,2016-08-06 18:01:00,2016-08-05,2016-08-04,2016-08-04,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,11000.0,0.0,0.0,0.0,0.0,13165.0,0.04,13165.0,0.04
+VGUARD,2016-08-06 18:01:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,5518.0,0.0,0.0,0.0,0.0,8102.0,0.02,13620.0,0.04
+VGUARD,2016-08-06 18:01:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,2229.0,0.0,0.0,0.0,0.0,1440.0,0.0,3669.0,0.01
+VGUARD,2016-08-06 18:01:00,2016-08-05,2016-08-05,2016-08-05,Employees/Designated Employees,ESOP,Buy,Equity Shares,4504.0,0.0,0.0,0.0,0.0,,0.0,4504.0,0.0
+VGUARD,2016-08-06 18:01:00,2016-08-05,2016-08-05,2016-08-05,Key Managerial Personnel,ESOP,Buy,Equity Shares,3090.0,0.0,0.0,0.0,0.0,1349.0,0.0,4439.0,0.0
+VGUARD,2016-08-06 18:01:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,5741.0,0.0,0.0,0.0,0.0,70.0,0.0,5811.0,0.0
+VGUARD,2016-08-06 18:01:00,2016-08-05,2016-08-05,2016-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2165.0,0.0,2065.0,0.0
+VGUARD,2016-08-06 18:01:00,2016-08-06,2016-08-05,2016-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1169.0,0.0,169.0,0.0
+VGUARD,2016-08-09 19:43:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,4459.0,0.0,0.0,0.0,0.0,36.0,0.0,4495.0,0.01
+VGUARD,2016-08-09 19:43:00,2016-08-08,2016-08-05,2016-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,169.0,0.0,0.0,0.0,0.0,169.0,0.0,,0.0
+VGUARD,2016-08-10 15:58:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,2989.0,0.0,0.0,0.0,0.0,,0.0,2989.0,0.01
+VGUARD,2016-08-10 15:58:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,1200.0,0.0,0.0,0.0,0.0,,0.0,1200.0,0.0
+VGUARD,2016-08-10 15:58:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,3716.0,0.0,0.0,0.0,0.0,,0.0,3716.0,0.01
+VGUARD,2016-08-10 16:00:00,2016-08-10,2016-08-09,2016-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,11000.0,0.04,9800.0,0.03
+VGUARD,2016-08-10 16:00:00,2016-08-10,2016-08-08,2016-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1010.0,0.0,0.0,0.0,0.0,12010.0,0.04,11000.0,0.04
+VGUARD,2016-08-10 16:00:00,2016-08-06,2016-08-05,2016-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,192.0,0.0,0.0,0.0,0.0,12202.0,0.04,12010.0,0.04
+VGUARD,2016-08-10 16:00:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1535.0,0.0,0.0,0.0,0.0,3716.0,0.01,2181.0,0.0
+VGUARD,2016-08-10 16:00:00,2016-08-09,2016-08-09,2016-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1065.0,0.0,0.0,0.0,0.0,1765.0,0.0,700.0,0.0
+VGUARD,2016-08-11 16:52:00,2016-08-05,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,4438.0,0.0,0.0,0.0,0.0,1000.0,0.0,5438.0,0.01
+VGUARD,2016-08-12 16:04:00,2016-08-12,2016-08-10,2016-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,700.0,0.0,600.0,0.0
+VGUARD,2016-08-16 18:31:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,800.0,0.0,0.0,0.0,0.0,581.0,0.0,1381.0,0.0
+VGUARD,2016-08-16 18:39:00,2016-08-16,2016-08-08,2016-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,681.0,0.0,0.0,0.0,0.0,2181.0,0.0,1500.0,0.0
+VGUARD,2016-08-16 18:39:00,2016-08-10,2016-08-09,2016-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4504.0,0.01,3504.0,0.01
+VGUARD,2016-08-16 18:39:00,2016-08-09,2016-08-08,2016-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2065.0,0.0,1765.0,0.0
+VGUARD,2016-08-16 18:39:00,2016-08-16,2016-08-12,2016-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,600.0,0.0,550.0,0.0
+VGUARD,2016-08-16 18:39:00,2016-08-09,2016-08-08,2016-08-08,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,0.0,0.0,0.0,0.0,0.0,135.0,0.03,135.0,0.0
+VGUARD,2016-08-22 10:37:00,2016-08-18,2016-08-12,2016-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2438.0,0.0,0.0,0.0,0.0,5438.0,0.01,3000.0,0.0
+VGUARD,2016-08-22 10:37:00,2016-08-19,2016-08-18,2016-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,13025.0,0.04,11525.0,0.03
+VGUARD,2016-08-22 10:37:00,2016-08-19,2016-08-19,2016-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,241.0,0.0,0.0,0.0,0.0,6898.0,0.02,6657.0,0.02
+VGUARD,2016-08-22 10:37:00,2016-08-19,2016-08-19,2016-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,6043.0,0.02,5743.0,0.02
+VGUARD,2016-08-23 17:34:00,2016-08-21,2016-08-17,2016-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,3504.0,0.01,2004.0,0.01
+VGUARD,2016-08-23 17:34:00,2016-08-22,2016-08-19,2016-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13175.0,0.04,12175.0,0.04
+VGUARD,2016-08-23 17:34:00,2016-08-22,2016-08-18,2016-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1305.0,0.0,0.0,0.0,0.0,1305.0,0.0,,0.0
+VGUARD,2016-08-26 17:47:00,2016-08-25,2016-08-24,2016-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1671.0,0.0,1171.0,0.0
+VGUARD,2016-08-26 17:47:00,2016-08-24,2016-08-24,2016-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,265.0,0.0,0.0,0.0,0.0,5743.0,0.02,5478.0,0.02
+VGUARD,2016-09-03 17:02:00,2016-08-30,2016-08-29,2016-08-29,Immediate relative,Market Purchase,Buy,Equity Shares,7825.0,0.0,0.0,0.0,0.0,,0.0,7825.0,0.0
+VGUARD,2016-09-03 17:03:00,2016-08-14,2016-08-12,2016-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,9800.0,0.032,9600.0,0.0318
+VGUARD,2016-09-03 17:03:00,2016-08-20,2016-08-18,2016-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,9600.0,0.0318,9400.0,0.0311
+VGUARD,2016-09-03 17:03:00,2016-08-29,2016-08-29,2016-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,167.0,0.0,0.0,0.0,0.0,1171.0,0.0,1004.0,0.0
+VGUARD,2016-09-03 17:03:00,2016-08-31,2016-08-29,2016-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9968.0,0.0,0.0,0.0,0.0,115250.0,0.03,105282.0,0.03
+VGUARD,2016-09-03 17:03:00,2016-09-01,2016-08-29,2016-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,1500.0,0.0,750.0,0.0
+VGUARD,2016-09-03 17:03:00,2016-09-01,2016-08-30,2016-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,7500.0,0.0,6000.0,0.0
+VGUARD,2016-09-07 17:28:00,2016-09-07,2016-09-06,2016-09-06,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,48220.0,0.0,0.0,0.0,0.0,97500.0,0.01,97500.0,0.01
+VGUARD,2016-09-12 13:15:00,2016-09-10,2016-09-09,2016-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9000.0,0.0,0.0,0.0,0.0,10040.0,0.0,1040.0,0.0
+VGUARD,2016-09-19 16:17:00,2016-09-16,2016-09-06,2016-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2806.0,0.0,0.0,0.0,0.0,225760.0,0.075,222954.0,0.074
+VGUARD,2016-09-27 16:04:00,2016-08-31,2016-08-30,2016-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,12175.0,0.04,11675.0,0.03
+VGUARD,2016-09-27 16:04:00,2016-09-26,2016-09-19,2016-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,222954.0,0.07,221454.0,0.07
+VGUARD,2016-09-27 18:01:00,2016-09-26,2016-09-19,2016-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,222954.0,0.074,221454.0,0.073
+VGUARD,2016-10-28 16:49:00,2016-10-26,2016-10-25,2016-10-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,141722.0,0.047,131722.0,0.044
+VGUARD,2016-10-28 16:49:00,2016-10-26,2016-10-25,2016-10-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,36690.0,0.012,31690.0,0.011
+VGUARD,2016-11-07 15:00:00,2016-10-27,2016-10-04,2016-10-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,43340.0,0.014,33340.0,0.01
+VGUARD,2016-11-07 15:00:00,2016-11-02,2016-11-01,2016-11-01,Immediate relative,Market Sale,Sell,Equity Shares,975.0,0.0,0.0,0.0,0.0,7825.0,0.0,6850.0,0.0
+VGUARD,2016-11-08 18:30:00,2016-11-07,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,8989.0,0.0,0.0,0.0,0.0,,0.0,8989.0,0.0
+VGUARD,2016-11-08 18:30:00,2016-11-04,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,17200.0,0.0,0.0,0.0,0.0,1040.0,0.0,18240.0,0.006
+VGUARD,2016-11-08 18:30:00,2016-11-07,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,17270.0,0.0,20270.0,0.0
+VGUARD,2016-11-08 18:30:00,2016-11-07,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,4950.0,0.0,0.0,0.0,0.0,66570.0,0.02,71520.0,0.02
+VGUARD,2016-11-08 18:30:00,2016-11-07,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,5500.0,0.0,0.0,0.0,0.0,,0.0,5500.0,0.0
+VGUARD,2016-11-08 18:30:00,2016-11-08,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,44330.0,0.0,0.0,0.0,0.0,,0.0,44330.0,0.01
+VGUARD,2016-11-08 18:30:00,2016-11-07,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,34760.0,0.0,0.0,0.0,0.0,51370.0,0.02,86130.0,0.03
+VGUARD,2016-11-10 18:22:00,2016-11-09,2016-10-25,2016-10-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,116750.0,0.04,112750.0,0.04
+VGUARD,2016-11-10 18:23:00,2016-11-09,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,28120.0,0.0,0.0,0.0,0.0,10.0,0.0,28130.0,0.0
+VGUARD,2016-11-10 18:23:00,2016-11-08,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,52300.0,0.0,0.0,0.0,0.0,,0.0,52300.0,0.02
+VGUARD,2016-11-10 18:23:00,2016-11-09,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,30790.0,0.0,0.0,0.0,0.0,34390.0,0.01,65180.0,0.02
+VGUARD,2016-11-10 18:23:00,2016-11-09,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,12730.0,0.0,0.0,0.0,0.0,31690.0,0.01,44420.0,0.01
+VGUARD,2016-11-10 18:23:00,2016-11-09,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,36440.0,0.0,0.0,0.0,0.0,105282.0,0.03,141722.0,0.05
+VGUARD,2016-11-10 18:23:00,2016-11-09,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,4100.0,0.0,0.0,0.0,0.0,38723.0,0.01,42823.0,0.01
+VGUARD,2016-11-10 18:23:00,2016-11-09,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,18990.0,0.0,0.0,0.0,0.0,4000.0,0.0,22990.0,0.0
+VGUARD,2016-11-10 18:23:00,2016-11-08,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,11420.0,0.0,21420.0,0.0
+VGUARD,2016-11-10 18:23:00,2016-11-10,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,14990.0,0.0,0.0,0.0,0.0,,0.0,14990.0,0.0
+VGUARD,2016-11-10 18:23:00,2016-11-09,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,2800.0,0.0,7800.0,0.0
+VGUARD,2016-11-10 18:23:00,2016-11-09,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,37250.0,0.0,0.0,0.0,0.0,112750.0,0.03,150000.0,0.04
+VGUARD,2016-11-11 16:46:00,2016-11-09,2016-11-09,2016-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,42823.0,0.01,39823.0,0.01
+VGUARD,2016-11-11 16:46:00,2016-11-09,2016-11-04,2016-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10770.0,0.0,0.0,0.0,0.0,28130.0,0.01,17360.0,0.01
+VGUARD,2016-11-16 18:06:00,2016-11-16,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,19250.0,0.0,0.0,0.0,0.0,33340.0,0.01,52590.0,0.01
+VGUARD,2016-11-16 18:06:00,2016-11-14,2016-11-09,2016-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,28000.0,0.01,26500.0,0.01
+VGUARD,2016-11-16 18:06:00,2016-11-14,2016-11-03,2016-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,30000.0,0.01,28000.0,0.01
+VGUARD,2016-11-25 18:16:00,2016-11-21,2016-11-03,2016-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25900.0,0.0,0.0,0.0,0.0,136200.0,0.05,110300.0,0.04
+VGUARD,2016-11-30 15:01:00,2016-11-28,2016-11-15,2016-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,26500.0,0.01,25500.0,0.01
+VGUARD,2017-01-05 09:29:00,2017-01-02,2016-12-29,2016-12-29,Promoter Group,Market Purchase,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,51103180.0,16.91,51108180.0,16.91
+VGUARD,2017-02-15 17:42:00,2017-02-13,2017-02-06,2017-02-09,Immediate relative,Market Purchase,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+VGUARD,2017-02-20 18:52:00,2017-02-16,2017-02-09,2017-02-09,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,44950.0,0.01,47450.0,0.02
+VGUARD,2017-02-24 17:55:00,2017-02-22,2017-02-22,2017-02-22,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2550.0,0.0,0.0,0.0,0.0,,0.0,2550.0,0.0
+VGUARD,2017-02-24 17:55:00,2017-02-23,2017-02-22,2017-02-22,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,6800.0,0.0,0.0,0.0,0.0,97500.0,0.03,104300.0,0.04
+VGUARD,2017-03-02 14:37:00,2017-02-28,2017-02-28,2017-02-28,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,800.0,0.0,0.0,0.0,0.0,1470.0,0.0,2270.0,0.0
+VGUARD,2017-03-08 18:16:00,2017-03-08,2017-03-06,2017-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,17000.0,0.01,15000.0,0.01
+VGUARD,2017-03-08 18:16:00,2017-03-07,2017-03-03,2017-03-03,Immediate relative,Market Purchase,Buy,Equity Shares,2300.0,0.0,0.0,0.0,0.0,,0.0,2300.0,0.0
+VGUARD,2017-03-08 18:16:00,2017-03-07,2017-03-03,2017-03-03,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,325.0,0.0,0.0,0.0,0.0,8688.0,0.0,9013.0,0.0
+VGUARD,2017-03-08 18:16:00,2017-03-08,2017-03-02,2017-03-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,20000.0,0.01,18000.0,0.01
+VGUARD,2017-03-08 18:16:00,2017-03-08,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,18000.0,0.01,17000.0,0.01
+VGUARD,2017-03-08 18:16:00,2017-03-07,2017-03-06,2017-03-06,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,3880.0,0.0,0.0,0.0,0.0,94000.0,0.03,97880.0,0.03
+VGUARD,2017-03-16 18:40:00,2017-03-15,2017-03-14,2017-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1450.0,0.0,0.0,0.0,0.0,1450.0,0.0,,0.0
+VGUARD,2017-03-16 18:40:00,2017-03-16,2017-03-14,2017-03-14,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,61110.0,0.02,63110.0,0.02
+VGUARD,2017-03-22 17:57:00,2017-03-22,2017-03-20,2017-03-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,23285.0,0.0,0.0,0.0,0.0,43000.0,0.01,19715.0,0.01
+VGUARD,2017-03-22 17:57:00,2017-03-20,2017-03-20,2017-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14682.0,0.0,0.0,0.0,0.0,31770.0,0.01,17088.0,0.0
+VGUARD,2017-03-27 16:21:00,2017-03-24,2017-03-22,2017-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,31150.0,0.0,0.0,0.0,0.0,131418.0,0.03,100268.0,0.02
+VGUARD,2017-03-27 16:21:00,2017-03-24,2017-03-22,2017-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,19715.0,0.0,14715.0,0.0
+VGUARD,2017-03-27 16:21:00,2017-03-23,2017-03-02,2017-03-02,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,40.0,0.0,140.0,0.0
+VGUARD,2017-03-30 16:18:00,2017-03-30,2017-03-29,2017-03-29,Promoters,Off Market,Sell,Equity Shares,20808000.0,0.0,0.0,0.0,0.0,103131252.0,24.28,82323252.0,19.38
+VGUARD,2017-03-31 20:46:00,2017-03-29,2017-03-28,2017-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6700.0,0.0,0.0,0.0,0.0,100268.0,0.02,93568.0,0.02
+VGUARD,2017-03-31 20:46:00,2017-03-29,2017-03-23,2017-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2025.0,0.0,0.0,0.0,0.0,53088.0,0.01,51063.0,0.01
+VGUARD,2017-04-07 19:46:00,2017-04-05,2017-04-03,2017-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3715.0,0.0,0.0,0.0,0.0,31915.0,0.01,28200.0,0.01
+VGUARD,2017-04-24 16:48:00,2017-04-21,2017-04-19,2017-04-21,Key Managerial Personnel,Others,Sell,Equity Shares,2870.0,0.0,0.0,0.0,0.0,65016.0,0.015,62146.0,0.014
+VGUARD,2017-05-30 12:02:00,2017-05-29,2017-05-23,2017-05-29,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,,0.0,300.0,0.0
+VGUARD,2017-05-30 12:02:00,2017-05-29,2017-05-23,2017-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,27104.0,0.0063,25604.0,0.006
+VGUARD,2017-05-31 15:11:00,2017-05-30,2017-05-23,2017-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,7292.0,0.001,2292.0,0.001
+VGUARD,2017-06-03 16:13:00,2017-06-02,2017-05-22,2017-05-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,314398.0,0.074,306398.0,0.072
+VGUARD,2017-06-03 16:13:00,2017-06-02,2017-05-31,2017-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,33380.0,0.0,0.0,0.0,0.0,306398.0,0.072,273018.0,0.064
+VGUARD,2017-06-07 18:56:00,2017-06-07,2017-05-30,2017-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,106134.0,0.025,96134.0,0.022
+VGUARD,2017-06-07 18:56:00,2017-06-06,2017-05-25,2017-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,26000.0,0.0,0.0,0.0,0.0,116158.0,0.0273,90158.0,0.021
+VGUARD,2017-06-07 18:56:00,2017-06-07,2017-06-05,2017-06-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,93568.0,0.022,83568.0,0.02
+VGUARD,2017-06-09 18:45:00,2017-06-08,2017-05-23,2017-05-31,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,450.0,0.0,0.0,0.0,0.0,3570.0,0.0008,4020.0,0.0009
+VGUARD,2017-06-13 19:55:00,2017-06-12,2017-06-02,2017-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,28378.0,0.0066,27378.0,0.0061
+VGUARD,2017-06-13 19:55:00,2017-06-12,2017-05-25,2017-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,518.0,0.0,0.0,0.0,0.0,25604.0,0.006,25086.0,0.0059
+VGUARD,2017-06-14 19:05:00,2017-06-12,2017-05-29,2017-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,37359.0,0.0088,33859.0,0.0079
+VGUARD,2017-06-21 18:59:00,2017-06-21,2017-06-13,2017-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,27378.0,0.006,26578.0,0.006
+VGUARD,2017-07-05 17:25:00,2017-07-04,2017-06-30,2017-07-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,28200.0,0.0066,18200.0,0.004
+VGUARD,2017-07-10 15:50:00,2017-07-10,2017-07-04,2017-07-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,23000.0,0.0,0.0,0.0,0.0,33859.0,0.0079,10859.0,0.0025
+VGUARD,2017-07-18 15:12:00,2017-07-15,2017-07-03,2017-07-03,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,4020.0,0.0009,4120.0,0.001
+VGUARD,2017-08-09 18:30:00,2017-08-07,2017-08-07,2017-08-07,Employees/Designated Employees,Off Market,Sell,Equity Shares,6520.0,0.0,0.0,0.0,0.0,29796.0,0.01,23276.0,0.0
+VGUARD,2017-08-24 17:09:00,2017-08-22,2017-08-07,2017-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,21000.0,0.004,19000.0,0.004
+VGUARD,2017-08-28 19:53:00,2017-08-25,2017-08-16,2017-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,43000.0,0.0,0.0,0.0,0.0,107030.0,0.025,64030.0,0.015
+VGUARD,2017-08-28 19:53:00,2017-08-28,2017-08-17,2017-08-25,Immediate relative,Market Sale,Sell,Equity Shares,9590.0,0.0,0.0,0.0,0.0,9590.0,0.0,,0.0
+VGUARD,2017-09-11 18:58:00,2017-09-08,2017-09-06,2017-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12768.0,0.0,0.0,0.0,0.0,12768.0,0.004,,0.0
+VGUARD,2017-09-15 17:53:00,2017-09-14,2017-09-01,2017-09-11,Employees/Designated Employees,Off Market,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,19000.0,0.004,16000.0,0.003
+VGUARD,2017-09-19 19:25:00,2017-09-18,2017-09-12,2017-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,77588.0,0.018,67588.0,0.16
+VGUARD,2017-09-19 19:25:00,2017-09-19,2017-09-19,2017-09-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,62752.0,0.01,57752.0,0.01
+VGUARD,2017-10-06 17:24:00,2017-10-05,2017-09-26,2017-10-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2050.0,0.0,0.0,0.0,0.0,26578.0,0.006,24528.0,0.005
+VGUARD,2017-10-10 18:52:00,2017-10-06,2017-09-27,2017-10-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,16000.0,0.0,14000.0,0.0
+VGUARD,2017-10-13 17:13:00,2017-10-11,2017-09-26,2017-10-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,96134.0,0.02,86134.0,0.02
+VGUARD,2017-11-01 18:00:00,2017-10-31,2017-10-31,2017-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12800.0,0.0,0.0,0.0,0.0,23276.0,0.01,10476.0,0.0
+VGUARD,2017-11-03 19:02:00,2017-11-03,2017-10-31,2017-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,90158.0,0.02,70158.0,0.02
+VGUARD,2017-11-08 19:33:00,2017-11-08,2017-10-30,2017-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2800.0,0.0,0.0,0.0,0.0,2890.0,0.0,90.0,0.0
+VGUARD,2017-11-08 19:33:00,2017-11-07,2017-10-30,2017-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,137032.0,0.03,135532.0,0.32
+VGUARD,2017-11-08 19:33:00,2017-11-06,2017-11-01,2017-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,51603.0,0.0,49603.0,0.0
+VGUARD,2017-11-10 18:50:00,2017-11-09,2017-10-31,2017-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,57752.0,0.01,56252.0,0.01
+VGUARD,2017-11-13 17:40:00,2017-11-11,2017-11-08,2017-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,55000.0,0.0,0.0,0.0,0.0,945546.0,0.22,890546.0,0.21
+VGUARD,2017-11-13 17:40:00,2017-11-11,2017-10-03,2017-10-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,83878.0,0.02,77378.0,0.02
+VGUARD,2017-11-13 17:40:00,2017-11-11,2017-10-30,2017-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,23878.0,0.0,0.0,0.0,0.0,77378.0,0.02,53500.0,0.01
+VGUARD,2017-11-16 16:31:00,2017-11-16,2017-11-08,2017-11-16,Key Managerial Personnel,Market Sale,Sell,Equity Shares,32236.0,0.0,0.0,0.0,0.0,890546.0,0.21,858310.0,0.2
+VGUARD,2017-11-20 18:37:00,2017-11-17,2017-11-08,2017-11-16,Other,Market Sale,Sell,Equity Shares,5332.0,0.0,0.0,0.0,0.0,165332.0,0.04,160000.0,0.04
+VGUARD,2017-11-30 15:21:00,2017-11-28,2017-11-15,2017-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,306398.0,0.07,304898.0,0.07
+VGUARD,2017-11-30 15:21:00,2017-11-29,2017-11-16,2017-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,135532.0,0.03,134532.0,0.03
+VGUARD,2017-11-30 15:21:00,2017-11-30,2017-11-29,2017-11-29,Director,Market Sale,Sell,Equity Shares,2980000.0,0.0,0.0,0.0,0.0,82323252.0,19.39,79343252.0,18.68
+VGUARD,2017-12-05 18:19:00,2017-12-04,2017-11-20,2017-11-20,Key Managerial Personnel,Off Market,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,70158.0,0.02,60158.0,0.01
+VGUARD,2017-12-07 15:53:00,2017-12-07,2017-12-05,2017-12-07,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,858310.0,0.2,848310.0,0.2
+VGUARD,2017-12-11 16:27:00,2017-12-08,2017-11-24,2017-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,150432.0,0.04,150382.0,0.04
+VGUARD,2017-12-11 16:27:00,2017-12-08,2017-12-07,2017-12-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,67588.0,0.16,65588.0,0.02
+VGUARD,2017-12-11 16:27:00,2017-12-08,2017-12-04,2017-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,56252.0,0.01,53252.0,0.01
+VGUARD,2017-12-11 16:27:00,2017-12-08,2017-12-04,2017-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,53252.0,0.01,52252.0,0.01
+VGUARD,2017-12-11 16:27:00,2017-12-11,2017-12-05,2017-12-08,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,848310.0,0.2,843310.0,0.2
+VGUARD,2017-12-11 16:27:00,2017-12-08,2017-11-15,2017-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,155932.0,0.04,150432.0,0.04
+VGUARD,2017-12-15 18:13:00,2017-12-14,2017-12-06,2017-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,16142.0,0.0,4142.0,0.01
+VGUARD,2017-12-19 20:15:00,2017-12-18,2017-12-11,2017-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,133032.0,0.03,132532.0,0.03
+VGUARD,2017-12-19 20:15:00,2017-12-18,2017-12-14,2017-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,52906.0,0.01,22906.0,0.01
+VGUARD,2017-12-22 18:12:00,2017-12-22,2017-10-30,2017-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,53500.0,0.01,51500.0,0.01
+VGUARD,2017-12-28 14:41:00,2017-12-27,2017-12-13,2017-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,86134.0,0.02,82134.0,0.02
+VGUARD,2017-12-28 14:41:00,2017-12-26,2017-12-12,2017-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,52876.0,0.01,49876.0,0.01
+VGUARD,2017-12-28 14:41:00,2017-12-26,2017-12-04,2017-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2100.0,0.0,0.0,0.0,0.0,54976.0,0.01,52876.0,0.01
+VGUARD,2018-01-01 11:15:00,2017-12-29,2017-12-22,2017-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,271518.0,0.06,269518.0,0.06
+VGUARD,2018-01-01 11:15:00,2017-12-29,2017-11-15,2017-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,273018.0,0.06,271518.0,0.06
+VGUARD,2018-01-03 17:25:00,2018-01-01,2018-01-01,2018-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,835.0,0.0,0.0,0.0,0.0,10476.0,0.0,9641.0,0.0
+VGUARD,2018-01-04 18:58:00,2018-01-03,2017-12-29,2018-01-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,49876.0,0.01,47876.0,0.01
+VGUARD,2018-01-08 19:51:00,2018-01-05,2018-01-04,2018-01-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1400.0,0.0,900.0,0.0
+VGUARD,2018-01-09 19:02:00,2018-01-05,2018-01-04,2018-01-04,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,41876.0,0.0,0.0,0.0,0.0,10859.0,0.0,52735.0,0.01
+VGUARD,2018-01-22 17:34:00,2018-01-18,2018-01-04,2018-01-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,9000.0,0.0,6000.0,0.0
+VGUARD,2018-01-30 17:08:00,2018-01-30,2018-01-03,2018-01-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,51500.0,0.01,50500.0,0.01
+VGUARD,2018-02-05 16:51:00,2018-02-05,2018-01-30,2018-02-01,Director,Market Sale,Sell,Equity Shares,33000.0,0.0,0.0,0.0,0.0,1178310.0,0.28,1145310.0,0.27
+VGUARD,2018-02-19 17:56:00,2018-02-19,2018-02-16,2018-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,306735.0,0.07,302235.0,0.07
+VGUARD,2018-02-19 17:56:00,2018-02-19,2018-02-19,2018-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,22150.0,0.0,0.0,0.0,0.0,55549.0,0.01,33399.0,0.01
+VGUARD,2018-02-19 17:56:00,2018-02-15,2018-02-14,2018-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,312235.0,0.07,306735.0,0.07
+VGUARD,2018-02-22 15:11:00,2018-02-22,2018-02-21,2018-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,284235.0,0.07,279235.0,0.07
+VGUARD,2018-02-22 15:11:00,2018-02-21,2018-02-20,2018-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9000.0,0.0,0.0,0.0,0.0,293235.0,0.07,284235.0,0.07
+VGUARD,2018-02-22 15:11:00,2018-02-20,2018-02-19,2018-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9000.0,0.0,0.0,0.0,0.0,302235.0,0.07,293235.0,0.07
+VGUARD,2018-02-26 19:24:00,2018-02-26,2018-02-23,2018-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,275235.0,0.07,272735.0,0.06
+VGUARD,2018-02-26 19:24:00,2018-02-22,2018-02-19,2018-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,42000.0,0.0,0.0,0.0,0.0,52735.0,0.01,10735.0,0.0
+VGUARD,2018-02-26 19:24:00,2018-02-23,2018-02-22,2018-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,279235.0,0.07,275235.0,0.07
+VGUARD,2018-02-27 15:23:00,2018-02-26,2018-02-16,2018-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,50411.0,0.0,49411.0,0.0
+VGUARD,2018-02-27 15:23:00,2018-02-26,2018-02-15,2018-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,42376.0,0.01,40376.0,0.01
+VGUARD,2018-02-27 15:23:00,2018-02-26,2018-02-06,2018-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,47376.0,0.01,42376.0,0.01
+VGUARD,2018-02-27 15:23:00,2018-02-26,2018-01-29,2018-02-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,47876.0,0.01,47376.0,0.01
+VGUARD,2018-03-01 18:18:00,2018-02-28,2018-02-26,2018-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,16936.0,0.0,16636.0,0.0
+VGUARD,2018-03-05 16:47:00,2018-03-05,2018-03-01,2018-03-01,Director,Market Sale,Sell,Equity Shares,26999.0,0.0,0.0,0.0,0.0,1145310.0,0.27,1118311.0,0.26
+VGUARD,2018-03-05 16:47:00,2018-03-02,2018-02-28,2018-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,18200.0,0.0,16200.0,0.0
+VGUARD,2018-03-06 18:17:00,2018-03-06,2017-09-05,2017-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,19086.0,0.0,5086.0,0.0
+VGUARD,2018-03-06 18:17:00,2018-03-06,2018-02-14,2018-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3586.0,0.0,586.0,0.0
+VGUARD,2018-03-06 18:17:00,2018-03-05,2018-02-27,2018-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,61846.0,0.01,51846.0,0.01
+VGUARD,2018-03-06 18:17:00,2018-03-06,2018-02-26,2018-03-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5838.0,0.0,4838.0,0.0
+VGUARD,2018-03-06 18:17:00,2018-03-06,2017-10-30,2017-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,5086.0,0.0,3586.0,0.0
+VGUARD,2018-03-06 18:17:00,2018-03-06,2017-08-31,2017-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,25086.0,0.01,19086.0,0.0
+VGUARD,2018-03-06 18:17:00,2018-03-05,2018-02-22,2018-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,24528.0,0.01,22328.0,0.01
+VGUARD,2018-03-06 18:17:00,2018-03-06,2018-02-23,2018-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,55876.0,0.01,55476.0,0.01
+VGUARD,2018-03-06 18:17:00,2018-03-05,2018-03-01,2018-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,271235.0,0.06,270735.0,0.06
+VGUARD,2018-03-06 18:17:00,2018-03-05,2018-02-28,2018-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,272735.0,0.06,271235.0,0.06
+VGUARD,2018-03-06 18:17:00,2018-03-05,2018-02-26,2018-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,40376.0,0.01,39376.0,0.01
+VGUARD,2018-03-08 16:12:00,2018-03-07,2018-02-12,2018-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,141580.0,0.03,141080.0,0.03
+VGUARD,2018-03-09 17:03:00,2018-03-08,2018-02-23,2018-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,82134.0,0.02,80134.0,0.02
+VGUARD,2018-03-09 17:03:00,2018-03-09,2018-03-08,2018-03-08,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1118311.0,0.26,1108311.0,0.26
+VGUARD,2018-03-13 17:52:00,2018-03-13,2018-03-12,2018-03-12,Director,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,1108311.0,0.26,1078311.0,0.25
+VGUARD,2018-03-15 14:35:00,2018-03-15,2018-03-14,2018-03-14,Director,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,1078311.0,0.25,1058311.0,0.25
+VGUARD,2018-03-16 16:55:00,2018-03-16,2018-03-15,2018-03-15,Director,Market Sale,Sell,Equity Shares,78500.0,0.0,0.0,0.0,0.0,1058311.0,0.25,979811.0,0.23
+VGUARD,2018-03-19 18:23:00,2018-03-19,2018-03-13,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,68964.0,0.0,62464.0,0.01
+VGUARD,2018-03-19 18:23:00,2018-03-19,2018-03-16,2018-03-16,Director,Market Sale,Sell,Equity Shares,35000.0,0.0,0.0,0.0,0.0,979811.0,0.23,944811.0,0.22
+VGUARD,2018-03-19 18:23:00,2018-03-19,2018-03-01,2018-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,269518.0,0.06,265518.0,0.06
+VGUARD,2018-03-21 18:46:00,2018-03-20,2018-03-12,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11993.0,0.0,0.0,0.0,0.0,96442.0,0.02,84449.0,0.02
+VGUARD,2018-03-21 18:46:00,2018-03-21,2018-03-13,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,49411.0,0.0,48411.0,0.0
+VGUARD,2018-03-28 15:40:00,2018-03-28,2018-03-12,2018-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,141080.0,0.03,140580.0,0.03
+VGUARD,2018-03-28 15:40:00,2018-03-27,2018-02-21,2018-02-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,157132.0,0.04,156632.0,0.04
+VGUARD,2018-03-28 15:40:00,2018-03-27,2018-02-14,2018-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,157382.0,0.04,157132.0,0.04
+VGUARD,2018-03-28 15:40:00,2018-03-27,2018-03-12,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40294.0,0.0,0.0,0.0,0.0,155632.0,0.04,115338.0,0.03
+VGUARD,2018-03-28 15:40:00,2018-03-27,2018-02-27,2018-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,156632.0,0.04,155632.0,0.04
+VGUARD,2018-04-03 18:34:00,2018-04-03,2018-04-02,2018-04-02,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,944811.0,0.22,894811.0,0.21
+VGUARD,2018-04-04 18:54:00,2018-04-04,2018-04-03,2018-04-03,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,894811.0,0.21,844811.0,0.2
+VGUARD,2018-04-04 18:54:00,2018-04-04,2018-04-03,2018-04-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,22436.0,0.01,16936.0,0.0
+VGUARD,2018-04-05 17:55:00,2018-04-05,2018-04-04,2018-04-04,Director,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,844811.0,0.2,744811.0,0.17
+VGUARD,2018-04-06 15:44:00,2018-04-06,2018-04-04,2018-04-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,38000.0,0.0,0.0,0.0,0.0,76735.0,0.02,38735.0,0.01
+VGUARD,2018-04-06 15:44:00,2018-04-06,2018-04-02,2018-04-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,38259.0,0.01,37259.0,0.01
+VGUARD,2018-04-06 15:44:00,2018-04-06,2018-03-12,2018-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1117.0,0.0,0.0,0.0,0.0,39376.0,0.01,38259.0,0.01
+VGUARD,2018-04-09 17:27:00,2018-04-06,2018-03-28,2018-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15442.0,0.0,0.0,0.0,0.0,40412.0,0.01,24970.0,0.01
+VGUARD,2018-04-30 19:24:00,2018-04-26,2018-04-04,2018-04-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,55476.0,0.01,54476.0,0.01
+VGUARD,2018-06-08 18:50:00,2018-06-08,2018-06-04,2018-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,51952.0,0.01,48952.0,0.01
+VGUARD,2018-06-08 18:50:00,2018-06-08,2018-06-04,2018-06-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,45824.0,0.01,39324.0,0.01
+VGUARD,2018-06-13 18:43:00,2018-06-11,2018-06-05,2018-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,25336.0,0.01,17336.0,0.0
+VGUARD,2018-06-18 20:16:00,2018-06-18,2018-06-11,2018-06-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,39324.0,0.09,37324.0,0.08
+VGUARD,2018-06-18 20:16:00,2018-06-14,2018-06-13,2018-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,68412.0,0.01,65412.0,0.01
+VGUARD,2018-06-21 20:35:00,2018-06-19,2018-06-12,2018-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3800.0,0.0,0.0,0.0,0.0,77952.0,0.02,74152.0,0.02
+VGUARD,2018-06-25 18:25:00,2018-06-22,2018-06-18,2018-06-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,986.0,0.0,0.0,0.0,0.0,17336.0,0.0,16350.0,0.0
+VGUARD,2018-06-25 18:25:00,2018-06-25,2018-06-25,2018-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,65412.0,0.01,63412.0,0.01
+VGUARD,2018-06-25 18:25:00,2018-06-22,2018-06-18,2018-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,30459.0,0.01,20459.0,0.0
+VGUARD,2018-06-27 21:11:00,2018-06-27,2018-06-25,2018-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,54276.0,0.01,54076.0,0.01
+VGUARD,2018-06-27 21:11:00,2018-06-27,2018-06-25,2018-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,63412.0,0.01,62412.0,0.01
+VGUARD,2018-06-29 16:41:00,2018-06-27,2018-06-25,2018-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,147734.0,0.03,140734.0,0.03
+VGUARD,2018-07-04 18:32:00,2018-07-02,2018-06-26,2018-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,48952.0,0.01,44952.0,0.01
+VGUARD,2018-07-09 19:02:00,2018-07-05,2018-07-03,2018-07-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,19071.0,0.0,0.0,0.0,0.0,110780.0,0.03,91709.0,0.02
+VGUARD,2018-08-07 17:47:00,2018-08-07,2018-08-03,2018-08-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,69678.0,0.02,67678.0,0.02
+VGUARD,2018-08-07 17:47:00,2018-08-06,2018-08-03,2018-08-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,52411.0,0.01,51911.0,0.01
+VGUARD,2018-08-10 17:32:00,2018-08-10,2018-08-10,2018-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9100.0,0.0,0.0,0.0,0.0,30049.0,0.01,20949.0,0.05
+VGUARD,2018-08-13 18:32:00,2018-08-13,2018-08-07,2018-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,37324.0,0.01,35324.0,0.01
+VGUARD,2018-08-13 18:32:00,2018-08-10,2018-08-09,2018-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,67678.0,0.02,67178.0,0.02
+VGUARD,2018-08-13 18:32:00,2018-08-10,2018-08-06,2018-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,44952.0,0.01,34952.0,0.01
+VGUARD,2018-08-23 18:04:00,2018-08-22,2018-08-16,2018-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,50324.0,0.01,36324.0,0.01
+VGUARD,2018-08-28 18:49:00,2018-08-24,2018-08-16,2018-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11000.0,0.0,0.0,0.0,0.0,39511.0,0.01,28511.0,0.01
+VGUARD,2018-08-28 18:49:00,2018-08-27,2018-08-23,2018-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,67178.0,0.02,66178.0,0.02
+VGUARD,2018-08-28 18:49:00,2018-08-28,2018-08-27,2018-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,16200.0,0.0,6200.0,0.0
+VGUARD,2018-08-28 18:49:00,2018-08-24,2018-08-17,2018-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,57124.0,0.01,51124.0,0.01
+VGUARD,2018-08-28 18:49:00,2018-08-24,2018-08-14,2018-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9998.0,0.0,0.0,0.0,0.0,67122.0,0.02,57124.0,0.01
+VGUARD,2018-08-28 18:49:00,2018-08-24,2018-08-23,2018-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,140080.0,0.03,139580.0,0.03
+VGUARD,2018-08-28 18:49:00,2018-08-27,2018-08-23,2018-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,51911.0,0.01,50911.0,0.01
+VGUARD,2018-08-31 16:46:00,2018-08-30,2018-08-29,2018-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,66178.0,0.02,63678.0,0.02
+VGUARD,2018-08-31 16:46:00,2018-08-30,2018-08-27,2018-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,12320.0,0.0,6320.0,0.0
+VGUARD,2018-08-31 16:46:00,2018-08-29,2018-08-23,2018-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,22008.0,0.0,0.0,0.0,0.0,89768.0,0.02,67760.0,0.02
+VGUARD,2018-08-31 16:46:00,2018-08-30,2018-08-30,2018-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1170.0,0.0,0.0,0.0,0.0,1170.0,0.0,,0.0
+VGUARD,2018-08-31 16:46:00,2018-08-29,2018-08-22,2018-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,27341.0,0.0,0.0,0.0,0.0,28511.0,0.01,1170.0,0.0
+VGUARD,2018-09-05 19:21:00,2018-09-03,2018-08-30,2018-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,156632.0,0.04,155132.0,0.04
+VGUARD,2018-09-05 19:21:00,2018-09-04,2018-08-31,2018-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,155132.0,0.04,154632.0,0.04
+VGUARD,2018-09-05 19:21:00,2018-09-04,2018-08-23,2018-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,30000.0,0.01,25000.0,0.01
+VGUARD,2018-09-05 19:21:00,2018-09-04,2018-08-28,2018-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,50911.0,0.01,46411.0,0.01
+VGUARD,2018-09-07 16:07:00,2018-09-05,2018-08-27,2018-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6320.0,0.0,0.0,0.0,0.0,6320.0,0.0,,0.0
+VGUARD,2018-09-07 16:07:00,2018-09-06,2018-08-30,2018-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2750.0,0.0,0.0,0.0,0.0,67760.0,0.02,65010.0,0.02
+VGUARD,2018-09-12 19:11:00,2018-09-12,2018-09-12,2018-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,25000.0,0.01,20000.0,0.0
+VGUARD,2018-09-12 19:11:00,2018-09-10,2018-08-20,2018-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,35259.0,0.01,33259.0,0.01
+VGUARD,2018-09-14 15:23:00,2018-09-14,2018-09-11,2018-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,10676.0,0.0,10176.0,0.0
+VGUARD,2018-09-27 18:22:00,2018-09-25,2018-09-18,2018-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,52000.0,0.0,0.0,0.0,0.0,137709.0,0.03,85709.0,0.02
+VGUARD,2018-10-04 18:20:00,2018-10-04,2018-08-29,2018-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,115338.0,0.03,114338.0,0.03
+VGUARD,2018-10-11 18:53:00,2018-10-11,2018-09-21,2018-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,54076.0,0.01,53876.0,0.01
+VGUARD,2018-10-15 17:44:00,2018-10-15,2018-09-26,2018-10-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,13888.0,0.0,13388.0,0.0
+VGUARD,2018-11-05 16:14:00,2018-11-05,2018-10-29,2018-11-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,57498.0,0.13,52498.0,0.012
+VGUARD,2018-11-12 16:25:00,2018-11-12,2018-11-05,2018-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,734.0,0.0,0.0,0.0,0.0,65010.0,0.02,64276.0,0.02
+VGUARD,2018-11-12 16:25:00,2018-11-12,2018-11-05,2018-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,53876.0,0.01,53776.0,0.01
+VGUARD,2018-11-12 16:25:00,2018-11-09,2018-11-05,2018-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,10176.0,0.0,9676.0,0.0
+VGUARD,2018-11-12 16:25:00,2018-11-08,2018-10-31,2018-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,297580.0,0.07,292580.0,0.07
+VGUARD,2018-11-13 17:02:00,2018-11-13,2018-11-07,2018-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,172826.0,0.04,171826.0,0.04
+VGUARD,2018-11-19 18:42:00,2018-11-16,2018-11-15,2018-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,81752.0,0.02,79752.0,0.02
+VGUARD,2018-11-19 18:42:00,2018-11-19,2018-11-13,2018-11-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,52498.0,0.01,47498.0,0.01
+VGUARD,2018-11-19 18:42:00,2018-11-19,2018-11-12,2018-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,53776.0,0.01,53576.0,0.01
+VGUARD,2018-11-20 17:49:00,2018-11-20,2018-11-16,2018-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,47759.0,0.01,47259.0,0.01
+VGUARD,2018-11-26 17:52:00,2018-11-26,2018-11-12,2018-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,64276.0,0.02,64226.0,0.02
+VGUARD,2018-11-26 17:52:00,2018-11-26,2018-11-20,2018-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13498.0,0.0,0.0,0.0,0.0,47498.0,0.01,34000.0,0.01
+VGUARD,2018-11-27 17:50:00,2018-11-27,2018-11-27,2018-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,84918.0,0.02,82518.0,0.02
+VGUARD,2018-11-29 18:27:00,2018-11-29,2018-11-27,2018-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,16000.0,0.0,0.0,0.0,0.0,171826.0,0.04,155826.0,0.04
+VGUARD,2018-11-30 17:38:00,2018-11-30,2018-11-28,2018-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,139580.0,0.03,138080.0,0.03
+VGUARD,2018-11-30 17:38:00,2018-11-30,2018-11-29,2018-11-29,Key Managerial Personnel,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,15460.0,0.0,2960.0,0.0
+VGUARD,2018-11-30 17:38:00,2018-11-30,2018-11-29,2018-11-29,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1004220.0,0.24,999220.0,0.02
+VGUARD,2018-12-03 19:08:00,2018-12-01,2018-11-30,2018-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,160244.0,0.04,159494.0,0.04
+VGUARD,2018-12-03 19:08:00,2018-11-30,2018-11-28,2018-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,47259.0,0.01,46759.0,0.01
+VGUARD,2018-12-05 19:32:00,2018-12-04,2018-12-03,2018-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,159494.0,0.04,159244.0,0.04
+VGUARD,2018-12-05 19:32:00,2018-12-04,2018-12-03,2018-12-03,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,999220.0,0.23,994220.0,0.23
+VGUARD,2018-12-05 19:32:00,2018-12-04,2018-11-29,2018-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11510.0,0.0,0.0,0.0,0.0,52910.0,0.01,41400.0,0.01
+VGUARD,2018-12-05 19:32:00,2018-12-04,2018-11-28,2018-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,34000.0,0.0,0.0,0.0,0.0,34000.0,0.01,,0.0
+VGUARD,2018-12-05 19:32:00,2018-12-05,2018-12-04,2018-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,16000.0,0.0,13500.0,0.0
+VGUARD,2018-12-07 18:53:00,2018-12-06,2018-12-05,2018-12-05,Director,Market Sale,Sell,Equity Shares,335000.0,0.0,0.0,0.0,0.0,79343252.0,18.59,79008252.0,18.51
+VGUARD,2018-12-07 18:53:00,2018-12-07,2018-11-29,2018-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,53776.0,0.01,53276.0,0.01
+VGUARD,2018-12-07 18:53:00,2018-12-06,2018-12-05,2018-12-05,Director,Market Purchase,Buy,Equity Shares,335000.0,0.0,0.0,0.0,0.0,71551452.0,16.76,71886452.0,16.84
+VGUARD,2018-12-10 18:49:00,2018-12-07,2018-12-05,2018-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3490.0,0.0,0.0,0.0,0.0,41400.0,0.01,37910.0,0.01
+VGUARD,2018-12-10 18:49:00,2018-12-07,2018-12-05,2018-12-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,46759.0,0.01,45759.0,0.01
+VGUARD,2018-12-12 19:15:00,2018-12-12,2018-12-10,2018-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9000.0,0.0,0.0,0.0,0.0,37910.0,0.0,28910.0,0.0
+VGUARD,2018-12-12 19:15:00,2018-12-11,2018-11-29,2018-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,64226.0,0.01,63476.0,0.01
+VGUARD,2018-12-12 19:15:00,2018-12-12,2018-12-11,2018-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,45759.0,0.01,45259.0,0.01
+VGUARD,2018-12-12 19:15:00,2018-12-11,2018-12-01,2018-12-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5895.0,0.0,4895.0,0.0
+VGUARD,2018-12-12 19:15:00,2018-12-11,2018-12-11,2018-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,17315.0,0.0,0.0,0.0,0.0,82518.0,0.01,65203.0,0.01
+VGUARD,2018-12-14 16:39:00,2018-12-13,2018-12-06,2018-12-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9676.0,0.0,8676.0,0.0
+VGUARD,2018-12-18 18:47:00,2018-12-18,2018-12-11,2018-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,13916.0,0.0,13816.0,0.0
+VGUARD,2018-12-18 18:47:00,2018-12-17,2018-12-12,2018-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,28910.0,0.01,25410.0,0.01
+VGUARD,2018-12-18 18:47:00,2018-12-17,2018-12-12,2018-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,64226.0,0.02,62976.0,0.01
+VGUARD,2018-12-20 19:13:00,2018-12-19,2018-12-12,2018-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,53276.0,0.01,52276.0,0.01
+VGUARD,2018-12-20 19:13:00,2018-12-19,2018-12-18,2018-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,87422.0,0.02,85922.0,0.02
+VGUARD,2018-12-20 19:13:00,2018-12-19,2018-12-14,2018-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,47120.0,0.01,37120.0,0.01
+VGUARD,2018-12-20 19:13:00,2018-12-19,2018-12-18,2018-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,13500.0,0.0,10000.0,0.0
+VGUARD,2018-12-20 19:13:00,2018-12-19,2018-12-12,2018-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,45259.0,0.01,42759.0,0.01
+VGUARD,2018-12-21 18:59:00,2018-12-20,2018-12-13,2018-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,114338.0,0.03,108338.0,0.03
+VGUARD,2018-12-21 18:59:00,2018-12-21,2018-12-20,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14200.0,0.0,0.0,0.0,0.0,79019.0,0.01,64819.0,0.01
+VGUARD,2018-12-21 18:59:00,2018-12-21,2018-12-20,2018-12-20,Key Managerial Personnel,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,63678.0,0.01,60678.0,0.01
+VGUARD,2018-12-24 13:20:00,2018-12-24,2018-12-12,2018-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4895.0,0.0,895.0,0.0
+VGUARD,2018-12-24 13:20:00,2018-12-21,2018-12-20,2018-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15700.0,0.0,0.0,0.0,0.0,109449.0,0.03,93749.0,0.02
+VGUARD,2018-12-24 13:20:00,2018-12-21,2018-12-19,2018-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,244.0,0.0,0.0,0.0,0.0,159244.0,0.04,159000.0,0.04
+VGUARD,2018-12-26 18:42:00,2018-12-26,2018-12-24,2018-12-24,Promoter Group,Gift,Sell,Equity Shares,18525250.0,0.0,0.0,0.0,0.0,55575758.0,13.02,37050508.0,8.68
+VGUARD,2018-12-26 18:42:00,2018-12-24,2018-12-13,2018-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,39139.0,0.01,38639.0,0.01
+VGUARD,2018-12-26 18:42:00,2018-12-26,2018-12-19,2018-12-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,52276.0,0.01,50776.0,0.01
+VGUARD,2018-12-26 18:42:00,2018-12-26,2018-12-24,2018-12-24,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,60678.0,0.01,59678.0,0.01
+VGUARD,2018-12-26 18:42:00,2018-12-26,2018-12-24,2018-12-24,Promoter Group,Gift,Buy,Equity Shares,18525250.0,0.0,0.0,0.0,0.0,,0.0,18525250.0,4.34
+VGUARD,2018-12-26 18:42:00,2018-12-26,2018-12-18,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4650.0,0.0,0.0,0.0,0.0,62976.0,0.01,58326.0,0.01
+VGUARD,2018-12-27 18:48:00,2018-12-26,2018-12-19,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,287735.0,0.07,285535.0,0.07
+VGUARD,2018-12-27 18:48:00,2018-12-27,2018-12-20,2018-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2250.0,0.0,0.0,0.0,0.0,42759.0,0.01,40509.0,0.01
+VGUARD,2018-12-27 18:48:00,2018-12-27,2018-12-26,2018-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,50776.0,0.01,45776.0,0.01
+VGUARD,2018-12-27 18:48:00,2018-12-27,2018-12-21,2018-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,138080.0,0.03,137580.0,0.03
+VGUARD,2018-12-27 18:48:00,2018-12-26,2018-12-20,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,159000.0,0.03,158000.0,0.03
+VGUARD,2019-01-01 17:56:00,2019-01-01,2018-12-28,2018-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,155826.0,0.03,145826.0,0.03
+VGUARD,2019-01-01 17:56:00,2019-01-01,2018-01-24,2018-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,895.0,0.0,0.0,0.0,0.0,895.0,0.0,,0.0
+VGUARD,2019-01-03 18:38:00,2019-01-03,2018-12-27,2019-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,158000.0,0.04,154000.0,0.04
+VGUARD,2019-01-03 18:38:00,2019-01-02,2018-12-26,2019-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10700.0,0.0,0.0,0.0,0.0,58326.0,0.01,47626.0,0.01
+VGUARD,2019-01-03 18:38:00,2019-01-02,2018-12-26,2019-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,271235.0,0.06,270235.0,0.06
+VGUARD,2019-01-03 18:38:00,2019-01-02,2019-01-01,2019-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,145826.0,0.03,133826.0,0.03
+VGUARD,2019-01-08 17:14:00,2019-01-04,2019-01-04,2019-01-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,106814.0,0.03,101814.0,0.02
+VGUARD,2019-01-08 17:14:00,2019-01-04,2018-12-27,2019-01-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,79444.0,0.02,73444.0,0.02
+VGUARD,2019-02-14 16:39:00,2019-02-12,2019-02-04,2019-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,8676.0,0.0,7576.0,0.0
+VGUARD,2019-02-14 16:39:00,2019-02-14,2019-02-06,2019-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,65033.0,0.02,62033.0,0.01
+VGUARD,2019-02-28 16:20:00,2019-02-28,2019-02-27,2019-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,60033.0,0.01,50033.0,0.01
+VGUARD,2019-02-28 16:20:00,2019-02-26,2019-02-18,2019-02-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,62033.0,0.01,60033.0,0.01
+VGUARD,2019-03-05 12:18:00,2019-03-04,2019-02-15,2019-02-15,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,600.0,0.0,0.0,0.0,0.0,7576.0,0.0,7576.0,0.0
+VGUARD,2019-03-07 16:04:00,2019-03-07,2019-02-28,2019-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,137580.0,0.03,132580.0,0.03
+VGUARD,2019-03-11 16:30:00,2019-03-11,2019-03-01,2019-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,50033.0,0.01,40033.0,0.01
+VGUARD,2019-03-11 16:30:00,2019-03-11,2019-03-01,2019-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,63862.0,0.01,61362.0,0.01
+VGUARD,2019-03-14 15:52:00,2019-03-14,2019-03-11,2019-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,38639.0,0.01,36639.0,0.01
+VGUARD,2019-03-14 15:52:00,2019-03-12,2019-03-05,2019-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2950.0,0.0,0.0,0.0,0.0,47626.0,0.01,44676.0,0.01
+VGUARD,2019-03-14 15:52:00,2019-03-13,2019-03-11,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,61362.0,0.01,60362.0,0.01
+VGUARD,2019-03-14 15:52:00,2019-03-12,2019-03-04,2019-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5895.0,0.0,0.0,0.0,0.0,5895.0,0.0,,0.0
+VGUARD,2019-03-16 12:39:00,2019-03-15,2019-03-08,2019-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,132580.0,0.03,128080.0,0.03
+VGUARD,2019-03-16 12:39:00,2019-03-15,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5900.0,0.0,0.0,0.0,0.0,85922.0,0.02,80022.0,0.02
+VGUARD,2019-03-19 17:23:00,2019-03-19,2019-03-12,2019-03-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,44676.0,0.01,44076.0,0.01
+VGUARD,2019-03-26 17:42:00,2019-03-26,2019-03-19,2019-03-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,44076.0,0.01,43676.0,0.01
+VGUARD,2019-03-26 17:42:00,2019-03-26,2019-03-22,2019-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,36639.0,0.01,35639.0,0.01
+VGUARD,2019-03-26 17:42:00,2019-03-25,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,12320.0,0.0,10320.0,0.0
+VGUARD,2019-03-26 17:42:00,2019-03-25,2019-03-19,2019-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,45576.0,0.01,45376.0,0.01
+VGUARD,2019-03-26 17:42:00,2019-03-26,2019-03-20,2019-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,40509.0,0.01,38509.0,0.01
+VGUARD,2019-03-28 18:52:00,2019-03-28,2019-03-28,2019-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,75792.0,0.02,74792.0,0.02
+VGUARD,2019-03-28 18:52:00,2019-03-26,2019-03-12,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3436.0,0.0,0.0,0.0,0.0,108936.0,0.03,105500.0,0.03
+VGUARD,2019-03-28 18:52:00,2019-03-26,2019-03-05,2019-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,108338.0,0.03,105338.0,0.03
+VGUARD,2019-03-28 18:52:00,2019-03-26,2019-03-11,2019-03-11,Employees/Designated Employees,Market Sale,Buy,Equity Shares,3718.0,0.0,0.0,0.0,0.0,105338.0,0.03,109056.0,0.03
+VGUARD,2019-03-28 18:52:00,2019-03-26,2019-03-11,2019-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,120.0,0.0,0.0,0.0,0.0,109056.0,0.03,108936.0,0.03
+VGUARD,2019-03-30 13:28:00,2019-03-28,2019-03-27,2019-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,35639.0,0.01,34639.0,0.01
+VGUARD,2019-03-30 13:28:00,2019-03-29,2019-03-27,2019-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,38509.0,0.01,36509.0,0.01
+VGUARD,2019-03-30 13:28:00,2019-03-29,2019-03-28,2019-03-28,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,984220.0,0.23,979220.0,0.23
+VGUARD,2019-03-30 13:28:00,2019-03-28,2019-03-27,2019-03-27,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,994220.0,0.23,984220.0,0.23
+VGUARD,2019-04-03 12:33:00,2019-04-01,2019-03-28,2019-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1330.0,0.0,0.0,0.0,0.0,75843.0,0.02,74513.0,0.02
+VGUARD,2019-04-03 12:33:00,2019-04-01,2019-03-28,2019-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,156808.0,0.04,154308.0,0.04
+VGUARD,2019-04-03 12:33:00,2019-04-01,2019-03-29,2019-03-29,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,979220.0,0.23,969220.0,0.23
+VGUARD,2019-04-05 19:10:00,2019-04-03,2019-03-27,2019-04-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2994.0,0.0,0.0,0.0,0.0,43676.0,0.01,40682.0,0.01
+VGUARD,2019-04-05 19:10:00,2019-04-05,2019-03-28,2019-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,40033.0,0.01,35033.0,0.01
+VGUARD,2019-06-05 17:52:00,2019-06-04,2019-06-04,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,80952.0,0.02,79952.0,0.02
+VGUARD,2019-06-06 19:40:00,2019-06-06,2019-06-04,2019-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,13916.0,0.0,11916.0,0.0
+VGUARD,2019-06-06 19:40:00,2019-06-04,2019-06-04,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,87116.0,0.02,85116.0,0.02
+VGUARD,2019-06-06 19:40:00,2019-06-06,2019-06-03,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13000.0,0.0,0.0,0.0,0.0,156000.0,0.04,143000.0,0.03
+VGUARD,2019-06-06 19:40:00,2019-06-06,2019-06-03,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,42176.0,0.01,41826.0,0.01
+VGUARD,2019-06-06 19:40:00,2019-06-06,2019-06-03,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,64819.0,0.01,49819.0,0.01
+VGUARD,2019-06-10 18:03:00,2019-06-06,2019-06-03,2019-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,71270.0,0.02,64270.0,0.02
+VGUARD,2019-06-10 18:03:00,2019-06-07,2019-06-03,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,60362.0,0.01,57362.0,0.01
+VGUARD,2019-06-10 18:03:00,2019-06-07,2019-06-06,2019-06-07,Other,Market Sale,Sell,Equity Shares,131000.0,0.0,0.0,0.0,0.0,4311338.0,1.01,4180338.0,0.97
+VGUARD,2019-06-10 18:03:00,2019-06-06,2019-06-04,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,12040.0,0.0,40.0,0.0
+VGUARD,2019-06-10 18:03:00,2019-06-07,2019-06-07,2019-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8400.0,0.0,0.0,0.0,0.0,41826.0,0.01,33426.0,0.01
+VGUARD,2019-06-10 18:03:00,2019-06-06,2019-06-04,2019-06-04,Employees/Designated Employees,Gift,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,49819.0,0.01,46819.0,0.01
+VGUARD,2019-06-12 17:13:00,2019-06-11,2019-06-06,2019-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3300.0,0.0,0.0,0.0,0.0,73444.0,0.02,70144.0,0.02
+VGUARD,2019-06-14 17:38:00,2019-06-13,2019-06-06,2019-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,438.0,0.0,0.0,0.0,0.0,7576.0,0.0,7138.0,0.0
+VGUARD,2019-06-14 17:38:00,2019-06-13,2019-06-12,2019-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,33426.0,0.01,32826.0,0.01
+VGUARD,2019-06-14 17:38:00,2019-06-13,2019-06-11,2019-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5320.0,0.0,320.0,0.0
+VGUARD,2019-06-17 18:32:00,2019-06-17,2019-06-14,2019-06-14,Key Managerial Personnel,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,40667.0,0.01,20667.0,0.0
+VGUARD,2019-06-17 18:32:00,2019-06-17,2019-06-13,2019-06-14,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1011220.0,0.24,1001220.0,0.23
+VGUARD,2019-06-17 18:32:00,2019-06-14,2019-06-14,2019-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,10000.0,0.0,6000.0,0.0
+VGUARD,2019-06-19 18:52:00,2019-06-17,2019-06-14,2019-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,262.0,0.0,0.0,0.0,0.0,7138.0,0.0,6876.0,0.0
+VGUARD,2019-06-19 18:52:00,2019-06-19,2019-06-17,2019-06-17,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1001220.0,0.23,996220.0,0.23
+VGUARD,2019-06-21 17:57:00,2019-06-21,2019-06-20,2019-06-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,22944.0,0.01,17444.0,0.0
+VGUARD,2019-06-28 18:08:00,2019-06-27,2019-06-26,2019-06-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,17744.0,0.0,9744.0,0.0
+VGUARD,2019-06-28 18:08:00,2019-06-28,2019-06-27,2019-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,133080.0,0.03,131080.0,0.03
+VGUARD,2019-06-28 18:08:00,2019-06-28,2019-06-27,2019-06-27,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,996220.0,0.23,991220.0,0.23
+VGUARD,2019-06-28 18:08:00,2019-06-27,2019-06-26,2019-06-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,143000.0,0.03,142000.0,0.03
+VGUARD,2019-06-28 18:08:00,2019-06-27,2019-06-27,2019-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10600.0,0.0,0.0,0.0,0.0,101814.0,0.02,91214.0,0.02
+VGUARD,2019-07-01 16:30:00,2019-06-27,2019-06-26,2019-06-26,Other,Market Sale,Sell,Equity Shares,86000.0,0.0,0.0,0.0,0.0,4180338.0,0.98,4094338.0,0.96
+VGUARD,2019-07-01 16:30:00,2019-06-27,2019-06-25,2019-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,105500.0,0.02,100500.0,0.02
+VGUARD,2019-07-03 11:37:00,2019-07-02,2019-06-27,2019-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11900.0,0.0,0.0,0.0,0.0,93749.0,0.02,81849.0,0.02
+VGUARD,2019-08-08 18:21:00,2019-08-07,2019-08-02,2019-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,32826.0,0.07,32426.0,0.07
+VGUARD,2019-08-09 16:39:00,2019-08-09,2019-08-06,2019-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,32426.0,0.01,30626.0,0.01
+VGUARD,2019-08-09 16:39:00,2019-08-08,2019-08-06,2019-08-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1350.0,0.0,0.0,0.0,0.0,24076.0,0.01,22726.0,0.01
+VGUARD,2019-08-16 16:31:00,2019-08-14,2019-08-14,2019-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,20000.0,0.0,17500.0,0.0
+VGUARD,2019-08-16 16:31:00,2019-08-14,2019-08-14,2019-08-14,Key Managerial Personnel,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,20667.0,0.0,667.0,0.0
+VGUARD,2019-08-19 13:39:00,2019-08-18,2019-08-16,2019-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,17500.0,0.0,15000.0,0.0
+VGUARD,2019-08-19 13:39:00,2019-08-16,2019-08-16,2019-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6300.0,0.0,0.0,0.0,0.0,30626.0,0.01,24326.0,0.01
+VGUARD,2019-08-22 12:26:00,2019-08-20,2019-08-19,2019-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,145000.0,0.03,142000.0,0.03
+VGUARD,2019-08-22 12:26:00,2019-08-21,2019-08-19,2019-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3100.0,0.0,0.0,0.0,0.0,24326.0,0.01,21226.0,0.0
+VGUARD,2019-08-22 12:26:00,2019-08-20,2019-08-19,2019-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,15000.0,0.0,12500.0,0.0
+VGUARD,2019-08-23 15:56:00,2019-08-22,2019-08-22,2019-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,21226.0,0.0,20626.0,0.0
+VGUARD,2019-08-23 15:56:00,2019-08-21,2019-08-19,2019-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10562.0,0.0,0.0,0.0,0.0,46819.0,0.01,36257.0,0.01
+VGUARD,2019-08-23 15:56:00,2019-08-22,2019-08-22,2019-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4854.0,0.0,0.0,0.0,0.0,20626.0,0.0,15772.0,0.0
+VGUARD,2019-08-29 18:00:00,2019-08-27,2019-08-26,2019-08-26,Director,Market Purchase,Buy,Equity Shares,230000.0,0.0,0.0,0.0,0.0,71886452.0,16.82,72116452.0,16.87
+VGUARD,2019-08-29 18:00:00,2019-08-27,2019-08-26,2019-08-26,Director,Market Sale,Sell,Equity Shares,230000.0,0.0,0.0,0.0,0.0,79008252.0,18.48,78778252.0,18.43
+VGUARD,2019-08-30 18:29:00,2019-08-30,2019-08-27,2019-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,284535.0,0.07,282535.0,0.07
+VGUARD,2019-08-30 18:29:00,2019-08-30,2019-08-26,2019-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,12717.0,0.0,10717.0,0.0
+VGUARD,2019-08-30 18:29:00,2019-08-30,2019-08-30,2019-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,12500.0,0.0,7500.0,0.0
+VGUARD,2019-09-03 17:53:00,2019-09-02,2019-08-30,2019-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,36257.0,0.01,34257.0,0.01
+VGUARD,2019-09-03 17:53:00,2019-09-02,2019-08-30,2019-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,19181.0,0.0,13681.0,0.0
+VGUARD,2019-09-03 17:53:00,2019-08-30,2019-08-30,2019-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,142000.0,0.03,141000.0,0.03
+VGUARD,2019-09-06 18:20:00,2019-09-05,2019-09-03,2019-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,34257.0,0.01,32257.0,0.01
+VGUARD,2019-09-06 18:20:00,2019-09-06,2019-09-03,2019-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,282535.0,0.01,282035.0,0.07
+VGUARD,2019-09-06 18:20:00,2019-09-05,2019-09-04,2019-09-04,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,1159220.0,0.27,1156220.0,0.27
+VGUARD,2019-09-20 17:32:00,2019-09-19,2019-09-17,2019-09-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1592.0,0.0,0.0,0.0,0.0,121632.0,0.03,120040.0,0.03
+VGUARD,2019-09-23 18:17:00,2019-09-20,2019-09-20,2019-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7408.0,0.0,0.0,0.0,0.0,120040.0,0.03,112632.0,0.03
+VGUARD,2019-09-26 16:34:00,2019-09-26,2019-09-24,2019-09-24,Director,Market Sale,Sell,Equity Shares,1154661.0,0.0,0.0,0.0,0.0,1156220.0,0.27,1559.0,0.27
+VGUARD,2019-09-30 16:52:00,2019-09-27,2019-09-27,2019-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9500.0,0.0,0.0,0.0,0.0,15772.0,0.0,6272.0,0.0
+VGUARD,2019-09-30 16:52:00,2019-09-27,2019-09-26,2019-09-26,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1154661.0,0.27,1144661.0,0.27
+VGUARD,2019-09-30 16:52:00,2019-09-27,2019-09-24,2019-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,282035.0,0.07,280785.0,0.07
+VGUARD,2019-09-30 16:52:00,2019-09-30,2019-09-27,2019-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,67210.0,0.02,65210.0,0.02
+VGUARD,2019-09-30 16:52:00,2019-09-30,2019-09-27,2019-09-27,Director,Market Sale,Sell,Equity Shares,13000.0,0.0,0.0,0.0,0.0,1144661.0,0.27,1131661.0,0.26
+VGUARD,2019-09-30 16:52:00,2019-09-30,2019-09-27,2019-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,75954.0,0.02,69454.0,0.02
+VGUARD,2019-10-01 16:04:00,2019-09-30,2019-09-27,2019-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1420.0,0.0,0.0,0.0,0.0,5413.0,0.0,3993.0,0.0
+VGUARD,2019-10-01 16:04:00,2019-10-01,2019-09-24,2019-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,135628.0,0.03,131628.0,0.03
+VGUARD,2019-10-03 17:00:00,2019-10-01,2019-09-30,2019-09-30,Director,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,1131661.0,0.26,1111661.0,0.26
+VGUARD,2019-11-05 18:25:00,2019-11-01,2019-10-30,2019-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5890.0,0.0,0.0,0.0,0.0,5898.0,0.0,8.0,0.0
+VGUARD,2019-11-18 18:05:00,2019-11-15,2019-11-14,2019-11-15,Promoters,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,25000.0,0.01,23000.0,0.01
+VGUARD,2019-11-18 18:05:00,2019-11-18,2019-11-12,2019-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,280785.0,0.07,279785.0,0.07
+VGUARD,2019-11-19 15:42:00,2019-11-15,2019-11-13,2019-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,265518.0,0.06,255518.0,0.05
+VGUARD,2019-11-26 16:00:00,2019-11-26,2019-11-25,2019-11-25,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1111661.0,0.26,1106661.0,0.26
+VGUARD,2019-11-29 15:53:00,2019-11-29,2019-11-27,2019-11-28,Director,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,1106661.0,0.26,1091661.0,0.26
+VGUARD,2019-12-02 18:34:00,2019-12-02,2019-11-29,2019-11-29,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,17129.0,0.0,12129.0,0.0
+VGUARD,2019-12-02 18:34:00,2019-12-02,2019-11-28,2019-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,279785.0,0.07,278785.0,0.07
+VGUARD,2019-12-02 18:34:00,2019-11-29,2019-11-26,2019-11-27,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,27129.0,0.01,17129.0,0.0
+VGUARD,2019-12-06 17:33:00,2019-12-05,2019-12-03,2019-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,23000.0,0.0,20000.0,0.0
+VGUARD,2019-12-06 17:33:00,2019-12-06,2019-12-04,2019-12-04,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,12129.0,0.0,2129.0,0.0
+VGUARD,2019-12-11 15:22:00,2019-12-11,2019-12-10,2019-12-10,Promoters,Market Sale,Sell,Equity Shares,5120288.0,0.0,0.0,0.0,0.0,78778252.0,18.42,73657964.0,17.22
+VGUARD,2019-12-13 18:36:00,2019-12-12,2019-06-10,2019-06-10,Immediate relative,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,4180338.0,0.98,4080338.0,0.96
+VGUARD,2019-12-13 18:37:00,2019-12-12,2019-06-26,2019-06-26,Immediate relative,Market Sale,Sell,Equity Shares,86000.0,0.0,0.0,0.0,0.0,4080338.0,0.96,3994338.0,0.94
+VGUARD,2019-12-19 17:41:00,2019-12-19,2019-12-18,2019-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1091661.0,0.25,1081661.0,0.25
+VGUARD,2019-12-24 17:23:00,2019-12-23,2019-12-19,2019-12-20,Director,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,1081661.0,0.25,1061661.0,0.25
+VGUARD,2019-12-27 18:13:00,2019-12-26,2019-12-24,2019-12-24,Director,Market Sale,Sell,Equity Shares,34730.0,0.0,0.0,0.0,0.0,1061661.0,0.25,1026931.0,0.24
+VGUARD,2019-12-27 18:13:00,2019-12-27,2019-12-27,2019-12-27,Promoters,Inter-se-Transfer,Sell,Equity Shares,35553376.0,0.0,0.0,0.0,0.0,46484578.0,10.87,10931202.0,2.56
+VGUARD,2019-12-27 18:13:00,2019-12-27,2019-12-27,2019-12-27,Promoters,Inter-se-Transfer,Buy,Equity Shares,35553376.0,0.0,0.0,0.0,0.0,72116452.0,16.86,107669828.0,25.18
+VGUARD,2020-01-01 17:17:00,2020-01-01,2019-12-31,2019-12-31,Director,Off Market,Sell,Equity Shares,649400.0,0.0,0.0,0.0,0.0,1026931.0,0.24,377531.0,0.09
+VGUARD,2020-02-07 17:50:00,2020-02-05,2020-02-04,2020-02-04,Employees/Designated Employees,Off Market,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,73076.0,0.02,63076.0,0.01
+VGUARD,2020-02-11 16:42:00,2020-02-07,2020-02-03,2020-02-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,290546.0,0.07,289646.0,0.07
+VGUARD,2020-02-24 18:42:00,2020-02-20,2020-02-20,2020-02-20,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,20.0,0.0,0.0,0.0,0.0,80.0,0.0,100.0,0.0
+VGUARD,2020-02-27 17:42:00,2020-02-25,2020-02-19,2020-02-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,289646.0,0.07,286646.0,0.07
+VGUARD,2020-02-27 17:42:00,2020-02-27,2020-02-26,2020-02-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,286646.0,0.07,276646.0,0.06
+VGUARD,2020-02-28 19:23:00,2020-02-28,2020-02-27,2020-02-27,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,23835.0,0.0,13835.0,0.0
+VGUARD,2020-02-28 19:23:00,2020-02-28,2020-02-20,2020-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,22726.0,0.0,21726.0,0.0
+VGUARD,2020-02-28 19:23:00,2020-02-27,2020-02-25,2020-02-25,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,28835.0,0.0,23835.0,0.0
+VGUARD,2020-03-04 18:37:00,2020-03-03,2020-03-02,2020-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,23240.0,0.01,20240.0,0.0
+VGUARD,2020-03-04 18:37:00,2020-03-02,2020-02-28,2020-02-28,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,72742.0,0.02,67742.0,0.02
+VGUARD,2020-03-13 16:26:00,2020-03-13,2020-03-12,2020-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,13899.0,0.0,6899.0,0.0
+VGUARD,2020-03-16 12:23:00,2020-03-13,2020-03-12,2020-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,20240.0,0.0,15240.0,0.0
+VGUARD,2020-03-18 16:48:00,2020-03-18,2020-03-17,2020-03-17,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,650662.0,0.15,600662.0,0.14
+VGUARD,2020-03-19 19:37:00,2020-03-18,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,15240.0,0.0,12240.0,0.0
+VGUARD,2020-03-19 19:37:00,2020-03-19,2020-03-18,2020-03-18,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,600662.0,0.14,590662.0,0.0
+VGUARD,2020-03-20 19:57:00,2020-03-20,2020-03-18,2020-03-19,Promoter Group,Market Purchase,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,107669828.0,25.13,107673828.0,25.14
+VGUARD,2020-03-20 19:57:00,2020-03-19,2020-03-17,2020-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,548.0,0.0,0.0,0.0,0.0,17816.0,0.0,17268.0,0.0
+VGUARD,2020-03-20 19:57:00,2020-03-20,2020-03-19,2020-03-20,Key Managerial Personnel,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,590662.0,0.14,550662.0,0.14
+VGUARD,2020-03-23 19:20:00,2020-03-19,2020-03-18,2020-03-18,Other,Market Purchase,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3994338.0,0.93,3996338.0,0.93
+VGUARD,2020-03-24 19:36:00,2020-03-24,2020-03-23,2020-03-23,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,550662.0,0.13,540662.0,0.13
+VGUARD,2020-03-24 19:36:00,2020-03-24,2020-03-23,2020-03-23,Promoter Group,Market Purchase,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,107673828.0,25.14,107675828.0,25.14
+VGUARD,2020-03-25 20:03:00,2020-03-24,2020-03-24,2020-03-24,Director,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,540662.0,0.13,520662.0,0.12
+VGUARD,2020-03-25 20:03:00,2020-03-24,2020-03-24,2020-03-24,Director,Market Purchase,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,107675828.0,25.14,107677828.0,25.14
+VGUARD,2020-03-27 13:56:00,2020-03-27,2020-03-25,2020-03-26,Director,Market Sale,Sell,Equity Shares,48000.0,0.0,0.0,0.0,0.0,520662.0,0.12,472662.0,0.11
+VGUARD,2020-03-27 13:56:00,2020-03-27,2020-03-25,2020-03-26,Promoter Group,Market Purchase,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,107677828.0,25.14,107681828.0,25.14
+VGUARD,2020-03-27 15:33:00,2020-03-27,2020-03-23,2020-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,12326.0,0.0,7326.0,0.0
+VGUARD,2020-03-31 20:00:00,2020-03-31,2020-03-30,2020-03-30,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,472662.0,0.11,422662.0,0.09
+VGUARD,2020-03-31 20:00:00,2020-03-30,2020-03-27,2020-03-27,Promoters,Market Purchase,Buy,Equity Shares,4450.0,0.0,0.0,0.0,0.0,107681828.0,25.14,107686278.0,25.14
+VGUARD,2020-04-03 19:07:00,2020-04-01,2020-03-31,2020-03-31,Other,Market Purchase,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,3996338.0,0.93,4004338.0,0.93
+VGUARD,2020-06-09 15:28:00,2020-06-08,2020-06-05,2020-06-08,Key Managerial Personnel,Market Sale,Sell,Equity Shares,13192.0,0.0,0.0,0.0,0.0,29297.0,0.01,16105.0,0.0
+VGUARD,2020-06-09 15:28:00,2020-06-09,2020-06-08,2020-06-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,7326.0,0.0,2326.0,0.0
+VGUARD,2020-06-12 19:28:00,2020-06-12,2020-06-12,2020-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12240.0,0.0,11240.0,0.0
+VGUARD,2020-06-16 18:57:00,2020-06-16,2020-06-16,2020-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,11240.0,0.0,7240.0,0.0
+VGUARD,2020-06-17 15:15:00,2020-06-16,2020-06-16,2020-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,50200.0,0.01,49200.0,0.01
+VGUARD,2020-06-22 12:06:00,2020-06-19,2020-06-17,2020-06-17,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,16105.0,0.0,11105.0,0.0
+VGUARD,2020-06-23 10:59:00,2020-06-23,2020-06-22,2020-06-22,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,11105.0,0.0,1105.0,0.0
+VGUARD,2020-07-01 19:19:00,2020-06-30,2020-06-24,2020-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,340216.0,0.08,338216.0,0.08
+VGUARD,2020-08-07 19:24:00,2020-08-05,2020-08-03,2020-08-03,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2.0,0.0,0.0,0.0,0.0,,0.0,2.0,0.0
+VGUARD,2020-08-20 15:52:00,2020-08-19,2020-08-19,2020-08-19,Director,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,107686278.0,25.13,107686778.0,25.13
+VGUARD,2020-08-24 14:05:00,2020-08-20,2020-08-20,2020-08-20,Director,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,107686778.0,25.13,107687278.0,25.13
+VGUARD,2020-09-14 13:22:00,2020-09-14,2020-09-11,2020-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,112632.0,0.03,107632.0,0.03
+VGUARD,2020-09-16 17:45:00,2020-09-15,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,530.0,0.0,0.0,0.0,0.0,101162.0,0.02,100632.0,0.02
+VGUARD,2020-09-16 17:45:00,2020-09-15,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6470.0,0.0,0.0,0.0,0.0,107632.0,0.03,101162.0,0.02
+VGUARD,2020-10-05 18:51:00,2020-10-01,2020-09-30,2020-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,51700.0,0.01,50700.0,0.01
+VGUARD,2020-11-09 12:45:00,2020-11-06,2020-11-02,2020-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,288785.0,0.07,286385.0,0.07
+VGUARD,2020-11-16 15:47:00,2020-11-16,2020-11-13,2020-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,286385.0,0.07,284385.0,0.07
+VGUARD,2020-11-19 16:10:00,2020-11-19,2020-11-17,2020-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,297385.0,0.07,296785.0,0.07
+VGUARD,2020-11-20 17:30:00,2020-11-20,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,295985.0,0.07,294985.0,0.07
+VGUARD,2020-11-20 17:30:00,2020-11-20,2020-11-19,2020-11-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,296785.0,0.07,295985.0,0.07
+VGUARD,2020-11-20 17:31:00,2020-11-20,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,295985.0,0.07,294985.0,0.07
+VGUARD,2020-11-20 17:31:00,2020-11-20,2020-11-19,2020-11-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,296785.0,0.07,295985.0,0.07
+VGUARD,2020-11-23 14:25:00,2020-11-21,2020-11-19,2020-11-20,Other,Market Sale,Sell,Equity Shares,114000.0,0.0,0.0,0.0,0.0,4004338.0,0.93,3890338.0,0.91
+VGUARD,2020-11-24 12:42:00,2020-11-23,2020-11-23,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,294985.0,0.07,294185.0,0.07
+VGUARD,2020-11-25 12:28:00,2020-11-25,2020-11-23,2020-11-24,Other,Market Sale,Sell,Equity Shares,50386.0,0.0,0.0,0.0,0.0,3890338.0,0.91,3839952.0,0.9
+VGUARD,2020-11-26 12:35:00,2020-11-26,2020-11-25,2020-11-25,Other,Market Sale,Sell,Equity Shares,13480.0,0.0,0.0,0.0,0.0,3839952.0,0.9,3826472.0,0.89
+VGUARD,2020-11-27 17:08:00,2020-11-26,2020-11-25,2020-11-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,294185.0,0.07,293785.0,0.07
+VGUARD,2020-11-30 17:56:00,2020-11-27,2020-11-27,2020-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,293785.0,0.07,291385.0,0.07
+VGUARD,2020-12-03 16:22:00,2020-12-02,2020-12-02,2020-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,290385.0,0.07,289985.0,0.07
+VGUARD,2020-12-03 16:22:00,2020-12-03,2020-12-01,2020-12-01,Other,Market Sale,Sell,Equity Shares,29357.0,0.0,0.0,0.0,0.0,3826472.0,0.89,3797115.0,0.89
+VGUARD,2020-12-03 16:22:00,2020-12-02,2020-12-01,2020-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,291385.0,0.07,290385.0,0.07
+VGUARD,2020-12-07 17:26:00,2020-12-04,2020-12-03,2020-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,289985.0,0.07,289785.0,0.07
+VGUARD,2020-12-15 13:00:00,2020-12-14,2020-12-14,2020-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,289785.0,0.07,288785.0,0.07
+VGUARD,2020-12-15 13:00:00,2020-12-11,2020-12-11,2020-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,50700.0,0.01,49700.0,0.01
+VGUARD,2020-12-15 13:00:00,2020-12-14,2020-12-11,2020-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,20726.0,0.0,10726.0,0.0
+VGUARD,2020-12-18 18:05:00,2020-12-17,2020-12-15,2020-12-17,Other,Market Sale,Sell,Equity Shares,291115.0,0.0,0.0,0.0,0.0,3797115.0,0.89,3506000.0,0.82
+VGUARD,2020-12-18 18:05:00,2020-12-16,2020-12-14,2020-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,19475.0,0.0,14975.0,0.0
+VGUARD,2020-12-23 19:10:00,2020-12-22,2020-12-18,2020-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,358216.0,0.08,356216.0,0.08
+VGUARD,2020-12-23 19:10:00,2020-12-22,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,288785.0,0.07,288385.0,0.07
+VGUARD,2020-12-28 12:40:00,2020-12-26,2020-12-24,2020-12-24,Other,Market Sale,Sell,Equity Shares,8421.0,0.0,0.0,0.0,0.0,3506000.0,0.82,3497579.0,0.81
+VGUARD,2020-12-28 12:40:00,2020-12-25,2020-12-23,2020-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,356216.0,0.08,354216.0,0.08
+VGUARD,2020-12-30 16:23:00,2020-12-30,2020-12-28,2020-12-28,Other,Market Sale,Sell,Equity Shares,60000.0,0.0,0.0,0.0,0.0,3497579.0,0.81,3437579.0,0.8
+VGUARD,2020-12-30 16:23:00,2020-12-30,2020-12-29,2020-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,288385.0,0.07,287985.0,0.07
+VGUARD,2021-01-01 15:52:00,2021-01-01,2020-12-31,2020-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,99632.0,0.0,0.0,0.0,0.0,100632.0,0.02,1000.0,0.02
+VGUARD,2021-01-15 18:13:00,2021-01-15,2021-01-15,2021-01-15,Promoters,Inter-se-Transfer,Sell,Equity Shares,19252570.0,0.0,0.0,0.0,0.0,73657964.0,17.15,54405394.0,12.67
+VGUARD,2021-01-15 18:13:00,2021-01-15,2021-01-15,2021-01-15,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,19252570.0,0.0,0.0,0.0,0.0,37050508.0,8.63,56303078.0,13.11
+VGUARD,2021-01-25 15:31:00,2021-01-25,2021-01-22,2021-01-22,Other,Inter-se-Transfer,Buy,Equity Shares,18525250.0,0.0,0.0,0.0,0.0,3437579.0,0.8,21962829.0,5.11
+VGUARD,2021-01-25 15:31:00,2021-01-25,2021-01-22,2021-01-22,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,18525250.0,0.0,0.0,0.0,0.0,56303078.0,13.11,37777828.0,8.8
+VGUARD,2021-02-10 18:05:00,2021-02-09,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,384216.0,0.09,380216.0,0.09
+VGUARD,2021-02-10 18:05:00,2021-02-10,2021-02-08,2021-02-09,Other,Market Sale,Sell,Equity Shares,5120.0,0.0,0.0,0.0,0.0,21962829.0,5.11,21957709.0,5.11
+VGUARD,2021-02-10 18:05:00,2021-02-09,2021-02-08,2021-02-08,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,75274.0,0.02,65274.0,0.02
+VGUARD,2021-02-10 18:05:00,2021-02-09,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,301485.0,0.07,297985.0,0.07
+VGUARD,2021-02-10 18:05:00,2021-02-09,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,301985.0,0.07,301485.0,0.07
+VGUARD,2021-02-10 18:05:00,2021-02-10,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,288322.0,0.07,278322.0,0.06
+VGUARD,2021-02-11 18:43:00,2021-02-10,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,81074.0,0.02,71074.0,0.02
+VGUARD,2021-02-11 18:43:00,2021-02-11,2021-02-08,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,32257.0,0.01,28257.0,0.01
+VGUARD,2021-02-11 18:43:00,2021-02-11,2021-02-10,2021-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,297985.0,0.07,297485.0,0.07
+VGUARD,2021-02-11 18:43:00,2021-02-11,2021-02-11,2021-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,297485.0,0.07,294985.0,0.07
+VGUARD,2021-02-12 17:23:00,2021-02-11,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,71882.0,0.02,69882.0,0.02
+VGUARD,2021-02-12 17:23:00,2021-02-12,2021-02-12,2021-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,294985.0,0.07,293985.0,0.07
+VGUARD,2021-02-12 17:23:00,2021-02-12,2021-02-11,2021-02-11,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,28811.0,0.01,23811.0,0.01
+VGUARD,2021-02-12 17:23:00,2021-02-11,2021-02-10,2021-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,380216.0,0.09,376216.0,0.09
+VGUARD,2021-02-12 17:23:00,2021-02-11,2021-02-09,2021-02-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,38811.0,0.01,28811.0,0.01
+VGUARD,2021-02-15 16:51:00,2021-02-14,2021-02-10,2021-02-12,Other,Market Sale,Sell,Equity Shares,16215.0,0.0,0.0,0.0,0.0,21957709.0,5.11,21941494.0,5.11
+VGUARD,2021-02-17 18:12:00,2021-02-17,2021-02-17,2021-02-17,Other,Market Sale,Sell,Equity Shares,126543.0,0.0,0.0,0.0,0.0,21776494.0,5.07,21649951.0,5.04
+VGUARD,2021-02-17 18:12:00,2021-02-17,2021-02-15,2021-02-15,Other,Market Sale,Sell,Equity Shares,165000.0,0.0,0.0,0.0,0.0,21941494.0,5.11,21776494.0,5.07
+VGUARD,2021-02-17 18:12:00,2021-02-17,2021-02-16,2021-02-16,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,65274.0,0.02,55274.0,0.01
+VGUARD,2021-02-17 18:12:00,2021-02-16,2021-02-15,2021-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,376216.0,0.09,374216.0,0.09
+VGUARD,2021-02-17 18:12:00,2021-02-15,2021-02-11,2021-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,28257.0,0.01,26257.0,0.01
+VGUARD,2021-02-18 17:34:00,2021-02-18,2021-02-18,2021-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10500.0,0.0,0.0,0.0,0.0,284485.0,0.07,273985.0,0.06
+VGUARD,2021-02-18 17:34:00,2021-02-18,2021-02-17,2021-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9500.0,0.0,0.0,0.0,0.0,293985.0,0.07,284485.0,0.07
+VGUARD,2021-02-18 17:34:00,2021-02-17,2021-02-16,2021-02-17,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,23811.0,0.01,13811.0,0.0
+VGUARD,2021-02-18 17:34:00,2021-02-17,2021-02-17,2021-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,99632.0,0.02,97132.0,0.02
+VGUARD,2021-02-18 17:34:00,2021-02-18,2021-02-17,2021-02-17,Promoters,Market Sale,Sell,Equity Shares,4000000.0,0.0,0.0,0.0,0.0,54405394.0,12.67,50405394.0,11.74
+VGUARD,2021-02-18 17:34:00,2021-02-18,2021-02-17,2021-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,142176.0,0.03,137676.0,0.03
+VGUARD,2021-02-19 17:43:00,2021-02-18,2021-02-17,2021-02-17,Other,Market Sale,Sell,Equity Shares,2000000.0,0.0,0.0,0.0,0.0,21649951.0,5.04,19649951.0,4.58
+VGUARD,2021-02-19 17:43:00,2021-02-19,2021-02-18,2021-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,69882.0,0.02,69382.0,0.02
+VGUARD,2021-02-19 17:43:00,2021-02-19,2021-02-19,2021-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,161224.0,0.04,156224.0,0.04
+VGUARD,2021-02-22 19:25:00,2021-02-20,2021-02-19,2021-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,26257.0,0.01,23257.0,0.01
+VGUARD,2021-02-22 19:25:00,2021-02-20,2021-02-19,2021-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,69382.0,0.02,67882.0,0.02
+VGUARD,2021-02-22 19:25:00,2021-02-22,2021-02-22,2021-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,25100.0,0.01,22100.0,0.01
+VGUARD,2021-02-22 19:25:00,2021-02-20,2021-02-19,2021-02-19,Other,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,19649951.0,4.58,19549951.0,4.55
+VGUARD,2021-02-22 19:25:00,2021-02-21,2021-02-19,2021-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,273985.0,0.06,263985.0,0.06
+VGUARD,2021-02-23 19:34:00,2021-02-20,2021-02-19,2021-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,23257.0,0.01,19257.0,0.0
+VGUARD,2021-02-23 19:34:00,2021-02-23,2021-02-19,2021-02-19,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,55274.0,0.01,50274.0,0.01
+VGUARD,2021-02-23 19:34:00,2021-02-22,2021-02-22,2021-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,263985.0,0.06,262485.0,0.06
+VGUARD,2021-02-23 19:34:00,2021-02-23,2021-02-23,2021-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8500.0,0.0,0.0,0.0,0.0,262485.0,0.06,253985.0,0.06
+VGUARD,2021-02-24 19:38:00,2021-02-24,2021-02-24,2021-02-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,160.0,0.0,0.0,0.0,0.0,253985.0,0.06,253825.0,0.06
+VGUARD,2021-02-24 19:38:00,2021-02-24,2021-02-22,2021-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,374216.0,0.09,372216.0,0.09
+VGUARD,2021-02-24 19:38:00,2021-02-24,2021-02-23,2021-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,67882.0,0.02,66182.0,0.02
+VGUARD,2021-02-24 19:38:00,2021-02-24,2021-02-23,2021-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,17326.0,0.0,15326.0,0.0
+VGUARD,2021-02-24 19:38:00,2021-02-24,2021-02-23,2021-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,17257.0,0.0,12257.0,0.0
+VGUARD,2021-02-24 19:38:00,2021-02-24,2021-02-22,2021-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,19257.0,0.0,17257.0,0.0
+VGUARD,2021-02-25 19:29:00,2021-02-23,2020-08-19,2021-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,16132.0,0.0,0.0,0.0,0.0,19291.0,0.0,3159.0,0.0
+VGUARD,2021-02-25 19:29:00,2021-02-23,2021-02-19,2021-02-19,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,880.0,0.0,0.0,0.0,0.0,3159.0,0.0,4039.0,0.0
+VGUARD,2021-02-26 17:56:00,2021-02-25,2021-02-23,2021-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,372216.0,0.09,370216.0,0.09
+VGUARD,2021-03-01 19:00:00,2021-03-01,2021-02-26,2021-02-26,Director,Market Sale,Sell,Equity Shares,38069.0,0.0,0.0,0.0,0.0,1022846.0,0.24,984777.0,0.23
+VGUARD,2021-03-01 19:00:00,2021-02-26,2021-02-25,2021-02-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,467.0,0.0,0.0,0.0,0.0,12257.0,0.0,11790.0,0.0
+VGUARD,2021-03-01 19:00:00,2021-02-28,2021-02-25,2021-02-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,253825.0,0.06,251825.0,0.06
+VGUARD,2021-03-02 17:59:00,2021-03-02,2021-03-01,2021-03-01,Director,Market Sale,Sell,Equity Shares,10750.0,0.0,0.0,0.0,0.0,984777.0,0.23,974027.0,0.23
+VGUARD,2021-03-03 16:52:00,2021-03-03,2021-03-02,2021-03-02,Director,Market Sale,Sell,Equity Shares,23081.0,0.0,0.0,0.0,0.0,974027.0,0.23,950946.0,0.22
+VGUARD,2021-03-04 14:52:00,2021-03-04,2021-03-03,2021-03-03,Director,Market Sale,Sell,Equity Shares,28100.0,0.0,0.0,0.0,0.0,950946.0,0.22,922846.0,0.21
+VGUARD,2021-03-08 14:52:00,2021-03-08,2021-03-05,2021-03-05,Director,Market Sale,Sell,Equity Shares,3308.0,0.0,0.0,0.0,0.0,922846.0,0.21,919538.0,0.21
+VGUARD,2021-03-08 14:52:00,2021-03-06,2021-03-05,2021-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,18186.0,0.0,15686.0,0.0
+VGUARD,2021-03-09 17:42:00,2021-03-09,2021-03-08,2021-03-08,Director,Market Sale,Sell,Equity Shares,36692.0,0.0,0.0,0.0,0.0,919538.0,0.21,882846.0,0.21
+VGUARD,2021-03-12 17:54:00,2021-03-12,2021-03-12,2021-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,92272.0,0.02,86772.0,0.02
+VGUARD,2021-03-16 19:56:00,2021-03-15,2021-03-15,2021-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,249825.0,0.06,246825.0,0.06
+VGUARD,2021-03-16 19:56:00,2021-03-15,2021-03-12,2021-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,251825.0,0.06,249825.0,0.06
+VGUARD,2021-03-16 19:56:00,2021-03-16,2021-03-16,2021-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,246825.0,0.06,239825.0,0.06
+VGUARD,2021-03-16 19:56:00,2021-03-15,2021-03-12,2021-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,97132.0,0.02,95632.0,0.02
+VGUARD,2021-03-16 19:56:00,2021-03-15,2021-03-12,2021-03-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,13000.0,0.0,0.0,0.0,0.0,13811.0,0.0,811.0,0.0
+VGUARD,2021-03-16 19:56:00,2021-03-15,2021-03-15,2021-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,86772.0,0.02,84772.0,0.02
+VGUARD,2021-03-17 17:04:00,2021-03-17,2021-03-16,2021-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9400.0,0.0,0.0,0.0,0.0,9427.0,0.0,27.0,0.0
+VGUARD,2021-03-17 17:04:00,2021-03-17,2021-03-16,2021-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,8708.0,0.0,7408.0,0.0
+VGUARD,2021-03-18 16:27:00,2021-03-17,2021-03-17,2021-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,239825.0,0.06,233825.0,0.05
+VGUARD,2021-03-18 16:27:00,2021-03-18,2021-03-16,2021-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1835.0,0.0,0.0,0.0,0.0,9655.0,0.0,7820.0,0.0
+VGUARD,2021-03-18 16:27:00,2021-03-17,2021-03-15,2021-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2135.0,0.0,0.0,0.0,0.0,11790.0,0.0,9655.0,0.0
+VGUARD,2021-03-19 19:25:00,2021-03-19,2021-03-17,2021-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10726.0,0.0,5726.0,0.0
+VGUARD,2021-03-23 12:40:00,2021-03-23,2021-03-22,2021-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,92536.0,0.02,88536.0,0.02
+VGUARD,2021-03-25 17:31:00,2021-03-25,2021-03-24,2021-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,156224.0,0.04,154724.0,0.04
+VGUARD,2021-03-31 17:35:00,2021-03-30,2021-03-30,2021-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,14286.0,0.0,11886.0,0.0
+VGUARD,2021-03-31 17:35:00,2021-03-30,2021-03-30,2021-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6060.0,0.0,0.0,0.0,0.0,12080.0,0.0,6020.0,0.0
+VGUARD,2021-03-31 17:35:00,2021-03-31,2021-03-30,2021-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,95632.0,0.02,92632.0,0.02
+VGUARD,2021-03-31 17:35:00,2021-03-31,2021-03-30,2021-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,154724.0,0.04,152224.0,0.04
+VGUARD,2021-03-31 17:35:00,2021-03-31,2021-03-31,2021-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,278322.0,0.06,275322.0,0.06
+VGUARD,2021-04-01 18:28:00,2021-04-01,2021-03-31,2021-03-31,-,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,152224.0,0.04,150224.0,0.03
+VGUARD,2021-04-01 18:28:00,2021-04-01,2021-03-31,2021-03-31,-,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,88536.0,0.02,86536.0,0.02
+VGUARD,2021-04-01 18:28:00,2021-04-01,2021-03-31,2021-03-31,-,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,233825.0,0.05,228825.0,0.05
+VGUARD,2021-04-01 18:28:00,2021-04-01,2021-03-31,2021-03-31,-,Market Sale,Sell,Equity Shares,2093.0,0.0,0.0,0.0,0.0,50274.0,0.01,48181.0,0.01
+VGUARD,2021-04-01 18:28:00,2021-04-01,2021-03-31,2021-03-31,-,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,105658.0,0.02,95658.0,0.02
+VGUARD,2021-04-01 18:28:00,2021-04-01,2021-03-31,2021-03-31,-,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,22100.0,0.01,20100.0,0.0
+VGUARD,2021-04-01 18:28:00,2021-04-01,2021-03-31,2021-03-31,-,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,275322.0,0.06,273322.0,0.06
+VGUARD,2021-04-01 18:28:00,2021-04-01,2021-03-31,2021-03-31,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,273322.0,0.06,272322.0,0.06
+VGUARD,2021-04-05 20:36:00,2021-04-01,2021-03-30,2021-03-30,-,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,16273.0,0.0,1273.0,0.0
+VGUARD,2021-04-06 17:07:00,2021-04-03,2021-03-31,2021-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,820.0,0.0,0.0,0.0,0.0,7820.0,0.0,7000.0,0.0
+VGUARD,2021-04-06 17:07:00,2021-04-05,2021-03-31,2021-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,29460.0,0.01,27460.0,0.01
+VGUARD,2021-04-06 17:07:00,2021-04-05,2021-03-31,2021-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,124502.0,0.03,110502.0,0.03
+VGUARD,2021-06-01 21:29:00,2021-06-01,2021-05-31,2021-05-31,-,Market Sale,Sell,Equity Shares,17500.0,0.0,0.0,0.0,0.0,150224.0,0.03,132724.0,0.03
+VGUARD,2021-06-01 21:29:00,2021-06-01,2021-05-31,2021-05-31,Other,Market Sale,Sell,Equity Shares,400000.0,0.0,0.0,0.0,0.0,19549951.0,4.54,19149951.0,4.45
+VGUARD,2021-06-01 21:29:00,2021-05-31,2021-05-31,2021-05-31,Key Managerial Personnel,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,48181.0,0.01,45181.0,0.01
+VGUARD,2021-06-01 21:29:00,2021-05-31,2021-05-31,2021-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,22700.0,0.0,0.0,0.0,0.0,109435.0,0.03,86735.0,0.02
+VGUARD,2021-06-01 21:29:00,2021-06-01,2021-05-31,2021-05-31,-,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,86536.0,0.02,82536.0,0.02
+VGUARD,2021-06-01 21:29:00,2021-06-01,2021-05-31,2021-05-31,Director,Market Sale,Sell,Equity Shares,46000.0,0.0,0.0,0.0,0.0,1387846.0,0.32,1341846.0,0.31
+VGUARD,2021-06-01 21:29:00,2021-06-01,2021-05-31,2021-05-31,-,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,272322.0,0.06,257322.0,0.06
+VGUARD,2021-06-01 21:29:00,2021-06-01,2021-05-31,2021-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,20458.0,0.0,12958.0,0.0
+VGUARD,2021-06-02 19:24:00,2021-06-02,2021-06-01,2021-06-01,Director,Market Sale,Sell,Equity Shares,34000.0,0.0,0.0,0.0,0.0,1341846.0,0.31,1307846.0,0.3
+VGUARD,2021-06-03 19:26:00,2021-06-03,2021-06-01,2021-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,20100.0,0.0,15100.0,0.0
+VGUARD,2021-06-03 19:26:00,2021-06-02,2021-05-31,2021-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,66182.0,0.02,65182.0,0.02
+VGUARD,2021-06-03 19:26:00,2021-06-02,2021-05-31,2021-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,25780.0,0.01,23780.0,0.01
+VGUARD,2021-06-03 19:26:00,2021-06-03,2021-06-01,2021-06-01,Other,Market Sale,Sell,Equity Shares,700000.0,0.0,0.0,0.0,0.0,19149951.0,4.45,18449951.0,4.29
+VGUARD,2021-06-03 19:26:00,2021-06-02,2021-05-31,2021-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,792.0,0.0,0.0,0.0,0.0,23780.0,0.01,22988.0,0.01
+VGUARD,2021-06-03 19:26:00,2021-06-02,2021-06-01,2021-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,65182.0,0.02,64182.0,0.01
+VGUARD,2021-06-04 18:41:00,2021-06-04,2021-06-03,2021-06-03,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1287846.0,0.3,1277846.0,0.3
+VGUARD,2021-06-04 18:41:00,2021-06-03,2021-06-02,2021-06-02,Other,Market Sale,Sell,Equity Shares,300000.0,0.0,0.0,0.0,0.0,18449951.0,4.29,18149951.0,4.22
+VGUARD,2021-06-04 18:41:00,2021-06-04,2021-06-02,2021-06-02,Director,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,1307846.0,0.3,1287846.0,0.3
+VGUARD,2021-06-07 20:20:00,2021-06-07,2021-06-07,2021-06-07,Director,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,1217846.0,0.28,1187846.0,0.28
+VGUARD,2021-06-07 20:20:00,2021-06-07,2021-06-04,2021-06-04,Other,Market Sale,Sell,Equity Shares,163045.0,0.0,0.0,0.0,0.0,17712996.0,4.12,17549951.0,4.08
+VGUARD,2021-06-07 20:20:00,2021-06-07,2021-06-03,2021-06-03,Other,Market Sale,Sell,Equity Shares,436955.0,0.0,0.0,0.0,0.0,18149951.0,4.22,17712996.0,4.12
+VGUARD,2021-06-07 20:20:00,2021-06-07,2021-06-04,2021-06-04,Director,Market Sale,Sell,Equity Shares,60000.0,0.0,0.0,0.0,0.0,1277846.0,0.3,1217846.0,0.28
+VGUARD,2021-06-08 18:05:00,2021-06-08,2021-06-07,2021-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,64182.0,0.01,62182.0,0.01
+VGUARD,2021-06-11 17:38:00,2021-06-11,2021-06-09,2021-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,91651.0,0.02,81651.0,0.02
+VGUARD,2021-06-15 19:18:00,2021-06-15,2021-06-14,2021-06-14,Promoters,Others,Sell,Equity Shares,5000000.0,0.0,0.0,0.0,0.0,50405394.0,11.72,45405394.0,10.55
+VGUARD,2021-06-23 20:03:00,2021-06-23,2021-06-22,2021-06-22,Promoters,Off Market,Sell,Equity Shares,21300000.0,0.0,0.0,0.0,0.0,107687278.0,25.03,86387278.0,20.08
+VGUARD,2021-06-23 20:03:00,2021-06-23,2021-06-23,2021-06-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2443.0,0.0,0.0,0.0,0.0,84772.0,0.02,82329.0,0.02
+VGUARD,2021-06-23 20:03:00,2021-06-23,2021-06-22,2021-06-22,Promoter Group,Off Market,Buy,Equity Shares,21300000.0,0.0,0.0,0.0,0.0,,0.0,21300000.0,4.95
+VGUARD,2021-06-25 17:44:00,2021-06-24,2021-06-24,2021-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7240.0,0.0,0.0,0.0,0.0,31609.0,0.01,24369.0,0.01
+VGUARD,2021-06-25 17:44:00,2021-06-24,2021-06-22,2021-06-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,405616.0,0.09,403116.0,0.09
+VGUARD,2021-06-26 19:33:00,2021-06-26,2021-06-24,2021-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,403116.0,0.09,400616.0,0.09
+VGUARD,2021-06-29 19:37:00,2021-06-28,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,82329.0,0.02,80729.0,0.02
+VGUARD,2021-06-30 17:12:00,2021-06-29,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,400616.0,0.09,398116.0,0.09
+VGUARD,2021-07-02 16:25:00,2021-07-02,2021-06-30,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,398116.0,0.09,395616.0,0.09
+VGUARD,2021-09-08 18:57:00,2021-09-08,2021-09-07,2021-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,234425.0,0.05,231925.0,0.05
+VGUARD,2021-09-09 19:09:00,2021-09-08,2021-09-07,2021-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6020.0,0.0,3020.0,0.0
+VGUARD,2021-09-10 14:43:00,2021-09-10,2021-09-09,2021-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3020.0,0.0,20.0,0.0
+VGUARD,2021-09-14 18:57:00,2021-09-13,2021-09-09,2021-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7000.0,0.0,6500.0,0.0
+VGUARD,2021-09-14 18:57:00,2021-09-13,2021-09-13,2021-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,6500.0,0.0,5850.0,0.0
+VGUARD,2021-09-15 18:49:00,2021-09-15,2021-09-14,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1864.0,0.0,0.0,0.0,0.0,7791.0,0.0,5927.0,0.0
+VGUARD,2021-09-15 18:49:00,2021-09-15,2021-09-14,2021-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5850.0,0.0,3850.0,0.0
+VGUARD,2021-09-19 21:42:00,2021-09-17,2021-09-15,2021-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3850.0,0.0,1850.0,0.0
+VGUARD,2021-09-19 21:42:00,2021-09-18,2021-09-15,2021-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2136.0,0.0,0.0,0.0,0.0,5927.0,0.0,3791.0,0.0
+VGUARD,2021-09-22 18:44:00,2021-09-22,2021-09-22,2021-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,230425.0,0.05,228925.0,0.05
+VGUARD,2021-09-22 18:44:00,2021-09-22,2021-09-21,2021-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,231925.0,0.05,230425.0,0.05
+VGUARD,2021-09-22 18:44:00,2021-09-21,2021-09-20,2021-09-20,Immediate relative,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,200.0,0.0,,0.0
+VGUARD,2021-09-24 17:55:00,2021-09-23,2021-09-23,2021-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,228925.0,0.05,227425.0,0.05
+VGUARD,2021-09-25 12:09:00,2021-09-24,2021-09-24,2021-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,227425.0,0.05,226925.0,0.05
+VGUARD,2021-09-30 18:05:00,2021-09-30,2021-09-29,2021-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3791.0,0.0,791.0,0.0
+VGUARD,2021-11-03 17:48:00,2021-11-03,2021-11-01,2021-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1093.0,0.0,0.0,0.0,0.0,7397.0,0.0,6304.0,0.0
+VGUARD,2021-11-08 19:00:00,2021-11-03,2021-11-01,2021-11-01,Key Managerial Personnel,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,38979.0,0.01,26979.0,0.01
+VGUARD,2021-11-08 19:00:00,2021-11-08,2021-11-02,2021-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,6304.0,0.0,5404.0,0.0
+VGUARD,2021-11-08 19:00:00,2021-11-03,2021-11-02,2021-11-02,Key Managerial Personnel,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,26979.0,0.01,14979.0,0.0
+VGUARD,2021-11-08 19:00:00,2021-11-07,2021-11-03,2021-11-03,Key Managerial Personnel,Market Sale,Sell,Equity Shares,13000.0,0.0,0.0,0.0,0.0,14979.0,0.0,1979.0,0.0
+VGUARD,2021-11-09 19:57:00,2021-11-03,2021-11-01,2021-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,146224.0,0.03,145224.0,0.03
+VGUARD,2021-11-09 19:57:00,2021-11-05,2021-11-03,2021-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,145224.0,0.03,143224.0,0.03
+VGUARD,2021-11-12 16:53:00,2021-11-11,2021-11-09,2021-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,11800.0,0.0,10000.0,0.0
+VGUARD,2021-12-28 18:20:00,2021-12-28,2021-12-28,2021-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,268925.0,0.06,264425.0,0.06
+VGUARD,2021-12-28 18:20:00,2021-12-28,2021-12-27,2021-12-27,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,27086.0,0.01,29086.0,0.01
+VGUARD,2021-12-29 17:41:00,2021-12-28,2021-12-24,2021-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,448318.0,0.1,447318.0,0.1
+VGUARD,2021-12-29 17:41:00,2021-12-29,2021-12-28,2021-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,447318.0,0.1,445818.0,0.1
+VGUARD,2022-01-03 18:02:00,2022-01-01,2021-12-31,2021-12-31,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,30586.0,0.01,31086.0,0.01
+VGUARD,2022-01-03 18:02:00,2021-12-31,2021-12-30,2021-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,60620.0,0.01,59120.0,0.01
+VGUARD,2022-01-03 18:02:00,2021-12-30,2021-12-29,2021-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3478.0,0.0,0.0,0.0,0.0,92632.0,0.02,89154.0,0.02
+VGUARD,2022-01-03 18:02:00,2022-01-01,2021-12-31,2021-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2250.0,0.0,0.0,0.0,0.0,444818.0,0.1,442568.0,0.1
+VGUARD,2022-01-03 18:02:00,2021-12-31,2021-12-29,2021-12-29,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,49841.0,0.01,48841.0,0.01
+VGUARD,2022-01-03 18:02:00,2022-01-03,2021-12-31,2021-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12522.0,0.0,0.0,0.0,0.0,89154.0,0.02,76632.0,0.02
+VGUARD,2022-01-03 18:02:00,2021-12-30,2021-12-29,2021-12-29,Director,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,1437846.0,0.33,1397846.0,0.32
+VGUARD,2022-01-03 18:02:00,2021-12-31,2021-12-30,2021-12-30,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,30086.0,0.01,30586.0,0.01
+VGUARD,2022-01-03 18:02:00,2021-12-30,2021-12-30,2021-12-30,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,29086.0,0.01,30086.0,0.01
+VGUARD,2022-01-03 18:02:00,2021-12-30,2021-12-30,2021-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,264425.0,0.06,262925.0,0.06
+VGUARD,2022-01-03 18:02:00,2021-12-31,2021-12-30,2021-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,445818.0,0.1,444818.0,0.1
+VGUARD,2022-01-04 18:54:00,2022-01-03,2021-12-30,2021-12-30,Director,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,1397846.0,0.32,1357846.0,0.32
+VGUARD,2022-01-04 18:54:00,2022-01-04,2021-12-31,2021-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,262925.0,0.06,259425.0,0.06
+VGUARD,2022-01-04 18:54:00,2022-01-04,2021-12-31,2021-12-31,Director,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,1357846.0,0.32,1337846.0,0.31
+VGUARD,2022-02-10 19:07:00,2022-02-08,2022-02-08,2022-02-08,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,3500.0,0.0,0.0,0.0,0.0,31086.0,0.01,34586.0,0.01
+VGUARD,2022-02-10 19:07:00,2022-02-08,2022-02-07,2022-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,462568.0,0.11,452568.0,0.1
+VGUARD,2022-02-11 16:51:00,2022-02-11,2022-02-11,2022-02-11,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,34586.0,0.01,36086.0,0.01
+VGUARD,2022-02-14 12:23:00,2022-02-12,2022-02-10,2022-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,448568.0,0.1,444568.0,0.1
+VGUARD,2022-02-14 12:23:00,2022-02-11,2022-02-09,2022-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,452568.0,0.1,448568.0,0.1
+VGUARD,2022-02-15 18:20:00,2022-02-15,2022-02-15,2022-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,22672.0,0.01,20672.0,0.0
+VGUARD,2022-02-15 18:20:00,2022-02-15,2022-02-15,2022-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,20672.0,0.0,19172.0,0.0
+VGUARD,2022-02-15 18:20:00,2022-02-15,2022-02-15,2022-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,26172.0,0.01,22672.0,0.01
+VGUARD,2022-02-15 18:20:00,2022-02-14,2022-02-14,2022-02-14,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,36086.0,0.01,37086.0,0.01
+VGUARD,2022-02-17 18:55:00,2022-02-17,2022-02-16,2022-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,18138.0,0.0,13638.0,0.0
+VGUARD,2022-02-22 19:14:00,2022-02-21,2022-02-21,2022-02-21,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,37086.0,0.01,38086.0,0.01
+VGUARD,2022-02-23 16:15:00,2022-02-23,2022-02-22,2022-02-22,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,38086.0,0.01,38586.0,0.01
+VGUARD,2022-02-25 16:10:00,2022-02-25,2022-02-24,2022-02-24,Promoters,Market Purchase,Buy,Equity Shares,2600.0,0.0,0.0,0.0,0.0,86387278.0,20.03,86389878.0,20.03
+VGUARD,2022-03-01 16:17:00,2022-02-26,2022-02-24,2022-02-24,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,38586.0,0.01,39086.0,0.01
+VGUARD,2022-03-08 18:44:00,2022-03-06,2022-03-04,2022-03-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,444568.0,0.1,434568.0,0.1
+VGUARD,2022-03-10 18:41:00,2022-03-06,2022-03-04,2022-03-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,444568.0,0.1,434568.0,0.1
+VGUARD,2022-03-10 19:00:00,2022-03-08,2022-03-07,2022-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,434568.0,0.1,429568.0,0.1
+VGUARD,2022-03-10 19:00:00,2022-03-10,2022-03-10,2022-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,80729.0,0.02,78729.0,0.02
+VGUARD,2022-03-10 19:14:00,2022-03-10,2022-03-10,2022-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,80729.0,0.02,78729.0,0.02
+VGUARD,2022-03-10 19:14:00,2022-03-08,2022-03-07,2022-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,434568.0,0.1,429568.0,0.1
+VGUARD,2022-03-14 17:01:00,2022-03-10,2022-03-09,2022-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,429568.0,0.1,424568.0,0.1
+VGUARD,2022-03-28 12:08:00,2022-03-25,2022-03-23,2022-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5404.0,0.0,4904.0,0.0
+VGUARD,2022-03-28 12:08:00,2022-03-25,2022-03-23,2022-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,990.0,0.0,0.0,0.0,0.0,992.0,0.0,2.0,0.0
+VGUARD,2022-04-01 14:16:00,2022-04-01,2022-03-31,2022-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4700.0,0.0,0.0,0.0,0.0,4791.0,0.0,91.0,0.0
+VGUARD,2022-04-01 14:16:00,2022-03-30,2022-03-30,2022-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,19172.0,0.0,18172.0,0.0
+VGUARD,2022-04-04 15:08:00,2022-04-04,2022-03-31,2022-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,1850.0,0.0,1100.0,0.0
+VGUARD,2022-05-27 17:05:00,2022-05-27,2022-05-26,2022-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,137911.0,0.03,136911.0,0.03
+VGUARD,2022-05-27 17:05:00,2022-05-25,2022-05-24,2022-05-24,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,48841.0,0.01,47841.0,0.01
+VGUARD,2022-05-27 17:05:00,2022-05-25,2022-05-23,2022-05-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,139911.0,0.03,137911.0,0.03
+VGUARD,2022-05-27 17:05:00,2022-05-27,2022-05-25,2022-05-25,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,47841.0,0.01,46841.0,0.01
+VGUARD,2022-05-27 17:05:00,2022-05-27,2022-05-26,2022-05-26,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1687846.0,0.39,1682846.0,0.39
+VGUARD,2022-05-30 13:05:00,2022-05-27,2022-05-26,2022-05-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,46841.0,0.01,44841.0,0.01
+VGUARD,2022-05-30 13:05:00,2022-05-30,2022-05-27,2022-05-27,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1682846.0,0.39,1677846.0,0.39
+VGUARD,2022-05-30 13:05:00,2022-05-30,2022-05-27,2022-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,68109.0,0.02,63109.0,0.01
+VGUARD,2022-06-01 10:34:00,2022-06-01,2022-05-30,2022-05-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,44841.0,0.01,42841.0,0.01
+VGUARD,2022-06-01 10:34:00,2022-05-31,2022-05-30,2022-05-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,264179.0,0.06,260179.0,0.06
+VGUARD,2022-06-01 10:34:00,2022-05-31,2022-05-30,2022-05-30,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,1677846.0,0.39,1674846.0,0.39
+VGUARD,2022-06-01 17:00:00,2022-06-01,2022-05-31,2022-05-31,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,1674846.0,0.39,1672846.0,0.39
+VGUARD,2022-06-03 13:16:00,2022-06-03,2022-06-02,2022-06-02,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1667846.0,0.39,1662846.0,0.39
+VGUARD,2022-06-03 13:16:00,2022-06-03,2022-06-02,2022-06-02,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,42841.0,0.01,41841.0,0.01
+VGUARD,2022-06-03 13:16:00,2022-06-02,2022-06-01,2022-06-01,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1672846.0,0.39,1667846.0,0.39
+VGUARD,2022-06-03 17:14:00,2022-06-02,2022-05-31,2022-05-31,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,10000.0,0.0,0.0,0.0,0.0,27762.0,0.01,27762.0,0.01
+VGUARD,2022-06-07 15:07:00,2022-06-07,2022-06-06,2022-06-06,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,1662846.0,0.39,1659846.0,0.38
+VGUARD,2022-06-08 16:40:00,2022-06-08,2022-06-06,2022-06-06,Director,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,4904.0,0.0,4504.0,0.0
+VGUARD,2022-06-08 16:40:00,2022-06-08,2022-06-07,2022-06-07,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,1659846.0,0.38,1656846.0,0.38
+VGUARD,2022-06-09 13:30:00,2022-06-09,2022-06-08,2022-06-08,Key Managerial Personnel,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,41841.0,0.01,41341.0,0.01
+VGUARD,2022-06-09 13:30:00,2022-06-09,2022-06-08,2022-06-08,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1656846.0,0.38,1651846.0,0.38
+VGUARD,2022-06-09 13:30:00,2022-06-08,2022-06-06,2022-06-06,Director,Market Sale,Sell,Equity Shares,10200.0,0.0,0.0,0.0,0.0,150200.0,0.03,140000.0,0.03
+VGUARD,2022-06-14 10:59:00,2022-06-13,2022-06-09,2022-06-09,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,140000.0,0.03,138000.0,0.03
+VGUARD,2022-06-14 10:59:00,2022-06-13,2022-06-09,2022-06-09,Director,Market Sale,Sell,Equity Shares,4580.0,0.0,0.0,0.0,0.0,1651846.0,0.38,1647266.0,0.38
+VGUARD,2022-06-14 10:59:00,2022-06-13,2022-06-10,2022-06-10,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1647266.0,0.38,1642266.0,0.38
+VGUARD,2022-06-14 10:59:00,2022-06-13,2022-06-10,2022-06-10,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,138000.0,0.03,135000.0,0.03
+VGUARD,2022-06-14 10:59:00,2022-06-10,2022-06-08,2022-06-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,15082.0,0.0,8582.0,0.0
+VGUARD,2022-06-14 10:59:00,2022-06-13,2022-06-09,2022-06-09,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,41341.0,0.01,40341.0,0.01
+VGUARD,2022-06-29 15:40:00,2022-06-29,2022-06-28,2022-06-28,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,1637266.0,0.38,1635266.0,0.38
+VGUARD,2022-06-29 15:40:00,2022-06-28,2022-06-27,2022-06-27,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1642266.0,0.38,1637266.0,0.38
+VGUARD,2022-08-03 18:47:00,2022-08-02,2022-08-01,2022-08-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,260179.0,0.09,255179.0,0.06
+VGUARD,2022-08-03 18:47:00,2022-08-02,2022-08-01,2022-08-01,Key Managerial Personnel,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,40341.0,0.01,37341.0,0.01
+VGUARD,2022-08-03 18:47:00,2022-08-03,2022-08-02,2022-08-02,Other,Others,Sell,Equity Shares,1000000.0,0.0,0.0,0.0,0.0,17549951.0,4.07,16549951.0,3.84
+VGUARD,2022-08-03 18:47:00,2022-08-03,2022-08-02,2022-08-02,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,37341.0,0.01,32341.0,0.01
+VGUARD,2022-08-04 18:42:00,2022-08-04,2022-08-03,2022-08-03,Key Managerial Personnel,Market Sale,Sell,Equity Shares,261.0,0.0,0.0,0.0,0.0,32341.0,0.01,32080.0,0.01
+VGUARD,2022-08-04 18:42:00,2022-08-04,2022-08-02,2022-08-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1959.0,0.0,0.0,0.0,0.0,136911.0,0.03,134952.0,0.03
+VGUARD,2022-08-04 18:42:00,2022-08-02,2022-08-02,2022-08-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,255179.0,0.06,253179.0,0.06
+VGUARD,2022-08-08 15:54:00,2022-08-08,2022-08-05,2022-08-05,Other,Market Sale,Sell,Equity Shares,6965.0,0.0,0.0,0.0,0.0,16549951.0,3.83,16542986.0,3.83
+VGUARD,2022-08-08 15:54:00,2022-08-05,2022-08-04,2022-08-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,149006.0,0.03,148506.0,0.03
+VGUARD,2022-08-08 15:54:00,2022-08-05,2022-08-04,2022-08-04,Key Managerial Personnel,Market Sale,Sell,Equity Shares,739.0,0.0,0.0,0.0,0.0,32080.0,0.01,31341.0,0.01
+VGUARD,2022-08-08 15:54:00,2022-08-05,2022-08-05,2022-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,74727.0,0.02,73727.0,0.02
+VGUARD,2022-08-09 15:47:00,2022-08-09,2022-08-08,2022-08-08,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,31341.0,0.01,30341.0,0.01
+VGUARD,2022-08-09 15:47:00,2022-08-09,2022-08-08,2022-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,148506.0,0.03,148006.0,0.03
+VGUARD,2022-08-11 16:52:00,2022-08-10,2022-08-08,2022-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,16838.0,0.0,14838.0,0.0
+VGUARD,2022-08-11 16:52:00,2022-08-10,2022-08-08,2022-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,16838.0,0.0,14838.0,0.0
+VGUARD,2022-08-16 18:43:00,2022-08-16,2022-08-12,2022-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,253179.0,0.06,251179.0,0.06
+VGUARD,2022-08-16 18:43:00,2022-08-16,2022-08-12,2022-08-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,30341.0,0.01,29541.0,0.01
+VGUARD,2022-08-18 16:31:00,2022-08-18,2022-08-17,2022-08-17,Key Managerial Personnel,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,29541.0,0.01,29241.0,0.01
+VGUARD,2022-08-18 16:31:00,2022-08-18,2022-08-17,2022-08-17,Director,Market Sale,Sell,Equity Shares,22847.0,0.0,0.0,0.0,0.0,1635266.0,0.38,1612419.0,0.37
+VGUARD,2022-08-19 17:47:00,2022-08-18,2022-08-17,2022-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3091.0,0.0,91.0,0.0
+VGUARD,2022-08-22 15:51:00,2022-08-22,2022-08-18,2022-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,4396.0,0.0,3196.0,0.0
+VGUARD,2022-08-22 15:51:00,2022-08-19,2022-08-17,2022-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,29619.0,0.01,28419.0,0.0
+VGUARD,2022-08-23 17:27:00,2022-08-23,2022-08-22,2022-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,3196.0,0.0,2396.0,0.0
+VGUARD,2022-08-29 10:58:00,2022-08-29,2022-08-25,2022-08-25,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,54203.0,0.01,44203.0,0.01
+VGUARD,2022-08-30 18:46:00,2022-08-30,2022-08-29,2022-08-29,Key Managerial Personnel,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,29241.0,0.01,28941.0,0.01
+VGUARD,2022-09-06 17:55:00,2022-09-06,2022-09-05,2022-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,39086.0,0.01,38086.0,0.01
+VGUARD,2022-09-06 17:55:00,2022-09-06,2022-09-05,2022-09-05,Key Managerial Personnel,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,28941.0,0.01,28641.0,0.0
+VGUARD,2022-09-06 17:55:00,2022-09-06,2022-09-06,2022-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,82742.0,0.01,77742.0,0.02
+VGUARD,2022-09-08 15:34:00,2022-09-07,2022-09-07,2022-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,513.0,0.0,0.0,0.0,0.0,77742.0,0.02,77229.0,0.02
+VGUARD,2022-09-08 15:34:00,2022-09-08,2022-09-08,2022-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10000.0,0.0,5000.0,0.0
+VGUARD,2022-09-09 20:27:00,2022-09-09,2022-09-08,2022-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,922.0,0.0,0.0,0.0,0.0,134874.0,0.03,133952.0,0.03
+VGUARD,2022-09-09 20:27:00,2022-09-09,2022-09-07,2022-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,78.0,0.0,0.0,0.0,0.0,134952.0,0.03,134874.0,0.03
+VGUARD,2022-09-09 20:27:00,2022-09-08,2022-09-06,2022-09-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,28641.0,0.01,27941.0,0.01
+VGUARD,2022-09-09 20:27:00,2022-09-09,2022-09-07,2022-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,78.0,0.0,0.0,0.0,0.0,134952.0,0.03,134874.0,0.03
+VGUARD,2022-09-09 20:27:00,2022-09-08,2022-09-06,2022-09-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,28641.0,0.01,27941.0,0.01
+VGUARD,2022-09-09 20:27:00,2022-09-09,2022-09-07,2022-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,78.0,0.0,0.0,0.0,0.0,134952.0,0.03,134874.0,0.03
+VGUARD,2022-09-09 20:27:00,2022-09-09,2022-09-08,2022-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,922.0,0.0,0.0,0.0,0.0,134874.0,0.03,133952.0,0.03
+VGUARD,2022-09-09 20:27:00,2022-09-08,2022-09-06,2022-09-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,28641.0,0.01,27941.0,0.01
+VGUARD,2022-09-09 20:27:00,2022-09-09,2022-09-08,2022-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,922.0,0.0,0.0,0.0,0.0,134874.0,0.03,133952.0,0.03
+VGUARD,2022-09-12 18:25:00,2022-09-08,2022-09-06,2022-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,4504.0,0.0,4104.0,0.0
+VGUARD,2022-09-12 18:25:00,2022-09-08,2022-09-06,2022-09-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,44203.0,0.01,4203.0,0.0
+VGUARD,2022-09-12 18:25:00,2022-09-12,2022-09-12,2022-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4487.0,0.0,0.0,0.0,0.0,77229.0,0.02,72742.0,0.02
+VGUARD,2022-09-14 13:55:00,2022-09-14,2022-09-12,2022-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,251179.0,0.06,250179.0,0.06
+VGUARD,2022-09-14 13:55:00,2022-09-14,2022-09-12,2022-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2100.0,0.0,0.0,0.0,0.0,14838.0,0.0,12738.0,0.0
+VGUARD,2022-09-14 13:55:00,2022-09-14,2022-09-13,2022-09-13,Key Managerial Personnel,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,26641.0,0.01,26241.0,0.01
+VGUARD,2022-09-14 13:55:00,2022-09-13,2022-09-12,2022-09-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,27041.0,0.01,26641.0,0.01
+VGUARD,2022-09-16 13:18:00,2022-09-15,2022-09-14,2022-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,250179.0,0.06,249179.0,0.06
+VGUARD,2022-09-16 13:18:00,2022-09-16,2022-09-15,2022-09-15,Key Managerial Personnel,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,25399.0,0.01,24999.0,0.01
+VGUARD,2022-09-16 13:18:00,2022-09-15,2022-09-14,2022-09-14,Key Managerial Personnel,Market Sale,Sell,Equity Shares,842.0,0.0,0.0,0.0,0.0,26241.0,0.01,25399.0,0.01
+VGUARD,2022-09-16 13:18:00,2022-09-15,2022-09-14,2022-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,133952.0,0.03,133452.0,0.03
+VGUARD,2022-09-19 17:51:00,2022-09-19,2022-09-16,2022-09-16,Key Managerial Personnel,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,24999.0,0.01,24499.0,0.01
+VGUARD,2022-09-19 17:51:00,2022-09-19,2022-09-15,2022-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,133452.0,0.03,132452.0,0.03
+VGUARD,2022-09-20 17:19:00,2022-09-20,2022-09-20,2022-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,72742.0,0.02,67742.0,0.02
+VGUARD,2022-09-20 17:19:00,2022-09-20,2022-09-20,2022-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,,0.0
+VGUARD,2022-09-21 16:24:00,2022-09-21,2022-09-20,2022-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,148006.0,0.03,147006.0,0.03
+VGUARD,2022-09-21 16:24:00,2022-09-21,2022-09-20,2022-09-20,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,24499.0,0.01,23299.0,0.01
+VGUARD,2022-09-22 16:35:00,2022-09-22,2022-09-21,2022-09-21,Key Managerial Personnel,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,1612419.0,0.37,1592419.0,0.37
+VGUARD,2022-09-22 16:35:00,2022-09-22,2022-09-21,2022-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,147006.0,0.03,146006.0,0.03
+VGUARD,2022-09-22 16:35:00,2022-09-22,2022-09-21,2022-09-21,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,23299.0,0.01,21699.0,0.01
+VGUARD,2022-09-23 18:08:00,2022-09-23,2022-09-23,2022-09-23,Key Managerial Personnel,Market Sale,Sell,Equity Shares,45000.0,0.0,0.0,0.0,0.0,1557419.0,0.36,1512419.0,0.35
+VGUARD,2022-09-23 18:08:00,2022-09-23,2022-09-21,2022-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,25127.0,0.01,24127.0,0.01
+VGUARD,2022-09-23 18:08:00,2022-09-23,2022-09-22,2022-09-22,Key Managerial Personnel,Market Sale,Sell,Equity Shares,35000.0,0.0,0.0,0.0,0.0,1592419.0,0.37,1557419.0,0.36
+VGUARD,2022-09-23 18:08:00,2022-09-22,2022-09-21,2022-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,249179.0,0.06,248179.0,0.06
+VGUARD,2022-09-23 18:08:00,2022-09-23,2022-09-21,2022-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,132452.0,0.03,131952.0,0.03
+VGUARD,2022-09-23 18:08:00,2022-09-23,2022-09-22,2022-09-22,Key Managerial Personnel,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,21699.0,0.01,21099.0,0.0
+VGUARD,2022-09-23 18:08:00,2022-09-23,2022-09-21,2022-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,24127.0,0.01,23127.0,0.01
+VGUARD,2022-09-23 18:08:00,2022-09-23,2022-09-22,2022-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,23127.0,0.01,22127.0,0.01
+VGUARD,2022-09-23 18:08:00,2022-09-23,2022-09-22,2022-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,452.0,0.0,0.0,0.0,0.0,131952.0,0.03,131500.0,0.03
+VGUARD,2022-09-26 18:11:00,2022-09-26,2022-09-22,2022-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,248179.0,0.06,247679.0,0.06
+VGUARD,2022-09-26 18:11:00,2022-09-24,2022-09-22,2022-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4265.0,0.0,0.0,0.0,0.0,15562.0,0.0,11297.0,0.0
+VGUARD,2022-09-26 18:11:00,2022-09-26,2022-09-26,2022-09-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,8271.0,0.0,0.0,0.0,0.0,1512419.0,0.35,1504148.0,0.35
+VGUARD,2022-09-26 18:11:00,2022-09-26,2022-09-23,2022-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,247679.0,0.06,247179.0,0.06
+VGUARD,2022-09-26 18:11:00,2022-09-23,2022-09-23,2022-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,22127.0,0.01,21127.0,0.0
+VGUARD,2022-09-27 16:54:00,2022-09-27,2022-09-26,2022-09-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,20600.0,0.0,20400.0,0.0
+VGUARD,2022-09-27 16:54:00,2022-09-26,2022-09-23,2022-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,11297.0,0.0,10547.0,0.0
+VGUARD,2022-09-27 16:54:00,2022-09-26,2022-09-23,2022-09-23,Key Managerial Personnel,Market Sale,Sell,Equity Shares,499.0,0.0,0.0,0.0,0.0,21099.0,0.0,20600.0,0.0
+VGUARD,2022-09-30 18:28:00,2022-09-28,2022-09-27,2022-09-27,Key Managerial Personnel,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,20400.0,0.0,20000.0,0.0
+VGUARD,2022-09-30 18:28:00,2022-09-30,2022-09-29,2022-09-29,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,20000.0,0.0,19900.0,0.0
+VGUARD,2022-10-03 18:39:00,2022-10-03,2022-09-30,2022-09-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,19900.0,0.0,16900.0,0.0
+VGUARD,2022-10-03 18:39:00,2022-10-03,2022-09-30,2022-09-30,Other,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,135000.0,0.03,130000.0,0.03
+VGUARD,2022-10-03 18:39:00,2022-10-03,2022-09-30,2022-09-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,1504148.0,0.35,1474148.0,0.34
+VGUARD,2022-10-03 18:39:00,2022-10-02,2022-09-30,2022-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,247179.0,0.06,245179.0,0.06
+VGUARD,2022-11-02 17:09:00,2022-11-01,2022-10-31,2022-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,38086.0,0.01,37086.0,0.01
+VGUARD,2022-11-02 17:09:00,2022-11-01,2022-11-01,2022-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,37086.0,0.01,36086.0,0.01
+VGUARD,2022-11-02 17:09:00,2022-11-01,2022-10-31,2022-10-31,Key Managerial Personnel,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,16900.0,0.0,16700.0,0.0
+VGUARD,2022-11-02 17:09:00,2022-11-01,2022-10-31,2022-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,20127.0,0.0,19627.0,0.0
+VGUARD,2022-11-02 17:09:00,2022-11-01,2022-10-31,2022-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,21127.0,0.0,20127.0,0.0
+VGUARD,2022-11-02 17:09:00,2022-11-02,2022-11-01,2022-11-01,Other,Market Sale,Sell,Equity Shares,200000.0,0.0,0.0,0.0,0.0,16342986.0,3.79,16142986.0,3.74
+VGUARD,2022-11-02 17:09:00,2022-11-01,2022-10-31,2022-10-31,Other,Market Sale,Sell,Equity Shares,200000.0,0.0,0.0,0.0,0.0,16542986.0,3.83,16342986.0,3.79
+VGUARD,2022-11-02 17:09:00,2022-11-02,2022-11-01,2022-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,19627.0,0.0,18127.0,0.0
+VGUARD,2022-11-03 19:06:00,2022-11-02,2022-11-01,2022-11-01,Key Managerial Personnel,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,16700.0,0.0,16500.0,0.0
+VGUARD,2022-11-03 19:06:00,2022-11-03,2022-11-02,2022-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3844.0,0.0,2844.0,0.0
+VGUARD,2022-11-03 19:06:00,2022-11-03,2022-11-02,2022-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,18127.0,0.0,17627.0,0.0
+VGUARD,2022-11-03 19:06:00,2022-11-03,2022-11-02,2022-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,26913.0,0.01,21913.0,0.01
+VGUARD,2022-11-03 19:06:00,2022-11-03,2022-11-02,2022-11-02,Key Managerial Personnel,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,16500.0,0.0,16200.0,0.0
+VGUARD,2022-11-04 18:30:00,2022-11-04,2022-11-03,2022-11-03,Other,Market Sale,Sell,Equity Shares,600000.0,0.0,0.0,0.0,0.0,16142986.0,3.74,15542986.0,3.6
+VGUARD,2022-11-14 16:35:00,2022-11-12,2022-11-11,2022-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2844.0,0.0,1844.0,0.0
+VGUARD,2022-11-18 16:53:00,2022-11-16,2022-11-16,2022-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,289425.0,0.07,288425.0,0.07
+VGUARD,2022-12-14 10:20:00,2022-12-12,2022-12-12,2022-12-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,288425.0,0.07,287025.0,0.07
+VGUARD,2022-12-14 10:20:00,2022-12-13,2022-12-12,2022-12-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,151788.0,0.04,147788.0,0.03
+VGUARD,2022-12-14 10:20:00,2022-12-13,2022-12-12,2022-12-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,20859.0,0.0,20759.0,0.0
+VGUARD,2022-12-15 19:13:00,2022-12-15,2022-12-14,2022-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,147788.0,0.03,146788.0,0.03
+VGUARD,2022-12-15 19:13:00,2022-12-14,2022-12-14,2022-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,286625.0,0.07,286225.0,0.07
+VGUARD,2022-12-15 19:13:00,2022-12-15,2022-12-14,2022-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2999.0,0.0,0.0,0.0,0.0,36610.0,0.01,33611.0,0.01
+VGUARD,2022-12-15 19:13:00,2022-12-14,2022-12-13,2022-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,287025.0,0.07,286625.0,0.07
+VGUARD,2022-12-16 17:53:00,2022-12-14,2022-12-12,2022-12-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20200.0,0.0,0.0,0.0,0.0,36820.0,0.01,16620.0,0.0
+VGUARD,2022-12-16 17:53:00,2022-12-15,2022-12-14,2022-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5668.0,0.0,4668.0,0.0
+VGUARD,2022-12-16 17:53:00,2022-12-16,2022-12-14,2022-12-14,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,20759.0,0.0,20659.0,0.0
+VGUARD,2022-12-16 17:53:00,2022-12-16,2022-12-14,2022-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,69036.0,0.02,66036.0,0.02
+VGUARD,2022-12-19 17:07:00,2022-12-17,2022-12-15,2022-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,66036.0,0.02,64036.0,0.01
+VGUARD,2022-12-21 19:01:00,2022-12-21,2022-12-20,2022-12-20,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,10547.0,0.0,9047.0,0.0
+VGUARD,2022-12-21 19:01:00,2022-12-20,2022-12-16,2022-12-16,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,20659.0,0.0,20559.0,0.0
+VGUARD,2022-12-21 19:01:00,2022-12-21,2022-12-19,2022-12-19,Key Managerial Personnel,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,1474148.0,0.34,1454148.0,0.34
+VGUARD,2022-12-22 16:58:00,2022-12-20,2022-12-16,2022-12-16,Other,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,28419.0,0.01,23419.0,0.01
+VGUARD,2022-12-22 16:58:00,2022-12-22,2022-12-21,2022-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,131500.0,0.03,130000.0,0.03
+VGUARD,2022-12-26 15:47:00,2022-12-24,2022-12-22,2022-12-22,Other,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,16419.0,0.0,11919.0,0.0
+VGUARD,2022-12-26 15:47:00,2022-12-22,2022-12-21,2022-12-21,Other,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,23419.0,0.01,16419.0,0.0
+VGUARD,2022-12-26 15:47:00,2022-12-23,2022-12-23,2022-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,33611.0,0.01,28611.0,0.01
+VGUARD,2022-12-26 15:47:00,2022-12-24,2022-12-23,2022-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,252038.0,0.06,238038.0,0.06
+VGUARD,2022-12-26 18:48:00,2022-12-26,2022-12-22,2022-12-22,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,20559.0,0.0,19559.0,0.0
+VGUARD,2022-12-28 16:16:00,2022-12-26,2022-12-26,2022-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,286225.0,0.07,285025.0,0.07
+VGUARD,2022-12-28 16:16:00,2022-12-28,2022-12-27,2022-12-27,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2045.0,0.0,0.0,0.0,0.0,19559.0,0.0,17514.0,0.0
+VGUARD,2022-12-28 16:16:00,2022-12-28,2022-12-26,2022-12-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,17514.0,0.0,16514.0,0.0
+VGUARD,2022-12-28 16:16:00,2022-12-26,2022-12-23,2022-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,750.0,0.0,,0.0
+VGUARD,2022-12-28 16:16:00,2022-12-27,2022-12-26,2022-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5067.0,0.0,0.0,0.0,0.0,130000.0,0.03,124933.0,0.03
+VGUARD,2022-12-28 16:16:00,2022-12-28,2022-12-27,2022-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1120.0,0.0,0.0,0.0,0.0,124933.0,0.03,123813.0,0.03
+VGUARD,2022-12-30 10:54:00,2022-12-29,2022-12-28,2022-12-28,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,16514.0,0.0,14914.0,0.0
+VGUARD,2022-12-30 10:54:00,2022-12-29,2022-12-29,2022-12-29,Key Managerial Personnel,Market Sale,Sell,Equity Shares,4355.0,0.0,0.0,0.0,0.0,14914.0,0.0,10559.0,0.0
+VGUARD,2022-12-30 10:54:00,2022-12-29,2022-12-29,2022-12-29,Key Managerial Personnel,Market Sale,Sell,Equity Shares,645.0,0.0,0.0,0.0,0.0,10559.0,0.0,9914.0,0.0
+VGUARD,2022-12-30 17:51:00,2022-12-30,2022-12-30,2022-12-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,1454148.0,0.34,1404148.0,0.33
+VGUARD,2022-12-30 17:51:00,2022-12-30,2022-12-30,2022-12-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,1454148.0,0.34,1404148.0,0.33
+VGUARD,2022-12-30 17:51:00,2022-12-30,2022-12-30,2022-12-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,1454148.0,0.34,1404148.0,0.33
+VGUARD,2023-01-02 18:33:00,2023-01-02,2022-12-30,2022-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3656.0,0.0,0.0,0.0,0.0,5895.0,0.0,2239.0,0.0
+VGUARD,2023-01-02 18:33:00,2023-01-02,2022-12-30,2022-12-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,9914.0,0.0,7914.0,0.0
+VGUARD,2023-01-02 18:33:00,2022-12-30,2022-12-28,2022-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,238038.0,0.06,237038.0,0.05
+VGUARD,2023-02-13 11:01:00,2023-02-08,2023-02-07,2023-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,285025.0,0.07,284225.0,0.07
+VGUARD,2023-02-13 18:40:00,2023-02-10,2023-02-08,2023-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,284225.0,0.07,283625.0,0.07
+VGUARD,2023-02-22 15:34:00,2023-02-22,2023-02-21,2023-02-21,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1621148.0,0.38,1611148.0,0.37
+VGUARD,2023-02-24 17:37:00,2023-02-24,2023-02-23,2023-02-23,Director,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1606148.0,0.37,1596148.0,0.37
+VGUARD,2023-02-24 17:37:00,2023-02-23,2023-02-22,2023-02-22,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1611148.0,0.37,1606148.0,0.37
+VGUARD,2023-02-28 10:23:00,2023-02-27,2023-02-24,2023-02-24,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1596148.0,0.37,1591148.0,0.37
+VGUARD,2023-03-15 12:03:00,2023-03-15,2023-03-14,2023-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,130000.0,0.03,120000.0,0.03
+VGUARD,2023-03-30 11:16:00,2023-03-29,2023-03-29,2023-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,99876.0,0.02,98876.0,0.02
+VGUARD,2023-03-31 11:52:00,2023-03-30,2023-03-29,2023-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,62547.0,0.01,61047.0,0.01
+VGUARD,2023-03-31 17:04:00,2023-03-31,2023-03-31,2023-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,61047.0,0.01,60547.0,0.01
+VGUARD,2023-03-31 17:46:00,2023-03-31,2023-03-29,2023-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,94993.0,0.02,92993.0,0.02
+VGUARD,2023-04-03 14:53:00,2023-04-03,2023-03-31,2023-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,98876.0,0.02,98376.0,0.02
+VGUARD,2023-04-04 11:55:00,2023-03-31,2023-03-31,2023-03-31,Employees/Designated Employees,Invocation of pledge,Pledge Invoke,Equity Shares,10000.0,0.0,0.0,0.0,0.0,27762.0,0.01,17762.0,0.0
+VGUARD,2023-06-06 17:17:00,2023-06-03,2023-06-02,2023-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,146788.0,0.03,144788.0,0.03
+VGUARD,2023-06-07 15:29:00,2023-06-07,2023-06-05,2023-06-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9793.0,0.0,0.0,0.0,0.0,9793.0,0.0,,0.0

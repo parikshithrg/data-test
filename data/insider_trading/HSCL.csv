@@ -1,0 +1,21 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+HSCL,2016-04-01 18:41:00,2016-03-28,2016-03-25,2016-03-25,Promoters,-,Buy,Equity Shares,32675297.0,0.0,0.0,0.0,0.0,5500000.0,1.43,38175297.0,
+HSCL,2019-03-16 20:51:00,2019-03-15,2019-03-15,2019-03-15,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Sell,Equity Shares,46140000.0,0.0,0.0,0.0,0.0,46140000.0,11.02,,0.0
+HSCL,2019-03-16 20:51:00,2019-03-15,2019-03-15,2019-03-15,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Sell,Equity Shares,98284310.0,0.0,0.0,0.0,0.0,98284310.0,23.48,,0.0
+HSCL,2019-03-16 20:51:00,2019-03-15,2019-03-15,2019-03-15,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,182599607.0,0.0,0.0,0.0,0.0,,0.0,182599607.0,43.62
+HSCL,2019-03-16 20:51:00,2019-03-15,2019-03-15,2019-03-15,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Sell,Equity Shares,38175297.0,0.0,0.0,0.0,0.0,38175297.0,9.12,,0.0
+HSCL,2020-11-02 19:49:00,2020-11-02,2020-10-29,2020-10-29,Promoters,Inter-se-Transfer,Buy,Equity Shares,1484280.0,0.0,0.0,0.0,0.0,,0.0,1484280.0,0.35
+HSCL,2020-11-17 19:18:00,2020-11-16,2020-11-14,2020-11-14,Key Managerial Personnel,Market Sale,Sell,Equity Shares,45000.0,0.0,0.0,0.0,0.0,46400.0,0.01,1400.0,0.0
+HSCL,2020-11-18 18:11:00,2020-11-17,2020-11-17,2020-11-17,Key Managerial Personnel,Market Sale,Sell,Equity Shares,24000.0,0.0,0.0,0.0,0.0,26162.0,0.01,2162.0,0.0
+HSCL,2020-11-20 15:54:00,2020-11-19,2020-11-17,2020-11-18,Promoters,Market Sale,Sell,Equity Shares,3234280.0,0.0,0.0,0.0,0.0,3234280.0,0.77,,0.0
+HSCL,2020-11-20 16:03:00,2020-11-19,2020-11-18,2020-11-18,Promoters,Market Sale,Sell,Equity Shares,763420.0,0.0,0.0,0.0,0.0,763420.0,0.19,,0.0
+HSCL,2020-11-20 19:47:00,2020-11-20,2020-11-18,2020-11-20,Promoter Group,Market Sale,Sell,Equity Shares,8002933.0,0.0,0.0,0.0,0.0,9487000.0,2.27,1484067.0,0.35
+HSCL,2020-11-21 20:41:00,2020-11-21,2020-11-20,2020-11-20,Promoters,Market Sale,Sell,Equity Shares,822850.0,0.0,0.0,0.0,0.0,822850.0,0.2,,0.0
+HSCL,2020-11-21 20:41:00,2020-11-21,2020-11-20,2020-11-20,Promoters,Market Sale,Sell,Equity Shares,850000.0,0.0,0.0,0.0,0.0,850000.0,0.2,,0.0
+HSCL,2020-11-21 20:41:00,2020-11-21,2020-11-20,2020-11-20,Promoters,Market Sale,Sell,Equity Shares,822850.0,0.0,0.0,0.0,0.0,822850.0,0.2,,0.0
+HSCL,2022-04-23 16:35:00,2022-04-22,2022-04-21,2022-04-21,Key Managerial Personnel,ESOP,Buy,Equity Shares,65000.0,0.0,0.0,0.0,0.0,1400.0,0.0,66400.0,0.02
+HSCL,2022-04-25 19:13:00,2022-04-23,2022-04-21,2022-04-21,Key Managerial Personnel,ESOP,Buy,Equity Shares,56818.0,0.0,0.0,0.0,0.0,,0.0,56818.0,0.01
+HSCL,2022-07-18 18:27:00,2021-05-21,2020-12-04,2021-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,95300.0,0.0,0.0,0.0,0.0,106700.0,0.02,11400.0,0.0
+HSCL,2022-07-18 18:27:00,2021-05-21,2020-12-04,2021-03-26,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,110700.0,0.0,0.0,0.0,0.0,,0.0,110700.0,0.02
+HSCL,2025-11-11 18:31:00,2025-11-11,2025-11-07,2025-11-07,Promoters,Preferential Offer,Buy,Equity Shares,6000000.0,0.0,0.0,0.0,0.0,37317676.0,7.55,43317676.0,8.59
+HSCL,2025-11-11 18:38:00,2025-11-11,2025-11-07,2025-11-07,Promoters,Preferential Offer,Buy,Equity Shares,4000000.0,0.0,0.0,0.0,0.0,13750000.0,2.78,17750000.0,3.52

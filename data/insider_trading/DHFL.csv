@@ -1,0 +1,76 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+DHFL,2015-12-01 12:38:00,2015-11-19,2015-11-19,2015-11-19,Key Managerial Personnel,Revokation of Pledge,Pledge Revoke,Equity Shares,15000.0,0.0,0.0,0.0,0.0,15000.0,0.0,15000.0,0.0
+DHFL,2015-12-18 18:16:00,2015-12-18,2015-12-17,2015-12-17,Other,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,16040.0,0.01,11040.0,0.01
+DHFL,2016-03-16 18:22:00,2016-03-15,2016-03-11,2016-03-11,Promoters,Preferential Offer,Buy,Warrants,21230070.0,0.0,0.0,0.0,0.0,,0.0,21230070.0,0.0
+DHFL,2016-08-09 19:39:00,2016-08-08,2016-07-22,2016-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,30790.0,0.0,24790.0,0.0
+DHFL,2016-08-09 19:41:00,2016-08-08,2016-08-04,2016-08-05,Other,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,11040.0,0.01,8040.0,0.01
+DHFL,2016-09-09 19:40:00,2016-09-08,2016-08-12,2016-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4700.0,0.0,0.0,0.0,0.0,24790.0,0.01,20090.0,0.01
+DHFL,2016-10-04 18:16:00,2016-10-03,2016-09-30,2016-09-30,Promoters,Conversion of security,Buy,Equity Shares,21230070.0,0.0,0.0,0.0,0.0,95819644.0,32.84,117049714.0,37.39
+DHFL,2017-01-25 16:38:00,2017-01-24,2017-01-20,2017-01-20,Other,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,48040.0,0.02,38040.0,0.01
+DHFL,2017-03-01 16:14:00,2017-02-27,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5540.0,0.0,3540.0,0.0
+DHFL,2017-05-17 16:18:00,2017-05-16,2017-05-12,2017-05-12,Other,ESOP,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,5249.0,0.0,155249.0,0.05
+DHFL,2017-05-17 16:18:00,2017-05-16,2017-05-12,2017-05-12,Key Managerial Personnel,ESOP,Buy,Equity Shares,50000.0,0.0,0.0,0.0,0.0,2.0,0.0,50002.0,0.02
+DHFL,2017-05-25 17:28:00,2017-05-24,2017-05-22,2017-05-23,Other,Market Sale,Sell,Equity Shares,29000.0,0.0,0.0,0.0,0.0,155249.0,0.05,126249.0,0.01
+DHFL,2017-05-25 17:28:00,2017-05-24,2017-05-22,2017-05-23,Key Managerial Personnel,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,50002.0,0.02,30002.0,0.01
+DHFL,2017-05-30 19:43:00,2017-05-26,2017-05-25,2017-05-26,Other,Market Sale,Sell,Equity Shares,46000.0,0.0,0.0,0.0,0.0,126249.0,0.04,80249.0,0.03
+DHFL,2017-06-02 18:39:00,2017-06-01,2017-06-01,2017-06-01,Other,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,4588.0,0.0,1588.0,0.0
+DHFL,2017-06-02 18:39:00,2017-05-31,2017-05-26,2017-05-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,30002.0,0.01,25002.0,0.01
+DHFL,2017-06-02 18:39:00,2017-06-02,2017-05-31,2017-05-31,Key Managerial Personnel,Market Sale,Sell,Equity Shares,11200.0,0.0,0.0,0.0,0.0,25002.0,0.01,13802.0,0.0
+DHFL,2017-06-08 18:42:00,2017-06-07,2017-06-02,2017-06-07,Key Managerial Personnel,Market Sale,Sell,Equity Shares,4300.0,0.0,0.0,0.0,0.0,14039.0,0.04,9739.0,0.003
+DHFL,2017-06-13 12:33:00,2017-06-12,2017-06-08,2017-06-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5700.0,0.0,0.0,0.0,0.0,9739.0,0.003,4039.0,0.001
+DHFL,2017-06-22 17:43:00,2017-06-20,2017-06-08,2017-06-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,13428.0,0.0,0.0,0.0,0.0,500.0,0.0,13928.0,0.0
+DHFL,2017-06-22 17:43:00,2017-06-20,2017-06-08,2017-06-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,11191.0,0.0,0.0,0.0,0.0,7019.0,0.0,18210.0,0.0
+DHFL,2017-06-22 17:43:00,2017-06-20,2017-06-08,2017-06-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,7162.0,0.0,0.0,0.0,0.0,,0.0,7162.0,0.0
+DHFL,2017-06-22 17:43:00,2017-06-20,2017-06-08,2017-06-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3581.0,0.0,0.0,0.0,0.0,2246.0,0.0,5827.0,0.0
+DHFL,2017-06-22 17:43:00,2017-06-20,2017-06-08,2017-06-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,4028.0,0.0,0.0,0.0,0.0,,0.0,4028.0,0.0
+DHFL,2017-06-22 17:43:00,2017-06-20,2017-06-08,2017-06-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3581.0,0.0,0.0,0.0,0.0,2246.0,0.0,5827.0,0.0
+DHFL,2017-06-22 17:43:00,2017-06-20,2017-06-08,2017-06-08,Key Managerial Personnel,ESOP,Buy,Equity Shares,7162.0,0.0,0.0,0.0,0.0,13802.0,0.0,20964.0,0.0
+DHFL,2017-11-07 17:16:00,2017-11-07,2017-10-24,2017-10-24,Employees/Designated Employees,Others,Buy,Equity Shares,2477.0,0.0,0.0,0.0,0.0,1909.0,0.0,4386.0,0.0
+DHFL,2017-11-07 17:16:00,2017-11-07,2017-10-24,2017-10-24,Employees/Designated Employees,Others,Buy,Equity Shares,3302.0,0.0,0.0,0.0,0.0,3066.0,0.0,6368.0,0.0
+DHFL,2017-11-07 17:16:00,2017-11-07,2017-10-24,2017-10-24,Employees/Designated Employees,Others,Buy,Equity Shares,8808.0,0.0,0.0,0.0,0.0,,0.0,8808.0,0.0
+DHFL,2017-11-07 17:16:00,2017-11-07,2017-10-24,2017-10-24,Employees/Designated Employees,Others,Buy,Equity Shares,4404.0,0.0,0.0,0.0,0.0,1588.0,0.0,5992.0,0.0
+DHFL,2017-11-07 17:16:00,2017-11-07,2017-10-24,2017-10-24,Employees/Designated Employees,Others,Buy,Equity Shares,4404.0,0.0,0.0,0.0,0.0,,0.0,4404.0,0.0
+DHFL,2017-11-07 17:16:00,2017-11-07,2017-10-24,2017-10-24,Employees/Designated Employees,Others,Buy,Equity Shares,4954.0,0.0,0.0,0.0,0.0,,0.0,4954.0,0.0
+DHFL,2017-11-07 17:16:00,2017-11-07,2017-10-24,2017-10-24,Employees/Designated Employees,Others,Buy,Equity Shares,2477.0,0.0,0.0,0.0,0.0,,0.0,2477.0,0.0
+DHFL,2017-11-07 17:16:00,2017-11-07,2017-10-24,2017-10-24,Employees/Designated Employees,Others,Buy,Equity Shares,8808.0,0.0,0.0,0.0,0.0,2.0,0.0,8810.0,0.0
+DHFL,2018-01-08 19:02:00,2018-01-05,2018-01-03,2018-01-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,2271.0,0.0,0.0,0.0,0.0,8810.0,0.0,11081.0,0.0
+DHFL,2018-01-08 19:02:00,2018-01-05,2018-01-03,2018-01-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,2271.0,0.0,0.0,0.0,0.0,5827.0,0.0,8098.0,0.0
+DHFL,2018-01-08 19:02:00,2018-01-05,2018-01-03,2018-01-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,2271.0,0.0,0.0,0.0,0.0,82263.0,0.0,84534.0,0.0
+DHFL,2018-01-08 19:02:00,2018-01-05,2018-01-03,2018-01-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,2805.0,0.0,0.0,0.0,0.0,4808.0,0.0,7613.0,0.0
+DHFL,2018-01-08 19:02:00,2018-01-05,2017-12-20,2017-12-20,Key Managerial Personnel,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,5381.0,0.0,5181.0,0.0
+DHFL,2018-01-08 19:02:00,2018-01-05,2018-01-03,2018-01-03,Key Managerial Personnel,ESOP,Buy,Equity Shares,2271.0,0.0,0.0,0.0,0.0,5181.0,0.0,7452.0,0.0
+DHFL,2018-01-08 19:02:00,2018-01-05,2018-01-03,2018-01-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,2271.0,0.0,0.0,0.0,0.0,5992.0,0.0,8263.0,0.0
+DHFL,2018-01-31 16:41:00,2018-01-31,2018-01-29,2018-01-29,Other,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,84534.0,0.03,82534.0,0.03
+DHFL,2018-06-06 18:43:00,2018-06-04,2018-05-31,2018-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3338.0,0.0,0.0,0.0,0.0,3338.0,0.0,,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,8882.0,0.0,0.0,0.0,0.0,4204.0,0.0,13086.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,7332.0,0.0,0.0,0.0,0.0,5827.0,0.0,13159.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,3650.0,0.0,0.0,0.0,0.0,1727.0,0.0,5377.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,3605.0,0.0,0.0,0.0,0.0,423.0,0.0,4028.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,2538.0,0.0,0.0,0.0,0.0,4360.0,0.0,6898.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,2506.0,0.0,0.0,0.0,0.0,4360.0,0.0,6866.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1685.0,0.0,0.0,0.0,0.0,750.0,0.0,2435.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1685.0,0.0,0.0,0.0,0.0,2816.0,0.0,4501.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1684.0,0.0,0.0,0.0,0.0,2814.0,0.0,4498.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1671.0,0.0,0.0,0.0,0.0,2184.0,0.0,3855.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1669.0,0.0,0.0,0.0,0.0,58366.0,0.02,60035.0,0.02
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1661.0,0.0,0.0,0.0,0.0,,0.0,1661.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1660.0,0.0,0.0,0.0,0.0,,0.0,1660.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1598.0,0.0,0.0,0.0,0.0,8.0,0.0,1606.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1683.0,0.0,0.0,0.0,0.0,2184.0,0.0,3867.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1685.0,0.0,0.0,0.0,0.0,4983.0,0.0,6668.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-06-05,2018-06-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,5283.0,0.0,4983.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-05-07,2018-05-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,5583.0,0.0,5283.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Key Managerial Personnel,ESOP,Buy,Equity Shares,1686.0,0.0,0.0,0.0,0.0,7252.0,0.0,8938.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-05-07,2018-05-07,Key Managerial Personnel,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,7452.0,0.0,7252.0,0.0
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,2528.0,0.0,0.0,0.0,0.0,82534.0,0.03,85062.0,0.03
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Key Managerial Personnel,ESOP,Buy,Equity Shares,6755.0,0.0,0.0,0.0,0.0,20941.0,0.01,27696.0,0.01
+DHFL,2018-08-07 20:38:00,2018-08-03,2018-08-01,2018-08-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,11600.0,0.0,0.0,0.0,0.0,181.0,0.0,11781.0,0.0
+DHFL,2018-08-17 20:13:00,2018-08-17,2018-08-16,2018-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13159.0,0.0,0.0,0.0,0.0,13159.0,0.0,,0.0
+DHFL,2018-08-17 20:13:00,2018-08-17,2018-08-17,2018-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,13086.0,0.0,10586.0,0.0
+DHFL,2018-08-21 19:41:00,2018-08-20,2018-08-16,2018-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2300.0,0.0,0.0,0.0,0.0,2548.0,0.0,248.0,0.0
+DHFL,2018-08-21 19:41:00,2018-08-20,2018-08-16,2018-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,85062.0,0.03,77062.0,0.03
+DHFL,2018-08-21 19:41:00,2018-08-20,2018-08-20,2018-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,6037.0,0.0,1037.0,0.0
+DHFL,2018-10-17 18:26:00,2018-10-16,2018-10-12,2018-10-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,,0.0
+DHFL,2018-10-17 18:26:00,2018-10-16,2018-10-01,2018-10-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1500.0,0.0,,0.0
+DHFL,2018-10-17 18:26:00,2018-10-16,2018-10-12,2018-10-12,Employees/Designated Employees,Market Sale,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0
+DHFL,2019-04-01 17:16:00,2019-03-29,2019-03-28,2019-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,77062.0,0.03,52062.0,0.02

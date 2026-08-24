@@ -1,0 +1,13 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+GTL,2017-01-13 16:10:00,2016-12-30,2016-10-19,2016-10-19,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,22000000.0,0.0,0.0,0.0,0.0,50980559.0,32.41,28980559.0,18.42
+GTL,2018-08-02 14:40:00,2018-08-01,2018-05-19,2018-05-19,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,22000000.0,0.0,0.0,0.0,0.0,50980559.0,32.41,50980559.0,32.41
+GTL,2018-08-02 14:40:00,2018-08-01,2018-05-11,2018-05-11,Promoters,Others,Pledge,Equity Shares,22000000.0,0.0,0.0,0.0,0.0,28980559.0,18.42,28980559.0,18.42
+GTL,2018-08-02 14:40:00,2018-08-01,2018-05-19,2018-05-19,Promoters,Pledge Creation,Pledge,Equity Shares,22000000.0,0.0,0.0,0.0,0.0,50980559.0,32.41,50980559.0,32.41
+GTL,2018-08-02 16:32:00,2018-08-01,2018-05-19,2018-05-19,Promoters,Pledge Creation,Pledge,Equity Shares,22000000.0,0.0,0.0,0.0,0.0,50980559.0,32.41,50980559.0,32.41
+GTL,2018-08-02 16:32:00,2018-08-01,2018-05-11,2018-05-11,Promoters,Others,Pledge,Equity Shares,22000000.0,0.0,0.0,0.0,0.0,28980559.0,18.42,28980559.0,18.42
+GTL,2018-08-02 16:32:00,2018-08-01,2018-05-19,2018-05-19,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,22000000.0,0.0,0.0,0.0,0.0,50980559.0,32.41,50980559.0,32.41
+GTL,2018-08-30 12:03:00,2018-08-28,2018-05-19,2018-05-19,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,22000000.0,0.0,0.0,0.0,0.0,50980559.0,32.41,50980559.0,32.41
+GTL,2018-08-30 12:03:00,2018-08-28,2018-05-11,2018-05-11,Promoters,Others,Pledge,Equity Shares,22000000.0,0.0,0.0,0.0,0.0,28980559.0,18.42,28980559.0,18.42
+GTL,2018-08-30 12:03:00,2018-08-28,2018-05-19,2018-05-19,Promoters,Pledge Creation,Pledge,Equity Shares,22000000.0,0.0,0.0,0.0,0.0,50980559.0,32.41,50980559.0,32.41
+GTL,2019-04-02 18:36:00,2019-04-02,2019-03-28,2019-03-28,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,18599435.0,0.0,0.0,0.0,0.0,18599435.0,11.82,,0.0
+GTL,2022-03-03 20:00:00,2022-03-03,2022-03-02,2022-03-02,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,28500000.0,0.0,0.0,0.0,0.0,50980559.0,32.41,22480559.0,14.29

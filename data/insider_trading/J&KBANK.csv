@@ -1,0 +1,7 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+J&KBANK,2017-03-22 18:59:00,2017-03-20,2017-03-20,2017-03-20,Promoters,Preferential Offer,Buy,Equity Shares,2060206.0,0.0,0.0,0.0,0.0,14526680.0,3.0,16586886.0,3.18
+J&KBANK,2017-03-22 18:59:00,2017-03-21,2017-03-20,2017-03-20,Promoters,Preferential Offer,Buy,Equity Shares,36555051.0,0.0,0.0,0.0,0.0,257752660.0,53.17,294307711.0,56.45
+J&KBANK,2017-03-22 18:59:00,2017-03-21,2017-03-20,2017-03-20,Promoters,Preferential Offer,Buy,Equity Shares,36555051.0,0.0,0.0,0.0,0.0,257752660.0,53.17,294307711.0,56.45
+J&KBANK,2017-03-22 18:59:00,2017-03-20,2017-03-20,2017-03-20,Promoters,Preferential Offer,Buy,Equity Shares,34494845.0,0.0,0.0,0.0,0.0,243225980.0,50.17,277720825.0,53.27
+J&KBANK,2017-06-10 13:32:00,2017-06-09,2017-06-07,2017-06-07,Promoter Group,Preferential Offer,Buy,Equity Shares,35525321.0,0.0,0.0,0.0,0.0,294307711.0,56.45,329833032.0,59.23
+J&KBANK,2020-04-07 12:46:00,2020-04-06,2020-03-31,2020-03-31,Promoters,Preferential Offer,Buy,Equity Shares,156592546.0,0.0,0.0,0.0,0.0,329833032.0,59.23,486425578.0,68.18

@@ -1,0 +1,4 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+EASEMYTRIP,2023-06-24 13:43:00,2023-06-23,2023-06-23,2023-06-23,Promoters,Market Sale,Sell,Equity Shares,62578220.0,0.0,0.0,0.0,0.0,560989008.0,32.27,498410788.0,28.67
+EASEMYTRIP,2023-06-30 14:00:00,2023-06-30,2023-06-30,2023-06-30,Promoters,Market Sale,Sell,Equity Shares,100000000.0,0.0,0.0,0.0,0.0,558640176.0,32.14,458640176.0,26.38
+EASEMYTRIP,2025-01-06 12:48:00,2024-12-31,2024-12-31,2024-12-31,Promoters,-,Sell,Equity Shares,50000000.0,0.0,0.0,0.0,0.0,503721910.0,14.21,453721910.0,12.8

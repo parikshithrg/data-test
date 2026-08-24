@@ -1,0 +1,7 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+MOIL,2016-10-13 17:46:00,2016-10-07,2016-09-26,2016-09-26,Promoters,Others,Sell,Equity Shares,32047465.0,0.0,0.0,0.0,0.0,120235680.0,71.57,88188215.0,66.21
+MOIL,2016-10-13 21:12:00,2016-10-13,2016-09-29,2016-09-29,Promoters,Others,Sell,Equity Shares,1691333.0,0.0,0.0,0.0,0.0,7757400.0,4.62,6066067.0,4.55
+MOIL,2017-01-27 20:05:00,2017-01-27,2017-01-24,2017-01-24,Promoters,Others,Sell,Equity Shares,10655024.0,0.0,0.0,0.0,0.0,88188215.0,66.21,77533191.0,58.21
+MOIL,2017-01-30 19:10:00,2017-01-30,2017-01-25,2017-01-25,Promoters,Others,Sell,Equity Shares,2663756.0,0.0,0.0,0.0,0.0,77533191.0,58.21,74869435.0,56.21
+MOIL,2018-03-28 19:39:00,2018-03-28,2018-03-27,2018-03-27,Promoters,Others,Sell,Equity Shares,5458177.0,0.0,0.0,0.0,0.0,149738870.0,56.21,144280693.0,56.01
+MOIL,2020-01-20 18:34:00,2020-01-20,2020-01-16,2020-01-16,Promoters,Others,Sell,Equity Shares,16496768.0,0.0,0.0,0.0,0.0,144280693.0,56.01,127783925.0,53.84

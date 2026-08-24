@@ -1,0 +1,4 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+COCHINSHIP,2018-12-20 17:04:00,2018-12-20,2018-12-18,2018-12-18,Promoters,Others,Sell,Equity Shares,3017558.0,0.0,0.0,0.0,0.0,101952000.0,75.0,98934442.0,75.21
+COCHINSHIP,2020-02-07 13:54:00,2020-02-05,2020-02-03,2020-02-03,Promoters,Off Market,Sell,Equity Shares,3090978.0,0.0,0.0,0.0,0.0,98934442.0,75.21,95843464.0,72.86
+COCHINSHIP,2024-10-21 19:11:00,2024-10-21,2024-10-16,2024-10-17,Promoters,Market Sale,Sell,Equity Shares,13015689.0,0.0,0.0,0.0,0.0,191686928.0,72.86,178671239.0,67.91

@@ -1,0 +1,24 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+POLYPLEX,2016-02-24 18:37:00,2016-02-23,2016-02-22,2016-02-22,Promoters,Market Purchase,Buy,Equity Shares,279000.0,0.0,0.0,0.0,0.0,46138.0,0.1443,325138.0,1.0165
+POLYPLEX,2016-02-24 18:37:00,2016-02-23,2016-02-22,2016-02-22,Promoters,Market Purchase,Buy,Equity Shares,208000.0,0.0,0.0,0.0,0.0,,0.0,208000.0,0.6503
+POLYPLEX,2016-02-24 18:37:00,2016-02-23,2016-02-22,2016-02-22,Promoters,Market Purchase,Buy,Equity Shares,259000.0,0.0,0.0,0.0,0.0,,0.0,259000.0,0.8098
+POLYPLEX,2016-02-24 18:37:00,2016-02-23,2016-02-22,2016-02-22,Promoters,Market Purchase,Buy,Equity Shares,245000.0,0.0,0.0,0.0,0.0,,0.0,245000.0,0.766
+POLYPLEX,2021-03-04 11:57:00,2021-03-03,2021-03-03,2021-03-03,Promoters,Market Purchase,Sell,Equity Shares,325000.0,0.0,0.0,0.0,0.0,325138.0,1.04,138.0,0.0
+POLYPLEX,2021-03-04 11:57:00,2021-03-03,2021-03-03,2021-03-03,Promoter Group,Market Purchase,Buy,Equity Shares,325000.0,0.0,0.0,0.0,0.0,245000.0,0.78,570000.0,1.82
+POLYPLEX,2022-12-30 13:37:00,2022-12-29,2022-12-28,2022-12-28,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,200000.0,0.0,0.0,0.0,0.0,1390924.0,4.43,1190924.0,3.79
+POLYPLEX,2022-12-30 13:37:00,2022-12-30,2022-12-28,2022-12-28,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,208000.0,0.66,408000.0,1.3
+POLYPLEX,2022-12-30 16:59:00,2022-12-30,2022-12-30,2022-12-30,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,130000.0,0.0,0.0,0.0,0.0,408000.0,1.3,538000.0,1.71
+POLYPLEX,2022-12-30 16:59:00,2022-12-30,2022-12-30,2022-12-30,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,130000.0,0.0,0.0,0.0,0.0,1190924.0,3.79,1060924.0,3.38
+POLYPLEX,2023-01-30 18:23:00,2023-01-30,2023-01-27,2023-01-27,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,230000.0,0.0,0.0,0.0,0.0,411278.0,1.31,641278.0,2.04
+POLYPLEX,2023-01-30 18:23:00,2023-01-30,2023-01-27,2023-01-27,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,230000.0,0.0,0.0,0.0,0.0,1060924.0,3.38,830924.0,2.65
+POLYPLEX,2023-01-31 15:15:00,2023-01-31,2023-01-30,2023-01-30,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,270000.0,0.0,0.0,0.0,0.0,830924.0,2.65,560924.0,1.79
+POLYPLEX,2023-01-31 15:15:00,2023-01-31,2023-01-30,2023-01-30,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,270000.0,0.0,0.0,0.0,0.0,641278.0,2.04,911278.0,2.9
+POLYPLEX,2023-02-01 17:13:00,2023-02-01,2023-01-31,2023-01-31,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,260000.0,0.0,0.0,0.0,0.0,911278.0,2.9,1171278.0,3.73
+POLYPLEX,2023-02-01 17:13:00,2023-02-01,2023-01-31,2023-01-31,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,260000.0,0.0,0.0,0.0,0.0,560924.0,1.79,300924.0,0.96
+POLYPLEX,2023-02-02 17:01:00,2023-02-02,2023-02-01,2023-02-01,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,230924.0,0.0,0.0,0.0,0.0,300924.0,0.96,70000.0,0.22
+POLYPLEX,2023-02-02 17:01:00,2023-02-02,2023-02-01,2023-02-01,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,230924.0,0.0,0.0,0.0,0.0,1171278.0,3.73,1402202.0,4.47
+POLYPLEX,2023-02-02 18:24:00,2023-02-02,2023-02-02,2023-02-02,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,69000.0,0.0,0.0,0.0,0.0,538000.0,1.71,607000.0,1.93
+POLYPLEX,2023-02-02 18:24:00,2023-02-02,2023-02-02,2023-02-02,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,69000.0,0.0,0.0,0.0,0.0,70000.0,0.22,1000.0,0.0
+POLYPLEX,2023-11-10 17:27:00,2023-11-09,2023-11-09,2023-11-09,Promoter Group,Off Market,Sell,Equity Shares,7621390.0,0.0,0.0,0.0,0.0,7622390.0,24.28,1000.0,0.0
+POLYPLEX,2024-06-01 15:33:00,2024-06-01,2024-05-30,2024-05-31,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,1402202.0,0.0,0.0,0.0,0.0,1402202.0,4.47,,0.0
+POLYPLEX,2024-06-01 15:33:00,2024-06-01,2024-05-30,2024-05-31,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,1402202.0,0.0,0.0,0.0,0.0,5535744.0,17.63,6937946.0,22.1

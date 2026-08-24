@@ -1,0 +1,350 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+IEX,2018-02-08 18:38:00,2018-02-06,2018-02-06,2018-02-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3300.0,0.01,2800.0,0.01
+IEX,2018-02-08 18:38:00,2018-02-07,2018-02-06,2018-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,5300.0,0.02,4950.0,0.02
+IEX,2018-02-09 19:10:00,2018-02-09,2018-02-07,2018-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,6600.0,0.02,6300.0,0.02
+IEX,2018-02-09 19:10:00,2018-02-09,2018-02-07,2018-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,2800.0,0.01,1900.0,0.01
+IEX,2018-02-09 19:10:00,2018-02-09,2018-02-08,2018-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,4950.0,0.02,4250.0,0.01
+IEX,2018-02-14 19:26:00,2018-02-13,2018-02-12,2018-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1900.0,0.01,1650.0,0.01
+IEX,2018-02-14 19:26:00,2018-02-14,2018-02-12,2018-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,17500.0,0.06,16200.0,0.05
+IEX,2018-02-14 19:26:00,2018-02-13,2018-02-12,2018-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30.0,0.0,0.0,0.0,0.0,2000.0,0.01,1970.0,0.01
+IEX,2018-02-14 19:26:00,2018-02-14,2018-02-14,2018-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3300.0,0.01,2800.0,0.01
+IEX,2018-02-19 18:09:00,2018-02-16,2018-02-15,2018-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,1650.0,0.01,1300.0,0.0
+IEX,2018-02-19 18:09:00,2018-02-16,2018-02-15,2018-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,16200.0,0.05,15500.0,0.05
+IEX,2018-02-19 18:09:00,2018-02-16,2018-02-15,2018-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,813.0,0.0,0.0,0.0,0.0,2800.0,0.01,1987.0,0.01
+IEX,2018-02-19 18:09:00,2018-02-19,2018-02-15,2018-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,50000.0,0.16,49900.0,0.16
+IEX,2018-02-22 18:12:00,2018-02-21,2018-02-19,2018-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,425.0,0.0,0.0,0.0,0.0,6600.0,0.02,6175.0,0.02
+IEX,2018-02-22 18:12:00,2018-02-22,2018-02-21,2018-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,68.0,0.0,0.0,0.0,0.0,4250.0,0.01,4182.0,0.01
+IEX,2018-02-28 18:39:00,2018-02-27,2018-02-23,2018-02-23,Key Managerial Personnel,ESOP,Buy,Equity Shares,11250.0,0.0,0.0,0.0,0.0,22500.0,0.07,33750.0,0.11
+IEX,2018-03-05 17:43:00,2018-03-01,2018-02-27,2018-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,50000.0,0.16,49100.0,0.16
+IEX,2018-03-12 18:28:00,2018-03-08,2018-03-07,2018-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,4182.0,0.01,4082.0,0.01
+IEX,2018-03-12 18:28:00,2018-03-09,2018-03-08,2018-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,272.0,0.0,0.0,0.0,0.0,6300.0,0.02,6028.0,0.02
+IEX,2018-03-23 18:44:00,2018-03-23,2018-03-21,2018-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,6175.0,0.02,5875.0,0.02
+IEX,2018-03-23 18:44:00,2018-03-22,2018-03-21,2018-03-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,125.0,0.0,0.0,0.0,0.0,1000.0,0.0,875.0,0.0
+IEX,2018-03-28 20:04:00,2018-03-28,2018-03-27,2018-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,49900.0,0.16,48400.0,0.16
+IEX,2018-03-28 20:04:00,2018-03-28,2018-03-28,2018-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1428.0,0.0,0.0,0.0,0.0,6028.0,0.02,4600.0,0.02
+IEX,2018-03-28 20:04:00,2018-03-28,2018-03-26,2018-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,475.0,0.0,0.0,0.0,0.0,5875.0,0.02,5400.0,0.02
+IEX,2018-03-29 15:43:00,2018-03-29,2018-03-28,2018-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,48400.0,0.16,43400.0,0.14
+IEX,2018-04-06 18:42:00,2018-04-04,2018-04-02,2018-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,15500.0,0.05,14800.0,0.05
+IEX,2018-04-06 18:42:00,2018-04-05,2018-04-03,2018-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,49100.0,0.16,48500.0,0.16
+IEX,2018-04-06 18:42:00,2018-04-05,2018-04-03,2018-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,575.0,0.0,0.0,0.0,0.0,875.0,0.0,300.0,0.0
+IEX,2018-04-06 18:42:00,2018-04-05,2018-04-03,2018-04-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4082.0,0.01,3582.0,0.0
+IEX,2018-04-06 18:42:00,2018-04-05,2018-04-03,2018-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,5400.0,0.02,5200.0,0.02
+IEX,2018-04-06 18:42:00,2018-04-05,2018-04-03,2018-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2900.0,0.0,0.0,0.0,0.0,43400.0,0.14,40500.0,0.13
+IEX,2018-04-06 18:42:00,2018-04-04,2018-04-02,2018-04-04,Key Managerial Personnel,Market Sale,Sell,Equity Shares,4100.0,0.0,0.0,0.0,0.0,33750.0,0.11,29650.0,0.1
+IEX,2018-04-10 19:12:00,2018-04-06,2018-04-06,2018-04-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,48500.0,0.16,47700.0,0.16
+IEX,2018-04-10 19:12:00,2018-04-09,2018-04-06,2018-04-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,14800.0,0.05,14500.0,0.05
+IEX,2018-04-10 19:12:00,2018-04-09,2018-04-06,2018-04-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,5200.0,0.02,4600.0,0.02
+IEX,2018-04-10 19:12:00,2018-04-09,2018-04-09,2018-04-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2821.0,0.0,0.0,0.0,0.0,40500.0,0.13,37679.0,0.12
+IEX,2018-04-10 19:12:00,2018-04-10,2018-04-06,2018-04-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3582.0,0.01,3282.0,0.01
+IEX,2018-04-10 19:12:00,2018-04-06,2018-04-06,2018-04-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,29650.0,0.1,28150.0,0.09
+IEX,2018-04-12 19:19:00,2018-04-11,2018-04-09,2018-04-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,47700.0,0.16,47100.0,0.16
+IEX,2018-04-12 19:19:00,2018-04-11,2018-04-09,2018-04-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,28150.0,0.09,25650.0,0.08
+IEX,2018-04-18 20:06:00,2018-04-18,2018-04-17,2018-04-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,970.0,0.0,0.0,0.0,0.0,1970.0,0.01,1000.0,0.0
+IEX,2018-04-18 20:06:00,2018-04-18,2018-04-17,2018-04-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1991.0,0.0,0.0,0.0,0.0,2180.0,0.01,189.0,0.0
+IEX,2018-04-18 20:06:00,2018-04-18,2018-04-17,2018-04-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40.0,0.0,0.0,0.0,0.0,1300.0,0.0,1260.0,0.0
+IEX,2018-04-18 20:06:00,2018-04-18,2018-04-16,2018-04-16,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,25650.0,0.08,24250.0,0.08
+IEX,2018-04-18 20:06:00,2018-04-18,2018-04-17,2018-04-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,7000.0,0.02,5000.0,0.02
+IEX,2018-04-18 20:06:00,2018-04-17,2018-04-17,2018-04-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,47100.0,0.16,46600.0,0.15
+IEX,2018-04-18 20:06:00,2018-04-18,2018-04-17,2018-04-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3179.0,0.0,0.0,0.0,0.0,37679.0,0.12,34500.0,0.11
+IEX,2018-04-18 20:06:00,2018-04-18,2018-04-17,2018-04-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,4600.0,0.02,4200.0,0.01
+IEX,2018-05-08 15:40:00,2018-05-07,2018-05-03,2018-05-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1665.0,0.0,0.0,0.0,0.0,14500.0,0.05,12835.0,0.04
+IEX,2018-05-14 19:00:00,2018-05-11,2018-05-09,2018-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2800.0,0.0,0.0,0.0,0.0,34500.0,0.11,31700.0,0.1
+IEX,2018-05-14 19:00:00,2018-05-10,2018-05-08,2018-05-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,335.0,0.0,0.0,0.0,0.0,12835.0,0.04,12500.0,0.04
+IEX,2018-05-14 19:00:00,2018-05-10,2018-05-08,2018-05-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2210.0,0.0,0.0,0.0,0.0,24250.0,0.08,22040.0,0.07
+IEX,2018-05-18 18:24:00,2018-05-17,2018-05-15,2018-05-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1554.0,0.0,0.0,0.0,0.0,31700.0,0.1,30146.0,0.1
+IEX,2018-05-18 18:24:00,2018-05-17,2018-05-15,2018-05-17,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1650.0,0.0,0.0,0.0,0.0,22040.0,0.07,20390.0,0.07
+IEX,2018-05-18 18:24:00,2018-05-18,2018-05-16,2018-05-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1505.0,0.0,0.0,0.0,0.0,3282.0,0.01,1777.0,0.01
+IEX,2018-05-18 18:24:00,2018-05-17,2018-05-15,2018-05-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4200.0,0.01,3700.0,0.01
+IEX,2018-05-21 19:27:00,2018-05-21,2018-05-17,2018-05-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,398.0,0.0,0.0,0.0,0.0,30146.0,0.1,29748.0,0.1
+IEX,2018-05-21 19:27:00,2018-05-17,2018-05-15,2018-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,466.0,0.0,0.0,0.0,0.0,46600.0,0.15,46134.0,0.15
+IEX,2018-05-21 19:27:00,2018-05-21,2018-05-18,2018-05-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,523.0,0.0,0.0,0.0,0.0,46134.0,0.15,45611.0,0.15
+IEX,2018-05-25 19:16:00,2018-05-24,2018-05-22,2018-05-22,Key Managerial Personnel,Market Sale,Sell,Equity Shares,839.0,0.0,0.0,0.0,0.0,20390.0,0.07,19551.0,0.06
+IEX,2018-05-25 19:16:00,2018-05-24,2018-05-22,2018-05-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1011.0,0.0,0.0,0.0,0.0,45611.0,0.15,44600.0,0.15
+IEX,2018-05-25 19:16:00,2018-05-25,2018-05-25,2018-05-25,Key Managerial Personnel,Market Sale,Sell,Equity Shares,99.0,0.0,0.0,0.0,0.0,19551.0,0.06,19452.0,0.06
+IEX,2018-06-01 17:16:00,2018-05-30,2018-05-28,2018-05-28,Key Managerial Personnel,Market Sale,Sell,Equity Shares,37.0,0.0,0.0,0.0,0.0,19452.0,0.06,19415.0,0.06
+IEX,2018-06-12 18:45:00,2018-06-11,2018-06-07,2018-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,460.0,0.0,0.0,0.0,0.0,1260.0,0.0,800.0,0.0
+IEX,2018-06-15 18:03:00,2018-06-15,2018-06-13,2018-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4600.0,0.02,2600.0,0.01
+IEX,2018-06-15 18:03:00,2018-06-15,2018-06-13,2018-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,800.0,0.0,600.0,0.0
+IEX,2018-06-15 18:03:00,2018-06-13,2018-06-11,2018-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4748.0,0.0,0.0,0.0,0.0,29748.0,0.1,25000.0,0.08
+IEX,2018-06-15 18:03:00,2018-06-13,2018-06-11,2018-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4300.0,0.0,0.0,0.0,0.0,44600.0,0.15,40300.0,0.13
+IEX,2018-06-15 18:03:00,2018-06-14,2018-06-12,2018-06-13,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2385.0,0.0,0.0,0.0,0.0,19415.0,0.06,17030.0,0.06
+IEX,2018-07-06 18:02:00,2018-07-05,2018-07-03,2018-07-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,154.0,0.0,0.0,0.0,0.0,40300.0,0.13,40146.0,0.13
+IEX,2018-08-20 16:33:00,2018-08-17,2018-08-16,2018-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,528.0,0.0,0.0,0.0,0.0,528.0,0.0,,0.0
+IEX,2018-08-20 16:33:00,2018-08-17,2018-08-16,2018-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1459.0,0.0,0.0,0.0,0.0,1987.0,0.01,528.0,0.0
+IEX,2018-08-24 14:38:00,2018-08-24,2018-08-21,2018-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,1777.0,0.01,1377.0,0.0
+IEX,2018-08-30 18:48:00,2018-08-30,2018-08-28,2018-08-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,990.0,0.0,0.0,0.0,0.0,,0.0,990.0,0.0
+IEX,2018-08-30 18:48:00,2018-08-30,2018-08-28,2018-08-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,1650.0,0.0,0.0,0.0,0.0,,0.0,1650.0,0.01
+IEX,2018-08-30 18:48:00,2018-08-30,2018-08-28,2018-08-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,,0.0,3300.0,0.01
+IEX,2018-08-30 18:48:00,2018-08-30,2018-08-28,2018-08-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,990.0,0.0,0.0,0.0,0.0,,0.0,990.0,0.0
+IEX,2018-08-30 18:48:00,2018-08-30,2018-08-28,2018-08-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,990.0,0.0,0.0,0.0,0.0,,0.0,990.0,0.0
+IEX,2018-08-30 18:48:00,2018-08-30,2018-08-28,2018-08-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,1650.0,0.0,0.0,0.0,0.0,,0.0,1650.0,0.01
+IEX,2018-10-18 17:52:00,2018-10-18,2018-10-16,2018-10-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1650.0,0.01,1350.0,0.0
+IEX,2018-10-29 16:53:00,2018-10-26,2018-10-24,2018-10-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,13000.0,0.0,5500.0,0.0
+IEX,2018-11-16 17:54:00,2018-11-16,2018-11-15,2018-11-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,756.0,0.0,0.0,0.0,0.0,3000.0,0.0,2244.0,0.0
+IEX,2018-11-16 17:54:00,2018-11-15,2018-11-14,2018-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,912.0,0.0,0.0,0.0,0.0,33000.0,0.01,32088.0,0.01
+IEX,2018-11-16 17:54:00,2018-11-15,2018-11-13,2018-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,9900.0,0.0,9500.0,0.0
+IEX,2018-11-16 17:54:00,2018-11-15,2018-11-13,2018-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,9900.0,0.0,9800.0,0.0
+IEX,2018-11-16 17:54:00,2018-11-15,2018-11-13,2018-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,5500.0,0.0,2500.0,0.0
+IEX,2018-11-22 18:52:00,2018-11-22,2018-11-21,2018-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,19088.0,0.0,0.0,0.0,0.0,32088.0,0.01,13000.0,0.0
+IEX,2018-11-22 18:52:00,2018-11-20,2018-11-16,2018-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,125000.0,0.04,119500.0,0.04
+IEX,2018-11-26 18:36:00,2018-11-22,2018-11-21,2018-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,,0.0
+IEX,2018-11-26 18:36:00,2018-11-26,2018-11-21,2018-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,401460.0,0.13,396460.0,0.13
+IEX,2018-11-26 18:36:00,2018-11-23,2018-11-21,2018-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,9500.0,0.0,8800.0,0.0
+IEX,2018-11-26 18:36:00,2018-11-26,2018-11-21,2018-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5849.0,0.0,0.0,0.0,0.0,119500.0,0.04,113651.0,0.04
+IEX,2018-11-26 18:36:00,2018-11-26,2018-11-21,2018-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,9800.0,0.0,7800.0,0.0
+IEX,2018-11-29 17:10:00,2018-11-28,2018-11-28,2018-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,34.0,0.0,0.0,0.0,0.0,34.0,0.0,,0.0
+IEX,2018-11-29 17:10:00,2018-11-28,2018-11-26,2018-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,494.0,0.0,0.0,0.0,0.0,2244.0,0.0,1750.0,0.0
+IEX,2018-11-29 17:10:00,2018-11-28,2018-11-28,2018-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1716.0,0.0,0.0,0.0,0.0,1750.0,0.0,34.0,0.0
+IEX,2018-12-27 20:01:00,2018-12-27,2018-12-26,2018-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1000.0,0.0,500.0,0.0
+IEX,2018-12-27 20:01:00,2018-12-27,2018-12-26,2018-12-26,Promoters,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+IEX,2018-12-27 20:01:00,2018-12-18,2018-12-14,2018-12-14,Key Managerial Personnel,ESOP,Buy,Equity Shares,112500.0,0.0,0.0,0.0,0.0,170300.0,0.06,282800.0,0.09
+IEX,2018-12-27 20:01:00,2018-12-27,2018-12-24,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6800.0,0.0,0.0,0.0,0.0,8800.0,0.0,2000.0,0.0
+IEX,2018-12-27 20:01:00,2018-12-27,2018-12-24,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+IEX,2018-12-27 20:01:00,2018-12-27,2018-12-24,2018-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7029.0,0.0,0.0,0.0,0.0,396460.0,0.13,389431.0,0.13
+IEX,2018-12-31 17:28:00,2018-12-31,2018-12-28,2018-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5040.0,0.0,0.0,0.0,0.0,103691.0,0.03,98651.0,0.03
+IEX,2018-12-31 17:28:00,2018-12-28,2018-12-26,2018-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9960.0,0.0,0.0,0.0,0.0,113651.0,0.04,103691.0,0.03
+IEX,2018-12-31 17:28:00,2018-12-28,2018-12-26,2018-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,37000.0,0.01,32000.0,0.01
+IEX,2018-12-31 17:28:00,2018-12-31,2018-12-28,2018-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7800.0,0.0,0.0,0.0,0.0,7800.0,0.0,,0.0
+IEX,2019-01-02 17:39:00,2019-01-02,2018-12-31,2018-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,98651.0,0.03,93651.0,0.03
+IEX,2019-01-14 18:03:00,2019-01-11,2019-01-09,2019-01-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,282800.0,0.09,276300.0,0.09
+IEX,2019-01-17 11:44:00,2019-01-16,2019-01-15,2019-01-15,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,276300.0,0.09,271300.0,0.09
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,19800.0,0.0,0.0,0.0,0.0,,0.0,19800.0,0.01
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3650.0,0.0,0.0,0.0,0.0,,0.0,3650.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,33000.0,0.0,0.0,0.0,0.0,,0.0,33000.0,0.01
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,,0.0,3300.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,8250.0,0.0,0.0,0.0,0.0,,0.0,8250.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2650.0,0.0,0.0,0.0,0.0,,0.0,2650.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,,0.0,3300.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,4950.0,0.0,0.0,0.0,0.0,,0.0,4950.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,1890.0,0.0,5190.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,9900.0,0.0,0.0,0.0,0.0,,0.0,9900.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,,0.0,3300.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3950.0,0.0,0.0,0.0,0.0,,0.0,3950.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,8250.0,0.0,0.0,0.0,0.0,,0.0,8250.0,0.0
+IEX,2019-02-14 12:24:00,2019-02-12,2019-02-11,2019-02-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,,0.0,3300.0,0.0
+IEX,2019-02-14 19:14:00,2019-02-14,2019-02-12,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3100.0,0.0,0.0,0.0,0.0,3300.0,0.0,200.0,0.0
+IEX,2019-02-14 19:14:00,2019-02-14,2019-02-12,2019-02-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,200000.0,0.07,199000.0,0.07
+IEX,2019-02-14 19:14:00,2019-02-14,2019-02-12,2019-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3140.0,0.0,0.0,0.0,0.0,50000.0,0.02,46860.0,0.02
+IEX,2019-02-14 19:14:00,2019-02-14,2019-02-11,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6384.0,0.0,0.0,0.0,0.0,51000.0,0.02,44616.0,0.01
+IEX,2019-02-18 19:13:00,2019-02-14,2019-02-12,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,32000.0,0.01,28000.0,0.01
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-13,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3300.0,0.0,0.0,0.0,0.0,3300.0,0.0,,0.0
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-13,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,8250.0,0.0,4250.0,0.0
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-14,2019-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5987.0,0.0,0.0,0.0,0.0,9900.0,0.0,3913.0,0.0
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-13,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,19800.0,0.01,18800.0,0.01
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-13,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8431.0,0.0,0.0,0.0,0.0,389431.0,0.13,381000.0,0.13
+IEX,2019-02-19 17:55:00,2019-02-18,2019-02-14,2019-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6151.0,0.0,0.0,0.0,0.0,93651.0,0.03,87500.0,0.03
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-13,2019-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3563.0,0.0,0.0,0.0,0.0,4950.0,0.0,1387.0,0.0
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-15,2019-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1387.0,0.0,1287.0,0.0
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-15,2019-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,57.0,0.0,0.0,0.0,0.0,26000.0,0.0,25943.0,0.01
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-13,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2700.0,0.0,0.0,0.0,0.0,3300.0,0.0,600.0,0.0
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-13,2019-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11530.0,0.0,0.0,0.0,0.0,18800.0,0.01,7270.0,0.01
+IEX,2019-02-19 17:55:00,2019-02-18,2019-02-15,2019-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3650.0,0.0,0.0,0.0,0.0,3650.0,0.0,,0.0
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-13,2019-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,33000.0,0.0,26000.0,0.01
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-13,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,8250.0,0.0,5850.0,0.0
+IEX,2019-02-19 17:55:00,2019-02-15,2019-02-13,2019-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1950.0,0.0,0.0,0.0,0.0,3950.0,0.0,2000.0,0.0
+IEX,2019-02-20 18:26:00,2019-02-20,2019-02-19,2019-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2650.0,0.0,0.0,0.0,0.0,2650.0,0.0,,0.0
+IEX,2019-02-20 18:26:00,2019-02-20,2019-02-18,2019-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25.0,0.0,0.0,0.0,0.0,25943.0,0.01,25918.0,0.01
+IEX,2019-02-20 18:26:00,2019-02-20,2019-02-18,2019-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,25918.0,0.01,20918.0,0.01
+IEX,2019-02-20 18:26:00,2019-02-20,2019-02-19,2019-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2913.0,0.0,0.0,0.0,0.0,3913.0,0.0,1000.0,0.0
+IEX,2019-02-20 18:26:00,2019-02-20,2019-02-18,2019-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,28000.0,0.01,27000.0,0.01
+IEX,2019-02-20 18:26:00,2019-02-20,2019-02-19,2019-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,200.0,0.0,,0.0
+IEX,2019-02-20 18:26:00,2019-02-20,2019-02-19,2019-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1087.0,0.0,0.0,0.0,0.0,1287.0,0.0,200.0,0.0
+IEX,2019-02-20 18:26:00,2019-02-20,2019-02-19,2019-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4250.0,0.0,3250.0,0.0
+IEX,2019-02-20 18:26:00,2019-02-20,2019-02-19,2019-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2800.0,0.0,0.0,0.0,0.0,5850.0,0.0,3050.0,0.0
+IEX,2019-02-22 16:42:00,2019-02-21,2019-02-19,2019-02-19,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,271300.0,0.09,270300.0,0.09
+IEX,2019-03-15 17:25:00,2019-03-14,2019-03-13,2019-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5190.0,0.0,190.0,0.0
+IEX,2019-03-15 17:25:00,2019-03-14,2019-03-12,2019-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,27000.0,0.01,26200.0,0.01
+IEX,2019-03-15 17:25:00,2019-03-13,2019-03-11,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+IEX,2019-03-15 17:25:00,2019-03-15,2019-03-13,2019-03-14,Key Managerial Personnel,Market Sale,Sell,Equity Shares,14514.0,0.0,0.0,0.0,0.0,270300.0,0.09,255786.0,0.09
+IEX,2019-03-15 17:25:00,2019-03-15,2019-03-13,2019-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,381000.0,0.13,371000.0,0.12
+IEX,2019-03-15 17:25:00,2019-03-15,2019-03-13,2019-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3265.0,0.0,0.0,0.0,0.0,3300.0,0.0,35.0,0.0
+IEX,2019-03-19 16:35:00,2019-03-15,2019-03-13,2019-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,20918.0,0.01,18418.0,0.01
+IEX,2019-03-19 16:35:00,2019-03-18,2019-03-14,2019-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7270.0,0.0,6270.0,0.0
+IEX,2019-03-19 16:35:00,2019-03-18,2019-03-14,2019-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,950.0,0.0,0.0,0.0,0.0,3050.0,0.0,2100.0,0.0
+IEX,2019-03-22 16:11:00,2019-03-20,2019-03-20,2019-03-20,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,255786.0,0.08,253786.0,0.08
+IEX,2019-04-04 19:48:00,2019-04-04,2019-03-29,2019-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3250.0,0.0,1250.0,0.0
+IEX,2019-04-04 19:48:00,2019-04-04,2019-04-02,2019-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,369.0,0.0,0.0,0.0,0.0,1000.0,0.0,631.0,0.0
+IEX,2019-04-04 19:48:00,2019-04-04,2019-04-01,2019-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,18418.0,0.01,12418.0,0.01
+IEX,2019-04-04 19:48:00,2019-04-04,2019-04-03,2019-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,12418.0,0.0,11918.0,0.0
+IEX,2019-04-04 19:48:00,2019-04-04,2019-04-03,2019-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,6270.0,0.0,2270.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,35.0,0.0,0.0,0.0,0.0,35.0,0.0,,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,345.0,0.0,0.0,0.0,0.0,26200.0,0.01,25855.0,0.01
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Key Managerial Personnel,Others,Sell,Equity Shares,2170.0,0.0,0.0,0.0,0.0,199000.0,0.07,196830.0,0.06
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,2874.0,0.0,0.0,0.0,0.0,250000.0,0.08,247126.0,0.08
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,35.0,0.0,0.0,0.0,0.0,200.0,0.0,165.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,75.0,0.0,0.0,0.0,0.0,6000.0,0.0,5925.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,364.0,0.0,0.0,0.0,0.0,9900.0,0.0,9536.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,70.0,0.0,0.0,0.0,0.0,1250.0,0.0,1180.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,94.0,0.0,0.0,0.0,0.0,631.0,0.0,537.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,515.0,0.0,0.0,0.0,0.0,46860.0,0.02,46345.0,0.02
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,34.0,0.0,0.0,0.0,0.0,1000.0,0.0,966.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,531.0,0.0,0.0,0.0,0.0,44616.0,0.01,44085.0,0.01
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,297.0,0.0,0.0,0.0,0.0,26000.0,0.01,25703.0,0.01
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,2032.0,0.0,0.0,0.0,0.0,87500.0,0.03,85468.0,0.03
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,143.0,0.0,0.0,0.0,0.0,8700.0,0.0,8557.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,334.0,0.0,0.0,0.0,0.0,11918.0,0.0,11584.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,157.0,0.0,0.0,0.0,0.0,10000.0,0.0,9843.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Key Managerial Personnel,Others,Sell,Equity Shares,2935.0,0.0,0.0,0.0,0.0,253786.0,0.08,250851.0,0.08
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,59.0,0.0,0.0,0.0,0.0,190.0,0.0,131.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,153.0,0.0,0.0,0.0,0.0,600.0,0.0,447.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,67.0,0.0,0.0,0.0,0.0,2100.0,0.0,2033.0,0.0
+IEX,2019-04-15 18:00:00,2019-04-12,2019-04-10,2019-04-10,Employees/Designated Employees,Others,Sell,Equity Shares,211.0,0.0,0.0,0.0,0.0,2270.0,0.0,2059.0,0.0
+IEX,2019-05-06 16:55:00,2019-05-03,2019-04-30,2019-05-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,85469.0,0.03,77469.0,0.03
+IEX,2019-05-07 17:28:00,2019-05-07,2019-05-03,2019-05-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,77469.0,0.03,70469.0,0.02
+IEX,2019-06-17 17:31:00,2019-06-13,2019-06-11,2019-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11000.0,0.0,0.0,0.0,0.0,371000.0,0.12,360000.0,0.12
+IEX,2019-07-01 18:29:00,2019-07-01,2019-06-28,2019-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,347523.0,0.12,342523.0,0.11
+IEX,2019-07-01 18:29:00,2019-06-27,2019-06-25,2019-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12477.0,0.0,0.0,0.0,0.0,360000.0,0.12,347523.0,0.12
+IEX,2019-07-25 11:48:00,2019-07-23,2019-07-22,2019-07-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,9900.0,0.0,0.0,0.0,0.0,,0.0,9900.0,0.0
+IEX,2019-07-25 11:48:00,2019-07-23,2019-07-22,2019-07-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,9900.0,0.0,0.0,0.0,0.0,,0.0,9900.0,0.0
+IEX,2019-07-25 11:48:00,2019-07-23,2019-07-22,2019-07-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,16500.0,0.0,0.0,0.0,0.0,,0.0,16500.0,0.01
+IEX,2019-07-25 11:48:00,2019-07-23,2019-07-22,2019-07-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,9900.0,0.0,0.0,0.0,0.0,9536.0,0.0,19436.0,0.01
+IEX,2019-08-09 15:38:00,2019-08-08,2019-08-06,2019-08-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7288.0,0.0,0.0,0.0,0.0,16500.0,0.01,9212.0,0.0
+IEX,2019-08-13 16:39:00,2019-08-12,2019-08-08,2019-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4424.0,0.0,0.0,0.0,0.0,9212.0,0.0,4788.0,0.0
+IEX,2019-09-16 18:42:00,2019-09-12,2019-09-09,2019-09-11,Former Employee,Market Sale,Sell,Equity Shares,16198.0,0.0,0.0,0.0,0.0,247126.0,0.08,230928.0,0.08
+IEX,2019-09-26 17:50:00,2019-09-25,2019-09-23,2019-09-24,Key Managerial Personnel,Market Sale,Sell,Equity Shares,22000.0,0.0,0.0,0.0,0.0,250851.0,0.08,228851.0,0.08
+IEX,2019-10-31 18:44:00,2019-10-30,2019-10-27,2019-10-29,Director,Market Sale,Sell,Equity Shares,47112.0,0.0,0.0,0.0,0.0,228851.0,0.08,181739.0,0.07
+IEX,2019-10-31 18:44:00,2019-10-30,2019-10-27,2019-10-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,70469.0,0.02,55469.0,0.02
+IEX,2019-10-31 18:51:00,2019-10-30,2019-10-27,2019-10-29,Connected Person,Market Sale,Sell,Equity Shares,51694.0,0.0,0.0,0.0,0.0,230928.0,0.08,179234.0,0.08
+IEX,2019-11-04 15:54:00,2019-11-01,2019-10-31,2019-11-01,-,Market Sale,Sell,Equity Shares,50100.0,0.0,0.0,0.0,0.0,179234.0,0.06,129134.0,0.04
+IEX,2019-11-04 15:54:00,2019-11-04,2019-10-31,2019-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,55469.0,0.02,53469.0,0.02
+IEX,2019-11-04 15:54:00,2019-11-01,2019-10-30,2019-10-31,Director,Market Sale,Sell,Equity Shares,31109.0,0.0,0.0,0.0,0.0,181739.0,0.07,150630.0,0.05
+IEX,2019-11-06 17:39:00,2019-11-05,2019-11-01,2019-11-05,Director,Market Sale,Sell,Equity Shares,13678.0,0.0,0.0,0.0,0.0,150630.0,0.05,136952.0,0.05
+IEX,2019-11-06 17:40:00,2019-11-06,2019-11-04,2019-11-05,-,Market Sale,Sell,Equity Shares,13428.0,0.0,0.0,0.0,0.0,129134.0,0.04,115706.0,0.04
+IEX,2019-11-11 16:17:00,2019-11-08,2019-11-07,2019-11-08,-,Market Sale,Sell,Equity Shares,99728.0,0.0,0.0,0.0,0.0,115706.0,0.04,15978.0,0.01
+IEX,2019-11-14 18:52:00,2019-11-14,2019-11-08,2019-11-13,Director,Market Sale,Sell,Equity Shares,28228.0,0.0,0.0,0.0,0.0,136952.0,0.05,108724.0,0.04
+IEX,2019-11-19 19:06:00,2019-11-18,2019-11-14,2019-11-18,Director,Market Sale,Sell,Equity Shares,39291.0,0.0,0.0,0.0,0.0,108724.0,0.04,69433.0,0.02
+IEX,2019-11-21 18:54:00,2019-11-20,2019-11-19,2019-11-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13649.0,0.0,0.0,0.0,0.0,69433.0,0.02,55784.0,0.02
+IEX,2020-02-03 17:16:00,2020-01-30,2020-01-30,2020-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,89.0,0.0,3389.0,0.0
+IEX,2020-02-03 17:16:00,2020-01-30,2020-01-30,2020-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,,0.0,3300.0,0.0
+IEX,2020-02-03 17:16:00,2020-01-30,2020-01-30,2020-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3950.0,0.0,0.0,0.0,0.0,966.0,0.0,4916.0,0.0
+IEX,2020-02-03 17:16:00,2020-01-31,2020-01-30,2020-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3650.0,0.0,0.0,0.0,0.0,,0.0,3650.0,0.0
+IEX,2020-02-03 17:16:00,2020-01-30,2020-01-30,2020-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,447.0,0.0,3747.0,0.0
+IEX,2020-02-03 17:16:00,2020-01-31,2020-01-30,2020-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,4950.0,0.0,0.0,0.0,0.0,,0.0,4950.0,0.0
+IEX,2020-02-03 17:16:00,2020-02-03,2020-01-30,2020-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,,0.0,3300.0,0.0
+IEX,2020-02-03 17:16:00,2020-02-03,2020-01-30,2020-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,8250.0,0.0,0.0,0.0,0.0,1180.0,0.0,9430.0,0.0
+IEX,2020-02-03 17:16:00,2020-01-31,2020-01-30,2020-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2650.0,0.0,0.0,0.0,0.0,,0.0,2650.0,0.0
+IEX,2020-02-07 17:19:00,2020-02-06,2020-02-04,2020-02-06,Director,Market Sale,Sell,Equity Shares,23412.0,0.0,0.0,0.0,0.0,55784.0,0.02,32372.0,0.01
+IEX,2020-02-12 18:02:00,2020-02-12,2020-02-10,2020-02-11,Director,Market Sale,Sell,Equity Shares,13000.0,0.0,0.0,0.0,0.0,32372.0,0.01,19372.0,0.01
+IEX,2020-02-14 18:41:00,2020-02-13,2020-02-11,2020-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6852.0,0.0,0.0,0.0,0.0,40297.0,0.01,33445.0,0.01
+IEX,2020-02-17 18:11:00,2020-02-13,2020-02-11,2020-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,342523.0,0.11,330523.0,0.11
+IEX,2020-02-24 16:15:00,2020-02-19,2020-02-17,2020-02-19,Director,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,19372.0,0.01,12872.0,0.0
+IEX,2020-02-25 19:03:00,2020-02-25,2020-02-24,2020-02-25,Director,Market Sale,Sell,Equity Shares,7872.0,0.0,0.0,0.0,0.0,12872.0,0.0,5000.0,0.0
+IEX,2020-03-02 16:29:00,2020-02-28,2020-02-26,2020-02-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,,0.0,20000.0,0.01
+IEX,2020-03-02 16:29:00,2020-02-27,2020-02-26,2020-02-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,19800.0,0.0,0.0,0.0,0.0,,0.0,19800.0,0.01
+IEX,2020-03-23 09:58:00,2020-03-20,2020-03-19,2020-03-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,13000.0,0.0,0.0,0.0,0.0,19116.0,0.01,32116.0,0.01
+IEX,2020-06-24 16:38:00,2020-06-22,2020-06-22,2020-06-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,18116.0,0.01,17616.0,0.01
+IEX,2020-06-24 16:38:00,2020-06-22,2020-06-22,2020-06-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,19116.0,0.01,18116.0,0.01
+IEX,2020-06-24 16:38:00,2020-06-22,2020-06-19,2020-06-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,19616.0,0.01,19116.0,0.01
+IEX,2020-06-24 16:38:00,2020-06-22,2020-06-19,2020-06-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,22116.0,0.01,19616.0,0.01
+IEX,2020-06-24 16:38:00,2020-06-22,2020-06-18,2020-06-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,23116.0,0.01,22116.0,0.01
+IEX,2020-06-24 16:38:00,2020-06-22,2020-06-18,2020-06-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8393.0,0.0,0.0,0.0,0.0,13232.0,0.0,4839.0,0.0
+IEX,2020-06-24 16:38:00,2020-06-22,2020-06-18,2020-06-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,26616.0,0.01,23116.0,0.01
+IEX,2020-06-29 16:57:00,2020-06-25,2020-06-23,2020-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,53469.0,0.02,47469.0,0.02
+IEX,2020-07-01 18:25:00,2020-06-30,2020-06-26,2020-06-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,10200.0,0.0,0.0,0.0,0.0,4800.0,0.0,15000.0,0.01
+IEX,2020-07-01 18:25:00,2020-06-29,2020-06-26,2020-06-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,10200.0,0.0,0.0,0.0,0.0,19436.0,0.01,29636.0,0.01
+IEX,2020-07-01 18:25:00,2020-06-29,2020-06-26,2020-06-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,17000.0,0.0,0.0,0.0,0.0,,0.0,17000.0,0.01
+IEX,2020-07-01 18:25:00,2020-06-29,2020-06-26,2020-06-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,10200.0,0.0,0.0,0.0,0.0,4900.0,0.0,15100.0,0.01
+IEX,2020-07-01 18:25:00,2020-06-30,2020-06-26,2020-06-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,9900.0,0.0,0.0,0.0,0.0,,0.0,9900.0,0.0
+IEX,2020-07-02 19:52:00,2020-07-01,2020-06-30,2020-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2705.0,0.0,0.0,0.0,0.0,4839.0,0.0,2134.0,0.0
+IEX,2020-07-02 19:52:00,2020-07-01,2020-06-30,2020-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10700.0,0.0,0.0,0.0,0.0,17000.0,0.01,6300.0,0.0
+IEX,2020-07-02 19:52:00,2020-07-02,2020-06-30,2020-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,17616.0,0.01,17116.0,0.01
+IEX,2020-07-02 19:52:00,2020-07-02,2020-06-29,2020-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6534.0,0.0,0.0,0.0,0.0,9900.0,0.0,3366.0,0.0
+IEX,2020-07-02 19:52:00,2020-07-02,2020-06-30,2020-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,17116.0,0.01,16616.0,0.01
+IEX,2020-08-07 14:10:00,2020-08-05,2020-08-04,2020-08-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,11116.0,0.0,9116.0,0.0
+IEX,2020-08-07 14:10:00,2020-08-05,2020-08-04,2020-08-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9116.0,0.0,8116.0,0.0
+IEX,2020-08-07 14:10:00,2020-08-05,2020-08-05,2020-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,8116.0,0.0,6616.0,0.0
+IEX,2020-08-13 17:41:00,2020-08-11,2020-08-10,2020-08-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,41052.0,0.0,0.0,0.0,0.0,196830.0,0.07,155778.0,0.05
+IEX,2020-08-20 11:21:00,2020-08-18,2020-08-14,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,47469.0,0.02,34969.0,0.01
+IEX,2020-08-21 15:51:00,2020-08-20,2020-08-18,2020-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7469.0,0.0,0.0,0.0,0.0,34969.0,0.01,27500.0,0.01
+IEX,2020-09-02 11:10:00,2020-08-31,2020-08-27,2020-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,13750.0,0.0,11950.0,0.0
+IEX,2020-09-04 13:37:00,2020-09-03,2020-09-03,2020-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,11950.0,0.0,11700.0,0.0
+IEX,2020-09-18 19:56:00,2020-09-16,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,29636.0,0.01,25636.0,0.01
+IEX,2020-09-18 19:56:00,2020-09-16,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,10600.0,0.0,10400.0,0.0
+IEX,2020-09-18 19:56:00,2020-09-16,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5300.0,0.0,4800.0,0.0
+IEX,2020-09-18 19:56:00,2020-09-16,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1161.0,0.0,0.0,0.0,0.0,15100.0,0.01,13939.0,0.0
+IEX,2020-09-18 19:56:00,2020-09-17,2020-09-16,2020-09-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,10400.0,0.0,8000.0,0.0
+IEX,2020-09-18 19:56:00,2020-09-17,2020-09-16,2020-09-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,25636.0,0.01,20636.0,0.01
+IEX,2020-09-18 19:56:00,2020-09-18,2020-09-16,2020-09-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,13939.0,0.0,8939.0,0.0
+IEX,2020-09-18 19:56:00,2020-09-17,2020-09-16,2020-09-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,4800.0,0.0,2300.0,0.0
+IEX,2020-09-30 18:25:00,2020-09-30,2020-09-28,2020-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5300.0,0.0,0.0,0.0,0.0,7800.0,0.0,2500.0,0.0
+IEX,2020-09-30 18:25:00,2020-09-28,2020-09-24,2020-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,8000.0,0.0,7800.0,0.0
+IEX,2020-11-06 16:09:00,2020-11-06,2020-11-05,2020-11-05,Employees/Designated Employees,ESOP,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,,0.0,30000.0,0.01
+IEX,2020-11-10 18:19:00,2020-11-10,2020-11-10,2020-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,30000.0,0.01,10000.0,0.0
+IEX,2020-12-14 15:00:00,2020-12-11,2020-12-09,2020-12-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,28145.0,0.01,23645.0,0.01
+IEX,2020-12-29 17:43:00,2020-12-29,2020-12-28,2020-12-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,,0.0,30000.0,0.01
+IEX,2020-12-29 17:43:00,2020-12-29,2020-12-28,2020-12-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,15000.0,0.0,0.0,0.0,0.0,,0.0,15000.0,0.01
+IEX,2021-01-05 12:00:00,2021-01-01,2020-12-31,2020-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,30000.0,0.01,10000.0,0.0
+IEX,2021-02-01 16:50:00,2021-02-01,2021-01-28,2021-01-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14500.0,0.0,0.0,0.0,0.0,15000.0,0.01,500.0,0.0
+IEX,2021-02-01 16:50:00,2021-01-29,2021-01-28,2021-01-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,8500.0,0.0,0.0,0.0,0.0,4630.0,0.0,13130.0,0.0
+IEX,2021-02-16 18:00:00,2021-02-15,2021-02-11,2021-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,23645.0,0.01,8645.0,0.0
+IEX,2021-02-16 18:00:00,2021-02-15,2021-02-11,2021-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,36257.0,0.01,30757.0,0.01
+IEX,2021-03-17 17:27:00,2021-03-17,2021-03-15,2021-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,20703.0,0.01,14703.0,0.0
+IEX,2021-03-17 17:27:00,2021-03-16,2021-03-12,2021-03-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,155778.0,0.05,150778.0,0.05
+IEX,2021-03-17 17:27:00,2021-03-17,2021-03-15,2021-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,330523.0,0.11,320523.0,0.11
+IEX,2021-03-17 17:27:00,2021-03-17,2021-03-15,2021-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,27500.0,0.01,22500.0,0.01
+IEX,2021-03-23 17:18:00,2021-03-22,2021-03-19,2021-03-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,10200.0,0.0,0.0,0.0,0.0,,0.0,10200.0,0.0
+IEX,2021-03-23 17:18:00,2021-03-22,2021-03-18,2021-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,320523.0,0.11,305523.0,0.1
+IEX,2021-03-26 11:25:00,2021-03-25,2021-03-23,2021-03-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9200.0,0.0,0.0,0.0,0.0,10200.0,0.0,1000.0,0.0
+IEX,2021-04-01 19:04:00,2021-03-31,2021-03-31,2021-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+IEX,2021-05-20 17:53:00,2021-05-19,2021-05-18,2021-05-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4116.0,0.0,3616.0,0.0
+IEX,2021-05-20 17:53:00,2021-05-19,2021-05-17,2021-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6616.0,0.0,5616.0,0.0
+IEX,2021-05-20 17:53:00,2021-05-19,2021-05-17,2021-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,5616.0,0.0,4116.0,0.0
+IEX,2021-05-20 17:53:00,2021-05-18,2021-05-17,2021-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,,0.0
+IEX,2021-05-24 17:06:00,2021-05-21,2021-05-20,2021-05-20,Other,Market Sale,Sell,Equity Shares,13400000.0,0.0,0.0,0.0,0.0,24503361.0,8.18,11103361.0,3.71
+IEX,2021-05-28 16:40:00,2021-05-26,2021-05-25,2021-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3616.0,0.0,2616.0,0.0
+IEX,2021-06-09 16:54:00,2021-06-07,2021-06-03,2021-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1116.0,0.0,616.0,0.0
+IEX,2021-06-09 16:54:00,2021-06-08,2021-06-07,2021-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,616.0,0.0,216.0,0.0
+IEX,2021-06-09 16:54:00,2021-06-08,2021-06-07,2021-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,216.0,0.0,0.0,0.0,0.0,216.0,0.0,,0.0
+IEX,2021-06-09 16:54:00,2021-06-07,2021-06-03,2021-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,2616.0,0.0,1116.0,0.0
+IEX,2021-06-15 18:11:00,2021-06-11,2021-06-09,2021-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3655.0,0.0,0.0,0.0,0.0,13655.0,0.0,10000.0,0.0
+IEX,2021-06-15 18:11:00,2021-06-14,2021-06-11,2021-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,20400.0,0.0,0.0,0.0,0.0,,0.0,20400.0,0.01
+IEX,2021-06-15 18:11:00,2021-06-11,2021-06-09,2021-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,30757.0,0.01,27257.0,0.01
+IEX,2021-06-15 18:11:00,2021-06-11,2021-06-11,2021-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,27257.0,0.01,23757.0,0.01
+IEX,2021-06-15 18:11:00,2021-06-14,2021-06-11,2021-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,14000.0,0.0,0.0,0.0,0.0,,0.0,14000.0,0.0
+IEX,2021-06-15 18:11:00,2021-06-14,2021-06-11,2021-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,15000.0,0.0,0.0,0.0,0.0,500.0,0.0,15500.0,0.01
+IEX,2021-06-21 18:20:00,2021-06-17,2021-06-15,2021-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11800.0,0.0,0.0,0.0,0.0,20400.0,0.01,8600.0,0.0
+IEX,2021-06-21 18:20:00,2021-06-17,2021-06-15,2021-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,13000.0,0.0,7000.0,0.0
+IEX,2021-06-21 18:20:00,2021-06-17,2021-06-15,2021-06-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14000.0,0.0,13000.0,0.0
+IEX,2021-06-21 18:20:00,2021-06-17,2021-06-15,2021-06-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,23757.0,0.01,20757.0,0.01
+IEX,2021-06-24 19:37:00,2021-06-22,2021-06-18,2021-06-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7000.0,0.0,6500.0,0.0
+IEX,2021-06-24 19:37:00,2021-06-22,2021-06-18,2021-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,6500.0,0.0,5000.0,0.0
+IEX,2021-06-24 19:37:00,2021-06-22,2021-06-18,2021-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3600.0,0.0,0.0,0.0,0.0,8600.0,0.0,5000.0,0.0
+IEX,2021-07-01 20:59:00,2021-06-30,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5000.0,0.0,4500.0,0.0
+IEX,2021-07-01 20:59:00,2021-06-30,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5000.0,0.0,4000.0,0.0
+IEX,2021-07-01 20:59:00,2021-06-30,2021-06-25,2021-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,305523.0,0.1,295523.0,0.1
+IEX,2021-07-01 20:59:00,2021-06-29,2021-06-25,2021-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,15500.0,0.01,1500.0,0.0
+IEX,2021-07-30 17:41:00,2021-07-30,2021-07-29,2021-07-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,4500.0,0.0,3000.0,0.0
+IEX,2021-07-30 17:41:00,2021-07-29,2021-07-28,2021-07-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+IEX,2021-07-30 17:41:00,2021-07-28,2021-07-26,2021-07-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,295523.0,0.1,290523.0,0.1
+IEX,2021-08-04 17:06:00,2021-08-02,2021-07-30,2021-07-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9990.0,0.0,0.0,0.0,0.0,10000.0,0.0,10.0,0.0
+IEX,2021-09-06 18:06:00,2021-09-02,2021-09-01,2021-09-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+IEX,2021-09-14 16:48:00,2021-09-10,2021-09-09,2021-09-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10.0,0.0,10010.0,0.0
+IEX,2021-09-14 16:48:00,2021-09-10,2021-09-09,2021-09-09,Other,Market Sale,Sell,Equity Shares,854500.0,0.0,0.0,0.0,0.0,23003351.0,7.68,22148851.0,7.39
+IEX,2021-09-14 16:49:00,2021-09-13,2021-09-09,2021-09-09,-,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,14703.0,0.0,12703.0,0.0
+IEX,2021-09-22 17:10:00,2021-09-20,2021-09-17,2021-09-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,216.0,0.0,20216.0,0.01
+IEX,2021-09-22 17:10:00,2021-09-20,2021-09-17,2021-09-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10.0,0.0,10010.0,0.0
+IEX,2021-09-22 17:10:00,2021-09-20,2021-09-16,2021-09-16,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12703.0,0.0,11703.0,0.0
+IEX,2021-09-23 17:03:00,2021-09-14,2021-09-13,2021-09-14,Other,Market Sale,Sell,Equity Shares,1286449.0,0.0,0.0,0.0,0.0,22148851.0,7.39,20862402.0,6.96
+IEX,2021-10-01 17:20:00,2021-09-30,2021-09-29,2021-09-29,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,11703.0,0.0,10703.0,0.0
+IEX,2021-10-01 17:20:00,2021-10-01,2021-09-30,2021-09-30,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10703.0,0.0,9703.0,0.0
+IEX,2021-11-30 18:22:00,2021-11-30,2021-11-29,2021-11-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10.0,0.0,10010.0,0.0
+IEX,2022-02-04 16:23:00,2022-02-02,2022-01-31,2022-01-31,Employees/Designated Employees,ESOP,Buy,Equity Shares,60000.0,0.0,0.0,0.0,0.0,,0.0,60000.0,0.01
+IEX,2022-02-04 16:23:00,2022-02-02,2022-01-31,2022-01-31,Employees/Designated Employees,ESOP,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,30.0,0.0,30030.0,0.0
+IEX,2022-02-17 16:03:00,2022-02-16,2022-02-14,2022-02-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,30.0,0.0,30030.0,0.0
+IEX,2022-03-07 17:32:00,2022-03-04,2022-03-03,2022-03-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,30.0,0.0,30030.0,0.0
+IEX,2022-06-30 18:11:00,2022-06-29,2022-06-27,2022-06-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,60000.0,0.0,0.0,0.0,0.0,4500.0,0.0,64500.0,0.01
+IEX,2022-09-06 17:52:00,2022-09-05,2022-09-01,2022-09-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,120000.0,0.0,0.0,0.0,0.0,60000.0,0.01,180000.0,0.02
+IEX,2024-09-20 13:13:00,2024-09-20,2024-09-19,2024-09-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,12000.0,0.0,0.0,0.0,0.0,,0.0,12000.0,0.0
+IEX,2025-05-08 17:05:00,2025-05-08,2025-05-07,2025-05-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+IEX,2025-05-08 17:05:00,2025-05-08,2025-05-07,2025-05-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,7500.0,0.0,0.0,0.0,0.0,,0.0,7500.0,0.0
+IEX,2025-05-08 17:05:00,2025-05-08,2025-05-07,2025-05-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,,0.0,6000.0,0.0
+IEX,2025-05-20 17:42:00,2025-05-20,2025-05-19,2025-05-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5.0,0.0,5005.0,0.0
+IEX,2025-06-03 19:10:00,2025-06-03,2025-05-30,2025-05-30,Other,Market Sale,Sell,Equity Shares,5107712.0,0.0,0.0,0.0,0.0,33276663.0,3.73,28168951.0,3.16
+IEX,2025-06-03 19:10:00,2025-06-03,2025-05-30,2025-05-30,Other,Market Sale,Sell,Equity Shares,3922869.0,0.0,0.0,0.0,0.0,37199532.0,4.17,33276663.0,3.73
+IEX,2025-06-05 16:48:00,2025-06-04,2025-06-02,2025-06-02,Other,Market Sale,Sell,Equity Shares,2500000.0,0.0,0.0,0.0,0.0,24729367.0,2.77,22229367.0,2.49
+IEX,2025-06-05 16:48:00,2025-06-04,2025-06-02,2025-06-02,Other,Market Sale,Sell,Equity Shares,3439584.0,0.0,0.0,0.0,0.0,28168951.0,3.16,24729367.0,2.77
+IEX,2025-06-06 19:14:00,2025-06-05,2025-06-04,2025-06-04,Other,Market Sale,Sell,Equity Shares,10000962.0,0.0,0.0,0.0,0.0,21143867.0,2.37,11142905.0,1.25
+IEX,2025-06-06 19:14:00,2025-06-05,2025-06-03,2025-06-03,Other,Market Sale,Sell,Equity Shares,1085500.0,0.0,0.0,0.0,0.0,22229367.0,2.49,21143867.0,2.37
+IEX,2025-06-11 17:07:00,2025-06-10,2025-06-06,2025-06-10,Other,Market Sale,Sell,Equity Shares,9673486.0,0.0,0.0,0.0,0.0,11142905.0,1.25,1469419.0,0.16
+IEX,2025-06-11 17:07:00,2025-06-10,2025-06-06,2025-06-10,Other,Market Sale,Sell,Equity Shares,1000000.0,0.0,0.0,0.0,0.0,1469419.0,0.16,469419.0,0.05
+IEX,2025-06-20 13:11:00,2025-06-20,2025-06-19,2025-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,6250.0,0.0,0.0,0.0,0.0,,0.0,6250.0,0.0

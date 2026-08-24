@@ -1,0 +1,4 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+GVT&D,2016-02-22 10:55:00,2016-02-17,2016-01-18,2016-02-01,Promoters,Market Purchase,Buy,Equity Shares,42570.0,0.0,0.0,0.0,0.0,,0.0,42570.0,0.016
+GVT&D,2016-10-29 00:18:00,2016-10-28,2016-10-27,2016-10-28,Promoters,Market Sale,Sell,Equity Shares,14188.0,0.0,0.0,0.0,0.0,42570.0,0.0166,28382.0,0.0055
+GVT&D,2016-11-03 15:31:00,2016-11-02,2016-11-01,2016-11-02,Promoters,Market Sale,Sell,Equity Shares,28377.0,0.0,0.0,0.0,0.0,28382.0,0.0011,5.0,0.0

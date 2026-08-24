@@ -1,0 +1,503 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+GODREJIND,2015-12-11 16:00:00,2015-11-27,2015-11-27,2015-11-27,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,16450.0,0.005,15450.0,0.005
+GODREJIND,2015-12-11 16:00:00,2015-11-27,2015-11-26,2015-11-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,18450.0,0.005,16450.0,0.005
+GODREJIND,2016-04-01 12:36:00,2016-03-31,2016-03-31,2016-03-31,Key Managerial Personnel,-,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,15450.0,0.005,12450.0,0.004
+GODREJIND,2016-06-21 16:19:00,2016-06-20,2016-06-20,2016-06-20,Director,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,12450.0,0.004,6450.0,0.002
+GODREJIND,2016-06-24 10:52:00,2016-06-22,2016-06-21,2016-06-22,Key Managerial Personnel,Market Sale,Sell,Equity Shares,18000.0,0.0,0.0,0.0,0.0,37303.0,0.011,19303.0,0.006
+GODREJIND,2016-06-24 10:52:00,2016-06-22,2016-06-21,2016-06-22,Director,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,6450.0,0.002,2450.0,0.001
+GODREJIND,2016-06-24 16:11:00,2016-06-23,2016-06-22,2016-06-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3891.0,0.0,0.0,0.0,0.0,11891.0,0.004,8000.0,0.002
+GODREJIND,2016-06-24 16:11:00,2016-06-24,2016-06-23,2016-06-23,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,19303.0,0.006,9303.0,0.003
+GODREJIND,2016-06-27 18:24:00,2016-06-27,2016-06-24,2016-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,8000.0,0.002,7000.0,0.002
+GODREJIND,2016-06-29 17:08:00,2016-06-29,2016-06-28,2016-06-28,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1303.0,0.0,0.0,0.0,0.0,9303.0,0.003,8000.0,0.002
+GODREJIND,2016-06-29 17:08:00,2016-06-29,2016-06-27,2016-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7000.0,0.002,6500.0,0.002
+GODREJIND,2016-09-12 16:28:00,2016-09-09,2016-09-07,2016-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5250.0,0.0,0.0,0.0,0.0,5250.0,0.002,,0.0
+GODREJIND,2016-09-19 19:24:00,2016-09-19,2016-09-16,2016-09-16,Other,Market Sale,Sell,Equity Shares,2274.0,0.0,0.0,0.0,0.0,2274.0,0.001,,0.0
+GODREJIND,2016-09-19 19:24:00,2016-09-19,2016-08-25,2016-08-25,Other,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,3574.0,0.001,2274.0,0.001
+GODREJIND,2016-12-22 14:07:00,2016-12-22,2016-12-20,2016-12-20,Promoter Group,Off Market,Buy,Equity Shares,12806300.0,0.0,0.0,0.0,0.0,,0.0,12806300.0,3.81
+GODREJIND,2016-12-22 14:10:00,2016-12-22,2016-12-20,2016-12-20,Promoters,Off Market,Sell,Equity Shares,12806300.0,0.0,0.0,0.0,0.0,12806350.0,3.81,50.0,0.0
+GODREJIND,2017-02-20 17:22:00,2017-02-16,2017-02-14,2017-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9000.0,0.0,0.0,0.0,0.0,10000.0,0.003,1000.0,0.0001
+GODREJIND,2017-02-20 17:22:00,2017-02-16,2017-02-16,2017-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0001,,0.0
+GODREJIND,2017-02-20 17:22:00,2017-02-20,2017-02-17,2017-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4005.0,0.0,0.0,0.0,0.0,5005.0,0.0015,1000.0,0.0003
+GODREJIND,2017-02-21 17:21:00,2017-02-20,2017-02-17,2017-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2689.0,0.0,0.0,0.0,0.0,10025.0,0.003,7336.0,0.002
+GODREJIND,2017-02-21 17:21:00,2017-02-20,2017-02-17,2017-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7336.0,0.002,6336.0,0.002
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1184.0,0.0,0.0,0.0,0.0,5000.0,0.001,3816.0,0.001
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-20,2017-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,7000.0,0.002,5000.0,0.001
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-17,2017-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,9000.0,0.003,7000.0,0.002
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4400.0,0.001,400.0,0.0001
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,8400.0,0.002,4400.0,0.001
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2400.0,0.0007,400.0,0.0001
+GODREJIND,2017-02-23 17:02:00,2017-02-22,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.001,,0.0
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-17,2017-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10000.0,0.003,9000.0,0.003
+GODREJIND,2017-02-23 17:02:00,2017-02-22,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0006,,0.0
+GODREJIND,2017-02-23 17:02:00,2017-02-22,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,8913.0,0.003,3913.0,0.001
+GODREJIND,2017-02-23 17:02:00,2017-02-22,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.003,,0.0
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0007,,0.0
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-20,2017-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5000.0,0.001,2500.0,0.0007
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-17,2017-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,4000.0,0.001,2200.0,0.0007
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-20,2017-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2200.0,0.0007,2000.0,0.0006
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1618.0,0.0,0.0,0.0,0.0,2000.0,0.0006,382.0,0.0001
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-17,2017-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,6100.0,0.002,1600.0,0.0005
+GODREJIND,2017-02-23 17:02:00,2017-02-22,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.001,,0.0
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-17,2017-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2110.0,0.0006,110.0,0.0
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2110.0,0.0,0.0,0.0,0.0,2110.0,0.0006,,0.0
+GODREJIND,2017-02-23 17:02:00,2017-02-22,2017-02-22,2017-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1336.0,0.0,0.0,0.0,0.0,6336.0,0.002,5000.0,0.001
+GODREJIND,2017-02-23 17:02:00,2017-02-22,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5000.0,0.001,4000.0,0.001
+GODREJIND,2017-02-23 17:02:00,2017-02-21,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0006,,0.0
+GODREJIND,2017-02-23 19:15:00,2017-02-22,2017-02-20,2017-02-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0006,1000.0,0.0003
+GODREJIND,2017-02-23 19:15:00,2017-02-22,2017-02-08,2017-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4050.0,0.0,0.0,0.0,0.0,4050.0,0.001,,0.0
+GODREJIND,2017-02-23 19:15:00,2017-02-23,2017-02-22,2017-02-22,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,19204.0,0.006,17204.0,0.005
+GODREJIND,2017-02-23 19:15:00,2017-02-22,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0003,,0.0
+GODREJIND,2017-02-23 19:15:00,2017-02-22,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0009,,0.0
+GODREJIND,2017-02-23 19:15:00,2017-02-23,2017-02-22,2017-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,700.0,0.0002,500.0,0.0001
+GODREJIND,2017-02-23 19:15:00,2017-02-23,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2300.0,0.0,0.0,0.0,0.0,3000.0,0.0009,700.0,0.0002
+GODREJIND,2017-02-24 17:39:00,2017-02-24,2017-02-22,2017-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,382.0,0.0,0.0,0.0,0.0,382.0,0.0001,,0.0
+GODREJIND,2017-02-24 17:39:00,2017-02-24,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.001,,0.0
+GODREJIND,2017-02-24 17:39:00,2017-02-24,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1653.0,0.0,0.0,0.0,0.0,2000.0,0.0006,347.0,0.0001
+GODREJIND,2017-02-24 17:39:00,2017-02-24,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.001,,0.0
+GODREJIND,2017-02-27 17:31:00,2017-02-27,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,6000.0,0.002,2000.0,0.0006
+GODREJIND,2017-02-27 17:31:00,2017-02-27,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10000.0,0.003,5000.0,0.001
+GODREJIND,2017-02-27 17:31:00,2017-02-24,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.001,,0.0
+GODREJIND,2017-02-27 17:31:00,2017-02-27,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,8913.0,0.003,3913.0,0.001
+GODREJIND,2017-02-27 17:31:00,2017-02-27,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2274.0,0.0,0.0,0.0,0.0,4000.0,0.001,1726.0,0.0005
+GODREJIND,2017-02-28 18:36:00,2017-02-28,2017-02-27,2017-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0006,,0.0
+GODREJIND,2017-02-28 18:36:00,2017-02-24,2017-02-22,2017-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,500.0,0.0001,200.0,0.0001
+GODREJIND,2017-02-28 18:36:00,2017-02-24,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,200.0,0.0001,,0.0
+GODREJIND,2017-02-28 18:36:00,2017-02-28,2017-02-27,2017-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1510.0,0.0,0.0,0.0,0.0,5000.0,0.001,3490.0,0.001
+GODREJIND,2017-02-28 18:36:00,2017-02-27,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1900.0,0.0,0.0,0.0,0.0,5000.0,0.001,3100.0,0.001
+GODREJIND,2017-02-28 18:36:00,2017-02-27,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,5000.0,0.001,2000.0,0.0006
+GODREJIND,2017-02-28 18:36:00,2017-02-27,2017-02-22,2017-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,316.0,0.0,0.0,0.0,0.0,3816.0,0.001,3500.0,0.001
+GODREJIND,2017-02-28 18:36:00,2017-02-27,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3500.0,0.001,500.0,0.0001
+GODREJIND,2017-02-28 18:36:00,2017-02-27,2017-02-27,2017-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3100.0,0.001,1100.0,0.0003
+GODREJIND,2017-02-28 18:36:00,2017-02-27,2017-02-22,2017-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6000.0,0.002,5000.0,0.001
+GODREJIND,2017-03-01 18:25:00,2017-02-28,2017-02-27,2017-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2347.0,0.0,0.0,0.0,0.0,4347.0,0.001,2000.0,0.0006
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2872.0,0.0,0.0,0.0,0.0,3872.0,0.001,1000.0,0.0003
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1128.0,0.0,0.0,0.0,0.0,5000.0,0.001,3872.0,0.001
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4000.0,0.001,3000.0,0.0009
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,34224.0,0.01,33224.0,0.009
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,33224.0,0.009,31224.0,0.009
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5000.0,0.001,4000.0,0.001
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,9300.0,0.003,5300.0,0.002
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6100.0,0.0,0.0,0.0,0.0,15400.0,0.005,9300.0,0.003
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,600.0,0.0002,300.0,0.0001
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,5000.0,0.001,3300.0,0.0009
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-27,2017-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3300.0,0.0009,3000.0,0.0009
+GODREJIND,2017-03-01 18:25:00,2017-03-01,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,3000.0,0.0009,600.0,0.0002
+GODREJIND,2017-03-02 18:29:00,2017-03-02,2017-03-01,2017-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,800.0,0.0002,,0.0
+GODREJIND,2017-03-02 18:29:00,2017-03-01,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,2500.0,0.0007,800.0,0.0002
+GODREJIND,2017-03-02 18:29:00,2017-03-02,2017-03-01,2017-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5000.0,0.001,3000.0,0.0009
+GODREJIND,2017-03-02 18:29:00,2017-03-02,2017-03-01,2017-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.001,,0.0
+GODREJIND,2017-03-02 18:29:00,2017-03-02,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,10000.0,0.003,6000.0,0.002
+GODREJIND,2017-03-02 18:29:00,2017-03-02,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.001,,0.0
+GODREJIND,2017-03-02 18:29:00,2017-03-02,2017-03-01,2017-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,31224.0,0.009,29224.0,0.009
+GODREJIND,2017-03-02 18:29:00,2017-03-02,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1490.0,0.0,0.0,0.0,0.0,1490.0,0.0004,,0.0
+GODREJIND,2017-03-02 18:29:00,2017-03-02,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3490.0,0.001,1490.0,0.0004
+GODREJIND,2017-03-02 18:29:00,2017-02-28,2017-02-27,2017-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1171.0,0.0,0.0,0.0,0.0,8900.0,0.003,7729.0,0.002
+GODREJIND,2017-03-02 18:29:00,2017-02-28,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,9100.0,0.003,8900.0,0.003
+GODREJIND,2017-03-02 18:29:00,2017-02-28,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,5000.0,0.001,4100.0,0.001
+GODREJIND,2017-03-02 18:29:00,2017-03-02,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,8913.0,0.003,4413.0,0.001
+GODREJIND,2017-03-02 18:29:00,2017-03-02,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10000.0,0.003,5000.0,0.001
+GODREJIND,2017-03-03 17:11:00,2017-03-03,2017-03-02,2017-03-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.001,,0.0
+GODREJIND,2017-03-06 18:06:00,2017-03-06,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4200.0,0.0,0.0,0.0,0.0,6000.0,0.002,1800.0,0.0005
+GODREJIND,2017-03-06 18:06:00,2017-03-06,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0009,,0.0
+GODREJIND,2017-03-06 18:06:00,2017-03-06,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,6000.0,0.002,4000.0,0.001
+GODREJIND,2017-03-06 18:06:00,2017-03-06,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,29224.0,0.009,19224.0,0.006
+GODREJIND,2017-03-06 18:06:00,2017-03-06,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1726.0,0.0,0.0,0.0,0.0,1726.0,0.0005,,0.0
+GODREJIND,2017-03-07 17:56:00,2017-03-06,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5000.0,0.001,2500.0,0.0007
+GODREJIND,2017-03-08 18:13:00,2017-03-08,2017-03-07,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0007,,0.0
+GODREJIND,2017-03-08 18:13:00,2017-03-08,2017-03-07,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,19224.0,0.006,13224.0,0.004
+GODREJIND,2017-03-09 18:26:00,2017-03-09,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1100.0,0.0003,100.0,0.0
+GODREJIND,2017-03-09 18:26:00,2017-03-09,2017-03-01,2017-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,100.0,0.0,,0.0
+GODREJIND,2017-03-09 18:26:00,2017-03-09,2017-03-02,2017-03-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4000.0,0.001,3500.0,0.001
+GODREJIND,2017-03-09 18:26:00,2017-03-09,2017-03-07,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3500.0,0.001,2500.0,0.0007
+GODREJIND,2017-03-09 18:26:00,2017-03-09,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,2500.0,0.0007,2100.0,0.0006
+GODREJIND,2017-03-09 18:26:00,2017-03-09,2017-03-08,2017-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,200.0,0.0001,,0.0
+GODREJIND,2017-03-09 18:26:00,2017-03-09,2017-03-06,2017-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,2100.0,0.0006,1700.0,0.0005
+GODREJIND,2017-03-09 18:26:00,2017-03-09,2017-03-07,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1700.0,0.0005,200.0,0.0001
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-07,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7500.0,0.002,7000.0,0.002
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-08,2017-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7000.0,0.002,6500.0,0.002
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-09,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,6500.0,0.002,4000.0,0.001
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-01,2017-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0006,1000.0,0.0003
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0003,,0.0
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-09,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0006,1000.0,0.0003
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-07,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,10000.0,0.003,7500.0,0.002
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-08,2017-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4742.0,0.0,0.0,0.0,0.0,7500.0,0.002,2758.0,0.0008
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-09,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2758.0,0.0,0.0,0.0,0.0,2758.0,0.0008,,0.0
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0006,,0.0
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-08,2017-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,5000.0,0.001,2000.0,0.0006
+GODREJIND,2017-03-10 18:20:00,2017-03-10,2017-03-01,2017-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3000.0,0.0009,2500.0,0.0007
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,845.0,0.0,0.0,0.0,0.0,1845.0,0.0005,1000.0,0.0003
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-09,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,155.0,0.0,0.0,0.0,0.0,2000.0,0.0006,1845.0,0.0005
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-07,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3000.0,0.0009,2000.0,0.0006
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1220.0,0.0,0.0,0.0,0.0,1220.0,0.0004,,0.0
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-09,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,780.0,0.0,0.0,0.0,0.0,2000.0,0.0006,1220.0,0.0004
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3250.0,0.0,0.0,0.0,0.0,3497.0,0.001,247.0,0.0001
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0003,,0.0
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-07,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3.0,0.0,0.0,0.0,0.0,4000.0,0.001,3997.0,0.001
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,5000.0,0.001,1000.0,0.0003
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5005.0,0.001,4505.0,0.001
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-09,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6005.0,0.002,5005.0,0.001
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-07,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,795.0,0.0,0.0,0.0,0.0,6800.0,0.002,6005.0,0.002
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2750.0,0.0,0.0,0.0,0.0,5000.0,0.0015,2250.0,0.0007
+GODREJIND,2017-03-14 19:04:00,2017-03-14,2017-03-09,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3997.0,0.001,3497.0,0.001
+GODREJIND,2017-03-15 16:06:00,2017-03-15,2017-03-09,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1500.0,0.0004,1000.0,0.0003
+GODREJIND,2017-03-15 16:06:00,2017-03-15,2017-03-08,2017-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0007,1500.0,0.0004
+GODREJIND,2017-03-15 16:06:00,2017-03-15,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0003,,0.0
+GODREJIND,2017-03-16 17:58:00,2017-03-16,2017-03-14,2017-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0006,,0.0
+GODREJIND,2017-03-16 17:58:00,2017-03-16,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0003,,0.0
+GODREJIND,2017-03-16 17:58:00,2017-03-16,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1750.0,0.0,0.0,0.0,0.0,4000.0,0.001,2250.0,0.0007
+GODREJIND,2017-03-16 17:58:00,2017-03-16,2017-03-14,2017-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,7250.0,0.002,5750.0,0.002
+GODREJIND,2017-03-20 19:56:00,2017-03-16,2017-03-14,2017-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0001,,0.0
+GODREJIND,2017-03-20 19:56:00,2017-03-20,2017-03-15,2017-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3000.0,0.0008,2500.0,0.0007
+GODREJIND,2017-03-20 19:56:00,2017-03-16,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,2000.0,0.0006,500.0,0.0001
+GODREJIND,2017-03-20 19:56:00,2017-03-20,2017-03-16,2017-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2500.0,0.0007,500.0,0.0001
+GODREJIND,2017-03-20 19:56:00,2017-03-17,2017-03-15,2017-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,9100.0,0.003,6100.0,0.002
+GODREJIND,2017-03-20 19:56:00,2017-03-17,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1600.0,0.002,100.0,0.0001
+GODREJIND,2017-03-20 19:56:00,2017-03-17,2017-03-16,2017-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4000.0,0.001,,0.0
+GODREJIND,2017-03-20 19:56:00,2017-03-17,2017-03-15,2017-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5000.0,0.0015,4000.0,0.0012
+GODREJIND,2017-03-20 19:56:00,2017-03-17,2017-03-16,2017-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4000.0,0.0012,2000.0,0.0006
+GODREJIND,2017-03-20 19:56:00,2017-03-17,2017-03-16,2017-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,5000.0,0.001,500.0,0.0001
+GODREJIND,2017-03-20 19:56:00,2017-03-17,2017-03-14,2017-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,247.0,0.0,0.0,0.0,0.0,247.0,0.0001,,0.0
+GODREJIND,2017-03-20 19:56:00,2017-03-17,2017-03-15,2017-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,6000.0,0.002,4000.0,0.001
+GODREJIND,2017-03-21 21:30:00,2017-03-20,2017-03-15,2017-03-15,Employees/Designated Employees,ESOP,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5750.0,0.002,5250.0,0.002
+GODREJIND,2017-03-21 21:30:00,2017-03-20,2017-03-16,2017-03-16,Employees/Designated Employees,ESOP,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.003,,0.0
+GODREJIND,2017-03-21 21:30:00,2017-03-20,2017-03-16,2017-03-16,Employees/Designated Employees,ESOP,Sell,Equity Shares,4250.0,0.0,0.0,0.0,0.0,5250.0,0.002,1000.0,0.0003
+GODREJIND,2017-03-21 21:30:00,2017-03-21,2017-03-20,2017-03-20,Employees/Designated Employees,ESOP,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.001,,0.0
+GODREJIND,2017-03-21 21:30:00,2017-03-21,2017-03-10,2017-03-10,Employees/Designated Employees,ESOP,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0006,,0.0
+GODREJIND,2017-03-22 19:42:00,2017-03-21,2017-03-03,2017-03-03,Employees/Designated Employees,ESOP,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3029.0,0.001,2529.0,0.001
+GODREJIND,2017-03-22 19:42:00,2017-03-21,2017-02-28,2017-02-28,Employees/Designated Employees,ESOP,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,6029.0,0.002,5729.0,0.001
+GODREJIND,2017-03-22 19:42:00,2017-03-21,2017-03-06,2017-03-06,Employees/Designated Employees,ESOP,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2529.0,0.001,1529.0,0.0004
+GODREJIND,2017-03-22 19:42:00,2017-03-21,2017-02-28,2017-02-28,Employees/Designated Employees,ESOP,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,7529.0,0.002,6029.0,0.002
+GODREJIND,2017-03-22 19:42:00,2017-03-21,2017-02-23,2017-02-23,Employees/Designated Employees,ESOP,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,8900.0,0.003,8700.0,0.003
+GODREJIND,2017-03-23 20:06:00,2017-03-23,2017-03-22,2017-03-22,Employees/Designated Employees,ESOP,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6100.0,0.002,3100.0,0.001
+GODREJIND,2017-03-23 20:06:00,2017-03-22,2017-03-16,2017-03-16,Employees/Designated Employees,ESOP,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,11000.0,0.003,9000.0,0.003
+GODREJIND,2017-03-28 17:27:00,2017-03-27,2017-03-24,2017-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,450.0,0.0001,250.0,0.0
+GODREJIND,2017-03-28 17:27:00,2017-03-27,2017-03-16,2017-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1550.0,0.0,0.0,0.0,0.0,2000.0,0.0006,450.0,0.0001
+GODREJIND,2017-03-28 17:27:00,2017-03-28,2017-03-27,2017-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,250.0,0.0,,0.0
+GODREJIND,2017-03-28 17:27:00,2017-03-27,2017-03-15,2017-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,2250.0,0.0007,2000.0,0.0006
+GODREJIND,2017-03-28 17:27:00,2017-03-25,2017-03-24,2017-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2652.0,0.0,0.0,0.0,0.0,6816.0,0.002,4164.0,0.001
+GODREJIND,2017-03-29 17:33:00,2017-03-28,2017-03-27,2017-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3300.0,0.0,0.0,0.0,0.0,5300.0,0.002,2000.0,0.0006
+GODREJIND,2017-03-30 19:12:00,2017-03-30,2017-03-30,2017-03-30,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,193904681.0,0.0,0.0,0.0,0.0,,0.0,193904681.0,57.686
+GODREJIND,2017-03-30 19:12:00,2017-03-30,2017-03-30,2017-03-30,Promoters,Inter-se-Transfer,Sell,Equity Shares,193904681.0,0.0,0.0,0.0,0.0,193904681.0,57.686,,0.0
+GODREJIND,2017-04-03 16:29:00,2017-04-03,2017-03-27,2017-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,5000.0,0.001,3500.0,0.001
+GODREJIND,2017-04-03 16:29:00,2017-04-03,2017-03-29,2017-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,136.0,0.0,0.0,0.0,0.0,3500.0,0.001,3364.0,0.001
+GODREJIND,2017-04-03 16:29:00,2017-04-03,2017-03-30,2017-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1064.0,0.0,0.0,0.0,0.0,3364.0,0.001,2300.0,0.0007
+GODREJIND,2017-04-06 19:22:00,2017-04-04,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4000.0,0.001,3000.0,0.0009
+GODREJIND,2017-04-06 19:22:00,2017-04-04,2017-03-30,2017-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1500.0,0.0004,1250.0,0.0004
+GODREJIND,2017-04-06 19:22:00,2017-04-04,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,436.0,0.0,0.0,0.0,0.0,1936.0,0.0006,1500.0,0.0004
+GODREJIND,2017-04-06 19:22:00,2017-04-04,2017-03-31,2017-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1250.0,0.0004,1000.0,0.0003
+GODREJIND,2017-04-06 19:22:00,2017-04-04,2017-02-27,2017-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,3000.0,0.0009,2250.0,0.0007
+GODREJIND,2017-04-06 19:22:00,2017-04-04,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,2250.0,0.0007,2000.0,0.0006
+GODREJIND,2017-04-06 19:22:00,2017-04-04,2017-03-01,2017-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,64.0,0.0,0.0,0.0,0.0,2000.0,0.0006,1936.0,0.0006
+GODREJIND,2017-04-28 18:13:00,2017-04-28,2017-03-09,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,208.0,0.0,0.0,0.0,0.0,208.0,0.0,,0.0
+GODREJIND,2017-04-28 18:13:00,2017-04-28,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,3708.0,0.001,208.0,0.0
+GODREJIND,2017-04-28 18:13:00,2017-04-28,2017-02-28,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1292.0,0.0,0.0,0.0,0.0,5000.0,0.001,3708.0,0.001
+GODREJIND,2017-05-02 17:01:00,2017-04-28,2017-03-20,2017-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,57.0,0.0,0.0,0.0,0.0,3005.0,0.001,2948.0,0.001
+GODREJIND,2017-05-02 17:01:00,2017-04-28,2017-03-16,2017-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4005.0,0.001,3005.0,0.001
+GODREJIND,2017-05-02 17:01:00,2017-04-28,2017-03-14,2017-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4505.0,0.001,4005.0,0.001
+GODREJIND,2017-05-02 17:01:00,2017-04-28,2017-03-27,2017-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2948.0,0.001,948.0,0.0003
+GODREJIND,2017-05-29 19:20:00,2017-03-16,2017-03-15,2017-03-15,Director,Market Sale,Sell,Equity Shares,290.0,0.0,0.0,0.0,0.0,17204.0,0.005,16914.0,0.005
+GODREJIND,2017-05-29 19:20:00,2017-05-29,2017-05-26,2017-05-26,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,16754.0,0.005,13754.0,0.004
+GODREJIND,2017-05-29 19:20:00,2017-03-17,2017-03-16,2017-03-16,Director,Market Sale,Sell,Equity Shares,160.0,0.0,0.0,0.0,0.0,16914.0,0.005,16754.0,0.005
+GODREJIND,2017-05-31 18:27:00,2017-05-31,2017-05-30,2017-05-30,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12754.0,0.004,11754.0,0.003
+GODREJIND,2017-05-31 18:27:00,2017-05-30,2017-05-29,2017-05-29,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13754.0,0.004,12754.0,0.004
+GODREJIND,2017-06-01 17:57:00,2017-06-01,2017-05-31,2017-05-31,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,11724.0,0.003,9724.0,0.003
+GODREJIND,2017-06-02 17:24:00,2017-06-02,2017-06-01,2017-06-01,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1802.0,0.0,0.0,0.0,0.0,9724.0,0.003,7922.0,0.002
+GODREJIND,2017-06-05 17:09:00,2017-06-01,2017-05-30,2017-05-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3100.0,0.001,1100.0,0.0003
+GODREJIND,2017-06-12 18:08:00,2017-06-12,2017-06-09,2017-06-09,Key Managerial Personnel,ESOP,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6724.0,0.002,5724.0,0.002
+GODREJIND,2017-06-12 18:08:00,2017-06-03,2017-06-02,2017-06-02,Key Managerial Personnel,ESOP,Sell,Equity Shares,1198.0,0.0,0.0,0.0,0.0,7922.0,0.002,6724.0,0.002
+GODREJIND,2017-06-12 18:08:00,2017-06-09,2017-05-27,2017-06-09,Employees/Designated Employees,ESOP,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,15000.0,0.004,,0.0
+GODREJIND,2017-06-15 16:19:00,2017-06-15,2017-06-14,2017-06-14,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,11754.0,0.003,8754.0,0.003
+GODREJIND,2017-06-15 16:19:00,2017-06-15,2017-05-26,2017-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,13224.0,0.006,12724.0,0.004
+GODREJIND,2017-06-15 16:19:00,2017-06-15,2017-06-14,2017-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12224.0,0.004,11224.0,0.003
+GODREJIND,2017-06-15 16:19:00,2017-06-15,2017-05-31,2017-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,12724.0,0.004,12224.0,0.004
+GODREJIND,2017-06-21 17:30:00,2017-06-19,2017-06-16,2017-06-16,Director,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,8754.0,0.003,8504.0,0.003
+GODREJIND,2017-06-21 17:30:00,2017-06-20,2017-06-19,2017-06-19,Director,Market Sale,Sell,Equity Shares,1750.0,0.0,0.0,0.0,0.0,8504.0,0.003,6754.0,0.002
+GODREJIND,2017-06-29 19:43:00,2017-06-29,2017-03-31,2017-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15482.0,0.0,0.0,0.0,0.0,15482.0,0.005,,0.0
+GODREJIND,2017-06-29 19:43:00,2017-06-29,2017-03-30,2017-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1645.0,0.0,0.0,0.0,0.0,17127.0,0.005,15482.0,0.005
+GODREJIND,2017-06-30 17:31:00,2017-06-30,2017-06-29,2017-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,18601.0,0.005,16601.0,0.005
+GODREJIND,2017-06-30 17:31:00,2017-06-30,2017-06-16,2017-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,16050.0,0.005,15050.0,0.004
+GODREJIND,2017-09-04 17:31:00,2017-09-04,2017-09-01,2017-09-01,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,23765.0,0.007,20765.0,0.006
+GODREJIND,2017-09-11 17:48:00,2017-09-07,2017-09-05,2017-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8385.0,0.002,6385.0,0.002
+GODREJIND,2017-09-14 16:47:00,2017-09-09,2017-09-08,2017-09-08,Employees/Designated Employees,ESOP,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14051.0,0.004,13051.0,0.004
+GODREJIND,2017-09-14 16:47:00,2017-09-13,2017-09-12,2017-09-12,Employees/Designated Employees,ESOP,Sell,Equity Shares,1201.0,0.0,0.0,0.0,0.0,13051.0,0.004,11850.0,0.004
+GODREJIND,2017-09-18 17:07:00,2017-09-18,2017-09-15,2017-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,14101.0,0.004,11601.0,0.003
+GODREJIND,2017-09-18 17:07:00,2017-09-14,2017-09-12,2017-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,15601.0,0.005,14101.0,0.004
+GODREJIND,2017-10-05 18:37:00,2017-10-03,2017-09-29,2017-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,700.0,0.0002,,0.0
+GODREJIND,2017-10-05 18:37:00,2017-10-03,2017-09-29,2017-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,1800.0,0.0005,700.0,0.0002
+GODREJIND,2017-10-12 18:58:00,2017-10-11,2017-09-01,2017-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,9925.0,0.0,7525.0,0.0
+GODREJIND,2017-10-12 18:58:00,2017-10-11,2017-09-29,2017-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1910.0,0.0,0.0,0.0,0.0,7525.0,0.0,5615.0,0.0
+GODREJIND,2017-10-12 18:58:00,2017-10-11,2017-09-18,2017-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9892.0,0.0,0.0,0.0,0.0,15892.0,0.01,6000.0,0.0
+GODREJIND,2017-10-16 18:51:00,2017-10-13,2017-09-13,2017-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,31090.0,0.01,30090.0,0.01
+GODREJIND,2017-10-16 18:51:00,2017-10-13,2017-09-18,2017-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,28090.0,0.01,27090.0,0.01
+GODREJIND,2017-10-16 18:51:00,2017-10-13,2017-09-15,2017-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,29090.0,0.01,28090.0,0.01
+GODREJIND,2017-10-16 18:51:00,2017-10-13,2017-09-14,2017-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,30090.0,0.01,29090.0,0.01
+GODREJIND,2017-10-17 17:32:00,2017-10-16,2017-08-14,2017-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,673.0,0.0,0.0,0.0,0.0,19940.0,0.01,19267.0,0.01
+GODREJIND,2017-10-17 17:32:00,2017-10-16,2017-08-29,2017-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,511.0,0.0,0.0,0.0,0.0,19267.0,0.01,18756.0,0.01
+GODREJIND,2017-10-17 17:32:00,2017-10-16,2017-09-04,2017-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,18756.0,0.01,18256.0,0.01
+GODREJIND,2017-10-17 17:32:00,2017-10-16,2017-09-06,2017-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,18256.0,0.01,17256.0,0.01
+GODREJIND,2017-10-17 17:32:00,2017-10-16,2017-09-07,2017-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,17256.0,0.01,16256.0,0.01
+GODREJIND,2017-10-17 17:32:00,2017-10-16,2017-09-11,2017-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,16256.0,0.01,14256.0,0.0
+GODREJIND,2017-10-17 17:32:00,2017-10-16,2017-09-12,2017-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14256.0,0.0,13256.0,0.0
+GODREJIND,2017-10-17 17:32:00,2017-10-16,2017-09-21,2017-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,13256.0,0.0,12756.0,0.0
+GODREJIND,2017-12-07 16:53:00,2017-12-06,2017-11-28,2017-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1051.0,0.0,0.0,0.0,0.0,9000.0,0.0,7949.0,0.0
+GODREJIND,2017-12-07 16:53:00,2017-12-06,2017-12-05,2017-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7889.0,0.0,0.0,0.0,0.0,7889.0,0.0,,0.0
+GODREJIND,2017-12-07 16:53:00,2017-12-06,2017-11-30,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,60.0,0.0,0.0,0.0,0.0,7949.0,0.0,7889.0,0.0
+GODREJIND,2018-02-01 19:41:00,2018-01-31,2017-11-17,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,11756.0,0.0,11256.0,0.0
+GODREJIND,2018-02-01 19:41:00,2018-01-31,2017-11-21,2017-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,11256.0,0.0,10256.0,0.0
+GODREJIND,2018-02-01 19:41:00,2018-01-31,2017-12-19,2017-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,8256.0,0.0,7756.0,0.0
+GODREJIND,2018-02-01 19:41:00,2018-01-31,2017-12-11,2017-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9256.0,0.0,8256.0,0.0
+GODREJIND,2018-02-01 19:41:00,2018-01-31,2017-11-28,2017-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10256.0,0.0,9256.0,0.0
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Sell,Equity Shares,1802028.0,0.0,0.0,0.0,0.0,4268786.0,1.27,2466758.0,0.73
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Buy,Equity Shares,1802028.0,0.0,0.0,0.0,0.0,,0.0,1802028.0,0.54
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Sell,Equity Shares,1802028.0,0.0,0.0,0.0,0.0,4268783.0,1.27,2466755.0,0.73
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Buy,Equity Shares,1802028.0,0.0,0.0,0.0,0.0,,0.0,1802028.0,0.54
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Sell,Equity Shares,1802028.0,0.0,0.0,0.0,0.0,4268781.0,1.27,2466753.0,0.73
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Buy,Equity Shares,1802028.0,0.0,0.0,0.0,0.0,,0.0,1802028.0,0.54
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Sell,Equity Shares,528132.0,0.0,0.0,0.0,0.0,528232.0,0.16,100.0,0.0
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Buy,Equity Shares,528132.0,0.0,0.0,0.0,0.0,,0.0,528132.0,0.16
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Others,Sell,Equity Shares,5406084.0,0.0,0.0,0.0,0.0,6403169.0,1.9,997085.0,0.3
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Others,Buy,Equity Shares,5406084.0,0.0,0.0,0.0,0.0,,0.0,5406084.0,1.6
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Sell,Equity Shares,2703042.0,0.0,0.0,0.0,0.0,3103175.0,0.92,400133.0,0.12
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Buy,Equity Shares,2703042.0,0.0,0.0,0.0,0.0,,0.0,2703042.0,0.8
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Sell,Equity Shares,2703042.0,0.0,0.0,0.0,0.0,3103175.0,0.92,400133.0,0.12
+GODREJIND,2018-03-28 21:00:00,2018-03-28,2018-03-27,2018-03-27,Promoter Group,Gift,Buy,Equity Shares,2703042.0,0.0,0.0,0.0,0.0,,0.0,2703042.0,0.8
+GODREJIND,2018-06-04 15:33:00,2018-05-31,2018-05-30,2018-05-30,Director,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,19765.0,0.01,19065.0,0.01
+GODREJIND,2018-06-04 15:33:00,2018-05-29,2018-05-28,2018-05-28,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,20765.0,0.01,19765.0,0.01
+GODREJIND,2018-06-04 15:33:00,2018-06-01,2018-05-31,2018-05-31,Director,Market Sale,Sell,Equity Shares,2054.0,0.0,0.0,0.0,0.0,19065.0,0.01,17011.0,0.01
+GODREJIND,2018-08-20 17:20:00,2018-08-20,2018-08-17,2018-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5099.0,0.0,0.0,0.0,0.0,14099.0,0.0,9000.0,0.0
+GODREJIND,2018-09-14 14:57:00,2018-09-14,2018-09-12,2018-09-12,Promoter Group,Gift,Sell,Equity Shares,600000.0,0.0,0.0,0.0,0.0,6139080.0,1.83,5539080.0,1.65
+GODREJIND,2018-09-14 14:57:00,2018-09-14,2018-09-12,2018-09-12,Promoter Group,Gift,Sell,Equity Shares,600000.0,0.0,0.0,0.0,0.0,6139074.0,1.83,5539074.0,1.65
+GODREJIND,2018-09-14 14:57:00,2018-09-14,2018-09-12,2018-09-12,Promoter Group,Gift,Buy,Equity Shares,1200000.0,0.0,0.0,0.0,0.0,,0.0,1200000.0,0.36
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,10000733.0,0.0,0.0,0.0,0.0,,0.0,10000733.0,2.97
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,426373.0,0.0,0.0,0.0,0.0,,0.0,426373.0,0.13
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,190838.0,0.0,0.0,0.0,0.0,,0.0,190838.0,0.06
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,5887421.0,0.0,0.0,0.0,0.0,528132.0,0.16,6415553.0,1.91
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,5874125.0,0.0,0.0,0.0,0.0,,0.0,5874125.0,1.75
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,5479034.0,0.0,0.0,0.0,0.0,,0.0,5479034.0,1.63
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,11507016.0,0.0,0.0,0.0,0.0,,0.0,11507016.0,3.42
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,13573.0,0.0,0.0,0.0,0.0,5539074.0,1.65,5552647.0,1.65
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,416895.0,0.0,0.0,0.0,0.0,5539080.0,1.65,5955975.0,1.77
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,598908.0,0.0,0.0,0.0,0.0,100.0,0.0,599008.0,0.18
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,5887421.0,0.0,0.0,0.0,0.0,1802028.0,0.54,7689449.0,2.29
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,5887421.0,0.0,0.0,0.0,0.0,1802028.0,0.54,7689449.0,2.29
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,5887421.0,0.0,0.0,0.0,0.0,1802028.0,0.54,7689449.0,2.29
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,11507016.0,0.0,0.0,0.0,0.0,,0.0,11507016.0,3.42
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,607692.0,0.0,0.0,0.0,0.0,,0.0,607692.0,0.18
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,29776972.0,0.0,0.0,0.0,0.0,12806300.0,3.81,42583272.0,12.66
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,9636984.0,0.0,0.0,0.0,0.0,2703042.0,0.8,12340026.0,3.67
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,9636984.0,0.0,0.0,0.0,0.0,2703042.0,0.8,12340026.0,3.67
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,9892463.0,0.0,0.0,0.0,0.0,,0.0,9892463.0,2.94
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,3878.0,0.0,0.0,0.0,0.0,,0.0,3878.0,0.0
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,9160215.0,0.0,0.0,0.0,0.0,,0.0,9160215.0,2.72
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,9999783.0,0.0,0.0,0.0,0.0,,0.0,9999783.0,2.97
+GODREJIND,2019-01-16 17:22:00,2019-01-16,2019-01-14,2019-01-14,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,607634.0,0.0,0.0,0.0,0.0,,0.0,607634.0,0.18
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,1725000.0,0.0,0.0,0.0,0.0,7689449.0,2.29,9414449.0,2.8
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,400120.0,0.0,0.0,0.0,0.0,400133.0,0.12,13.0,0.0
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,400120.0,0.0,0.0,0.0,0.0,400133.0,0.12,13.0,0.0
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,5406080.0,0.0,0.0,0.0,0.0,5406084.0,1.61,4.0,0.0
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,5406080.0,0.0,0.0,0.0,0.0,6403181.0,1.9,997101.0,0.3
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,1725000.0,0.0,0.0,0.0,0.0,2466758.0,0.73,741758.0,0.22
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,1725000.0,0.0,0.0,0.0,0.0,7689449.0,2.29,9414449.0,2.8
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,400120.0,0.0,0.0,0.0,0.0,12340026.0,3.67,12740146.0,3.79
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,400120.0,0.0,0.0,0.0,0.0,12340026.0,3.67,12740146.0,3.79
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,10812160.0,0.0,0.0,0.0,0.0,426373.0,0.13,11238533.0,3.34
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,1725000.0,0.0,0.0,0.0,0.0,7689449.0,2.29,9414449.0,2.8
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,1725000.0,0.0,0.0,0.0,0.0,2466753.0,0.73,741753.0,0.22
+GODREJIND,2019-03-27 11:57:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,1725000.0,0.0,0.0,0.0,0.0,2466755.0,0.73,741755.0,0.22
+GODREJIND,2019-04-04 14:33:00,2019-04-02,2019-03-29,2019-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,8981.0,0.0,6981.0,0.0
+GODREJIND,2019-05-24 17:18:00,2019-05-24,2019-05-23,2019-05-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2100.0,0.0,1600.0,0.0
+GODREJIND,2019-05-24 17:18:00,2019-05-23,2019-05-22,2019-05-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2600.0,0.0,2100.0,0.0
+GODREJIND,2019-05-28 16:30:00,2019-05-27,2019-05-24,2019-05-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,1600.0,0.0,500.0,0.0
+GODREJIND,2019-05-28 16:30:00,2019-05-28,2019-05-27,2019-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,120.0,0.0,0.0,0.0,0.0,500.0,0.0,380.0,0.0
+GODREJIND,2019-06-03 12:59:00,2019-06-03,2019-05-31,2019-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,380.0,0.0,0.0,0.0,0.0,380.0,0.0,,0.0
+GODREJIND,2019-06-06 17:08:00,2019-06-06,2019-06-03,2019-06-03,Director,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,31933.0,0.0,28433.0,0.0
+GODREJIND,2019-06-06 17:08:00,2019-06-06,2019-06-04,2019-06-04,Director,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,28433.0,0.0,23433.0,0.0
+GODREJIND,2019-06-11 17:53:00,2019-06-10,2019-06-06,2019-06-06,Director,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,23433.0,0.0,20433.0,0.0
+GODREJIND,2019-06-11 17:53:00,2019-06-10,2019-06-07,2019-06-07,Director,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,20433.0,0.0,14933.0,0.0
+GODREJIND,2019-09-09 15:39:00,2019-09-06,2019-09-04,2019-09-04,Promoter Group,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+GODREJIND,2019-09-09 15:39:00,2019-09-06,2019-09-05,2019-09-05,Promoter Group,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,20000.0,0.01
+GODREJIND,2019-09-11 13:14:00,2019-09-10,2019-09-06,2019-09-06,Promoter Group,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,20000.0,0.01,30000.0,0.01
+GODREJIND,2019-09-11 13:14:00,2019-09-10,2019-09-09,2019-09-09,Promoter Group,Market Purchase,Buy,Equity Shares,14594.0,0.0,0.0,0.0,0.0,30000.0,0.01,44594.0,0.01
+GODREJIND,2019-09-16 16:16:00,2019-09-13,2019-09-12,2019-09-12,Promoter Group,Market Purchase,Buy,Equity Shares,33777.0,0.0,0.0,0.0,0.0,54594.0,0.01,88371.0,0.02
+GODREJIND,2019-09-16 16:16:00,2019-09-13,2019-09-11,2019-09-11,Promoter Group,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,44594.0,0.01,54594.0,0.02
+GODREJIND,2019-09-19 13:05:00,2019-09-18,2019-09-17,2019-09-17,Promoter Group,Market Purchase,Buy,Equity Shares,34600.0,0.0,0.0,0.0,0.0,104231.0,0.03,138831.0,0.04
+GODREJIND,2019-09-19 13:05:00,2019-09-18,2019-09-16,2019-09-16,Promoter Group,Market Purchase,Buy,Equity Shares,15860.0,0.0,0.0,0.0,0.0,88371.0,0.03,104231.0,0.03
+GODREJIND,2019-09-20 17:46:00,2019-09-20,2019-09-19,2019-09-19,Promoter Group,Market Purchase,Buy,Equity Shares,16439.0,0.0,0.0,0.0,0.0,186902.0,0.06,203341.0,0.06
+GODREJIND,2019-09-20 17:46:00,2019-09-20,2019-09-18,2019-09-18,Promoter Group,Market Purchase,Buy,Equity Shares,48071.0,0.0,0.0,0.0,0.0,138831.0,0.04,186902.0,0.06
+GODREJIND,2019-09-24 17:27:00,2019-09-24,2019-09-20,2019-09-20,Promoter Group,Market Purchase,Buy,Equity Shares,16296.0,0.0,0.0,0.0,0.0,203341.0,0.06,219637.0,0.07
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-27,2019-09-27,Promoter Group,Gift,Buy,Equity Shares,5619250.0,0.0,0.0,0.0,0.0,9999783.0,2.97,15619033.0,4.64
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-27,2019-09-27,Promoter Group,Gift,Buy,Equity Shares,5619250.0,0.0,0.0,0.0,0.0,10000733.0,2.97,15619983.0,4.64
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-27,2019-09-27,Promoter Group,Gift,Sell,Equity Shares,11238500.0,0.0,0.0,0.0,0.0,11238533.0,3.34,33.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-10-01 16:53:00,2019-09-30,2019-09-30,2019-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJIND,2019-12-18 11:09:00,2019-12-16,2019-12-13,2019-12-13,Promoter Group,Market Purchase,Buy,Equity Shares,2604.0,0.0,0.0,0.0,0.0,228861.0,0.07,231465.0,0.07
+GODREJIND,2019-12-18 11:09:00,2019-12-16,2019-12-12,2019-12-12,Promoter Group,Market Purchase,Buy,Equity Shares,9224.0,0.0,0.0,0.0,0.0,219637.0,0.07,228861.0,0.07
+GODREJIND,2020-01-03 10:32:00,2020-01-02,2019-12-31,2019-12-31,Promoter Group,Gift,Sell,Equity Shares,171000.0,0.0,0.0,0.0,0.0,5955975.0,1.77,5784975.0,1.72
+GODREJIND,2020-01-03 10:32:00,2020-01-02,2019-12-31,2019-12-31,Promoter Group,Gift,Buy,Equity Shares,171000.0,0.0,0.0,0.0,0.0,1200000.0,0.36,1371000.0,0.41
+GODREJIND,2020-02-19 18:31:00,2020-02-19,2020-02-18,2020-02-18,Promoter Group,Market Purchase,Buy,Equity Shares,109516.0,0.0,0.0,0.0,0.0,363965.0,0.11,473481.0,0.14
+GODREJIND,2020-02-19 18:31:00,2020-02-19,2020-02-17,2020-02-17,Promoter Group,Market Purchase,Buy,Equity Shares,132500.0,0.0,0.0,0.0,0.0,231465.0,0.07,363965.0,0.11
+GODREJIND,2020-02-24 12:30:00,2020-02-24,2020-02-20,2020-02-20,Promoter Group,Market Purchase,Buy,Equity Shares,68148.0,0.0,0.0,0.0,0.0,532113.0,0.16,600261.0,0.18
+GODREJIND,2020-02-24 12:30:00,2020-02-24,2020-02-19,2020-02-19,Promoter Group,Market Purchase,Buy,Equity Shares,58632.0,0.0,0.0,0.0,0.0,473481.0,0.14,532113.0,0.16
+GODREJIND,2020-02-27 14:35:00,2020-02-26,2020-02-25,2020-02-25,Promoter Group,Market Purchase,Buy,Equity Shares,71000.0,0.0,0.0,0.0,0.0,650364.0,0.19,721364.0,0.21
+GODREJIND,2020-02-27 14:35:00,2020-02-26,2020-02-24,2020-02-24,Promoter Group,Market Purchase,Buy,Equity Shares,50103.0,0.0,0.0,0.0,0.0,600261.0,0.18,650364.0,0.19
+GODREJIND,2020-02-28 17:47:00,2020-02-28,2020-02-27,2020-02-27,Promoter Group,Market Purchase,Buy,Equity Shares,73000.0,0.0,0.0,0.0,0.0,793112.0,0.24,866112.0,0.26
+GODREJIND,2020-02-28 17:47:00,2020-02-28,2020-02-26,2020-02-26,Promoter Group,Market Purchase,Buy,Equity Shares,71748.0,0.0,0.0,0.0,0.0,721364.0,0.21,793112.0,0.24
+GODREJIND,2020-03-03 15:41:00,2020-03-03,2020-03-02,2020-03-02,Promoter Group,Market Purchase,Buy,Equity Shares,74348.0,0.0,0.0,0.0,0.0,942112.0,0.28,1016460.0,0.3
+GODREJIND,2020-03-03 15:41:00,2020-03-03,2020-02-28,2020-02-28,Promoter Group,Market Purchase,Buy,Equity Shares,76000.0,0.0,0.0,0.0,0.0,866112.0,0.26,942112.0,0.28
+GODREJIND,2020-03-04 18:39:00,2020-03-04,2020-03-03,2020-03-03,Promoter Group,Market Purchase,Buy,Equity Shares,69921.0,0.0,0.0,0.0,0.0,1016460.0,0.3,1086381.0,0.32
+GODREJIND,2020-03-04 18:39:00,2020-03-04,2020-03-04,2020-03-04,Promoter Group,Market Purchase,Buy,Equity Shares,71159.0,0.0,0.0,0.0,0.0,1086381.0,0.32,1157540.0,0.34
+GODREJIND,2020-03-04 19:09:00,2020-03-04,2020-03-04,2020-03-04,Promoter Group,Market Purchase,Buy,Equity Shares,241200.0,0.0,0.0,0.0,0.0,,0.0,241200.0,0.07
+GODREJIND,2020-03-04 19:09:00,2020-03-04,2020-03-04,2020-03-04,Promoter Group,Market Sale,Sell,Equity Shares,241200.0,0.0,0.0,0.0,0.0,9414449.0,2.8,9173249.0,2.73
+GODREJIND,2020-03-05 17:46:00,2020-03-05,2020-03-05,2020-03-05,Promoter Group,Market Purchase,Buy,Equity Shares,63281.0,0.0,0.0,0.0,0.0,1157540.0,0.34,1220821.0,0.36
+GODREJIND,2020-03-05 18:31:00,2020-03-05,2020-03-05,2020-03-05,Promoter Group,Market Sale,Sell,Equity Shares,237000.0,0.0,0.0,0.0,0.0,9173249.0,2.73,8936249.0,2.66
+GODREJIND,2020-03-05 18:31:00,2020-03-05,2020-03-05,2020-03-05,Promoter Group,Market Purchase,Buy,Equity Shares,237000.0,0.0,0.0,0.0,0.0,,0.0,237000.0,0.07
+GODREJIND,2020-03-11 15:43:00,2020-03-11,2020-03-09,2020-03-09,Promoter Group,Market Purchase,Buy,Equity Shares,52500.0,0.0,0.0,0.0,0.0,1244821.0,0.37,1297321.0,0.39
+GODREJIND,2020-03-11 15:43:00,2020-03-11,2020-03-06,2020-03-06,Promoter Group,Market Purchase,Buy,Equity Shares,24000.0,0.0,0.0,0.0,0.0,1220821.0,0.36,1244821.0,0.37
+GODREJIND,2020-03-12 19:04:00,2020-03-12,2020-03-12,2020-03-12,Promoter Group,Market Purchase,Buy,Equity Shares,98316.0,0.0,0.0,0.0,0.0,1346321.0,0.4,1444637.0,0.43
+GODREJIND,2020-03-12 19:04:00,2020-03-12,2020-03-11,2020-03-11,Promoter Group,Market Purchase,Buy,Equity Shares,49000.0,0.0,0.0,0.0,0.0,1297321.0,0.39,1346321.0,0.4
+GODREJIND,2020-03-12 19:45:00,2020-03-12,2020-03-12,2020-03-12,Promoter Group,Market Purchase,Buy,Equity Shares,265000.0,0.0,0.0,0.0,0.0,,0.0,265000.0,0.08
+GODREJIND,2020-03-12 19:45:00,2020-03-12,2020-03-12,2020-03-12,Promoter Group,Market Sale,Sell,Equity Shares,265000.0,0.0,0.0,0.0,0.0,8936249.0,2.66,8671249.0,2.58
+GODREJIND,2020-03-13 18:14:00,2020-03-13,2020-03-13,2020-03-13,Promoter Group,Market Purchase,Buy,Equity Shares,20040.0,0.0,0.0,0.0,0.0,1444637.0,0.43,1464677.0,0.44
+GODREJIND,2020-03-18 15:44:00,2020-03-18,2020-03-16,2020-03-16,Promoter Group,Market Purchase,Buy,Equity Shares,98565.0,0.0,0.0,0.0,0.0,1464677.0,0.44,1563242.0,0.46
+GODREJIND,2020-03-18 15:44:00,2020-03-18,2020-03-17,2020-03-17,Promoter Group,Market Purchase,Buy,Equity Shares,78297.0,0.0,0.0,0.0,0.0,1563242.0,0.46,1641539.0,0.49
+GODREJIND,2020-03-23 16:45:00,2020-03-20,2020-03-18,2020-03-18,Promoter Group,Market Purchase,Buy,Equity Shares,45850.0,0.0,0.0,0.0,0.0,1641539.0,0.49,1687389.0,0.5
+GODREJIND,2020-03-23 16:45:00,2020-03-23,2020-03-20,2020-03-20,Promoter Group,Market Purchase,Buy,Equity Shares,15984.0,0.0,0.0,0.0,0.0,1763072.0,0.52,1779056.0,0.53
+GODREJIND,2020-03-23 16:45:00,2020-03-20,2020-03-19,2020-03-19,Promoter Group,Market Purchase,Buy,Equity Shares,75683.0,0.0,0.0,0.0,0.0,1687389.0,0.5,1763072.0,0.52
+GODREJIND,2020-04-01 17:50:00,2020-04-01,2020-03-30,2020-03-30,Promoter Group,Market Purchase,Buy,Equity Shares,161794.0,0.0,0.0,0.0,0.0,2481868.0,0.74,2643662.0,0.79
+GODREJIND,2020-04-01 17:50:00,2020-04-01,2020-03-31,2020-03-31,Promoter Group,Market Purchase,Buy,Equity Shares,345000.0,0.0,0.0,0.0,0.0,2643662.0,0.79,2988662.0,0.89
+GODREJIND,2020-05-29 19:37:00,2020-05-28,2020-05-27,2020-05-27,Promoter Group,Market Purchase,Buy,Equity Shares,1245448.0,0.0,0.0,0.0,0.0,1730000.0,0.51,2975448.0,0.88
+GODREJIND,2020-05-29 19:37:00,2020-05-28,2020-05-26,2020-05-26,Promoter Group,Market Purchase,Buy,Equity Shares,1730000.0,0.0,0.0,0.0,0.0,,0.0,1730000.0,0.51
+GODREJIND,2020-06-03 20:48:00,2020-06-01,2020-05-29,2020-05-29,Promoter Group,Market Purchase,Buy,Equity Shares,381895.0,0.0,0.0,0.0,0.0,3454779.0,1.03,3836674.0,1.14
+GODREJIND,2020-06-03 20:48:00,2020-06-01,2020-05-28,2020-05-28,Promoter Group,Market Purchase,Buy,Equity Shares,479331.0,0.0,0.0,0.0,0.0,2975448.0,0.88,3454779.0,1.03
+GODREJIND,2020-06-05 20:35:00,2020-06-03,2020-06-02,2020-06-02,Promoter Group,Market Purchase,Buy,Equity Shares,150224.0,0.0,0.0,0.0,0.0,4217448.0,1.25,4367672.0,1.3
+GODREJIND,2020-06-05 20:35:00,2020-06-03,2020-06-01,2020-06-01,Promoter Group,Market Purchase,Buy,Equity Shares,380774.0,0.0,0.0,0.0,0.0,3836674.0,1.14,4217448.0,1.25
+GODREJIND,2020-06-09 21:49:00,2020-06-05,2020-06-04,2020-06-04,Promoter Group,Market Purchase,Buy,Equity Shares,4493.0,0.0,0.0,0.0,0.0,4756129.0,1.41,4760622.0,1.41
+GODREJIND,2020-06-09 21:49:00,2020-06-05,2020-06-03,2020-06-03,Promoter Group,Market Purchase,Buy,Equity Shares,388457.0,0.0,0.0,0.0,0.0,4367672.0,1.3,4756129.0,1.41
+GODREJIND,2020-06-11 21:41:00,2020-06-09,2020-06-08,2020-06-08,Promoter Group,Market Purchase,Buy,Equity Shares,58907.0,0.0,0.0,0.0,0.0,4762918.0,1.42,4821825.0,1.43
+GODREJIND,2020-06-11 21:41:00,2020-06-09,2020-06-05,2020-06-05,Promoter Group,Market Purchase,Buy,Equity Shares,2296.0,0.0,0.0,0.0,0.0,4760622.0,1.41,4762918.0,1.42
+GODREJIND,2020-06-15 21:50:00,2020-06-11,2020-06-10,2020-06-10,Promoter Group,Market Purchase,Buy,Equity Shares,102002.0,0.0,0.0,0.0,0.0,4893256.0,1.45,4995258.0,1.48
+GODREJIND,2020-06-15 21:50:00,2020-06-11,2020-06-09,2020-06-09,Promoter Group,Market Purchase,Buy,Equity Shares,71431.0,0.0,0.0,0.0,0.0,4821825.0,1.43,4893256.0,1.45
+GODREJIND,2020-06-17 21:16:00,2020-06-15,2020-06-11,2020-06-11,Promoter Group,Market Purchase,Buy,Equity Shares,75095.0,0.0,0.0,0.0,0.0,4995258.0,1.48,5070353.0,1.51
+GODREJIND,2020-06-17 21:16:00,2020-06-15,2020-06-12,2020-06-12,Promoter Group,Market Purchase,Buy,Equity Shares,60164.0,0.0,0.0,0.0,0.0,5070353.0,1.51,5130517.0,1.52
+GODREJIND,2020-06-19 21:26:00,2020-06-17,2020-06-16,2020-06-16,Promoter Group,Market Purchase,Buy,Equity Shares,112000.0,0.0,0.0,0.0,0.0,5214818.0,1.55,5326818.0,1.58
+GODREJIND,2020-06-19 21:26:00,2020-06-17,2020-06-15,2020-06-15,Promoter Group,Market Purchase,Buy,Equity Shares,84301.0,0.0,0.0,0.0,0.0,5130517.0,1.52,5214818.0,1.55
+GODREJIND,2020-06-23 22:17:00,2020-06-19,2020-06-18,2020-06-18,Promoter Group,Market Purchase,Buy,Equity Shares,41361.0,0.0,0.0,0.0,0.0,5371742.0,1.6,5413103.0,1.61
+GODREJIND,2020-06-23 22:17:00,2020-06-19,2020-06-17,2020-06-17,Promoter Group,Market Purchase,Buy,Equity Shares,44924.0,0.0,0.0,0.0,0.0,5326818.0,1.58,5371742.0,1.6
+GODREJIND,2020-06-24 13:25:00,2020-06-22,2020-06-18,2020-06-18,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,28345.0,0.01,26345.0,0.01
+GODREJIND,2020-06-24 13:25:00,2020-06-22,2020-06-19,2020-06-19,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,26345.0,0.01,24345.0,0.01
+GODREJIND,2020-06-25 21:55:00,2020-06-23,2020-06-19,2020-06-19,Promoter Group,Market Purchase,Buy,Equity Shares,131249.0,0.0,0.0,0.0,0.0,5413103.0,1.61,5544352.0,1.65
+GODREJIND,2020-06-25 21:55:00,2020-06-23,2020-06-22,2020-06-22,Promoter Group,Market Purchase,Buy,Equity Shares,626300.0,0.0,0.0,0.0,0.0,5544352.0,1.65,6170652.0,1.83
+GODREJIND,2020-06-26 15:32:00,2020-06-24,2020-06-22,2020-06-22,Director,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,24345.0,0.01,20345.0,0.01
+GODREJIND,2020-06-26 15:32:00,2020-06-24,2020-06-23,2020-06-23,Director,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,20345.0,0.01,19845.0,0.01
+GODREJIND,2020-06-29 22:29:00,2020-06-25,2020-06-24,2020-06-24,Promoter Group,Market Purchase,Buy,Equity Shares,144820.0,0.0,0.0,0.0,0.0,6285808.0,1.87,6430628.0,1.91
+GODREJIND,2020-06-29 22:29:00,2020-06-25,2020-06-23,2020-06-23,Promoter Group,Market Purchase,Buy,Equity Shares,115156.0,0.0,0.0,0.0,0.0,6170652.0,1.83,6285808.0,1.87
+GODREJIND,2020-06-30 17:39:00,2020-06-26,2020-06-25,2020-06-25,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,18345.0,0.01,17345.0,0.01
+GODREJIND,2020-06-30 17:39:00,2020-06-26,2020-06-24,2020-06-24,Director,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,19845.0,0.01,18345.0,0.01
+GODREJIND,2020-07-01 21:58:00,2020-06-29,2020-06-25,2020-06-25,Promoter Group,Market Purchase,Buy,Equity Shares,60199.0,0.0,0.0,0.0,0.0,6430628.0,1.91,6490827.0,1.93
+GODREJIND,2020-07-01 21:58:00,2020-06-29,2020-06-26,2020-06-26,Promoter Group,Market Purchase,Buy,Equity Shares,113937.0,0.0,0.0,0.0,0.0,6490827.0,1.93,6604764.0,1.96
+GODREJIND,2020-07-02 15:42:00,2020-06-30,2020-06-26,2020-06-26,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,29531.0,0.01,28531.0,0.01
+GODREJIND,2020-07-02 15:42:00,2020-06-30,2020-06-26,2020-06-26,Director,ESOP,Buy,Equity Shares,12186.0,0.0,0.0,0.0,0.0,17345.0,0.01,29531.0,0.01
+GODREJIND,2020-07-02 15:42:00,2020-06-30,2020-06-29,2020-06-29,Director,Market Sale,Sell,Equity Shares,713.0,0.0,0.0,0.0,0.0,28531.0,0.01,27818.0,0.01
+GODREJIND,2020-07-02 21:53:00,2020-07-01,2020-06-30,2020-06-30,Promoter Group,Market Purchase,Buy,Equity Shares,87498.0,0.0,0.0,0.0,0.0,6662264.0,1.98,6749762.0,2.01
+GODREJIND,2020-07-02 21:53:00,2020-07-01,2020-06-29,2020-06-29,Promoter Group,Market Purchase,Buy,Equity Shares,57500.0,0.0,0.0,0.0,0.0,6604764.0,1.96,6662264.0,1.98
+GODREJIND,2020-07-03 20:23:00,2020-07-02,2020-06-30,2020-06-30,Director,Market Sale,Sell,Equity Shares,1820.0,0.0,0.0,0.0,0.0,27818.0,0.01,25998.0,0.01
+GODREJIND,2020-08-21 21:35:00,2020-08-19,2020-08-17,2020-08-17,Promoter Group,Market Purchase,Buy,Equity Shares,76937.0,0.0,0.0,0.0,0.0,6749762.0,2.01,6826699.0,2.03
+GODREJIND,2020-08-21 21:35:00,2020-08-19,2020-08-18,2020-08-18,Promoter Group,Market Purchase,Buy,Equity Shares,295063.0,0.0,0.0,0.0,0.0,6826699.0,2.03,7121762.0,2.12
+GODREJIND,2020-08-25 18:20:00,2020-08-21,2020-08-19,2020-08-19,Promoter Group,Market Purchase,Buy,Equity Shares,110980.0,0.0,0.0,0.0,0.0,7121762.0,2.12,7232742.0,2.15
+GODREJIND,2020-08-25 18:20:00,2020-08-21,2020-08-20,2020-08-20,Promoter Group,Market Purchase,Buy,Equity Shares,56900.0,0.0,0.0,0.0,0.0,7232742.0,2.15,7289642.0,2.17
+GODREJIND,2020-08-27 16:16:00,2020-08-25,2020-08-21,2020-08-21,Promoter Group,Market Purchase,Buy,Equity Shares,33289.0,0.0,0.0,0.0,0.0,7289642.0,2.17,7322931.0,2.18
+GODREJIND,2020-08-27 16:16:00,2020-08-25,2020-08-24,2020-08-24,Promoter Group,Market Purchase,Buy,Equity Shares,39252.0,0.0,0.0,0.0,0.0,7322931.0,2.18,7362183.0,2.19
+GODREJIND,2020-08-31 20:41:00,2020-08-27,2020-08-26,2020-08-26,Promoter Group,Market Purchase,Buy,Equity Shares,266000.0,0.0,0.0,0.0,0.0,7405027.0,2.2,7671027.0,2.28
+GODREJIND,2020-08-31 20:41:00,2020-08-27,2020-08-25,2020-08-25,Promoter Group,Market Purchase,Buy,Equity Shares,42844.0,0.0,0.0,0.0,0.0,7362183.0,2.19,7405027.0,2.2
+GODREJIND,2020-09-02 21:36:00,2020-08-31,2020-08-28,2020-08-28,Promoter Group,Market Purchase,Buy,Equity Shares,285000.0,0.0,0.0,0.0,0.0,7698359.0,2.29,7983359.0,2.37
+GODREJIND,2020-09-02 21:36:00,2020-08-31,2020-08-27,2020-08-27,Promoter Group,Market Purchase,Buy,Equity Shares,27332.0,0.0,0.0,0.0,0.0,7671027.0,2.28,7698359.0,2.29
+GODREJIND,2020-09-04 20:52:00,2020-09-02,2020-08-31,2020-08-31,Promoter Group,Market Purchase,Buy,Equity Shares,110603.0,0.0,0.0,0.0,0.0,7983359.0,2.37,8093962.0,2.41
+GODREJIND,2020-09-04 20:52:00,2020-09-02,2020-09-01,2020-09-01,Promoter Group,Market Purchase,Buy,Equity Shares,107895.0,0.0,0.0,0.0,0.0,8093962.0,2.41,8201857.0,2.44
+GODREJIND,2020-09-07 17:31:00,2020-09-04,2020-09-02,2020-09-02,Director,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,23998.0,0.01,22498.0,0.01
+GODREJIND,2020-09-07 20:41:00,2020-09-07,2020-09-04,2020-09-04,Promoter Group,Off Market,Buy,Equity Shares,607634.0,0.0,0.0,0.0,0.0,,0.0,607634.0,0.18
+GODREJIND,2020-09-07 20:41:00,2020-09-07,2020-09-04,2020-09-04,Promoters,Off Market,Sell,Equity Shares,607634.0,0.0,0.0,0.0,0.0,607634.0,0.18,,0.0
+GODREJIND,2020-09-07 21:05:00,2020-09-04,2020-09-02,2020-09-02,Promoter Group,Market Purchase,Buy,Equity Shares,285002.0,0.0,0.0,0.0,0.0,8201857.0,2.44,8486859.0,2.52
+GODREJIND,2020-09-18 18:45:00,2020-09-16,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3379.0,0.0,0.0,0.0,0.0,3379.0,0.0,,0.0
+GODREJIND,2020-09-18 18:45:00,2020-09-16,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6379.0,0.0,3379.0,0.0
+GODREJIND,2020-09-28 20:03:00,2020-09-24,2020-09-23,2020-09-23,Promoter Group,Market Purchase,Buy,Equity Shares,17500.0,0.0,0.0,0.0,0.0,2997162.0,0.89,3014662.0,0.9
+GODREJIND,2020-09-28 20:03:00,2020-09-24,2020-09-22,2020-09-22,Promoter Group,Market Purchase,Buy,Equity Shares,8500.0,0.0,0.0,0.0,0.0,2988662.0,0.89,2997162.0,0.89
+GODREJIND,2020-09-28 23:11:00,2020-09-28,2020-09-28,2020-09-28,Promoter Group,Gift,Sell,Equity Shares,90000.0,0.0,0.0,0.0,0.0,5784975.0,1.72,5694975.0,1.69
+GODREJIND,2020-09-28 23:11:00,2020-09-28,2020-09-28,2020-09-28,Promoter Group,Gift,Sell,Equity Shares,270000.0,0.0,0.0,0.0,0.0,5552647.0,1.65,5282647.0,1.57
+GODREJIND,2020-09-28 23:11:00,2020-09-28,2020-09-28,2020-09-28,Promoter Group,Gift,Buy,Equity Shares,360000.0,0.0,0.0,0.0,0.0,1371000.0,0.41,1731000.0,0.51
+GODREJIND,2020-09-30 21:12:00,2020-09-28,2020-09-24,2020-09-24,Promoter Group,Market Purchase,Buy,Equity Shares,785000.0,0.0,0.0,0.0,0.0,3014662.0,0.9,3799662.0,1.13
+GODREJIND,2020-09-30 21:12:00,2020-09-28,2020-09-25,2020-09-25,Promoter Group,Market Purchase,Buy,Equity Shares,4929.0,0.0,0.0,0.0,0.0,3799662.0,1.13,3804591.0,1.13
+GODREJIND,2020-11-19 16:58:00,2020-11-19,2020-11-18,2020-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,1286.0,0.0,486.0,0.0
+GODREJIND,2020-11-20 15:59:00,2020-11-20,2020-11-19,2020-11-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,486.0,0.0,286.0,0.0
+GODREJIND,2020-11-20 19:31:00,2020-11-18,2020-11-17,2020-11-17,Promoter Group,Market Purchase,Buy,Equity Shares,554870.0,0.0,0.0,0.0,0.0,3862485.0,1.15,4417355.0,1.31
+GODREJIND,2020-11-20 19:31:00,2020-11-18,2020-11-14,2020-11-14,Promoter Group,Market Purchase,Buy,Equity Shares,57894.0,0.0,0.0,0.0,0.0,3804591.0,1.13,3862485.0,1.15
+GODREJIND,2020-11-24 17:36:00,2020-11-20,2020-11-19,2020-11-19,Promoter Group,Market Purchase,Buy,Equity Shares,150098.0,0.0,0.0,0.0,0.0,4973957.0,1.48,5124055.0,1.52
+GODREJIND,2020-11-24 17:36:00,2020-11-20,2020-11-18,2020-11-18,Promoter Group,Market Purchase,Buy,Equity Shares,556602.0,0.0,0.0,0.0,0.0,4417355.0,1.31,4973957.0,1.48
+GODREJIND,2020-11-25 15:40:00,2020-11-25,2020-11-23,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,286.0,0.0,236.0,0.0
+GODREJIND,2020-11-26 17:39:00,2020-11-24,2020-11-20,2020-11-20,Promoter Group,Market Purchase,Buy,Equity Shares,158956.0,0.0,0.0,0.0,0.0,5124055.0,1.52,5283011.0,1.57
+GODREJIND,2020-11-26 17:39:00,2020-11-24,2020-11-23,2020-11-23,Promoter Group,Market Purchase,Buy,Equity Shares,49544.0,0.0,0.0,0.0,0.0,5283011.0,1.57,5332555.0,1.58
+GODREJIND,2020-11-27 14:31:00,2020-11-27,2020-11-26,2020-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,236.0,0.0,0.0,0.0,0.0,236.0,0.0,,0.0
+GODREJIND,2020-12-08 18:18:00,2020-12-04,2020-12-02,2020-12-02,Promoter Group,Market Purchase,Buy,Equity Shares,39024.0,0.0,0.0,0.0,0.0,5332555.0,1.58,5371579.0,1.6
+GODREJIND,2020-12-08 18:18:00,2020-12-04,2020-12-03,2020-12-03,Promoter Group,Market Purchase,Buy,Equity Shares,70074.0,0.0,0.0,0.0,0.0,5371579.0,1.6,5441653.0,1.62
+GODREJIND,2020-12-10 17:37:00,2020-12-08,2020-12-07,2020-12-07,Promoter Group,Market Purchase,Buy,Equity Shares,66574.0,0.0,0.0,0.0,0.0,5502556.0,1.64,5569130.0,1.65
+GODREJIND,2020-12-10 17:37:00,2020-12-08,2020-12-04,2020-12-04,Promoter Group,Market Purchase,Buy,Equity Shares,60903.0,0.0,0.0,0.0,0.0,5441653.0,1.62,5502556.0,1.64
+GODREJIND,2020-12-14 20:12:00,2020-12-10,2020-12-09,2020-12-09,Promoter Group,Market Purchase,Buy,Equity Shares,146659.0,0.0,0.0,0.0,0.0,5635497.0,1.67,5782156.0,1.72
+GODREJIND,2020-12-14 20:12:00,2020-12-10,2020-12-08,2020-12-08,Promoter Group,Market Purchase,Buy,Equity Shares,66367.0,0.0,0.0,0.0,0.0,5569130.0,1.65,5635497.0,1.67
+GODREJIND,2020-12-16 18:01:00,2020-12-14,2020-12-11,2020-12-11,Promoter Group,Market Purchase,Buy,Equity Shares,41340.0,0.0,0.0,0.0,0.0,5844741.0,1.74,5886081.0,1.75
+GODREJIND,2020-12-16 18:01:00,2020-12-14,2020-12-10,2020-12-10,Promoter Group,Market Purchase,Buy,Equity Shares,62585.0,0.0,0.0,0.0,0.0,5782156.0,1.72,5844741.0,1.74
+GODREJIND,2020-12-18 17:41:00,2020-12-16,2020-12-14,2020-12-14,Promoter Group,Market Purchase,Buy,Equity Shares,96500.0,0.0,0.0,0.0,0.0,5886081.0,1.75,5982581.0,1.78
+GODREJIND,2020-12-18 17:41:00,2020-12-16,2020-12-15,2020-12-15,Promoter Group,Market Purchase,Buy,Equity Shares,96042.0,0.0,0.0,0.0,0.0,5982581.0,1.78,6078623.0,1.81
+GODREJIND,2020-12-22 18:15:00,2020-12-18,2020-12-16,2020-12-16,Promoter Group,Market Purchase,Buy,Equity Shares,78530.0,0.0,0.0,0.0,0.0,6078623.0,1.81,6157153.0,1.83
+GODREJIND,2020-12-25 13:56:00,2020-12-23,2020-12-22,2020-12-22,Promoter Group,Market Purchase,Buy,Equity Shares,73100.0,0.0,0.0,0.0,0.0,7215153.0,2.14,7288253.0,2.17
+GODREJIND,2020-12-25 13:56:00,2020-12-23,2020-12-21,2020-12-21,Promoter Group,Market Purchase,Buy,Equity Shares,1058000.0,0.0,0.0,0.0,0.0,6157153.0,1.83,7215153.0,2.14
+GODREJIND,2020-12-30 16:39:00,2020-12-28,2020-12-23,2020-12-23,Promoter Group,Market Purchase,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,7288253.0,2.17,7363253.0,2.19
+GODREJIND,2020-12-30 16:39:00,2020-12-28,2020-12-24,2020-12-24,Promoter Group,Market Purchase,Buy,Equity Shares,80591.0,0.0,0.0,0.0,0.0,7363253.0,2.19,7443844.0,2.21
+GODREJIND,2020-12-30 19:39:00,2020-12-30,2020-12-28,2020-12-28,Promoter Group,Market Purchase,Buy,Equity Shares,1106500.0,0.0,0.0,0.0,0.0,7443844.0,2.21,8550344.0,2.54
+GODREJIND,2021-03-01 22:03:00,2021-02-25,2021-02-23,2021-02-23,Promoter Group,Market Purchase,Buy,Equity Shares,37076.0,0.0,0.0,0.0,0.0,,0.0,37076.0,0.01
+GODREJIND,2021-03-01 22:03:00,2021-02-25,2021-02-24,2021-02-24,Promoter Group,Market Purchase,Buy,Equity Shares,42586.0,0.0,0.0,0.0,0.0,37076.0,0.01,79662.0,0.02
+GODREJIND,2021-03-03 17:34:00,2021-03-01,2021-02-26,2021-02-26,Promoter Group,Market Purchase,Buy,Equity Shares,72037.0,0.0,0.0,0.0,0.0,146590.0,0.04,218627.0,0.06
+GODREJIND,2021-03-03 17:34:00,2021-03-01,2021-02-25,2021-02-25,Promoter Group,Market Purchase,Buy,Equity Shares,66928.0,0.0,0.0,0.0,0.0,79662.0,0.02,146590.0,0.04
+GODREJIND,2021-03-05 17:48:00,2021-03-03,2021-03-02,2021-03-02,Promoter Group,Market Purchase,Buy,Equity Shares,115783.0,0.0,0.0,0.0,0.0,336186.0,0.1,451969.0,0.13
+GODREJIND,2021-03-05 17:48:00,2021-03-03,2021-03-01,2021-03-01,Promoter Group,Market Purchase,Buy,Equity Shares,117559.0,0.0,0.0,0.0,0.0,218627.0,0.06,336186.0,0.1
+GODREJIND,2021-03-09 21:01:00,2021-03-05,2021-03-04,2021-03-04,Promoter Group,Market Purchase,Buy,Equity Shares,44073.0,0.0,0.0,0.0,0.0,574105.0,0.17,618178.0,0.18
+GODREJIND,2021-03-09 21:01:00,2021-03-05,2021-03-03,2021-03-03,Promoter Group,Market Purchase,Buy,Equity Shares,122136.0,0.0,0.0,0.0,0.0,451969.0,0.13,574105.0,0.17
+GODREJIND,2021-03-11 19:33:00,2021-03-09,2021-03-05,2021-03-05,Promoter Group,Market Purchase,Buy,Equity Shares,131268.0,0.0,0.0,0.0,0.0,618178.0,0.18,749446.0,0.22
+GODREJIND,2021-03-16 19:15:00,2021-03-12,2021-03-09,2021-03-09,Promoter Group,Market Purchase,Buy,Equity Shares,630000.0,0.0,0.0,0.0,0.0,749446.0,0.22,1379446.0,0.41
+GODREJIND,2021-03-16 19:17:00,2021-03-12,2021-03-10,2021-03-10,Promoter Group,Market Purchase,Buy,Equity Shares,141000.0,0.0,0.0,0.0,0.0,1379446.0,0.41,1520446.0,0.45
+GODREJIND,2021-03-18 17:27:00,2021-03-16,2021-03-15,2021-03-15,Promoter Group,Market Purchase,Buy,Equity Shares,59112.0,0.0,0.0,0.0,0.0,1716305.0,0.51,1775417.0,0.53
+GODREJIND,2021-03-18 17:27:00,2021-03-16,2021-03-12,2021-03-12,Promoter Group,Market Purchase,Buy,Equity Shares,195859.0,0.0,0.0,0.0,0.0,1520446.0,0.45,1716305.0,0.51
+GODREJIND,2021-03-22 19:07:00,2021-03-18,2021-03-16,2021-03-16,Promoter Group,Market Purchase,Buy,Equity Shares,85831.0,0.0,0.0,0.0,0.0,1775417.0,0.53,1861248.0,0.55
+GODREJIND,2021-03-23 20:10:00,2021-03-19,2021-03-17,2021-03-17,Promoter Group,Market Purchase,Buy,Equity Shares,176299.0,0.0,0.0,0.0,0.0,1861248.0,0.55,2037547.0,0.61
+GODREJIND,2021-03-24 19:47:00,2021-03-22,2021-03-18,2021-03-18,Promoter Group,Market Purchase,Buy,Equity Shares,60830.0,0.0,0.0,0.0,0.0,2037547.0,0.61,2098377.0,0.62
+GODREJIND,2021-03-24 19:47:00,2021-03-22,2021-03-19,2021-03-19,Promoter Group,Market Purchase,Buy,Equity Shares,20531.0,0.0,0.0,0.0,0.0,2098377.0,0.62,2118908.0,0.63
+GODREJIND,2021-03-26 19:01:00,2021-03-24,2021-03-22,2021-03-22,Promoter Group,Market Purchase,Buy,Equity Shares,56019.0,0.0,0.0,0.0,0.0,2118908.0,0.63,2174927.0,0.65
+GODREJIND,2021-03-26 19:01:00,2021-03-24,2021-03-23,2021-03-23,Promoter Group,Market Purchase,Buy,Equity Shares,83165.0,0.0,0.0,0.0,0.0,2174927.0,0.65,2258092.0,0.67
+GODREJIND,2021-03-30 20:50:00,2021-03-27,2021-03-26,2021-03-26,Director,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,22498.0,0.01,20498.0,0.01
+GODREJIND,2021-03-31 21:07:00,2021-03-26,2021-03-24,2021-03-24,Promoter Group,Market Purchase,Buy,Equity Shares,63600.0,0.0,0.0,0.0,0.0,2258092.0,0.67,2321692.0,0.69
+GODREJIND,2021-03-31 21:07:00,2021-03-26,2021-03-25,2021-03-25,Promoter Group,Market Purchase,Buy,Equity Shares,87628.0,0.0,0.0,0.0,0.0,2321692.0,0.69,2409320.0,0.72
+GODREJIND,2021-04-01 12:03:00,2021-03-31,2021-03-30,2021-03-30,Director,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,20498.0,0.01,16498.0,0.0
+GODREJIND,2021-04-05 18:44:00,2021-04-01,2021-03-31,2021-03-31,Director,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,16498.0,0.0,12498.0,0.0
+GODREJIND,2021-04-05 19:04:00,2021-03-31,2021-03-26,2021-03-26,Promoter Group,Market Purchase,Buy,Equity Shares,102192.0,0.0,0.0,0.0,0.0,2409320.0,0.72,2511512.0,0.75
+GODREJIND,2021-04-06 18:31:00,2021-04-01,2021-03-30,2021-03-30,Promoter Group,Market Purchase,Buy,Equity Shares,167664.0,0.0,0.0,0.0,0.0,2511512.0,0.75,2679176.0,0.8
+GODREJIND,2021-04-06 18:31:00,2021-04-01,2021-03-31,2021-03-31,Promoter Group,Market Purchase,Buy,Equity Shares,91807.0,0.0,0.0,0.0,0.0,2679176.0,0.8,2770983.0,0.82
+GODREJIND,2021-07-01 20:30:00,2021-07-01,2021-06-29,2021-06-29,Promoter Group,Market Purchase,Buy,Equity Shares,2520069.0,0.0,0.0,0.0,0.0,5479034.0,1.63,7999103.0,2.38
+GODREJIND,2021-07-01 20:30:00,2021-07-01,2021-06-29,2021-06-29,Promoter Group,Market Purchase,Buy,Equity Shares,2520068.0,0.0,0.0,0.0,0.0,6415553.0,1.91,8935621.0,2.66
+GODREJIND,2021-07-01 20:30:00,2021-07-01,2021-06-29,2021-06-29,Promoter Group,Market Purchase,Buy,Equity Shares,2520068.0,0.0,0.0,0.0,0.0,5874125.0,1.74,8394193.0,2.49
+GODREJIND,2021-07-01 20:30:00,2021-07-01,2021-06-29,2021-06-29,Promoter Group,Market Sale,Sell,Equity Shares,8486859.0,0.0,0.0,0.0,0.0,8486859.0,2.52,,0.0
+GODREJIND,2021-07-01 20:30:00,2021-07-01,2021-06-29,2021-06-29,Promoter Group,Market Sale,Sell,Equity Shares,6633552.0,0.0,0.0,0.0,0.0,8550344.0,2.54,1916792.0,0.57
+GODREJIND,2021-07-01 20:30:00,2021-07-01,2021-06-29,2021-06-29,Promoter Group,Market Purchase,Buy,Equity Shares,2520068.0,0.0,0.0,0.0,0.0,9414449.0,2.8,11934517.0,3.55
+GODREJIND,2021-07-01 20:30:00,2021-07-01,2021-06-29,2021-06-29,Promoter Group,Market Purchase,Buy,Equity Shares,2520069.0,0.0,0.0,0.0,0.0,9414449.0,2.8,11934518.0,3.55
+GODREJIND,2021-07-01 20:30:00,2021-07-01,2021-06-29,2021-06-29,Promoter Group,Market Purchase,Buy,Equity Shares,2520069.0,0.0,0.0,0.0,0.0,8671249.0,2.58,11191318.0,3.33
+GODREJIND,2021-07-01 20:30:00,2021-06-30,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,10186.0,0.0,7186.0,0.0

@@ -1,0 +1,11 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+LITL,2016-03-04 14:59:00,2016-03-03,2015-09-30,2016-02-15,Promoters,Preferential Offer,Buy,Equity Shares,265174603.0,0.0,0.0,0.0,0.0,1353712439.0,54.49,1618887042.0,58.88
+LITL,2017-02-03 13:52:00,2017-02-02,2017-01-31,2017-02-02,Director,Market Sale,Sell,Equity Shares,2850000.0,0.0,0.0,0.0,0.0,4702750.0,0.17,1852750.0,0.07
+LITL,2017-02-06 17:24:00,2017-02-06,2017-02-03,2017-02-03,Director,Market Sale,Sell,Equity Shares,900000.0,0.0,0.0,0.0,0.0,1852750.0,0.07,952750.0,0.03
+LITL,2017-02-24 19:28:00,2017-02-23,2017-02-21,2017-02-22,Director,Market Sale,Sell,Equity Shares,352750.0,0.0,0.0,0.0,0.0,952750.0,0.03,600000.0,0.02
+LITL,2017-03-03 17:22:00,2017-03-01,2017-02-28,2017-02-28,Director,Market Sale,Sell,Equity Shares,600000.0,0.0,0.0,0.0,0.0,600000.0,0.02,,0.0
+LITL,2017-03-07 18:33:00,2017-03-03,2017-03-01,2017-03-01,Key Managerial Personnel,Market Sale,Sell,Equity Shares,250000.0,0.0,0.0,0.0,0.0,265918.0,0.01,15918.0,0.0
+LITL,2018-01-14 17:47:00,2018-01-12,2018-01-10,2018-01-12,Director,Market Sale,Sell,Equity Shares,9729099.0,0.0,0.0,0.0,0.0,9735929.0,0.29,6830.0,0.0
+LITL,2018-06-05 17:54:00,2018-06-04,2018-06-01,2018-06-01,Promoter Group,Others,Buy,Equity Shares,1067460.0,0.0,0.0,0.0,0.0,5445380.0,0.16,6512840.0,0.2
+LITL,2018-06-05 17:54:00,2018-06-04,2018-06-01,2018-06-01,Promoter Group,Others,Buy,Equity Shares,1067460.0,0.0,0.0,0.0,0.0,53759447.0,1.62,54826907.0,1.65
+LITL,2018-06-05 17:54:00,2018-06-04,2018-06-01,2018-06-01,Promoters,Others,Buy,Equity Shares,1067460.0,0.0,0.0,0.0,0.0,38572971.0,1.16,39640431.0,1.2

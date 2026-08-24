@@ -1,0 +1,6 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+IRCON,2021-03-05 19:56:00,2021-03-05,2021-03-03,2021-03-03,Promoters,Market Sale,Sell,Equity Shares,52668882.0,0.0,0.0,0.0,0.0,419392085.0,89.18,366723203.0,77.98
+IRCON,2021-03-05 19:56:00,2021-03-05,2021-03-04,2021-03-04,Promoters,Market Sale,Sell,Equity Shares,22572378.0,0.0,0.0,0.0,0.0,366723203.0,77.98,344150825.0,73.18
+IRCON,2023-12-11 17:09:00,2023-12-11,2023-12-07,2023-12-07,Promoters,Market Sale,Sell,Equity Shares,67717132.0,0.0,0.0,0.0,0.0,688301650.0,73.18,620584518.0,65.98
+IRCON,2023-12-11 17:09:00,2023-12-11,2023-12-08,2023-12-08,Promoters,Market Sale,Sell,Equity Shares,7524126.0,0.0,0.0,0.0,0.0,620584518.0,65.98,613060392.0,65.18
+IRCON,2023-12-22 18:03:00,2023-12-22,2023-12-18,2023-12-19,Promoters,Off Market,Sell,Equity Shares,132000.0,0.0,0.0,0.0,0.0,613060392.0,65.18,612928392.0,65.17

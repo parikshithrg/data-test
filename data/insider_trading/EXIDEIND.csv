@@ -1,0 +1,4 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+EXIDEIND,2017-09-07 17:14:00,2017-09-06,2017-08-18,2017-08-18,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+EXIDEIND,2017-09-07 17:14:00,2017-09-06,2017-08-28,2017-08-28,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,10000.0,0.0
+EXIDEIND,2021-05-28 20:01:00,2021-05-27,2021-05-27,2021-05-27,Director,Off Market,Buy,Equity Shares,135800.0,0.0,0.0,0.0,0.0,78666.0,0.01,214466.0,0.03

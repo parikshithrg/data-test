@@ -1,0 +1,11 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+JIOFIN,2023-08-23 20:52:00,2023-08-10,2023-08-10,2023-08-10,Immediate relative,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,157166.0,0.0,0.0,0.0,0.0,,0.0,157166.0,0.0
+JIOFIN,2023-08-23 20:52:00,2023-08-10,2023-08-10,2023-08-10,Director,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,12884.0,0.0,0.0,0.0,0.0,,0.0,12884.0,0.0
+JIOFIN,2023-08-23 20:52:00,2023-08-10,2023-08-10,2023-08-10,Immediate relative,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,36869.0,0.0,0.0,0.0,0.0,,0.0,36869.0,0.0
+JIOFIN,2023-08-23 20:52:00,2023-08-10,2023-08-10,2023-08-10,Director,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,4849.0,0.0,0.0,0.0,0.0,,0.0,4849.0,0.0
+JIOFIN,2023-08-23 20:52:00,2023-08-10,2023-08-10,2023-08-10,Director,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,47500.0,0.0,0.0,0.0,0.0,,0.0,47500.0,0.0
+JIOFIN,2024-07-29 20:42:00,2024-07-25,2024-07-23,2024-07-23,Immediate relative,Market Purchase,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,157166.0,0.0,160166.0,0.0
+JIOFIN,2024-10-30 11:40:00,2024-10-28,2024-10-22,2024-10-24,Immediate relative,Market Purchase,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,1200.0,0.0,7200.0,0.0
+JIOFIN,2025-04-25 17:29:00,2025-04-23,2025-04-21,2025-04-21,Immediate relative,Market Purchase,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,160166.0,0.0,180166.0,0.0
+JIOFIN,2025-09-09 19:19:00,2025-09-05,2025-09-03,2025-09-03,Promoter Group,Preferential Offer,Buy,Warrants,250000000.0,0.0,0.0,0.0,0.0,,0.0,250000000.0,0.0
+JIOFIN,2025-09-09 19:19:00,2025-09-05,2025-09-03,2025-09-03,Promoter Group,Preferential Offer,Buy,Warrants,250000000.0,0.0,0.0,0.0,0.0,,0.0,250000000.0,0.0

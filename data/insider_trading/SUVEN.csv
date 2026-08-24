@@ -1,0 +1,11 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+SUVEN,2016-03-31 13:29:00,2016-03-30,2016-03-28,2016-03-29,Promoters,Market Purchase,Buy,Equity Shares,550000.0,0.0,0.0,0.0,0.0,75815000.0,59.57,76365000.0,60.0
+SUVEN,2020-08-24 15:47:00,2020-08-24,2020-08-21,2020-08-21,Immediate relative,Market Purchase,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,,0.0,20000.0,0.02
+SUVEN,2020-08-27 16:17:00,2020-08-27,2020-08-26,2020-08-26,Immediate relative,Market Purchase,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,20000.0,0.02,40000.0,0.03
+SUVEN,2020-08-31 14:52:00,2020-08-29,2020-08-28,2020-08-28,Immediate relative,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,40000.0,0.03,50000.0,0.04
+SUVEN,2020-09-02 14:09:00,2020-09-01,2020-08-31,2020-08-31,Immediate relative,Market Purchase,Buy,Equity Shares,15000.0,0.0,0.0,0.0,0.0,50000.0,0.04,65000.0,0.05
+SUVEN,2021-04-06 18:22:00,2021-04-06,2021-04-02,2021-04-02,Promoter Group,Preferential Offer,Buy,Warrants,18100000.0,0.0,0.0,0.0,0.0,,0.0,18100000.0,4.98
+SUVEN,2022-03-29 18:44:00,2022-03-29,2022-03-28,2022-03-28,Promoter Group,Conversion of security,Buy,Equity Shares,18100000.0,0.0,0.0,0.0,0.0,76365000.0,60.0,94465000.0,64.98
+SUVEN,2024-05-29 10:44:00,2024-05-28,2024-05-28,2024-05-28,Promoter Group,Others,Buy,Equity Shares,1525535.0,0.0,0.0,0.0,0.0,3000.0,0.0,1528535.0,0.7
+SUVEN,2025-07-07 18:47:00,2025-07-04,2025-07-03,2025-07-03,Promoter Group,Preferential Offer,Buy,Warrants,31768764.0,0.0,0.0,0.0,0.0,,0.0,31768764.0,0.0
+SUVEN,2026-03-10 10:48:00,2026-03-09,2026-03-06,2026-03-06,Promoter Group,Conversion of security,Buy,Equity Shares,31768764.0,0.0,0.0,0.0,0.0,151697500.0,65.4,183466264.0,69.67

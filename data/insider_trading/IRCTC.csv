@@ -1,0 +1,6 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+IRCTC,2020-12-15 11:18:00,2020-12-14,2020-12-10,2020-12-10,Promoters,Market Sale,Sell,Equity Shares,28800000.0,0.0,0.0,0.0,0.0,139840000.0,87.4,111040000.0,69.4
+IRCTC,2020-12-15 11:18:00,2020-12-14,2020-12-11,2020-12-11,Promoters,Market Sale,Sell,Equity Shares,3200000.0,0.0,0.0,0.0,0.0,111040000.0,69.4,107840000.0,67.4
+IRCTC,2020-12-24 19:32:00,2020-12-24,2020-12-24,2020-12-24,Promoters,Market Sale,Sell,Equity Shares,5566.0,0.0,0.0,0.0,0.0,107840000.0,67.4,107834434.0,67.4
+IRCTC,2021-04-29 21:59:00,2021-04-29,2020-12-22,2020-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,1600.0,0.0,,0.0
+IRCTC,2022-12-19 19:17:00,2022-12-19,2022-12-15,2022-12-16,-,Market Sale,Sell,Equity Shares,40000000.0,0.0,0.0,0.0,0.0,539172170.0,67.4,499172170.0,62.4

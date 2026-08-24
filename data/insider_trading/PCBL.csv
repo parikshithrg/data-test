@@ -1,0 +1,7 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+PCBL,2017-03-07 18:46:00,2017-03-06,2017-03-06,2017-03-06,Promoter Group,Market Purchase,Buy,Equity Shares,87000.0,0.0,0.0,0.0,0.0,17216074.0,49.95,17303074.0,50.2
+PCBL,2017-03-07 18:54:00,2017-03-06,2017-03-06,2017-03-06,Promoter Group,Market Sale,Sell,Equity Shares,87000.0,0.0,0.0,0.0,0.0,1155000.0,3.35,1068000.0,3.1
+PCBL,2023-10-06 19:13:00,2023-10-04,2023-09-25,2023-09-25,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+PCBL,2024-05-18 09:55:00,2024-05-16,2024-05-15,2024-05-15,Promoter Group,Preferential Offer,Buy,Warrants,1200000.0,0.0,0.0,0.0,0.0,7338000.0,1.94,8538000.0,2.17
+PCBL,2024-05-18 09:55:00,2024-05-16,2024-05-15,2024-05-15,Promoters,Preferential Offer,Buy,Warrants,13600000.0,0.0,0.0,0.0,0.0,173030740.0,45.84,186630740.0,47.43
+PCBL,2024-05-18 09:55:00,2024-05-17,2024-05-15,2024-05-15,Promoter Group,Preferential Offer,Buy,Warrants,1200000.0,0.0,0.0,0.0,0.0,2903830.0,0.77,4103830.0,1.04

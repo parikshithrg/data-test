@@ -1,0 +1,19 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+RADICO,2019-02-07 17:11:00,2019-02-06,2019-02-06,2019-02-06,Director,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,28891.0,0.02,27891.0,0.02
+RADICO,2019-02-07 17:11:00,2019-02-06,2019-02-05,2019-02-05,Director,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,43891.0,0.03,28891.0,0.02
+RADICO,2019-02-07 17:11:00,2019-02-06,2019-02-04,2019-02-04,Director,ESOP,Buy,Equity Shares,15000.0,0.0,0.0,0.0,0.0,28891.0,0.02,43891.0,0.03
+RADICO,2019-09-06 12:02:00,2019-09-05,2019-05-13,2019-08-27,Immediate relative,Market Purchase,Buy,Equity Shares,207950.0,0.0,0.0,0.0,0.0,,0.0,207950.0,0.16
+RADICO,2021-02-16 15:07:00,2021-02-16,2021-02-01,2021-02-01,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+RADICO,2021-03-31 18:22:00,2021-03-31,2021-03-30,2021-03-30,Key Managerial Personnel,Market Purchase,Sell,Equity Shares,2102.0,0.0,0.0,0.0,0.0,40891.0,0.0,38789.0,0.0
+RADICO,2021-06-09 17:31:00,2021-06-08,2021-06-07,2021-06-07,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,38789.0,0.0,28789.0,0.0
+RADICO,2021-06-18 14:25:00,2021-06-17,2021-06-17,2021-06-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,65000.0,0.05,63000.0,0.05
+RADICO,2021-07-01 16:14:00,2021-07-01,2021-06-30,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,20000.0,0.01,8000.0,0.01
+RADICO,2021-07-15 12:31:00,2021-07-15,2021-07-13,2021-07-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,80000.0,0.0,0.0,0.0,0.0,8000.0,0.01,88000.0,0.07
+RADICO,2021-08-13 17:31:00,2021-08-13,2021-08-12,2021-08-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,28789.0,0.0,16789.0,0.0
+RADICO,2021-08-21 10:39:00,2021-08-18,2021-08-16,2021-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,21000.0,0.0,0.0,0.0,0.0,88000.0,0.07,67000.0,0.07
+RADICO,2021-08-23 17:07:00,2021-08-23,2021-08-17,2021-08-20,Key Managerial Personnel,Market Sale,Sell,Equity Shares,18888.0,0.0,0.0,0.0,0.0,164721.0,0.12,145833.0,0.11
+RADICO,2021-12-25 23:23:00,2021-12-24,2021-12-23,2021-12-23,Key Managerial Personnel,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,145833.0,0.11,120833.0,0.09
+RADICO,2022-02-09 15:30:00,2022-02-09,2022-02-07,2022-02-08,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.01,2000.0,0.01
+RADICO,2022-02-09 15:30:00,2022-02-08,2022-02-07,2022-02-07,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1560.0,0.01,6560.0,0.01
+RADICO,2022-08-19 15:21:00,2022-08-18,2022-08-17,2022-08-17,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,16789.0,0.01,19789.0,0.02
+RADICO,2022-08-25 16:27:00,2022-08-25,2022-08-24,2022-08-24,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,3440.0,0.0,0.0,0.0,0.0,6560.0,0.0,10000.0,0.0

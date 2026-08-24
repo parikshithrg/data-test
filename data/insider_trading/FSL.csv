@@ -1,0 +1,757 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+FSL,2015-12-01 20:19:00,2015-11-24,2015-11-20,2015-11-20,Employees/Designated Employees,ESOP,ESOP/ESOS/ESPS,Equity Shares,50000.0,0.0,0.0,0.0,0.0,430400.0,0.0,480400.0,0.0
+FSL,2015-12-01 20:19:00,2015-11-23,2015-11-20,2015-11-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,112500.0,0.0,0.0,0.0,0.0,350000.0,0.0,462500.0,0.0
+FSL,2015-12-01 20:21:00,2015-11-27,2015-11-26,2015-11-26,Employees/Designated Employees,ESOP,Sell,Equity Shares,120000.0,0.0,0.0,0.0,0.0,225000.0,0.03,105000.0,0.0
+FSL,2015-12-01 20:21:00,2015-11-27,2015-11-20,2015-11-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,50000.0,0.0,0.0,0.0,0.0,175000.0,0.03,225000.0,0.03
+FSL,2015-12-01 20:21:00,2015-11-27,2015-11-24,2015-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,23125.0,0.0,0.0,0.0,0.0,23139.0,0.0035,14.0,0.0
+FSL,2015-12-01 20:21:00,2015-11-27,2015-11-20,2015-11-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,23125.0,0.0,0.0,0.0,0.0,14.0,0.0,23139.0,0.0035
+FSL,2015-12-14 20:19:00,2015-12-14,2015-12-11,2015-12-11,Other,ESOP,Buy,Equity Shares,275000.0,0.0,0.0,0.0,0.0,,0.0,275000.0,0.04
+FSL,2015-12-14 20:23:00,2015-12-14,2015-12-11,2015-12-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,170000.0,0.0,0.0,0.0,0.0,,0.0,170000.0,0.025
+FSL,2015-12-14 20:23:00,2015-12-11,2015-12-11,2015-12-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,91250.0,0.0,0.0,0.0,0.0,,0.0,91250.0,0.01
+FSL,2015-12-14 20:23:00,2015-12-14,2015-12-11,2015-12-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,92500.0,0.0,0.0,0.0,0.0,124563.0,0.019,217063.0,0.032
+FSL,2015-12-14 20:23:00,2015-12-11,2015-12-11,2015-12-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,121875.0,0.0,0.0,0.0,0.0,240000.0,0.04,361875.0,0.05
+FSL,2015-12-22 15:19:00,2015-12-22,2015-12-18,2015-12-22,Other,Market Sale,Sell,Equity Shares,275000.0,0.0,0.0,0.0,0.0,275000.0,0.04,,0.0
+FSL,2015-12-24 19:04:00,2015-12-24,2015-12-11,2015-12-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,73750.0,0.0,0.0,0.0,0.0,8785.0,0.001,82535.0,0.01
+FSL,2015-12-24 19:04:00,2015-12-24,2015-12-22,2015-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,170000.0,0.0,0.0,0.0,0.0,170000.0,0.02,,0.0
+FSL,2015-12-24 19:04:00,2015-12-22,2015-12-16,2015-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,56250.0,0.0,0.0,0.0,0.0,56250.0,0.01,,0.0
+FSL,2015-12-24 19:04:00,2015-12-24,2015-12-01,2015-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,28700.0,0.0,0.0,0.0,0.0,82535.0,0.01,53835.0,0.01
+FSL,2015-12-24 20:01:00,2015-12-23,2015-12-15,2015-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,87368.0,0.0,0.0,0.0,0.0,93750.0,0.01,6382.0,0.0009
+FSL,2015-12-24 20:01:00,2015-12-22,2015-12-17,2015-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,91250.0,0.01,41250.0,0.006
+FSL,2015-12-28 18:12:00,2015-12-22,2015-12-17,2015-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,60000.0,0.0,0.0,0.0,0.0,217063.0,0.03,157063.0,0.02
+FSL,2016-01-05 19:50:00,2016-01-04,2016-01-02,2016-01-04,Other,ESOP,Buy,Equity Shares,318750.0,0.0,0.0,0.0,0.0,,0.0,318750.0,0.05
+FSL,2016-01-05 19:50:00,2016-01-04,2016-01-04,2016-01-04,Other,ESOP,Buy,Equity Shares,115625.0,0.0,0.0,0.0,0.0,,0.0,115625.0,0.024
+FSL,2016-01-06 18:27:00,2016-01-06,2016-01-05,2016-01-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,122418.0,0.0,0.0,0.0,0.0,303257.0,0.045,180839.0,0.026
+FSL,2016-01-06 18:27:00,2016-01-06,2016-01-04,2016-01-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,296875.0,0.0,0.0,0.0,0.0,6382.0,0.0009,303257.0,0.045
+FSL,2016-01-18 16:36:00,2016-01-15,2016-01-15,2016-01-15,Employees/Designated Employees,ESOP,ESOP/ESOS/ESPS,Equity Shares,100000.0,0.0,0.0,0.0,0.0,100000.0,0.015,200000.0,0.029
+FSL,2016-01-18 16:36:00,2016-01-15,2016-01-15,2016-01-15,Employees/Designated Employees,ESOP,ESOP/ESOS/ESPS,Equity Shares,52500.0,0.0,0.0,0.0,0.0,14177.0,0.002,66677.0,0.0099
+FSL,2016-02-10 17:18:00,2016-02-08,2016-02-08,2016-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,142500.0,0.0,0.0,0.0,0.0,,0.0,142500.0,0.021
+FSL,2016-03-08 09:44:00,2016-03-03,2016-02-26,2016-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,95000.0,0.0,0.0,0.0,0.0,142500.0,0.021,47500.0,0.007
+FSL,2016-03-17 09:15:00,2016-03-16,2016-03-14,2016-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,37500.0,0.0,0.0,0.0,0.0,37500.0,0.006,,0.0
+FSL,2016-04-08 18:36:00,2016-04-08,2016-04-08,2016-04-08,Director,ESOP,Buy,Equity Shares,303990.0,0.0,0.0,0.0,0.0,,0.0,303990.0,0.05
+FSL,2016-04-20 13:40:00,2016-04-18,2016-04-12,2016-04-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,23125.0,0.0,0.0,0.0,0.0,23139.0,0.0035,14.0,0.0
+FSL,2016-04-20 13:40:00,2016-04-18,2016-04-05,2016-04-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,23125.0,0.0,0.0,0.0,0.0,14.0,0.0,23139.0,0.0035
+FSL,2016-04-28 21:05:00,2016-04-25,2016-04-01,2016-04-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,29750.0,0.0,0.0,0.0,0.0,29835.0,0.0044,85.0,0.0
+FSL,2016-05-02 16:39:00,2016-05-02,2016-04-29,2016-04-29,Employees/Designated Employees,ESOP,ESOP/ESOS/ESPS,Equity Shares,126250.0,0.0,0.0,0.0,0.0,157063.0,0.02,283313.0,0.04
+FSL,2016-05-02 19:58:00,2016-05-02,2016-04-29,2016-04-29,Employees/Designated Employees,ESOP,-,Equity Shares,150000.0,0.0,0.0,0.0,0.0,159001.0,0.02,309001.0,0.05
+FSL,2016-05-20 16:29:00,2016-05-20,2016-04-29,2016-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,36052.0,0.0,0.0,0.0,0.0,76052.0,0.011,40000.0,0.005
+FSL,2016-05-20 16:36:00,2016-05-19,2016-05-17,2016-05-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,33750.0,0.0,0.0,0.0,0.0,33750.0,0.005,,0.0
+FSL,2016-05-20 18:32:00,2016-05-20,2016-05-20,2016-05-20,Employees/Designated Employees,ESOP,ESOP/ESOS/ESPS,Equity Shares,135750.0,0.0,0.0,0.0,0.0,64800.0,0.01,200550.0,0.03
+FSL,2016-05-23 18:19:00,2016-05-23,2016-05-18,2016-05-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,37500.0,0.0,0.0,0.0,0.0,37500.0,0.005,,0.0
+FSL,2016-05-23 18:19:00,2016-05-20,2016-05-20,2016-05-20,Director,ESOP,Buy,Equity Shares,243850.0,0.0,0.0,0.0,0.0,303990.0,0.045,547840.0,0.08
+FSL,2016-05-26 17:43:00,2016-05-26,2016-05-23,2016-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,102000.0,0.0,0.0,0.0,0.0,200505.0,0.03,98505.0,0.015
+FSL,2016-05-27 17:49:00,2016-05-27,2016-05-24,2016-05-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,30014.0,0.004,14.0,0.0
+FSL,2016-05-27 17:49:00,2016-05-27,2016-05-20,2016-05-20,Employees/Designated Employees,ESOP,-,Equity Shares,30000.0,0.0,0.0,0.0,0.0,14.0,0.0,30014.0,0.004
+FSL,2016-06-02 18:00:00,2016-06-02,2016-05-25,2016-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,180839.0,0.03,130839.0,0.02
+FSL,2016-06-03 18:39:00,2016-06-03,2016-06-02,2016-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,40000.0,0.005,20000.0,0.002
+FSL,2016-06-03 18:39:00,2016-06-03,2016-05-25,2016-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,21250.0,0.0,0.0,0.0,0.0,61250.0,0.009,40000.0,0.005
+FSL,2016-06-08 17:55:00,2016-06-07,2016-05-27,2016-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,69000.0,0.0,0.0,0.0,0.0,98550.0,0.015,29550.0,0.005
+FSL,2016-06-08 18:13:00,2016-06-07,2016-06-07,2016-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,41250.0,0.0,0.0,0.0,0.0,41250.0,0.01,,0.0
+FSL,2016-06-13 20:42:00,2016-06-13,2016-06-13,2016-06-13,Employees/Designated Employees,ESOP,-,Equity Shares,45000.0,0.0,0.0,0.0,0.0,14.0,0.0,45014.0,0.01
+FSL,2016-06-14 17:17:00,2016-06-13,2016-06-13,2016-06-13,Employees/Designated Employees,ESOP,ESOP/ESOS/ESPS,Equity Shares,70000.0,0.0,0.0,0.0,0.0,309001.0,0.05,379001.0,0.06
+FSL,2016-06-15 18:31:00,2016-06-15,2016-06-13,2016-06-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,200000.0,0.03,300000.0,0.04
+FSL,2016-06-20 19:23:00,2016-06-16,2016-06-07,2016-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25839.0,0.0,0.0,0.0,0.0,130839.0,0.02,105000.0,0.02
+FSL,2016-06-21 16:33:00,2016-06-21,2016-06-21,2016-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,45000.0,0.0,0.0,0.0,0.0,45014.0,0.007,14.0,0.0
+FSL,2016-06-22 17:23:00,2016-06-22,2016-06-21,2016-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,30000.0,0.004,,0.0
+FSL,2016-06-30 19:50:00,2016-06-30,2016-06-30,2016-06-30,Employees/Designated Employees,ESOP,-,Equity Shares,49225.0,0.0,0.0,0.0,0.0,,0.0,49225.0,0.007
+FSL,2016-06-30 19:50:00,2016-06-29,2016-06-22,2016-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,31250.0,0.0,0.0,0.0,0.0,31250.0,0.005,,
+FSL,2016-07-07 16:07:00,2016-07-06,2016-07-04,2016-07-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,33313.0,0.0,0.0,0.0,0.0,283313.0,0.041,250000.0,0.037
+FSL,2016-07-28 16:06:00,2016-07-26,2016-07-25,2016-07-25,Employees/Designated Employees,ESOP,ESOP/ESOS/ESPS,Equity Shares,54375.0,0.0,0.0,0.0,0.0,386875.0,0.06,441250.0,0.07
+FSL,2016-08-19 17:34:00,2016-08-19,2016-08-01,2016-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,63125.0,0.0,0.0,0.0,0.0,69375.0,0.01,6250.0,0.0009
+FSL,2016-08-24 17:21:00,2016-08-24,2016-08-22,2016-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,37500.0,0.0,0.0,0.0,0.0,37500.0,0.005,,0.0
+FSL,2016-08-31 14:03:00,2016-08-30,2016-08-29,2016-08-29,Director,Market Sale,Sell,Equity Shares,62500.0,0.0,0.0,0.0,0.0,62500.0,0.009,,0.0
+FSL,2016-09-14 16:35:00,2016-09-14,2016-09-14,2016-09-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,131250.0,0.0,0.0,0.0,0.0,,0.0,131250.0,0.02
+FSL,2016-09-15 12:16:00,2016-09-14,2016-09-14,2016-09-14,Director,ESOP,Buy,Equity Shares,187500.0,0.0,0.0,0.0,0.0,,0.0,187500.0,0.027
+FSL,2016-09-27 17:03:00,2016-09-26,2016-09-23,2016-09-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,300000.0,0.04,200000.0,0.03
+FSL,2016-10-03 16:11:00,2016-10-03,2016-09-30,2016-10-03,Key Managerial Personnel,Market Sale,Sell,Equity Shares,200000.0,0.0,0.0,0.0,0.0,200000.0,0.03,,0.0
+FSL,2016-10-07 16:56:00,2016-10-07,2016-10-07,2016-10-07,Key Managerial Personnel,ESOP,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,,0.0,200000.0,0.03
+FSL,2016-10-12 12:51:00,2016-10-10,2016-10-07,2016-10-07,Director,ESOP,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,187500.0,0.03,262500.0,0.04
+FSL,2016-11-05 15:00:00,2016-11-04,2016-11-02,2016-11-02,Director,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,547840.0,0.08,447840.0,0.07
+FSL,2016-11-05 15:24:00,2016-11-04,2016-11-04,2016-11-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,105000.0,0.02,180000.0,0.03
+FSL,2016-12-12 16:58:00,2016-12-08,2016-11-29,2016-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,66708.0,0.0,0.0,0.0,0.0,180000.0,0.03,113292.0,0.02
+FSL,2016-12-14 17:43:00,2016-12-12,2016-12-09,2016-12-09,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,200000.0,0.03,100000.0,0.01
+FSL,2016-12-14 17:43:00,2016-12-12,2016-12-09,2016-12-09,Key Managerial Personnel,Market Sale,Sell,Equity Shares,558333.0,0.0,0.0,0.0,0.0,1750000.0,0.258,1191667.0,0.176
+FSL,2016-12-14 17:43:00,2016-12-14,2016-12-13,2016-12-13,Key Managerial Personnel,Market Sale,Sell,Equity Shares,491667.0,0.0,0.0,0.0,0.0,1191667.0,0.176,700000.0,0.01
+FSL,2016-12-29 17:59:00,2016-12-28,2016-12-28,2016-12-28,Key Managerial Personnel,ESOP,Buy,Equity Shares,1250000.0,0.0,0.0,0.0,0.0,700000.0,0.103,1950000.0,0.287
+FSL,2016-12-29 17:59:00,2016-12-28,2016-12-28,2016-12-28,Key Managerial Personnel,ESOP,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,100000.0,0.01,250000.0,0.04
+FSL,2017-01-11 16:21:00,2017-01-09,2017-01-06,2017-01-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,189125.0,0.0,0.0,0.0,0.0,1950000.0,0.287,1760875.0,0.259
+FSL,2017-01-11 16:25:00,2017-01-10,2017-01-09,2017-01-09,Key Managerial Personnel,Market Sale,Sell,Equity Shares,133850.0,0.0,0.0,0.0,0.0,1760875.0,0.259,1627025.0,0.24
+FSL,2017-02-06 12:28:00,2017-02-04,2017-02-03,2017-02-03,Director,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,262500.0,0.04,162500.0,0.02
+FSL,2017-02-06 17:22:00,2017-02-06,2017-02-06,2017-02-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,37500.0,0.0,0.0,0.0,0.0,125000.0,0.018,87500.0,0.012
+FSL,2017-02-06 17:22:00,2017-02-06,2017-02-06,2017-02-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,477025.0,0.0,0.0,0.0,0.0,1477025.0,0.217,1000000.0,0.147
+FSL,2017-02-06 17:22:00,2017-02-06,2017-02-03,2017-02-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,250000.0,0.036,150000.0,0.022
+FSL,2017-02-06 17:22:00,2017-02-06,2017-02-03,2017-02-03,Key Managerial Personnel,Market Sale,Sell,Equity Shares,150000.0,0.0,0.0,0.0,0.0,1627025.0,0.239,1477025.0,0.217
+FSL,2017-02-10 17:19:00,2017-02-08,2017-02-06,2017-02-08,Consultant,Market Sale,Sell,Equity Shares,50121.0,0.0,0.0,0.0,0.0,258121.0,0.04,208000.0,0.03
+FSL,2017-02-10 19:29:00,2017-02-10,2017-02-10,2017-02-10,Key Managerial Personnel,ESOP,Buy,Equity Shares,93750.0,0.0,0.0,0.0,0.0,,0.0,93750.0,0.013
+FSL,2017-02-10 19:29:00,2017-02-09,2017-02-08,2017-02-08,Director,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,162500.0,0.02,62500.0,0.009
+FSL,2017-02-10 19:29:00,2017-02-10,2017-02-08,2017-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,22500.0,0.0,0.0,0.0,0.0,22500.0,0.002,,0.0
+FSL,2017-02-10 19:29:00,2017-02-10,2017-01-05,2017-01-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8765.0,0.0,0.0,0.0,0.0,441250.0,0.065,432485.0,0.063
+FSL,2017-02-10 19:29:00,2017-02-08,2017-02-07,2017-02-08,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,150000.0,0.022,50000.0,0.007
+FSL,2017-02-10 19:29:00,2017-02-10,2017-02-10,2017-02-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,50000.0,0.007,,0.0
+FSL,2017-02-10 19:29:00,2017-02-10,2017-02-10,2017-02-10,Key Managerial Personnel,ESOP,Buy,Equity Shares,1000000.0,0.0,0.0,0.0,0.0,,0.0,1000000.0,0.147
+FSL,2017-02-10 19:29:00,2017-02-10,2017-02-10,2017-02-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,300000.0,0.0,0.0,0.0,0.0,300000.0,0.044,,0.0
+FSL,2017-02-10 19:29:00,2017-02-09,2017-02-09,2017-02-09,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,400000.0,0.058,300000.0,0.044
+FSL,2017-02-10 19:29:00,2017-02-09,2017-02-08,2017-02-08,Key Managerial Personnel,Market Sale,Sell,Equity Shares,600000.0,0.0,0.0,0.0,0.0,1000000.0,0.147,400000.0,0.058
+FSL,2017-02-10 19:29:00,2017-02-10,2017-02-09,2017-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,432000.0,0.0,0.0,0.0,0.0,432485.0,0.063,485.0,0.0
+FSL,2017-02-13 16:52:00,2017-02-10,2017-02-08,2017-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,131250.0,0.0,0.0,0.0,0.0,131250.0,0.019,,0.0
+FSL,2017-02-13 16:52:00,2017-02-10,2017-02-07,2017-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,57000.0,0.0,0.0,0.0,0.0,58800.0,0.009,1800.0,0.0003
+FSL,2017-02-14 16:33:00,2017-02-13,2017-02-10,2017-02-10,Director,ESOP,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,62500.0,0.009,162500.0,0.023
+FSL,2017-02-17 16:11:00,2017-02-16,2017-02-15,2017-02-16,Key Managerial Personnel,Market Sale,Sell,Equity Shares,350000.0,0.0,0.0,0.0,0.0,1000000.0,0.147,650000.0,0.095
+FSL,2017-02-17 16:17:00,2017-02-16,2017-02-14,2017-02-14,Consultnat,Market Sale,Sell,Equity Shares,38000.0,0.0,0.0,0.0,0.0,208000.0,0.031,170000.0,0.025
+FSL,2017-02-20 17:41:00,2017-02-16,2017-02-13,2017-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,26000.0,0.0,0.0,0.0,0.0,26435.0,0.003,435.0,0.0
+FSL,2017-02-21 16:54:00,2017-02-20,2017-02-14,2017-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,420251.0,0.061,320251.0,0.047
+FSL,2017-02-22 16:43:00,2017-02-22,2017-02-21,2017-02-21,Key Managerial Personnel,ESOP,Buy,Equity Shares,62500.0,0.0,0.0,0.0,0.0,93750.0,0.014,156250.0,0.022
+FSL,2017-02-22 16:43:00,2017-02-22,2017-02-21,2017-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,87500.0,0.012,62500.0,0.009
+FSL,2017-02-23 18:26:00,2017-02-21,2017-02-17,2017-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,48750.0,0.0,0.0,0.0,0.0,48750.0,0.007,,0.0
+FSL,2017-02-23 18:26:00,2017-02-22,2017-02-21,2017-02-21,Employees/Designated Employees,ESOP,Buy,Equity Shares,93750.0,0.0,0.0,0.0,0.0,,0.0,93750.0,0.014
+FSL,2017-02-24 16:36:00,2017-02-23,2017-02-23,2017-02-23,Key Managerial Personnel,Market Sale,Sell,Equity Shares,150000.0,0.0,0.0,0.0,0.0,650000.0,0.095,500000.0,0.073
+FSL,2017-02-28 18:11:00,2017-02-28,2017-02-27,2017-02-28,Key Managerial Personnel,Market Sale,Sell,Equity Shares,500000.0,0.0,0.0,0.0,0.0,500000.0,0.073,,0.0
+FSL,2017-02-28 18:11:00,2017-02-28,2017-02-27,2017-02-28,Key Managerial Personnel,Market Sale,Sell,Equity Shares,56250.0,0.0,0.0,0.0,0.0,156250.0,0.022,100000.0,0.014
+FSL,2017-02-28 18:11:00,2017-02-27,2017-02-23,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,28750.0,0.0,0.0,0.0,0.0,28750.0,0.004,,0.0
+FSL,2017-03-01 16:55:00,2017-02-28,2017-02-23,2017-02-28,Consultant,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,170000.0,0.025,145000.0,0.021
+FSL,2017-03-02 17:39:00,2017-03-02,2017-03-02,2017-03-02,Employees/Designated Employees,ESOP,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,5550.0,0.0008,80550.0,0.012
+FSL,2017-03-02 17:39:00,2017-03-02,2017-02-21,2017-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,20550.0,0.003,5550.0,0.0008
+FSL,2017-03-02 17:39:00,2017-02-28,2017-02-27,2017-02-27,Director,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,447840.0,0.065,397840.0,0.058
+FSL,2017-03-02 17:39:00,2017-03-02,2017-02-21,2017-02-21,Employees/Designated Employees,ESOP,Buy,Equity Shares,18750.0,0.0,0.0,0.0,0.0,1800.0,0.003,20550.0,0.003
+FSL,2017-03-03 16:37:00,2017-03-02,2017-02-09,2017-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,65000.0,0.0,0.0,0.0,0.0,69657.0,0.01,4657.0,0.0
+FSL,2017-03-06 18:42:00,2017-03-06,2017-03-01,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,51000.0,0.0,0.0,0.0,0.0,80550.0,0.012,29550.0,0.0004
+FSL,2017-03-06 18:42:00,2017-03-06,2017-03-02,2017-03-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25625.0,0.0,0.0,0.0,0.0,25625.0,0.003,,0.0
+FSL,2017-03-06 18:42:00,2017-03-06,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,62500.0,0.009,32500.0,0.0047
+FSL,2017-03-07 16:46:00,2017-03-06,2017-03-02,2017-03-02,Director,ESOP,Buy,Equity Shares,125000.0,0.0,0.0,0.0,0.0,162500.0,0.023,287500.0,0.042
+FSL,2017-03-09 15:33:00,2017-03-07,2017-03-07,2017-03-07,Key Managerial Personnel,ESOP,Buy,Equity Shares,750000.0,0.0,0.0,0.0,0.0,,0.0,750000.0,0.11
+FSL,2017-03-09 15:33:00,2017-03-09,2017-02-24,2017-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,37500.0,0.0,0.0,0.0,0.0,67500.0,0.0099,30000.0,0.0044
+FSL,2017-03-09 15:33:00,2017-03-09,2017-01-20,2017-02-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,57500.0,0.0,0.0,0.0,0.0,10000.0,0.001,67500.0,0.0099
+FSL,2017-03-09 15:33:00,2017-03-09,2017-02-28,2017-03-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,112500.0,0.016,72500.0,0.01
+FSL,2017-03-09 15:33:00,2017-03-07,2017-02-22,2017-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,93750.0,0.0,0.0,0.0,0.0,93750.0,0.013,,0.0
+FSL,2017-03-10 17:59:00,2017-03-09,2017-02-21,2017-03-02,Employees/Designated Employees,ESOP,Buy,Equity Shares,72500.0,0.0,0.0,0.0,0.0,485.0,0.0,72985.0,0.01
+FSL,2017-03-14 17:16:00,2017-03-09,2017-02-08,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,113292.0,0.016,63292.0,0.009
+FSL,2017-03-15 17:09:00,2017-03-14,2017-03-14,2017-03-14,Director,Market Sale,Sell,Equity Shares,397840.0,0.0,0.0,0.0,0.0,397840.0,0.058,,0.0
+FSL,2017-03-16 18:31:00,2017-03-15,2017-03-14,2017-03-14,Director,Market Sale,Sell,Equity Shares,125000.0,0.0,0.0,0.0,0.0,287500.0,0.042,162500.0,0.023
+FSL,2017-03-21 17:46:00,2017-03-20,2017-03-20,2017-03-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,47500.0,0.0,0.0,0.0,0.0,7500.0,0.001,55000.0,0.008
+FSL,2017-03-21 17:46:00,2017-03-20,2017-03-20,2017-03-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,62500.0,0.0,0.0,0.0,0.0,,0.0,62500.0,0.009
+FSL,2017-03-21 17:46:00,2017-03-20,2017-03-20,2017-03-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,101550.0,0.0,0.0,0.0,0.0,20550.0,0.003,122100.0,0.018
+FSL,2017-03-22 18:52:00,2017-03-22,2017-03-21,2017-03-21,Key Managerial Personnel,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,150000.0,0.021,125000.0,0.014
+FSL,2017-03-23 17:59:00,2017-03-23,2017-03-23,2017-03-23,Key Managerial Personnel,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,125000.0,0.014,100000.0,0.007
+FSL,2017-03-28 18:27:00,2017-03-28,2017-03-23,2017-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,62500.0,0.0,0.0,0.0,0.0,62500.0,0.009,,0.0
+FSL,2017-03-29 18:11:00,2017-03-29,2017-02-03,2017-02-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,17000.0,0.0,0.0,0.0,0.0,389.0,0.0,17389.0,0.002
+FSL,2017-03-29 18:11:00,2017-03-29,2017-02-10,2017-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,17000.0,0.0,0.0,0.0,0.0,17389.0,0.002,389.0,0.0
+FSL,2017-03-29 18:11:00,2017-03-29,2017-03-13,2017-03-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,26250.0,0.0,0.0,0.0,0.0,389.0,0.0,26639.0,0.003
+FSL,2017-03-29 18:11:00,2017-03-29,2017-03-21,2017-03-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,26250.0,0.0,0.0,0.0,0.0,26639.0,0.003,389.0,0.0
+FSL,2017-03-29 18:11:00,2017-03-29,2017-03-23,2017-03-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,40000.0,0.0,0.0,0.0,0.0,389.0,0.0,40389.0,0.005
+FSL,2017-03-29 18:11:00,2017-03-29,2017-03-29,2017-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,40389.0,0.005,389.0,0.0
+FSL,2017-04-03 17:58:00,2017-03-31,2017-03-24,2017-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,71100.0,0.0104,65100.0,0.01
+FSL,2017-04-03 17:58:00,2017-03-31,2017-03-28,2017-03-31,Employees/Designated Employees,Market Purchase,Sell,Equity Shares,66000.0,0.0,0.0,0.0,0.0,97875.0,0.014,31875.0,0.005
+FSL,2017-04-03 17:58:00,2017-03-31,2017-03-28,2017-03-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,32775.0,0.0,0.0,0.0,0.0,65100.0,0.01,97875.0,0.014
+FSL,2017-04-10 18:14:00,2017-04-06,2017-04-03,2017-04-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,31875.0,0.005,1875.0,0.0003
+FSL,2017-04-10 18:14:00,2017-04-10,2017-04-05,2017-04-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,97985.0,0.0,0.0,0.0,0.0,97985.0,0.014,,0.0
+FSL,2017-04-10 18:14:00,2017-04-06,2017-04-06,2017-04-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,440994.0,0.0,0.0,0.0,0.0,750000.0,0.11,309006.0,0.045
+FSL,2017-04-10 18:26:00,2017-04-10,2017-04-07,2017-04-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,241724.0,0.0,0.0,0.0,0.0,309006.0,0.045,67282.0,0.009
+FSL,2017-04-13 17:32:00,2017-04-13,2017-04-12,2017-04-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,67282.0,0.0,0.0,0.0,0.0,67282.0,0.009,,0.0
+FSL,2017-04-14 18:15:00,2017-04-12,2017-04-12,2017-04-12,Employees/Designated Employees,ESOP,Buy,Equity Shares,39900.0,0.0,0.0,0.0,0.0,1875.0,0.0003,41775.0,0.006
+FSL,2017-04-14 18:15:00,2017-04-13,2017-04-13,2017-04-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,71875.0,0.0,0.0,0.0,0.0,71875.0,0.009,,0.0
+FSL,2017-04-14 18:15:00,2017-04-13,2017-04-13,2017-04-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,71875.0,0.0,0.0,0.0,0.0,,0.0,71875.0,0.009
+FSL,2017-04-14 18:15:00,2017-04-13,2017-04-13,2017-04-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,33750.0,0.0,0.0,0.0,0.0,33750.0,0.002,,0.0
+FSL,2017-04-17 17:27:00,2017-04-17,2017-04-12,2017-04-12,Ex Employee,Market Sale,Sell,Equity Shares,787500.0,0.0,0.0,0.0,0.0,787500.0,0.11,,0.0
+FSL,2017-04-17 17:30:00,2017-04-17,2017-04-12,2017-04-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,41775.0,0.0,0.0,0.0,0.0,41775.0,0.006,,0.0
+FSL,2017-05-12 20:20:00,2017-05-11,2017-05-11,2017-05-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,63292.0,0.0,0.0,0.0,0.0,63292.0,0.009,,0.0
+FSL,2017-05-23 11:45:00,2017-05-22,2017-05-19,2017-05-19,Director,ESOP,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,162500.0,0.023,312500.0,0.045
+FSL,2017-09-18 16:59:00,2017-09-18,2017-09-18,2017-09-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,64250.0,0.0,0.0,0.0,0.0,389.0,0.0,64639.0,0.009
+FSL,2017-09-18 16:59:00,2017-09-18,2017-09-18,2017-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,64000.0,0.0,0.0,0.0,0.0,64639.0,0.009,639.0,0.0
+FSL,2017-09-20 16:33:00,2017-09-19,2017-09-18,2017-09-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,128750.0,0.0,0.0,0.0,0.0,39000.0,0.006,167750.0,0.024
+FSL,2017-09-20 16:33:00,2017-09-20,2017-09-19,2017-09-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,320251.0,0.051,220251.0,0.03
+FSL,2017-09-21 18:17:00,2017-09-21,2017-09-18,2017-09-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,21000.0,0.0,0.0,0.0,0.0,28125.0,0.004,7125.0,0.001
+FSL,2017-09-21 18:17:00,2017-09-21,2017-09-18,2017-09-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,28125.0,0.0,0.0,0.0,0.0,,0.0,28125.0,0.004
+FSL,2017-10-03 17:50:00,2017-09-29,2017-09-29,2017-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,58059.0,0.008,33059.0,0.004
+FSL,2017-10-13 15:39:00,2017-10-12,2017-10-09,2017-10-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40465.0,0.0,0.0,0.0,0.0,40465.0,0.01,,0.0
+FSL,2017-10-18 15:25:00,2017-10-18,2017-10-17,2017-10-17,Director,ESOP,Buy,Equity Shares,60000.0,0.0,0.0,0.0,0.0,,0.0,60000.0,0.01
+FSL,2017-11-15 18:10:00,2017-11-15,2017-11-14,2017-11-14,Key Managerial Personnel,ESOP,Buy,Equity Shares,2750000.0,0.0,0.0,0.0,0.0,2784.0,0.0,2752784.0,0.4
+FSL,2017-12-01 18:09:00,2017-12-01,2017-11-28,2017-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,31250.0,0.0,0.0,0.0,0.0,31250.0,0.01,,0.0
+FSL,2017-12-07 16:31:00,2017-12-07,2017-12-07,2017-12-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,43125.0,0.0,0.0,0.0,0.0,,0.0,43125.0,0.01
+FSL,2017-12-26 17:42:00,2017-12-21,2017-12-20,2017-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,12500.0,0.0,6000.0,0.0
+FSL,2017-12-26 17:42:00,2017-12-21,2017-11-17,2017-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,12500.0,0.0,,0.0
+FSL,2017-12-26 17:42:00,2017-12-21,2017-11-14,2017-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,12500.0,0.0,0.0,0.0,0.0,,0.0,12500.0,0.0
+FSL,2017-12-26 17:42:00,2017-12-21,2017-10-11,2017-10-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,12500.0,0.0,,0.0
+FSL,2017-12-26 17:42:00,2017-12-21,2017-12-07,2017-12-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,12500.0,0.0,0.0,0.0,0.0,,0.0,12500.0,0.0
+FSL,2018-01-02 15:43:00,2018-01-02,2017-12-29,2017-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,43125.0,0.0,0.0,0.0,0.0,43125.0,0.01,,0.0
+FSL,2018-01-03 15:54:00,2018-01-02,2018-01-01,2018-01-01,Director,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,362500.0,0.05,262500.0,0.04
+FSL,2018-01-30 17:22:00,2018-01-30,2018-01-30,2018-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,93750.0,0.0,0.0,0.0,0.0,,0.0,93750.0,0.01
+FSL,2018-01-31 15:42:00,2018-01-30,2018-01-30,2018-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,171875.0,0.0,0.0,0.0,0.0,,0.0,171875.0,0.03
+FSL,2018-02-06 18:59:00,2018-02-05,2018-01-30,2018-01-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,47500.0,0.0,0.0,0.0,0.0,621250.0,0.09,668750.0,0.1
+FSL,2018-02-15 15:51:00,2018-02-13,2018-02-12,2018-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,143750.0,0.02,103750.0,0.01
+FSL,2018-02-19 16:17:00,2018-02-19,2018-02-12,2018-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,71875.0,0.0,0.0,0.0,0.0,171875.0,0.03,100000.0,0.01
+FSL,2018-03-05 17:44:00,2018-03-05,2018-03-05,2018-03-05,Key Managerial Personnel,Market Sale,Sell,Equity Shares,120000.0,0.0,0.0,0.0,0.0,406250.0,0.06,286250.0,0.04
+FSL,2018-03-05 17:44:00,2018-03-05,2018-03-01,2018-03-01,Key Managerial Personnel,ESOP,Buy,Equity Shares,306250.0,0.0,0.0,0.0,0.0,100000.0,0.01,406250.0,0.06
+FSL,2018-03-07 18:31:00,2018-03-06,2018-03-06,2018-03-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,66250.0,0.0,0.0,0.0,0.0,286250.0,0.041,220000.0,0.032
+FSL,2018-04-04 15:50:00,2018-04-03,2018-04-03,2018-04-03,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000000.0,0.0,0.0,0.0,0.0,2752784.0,0.4,1752784.0,0.26
+FSL,2018-04-04 15:50:00,2018-04-04,2018-04-02,2018-04-03,Key Managerial Personnel,Market Sale,Sell,Equity Shares,120000.0,0.0,0.0,0.0,0.0,220000.0,0.03,100000.0,0.01
+FSL,2018-04-13 18:14:00,2018-04-12,2018-04-09,2018-04-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,56250.0,0.0,0.0,0.0,0.0,639.0,0.0,56889.0,0.01
+FSL,2018-04-13 18:14:00,2018-04-12,2018-04-12,2018-04-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,56889.0,0.01,16889.0,0.0
+FSL,2018-04-13 18:14:00,2018-04-12,2018-04-09,2018-04-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,42500.0,0.0,0.0,0.0,0.0,,0.0,42500.0,0.01
+FSL,2018-04-13 18:14:00,2018-04-12,2018-04-11,2018-04-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,42500.0,0.0,0.0,0.0,0.0,42500.0,0.01,,0.0
+FSL,2018-04-16 16:57:00,2018-04-12,2018-04-03,2018-04-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,103750.0,0.0,0.0,0.0,0.0,220251.0,0.03,324001.0,0.05
+FSL,2018-04-20 16:59:00,2018-04-18,2018-04-05,2018-04-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,86250.0,0.0,0.0,0.0,0.0,86250.0,0.01,,0.0
+FSL,2018-04-24 15:34:00,2018-04-23,2018-03-01,2018-03-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,73750.0,0.0,0.0,0.0,0.0,,0.0,73750.0,0.01
+FSL,2018-05-08 15:39:00,2018-05-08,2018-05-07,2018-05-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,96250.0,0.0,0.0,0.0,0.0,83750.0,0.01,180000.0,0.03
+FSL,2018-05-14 16:18:00,2018-05-14,2018-05-10,2018-05-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,53600.0,0.0,0.0,0.0,0.0,180000.0,0.03,126400.0,0.02
+FSL,2018-05-14 16:18:00,2018-05-11,2018-05-10,2018-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,100000.0,0.01,80000.0,0.01
+FSL,2018-05-16 15:55:00,2018-05-14,2018-05-10,2018-05-11,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,100000.0,0.01,,0.0
+FSL,2018-05-17 16:51:00,2018-05-17,2018-05-17,2018-05-17,Key Managerial Personnel,ESOP,Buy,Equity Shares,283750.0,0.0,0.0,0.0,0.0,,0.0,283750.0,0.04
+FSL,2018-05-21 16:04:00,2018-05-18,2018-05-17,2018-05-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,40625.0,0.0,0.0,0.0,0.0,,0.0,40625.0,0.01
+FSL,2018-05-21 16:04:00,2018-05-18,2018-05-18,2018-05-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40625.0,0.0,0.0,0.0,0.0,40625.0,0.01,,0.0
+FSL,2018-05-21 16:04:00,2018-05-18,2018-05-17,2018-05-17,Other,ESOP,Buy,Equity Shares,375500.0,0.0,0.0,0.0,0.0,,0.0,375500.0,0.05
+FSL,2018-05-21 16:04:00,2018-05-21,2018-05-17,2018-05-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,29250.0,0.0,0.0,0.0,0.0,,0.0,29250.0,0.0
+FSL,2018-05-21 16:04:00,2018-05-21,2018-05-17,2018-05-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,29250.0,0.0,14250.0,0.0
+FSL,2018-05-23 15:53:00,2018-05-21,2018-05-18,2018-05-18,Key Managerial Personnel,Market Sale,Sell,Equity Shares,183750.0,0.0,0.0,0.0,0.0,283750.0,0.04,100000.0,0.01
+FSL,2018-05-24 15:37:00,2018-05-22,2018-05-18,2018-05-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,35000.0,0.0,0.0,0.0,0.0,35000.0,0.01,,0.0
+FSL,2018-05-24 15:37:00,2018-05-22,2018-05-17,2018-05-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,35000.0,0.0,0.0,0.0,0.0,,0.0,35000.0,0.01
+FSL,2018-05-28 15:33:00,2018-05-25,2018-05-25,2018-05-25,Key Managerial Personnel,Market Sale,Sell,Equity Shares,80000.0,0.0,0.0,0.0,0.0,100000.0,0.01,20000.0,0.0
+FSL,2018-05-28 15:33:00,2018-05-24,2018-05-17,2018-05-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,42500.0,0.0,0.0,0.0,0.0,16889.0,0.0,59389.0,0.01
+FSL,2018-05-28 15:33:00,2018-05-24,2018-05-17,2018-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,33889.0,0.0,0.0,0.0,0.0,59389.0,0.01,25500.0,0.0
+FSL,2018-05-30 15:46:00,2018-05-30,2018-05-28,2018-05-28,Key Managerial Personnel,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,20000.0,0.0,,0.0
+FSL,2018-05-31 17:44:00,2018-05-30,2018-05-30,2018-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,35000.0,0.0,0.0,0.0,0.0,,0.0,35000.0,0.01
+FSL,2018-05-31 17:44:00,2018-05-30,2018-05-25,2018-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,14350.0,0.0,8350.0,0.0
+FSL,2018-05-31 17:44:00,2018-05-30,2018-05-30,2018-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,46875.0,0.0,0.0,0.0,0.0,8350.0,0.0,55225.0,0.01
+FSL,2018-05-31 17:44:00,2018-05-30,2018-05-30,2018-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,35643.0,0.0,0.0,0.0,0.0,,0.0,35643.0,0.01
+FSL,2018-05-31 17:44:00,2018-05-30,2018-05-30,2018-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,37500.0,0.0,0.0,0.0,0.0,,0.0,37500.0,0.01
+FSL,2018-06-05 15:30:00,2018-06-05,2018-06-01,2018-06-04,Key Managerial Personnel,Market Sale,Sell,Equity Shares,324736.0,0.0,0.0,0.0,0.0,1752784.0,0.26,1428048.0,0.21
+FSL,2018-06-05 15:30:00,2018-06-05,2018-06-01,2018-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,54000.0,0.0,0.0,0.0,0.0,55225.0,0.01,1225.0,0.0
+FSL,2018-06-05 15:30:00,2018-06-05,2018-06-04,2018-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,35000.0,0.0,0.0,0.0,0.0,35000.0,0.01,,0.0
+FSL,2018-06-07 15:24:00,2018-06-07,2018-06-06,2018-06-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,200000.0,0.0,0.0,0.0,0.0,1347987.0,0.2,1147987.0,0.17
+FSL,2018-06-07 15:24:00,2018-06-06,2018-06-05,2018-06-05,Key Managerial Personnel,Market Sale,Sell,Equity Shares,80061.0,0.0,0.0,0.0,0.0,1428048.0,0.21,1347987.0,0.2
+FSL,2018-06-08 16:42:00,2018-06-08,2018-06-07,2018-06-07,Key Managerial Personnel,Market Sale,Sell,Equity Shares,345546.0,0.0,0.0,0.0,0.0,1147987.0,0.17,802441.0,0.12
+FSL,2018-06-11 18:26:00,2018-06-11,2018-06-08,2018-06-08,Key Managerial Personnel,Market Sale,Sell,Equity Shares,99657.0,0.0,0.0,0.0,0.0,802441.0,0.12,702784.0,0.1
+FSL,2018-06-12 16:25:00,2018-06-11,2018-06-07,2018-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,35643.0,0.01,15643.0,0.0
+FSL,2018-06-12 16:25:00,2018-06-11,2018-06-06,2018-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,35000.0,0.0,0.0,0.0,0.0,47500.0,0.01,12500.0,0.0
+FSL,2018-06-12 18:25:00,2018-06-12,2018-06-12,2018-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15643.0,0.0,0.0,0.0,0.0,15643.0,0.0,,0.0
+FSL,2018-06-13 17:27:00,2018-06-13,2018-06-12,2018-06-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,400000.0,0.0,0.0,0.0,0.0,702784.0,0.1,302784.0,0.04
+FSL,2018-06-14 19:09:00,2018-06-14,2018-06-13,2018-06-13,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2784.0,0.0,0.0,0.0,0.0,302784.0,0.04,300000.0,0.04
+FSL,2018-06-15 18:02:00,2018-06-15,2018-06-14,2018-06-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,80000.0,0.0,0.0,0.0,0.0,324001.0,0.05,404001.0,0.06
+FSL,2018-06-15 18:02:00,2018-06-15,2018-06-14,2018-06-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,46200.0,0.0,0.0,0.0,0.0,1225.0,0.0,47425.0,0.01
+FSL,2018-06-18 19:30:00,2018-06-15,2018-06-14,2018-06-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,37500.0,0.0,0.0,0.0,0.0,,0.0,37500.0,0.01
+FSL,2018-06-18 19:30:00,2018-06-15,2018-06-14,2018-06-14,Key Managerial Personnel,ESOP,Buy,Equity Shares,218750.0,0.0,0.0,0.0,0.0,,0.0,218750.0,0.03
+FSL,2018-06-21 19:18:00,2018-06-19,2018-06-15,2018-06-19,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,100000.0,0.01,,0.0
+FSL,2018-06-21 19:18:00,2018-06-19,2018-06-15,2018-06-19,Key Managerial Personnel,Market Sale,Sell,Equity Shares,189776.0,0.0,0.0,0.0,0.0,289776.0,0.03,100000.0,0.01
+FSL,2018-06-21 19:18:00,2018-06-19,2018-06-15,2018-06-19,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10224.0,0.0,0.0,0.0,0.0,300000.0,0.04,289776.0,0.03
+FSL,2018-06-22 23:15:00,2018-06-22,2018-06-21,2018-06-21,Key Managerial Personnel,Market Sale,Sell,Equity Shares,218750.0,0.0,0.0,0.0,0.0,218750.0,0.03,,0.0
+FSL,2018-06-26 18:40:00,2018-06-22,2018-06-15,2018-06-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,80000.0,0.01,70000.0,0.01
+FSL,2018-06-26 18:40:00,2018-06-22,2018-06-15,2018-06-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,70000.0,0.01,20000.0,0.0
+FSL,2018-07-02 15:48:00,2018-06-29,2018-06-29,2018-06-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,33750.0,0.0,0.0,0.0,0.0,668750.0,0.1,702500.0,0.1
+FSL,2018-07-10 15:51:00,2018-07-10,2018-07-10,2018-07-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25500.0,0.0,0.0,0.0,0.0,25500.0,0.0,,0.0
+FSL,2018-07-12 17:47:00,2018-07-12,2018-07-10,2018-07-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,21000.0,0.0,0.0,0.0,0.0,38425.0,0.01,17425.0,0.0
+FSL,2018-07-17 19:05:00,2018-07-17,2018-07-17,2018-07-17,Key Managerial Personnel,ESOP,Buy,Equity Shares,1450000.0,0.0,0.0,0.0,0.0,,0.0,1450000.0,0.2
+FSL,2018-08-27 15:51:00,2018-08-24,2018-08-24,2018-08-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,50000.0,0.0,0.0,0.0,0.0,,0.0,50000.0,0.01
+FSL,2018-09-04 12:46:00,2018-09-03,2018-08-27,2018-08-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,11250.0,0.0,0.0,0.0,0.0,,0.0,11250.0,0.0
+FSL,2018-09-04 12:46:00,2018-09-03,2018-08-29,2018-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11250.0,0.0,0.0,0.0,0.0,11250.0,0.0,,0.0
+FSL,2018-09-11 17:07:00,2018-09-10,2018-09-07,2018-09-07,Key Managerial Personnel,Market Sale,Sell,Equity Shares,200000.0,0.0,0.0,0.0,0.0,1350000.0,0.2,1150000.0,0.17
+FSL,2018-09-11 17:07:00,2018-09-10,2018-09-06,2018-09-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,1450000.0,0.21,1350000.0,0.2
+FSL,2018-09-11 17:07:00,2018-09-10,2018-09-10,2018-09-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,130647.0,0.0,0.0,0.0,0.0,1150000.0,0.17,1019353.0,0.15
+FSL,2018-09-12 15:38:00,2018-09-11,2018-09-11,2018-09-11,ex-employee,ESOP,Buy,Equity Shares,306689.0,0.0,0.0,0.0,0.0,250500.0,0.04,557189.0,0.08
+FSL,2018-09-18 16:09:00,2018-09-17,2018-09-11,2018-09-11,Key Managerial Personnel,Market Sale,Sell,Equity Shares,60000.0,0.0,0.0,0.0,0.0,1019353.0,0.15,959353.0,0.14
+FSL,2018-10-01 19:43:00,2018-10-01,2018-10-01,2018-10-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,95875.0,0.0,0.0,0.0,0.0,,0.0,95875.0,0.01
+FSL,2018-10-01 19:43:00,2018-10-01,2018-10-01,2018-10-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,105000.0,0.0,0.0,0.0,0.0,,0.0,105000.0,0.02
+FSL,2018-10-16 16:33:00,2018-10-13,2018-10-12,2018-10-12,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Sell,Equity Shares,373976673.0,0.0,0.0,0.0,0.0,373976673.0,54.15,,0.0
+FSL,2018-10-16 16:33:00,2018-10-13,2018-10-12,2018-10-12,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,373976673.0,0.0,0.0,0.0,0.0,,0.0,373976673.0,54.15
+FSL,2018-12-06 12:19:00,2018-12-05,2018-12-03,2018-12-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,95875.0,0.0,0.0,0.0,0.0,95875.0,0.01,,0.0
+FSL,2018-12-21 16:18:00,2018-12-20,2018-12-18,2018-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,104001.0,0.0,0.0,0.0,0.0,404001.0,0.06,300000.0,0.04
+FSL,2018-12-21 19:41:00,2018-12-21,2018-12-21,2018-12-21,Employees/Designated Employees,ESOP,Buy,Equity Shares,184500.0,0.0,0.0,0.0,0.0,,0.0,184500.0,0.03
+FSL,2019-01-03 14:00:00,2019-01-02,2018-12-28,2019-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,184500.0,0.0,0.0,0.0,0.0,184500.0,0.03,,0.0
+FSL,2019-01-04 20:52:00,2019-01-04,2019-01-04,2019-01-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,68875.0,0.0,0.0,0.0,0.0,,0.01,68875.0,0.01
+FSL,2019-01-10 19:28:00,2019-01-10,2019-01-10,2019-01-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,68875.0,0.0,0.0,0.0,0.0,68875.0,0.01,,0.0
+FSL,2019-03-15 19:28:00,2019-03-15,2019-03-14,2019-03-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,33059.0,0.0,133059.0,0.02
+FSL,2019-05-20 19:14:00,2019-05-20,2019-05-16,2019-05-17,Key Managerial Personnel,Market Sale,Sell,Equity Shares,78280.0,0.0,0.0,0.0,0.0,953353.0,0.14,875073.0,0.13
+FSL,2019-05-20 19:14:00,2019-05-16,2019-05-16,2019-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,105000.0,0.0,0.0,0.0,0.0,105000.0,0.02,,0.0
+FSL,2019-05-22 20:07:00,2019-05-22,2019-05-20,2019-05-21,Key Managerial Personnel,Market Sale,Sell,Equity Shares,171720.0,0.0,0.0,0.0,0.0,875073.0,0.13,703353.0,0.1
+FSL,2019-05-28 17:53:00,2019-05-27,2019-05-24,2019-05-24,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,703353.0,0.1,603353.0,0.09
+FSL,2019-05-30 18:42:00,2019-05-30,2019-05-28,2019-05-28,Key Managerial Personnel,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,603353.0,0.09,553353.0,0.08
+FSL,2019-06-03 19:13:00,2019-05-30,2019-05-30,2019-05-30,Key Managerial Personnel,ESOP,Buy,Equity Shares,506250.0,0.0,0.0,0.0,0.0,553353.0,0.08,1059603.0,0.15
+FSL,2019-06-03 19:13:00,2019-05-30,2019-05-30,2019-05-30,Key Managerial Personnel,Market Sale,Buy,Equity Shares,83750.0,0.0,0.0,0.0,0.0,,0.0,83750.0,0.01
+FSL,2019-06-05 18:48:00,2019-06-04,2019-06-03,2019-06-04,Key Managerial Personnel,Market Sale,Sell,Equity Shares,203352.0,0.0,0.0,0.0,0.0,1059603.0,0.15,856251.0,0.12
+FSL,2019-06-05 18:48:00,2019-06-03,2019-06-03,2019-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150000.0,0.0,0.0,0.0,0.0,155309.0,0.02,5309.0,0.0
+FSL,2019-06-05 18:48:00,2019-06-05,2019-06-04,2019-06-04,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100080.0,0.0,0.0,0.0,0.0,856251.0,0.12,756171.0,0.1
+FSL,2019-06-10 19:11:00,2019-06-07,2019-06-07,2019-06-07,Key Managerial Personnel,Market Sale,Sell,Equity Shares,159620.0,0.0,0.0,0.0,0.0,665870.0,0.08,506250.0,0.07
+FSL,2019-06-10 19:11:00,2019-06-07,2019-06-06,2019-06-06,Key Managerial Personnel,Market Sale,Sell,Equity Shares,90301.0,0.0,0.0,0.0,0.0,756171.0,0.09,665870.0,0.08
+FSL,2019-06-11 19:11:00,2019-06-10,2019-06-10,2019-06-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,131000.0,0.0,0.0,0.0,0.0,,0.0,131000.0,0.02
+FSL,2019-06-11 19:19:00,2019-06-10,2019-06-10,2019-06-10,Ex-Director,ESOP,Buy,Equity Shares,750000.0,0.0,0.0,0.0,0.0,,0.0,750000.0,0.1
+FSL,2019-06-12 18:31:00,2019-06-12,2019-06-11,2019-06-11,Key Managerial Personnel,Market Sale,Sell,Equity Shares,33750.0,0.0,0.0,0.0,0.0,83750.0,0.01,50000.0,0.01
+FSL,2019-06-14 17:26:00,2019-06-13,2019-06-11,2019-06-13,Key Managerial Personnel,Market Sale,Sell,Equity Shares,104592.0,0.0,0.0,0.0,0.0,506250.0,0.07,401658.0,0.05
+FSL,2019-06-18 16:21:00,2019-06-17,2019-06-14,2019-06-17,Key Managerial Personnel,Market Sale,Sell,Equity Shares,130117.0,0.0,0.0,0.0,0.0,401658.0,0.05,271541.0,0.03
+FSL,2019-06-20 19:29:00,2019-06-19,2019-06-18,2019-06-18,Key Managerial Personnel,Market Sale,Sell,Equity Shares,171541.0,0.0,0.0,0.0,0.0,271541.0,0.03,100000.0,0.01
+FSL,2019-06-21 18:40:00,2019-06-21,2019-06-19,2019-06-19,Key Managerial Personnel,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,50000.0,0.01,25000.0,0.0
+FSL,2019-06-24 17:56:00,2019-06-21,2019-06-21,2019-06-21,Employees/Designated Employees,ESOP,Buy,Equity Shares,280250.0,0.0,0.0,0.0,0.0,5309.0,0.0,285559.0,0.04
+FSL,2019-06-25 18:53:00,2019-06-24,2019-06-21,2019-06-21,Employees/Designated Employees,ESOP,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,300000.0,0.04,400000.0,0.05
+FSL,2019-06-26 17:16:00,2019-06-25,2019-06-24,2019-06-24,Key Managerial Personnel,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,25000.0,0.0,,0.0
+FSL,2019-08-15 11:27:00,2019-08-13,2019-08-08,2019-08-08,Connected Person,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,100000.0,0.01,,0.0
+FSL,2019-08-28 18:48:00,2019-08-26,2019-06-04,2019-08-19,Ex-Employee,Market Sale,Sell,Equity Shares,131000.0,0.0,0.0,0.0,0.0,131000.0,0.0,,0.0
+FSL,2019-09-04 15:55:00,2019-09-04,2019-09-03,2019-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,120000.0,0.0,0.0,0.0,0.0,249676.0,0.04,369676.0,0.05
+FSL,2019-09-09 18:42:00,2019-09-09,2019-09-09,2019-09-09,Ex-Employee,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,280559.0,0.04,255559.0,0.03
+FSL,2019-09-24 18:41:00,2019-09-23,2019-09-23,2019-09-23,Ex-Employee,ESOP,Buy,Equity Shares,56250.0,0.0,0.0,0.0,0.0,,0.0,56250.0,0.01
+FSL,2019-09-27 17:58:00,2019-09-27,2019-09-25,2019-09-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,126400.0,0.02,106400.0,0.02
+FSL,2019-10-03 17:43:00,2019-09-30,2019-09-16,2019-09-20,Ex- Director,Market Sale,Sell,Equity Shares,750000.0,0.0,0.0,0.0,0.0,750000.0,0.1,,0.1
+FSL,2019-10-10 16:21:00,2019-10-09,2019-10-09,2019-10-09,Ex-Employee,ESOP,Buy,Equity Shares,159000.0,0.0,0.0,0.0,0.0,,0.0,159000.0,0.02
+FSL,2019-12-23 12:29:00,2019-12-21,2019-12-20,2019-12-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,400000.0,0.05,600000.0,0.08
+FSL,2020-01-02 18:25:00,2019-12-31,2019-12-13,2019-12-20,-,Market Sale,Sell,Equity Shares,159000.0,0.0,0.0,0.0,0.0,159000.0,0.02,,0.0
+FSL,2020-02-07 18:56:00,2020-02-07,2020-02-07,2020-02-07,-,ESOP,Buy,Equity Shares,225000.0,0.0,0.0,0.0,0.0,,0.0,225000.0,0.03
+FSL,2020-02-15 12:33:00,2020-02-14,2020-02-10,2020-02-10,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,53000.0,0.0,0.0,0.0,0.0,,0.0,53000.0,0.01
+FSL,2020-03-04 16:52:00,2020-03-03,2020-03-02,2020-03-02,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,50000.0,0.0,0.0,0.0,0.0,53000.0,0.01,103000.0,0.01
+FSL,2020-03-17 17:43:00,2020-03-16,2020-03-13,2020-03-13,Other,Market Purchase,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,75000.0,0.01,150000.0,0.02
+FSL,2020-03-17 17:43:00,2020-03-16,2020-03-12,2020-03-12,Other,Market Purchase,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,,0.0,75000.0,0.01
+FSL,2020-03-18 18:32:00,2020-03-17,2020-03-17,2020-03-17,Other,Market Purchase,Buy,Equity Shares,105000.0,0.0,0.0,0.0,0.0,170000.0,0.03,275000.0,0.04
+FSL,2020-03-18 18:32:00,2020-03-17,2020-03-16,2020-03-16,Other,Market Purchase,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,150000.0,0.02,170000.0,0.03
+FSL,2020-03-20 16:27:00,2020-03-19,2020-03-18,2020-03-18,Other,Market Purchase,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,275000.0,0.04,375000.0,0.05
+FSL,2020-03-20 16:27:00,2020-03-19,2020-03-19,2020-03-19,Other,Market Purchase,Buy,Equity Shares,320000.0,0.0,0.0,0.0,0.0,375000.0,0.05,695000.0,0.01
+FSL,2020-03-24 15:12:00,2020-03-23,2020-03-20,2020-03-20,Other,Market Purchase,Buy,Equity Shares,275000.0,0.0,0.0,0.0,0.0,695000.0,0.1,970000.0,0.14
+FSL,2020-03-24 15:12:00,2020-03-23,2020-03-23,2020-03-23,Other,Market Purchase,Buy,Equity Shares,115000.0,0.0,0.0,0.0,0.0,1555000.0,0.22,1670000.0,0.24
+FSL,2020-03-24 15:12:00,2020-03-23,2020-03-20,2020-03-20,Other,Market Purchase,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,970000.0,0.14,1070000.0,0.15
+FSL,2020-03-24 15:12:00,2020-03-23,2020-03-23,2020-03-23,Other,Market Purchase,Buy,Equity Shares,485000.0,0.0,0.0,0.0,0.0,1070000.0,0.15,1555000.0,0.22
+FSL,2020-03-27 21:26:00,2020-03-26,2020-03-24,2020-03-24,Other,Market Purchase,Buy,Equity Shares,170000.0,0.0,0.0,0.0,0.0,1865000.0,0.27,2035000.0,0.29
+FSL,2020-03-27 21:26:00,2020-03-26,2020-03-26,2020-03-26,Other,Market Purchase,Buy,Equity Shares,85000.0,0.0,0.0,0.0,0.0,2270000.0,0.33,2355000.0,0.34
+FSL,2020-03-27 21:26:00,2020-03-26,2020-03-26,2020-03-26,Other,Market Purchase,Buy,Equity Shares,145000.0,0.0,0.0,0.0,0.0,2355000.0,0.34,2500000.0,0.36
+FSL,2020-03-27 21:26:00,2020-03-26,2020-03-25,2020-03-25,Other,Market Purchase,Buy,Equity Shares,90000.0,0.0,0.0,0.0,0.0,2035000.0,0.29,2125000.0,0.31
+FSL,2020-03-27 21:26:00,2020-03-26,2020-03-25,2020-03-25,Other,Market Purchase,Buy,Equity Shares,145000.0,0.0,0.0,0.0,0.0,2125000.0,0.31,2270000.0,0.33
+FSL,2020-03-27 21:26:00,2020-03-26,2020-03-24,2020-03-24,Other,Market Purchase,Buy,Equity Shares,195000.0,0.0,0.0,0.0,0.0,1670000.0,0.24,1865000.0,0.27
+FSL,2020-04-01 19:20:00,2020-03-31,2020-03-30,2020-03-30,Other,Market Purchase,Buy,Equity Shares,131000.0,0.0,0.0,0.0,0.0,2845500.0,0.41,2976500.0,0.43
+FSL,2020-04-01 19:20:00,2020-03-31,2020-03-27,2020-03-27,Other,Market Purchase,Buy,Equity Shares,130000.0,0.0,0.0,0.0,0.0,2615000.0,0.38,2745000.0,0.4
+FSL,2020-04-01 19:20:00,2020-03-31,2020-03-30,2020-03-30,Other,Market Purchase,Buy,Equity Shares,100500.0,0.0,0.0,0.0,0.0,2745000.0,0.4,2845500.0,0.41
+FSL,2020-04-01 19:20:00,2020-03-31,2020-03-27,2020-03-27,Other,Market Purchase,Buy,Equity Shares,115000.0,0.0,0.0,0.0,0.0,2500000.0,0.36,2615000.0,0.38
+FSL,2020-04-02 19:35:00,2020-04-01,2020-03-31,2020-03-31,Other,Market Purchase,Buy,Equity Shares,122000.0,0.0,0.0,0.0,0.0,2976500.0,0.43,3098500.0,0.45
+FSL,2020-04-02 19:35:00,2020-04-01,2020-03-31,2020-03-31,Other,Market Purchase,Buy,Equity Shares,57500.0,0.0,0.0,0.0,0.0,3098500.0,0.45,3156000.0,0.45
+FSL,2020-06-04 22:03:00,2020-06-03,2020-06-02,2020-06-02,Other,Market Purchase,Buy,Equity Shares,900000.0,0.0,0.0,0.0,0.0,3775100.0,0.54,4675100.0,0.67
+FSL,2020-06-04 22:03:00,2020-06-03,2020-06-01,2020-06-01,Other,Market Purchase,Buy,Equity Shares,25000.0,0.0,0.0,0.0,0.0,3155100.0,0.45,3180100.0,0.46
+FSL,2020-06-04 22:03:00,2020-06-03,2020-06-01,2020-06-01,Other,Market Purchase,Buy,Equity Shares,595000.0,0.0,0.0,0.0,0.0,3180100.0,0.46,3775100.0,0.54
+FSL,2020-06-06 21:07:00,2020-06-05,2020-06-05,2020-06-05,Other,Market Purchase,Buy,Equity Shares,900000.0,0.0,0.0,0.0,0.0,5765100.0,0.83,6665100.0,0.96
+FSL,2020-06-06 21:07:00,2020-06-05,2020-06-03,2020-06-03,Other,Market Purchase,Buy,Equity Shares,1090000.0,0.0,0.0,0.0,0.0,4675100.0,0.67,5765100.0,0.83
+FSL,2020-06-10 19:20:00,2020-06-09,2020-06-08,2020-06-08,Other,Market Purchase,Buy,Equity Shares,850000.0,0.0,0.0,0.0,0.0,6665100.0,0.96,7515100.0,1.08
+FSL,2020-06-17 00:07:00,2020-06-15,2020-06-12,2020-06-12,Other,Market Purchase,Buy,Equity Shares,490000.0,0.0,0.0,0.0,0.0,9342569.0,1.35,9832569.0,1.42
+FSL,2020-06-17 00:07:00,2020-06-15,2020-06-12,2020-06-12,Other,Market Purchase,Buy,Equity Shares,225000.0,0.0,0.0,0.0,0.0,9117569.0,1.31,9342569.0,1.35
+FSL,2020-06-17 00:07:00,2020-06-12,2020-06-11,2020-06-11,Other,Market Purchase,Buy,Equity Shares,1601569.0,0.0,0.0,0.0,0.0,7516000.0,1.08,9117569.0,1.31
+FSL,2020-06-17 13:06:00,2020-06-12,2020-06-11,2020-06-11,Other,Market Purchase,Buy,Equity Shares,1601569.0,0.0,0.0,0.0,0.0,7515100.0,1.08,9116669.0,1.31
+FSL,2020-06-17 13:06:00,2020-06-15,2020-06-12,2020-06-12,Other,Market Purchase,Buy,Equity Shares,225000.0,0.0,0.0,0.0,0.0,9116669.0,1.31,9341669.0,1.35
+FSL,2020-06-17 13:06:00,2020-06-15,2020-06-12,2020-06-12,Other,Market Purchase,Buy,Equity Shares,490000.0,0.0,0.0,0.0,0.0,9341669.0,1.35,9831669.0,1.42
+FSL,2020-06-18 19:51:00,2020-06-17,2020-06-16,2020-06-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,175000.0,0.0,0.0,0.0,0.0,600000.0,0.09,775000.0,0.11
+FSL,2020-06-19 13:16:00,2020-06-18,2020-06-16,2020-06-16,Other,Market Purchase,Buy,Equity Shares,610000.0,0.0,0.0,0.0,0.0,10664100.0,1.54,11274100.0,1.62
+FSL,2020-06-19 13:16:00,2020-06-17,2020-06-15,2020-06-15,Other,Market Purchase,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,10589100.0,1.53,10664100.0,1.54
+FSL,2020-06-19 13:16:00,2020-06-17,2020-06-15,2020-06-15,Other,Market Purchase,Buy,Equity Shares,757431.0,0.0,0.0,0.0,0.0,9831669.0,1.42,10589100.0,1.53
+FSL,2020-06-22 16:08:00,2020-06-19,2020-06-17,2020-06-17,Other,Market Purchase,Buy,Equity Shares,690000.0,0.0,0.0,0.0,0.0,11274100.0,1.62,11964100.0,1.72
+FSL,2020-06-22 16:08:00,2020-06-19,2020-06-18,2020-06-18,Other,Market Purchase,Buy,Equity Shares,195000.0,0.0,0.0,0.0,0.0,11964100.0,1.72,12159100.0,1.75
+FSL,2020-06-22 16:08:00,2020-06-19,2020-06-18,2020-06-18,Other,Market Purchase,Buy,Equity Shares,27837.0,0.0,0.0,0.0,0.0,12159100.0,1.75,12186937.0,1.76
+FSL,2020-06-24 15:56:00,2020-06-23,2020-06-22,2020-06-22,Other,Market Purchase,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,12431937.0,1.79,12506937.0,1.8
+FSL,2020-06-24 15:56:00,2020-06-23,2020-06-22,2020-06-22,Other,Market Purchase,Buy,Equity Shares,800000.0,0.0,0.0,0.0,0.0,12506937.0,1.8,13306937.0,1.92
+FSL,2020-06-24 15:56:00,2020-06-22,2020-06-19,2020-06-19,Other,Market Purchase,Buy,Equity Shares,145000.0,0.0,0.0,0.0,0.0,12286937.0,1.77,12431937.0,1.79
+FSL,2020-06-24 15:56:00,2020-06-22,2020-06-19,2020-06-19,Other,Market Purchase,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,12186937.0,1.76,12286937.0,1.77
+FSL,2020-06-26 12:21:00,2020-06-25,2020-06-24,2020-06-24,Other,Market Purchase,Buy,Equity Shares,1063.0,0.0,0.0,0.0,0.0,13871937.0,2.0,13873000.0,2.0
+FSL,2020-06-26 12:21:00,2020-06-24,2020-06-23,2020-06-23,Other,Market Purchase,Buy,Equity Shares,445000.0,0.0,0.0,0.0,0.0,13426937.0,1.93,13871937.0,2.0
+FSL,2020-06-26 12:21:00,2020-06-24,2020-06-23,2020-06-23,Other,Market Purchase,Buy,Equity Shares,120000.0,0.0,0.0,0.0,0.0,13306937.0,1.92,13426937.0,1.93
+FSL,2020-07-09 20:15:00,2020-07-08,2020-07-07,2020-07-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,115000.0,0.0,0.0,0.0,0.0,369676.0,0.05,484676.0,0.07
+FSL,2020-08-07 18:02:00,2020-08-07,2020-08-07,2020-08-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,83750.0,0.0,0.0,0.0,0.0,,0.0,83750.0,0.01
+FSL,2020-08-27 17:06:00,2020-08-26,2020-08-21,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,775000.0,0.11,675000.0,0.09
+FSL,2020-08-31 20:00:00,2020-08-28,2020-08-28,2020-08-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,25000.0,0.0,0.0,0.0,0.0,,0.0,25000.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-08-04,2020-08-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2125.0,0.0,0.0,0.0,0.0,3125.0,0.0,1000.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-08-07,2020-08-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1000.0,0.0,11000.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,11000.0,0.0,10000.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-08-18,2020-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,10000.0,0.0,6000.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-08-21,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,6000.0,0.0,2500.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-08-25,2020-08-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0,1500.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-08-28,2020-08-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,35125.0,0.0,0.0,0.0,0.0,1500.0,0.0,36625.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-07-07,2020-07-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,6125.0,0.0,0.0,0.0,0.0,9000.0,0.0,15125.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-07-10,2020-07-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,15125.0,0.0,13125.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-07-16,2020-07-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,13125.0,0.0,11125.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-07-24,2020-07-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,11125.0,0.0,10125.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-07-29,2020-07-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,10125.0,0.0,6125.0,0.0
+FSL,2020-08-31 20:27:00,2020-08-31,2020-07-30,2020-07-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6125.0,0.0,3125.0,0.0
+FSL,2020-09-16 18:36:00,2020-09-16,2020-09-15,2020-09-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,250000.0,0.0,0.0,0.0,0.0,675000.0,0.1,925000.0,0.13
+FSL,2020-09-22 19:53:00,2020-09-22,2020-09-22,2020-09-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,81251.0,0.0,0.0,0.0,0.0,83750.0,0.01,165001.0,0.02
+FSL,2020-09-22 20:17:00,2020-09-22,2020-09-21,2020-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,24676.0,0.0,0.0,0.0,0.0,484676.0,0.07,460000.0,0.07
+FSL,2020-09-23 21:26:00,2020-09-23,2020-09-21,2020-09-21,Other,Market Purchase,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,13873000.0,2.0,14073000.0,2.03
+FSL,2020-09-23 21:26:00,2020-09-23,2020-09-22,2020-09-22,Other,Market Purchase,Buy,Equity Shares,600000.0,0.0,0.0,0.0,0.0,14073000.0,2.03,14673000.0,2.11
+FSL,2020-09-24 20:52:00,2020-09-24,2020-09-23,2020-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,165001.0,0.02,140001.0,0.02
+FSL,2020-09-25 18:53:00,2020-09-25,2020-09-25,2020-09-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,125000.0,0.0,0.0,0.0,0.0,925000.0,0.13,1050000.0,0.15
+FSL,2020-09-28 15:59:00,2020-09-28,2020-09-24,2020-09-24,Other,Market Purchase,Buy,Equity Shares,560000.0,0.0,0.0,0.0,0.0,14673000.0,2.11,15233000.0,2.19
+FSL,2020-10-21 19:06:00,2020-10-21,2020-10-21,2020-10-21,-,ESOP,Buy,Equity Shares,86625.0,0.0,0.0,0.0,0.0,10000.0,0.01,96625.0,0.01
+FSL,2020-10-21 19:06:00,2020-10-21,2020-10-21,2020-10-21,Employees/Designated Employees,ESOP,Buy,Equity Shares,156250.0,0.0,0.0,0.0,0.0,1050000.0,0.15,1206250.0,0.17
+FSL,2020-10-29 13:10:00,2020-10-29,2020-10-21,2020-10-21,Employees/Designated Employees,ESOP,Buy,Equity Shares,80000.0,0.0,0.0,0.0,0.0,460000.0,0.07,540000.0,0.07
+FSL,2020-11-09 16:28:00,2020-11-06,2020-11-04,2020-11-04,Other,Market Purchase,Buy,Equity Shares,425000.0,0.0,0.0,0.0,0.0,15233000.0,2.19,15658000.0,2.25
+FSL,2020-11-10 19:12:00,2020-11-09,2020-11-02,2020-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,18750.0,0.0,10750.0,0.0
+FSL,2020-11-10 19:12:00,2020-11-09,2020-11-03,2020-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10750.0,0.0,5750.0,0.0
+FSL,2020-11-10 19:12:00,2020-11-09,2020-11-09,2020-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,,0.0
+FSL,2020-11-10 19:12:00,2020-11-09,2020-11-06,2020-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2750.0,0.0,0.0,0.0,0.0,5750.0,0.0,3000.0,0.0
+FSL,2020-11-11 19:57:00,2020-11-11,2020-11-11,2020-11-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,90000.0,0.0,0.0,0.0,0.0,,0.0,90000.0,0.01
+FSL,2020-11-12 16:58:00,2020-11-12,2020-11-10,2020-11-10,Other,Market Purchase,Buy,Equity Shares,325000.0,0.0,0.0,0.0,0.0,15658000.0,2.25,15983000.0,2.3
+FSL,2020-11-12 16:58:00,2020-11-12,2020-11-11,2020-11-11,Other,Market Purchase,Buy,Equity Shares,282000.0,0.0,0.0,0.0,0.0,15983000.0,2.3,16265000.0,2.34
+FSL,2020-11-12 17:01:00,2020-11-11,2020-11-11,2020-11-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,29000.0,0.0,0.0,0.0,0.0,2000.0,0.0,31000.0,0.0
+FSL,2020-11-25 17:53:00,2020-11-24,2020-11-20,2020-11-20,Other,Market Purchase,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,16265000.0,2.34,16415000.0,2.36
+FSL,2020-11-30 18:47:00,2020-11-30,2020-11-27,2020-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15001.0,0.0,0.0,0.0,0.0,153751.0,0.02,138750.0,0.01
+FSL,2020-12-07 19:12:00,2020-12-03,2020-12-02,2020-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,100000.0,0.01,90000.0,0.01
+FSL,2020-12-07 19:12:00,2020-12-03,2020-11-25,2020-11-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,90000.0,0.01,100000.0,0.01
+FSL,2020-12-10 18:59:00,2020-12-10,2020-12-09,2020-12-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,24375.0,0.0,0.0,0.0,0.0,,0.0,24375.0,0.0
+FSL,2020-12-11 17:50:00,2020-12-10,2020-12-09,2020-12-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,65625.0,0.0,0.0,0.0,0.0,,0.0,65625.0,0.0
+FSL,2020-12-15 13:10:00,2020-12-13,2020-12-04,2020-12-04,Other,Market Purchase,Buy,Equity Shares,60000.0,0.0,0.0,0.0,0.0,16415000.0,2.36,16475000.0,2.37
+FSL,2020-12-15 18:34:00,2020-12-15,2020-12-15,2020-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,65625.0,0.0,0.0,0.0,0.0,65625.0,0.0,,0.0
+FSL,2020-12-16 19:05:00,2020-12-16,2020-12-14,2020-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,24375.0,0.0,0.0,0.0,0.0,24375.0,0.0,,0.0
+FSL,2020-12-29 18:29:00,2020-12-28,2020-12-28,2020-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,55150.0,0.0,0.0,0.0,0.0,120150.0,0.02,65000.0,0.01
+FSL,2020-12-30 18:51:00,2020-12-29,2020-12-28,2020-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,138750.0,0.0,0.0,0.0,0.0,138750.0,0.02,,0.0
+FSL,2021-01-06 20:23:00,2021-01-06,2021-01-06,2021-01-06,Employees/Designated Employees,ESOP,Buy,Equity Shares,43750.0,0.0,0.0,0.0,0.0,45750.0,0.01,89500.0,0.01
+FSL,2021-02-09 19:07:00,2021-02-08,2021-02-08,2021-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,20313.0,0.0,0.0,0.0,0.0,,0.0,20313.0,0.0
+FSL,2021-02-23 13:27:00,2021-02-23,2021-02-22,2021-02-22,Other,Market Purchase,Buy,Equity Shares,391000.0,0.0,0.0,0.0,0.0,16619000.0,2.39,17010000.0,2.44
+FSL,2021-02-23 13:27:00,2021-02-23,2021-02-19,2021-02-19,Other,Market Purchase,Buy,Equity Shares,144000.0,0.0,0.0,0.0,0.0,16475000.0,2.37,16619000.0,2.39
+FSL,2021-02-26 22:55:00,2021-02-24,2021-02-18,2021-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,20000.0,0.0,15000.0,0.0
+FSL,2021-02-26 22:55:00,2021-02-24,2021-02-23,2021-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,15000.0,0.0,5000.0,0.0
+FSL,2021-02-26 23:01:00,2021-02-24,2021-02-24,2021-02-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,50000.0,0.0,0.0,0.0,0.0,105500.0,0.02,155500.0,0.02
+FSL,2021-02-26 23:01:00,2021-02-24,2021-01-20,2021-01-20,Employees/Designated Employees,ESOP,Buy,Equity Shares,16000.0,0.0,0.0,0.0,0.0,89500.0,0.01,105500.0,0.02
+FSL,2021-03-07 21:02:00,2021-03-05,2021-03-03,2021-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,12000.0,0.0,,0.0
+FSL,2021-03-10 17:48:00,2021-03-10,2021-03-10,2021-03-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,5000.0,0.0,35000.0,0.01
+FSL,2021-03-13 14:20:00,2021-03-11,2021-03-10,2021-03-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,155500.0,0.02,305500.0,0.04
+FSL,2021-03-25 18:04:00,2021-03-24,2021-03-24,2021-03-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,305500.0,0.04,380500.0,0.05
+FSL,2021-03-31 16:46:00,2021-03-30,2021-03-30,2021-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,30000.0,0.0,20000.0,0.0
+FSL,2021-04-07 18:27:00,2021-04-06,2021-03-31,2021-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11500.0,0.0,0.0,0.0,0.0,11500.0,0.0,,0.0
+FSL,2021-05-26 18:09:00,2021-05-25,2021-05-25,2021-05-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,56250.0,0.0,0.0,0.0,0.0,,0.0,56250.0,0.01
+FSL,2021-05-26 20:22:00,2021-05-26,2021-05-26,2021-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,20000.0,0.0,10000.0,0.0
+FSL,2021-05-31 16:36:00,2021-05-27,2021-05-27,2021-05-27,Employees/Designated Employees,ESOP,Buy,Equity Shares,38875.0,0.0,0.0,0.0,0.0,380500.0,0.05,419375.0,0.06
+FSL,2021-06-04 17:18:00,2021-06-03,2021-06-02,2021-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,8000.0,0.0,,0.0
+FSL,2021-06-04 17:31:00,2021-06-02,2021-06-02,2021-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,65000.0,0.01,50000.0,0.01
+FSL,2021-06-08 20:39:00,2021-06-08,2021-06-07,2021-06-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,50000.0,0.01,35000.0,0.01
+FSL,2021-06-11 20:57:00,2021-06-10,2021-06-09,2021-06-09,Other,Off Market,Sell,Equity Shares,409500.0,0.0,0.0,0.0,0.0,17010000.0,2.44,16600500.0,2.38
+FSL,2021-06-11 20:57:00,2021-06-10,2021-06-09,2021-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,35000.0,0.01,25000.0,0.01
+FSL,2021-06-11 20:57:00,2021-06-11,2021-06-09,2021-06-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,37500.0,0.0,0.0,0.0,0.0,,0.0,37500.0,0.01
+FSL,2021-06-11 20:57:00,2021-06-10,2021-06-09,2021-06-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,41250.0,0.0,0.0,0.0,0.0,,0.0,41250.0,0.01
+FSL,2021-06-12 15:43:00,2021-06-10,2021-06-09,2021-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20313.0,0.0,0.0,0.0,0.0,20313.0,0.0,,0.0
+FSL,2021-06-14 17:02:00,2021-06-10,2021-06-09,2021-06-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,274250.0,0.0,0.0,0.0,0.0,,0.0,274250.0,0.04
+FSL,2021-06-14 20:32:00,2021-06-10,2021-06-09,2021-06-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,274250.0,0.0,0.0,0.0,0.0,,0.0,274250.0,0.04
+FSL,2021-06-21 19:16:00,2021-06-19,2021-06-18,2021-06-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,41250.0,0.0,0.0,0.0,0.0,41250.0,0.06,,0.0
+FSL,2021-06-24 20:09:00,2021-06-23,2021-06-23,2021-06-23,Other,Off Market,Sell,Equity Shares,212000.0,0.0,0.0,0.0,0.0,16600500.0,2.38,16388500.0,2.35
+FSL,2021-06-28 19:29:00,2021-06-28,2021-06-25,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,36250.0,0.0,0.0,0.0,0.0,56250.0,0.01,20000.0,0.0
+FSL,2021-06-28 19:29:00,2021-06-28,2021-06-24,2021-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,24250.0,0.0,0.0,0.0,0.0,274250.0,0.04,250000.0,0.04
+FSL,2021-06-29 22:07:00,2021-06-29,2021-06-26,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50500.0,0.0,0.0,0.0,0.0,50500.0,0.01,,0.0
+FSL,2021-06-29 22:07:00,2021-06-29,2021-06-29,2021-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,30000.0,0.0,22500.0,0.0
+FSL,2021-06-30 23:07:00,2021-06-29,2021-06-28,2021-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,250000.0,0.03,150000.0,0.02
+FSL,2021-06-30 23:07:00,2021-06-30,2021-06-29,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,19000.0,0.0,0.0,0.0,0.0,20000.0,0.0,1000.0,0.0
+FSL,2021-07-01 21:58:00,2021-06-29,2021-06-29,2021-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,25000.0,0.0,17500.0,0.0
+FSL,2021-07-08 20:44:00,2021-07-08,2021-07-07,2021-07-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,,0.0,20000.0,0.0
+FSL,2021-07-08 20:44:00,2021-07-08,2021-07-07,2021-07-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,10000.0,0.0,110000.0,0.01
+FSL,2021-07-08 20:44:00,2021-07-07,2021-07-07,2021-07-07,Other,Off Market,Sell,Equity Shares,181500.0,0.0,0.0,0.0,0.0,16388500.0,2.35,16207000.0,2.32
+FSL,2021-08-06 19:33:00,2021-08-04,2021-08-03,2021-08-03,Other,Market Purchase,Buy,Equity Shares,300000.0,0.0,0.0,0.0,0.0,16207000.0,2.33,16507000.0,2.37
+FSL,2021-08-06 19:33:00,2021-08-05,2021-08-04,2021-08-04,Other,Market Purchase,Buy,Equity Shares,390000.0,0.0,0.0,0.0,0.0,16507000.0,2.37,16897000.0,2.43
+FSL,2021-08-06 19:44:00,2021-08-05,2021-08-04,2021-08-04,Other,Off Market,Sell,Equity Shares,102000.0,0.0,0.0,0.0,0.0,16897000.0,2.43,16795000.0,2.41
+FSL,2021-08-09 20:24:00,2021-08-09,2021-08-06,2021-08-06,Other,Market Purchase,Buy,Equity Shares,112000.0,0.0,0.0,0.0,0.0,16985000.0,2.44,17097000.0,2.45
+FSL,2021-08-09 20:24:00,2021-08-06,2021-08-05,2021-08-05,Other,Market Purchase,Buy,Equity Shares,190000.0,0.0,0.0,0.0,0.0,16795000.0,2.41,16985000.0,2.44
+FSL,2021-08-10 20:57:00,2021-08-10,2021-08-09,2021-08-09,Other,Market Purchase,Buy,Equity Shares,155000.0,0.0,0.0,0.0,0.0,17097000.0,2.45,17252000.0,2.48
+FSL,2021-08-13 18:15:00,2021-08-11,2021-08-11,2021-08-11,-,ESOP,Buy,Equity Shares,50000.0,0.0,0.0,0.0,0.0,522500.0,0.07,572500.0,0.08
+FSL,2021-08-17 19:24:00,2021-08-16,2021-08-12,2021-08-12,Other,Market Purchase,Buy,Equity Shares,215333.0,0.0,0.0,0.0,0.0,17252000.0,2.48,17467333.0,2.51
+FSL,2021-08-17 19:24:00,2021-08-13,2021-08-11,2021-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,20313.0,0.0,0.0,0.0,0.0,150000.0,0.02,170313.0,0.02
+FSL,2021-08-17 19:24:00,2021-08-16,2021-08-13,2021-08-13,Other,Market Purchase,Buy,Equity Shares,34667.0,0.0,0.0,0.0,0.0,17467333.0,2.51,17502000.0,2.51
+FSL,2021-08-19 17:08:00,2021-08-18,2021-08-17,2021-08-17,Other,Market Purchase,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,17502000.0,2.51,17702000.0,2.54
+FSL,2021-08-20 19:51:00,2021-08-18,2021-08-18,2021-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,108000.0,0.02,100000.0,0.01
+FSL,2021-08-30 16:59:00,2021-08-26,2021-08-25,2021-08-25,Other,Off Market,Sell,Equity Shares,236500.0,0.0,0.0,0.0,0.0,17702000.0,2.54,17465500.0,2.51
+FSL,2021-09-03 19:36:00,2021-09-03,2021-09-02,2021-09-02,Employees/Designated Employees,ESOP,Buy,Equity Shares,126250.0,0.0,0.0,0.0,0.0,540000.0,0.08,666250.0,0.1
+FSL,2021-09-03 19:36:00,2021-09-03,2021-09-02,2021-09-02,Other,Off Market,Sell,Equity Shares,183250.0,0.0,0.0,0.0,0.0,17465500.0,2.51,17282250.0,2.48
+FSL,2021-09-07 20:11:00,2021-09-07,2021-09-07,2021-09-07,Other,ESOP,Buy,Equity Shares,108752.0,0.0,0.0,0.0,0.0,,0.0,108752.0,0.02
+FSL,2021-09-08 18:09:00,2021-09-08,2021-09-07,2021-09-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,6000.0,0.0,81000.0,0.0
+FSL,2021-09-13 18:27:00,2021-09-08,2021-09-07,2021-09-07,Other,Off Market,Sell,Equity Shares,52625.0,0.0,0.0,0.0,0.0,17282250.0,2.48,17229625.0,2.48
+FSL,2021-09-15 20:20:00,2021-09-13,2021-09-13,2021-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,35000.0,0.0,0.0,0.0,0.0,100000.0,0.01,65000.0,0.01
+FSL,2021-09-20 16:23:00,2021-09-18,2021-09-17,2021-09-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15938.0,0.0,0.0,0.0,0.0,185938.0,0.03,170000.0,0.02
+FSL,2021-09-24 18:44:00,2021-09-24,2021-09-22,2021-09-22,Employees/Designated Employees,Off Market,Sell,Equity Shares,13375.0,0.0,0.0,0.0,0.0,17229625.0,2.48,17216250.0,2.48
+FSL,2021-09-27 18:58:00,2021-09-24,2021-09-24,2021-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,17252.0,0.0,0.0,0.0,0.0,,0.0,17252.0,0.0
+FSL,2021-09-27 18:58:00,2021-09-24,2021-09-24,2021-09-24,Other,Off Market,Sell,Equity Shares,45814.0,0.0,0.0,0.0,0.0,17216250.0,2.48,17170436.0,2.46
+FSL,2021-09-28 19:23:00,2021-09-28,2021-09-28,2021-09-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,45000.0,0.0,0.0,0.0,0.0,65000.0,0.01,110000.0,0.02
+FSL,2021-09-29 18:03:00,2021-09-28,2021-09-28,2021-09-28,Employees/Designated Employees,Off Market,Sell,Equity Shares,45000.0,0.0,0.0,0.0,0.0,17170436.0,2.46,17125436.0,2.46
+FSL,2021-09-30 19:05:00,2021-09-30,2021-09-30,2021-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13500.0,0.0,0.0,0.0,0.0,33500.0,0.0,20000.0,0.0
+FSL,2021-10-08 17:00:00,2021-10-08,2021-10-06,2021-10-06,Employees/Designated Employees,Off Market,Sell,Equity Shares,628755.0,0.0,0.0,0.0,0.0,17125436.0,2.46,16496681.0,2.37
+FSL,2021-10-08 19:36:00,2021-10-07,2021-10-06,2021-10-06,Employees/Designated Employees,ESOP,Buy,Equity Shares,600405.0,0.0,0.0,0.0,0.0,103000.0,0.01,703405.0,0.1
+FSL,2021-11-18 16:12:00,2021-11-17,2021-11-16,2021-11-16,Other,Off Market,Sell,Equity Shares,246275.0,0.0,0.0,0.0,0.0,16485206.0,2.37,16238931.0,2.33
+FSL,2021-12-03 19:59:00,2021-12-02,2021-12-01,2021-12-01,Other,Off Market,Sell,Equity Shares,124765.0,0.0,0.0,0.0,0.0,16238931.0,2.33,16114166.0,2.31
+FSL,2021-12-03 19:59:00,2021-12-03,2021-12-01,2021-12-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,54375.0,0.0,0.0,0.0,0.0,17500.0,0.0,71875.0,0.01
+FSL,2021-12-07 17:11:00,2021-12-06,2021-12-03,2021-12-03,Other,Market Purchase,Buy,Equity Shares,330000.0,0.0,0.0,0.0,0.0,16114166.0,2.31,16444166.0,2.36
+FSL,2021-12-15 17:38:00,2021-12-13,2021-12-09,2021-12-09,-,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,122500.0,0.02,107500.0,0.02
+FSL,2021-12-20 22:40:00,2021-12-16,2021-12-15,2021-12-15,Other,Off Market,Sell,Equity Shares,118438.0,0.0,0.0,0.0,0.0,16444166.0,2.36,16325728.0,2.34
+FSL,2022-01-07 20:05:00,2022-01-07,2022-01-06,2022-01-06,Other,Off Market,Sell,Equity Shares,122440.0,0.0,0.0,0.0,0.0,16325728.0,2.34,16203288.0,2.32
+FSL,2022-01-07 20:29:00,2022-01-07,2022-01-06,2022-01-06,-,ESOP,Buy,Equity Shares,65627.0,0.0,0.0,0.0,0.0,107500.0,0.02,173127.0,0.02
+FSL,2022-01-20 18:27:00,2022-01-20,2022-01-19,2022-01-19,Other,Off Market,Sell,Equity Shares,164813.0,0.0,0.0,0.0,0.0,16203288.0,2.32,16038475.0,2.3
+FSL,2022-01-25 20:32:00,2022-01-21,2022-01-19,2022-01-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,131250.0,0.0,0.0,0.0,0.0,,0.0,131250.0,0.02
+FSL,2022-02-11 18:02:00,2022-02-11,2022-02-10,2022-02-10,Other,Off Market,Sell,Equity Shares,220437.0,0.0,0.0,0.0,0.0,16027349.0,2.3,15806912.0,2.27
+FSL,2022-02-11 18:02:00,2022-02-10,2022-02-09,2022-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,19755.0,0.0,0.0,0.0,0.0,20000.0,0.03,245.0,0.0
+FSL,2022-02-14 20:05:00,2022-02-11,2022-02-10,2022-02-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,141437.0,0.0,0.0,0.0,0.0,,0.0,141437.0,0.02
+FSL,2022-02-14 20:05:00,2022-02-14,2022-02-11,2022-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,51437.0,0.0,0.0,0.0,0.0,141437.0,0.02,90000.0,0.01
+FSL,2022-02-15 18:33:00,2022-02-11,2022-02-10,2022-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,185625.0,0.02,160625.0,0.02
+FSL,2022-02-15 18:33:00,2022-02-14,2022-02-11,2022-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,17502.0,0.0,0.0,0.0,0.0,117502.0,0.02,100000.0,0.01
+FSL,2022-02-17 19:15:00,2022-02-17,2022-02-15,2022-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,90000.0,0.01,50000.0,0.01
+FSL,2022-02-21 17:36:00,2022-02-18,2022-02-18,2022-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,50000.0,0.01,30000.0,0.0
+FSL,2022-03-01 18:03:00,2022-03-01,2022-02-28,2022-02-28,Other,Off Market,Sell,Equity Shares,94126.0,0.0,0.0,0.0,0.0,15806912.0,2.27,15712786.0,2.25
+FSL,2022-03-02 18:12:00,2022-03-01,2022-02-28,2022-02-28,Other,Market Purchase,Buy,Equity Shares,400000.0,0.0,0.0,0.0,0.0,15712786.0,2.25,16112786.0,2.31
+FSL,2022-03-07 17:23:00,2022-03-04,2022-03-03,2022-03-03,Other,Market Purchase,Buy,Equity Shares,390000.0,0.0,0.0,0.0,0.0,16112786.0,2.31,16502786.0,2.37
+FSL,2022-03-14 19:17:00,2022-03-10,2022-03-09,2022-03-09,Other,Off Market,Sell,Equity Shares,16185.0,0.0,0.0,0.0,0.0,16822786.0,2.41,16806601.0,2.41
+FSL,2022-03-14 19:17:00,2022-03-10,2022-03-08,2022-03-08,Other,Market Purchase,Buy,Equity Shares,320000.0,0.0,0.0,0.0,0.0,16502786.0,2.37,16822786.0,2.41
+FSL,2022-03-14 19:24:00,2022-03-11,2022-03-10,2022-03-10,Other,Market Purchase,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,16866601.0,2.42,16966601.0,2.43
+FSL,2022-03-14 19:24:00,2022-03-11,2022-03-09,2022-03-09,Other,Market Purchase,Buy,Equity Shares,60000.0,0.0,0.0,0.0,0.0,16806601.0,2.41,16866601.0,2.42
+FSL,2022-03-16 16:29:00,2022-03-16,2022-03-15,2022-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,30000.0,0.0,,0.0
+FSL,2022-03-29 17:06:00,2022-03-28,2022-03-24,2022-03-24,-,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,109250.0,0.02,106250.0,0.02
+FSL,2022-03-29 17:06:00,2022-03-28,2022-03-24,2022-03-24,-,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,116250.0,0.02,109250.0,0.02
+FSL,2022-04-04 19:46:00,2022-04-01,2022-03-31,2022-03-31,-,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,71250.0,0.01,51250.0,0.01
+FSL,2022-04-04 19:46:00,2022-04-01,2022-03-31,2022-03-31,-,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,106250.0,0.02,91250.0,0.01
+FSL,2022-04-04 19:46:00,2022-04-01,2022-03-31,2022-03-31,-,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,91250.0,0.01,71250.0,0.01
+FSL,2022-04-04 19:46:00,2022-04-01,2022-03-31,2022-03-31,-,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,51250.0,0.01,31250.0,0.01
+FSL,2022-04-04 19:46:00,2022-04-01,2022-03-31,2022-03-31,-,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,31250.0,0.01,11250.0,0.01
+FSL,2022-04-22 16:50:00,2022-04-21,2022-04-20,2022-04-20,Other,Off Market,Sell,Equity Shares,198440.0,0.0,0.0,0.0,0.0,16919788.0,2.43,16721348.0,2.4
+FSL,2022-04-25 17:59:00,2022-04-21,2022-04-20,2022-04-20,-,ESOP,Buy,Equity Shares,102815.0,0.0,0.0,0.0,0.0,,0.0,102815.0,0.01
+FSL,2022-05-19 16:41:00,2022-05-18,2022-05-17,2022-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,16025.0,0.0,0.0,0.0,0.0,16025.0,0.0,,0.0
+FSL,2022-06-14 19:33:00,2022-06-13,2022-06-10,2022-06-10,Other,Off Market,Sell,Equity Shares,533750.0,0.0,0.0,0.0,0.0,16721348.0,2.4,16187598.0,2.32
+FSL,2022-06-20 19:45:00,2022-06-17,2022-06-10,2022-06-10,Employees/Designated Employees,Off Market,Buy,Equity Shares,28000.0,0.0,0.0,0.0,0.0,,0.0,28000.0,0.0
+FSL,2022-06-24 16:41:00,2022-06-22,2022-06-10,2022-06-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,109375.0,0.0,0.0,0.0,0.0,500.0,0.0,109875.0,0.02
+FSL,2022-06-30 16:25:00,2022-06-30,2022-06-29,2022-06-29,-,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,100000.0,0.01,,0.0
+FSL,2022-07-01 16:36:00,2022-06-29,2022-06-27,2022-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,60625.0,0.0,0.0,0.0,0.0,160625.0,0.02,100000.0,0.01
+FSL,2022-07-14 16:29:00,2022-07-13,2022-07-12,2022-07-12,Other,Off Market,Sell,Equity Shares,69938.0,0.0,0.0,0.0,0.0,16187598.0,2.32,16117660.0,2.31
+FSL,2022-08-12 18:31:00,2022-08-12,2022-08-11,2022-08-11,-,Market Sale,Sell,Equity Shares,25938.0,0.0,0.0,0.0,0.0,25938.0,0.0,,0.0
+FSL,2022-08-17 16:47:00,2022-08-12,2022-08-11,2022-08-11,Other,Off Market,Sell,Equity Shares,163125.0,0.0,0.0,0.0,0.0,16117660.0,2.31,15954535.0,2.29
+FSL,2022-08-24 18:57:00,2022-08-23,2022-08-17,2022-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,28000.0,0.0,0.0,0.0,0.0,28000.0,0.0,,0.0
+FSL,2022-08-26 19:03:00,2022-08-24,2022-08-23,2022-08-23,Other,Off Market,Sell,Equity Shares,271554.0,0.0,0.0,0.0,0.0,15954535.0,2.29,15682981.0,2.25
+FSL,2022-08-29 16:05:00,2022-08-29,2022-08-23,2022-08-23,Other,ESOP,Buy,Equity Shares,200029.0,0.0,0.0,0.0,0.0,100000.0,0.01,300029.0,0.04
+FSL,2022-09-12 16:06:00,2022-09-08,2022-09-07,2022-09-07,Other,Market Sale,Sell,Equity Shares,17000.0,0.0,0.0,0.0,0.0,17252.0,0.0,252.0,0.0
+FSL,2022-09-15 15:56:00,2022-09-15,2022-09-14,2022-09-14,Employees/Designated Employees,Off Market,Buy,Equity Shares,27500.0,0.0,0.0,0.0,0.0,139250.0,0.02,166750.0,0.03
+FSL,2022-09-19 16:01:00,2022-09-15,2022-09-14,2022-09-14,Other,Off Market,Sell,Equity Shares,192315.0,0.0,0.0,0.0,0.0,15682981.0,2.25,15490666.0,2.22
+FSL,2022-09-27 17:52:00,2022-09-23,2022-09-22,2022-09-22,Other,Market Purchase,Buy,Equity Shares,300000.0,0.0,0.0,0.0,0.0,15490666.0,2.22,15790666.0,2.27
+FSL,2022-09-27 17:52:00,2022-09-27,2022-09-23,2022-09-26,Other,Market Purchase,Buy,Equity Shares,650000.0,0.0,0.0,0.0,0.0,15790666.0,2.27,16440666.0,2.36
+FSL,2022-09-27 17:57:00,2022-09-27,2022-09-22,2022-09-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,41063.0,0.0,0.0,0.0,0.0,41063.0,0.0,,0.0
+FSL,2022-09-29 15:57:00,2022-09-28,2022-09-27,2022-09-27,Other,Market Purchase,Buy,Equity Shares,350000.0,0.0,0.0,0.0,0.0,16440666.0,2.36,16790666.0,2.41
+FSL,2022-10-03 18:26:00,2022-10-03,2022-09-29,2022-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,22500.0,0.0,0.0,0.0,0.0,22752.0,0.0,252.0,0.0
+FSL,2022-10-03 18:26:00,2022-09-29,2022-09-28,2022-09-28,Other,Market Purchase,Buy,Equity Shares,110000.0,0.0,0.0,0.0,0.0,16790666.0,2.41,16900666.0,2.42
+FSL,2022-10-03 18:26:00,2022-09-30,2022-09-30,2022-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,80000.0,0.0,0.0,0.0,0.0,80000.0,0.0,,0.0
+FSL,2022-10-03 19:00:00,2022-10-03,2022-09-29,2022-09-30,Other,Market Purchase,Buy,Equity Shares,520000.0,0.0,0.0,0.0,0.0,16900666.0,2.42,17420666.0,2.5
+FSL,2022-10-13 16:14:00,2022-10-13,2022-10-12,2022-10-12,Other,Off Market,Sell,Equity Shares,85251.0,0.0,0.0,0.0,0.0,17420666.0,2.5,17335415.0,2.49
+FSL,2022-11-24 16:53:00,2022-11-24,2022-11-23,2022-11-23,Other,Off Market,Sell,Equity Shares,350330.0,0.0,0.0,0.0,0.0,17335415.0,2.49,16985085.0,2.44
+FSL,2022-11-28 16:01:00,2022-11-24,2022-11-23,2022-11-23,-,ESOP,Buy,Equity Shares,117828.0,0.0,0.0,0.0,0.0,,0.0,117828.0,0.0
+FSL,2022-12-15 18:53:00,2022-12-14,2022-12-14,2022-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,33515.0,0.0,0.0,0.0,0.0,252.0,0.0,33767.0,0.0
+FSL,2022-12-15 18:53:00,2022-12-15,2022-12-14,2022-12-14,Other,Off Market,Sell,Equity Shares,476184.0,0.0,0.0,0.0,0.0,16985085.0,2.44,16508901.0,2.37
+FSL,2022-12-15 18:53:00,2022-12-14,2022-12-14,2022-12-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,263734.0,0.0,0.0,0.0,0.0,44500.0,0.0,308234.0,0.04
+FSL,2023-01-25 16:37:00,2023-01-25,2023-01-18,2023-01-18,Other,Off Market,Sell,Equity Shares,619367.0,0.0,0.0,0.0,0.0,16508901.0,2.37,15889534.0,2.28
+FSL,2023-02-02 17:03:00,2023-02-02,2023-01-18,2023-01-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,486742.0,0.0,0.0,0.0,0.0,90500.0,0.01,577242.0,0.08
+FSL,2023-02-09 17:11:00,2023-02-08,2023-02-08,2023-02-08,Other,Off Market,Sell,Equity Shares,169414.0,0.0,0.0,0.0,0.0,15889534.0,2.28,15720120.0,2.26
+FSL,2023-02-09 17:11:00,2023-02-09,2023-02-08,2023-02-08,Other,ESOP,Buy,Equity Shares,85625.0,0.0,0.0,0.0,0.0,66875.0,0.01,152500.0,0.02
+FSL,2023-03-16 16:37:00,2023-03-16,2023-03-15,2023-03-15,Other,Off Market,Sell,Equity Shares,122938.0,0.0,0.0,0.0,0.0,15712120.0,2.26,15589182.0,2.24
+FSL,2023-03-23 17:30:00,2023-03-17,2023-03-16,2023-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,152500.0,0.0,142500.0,0.0
+FSL,2023-04-03 19:37:00,2023-03-31,2023-03-31,2023-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,56250.0,0.0,0.0,0.0,0.0,56250.0,0.0,,0.0
+FSL,2023-04-11 18:33:00,2023-04-11,2023-04-10,2023-04-10,Other,Off Market,Sell,Equity Shares,572307.0,0.0,0.0,0.0,0.0,15589182.0,2.24,15016875.0,2.15
+FSL,2023-04-19 19:41:00,2023-04-19,2023-04-10,2023-04-10,-,ESOP,Buy,Equity Shares,147500.0,0.0,0.0,0.0,0.0,78125.0,0.01,225625.0,0.03
+FSL,2023-05-17 19:31:00,2023-05-16,2023-05-11,2023-05-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,142500.0,0.0,112500.0,0.0
+FSL,2023-05-18 17:54:00,2023-05-18,2023-05-17,2023-05-17,Other,Off Market,Sell,Equity Shares,263625.0,0.0,0.0,0.0,0.0,15016875.0,2.15,14753250.0,2.12
+FSL,2023-05-19 16:52:00,2023-05-19,2023-05-09,2023-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,,0.0
+FSL,2023-05-19 16:52:00,2023-05-19,2023-05-17,2023-05-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,174000.0,0.0,0.0,0.0,0.0,,0.0,174000.0,0.03
+FSL,2023-05-23 19:57:00,2023-05-23,2023-05-19,2023-05-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,300029.0,0.04,290029.0,0.04
+FSL,2023-06-02 18:11:00,2023-06-02,2023-06-01,2023-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,290029.0,0.04,265029.0,0.04
+FSL,2023-06-08 19:41:00,2023-06-08,2023-06-07,2023-06-07,Other,Off Market,Sell,Equity Shares,227219.0,0.0,0.0,0.0,0.0,14753250.0,2.12,14526031.0,2.08
+FSL,2023-06-13 16:56:00,2023-06-09,2023-06-07,2023-06-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,168531.0,0.0,0.0,0.0,0.0,265029.0,0.04,433560.0,0.06
+FSL,2023-06-16 18:10:00,2023-06-16,2023-06-15,2023-06-15,Other,Off Market,Sell,Equity Shares,136723.0,0.0,0.0,0.0,0.0,14526031.0,2.08,14389308.0,2.06
+FSL,2023-07-03 19:00:00,2023-07-02,2023-06-27,2023-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,22723.0,0.0,0.0,0.0,0.0,22723.0,0.0,,0.0
+FSL,2023-07-03 19:00:00,2023-07-03,2023-06-30,2023-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,76025.0,0.0,0.0,0.0,0.0,174000.0,0.02,97975.0,0.01
+FSL,2023-07-05 18:45:00,2023-07-05,2023-06-30,2023-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,33531.0,0.0,0.0,0.0,0.0,433560.0,0.06,400029.0,0.05
+FSL,2023-07-19 17:06:00,2023-07-19,2023-07-19,2023-07-19,Other,Off Market,Sell,Equity Shares,76600.0,0.0,0.0,0.0,0.0,14389308.0,2.06,14312708.0,2.05
+FSL,2023-08-14 18:42:00,2023-08-14,2023-08-08,2023-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,174800.0,0.0,0.0,0.0,0.0,703405.0,0.1,528605.0,0.08
+FSL,2023-08-21 17:45:00,2023-08-21,2023-08-18,2023-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,97109.0,0.01,82109.0,0.01
+FSL,2023-08-23 17:26:00,2023-08-23,2023-08-23,2023-08-23,Other,Off Market,Sell,Equity Shares,301016.0,0.0,0.0,0.0,0.0,14312708.0,2.05,14011692.0,2.01
+FSL,2023-08-31 17:31:00,2023-08-28,2023-08-21,2023-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,35000.0,0.0,0.0,0.0,0.0,82109.0,0.01,47109.0,0.01
+FSL,2023-09-08 17:15:00,2023-09-07,2023-09-06,2023-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,23750.0,0.0,0.0,0.0,0.0,63750.0,0.0,40000.0,0.0
+FSL,2023-09-13 16:20:00,2023-09-13,2023-09-13,2023-09-13,Employees/Designated Employees,Off Market,Sell,Equity Shares,55625.0,0.0,0.0,0.0,0.0,14011692.0,2.01,13956067.0,2.0
+FSL,2023-09-18 16:12:00,2023-09-15,2023-09-15,2023-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,400029.0,0.06,350029.0,0.04
+FSL,2023-09-27 17:45:00,2023-09-27,2023-09-22,2023-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,40000.0,0.0,30000.0,0.0
+FSL,2023-09-29 17:57:00,2023-09-29,2023-09-18,2023-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,34900.0,0.0,27900.0,0.0
+FSL,2023-09-29 17:57:00,2023-09-29,2023-09-14,2023-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7209.0,0.0,0.0,0.0,0.0,42109.0,0.0,34900.0,0.0
+FSL,2023-10-03 16:26:00,2023-10-03,2023-09-29,2023-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,27900.0,0.0,0.0,0.0,0.0,27900.0,0.0,,0.0
+FSL,2023-10-03 16:26:00,2023-10-02,2023-09-29,2023-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,350029.0,0.04,300029.0,0.04
+FSL,2023-11-10 18:22:00,2023-11-10,2023-11-10,2023-11-10,Other,Off Market,Sell,Equity Shares,2157712.0,0.0,0.0,0.0,0.0,13920190.0,2.0,11762478.0,1.69
+FSL,2023-11-13 16:17:00,2023-11-10,2023-11-10,2023-11-10,Employees/Designated Employees,Off Market,Buy,Equity Shares,2013728.0,0.0,0.0,0.0,0.0,528605.0,0.08,2542333.0,0.36
+FSL,2023-11-23 15:49:00,2023-11-22,2023-11-22,2023-11-22,Other,Off Market,Sell,Equity Shares,1305510.0,0.0,0.0,0.0,0.0,11762478.0,1.69,10456968.0,1.5
+FSL,2023-11-24 17:51:00,2023-11-23,2023-11-22,2023-11-22,Employees/Designated Employees,Off Market,Buy,Equity Shares,1207822.0,0.0,0.0,0.0,0.0,2542333.0,0.36,3750155.0,0.53
+FSL,2023-11-28 17:22:00,2023-11-27,2023-11-20,2023-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,626055.0,0.0,0.0,0.0,0.0,3750155.0,0.53,3124100.0,0.44
+FSL,2023-12-01 21:51:00,2023-12-01,2023-11-29,2023-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600000.0,0.0,0.0,0.0,0.0,3124100.0,0.44,2524100.0,0.36
+FSL,2023-12-07 19:01:00,2023-12-06,2023-12-04,2023-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3309.0,0.0,0.0,0.0,0.0,2524100.0,0.36,2520791.0,0.36
+FSL,2023-12-11 17:42:00,2023-12-09,2023-12-08,2023-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,2520791.0,0.36,2470791.0,0.35
+FSL,2023-12-13 16:14:00,2023-12-13,2023-12-13,2023-12-13,Other,Off Market,Sell,Equity Shares,424096.0,0.0,0.0,0.0,0.0,10456968.0,1.5,10032872.0,1.4
+FSL,2023-12-14 17:55:00,2023-12-14,2023-12-12,2023-12-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,30000.0,0.0,15000.0,0.0
+FSL,2023-12-15 17:46:00,2023-12-15,2023-12-11,2023-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200000.0,0.0,0.0,0.0,0.0,2470791.0,0.35,2270791.0,0.32
+FSL,2023-12-19 16:09:00,2023-12-18,2023-12-15,2023-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,33000.0,0.0,0.0,0.0,0.0,66500.0,0.0,33500.0,0.0
+FSL,2023-12-19 16:16:00,2023-12-18,2023-12-14,2023-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,112500.0,0.02,87500.0,0.01
+FSL,2023-12-21 18:04:00,2023-12-19,2023-12-18,2023-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,25000.0,0.0,10000.0,0.0
+FSL,2023-12-26 16:23:00,2023-12-22,2023-12-20,2023-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,2270791.0,0.32,2170791.0,0.31
+FSL,2023-12-28 16:27:00,2023-12-27,2023-12-26,2023-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,2170791.0,0.31,2070791.0,0.29
+FSL,2024-01-25 17:06:00,2024-01-18,2024-01-17,2024-01-17,Other,Off Market,Sell,Equity Shares,205361.0,0.0,0.0,0.0,0.0,10032872.0,1.4,9827511.0,1.4
+FSL,2024-02-12 19:16:00,2024-02-09,2024-02-09,2024-02-09,Other,Off Market,Sell,Equity Shares,249240.0,0.0,0.0,0.0,0.0,9827511.0,1.4,9578271.0,1.4
+FSL,2024-02-12 19:16:00,2024-02-09,2024-02-09,2024-02-09,Other,Off Market,Sell,Equity Shares,249240.0,0.0,0.0,0.0,0.0,9827511.0,1.4,9578271.0,1.4
+FSL,2024-02-19 17:44:00,2024-02-18,2024-02-15,2024-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,2070791.0,0.29,2020791.0,0.28
+FSL,2024-02-26 18:47:00,2024-02-26,2024-02-23,2024-02-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,72949.0,0.0,0.0,0.0,0.0,2008291.0,0.28,1935342.0,0.27
+FSL,2024-02-28 18:49:00,2024-02-28,2024-02-23,2024-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,58172.0,0.0,38172.0,0.0
+FSL,2024-03-01 15:40:00,2024-02-29,2024-02-27,2024-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,1935342.0,0.27,1885342.0,0.27
+FSL,2024-03-01 15:40:00,2024-03-01,2024-02-28,2024-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6162.0,0.0,0.0,0.0,0.0,38172.0,0.0,32010.0,0.0
+FSL,2024-03-01 15:40:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,32010.0,0.0,24510.0,0.0
+FSL,2024-03-14 17:09:00,2024-03-14,2024-03-13,2024-03-13,Other,Off Market,Sell,Equity Shares,228067.0,0.0,0.0,0.0,0.0,9504967.0,1.4,9276900.0,1.4
+FSL,2024-03-15 17:04:00,2024-03-15,2024-03-14,2024-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,1885342.0,0.27,1785342.0,0.25
+FSL,2024-03-19 16:36:00,2024-03-16,2024-03-15,2024-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,1785342.0,0.27,1735342.0,0.25
+FSL,2024-03-22 18:40:00,2024-03-21,2024-03-20,2024-03-20,Other,Market Purchase,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,9276900.0,1.4,9376900.0,1.4
+FSL,2024-04-01 18:56:00,2024-04-01,2024-03-26,2024-03-27,Key Managerial Personnel,Market Sale,Sell,Equity Shares,46904.0,0.0,0.0,0.0,0.0,346904.0,0.05,300000.0,0.04
+FSL,2024-04-11 17:13:00,2024-04-11,2024-04-10,2024-04-10,Other,Off Market,Sell,Equity Shares,613970.0,0.0,0.0,0.0,0.0,9376900.0,1.4,8762930.0,1.26
+FSL,2024-05-15 18:25:00,2024-05-15,2024-05-15,2024-05-15,Other,Off Market,Sell,Equity Shares,220719.0,0.0,0.0,0.0,0.0,8762930.0,1.26,8542211.0,1.23
+FSL,2024-05-17 16:29:00,2024-05-16,2024-05-16,2024-05-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,99000.0,0.0,0.0,0.0,0.0,115000.0,0.01,16000.0,0.0
+FSL,2024-05-23 16:05:00,2024-05-20,2024-05-17,2024-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,55120.0,0.0,0.0,0.0,0.0,1735342.0,0.25,1680222.0,0.24
+FSL,2024-05-28 17:22:00,2024-05-27,2024-05-23,2024-05-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,441.0,0.0,0.0,0.0,0.0,84135.0,0.0,83694.0,0.0
+FSL,2024-06-03 19:03:00,2024-05-31,2024-05-28,2024-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,83694.0,0.0,79694.0,0.0
+FSL,2024-06-06 18:49:00,2024-06-06,2024-06-03,2024-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,21323.0,0.0,0.0,0.0,0.0,75694.0,0.0,54371.0,0.0
+FSL,2024-06-06 18:49:00,2024-06-06,2024-05-29,2024-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,79694.0,0.0,75694.0,0.0
+FSL,2024-06-06 18:49:00,2024-06-06,2024-06-05,2024-06-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,300000.0,0.04,200000.0,0.03
+FSL,2024-06-07 18:26:00,2024-06-07,2024-06-05,2024-06-05,Other,Market Purchase,Buy,Equity Shares,628423.0,0.0,0.0,0.0,0.0,8542211.0,1.23,9170634.0,1.32
+FSL,2024-06-10 18:23:00,2024-06-10,2024-06-07,2024-06-07,Other,Market Purchase,Buy,Equity Shares,142946.0,0.0,0.0,0.0,0.0,9170634.0,1.32,9313580.0,1.34
+FSL,2024-06-13 18:03:00,2024-06-12,2024-06-12,2024-06-12,Other,Off Market,Sell,Equity Shares,344725.0,0.0,0.0,0.0,0.0,9313580.0,1.34,8968855.0,1.28
+FSL,2024-06-22 13:24:00,2024-06-19,2024-06-13,2024-06-13,Other,Market Purchase,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,8968855.0,1.28,9168855.0,1.32
+FSL,2024-06-24 19:23:00,2024-06-24,2024-06-21,2024-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,36750.0,0.0,0.0,0.0,0.0,336750.0,0.05,300000.0,0.04
+FSL,2024-06-24 19:23:00,2024-06-24,2024-06-24,2024-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,48125.0,0.0,0.0,0.0,0.0,48125.0,0.01,,0.0
+FSL,2024-07-01 15:18:00,2024-06-27,2024-06-25,2024-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,16250.0,0.0,0.0,0.0,0.0,96250.0,0.0,80000.0,0.0
+FSL,2024-07-11 17:11:00,2024-07-10,2024-07-10,2024-07-10,Other,Off Market,Sell,Equity Shares,178498.0,0.0,0.0,0.0,0.0,9168855.0,1.32,8990357.0,1.28
+FSL,2024-08-06 15:49:00,2024-08-05,2024-08-02,2024-08-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,300000.0,0.04,200000.0,0.03
+FSL,2024-08-07 18:51:00,2024-08-06,2024-08-06,2024-08-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,84404.0,0.0,0.0,0.0,0.0,112162.0,0.02,27758.0,0.0
+FSL,2024-08-07 19:34:00,2024-08-07,2024-08-05,2024-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,82500.0,0.01,77500.0,0.01
+FSL,2024-08-07 19:34:00,2024-08-07,2024-08-02,2024-08-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,87500.0,0.01,82500.0,0.01
+FSL,2024-08-07 19:34:00,2024-08-07,2024-08-06,2024-08-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,77500.0,0.01,72500.0,0.01
+FSL,2024-08-12 18:33:00,2024-08-12,2024-08-12,2024-08-12,Other,Off Market,Sell,Equity Shares,929895.0,0.0,0.0,0.0,0.0,8990357.0,1.29,8060462.0,1.16
+FSL,2024-08-12 18:40:00,2024-08-09,2024-08-06,2024-08-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,80000.0,0.01,60000.0,0.01
+FSL,2024-08-19 15:46:00,2024-08-17,2024-08-16,2024-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,6249.0,0.0,249.0,0.0
+FSL,2024-08-26 17:03:00,2024-08-26,2024-08-26,2024-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,60000.0,0.01,50000.0,0.01
+FSL,2024-08-26 17:04:00,2024-08-26,2024-08-26,2024-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,60000.0,0.01,50000.0,0.01
+FSL,2024-09-13 15:45:00,2024-09-11,2024-09-11,2024-09-11,Other,Off Market,Sell,Equity Shares,230823.0,0.0,0.0,0.0,0.0,8060462.0,1.16,7829639.0,1.12
+FSL,2024-09-13 15:50:00,2024-09-11,2024-09-10,2024-09-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,57312.0,0.0,0.0,0.0,0.0,691635.0,0.09,634323.0,0.09
+FSL,2024-09-16 16:04:00,2024-09-16,2024-09-11,2024-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,853023.0,0.12,843023.0,0.12
+FSL,2024-09-30 15:42:00,2024-09-27,2024-09-26,2024-09-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,27779.0,0.0,0.0,0.0,0.0,843023.0,0.12,815244.0,0.12
+FSL,2024-10-03 16:44:00,2024-10-01,2024-09-24,2024-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,634323.0,0.09,609323.0,0.08
+FSL,2024-10-03 16:44:00,2024-10-01,2024-09-25,2024-09-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,42688.0,0.0,0.0,0.0,0.0,584323.0,0.08,541635.0,0.07
+FSL,2024-10-03 16:44:00,2024-10-01,2024-09-24,2024-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,609323.0,0.08,584323.0,0.08
+FSL,2024-10-16 18:33:00,2024-10-16,2024-10-16,2024-10-16,Other,Off Market,Sell,Equity Shares,65818.0,0.0,0.0,0.0,0.0,7829639.0,1.12,7763821.0,1.11
+FSL,2024-11-06 16:13:00,2024-11-05,2024-11-04,2024-11-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,55000.0,0.0,0.0,0.0,0.0,58752.0,0.01,3752.0,0.0
+FSL,2024-11-07 16:35:00,2024-11-07,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,200025.0,0.03,190025.0,0.03
+FSL,2024-11-07 16:35:00,2024-11-07,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,190025.0,0.03,175025.0,0.03
+FSL,2024-11-07 16:35:00,2024-11-07,2024-11-07,2024-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,175025.0,0.03,165025.0,0.03
+FSL,2024-11-07 16:35:00,2024-11-07,2024-11-07,2024-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15025.0,0.0,0.0,0.0,0.0,165025.0,0.02,150000.0,0.02
+FSL,2024-11-11 18:37:00,2024-11-08,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,62500.0,0.01,60000.0,0.01
+FSL,2024-11-15 15:54:00,2024-11-14,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,70000.0,0.0,0.0,0.0,0.0,670444.0,0.09,600444.0,0.08
+FSL,2024-11-15 15:54:00,2024-11-14,2024-11-11,2024-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,600444.0,0.08,550444.0,0.07
+FSL,2024-11-15 15:54:00,2024-11-14,2024-11-05,2024-11-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,673444.0,0.09,670444.0,0.09
+FSL,2024-11-15 15:54:00,2024-11-14,2024-11-04,2024-11-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,111800.0,0.0,0.0,0.0,0.0,785244.0,0.11,673444.0,0.09
+FSL,2024-11-15 15:54:00,2024-11-14,2024-10-31,2024-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,815244.0,0.11,785244.0,0.11
+FSL,2024-11-21 18:04:00,2024-11-20,2024-11-08,2024-11-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,60000.0,0.01,57500.0,0.01
+FSL,2024-11-25 16:11:00,2024-11-21,2024-11-21,2024-11-21,Other,Off Market,Sell,Equity Shares,140570.0,0.0,0.0,0.0,0.0,7763821.0,1.11,7623251.0,1.09
+FSL,2024-11-25 18:38:00,2024-11-12,2024-11-11,2024-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,389135.0,0.05,384135.0,0.05
+FSL,2024-11-25 18:38:00,2024-11-12,2024-11-07,2024-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,401635.0,0.05,389135.0,0.05
+FSL,2024-11-25 18:38:00,2024-11-12,2024-11-06,2024-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,421635.0,0.06,401635.0,0.06
+FSL,2024-11-25 18:38:00,2024-11-12,2024-11-05,2024-11-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,55000.0,0.0,0.0,0.0,0.0,476635.0,0.06,421635.0,0.06
+FSL,2024-11-25 18:38:00,2024-11-12,2024-11-04,2024-11-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,526635.0,0.07,476635.0,0.07
+FSL,2024-11-25 18:38:00,2024-11-22,2024-11-14,2024-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,376635.0,0.05,366635.0,0.05
+FSL,2024-11-25 18:38:00,,,,-,-,-,,,0.0,0.0,0.0,0.0,,0.0,,
+FSL,2024-11-25 18:38:00,2024-11-12,2024-10-31,2024-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,541635.0,0.07,526635.0,0.07
+FSL,2024-11-25 18:38:00,2024-11-22,2024-11-12,2024-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,384135.0,0.05,376635.0,0.05
+FSL,2024-11-25 18:38:00,2024-11-22,2024-11-21,2024-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,351385.0,0.05,348885.0,0.05
+FSL,2024-12-10 18:59:00,2024-12-10,2024-11-28,2024-11-28,Employees/Designated Employees,Invocation of pledge,Pledge Invoke,Equity Shares,5000.0,0.0,0.0,0.0,0.0,333885.0,0.05,328885.0,0.05
+FSL,2024-12-10 18:59:00,2024-12-10,2024-11-29,2024-11-29,Employees/Designated Employees,Invocation of pledge,Pledge Invoke,Equity Shares,17500.0,0.0,0.0,0.0,0.0,328885.0,0.05,311385.0,0.04
+FSL,2024-12-10 18:59:00,2024-12-10,2024-11-26,2024-11-26,Employees/Designated Employees,Invocation of pledge,Pledge Invoke,Equity Shares,15000.0,0.0,0.0,0.0,0.0,348885.0,0.05,333885.0,0.05
+FSL,2024-12-11 16:21:00,2024-12-11,2024-12-11,2024-12-11,Other,Off Market,Sell,Equity Shares,11625.0,0.0,0.0,0.0,0.0,7623251.0,1.09,7611626.0,1.09
+FSL,2024-12-12 16:00:00,2024-12-11,2024-12-10,2024-12-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,57500.0,0.01,55000.0,0.01
+FSL,2024-12-19 17:07:00,2024-12-19,2024-12-12,2024-12-12,Employees/Designated Employees,Invocation of pledge,Pledge Invoke,Equity Shares,5000.0,0.0,0.0,0.0,0.0,296385.0,0.04,291385.0,0.03
+FSL,2024-12-19 17:07:00,2024-12-19,2024-12-11,2024-12-11,Employees/Designated Employees,Invocation of pledge,Pledge Invoke,Equity Shares,15000.0,0.0,0.0,0.0,0.0,311385.0,0.04,296385.0,0.04
+FSL,2024-12-26 15:57:00,2024-12-26,2024-12-24,2024-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,135000.0,0.02,120000.0,0.02
+FSL,2024-12-26 16:03:00,2024-12-26,2024-12-26,2024-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20739.0,0.0,0.0,0.0,0.0,34739.0,0.0,14000.0,0.0
+FSL,2024-12-26 17:13:00,2024-12-26,2024-12-11,2024-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,38039.0,0.0,35039.0,0.0
+FSL,2024-12-26 17:13:00,2024-12-26,2024-12-12,2024-12-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,35039.0,0.0,34739.0,0.0
+FSL,2025-01-15 16:53:00,2024-01-15,2024-01-15,2024-01-15,Other,Off Market,Sell,Equity Shares,64168.0,0.0,0.0,0.0,0.0,7611626.0,1.09,7547458.0,1.08
+FSL,2025-02-10 19:25:00,2025-02-10,2025-02-10,2025-02-10,Other,Off Market,Sell,Equity Shares,143868.0,0.0,0.0,0.0,0.0,7547458.0,1.08,7403590.0,1.06
+FSL,2025-02-12 18:06:00,2025-02-12,2025-02-12,2025-02-12,Other,Off Market,Sell,Equity Shares,41143.0,0.0,0.0,0.0,0.0,7403590.0,1.06,7362447.0,1.05
+FSL,2025-03-10 18:53:00,2024-02-12,2024-02-12,2024-02-12,Other,Market Sale,Sell,Equity Shares,13765.0,0.0,0.0,0.0,0.0,7403590.0,1.06,7389825.0,1.06
+FSL,2025-03-10 18:53:00,2024-02-12,2024-02-12,2024-02-12,Other,Off Market,Sell,Equity Shares,41143.0,0.0,0.0,0.0,0.0,7389825.0,1.06,7348682.0,1.05
+FSL,2025-03-12 18:47:00,2025-03-12,2025-03-12,2025-03-12,Other,Off Market,Sell,Equity Shares,37813.0,0.0,0.0,0.0,0.0,7348682.0,1.05,7310869.0,1.05
+FSL,2025-03-18 18:12:00,2025-03-18,2025-03-17,2025-03-17,Other,Market Purchase,Buy,Equity Shares,345000.0,0.0,0.0,0.0,0.0,7435869.0,1.05,7780869.0,1.11
+FSL,2025-03-18 18:12:00,2025-03-13,2025-03-12,2025-03-12,Other,Market Purchase,Buy,Equity Shares,125000.0,0.0,0.0,0.0,0.0,7310869.0,1.04,7435869.0,1.05
+FSL,2025-03-21 17:03:00,2025-03-20,2025-03-19,2025-03-19,Other,Market Purchase,Buy,Equity Shares,141890.0,0.0,0.0,0.0,0.0,7481236.0,1.07,7623126.0,1.09
+FSL,2025-03-21 17:03:00,2025-03-21,2025-03-20,2025-03-20,Other,Market Purchase,Buy,Equity Shares,47322.0,0.0,0.0,0.0,0.0,7623126.0,1.09,7670448.0,1.09
+FSL,2025-03-21 17:06:00,2025-03-18,2025-03-18,2025-03-18,Other,Market Sale,Sell,Equity Shares,110208.0,0.0,0.0,0.0,0.0,7780869.0,1.11,7670661.0,1.1
+FSL,2025-03-21 17:09:00,2025-03-20,2025-03-20,2025-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,26500.0,0.0,12500.0,0.0
+FSL,2025-03-25 16:38:00,2025-03-19,2025-03-19,2025-03-19,Other,Off Market,Sell,Equity Shares,189425.0,0.0,0.0,0.0,0.0,7670661.0,1.1,7481236.0,1.07
+FSL,2025-03-28 16:12:00,2025-03-24,2025-03-24,2025-03-24,Other,Off Market,Sell,Equity Shares,21779.0,0.0,0.0,0.0,0.0,7669727.0,1.1,7647948.0,1.09
+FSL,2025-03-28 16:19:00,2025-03-26,2025-03-25,2025-03-25,Other,Market Purchase,Buy,Equity Shares,65000.0,0.0,0.0,0.0,0.0,7667074.0,1.09,7732074.0,1.11
+FSL,2025-03-28 16:19:00,2025-03-24,2025-03-21,2025-03-21,Other,Market Purchase,Buy,Equity Shares,19126.0,0.0,0.0,0.0,0.0,7647948.0,1.09,7667074.0,1.11
+FSL,2025-03-28 16:24:00,2025-03-25,2025-03-24,2025-03-24,Other,Market Sale,Sell,Equity Shares,721.0,0.0,0.0,0.0,0.0,7670448.0,1.1,7669727.0,1.1
+FSL,2025-05-13 17:49:00,2025-05-13,2025-05-13,2025-05-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,216.0,0.0,0.0,0.0,0.0,12500.0,0.0,12284.0,0.0
+FSL,2025-05-14 17:14:00,2025-05-14,2025-05-13,2025-05-13,Other,Market Sale,Sell,Equity Shares,118740.0,0.0,0.0,0.0,0.0,7732074.0,1.1,7613334.0,1.09
+FSL,2025-05-14 17:54:00,2025-05-14,2025-05-14,2025-05-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,150000.0,0.02,135000.0,0.02
+FSL,2025-05-21 17:08:00,2025-05-15,2025-05-15,2025-05-15,Other,Off Market,Sell,Equity Shares,351944.0,0.0,0.0,0.0,0.0,7613334.0,1.09,7261390.0,1.04
+FSL,2025-05-21 17:13:00,2025-05-19,2025-05-19,2025-05-19,Other,Market Sale,Sell,Equity Shares,25460.0,0.0,0.0,0.0,0.0,7261390.0,1.04,7235930.0,1.04
+FSL,2025-05-21 17:18:00,2025-05-20,2025-05-20,2025-05-20,Other,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,7235930.0,1.04,7223430.0,1.04
+FSL,2025-05-21 17:43:00,2025-05-21,2025-05-21,2025-05-21,Other,Off Market,Sell,Equity Shares,272051.0,0.0,0.0,0.0,0.0,7223430.0,1.04,6951379.0,0.99
+FSL,2025-05-21 17:49:00,2025-05-19,2025-05-13,2025-05-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12284.0,0.0,0.0,0.0,0.0,12284.0,0.0,,0.0
+FSL,2025-05-23 16:26:00,2025-05-23,2025-05-23,2025-05-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,,0.0
+FSL,2025-05-27 18:37:00,2025-05-27,2025-05-12,2025-05-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,473.0,0.0,0.0,0.0,0.0,4973.0,0.0,4500.0,0.0
+FSL,2025-05-27 18:37:00,2025-05-27,2025-05-14,2025-05-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,4000.0,0.0,3600.0,0.0
+FSL,2025-05-27 18:37:00,2025-05-27,2025-05-13,2025-05-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4500.0,0.0,4000.0,0.0
+FSL,2025-05-29 16:11:00,2025-05-29,2025-05-29,2025-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,19997.0,0.0,0.0,0.0,0.0,19997.0,0.0,,0.0
+FSL,2025-06-05 16:29:00,2025-06-03,2025-05-26,2025-05-26,Other,Market Sale,Sell,Equity Shares,12864.0,0.0,0.0,0.0,0.0,6951379.0,0.99,6938515.0,0.99
+FSL,2025-06-05 16:29:00,2025-06-03,2025-05-27,2025-05-27,Other,Market Sale,Sell,Equity Shares,1840.0,0.0,0.0,0.0,0.0,6938515.0,0.99,6936675.0,0.99
+FSL,2025-06-05 16:36:00,2025-05-28,2025-05-28,2025-05-28,Other,Off Market,Sell,Equity Shares,38433.0,0.0,0.0,0.0,0.0,6936675.0,0.99,6898242.0,0.98
+FSL,2025-06-05 16:46:00,2025-06-03,2025-05-28,2025-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,380004.0,0.05,360004.0,0.05
+FSL,2025-06-05 16:46:00,2025-06-03,2025-05-29,2025-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,360004.0,0.05,345004.0,0.05
+FSL,2025-06-05 16:52:00,2025-06-03,2025-05-29,2025-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6500.0,0.0,0.0,0.0,0.0,102500.0,0.01,96000.0,0.01
+FSL,2025-06-05 16:52:00,2025-06-03,2025-05-26,2025-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,106250.0,0.02,102500.0,0.01
+FSL,2025-06-09 19:00:00,2025-06-06,2025-06-04,2025-06-04,Other,Market Sale,Sell,Equity Shares,81380.0,0.0,0.0,0.0,0.0,6898242.0,0.98,6816862.0,0.97
+FSL,2025-06-09 19:05:00,2025-06-06,2025-06-04,2025-06-04,Other,Off Market,Sell,Equity Shares,169236.0,0.0,0.0,0.0,0.0,6816862.0,0.97,6647626.0,0.95
+FSL,2025-06-17 16:23:00,2025-06-11,2025-06-11,2025-06-11,Other,Off Market,Sell,Equity Shares,30050.0,0.0,0.0,0.0,0.0,6647626.0,0.95,6617576.0,0.94
+FSL,2025-06-19 17:26:00,2025-06-19,2025-06-19,2025-06-19,Other,Market Sale,Sell,Equity Shares,127000.0,0.0,0.0,0.0,0.0,6617576.0,0.94,6490576.0,0.93
+FSL,2025-07-02 19:04:00,2025-06-26,2025-06-23,2025-06-23,Other,Market Sale,Sell,Equity Shares,12200.0,0.0,0.0,0.0,0.0,6490576.0,0.93,6478376.0,0.93
+FSL,2025-07-02 19:12:00,2025-06-23,2025-06-23,2025-06-23,Other,Off Market,Sell,Equity Shares,274958.0,0.0,0.0,0.0,0.0,6478376.0,0.93,6203418.0,0.89
+FSL,2025-08-06 18:29:00,2025-08-05,2025-08-04,2025-08-04,Other,Market Sale,Sell,Equity Shares,27830.0,0.0,0.0,0.0,0.0,6203418.0,0.89,6175588.0,0.88
+FSL,2025-08-08 15:46:00,2025-08-06,2025-08-05,2025-08-05,Other,Market Sale,Sell,Equity Shares,17000.0,0.0,0.0,0.0,0.0,6175588.0,0.88,6158588.0,0.88
+FSL,2025-08-08 15:46:00,2025-08-06,2025-08-06,2025-08-06,Other,Market Sale,Sell,Equity Shares,6890.0,0.0,0.0,0.0,0.0,6158588.0,0.88,6151698.0,0.88
+FSL,2025-08-11 18:12:00,2025-08-06,2025-08-06,2025-08-06,Other,Off Market,Sell,Equity Shares,132959.0,0.0,0.0,0.0,0.0,6151698.0,0.88,6018739.0,0.86
+FSL,2025-08-11 18:12:00,2025-08-11,2025-08-08,2025-08-08,Other,Market Purchase,Buy,Equity Shares,95000.0,0.0,0.0,0.0,0.0,6018739.0,0.86,6113739.0,0.87
+FSL,2025-08-14 17:23:00,2025-08-14,2025-08-11,2025-08-11,Other,Market Purchase,Buy,Equity Shares,180000.0,0.0,0.0,0.0,0.0,6113739.0,0.87,6293739.0,0.9
+FSL,2025-08-14 17:33:00,2025-08-11,2025-08-11,2025-08-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11250.0,0.0,0.0,0.0,0.0,150000.0,0.02,138750.0,0.02
+FSL,2025-08-18 18:09:00,2025-08-18,2025-08-14,2025-08-14,Other,Market Sale,Sell,Equity Shares,6570.0,0.0,0.0,0.0,0.0,6381128.0,0.91,6374558.0,0.91
+FSL,2025-08-18 18:09:00,2025-08-18,2025-08-13,2025-08-13,Other,Market Purchase,Buy,Equity Shares,87389.0,0.0,0.0,0.0,0.0,6293739.0,0.87,6381128.0,0.91
+FSL,2025-08-20 19:51:00,2025-08-19,2025-08-14,2025-08-14,Other,Off Market,Sell,Equity Shares,30782.0,0.0,0.0,0.0,0.0,6374558.0,0.91,6343776.0,0.91
+FSL,2025-08-25 16:44:00,2025-08-21,2025-08-20,2025-08-20,Other,Off Market,Sell,Equity Shares,94106.0,0.0,0.0,0.0,0.0,6337576.0,0.9,6243470.0,0.89
+FSL,2025-08-25 16:44:00,2025-08-21,2025-08-20,2025-08-20,Other,Market Sale,Sell,Equity Shares,6200.0,0.0,0.0,0.0,0.0,6343776.0,0.91,6337576.0,0.9
+FSL,2025-08-28 16:44:00,2025-08-28,2025-08-26,2025-08-26,Other,Market Purchase,Buy,Equity Shares,7500.0,0.0,0.0,0.0,0.0,6308470.0,0.91,6315970.0,0.91
+FSL,2025-08-28 16:44:00,2025-08-28,2025-08-25,2025-08-25,Other,Market Purchase,Buy,Equity Shares,65000.0,0.0,0.0,0.0,0.0,6243470.0,0.89,6308470.0,0.91
+FSL,2025-09-15 16:46:00,2025-09-11,2025-09-10,2025-09-10,Other,Off Market,Sell,Equity Shares,73993.0,0.0,0.0,0.0,0.0,6295150.0,0.9,6221157.0,0.89
+FSL,2025-09-15 16:46:00,2025-09-11,2025-09-10,2025-09-10,Other,Market Sale,Sell,Equity Shares,20820.0,0.0,0.0,0.0,0.0,6315970.0,0.91,6295150.0,0.9
+FSL,2025-09-24 16:31:00,2025-09-24,2025-09-23,2025-09-23,Other,Market Sale,Sell,Equity Shares,22140.0,0.0,0.0,0.0,0.0,6221157.0,0.89,6199017.0,0.88
+FSL,2025-09-24 16:31:00,2025-09-24,2025-09-24,2025-09-24,Other,Off Market,Sell,Equity Shares,51853.0,0.0,0.0,0.0,0.0,6199017.0,0.88,6147164.0,0.88
+FSL,2025-11-11 16:25:00,2025-11-11,2025-11-10,2025-11-10,Other,Market Sale,Sell,Equity Shares,11790.0,0.0,0.0,0.0,0.0,6147164.0,0.88,6135374.0,0.88
+FSL,2025-11-12 18:06:00,2025-11-12,2025-11-12,2025-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8981.0,0.0,0.0,0.0,0.0,8981.0,0.0,,0.0
+FSL,2025-11-19 16:18:00,2025-11-12,2025-11-11,2025-11-11,Other,Market Sale,Sell,Equity Shares,74660.0,0.0,0.0,0.0,0.0,6135374.0,0.88,6060714.0,0.86
+FSL,2025-11-19 16:18:00,2025-11-12,2025-11-12,2025-11-12,Other,Off Market,Sell,Equity Shares,202278.0,0.0,0.0,0.0,0.0,6060714.0,0.86,5858436.0,0.84
+FSL,2025-11-20 15:53:00,2025-11-19,2025-11-19,2025-11-19,Other,Off Market,Sell,Equity Shares,22331.0,0.0,0.0,0.0,0.0,5849936.0,0.83,5827605.0,0.83
+FSL,2025-11-20 15:53:00,2025-11-19,2025-11-19,2025-11-19,Other,Market Sale,Sell,Equity Shares,8500.0,0.0,0.0,0.0,0.0,5858436.0,0.84,5849936.0,0.83
+FSL,2025-11-24 16:32:00,2025-11-24,2025-11-21,2025-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11250.0,0.0,0.0,0.0,0.0,150000.0,0.02,138750.0,0.02
+FSL,2025-12-01 15:52:00,2025-11-26,2025-11-24,2025-11-24,Other,Market Purchase,Buy,Equity Shares,50000.0,0.0,0.0,0.0,0.0,5898881.0,0.84,5948881.0,0.85
+FSL,2025-12-01 15:52:00,2025-11-27,2025-11-27,2025-11-27,Other,Market Sale,Sell,Equity Shares,11980.0,0.0,0.0,0.0,0.0,5948881.0,0.85,5936901.0,0.85
+FSL,2025-12-01 15:52:00,2025-11-27,2025-11-27,2025-11-27,Other,Off Market,Sell,Equity Shares,86222.0,0.0,0.0,0.0,0.0,5936901.0,0.85,5850679.0,0.84
+FSL,2025-12-01 15:52:00,2025-11-26,2025-11-21,2025-11-21,Other,Market Purchase,Buy,Equity Shares,71276.0,0.0,0.0,0.0,0.0,5827605.0,0.83,5898881.0,0.84
+FSL,2025-12-01 16:09:00,2025-12-01,2025-12-01,2025-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,70000.0,0.0,0.0,0.0,0.0,112001.0,0.02,42001.0,0.01
+FSL,2025-12-04 15:56:00,2025-12-02,2025-11-28,2025-11-28,Other,Market Purchase,Buy,Equity Shares,35167.0,0.0,0.0,0.0,0.0,5850679.0,0.84,5885846.0,0.84
+FSL,2025-12-15 19:43:00,2025-12-10,2025-12-10,2025-12-10,Other,Off Market,Sell,Equity Shares,52290.0,0.0,0.0,0.0,0.0,5860476.0,0.84,5808186.0,0.83
+FSL,2025-12-15 19:43:00,2025-12-09,2025-12-09,2025-12-09,Other,Market Sale,Sell,Equity Shares,25370.0,0.0,0.0,0.0,0.0,5885846.0,0.84,5860476.0,0.84
+FSL,2025-12-17 18:41:00,2025-12-17,2025-12-08,2025-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4800.0,0.0,0.0,0.0,0.0,110250.0,0.02,105450.0,0.02
+FSL,2025-12-17 18:41:00,2025-12-17,2025-12-10,2025-12-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5450.0,0.0,0.0,0.0,0.0,105450.0,0.02,100000.0,0.01
+FSL,2025-12-18 16:39:00,2025-12-17,2025-12-17,2025-12-17,Other,Off Market,Sell,Equity Shares,11129.0,0.0,0.0,0.0,0.0,5807276.0,0.83,5796147.0,0.83
+FSL,2025-12-18 16:39:00,2025-12-16,2025-12-16,2025-12-16,Other,Market Sale,Sell,Equity Shares,910.0,0.0,0.0,0.0,0.0,5808186.0,0.83,5807276.0,0.83
+FSL,2026-02-10 16:17:00,2026-02-06,2026-02-06,2026-02-06,Other,Market Sale,Sell,Equity Shares,23592.0,0.0,0.0,0.0,0.0,5796147.0,0.83,5772555.0,0.82
+FSL,2026-02-10 16:17:00,2026-02-06,2026-02-06,2026-02-06,Other,Off Market,Sell,Equity Shares,70151.0,0.0,0.0,0.0,0.0,5772555.0,0.83,5702404.0,0.81
+FSL,2026-02-13 16:11:00,2026-02-10,2026-02-10,2026-02-10,Other,Off Market,Sell,Equity Shares,168743.0,0.0,0.0,0.0,0.0,5624696.0,0.81,5455953.0,0.78
+FSL,2026-02-13 16:11:00,2026-02-10,2026-02-10,2026-02-10,Other,Market Sale,Sell,Equity Shares,77708.0,0.0,0.0,0.0,0.0,5702404.0,0.81,5624696.0,0.81
+FSL,2026-02-13 16:23:00,2026-02-11,2026-02-11,2026-02-11,Other,Market Purchase,Buy,Equity Shares,12348.0,0.0,0.0,0.0,0.0,5439433.0,0.78,5451781.0,0.78
+FSL,2026-02-13 16:23:00,2026-02-12,2026-02-12,2026-02-12,Other,Market Purchase,Buy,Equity Shares,225000.0,0.0,0.0,0.0,0.0,5451781.0,0.78,5676781.0,0.81
+FSL,2026-02-13 16:23:00,2026-02-11,2026-02-10,2026-02-10,Other,Market Sale,Sell,Equity Shares,16520.0,0.0,0.0,0.0,0.0,5455953.0,0.78,5439433.0,0.78
+FSL,2026-02-16 17:36:00,2026-02-16,2026-02-12,2026-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,86000.0,0.01,76000.0,0.01
+FSL,2026-02-16 17:36:00,2026-02-16,2026-02-13,2026-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,76000.0,0.01,66000.0,0.01
+FSL,2026-02-16 17:36:00,2026-02-16,2026-02-13,2026-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,66000.0,0.01,46000.0,0.01
+FSL,2026-02-19 16:00:00,2026-02-17,2026-02-13,2026-02-13,Other,Market Purchase,Buy,Equity Shares,170000.0,0.0,0.0,0.0,0.0,5676781.0,0.81,5846781.0,0.83
+FSL,2026-02-26 16:05:00,2026-02-24,2026-02-24,2026-02-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,46000.0,0.0,0.0,0.0,0.0,46000.0,0.01,,0.0
+FSL,2026-02-26 16:13:00,2026-02-24,2026-02-23,2026-02-23,Other,Market Purchase,Buy,Equity Shares,91674.0,0.0,0.0,0.0,0.0,5846781.0,0.83,5938455.0,0.85
+FSL,2026-02-26 16:13:00,2026-02-25,2026-02-24,2026-02-24,Other,Market Purchase,Buy,Equity Shares,340000.0,0.0,0.0,0.0,0.0,5938455.0,0.85,6278455.0,0.9
+FSL,2026-03-02 18:08:00,2026-02-27,2026-02-26,2026-02-26,Other,Market Purchase,Buy,Equity Shares,195000.0,0.0,0.0,0.0,0.0,6278455.0,0.9,6473455.0,0.92
+FSL,2026-03-02 18:08:00,2026-03-02,2026-02-27,2026-02-27,Other,Market Purchase,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,6473455.0,0.92,6623455.0,0.95
+FSL,2026-03-05 15:57:00,2026-03-02,2026-03-02,2026-03-02,Other,Market Sale,Sell,Equity Shares,10430.0,0.0,0.0,0.0,0.0,6623455.0,0.95,6613025.0,0.94
+FSL,2026-03-05 15:57:00,2026-03-02,2026-03-02,2026-03-02,Other,Off Market,Sell,Equity Shares,43824.0,0.0,0.0,0.0,0.0,6613025.0,0.94,6569201.0,0.94
+FSL,2026-03-16 18:27:00,2026-03-11,2026-03-11,2026-03-11,Other,Off Market,Sell,Equity Shares,35619.0,0.0,0.0,0.0,0.0,6569201.0,0.94,6533582.0,0.93
+FSL,2026-03-19 19:43:00,2026-03-04,2026-03-04,2026-03-04,Promoter Group,Market Sale,Sell,Equity Shares,19000.0,0.0,0.0,0.0,0.0,70345.0,0.01,51345.0,0.01
+FSL,2026-04-01 16:39:00,2026-03-23,2026-03-23,2026-03-23,Other,Market Sale,Sell,Equity Shares,18830.0,0.0,0.0,0.0,0.0,6533582.0,0.93,6514752.0,0.93
+FSL,2026-04-01 16:39:00,2026-03-23,2026-03-23,2026-03-23,Other,Off Market,Sell,Equity Shares,45332.0,0.0,0.0,0.0,0.0,6514752.0,0.93,6469420.0,0.92
+FSL,2026-04-01 16:42:00,2026-03-26,2026-03-25,2026-03-25,Other,Market Purchase,Buy,Equity Shares,163373.0,0.0,0.0,0.0,0.0,6469420.0,0.92,6632793.0,0.95

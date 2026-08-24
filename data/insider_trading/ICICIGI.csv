@@ -1,0 +1,501 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ICICIGI,2017-09-29 10:32:00,2017-09-28,2017-09-27,2017-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,5742.0,0.0,1742.0,0.0
+ICICIGI,2017-09-29 15:56:00,2017-09-28,2017-09-27,2017-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,18000.0,0.0,0.0,0.0,0.0,101400.0,0.02,83400.0,0.02
+ICICIGI,2017-10-04 14:36:00,2017-09-29,2017-09-27,2017-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8750.0,0.0,0.0,0.0,0.0,8750.0,0.0,,0.0
+ICICIGI,2017-11-02 17:37:00,2017-11-02,2017-09-27,2017-10-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,16000.0,0.0,13000.0,0.0
+ICICIGI,2017-11-14 12:37:00,2017-11-14,2017-11-13,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,13000.0,0.0,11000.0,0.0
+ICICIGI,2018-06-14 21:39:00,2018-06-06,2018-05-08,2018-05-08,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,15000.0,0.0,0.0,0.0,0.0,156000.0,0.03,156000.0,0.03
+ICICIGI,2018-07-24 12:56:00,2018-07-20,2018-07-20,2018-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,225400.0,0.05,200400.0,0.04
+ICICIGI,2018-07-24 12:56:00,2018-07-20,2018-07-19,2018-07-19,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,73000.0,0.01,73000.0,0.02
+ICICIGI,2018-07-24 12:56:00,2018-07-20,2018-07-19,2018-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,73000.0,0.01,72000.0,0.02
+ICICIGI,2018-07-24 12:56:00,2018-07-20,2018-07-20,2018-07-20,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3000.0,0.0,0.0,0.0,0.0,72000.0,0.01,72000.0,0.02
+ICICIGI,2018-07-24 12:56:00,2018-07-20,2018-07-20,2018-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,101825.0,0.02,99325.0,0.02
+ICICIGI,2018-07-24 12:56:00,2018-07-23,2018-05-24,2018-05-24,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,6000.0,0.0,0.0,0.0,0.0,13008.0,0.0,13008.0,0.0
+ICICIGI,2018-07-24 12:56:00,2018-07-20,2018-07-20,2018-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3008.0,0.0,0.0,0.0,0.0,93508.0,0.02,90500.0,0.02
+ICICIGI,2018-07-24 12:56:00,2018-07-23,2018-07-23,2018-07-23,Director,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,455000.0,0.1,430000.0,0.09
+ICICIGI,2018-07-24 12:56:00,2018-07-23,2018-07-20,2018-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,46900.0,0.01,36900.0,0.0
+ICICIGI,2018-07-24 12:56:00,2018-07-20,2018-07-20,2018-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,24587.0,0.0,0.0,0.0,0.0,107000.0,0.02,82413.0,0.01
+ICICIGI,2018-07-26 11:58:00,2018-07-25,2018-07-23,2018-07-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,,0.0
+ICICIGI,2018-07-26 11:58:00,2018-07-24,2018-07-23,2018-07-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,8712.0,0.0,5712.0,0.0
+ICICIGI,2018-07-26 11:58:00,2018-07-26,2018-07-23,2018-07-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,72000.0,0.01,70000.0,0.01
+ICICIGI,2018-07-26 11:58:00,2018-07-24,2018-07-24,2018-07-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,90500.0,0.02,88000.0,0.02
+ICICIGI,2018-07-26 11:58:00,2018-07-24,2018-07-24,2018-07-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,183500.0,0.04,178500.0,0.04
+ICICIGI,2018-07-26 11:58:00,2018-07-25,2018-07-24,2018-07-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1742.0,0.0,0.0,0.0,0.0,1742.0,0.0,,0.0
+ICICIGI,2018-07-26 11:58:00,2018-07-24,2018-07-24,2018-07-24,Key Managerial Personnel,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,13610.0,0.0,10610.0,0.0
+ICICIGI,2018-08-02 19:36:00,2018-08-01,2018-07-31,2018-07-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4999.0,0.0,0.0,0.0,0.0,88000.0,0.02,83001.0,0.02
+ICICIGI,2018-08-02 19:36:00,2018-08-01,2018-07-30,2018-07-30,Key Managerial Personnel,Revokation of Pledge,Pledge Revoke,Equity Shares,5750.0,0.0,0.0,0.0,0.0,10699.0,0.0,10699.0,0.0
+ICICIGI,2018-08-02 19:36:00,2018-07-31,2018-07-25,2018-07-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1868.0,0.0,0.0,0.0,0.0,99325.0,0.02,97457.0,0.02
+ICICIGI,2018-08-06 15:53:00,2018-08-02,2018-08-02,2018-08-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1632.0,0.0,0.0,0.0,0.0,97457.0,0.02,95825.0,0.02
+ICICIGI,2018-08-08 17:09:00,2018-08-06,2018-07-20,2018-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,413.0,0.0,0.0,0.0,0.0,82413.0,0.02,82000.0,0.02
+ICICIGI,2018-08-08 17:09:00,2018-08-06,2018-08-03,2018-08-03,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,39000.0,0.0,0.0,0.0,0.0,82000.0,0.02,82000.0,0.02
+ICICIGI,2018-08-20 19:32:00,2018-08-16,2018-08-16,2018-08-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,88000.0,0.02,108000.0,0.02
+ICICIGI,2018-08-20 19:32:00,2018-08-16,2018-08-16,2018-08-16,Director,ESOP,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,430000.0,0.09,505000.0,0.11
+ICICIGI,2018-08-20 19:32:00,2018-08-20,2018-08-17,2018-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,178500.0,0.04,173500.0,0.04
+ICICIGI,2018-08-20 19:32:00,2018-08-17,2018-08-17,2018-08-17,Immediate relative,Market Sale,Sell,Equity Shares,1280.0,0.0,0.0,0.0,0.0,5280.0,0.0,4000.0,0.0
+ICICIGI,2018-08-21 17:48:00,2018-08-20,2018-08-20,2018-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,200400.0,0.04,175400.0,0.03
+ICICIGI,2018-08-21 17:48:00,2018-08-20,2018-08-16,2018-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,95825.0,0.02,93825.0,0.02
+ICICIGI,2018-09-05 18:47:00,2018-09-05,2018-09-05,2018-09-05,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,6500.0,0.0,0.0,0.0,0.0,13008.0,0.0,13008.0,0.0
+ICICIGI,2018-09-05 18:47:00,2018-09-05,2018-07-23,2018-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,156000.0,0.03,154000.0,0.03
+ICICIGI,2018-09-26 18:45:00,2018-09-24,2018-09-24,2018-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,175400.0,0.04,150400.0,0.03
+ICICIGI,2018-09-26 18:45:00,2018-09-26,2018-09-24,2018-09-24,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2000.0,0.0,0.0,0.0,0.0,69000.0,0.02,69000.0,0.02
+ICICIGI,2018-09-26 18:45:00,2018-09-26,2018-09-05,2018-09-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,70000.0,0.02,69000.0,0.02
+ICICIGI,2018-10-01 21:37:00,2018-09-28,2018-09-26,2018-09-26,Director,Gift,Sell,Equity Shares,550000.0,0.0,0.0,0.0,0.0,941250.0,0.2,391250.0,0.08
+ICICIGI,2018-10-01 21:37:00,2018-09-28,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4557.0,0.0,0.0,0.0,0.0,77558.0,0.01,73001.0,0.01
+ICICIGI,2018-10-01 21:37:00,2018-09-28,2018-09-26,2018-09-26,Immediate relative,Gift,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,100000.0,0.02,200000.0,0.04
+ICICIGI,2018-10-01 21:37:00,2018-09-28,2018-09-26,2018-09-26,Immediate relative,Gift,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,100000.0,0.02,200000.0,0.04
+ICICIGI,2018-10-01 21:37:00,2018-09-28,2018-09-26,2018-09-26,Immediate relative,Gift,Buy,Equity Shares,350000.0,0.0,0.0,0.0,0.0,100089.0,0.02,450089.0,0.09
+ICICIGI,2018-10-05 20:05:00,2018-10-03,2018-10-03,2018-10-03,Director,Market Sale,Sell,Equity Shares,242250.0,0.0,0.0,0.0,0.0,391250.0,0.08,149000.0,0.03
+ICICIGI,2018-10-05 20:05:00,2018-10-03,2018-10-03,2018-10-03,Immediate relative,Gift,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,450089.0,0.09,550089.0,0.12
+ICICIGI,2018-10-05 20:05:00,2018-10-03,2018-10-03,2018-10-03,Director,Gift,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,149000.0,0.03,49000.0,0.01
+ICICIGI,2018-12-04 13:38:00,2018-12-03,2018-11-30,2018-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,24950.0,0.0,0.0,0.0,0.0,256000.0,0.06,231050.0,0.05
+ICICIGI,2018-12-05 09:58:00,2018-12-04,2018-12-03,2018-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,24990.0,0.0,0.0,0.0,0.0,231050.0,0.05,206060.0,0.05
+ICICIGI,2018-12-12 11:51:00,2018-12-11,2018-12-03,2018-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5345.0,0.0,0.0,0.0,0.0,12500.0,0.0,7155.0,0.0
+ICICIGI,2018-12-12 11:51:00,2018-12-11,2018-12-03,2018-12-03,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,5345.0,0.0,0.0,0.0,0.0,12500.0,0.0,12500.0,0.0
+ICICIGI,2018-12-12 11:51:00,2018-12-11,2018-12-11,2018-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,73001.0,0.02,63001.0,0.01
+ICICIGI,2018-12-13 19:01:00,2018-12-12,2018-12-03,2018-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5700.0,0.0,0.0,0.0,0.0,14640.0,0.0,8940.0,0.0
+ICICIGI,2019-01-03 20:47:00,2019-01-02,2018-11-19,2018-11-19,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,12000.0,0.0,0.0,0.0,0.0,61400.0,0.01,61400.0,0.01
+ICICIGI,2019-01-03 20:47:00,2019-01-02,2017-10-04,2017-10-04,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,6000.0,0.0,0.0,0.0,0.0,61400.0,0.01,61400.0,0.01
+ICICIGI,2019-01-03 20:47:00,2019-01-02,2018-12-04,2018-12-04,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2500.0,0.0,0.0,0.0,0.0,61400.0,0.01,61400.0,0.01
+ICICIGI,2019-01-08 22:07:00,2019-01-05,2018-12-18,2018-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,23222.0,0.01,21922.0,0.0
+ICICIGI,2019-02-05 17:03:00,2019-02-01,2019-01-31,2019-01-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,7155.0,0.0,5555.0,0.0
+ICICIGI,2019-02-05 17:03:00,2019-02-01,2018-12-03,2018-12-03,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,7155.0,0.0,0.0,0.0,0.0,7155.0,0.0,7155.0,0.0
+ICICIGI,2019-02-07 17:51:00,2019-02-07,2019-02-06,2019-02-06,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1400.0,0.0,0.0,0.0,0.0,61400.0,0.01,61400.0,0.01
+ICICIGI,2019-02-07 17:51:00,2019-02-06,2019-02-06,2019-02-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,62672.0,0.01,58672.0,0.01
+ICICIGI,2019-02-07 17:51:00,2019-02-05,2019-02-05,2019-02-05,Director,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,505000.0,0.11,480000.0,0.11
+ICICIGI,2019-02-22 20:03:00,2019-02-21,2019-02-19,2019-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,243700.0,0.05,243200.0,0.05
+ICICIGI,2019-02-22 20:03:00,2019-02-21,2019-02-14,2019-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,244700.0,0.05,244200.0,0.05
+ICICIGI,2019-02-22 20:03:00,2019-02-21,2019-02-14,2019-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,244200.0,0.05,243700.0,0.05
+ICICIGI,2019-02-26 19:36:00,2019-02-25,2019-02-22,2019-02-22,Director,ESOP,Buy,Equity Shares,56000.0,0.0,0.0,0.0,0.0,480000.0,0.11,536000.0,0.12
+ICICIGI,2019-02-26 19:36:00,2019-02-25,2019-02-22,2019-02-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,27500.0,0.0,0.0,0.0,0.0,311060.0,0.07,338560.0,0.07
+ICICIGI,2019-02-26 19:36:00,2019-02-25,2019-02-22,2019-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,18500.0,0.0,17500.0,0.0
+ICICIGI,2019-02-26 19:36:00,2019-02-25,2019-02-21,2019-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,19500.0,0.0,18500.0,0.0
+ICICIGI,2019-02-26 19:36:00,2019-02-25,2019-02-22,2019-02-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,70000.0,0.0,0.0,0.0,0.0,241060.0,0.05,311060.0,0.06
+ICICIGI,2019-02-26 19:36:00,2019-02-25,2019-02-22,2019-02-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,35000.0,0.0,0.0,0.0,0.0,206060.0,0.05,241060.0,0.05
+ICICIGI,2019-03-04 13:59:00,2019-02-28,2019-02-28,2019-02-28,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,37000.0,0.0,0.0,0.0,0.0,63001.0,0.01,63001.0,0.01
+ICICIGI,2019-03-06 18:53:00,2019-03-06,2019-03-06,2019-03-06,Director,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,536000.0,0.12,511000.0,0.11
+ICICIGI,2019-03-11 14:56:00,2019-03-08,2019-02-19,2019-02-19,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,5.0,0.0,0.0,0.0,0.0,243200.0,0.05,243205.0,0.05
+ICICIGI,2019-03-11 14:56:00,2019-03-08,2019-02-19,2019-02-19,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,500.0,0.0,0.0,0.0,0.0,243700.0,0.05,243700.0,0.05
+ICICIGI,2019-03-11 14:56:00,2019-03-08,2019-02-14,2019-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,244700.0,0.05,243700.0,0.05
+ICICIGI,2019-03-11 14:56:00,2019-03-08,2019-02-14,2019-02-14,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,244700.0,0.05,244700.0,0.05
+ICICIGI,2019-03-11 14:56:00,2019-03-08,2019-02-19,2019-02-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,243700.0,0.05,243200.0,0.05
+ICICIGI,2019-03-25 14:39:00,2019-03-22,2019-03-22,2019-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,36900.0,0.01,26900.0,0.01
+ICICIGI,2019-03-28 12:01:00,2019-03-26,2019-03-22,2019-03-22,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1226.0,0.0,0.0,0.0,0.0,242205.0,0.05,242205.0,0.05
+ICICIGI,2019-03-28 12:01:00,2019-03-26,2019-03-22,2019-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1226.0,0.0,0.0,0.0,0.0,242205.0,0.05,240979.0,0.05
+ICICIGI,2019-04-01 12:13:00,2019-03-28,2019-03-26,2019-03-26,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,240979.0,0.05,240979.0,0.05
+ICICIGI,2019-04-01 12:13:00,2019-03-28,2019-03-26,2019-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1226.0,0.0,0.0,0.0,0.0,240979.0,0.05,239753.0,0.05
+ICICIGI,2019-04-03 16:29:00,2019-04-02,2019-03-29,2019-03-29,Director,ESOP,Buy,Equity Shares,57000.0,0.0,0.0,0.0,0.0,511000.0,0.11,568000.0,0.13
+ICICIGI,2019-04-03 16:29:00,2019-04-01,2019-03-29,2019-03-29,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2000.0,0.0,0.0,0.0,0.0,239979.0,0.05,239979.0,0.05
+ICICIGI,2019-04-03 16:29:00,2019-04-01,2019-03-29,2019-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,239979.0,0.05,237979.0,0.05
+ICICIGI,2019-04-26 14:39:00,2019-04-25,2019-04-24,2019-04-24,Director,Market Sale,Sell,Equity Shares,16721.0,0.0,0.0,0.0,0.0,568000.0,0.13,551279.0,0.12
+ICICIGI,2019-04-26 14:39:00,2019-04-24,2019-04-24,2019-04-24,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,15500.0,0.0,0.0,0.0,0.0,152000.0,0.03,152000.0,0.03
+ICICIGI,2019-04-26 14:39:00,2019-04-25,2019-04-25,2019-04-25,Director,Market Sale,Sell,Equity Shares,24279.0,0.0,0.0,0.0,0.0,551279.0,0.12,527000.0,0.12
+ICICIGI,2019-05-02 20:18:00,2019-04-30,2019-04-30,2019-04-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8500.0,0.0,0.0,0.0,0.0,68500.0,0.02,60000.0,0.01
+ICICIGI,2019-05-02 20:18:00,2019-04-26,2019-04-26,2019-04-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13500.0,0.0,0.0,0.0,0.0,82000.0,0.02,68500.0,0.02
+ICICIGI,2019-05-06 18:50:00,2019-05-02,2018-08-20,2018-08-20,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,46400.0,0.0,0.0,0.0,0.0,93825.0,0.02,93825.0,0.02
+ICICIGI,2019-05-09 16:25:00,2019-05-09,2019-05-09,2019-05-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,69000.0,0.02,67000.0,0.01
+ICICIGI,2019-05-09 16:25:00,2019-05-07,2019-05-06,2019-05-06,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,9000.0,0.0,0.0,0.0,0.0,21922.0,0.0,21922.0,0.0
+ICICIGI,2019-05-09 16:25:00,2019-05-07,2019-05-06,2019-05-06,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1900.0,0.0,0.0,0.0,0.0,61400.0,0.01,61400.0,0.01
+ICICIGI,2019-05-09 16:25:00,2019-05-09,2019-05-09,2019-05-09,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,6500.0,0.0,0.0,0.0,0.0,18500.0,0.0,18500.0,0.0
+ICICIGI,2019-05-14 20:22:00,2019-05-10,2019-05-10,2019-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,58672.0,0.01,48672.0,0.01
+ICICIGI,2019-05-16 19:42:00,2019-05-14,2019-05-13,2019-05-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,18895.0,0.0,16895.0,0.0
+ICICIGI,2019-05-16 19:42:00,2019-05-14,2019-05-13,2019-05-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,19895.0,0.0,18895.0,0.0
+ICICIGI,2019-05-16 19:42:00,2019-05-15,2018-08-07,2018-08-07,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,7500.0,0.0,0.0,0.0,0.0,12500.0,0.0,12500.0,0.0
+ICICIGI,2019-05-16 19:42:00,2019-05-14,2019-05-10,2019-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,21922.0,0.0,20922.0,0.0
+ICICIGI,2019-05-16 19:42:00,2019-05-14,2019-05-10,2019-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1027.0,0.0,0.0,0.0,0.0,20922.0,0.0,19895.0,0.0
+ICICIGI,2019-05-21 17:24:00,2019-05-17,2019-05-17,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,67000.0,0.01,66000.0,0.01
+ICICIGI,2019-05-21 17:24:00,2019-05-17,2019-05-17,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10001.0,0.0,0.0,0.0,0.0,63001.0,0.01,53000.0,0.01
+ICICIGI,2019-05-21 17:24:00,2019-05-17,2019-05-16,2019-05-16,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,8000.0,0.0,0.0,0.0,0.0,67000.0,0.01,67000.0,0.01
+ICICIGI,2019-05-22 21:45:00,2019-05-20,2019-05-20,2019-05-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,48672.0,0.01,38672.0,0.01
+ICICIGI,2019-05-22 21:45:00,2019-05-21,2019-05-17,2019-05-17,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,12500.0,0.0,0.0,0.0,0.0,16895.0,0.0,16895.0,0.0
+ICICIGI,2019-05-27 20:04:00,2019-05-23,2019-05-22,2019-05-22,Director,ESOP,Buy,Equity Shares,97000.0,0.0,0.0,0.0,0.0,527000.0,0.12,624000.0,0.14
+ICICIGI,2019-05-27 20:04:00,2019-05-24,2019-05-23,2019-05-23,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,34250.0,0.0,0.0,0.0,0.0,38672.0,0.01,38672.0,0.01
+ICICIGI,2019-05-30 17:48:00,2019-05-28,2019-05-28,2019-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,38672.0,0.01,13672.0,0.0
+ICICIGI,2019-05-30 17:48:00,2019-05-30,2019-05-29,2019-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,8940.0,0.0,7440.0,0.0
+ICICIGI,2019-05-30 17:48:00,2019-05-29,2019-05-28,2019-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,38500.0,0.01,35000.0,0.01
+ICICIGI,2019-06-03 18:21:00,2019-05-30,2019-05-23,2019-05-23,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,237947.0,0.05,237947.0,0.05
+ICICIGI,2019-06-03 18:21:00,2019-05-30,2019-05-23,2019-05-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,237947.0,0.05,236947.0,0.05
+ICICIGI,2019-06-03 18:21:00,2019-05-30,2019-05-29,2019-05-29,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2000.0,0.0,0.0,0.0,0.0,236947.0,0.05,236947.0,0.05
+ICICIGI,2019-06-03 18:21:00,2019-05-30,2019-05-29,2019-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,236947.0,0.05,234947.0,0.05
+ICICIGI,2019-06-03 18:21:00,2019-05-30,2019-05-30,2019-05-30,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,23000.0,0.0,0.0,0.0,0.0,53000.0,0.01,53000.0,0.01
+ICICIGI,2019-06-03 18:21:00,2019-06-03,2019-05-31,2019-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,234947.0,0.05,229947.0,0.05
+ICICIGI,2019-06-03 18:21:00,2019-05-30,2019-05-22,2019-05-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,32.0,0.0,0.0,0.0,0.0,237979.0,0.05,237947.0,0.05
+ICICIGI,2019-06-03 18:21:00,2019-05-30,2019-05-22,2019-05-22,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,32.0,0.0,0.0,0.0,0.0,237979.0,0.05,237979.0,0.05
+ICICIGI,2019-06-03 18:21:00,2019-06-03,2019-05-31,2019-05-31,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,5000.0,0.0,0.0,0.0,0.0,234947.0,0.05,234947.0,0.05
+ICICIGI,2019-06-03 18:21:00,2019-05-31,2019-05-31,2019-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,13008.0,0.0,508.0,0.0
+ICICIGI,2019-06-03 18:21:00,2019-05-31,2019-05-31,2019-05-31,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,12500.0,0.0,0.0,0.0,0.0,13008.0,0.0,13008.0,0.0
+ICICIGI,2019-06-06 19:13:00,2019-06-03,2019-06-03,2019-06-03,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,5000.0,0.0,0.0,0.0,0.0,229947.0,0.05,229947.0,0.05
+ICICIGI,2019-06-06 19:13:00,2019-06-03,2019-06-03,2019-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,229947.0,0.05,224947.0,0.05
+ICICIGI,2019-06-06 19:13:00,2019-06-03,2019-05-30,2019-05-30,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,4000.0,0.0,0.0,0.0,0.0,35000.0,0.01,35000.0,0.01
+ICICIGI,2019-06-06 19:13:00,2019-06-03,2019-05-31,2019-05-31,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,4000.0,0.0,0.0,0.0,0.0,35000.0,0.01,35000.0,0.01
+ICICIGI,2019-06-06 19:13:00,2019-06-04,2019-05-28,2019-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,15500.0,0.0,15000.0,0.0
+ICICIGI,2019-06-06 19:13:00,2019-06-04,2019-06-03,2019-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,15000.0,0.0,14500.0,0.0
+ICICIGI,2019-06-06 19:13:00,2019-06-04,2019-06-03,2019-06-03,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,8000.0,0.0,0.0,0.0,0.0,35000.0,0.01,35000.0,0.01
+ICICIGI,2019-06-06 19:13:00,2019-06-04,2019-06-03,2019-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,50000.0,0.01,40000.0,0.01
+ICICIGI,2019-06-10 17:47:00,2019-06-06,2019-06-04,2019-06-04,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1200.0,0.0,0.0,0.0,0.0,35000.0,0.01,35000.0,0.01
+ICICIGI,2019-06-10 17:47:00,2019-06-06,2019-06-04,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14500.0,0.0,13500.0,0.0
+ICICIGI,2019-06-14 20:10:00,2019-06-12,2019-05-17,2019-05-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,850.0,0.0,0.0,0.0,0.0,18500.0,0.0,17650.0,0.0
+ICICIGI,2019-06-14 20:10:00,2019-06-12,2019-06-04,2019-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,17650.0,0.0,16850.0,0.0
+ICICIGI,2019-06-18 19:44:00,2019-06-18,2019-06-14,2019-06-14,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,50000.0,0.0,0.0,0.0,0.0,173500.0,0.04,173500.0,0.04
+ICICIGI,2019-06-18 19:44:00,2019-06-14,2019-06-13,2019-06-13,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,93500.0,0.0,0.0,0.0,0.0,173500.0,0.04,173500.0,0.04
+ICICIGI,2019-06-19 18:59:00,2019-06-18,2019-06-14,2019-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,107222.0,0.02,97222.0,0.02
+ICICIGI,2019-06-19 18:59:00,2019-06-18,2019-06-10,2019-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,117222.0,0.03,107222.0,0.02
+ICICIGI,2019-06-27 15:11:00,2019-06-25,2019-06-24,2019-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8010.0,0.0,0.0,0.0,0.0,97222.0,0.02,89212.0,0.02
+ICICIGI,2019-07-03 19:35:00,2019-07-01,2019-06-28,2019-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5184.0,0.0,4184.0,0.0
+ICICIGI,2019-07-24 20:41:00,2019-07-24,2019-05-28,2019-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,16895.0,0.0,16395.0,0.0
+ICICIGI,2019-07-24 20:41:00,2019-07-24,2019-07-23,2019-07-23,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,11500.0,0.0,0.0,0.0,0.0,64200.0,0.01,64200.0,0.01
+ICICIGI,2019-07-24 20:41:00,2019-07-23,2019-07-23,2019-07-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,65200.0,0.01,64200.0,0.01
+ICICIGI,2019-07-24 20:41:00,2019-07-24,2019-05-28,2019-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,16395.0,0.0,15895.0,0.0
+ICICIGI,2019-07-30 19:44:00,2019-07-29,2019-07-29,2019-07-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,61200.0,0.01,60200.0,0.01
+ICICIGI,2019-07-30 19:44:00,2019-07-27,2019-07-26,2019-07-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,64200.0,0.01,62200.0,0.01
+ICICIGI,2019-07-30 19:44:00,2019-07-29,2019-07-29,2019-07-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,62200.0,0.01,61200.0,0.01
+ICICIGI,2019-08-01 20:14:00,2019-07-31,2019-07-31,2019-07-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,173500.0,0.04,168500.0,0.04
+ICICIGI,2019-08-01 20:14:00,2019-07-31,2019-07-31,2019-07-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,168500.0,0.04,163500.0,0.04
+ICICIGI,2019-08-01 20:14:00,2019-08-01,2019-07-31,2019-07-31,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,7000.0,0.0,0.0,0.0,0.0,60200.0,0.01,60200.0,0.01
+ICICIGI,2019-08-08 19:12:00,2019-08-08,2019-08-07,2019-08-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,224947.0,0.05,218947.0,0.05
+ICICIGI,2019-08-08 19:12:00,2019-08-08,2019-08-07,2019-08-07,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3000.0,0.0,0.0,0.0,0.0,60200.0,0.01,60200.0,0.01
+ICICIGI,2019-08-08 19:12:00,2019-08-08,2019-08-07,2019-08-07,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,6000.0,0.0,0.0,0.0,0.0,224947.0,0.05,224947.0,0.05
+ICICIGI,2019-08-08 19:12:00,2019-08-07,2019-08-06,2019-08-06,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2000.0,0.0,0.0,0.0,0.0,60200.0,0.01,60200.0,0.01
+ICICIGI,2019-08-13 15:56:00,2019-08-12,2019-08-09,2019-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,26900.0,0.0,16900.0,0.0
+ICICIGI,2019-08-13 15:56:00,2019-08-09,2019-08-08,2019-08-08,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1500.0,0.0,0.0,0.0,0.0,218947.0,0.05,218947.0,0.05
+ICICIGI,2019-08-13 15:56:00,2019-08-09,2019-08-08,2019-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,218947.0,0.05,217447.0,0.05
+ICICIGI,2019-08-13 15:56:00,2019-08-09,2019-08-08,2019-08-08,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,60200.0,0.01,60200.0,0.01
+ICICIGI,2019-08-20 13:32:00,2019-08-16,2019-08-13,2019-08-13,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,4400.0,0.0,0.0,0.0,0.0,35000.0,0.01,35000.0,0.01
+ICICIGI,2019-08-23 20:57:00,2019-08-23,2019-08-22,2019-08-22,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,30562.0,0.0,0.0,0.0,0.0,60301.0,0.01,60301.0,0.01
+ICICIGI,2019-08-23 20:57:00,2019-08-22,2019-08-21,2019-08-21,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,4400.0,0.0,0.0,0.0,0.0,35000.0,0.01,35000.0,0.01
+ICICIGI,2019-08-23 20:57:00,2019-08-22,2019-08-20,2019-08-20,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,4400.0,0.0,0.0,0.0,0.0,35000.0,0.01,35000.0,0.01
+ICICIGI,2019-08-23 20:57:00,2019-08-21,2019-08-20,2019-08-20,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,20500.0,0.0,0.0,0.0,0.0,60301.0,0.01,60301.0,0.01
+ICICIGI,2019-08-23 20:57:00,2019-08-23,2019-08-22,2019-08-22,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,7600.0,0.0,0.0,0.0,0.0,35000.0,0.01,35000.0,0.01
+ICICIGI,2019-08-29 20:19:00,2019-08-29,2019-08-28,2019-08-28,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,34000.0,0.0,0.0,0.0,0.0,60200.0,0.01,60200.0,0.01
+ICICIGI,2019-08-29 20:19:00,2019-08-27,2019-08-27,2019-08-27,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3648.0,0.0,0.0,0.0,0.0,217447.0,0.05,217447.0,0.05
+ICICIGI,2019-08-29 20:19:00,2019-08-28,2019-08-28,2019-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,53000.0,0.01,50000.0,0.01
+ICICIGI,2019-08-29 20:19:00,2019-08-27,2019-08-27,2019-08-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3648.0,0.0,0.0,0.0,0.0,217447.0,0.05,213799.0,0.05
+ICICIGI,2019-08-30 19:49:00,2019-08-30,2019-08-28,2019-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,163500.0,0.04,158500.0,0.03
+ICICIGI,2019-08-30 19:49:00,2019-08-29,2019-08-28,2019-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,209447.0,0.05,207947.0,0.05
+ICICIGI,2019-08-30 19:49:00,2019-08-29,2019-08-28,2019-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4352.0,0.0,0.0,0.0,0.0,213799.0,0.05,209447.0,0.05
+ICICIGI,2019-08-30 19:49:00,2019-08-29,2019-08-28,2019-08-28,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,4352.0,0.0,0.0,0.0,0.0,213799.0,0.05,213799.0,0.05
+ICICIGI,2019-08-30 19:49:00,2019-08-29,2019-08-28,2019-08-28,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1500.0,0.0,0.0,0.0,0.0,209447.0,0.05,209447.0,0.05
+ICICIGI,2019-09-04 14:30:00,2019-08-30,2019-08-30,2019-08-30,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3000.0,0.0,0.0,0.0,0.0,207947.0,0.05,207947.0,0.05
+ICICIGI,2019-09-04 14:30:00,2019-08-30,2019-08-30,2019-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3975.0,0.0,0.0,0.0,0.0,89212.0,0.02,85237.0,0.02
+ICICIGI,2019-09-04 14:30:00,2019-08-30,2019-08-30,2019-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,92225.0,0.02,90225.0,0.02
+ICICIGI,2019-09-04 14:30:00,2019-09-03,2019-09-03,2019-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,90225.0,0.02,88225.0,0.02
+ICICIGI,2019-09-04 14:30:00,2019-08-30,2019-07-31,2019-07-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,93025.0,0.02,92225.0,0.02
+ICICIGI,2019-09-04 14:30:00,2019-08-30,2019-08-30,2019-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,207947.0,0.05,204947.0,0.05
+ICICIGI,2019-09-04 14:30:00,2019-09-03,2019-08-28,2019-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,35000.0,0.01,33400.0,0.01
+ICICIGI,2019-09-04 14:30:00,2019-09-03,2019-09-03,2019-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,85237.0,0.02,80237.0,0.02
+ICICIGI,2019-09-05 19:25:00,2019-09-04,2019-09-03,2019-09-03,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3000.0,0.0,0.0,0.0,0.0,50000.0,0.01,50000.0,0.01
+ICICIGI,2019-09-26 18:43:00,2019-09-25,2019-09-24,2019-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,1400.0,0.0,0.0,0.0,0.0,152000.0,0.03,153400.0,0.03
+ICICIGI,2019-09-26 18:43:00,2019-09-25,2019-09-24,2019-09-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,2850.0,0.0,0.0,0.0,0.0,,0.0,2850.0,0.0
+ICICIGI,2019-09-26 19:03:00,2019-09-26,2019-09-24,2019-09-24,Connected Person,ESOP,Buy,Equity Shares,7230.0,0.0,0.0,0.0,0.0,60000.0,0.01,67230.0,0.0
+ICICIGI,2019-10-22 19:06:00,2019-10-18,2019-10-16,2019-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1450.0,0.0,0.0,0.0,0.0,,0.0,1450.0,0.0
+ICICIGI,2019-10-22 19:06:00,2019-10-22,2019-10-22,2019-10-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2850.0,0.0,0.0,0.0,0.0,2850.0,0.0,,0.0
+ICICIGI,2019-10-25 17:22:00,2019-10-24,2019-10-22,2019-10-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13500.0,0.0,12500.0,0.0
+ICICIGI,2019-10-25 17:22:00,2019-10-25,2019-10-22,2019-10-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,153400.0,0.03,152900.0,0.03
+ICICIGI,2019-10-25 17:22:00,2019-10-25,2019-10-23,2019-10-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,152900.0,0.03,152400.0,0.03
+ICICIGI,2019-10-25 17:22:00,2019-10-24,2019-10-24,2019-10-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12500.0,0.0,11500.0,0.0
+ICICIGI,2019-11-04 18:52:00,2019-10-31,2019-10-30,2019-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,50000.0,0.01,47000.0,0.01
+ICICIGI,2019-11-07 19:21:00,2019-11-06,2019-11-05,2019-11-05,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,25000.0,0.0,0.0,0.0,0.0,88225.0,0.02,88225.0,0.02
+ICICIGI,2019-11-11 18:29:00,2019-11-08,2019-11-07,2019-11-07,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,6500.0,0.0,0.0,0.0,0.0,15195.0,0.0,15195.0,0.0
+ICICIGI,2019-11-28 18:48:00,2019-11-26,2019-11-22,2019-11-22,-,Revokation of Pledge,Pledge Revoke,Equity Shares,4400.0,0.0,0.0,0.0,0.0,33000.0,0.01,33000.0,0.01
+ICICIGI,2019-11-28 18:48:00,2019-10-30,2019-10-27,2019-10-27,-,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,33400.0,0.01,33000.0,0.01
+ICICIGI,2019-12-05 19:20:00,2019-12-03,2019-12-03,2019-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,15750.0,0.0,14650.0,0.0
+ICICIGI,2019-12-05 19:20:00,2019-12-03,2019-12-03,2019-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,16850.0,0.0,15750.0,0.0
+ICICIGI,2019-12-05 19:20:00,2019-12-03,2019-12-03,2019-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,12650.0,0.0,10650.0,0.0
+ICICIGI,2019-12-05 19:20:00,2019-12-03,2019-12-03,2019-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,14650.0,0.0,12650.0,0.0
+ICICIGI,2019-12-11 17:18:00,2019-12-10,2019-12-10,2019-12-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1228.0,0.0,0.0,0.0,0.0,10650.0,0.0,9422.0,0.0
+ICICIGI,2019-12-23 18:59:00,2019-12-20,2019-12-20,2019-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,9422.0,0.0,6422.0,0.0
+ICICIGI,2019-12-23 18:59:00,2019-12-20,2019-12-20,2019-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6422.0,0.0,3422.0,0.0
+ICICIGI,2019-12-23 18:59:00,2019-12-20,2019-12-20,2019-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3400.0,0.0,0.0,0.0,0.0,3422.0,0.0,22.0,0.0
+ICICIGI,2019-12-26 16:28:00,2019-12-24,2019-12-23,2019-12-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,5184.0,0.0,6684.0,0.0
+ICICIGI,2019-12-26 16:28:00,2019-12-24,2019-12-23,2019-12-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,1630.0,0.0,0.0,0.0,0.0,151900.0,0.03,153530.0,0.03
+ICICIGI,2019-12-26 16:28:00,2019-12-24,2019-10-25,2019-10-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,152400.0,0.03,151900.0,0.03
+ICICIGI,2019-12-26 16:28:00,2019-12-24,2019-12-23,2019-12-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,2250.0,0.0,0.0,0.0,0.0,12500.0,0.0,14750.0,0.0
+ICICIGI,2020-01-28 17:52:00,2020-01-24,2020-01-24,2020-01-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,16000.0,0.0,0.0,0.0,0.0,47000.0,0.01,31000.0,0.01
+ICICIGI,2020-03-03 12:40:00,2020-03-02,2020-02-28,2020-02-28,-,ESOP,Buy,Equity Shares,3480.0,0.0,0.0,0.0,0.0,,0.0,3480.0,0.0
+ICICIGI,2020-03-20 17:23:00,2020-03-20,2020-03-19,2020-03-19,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,10000.0,0.0,0.0,0.0,0.0,60301.0,0.01,60301.0,0.01
+ICICIGI,2020-03-26 16:36:00,2020-03-25,2020-03-16,2020-03-16,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,3480.0,0.0,0.0,0.0,0.0,9700.0,0.0,9700.0,0.0
+ICICIGI,2020-03-27 17:57:00,2020-03-26,2020-03-26,2020-03-26,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,1520.0,0.0,0.0,0.0,0.0,9700.0,0.0,9700.0,0.0
+ICICIGI,2020-04-01 21:21:00,2020-03-31,2020-03-30,2020-03-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,7500.0,0.0,0.0,0.0,0.0,108000.0,0.02,115500.0,0.03
+ICICIGI,2020-04-01 21:21:00,2020-04-01,2020-03-30,2020-03-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3480.0,0.0,0.0,0.0,0.0,9700.0,0.0,13180.0,0.0
+ICICIGI,2020-04-01 21:21:00,2020-03-31,2020-03-31,2020-03-31,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,7500.0,0.0,0.0,0.0,0.0,115500.0,0.03,115500.0,0.03
+ICICIGI,2020-05-14 11:56:00,2020-05-12,2020-05-11,2020-05-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,60301.0,0.01,59851.0,0.01
+ICICIGI,2020-05-14 11:56:00,2020-05-12,2020-05-11,2020-05-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,204947.0,0.05,207947.0,0.05
+ICICIGI,2020-05-14 11:56:00,2020-05-12,2020-05-12,2020-05-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,59401.0,0.01,58501.0,0.01
+ICICIGI,2020-05-14 11:56:00,2020-05-12,2020-05-11,2020-05-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,59851.0,0.01,59401.0,0.01
+ICICIGI,2020-05-20 20:21:00,2020-05-20,2020-05-19,2020-05-19,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,7500.0,0.0,0.0,0.0,0.0,115500.0,0.03,115500.0,0.03
+ICICIGI,2020-05-20 20:21:00,2020-05-20,2020-05-20,2020-05-20,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,6500.0,0.0,0.0,0.0,0.0,15195.0,0.0,15195.0,0.0
+ICICIGI,2020-06-04 18:46:00,2020-06-03,2020-06-03,2020-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,14493.0,0.0,14193.0,0.0
+ICICIGI,2020-06-04 18:46:00,2020-06-03,2020-06-02,2020-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,702.0,0.0,0.0,0.0,0.0,15195.0,0.0,14493.0,0.0
+ICICIGI,2020-06-16 16:44:00,2020-06-15,2020-06-15,2020-06-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,158500.0,0.03,155500.0,0.03
+ICICIGI,2020-06-17 15:52:00,2020-06-16,2020-06-16,2020-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,155500.0,0.03,153500.0,0.03
+ICICIGI,2020-06-20 13:39:00,2020-06-19,2020-06-19,2020-06-19,Promoters,Market Sale,Sell,Equity Shares,18000000.0,0.0,0.0,0.0,0.0,253843806.0,55.86,235843806.0,51.89
+ICICIGI,2020-08-11 21:58:00,2020-08-10,2020-08-10,2020-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,11500.0,0.0,8000.0,0.0
+ICICIGI,2020-08-20 18:45:00,2020-08-19,2020-08-19,2020-08-19,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,2850.0,0.0,0.0,0.0,0.0,2850.0,0.0,2850.0,0.0
+ICICIGI,2020-08-20 18:45:00,2020-08-19,2020-08-17,2020-08-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,3480.0,0.0,0.0,0.0,0.0,,0.0,3480.0,0.0
+ICICIGI,2020-08-20 18:45:00,2020-08-18,2020-08-17,2020-08-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2850.0,0.0,0.0,0.0,0.0,,0.0,2850.0,0.0
+ICICIGI,2020-08-20 18:56:00,2020-08-18,2020-08-17,2020-08-17,-,ESOP,Buy,Equity Shares,1590.0,0.0,0.0,0.0,0.0,17500.0,0.0,19090.0,0.0
+ICICIGI,2020-09-15 20:03:00,2020-09-15,2020-09-11,2020-09-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2150.0,0.0,0.0,0.0,0.0,14750.0,0.0,16900.0,0.0
+ICICIGI,2020-09-15 20:03:00,2020-09-14,2020-09-11,2020-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,540.0,0.0,0.0,0.0,0.0,58501.0,0.01,57961.0,0.01
+ICICIGI,2020-09-15 20:03:00,2020-09-14,2020-09-11,2020-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,57961.0,0.01,57511.0,0.01
+ICICIGI,2020-09-15 20:03:00,2020-09-15,2020-09-11,2020-09-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,4684.0,0.0,6184.0,0.0
+ICICIGI,2020-09-15 20:03:00,2020-09-14,2020-09-11,2020-09-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2100.0,0.0,0.0,0.0,0.0,156560.0,0.03,158660.0,0.03
+ICICIGI,2020-09-15 20:03:00,2020-09-14,2020-09-11,2020-09-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3030.0,0.0,0.0,0.0,0.0,153530.0,0.03,156560.0,0.03
+ICICIGI,2020-10-05 16:34:00,2020-10-01,2020-09-30,2020-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1950.0,0.0,0.0,0.0,0.0,2980.0,0.0,1030.0,0.0
+ICICIGI,2020-10-05 16:34:00,2020-10-01,2020-09-30,2020-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,18.0,0.0,0.0,0.0,0.0,1030.0,0.0,1012.0,0.0
+ICICIGI,2020-10-05 16:34:00,2020-10-01,2020-09-30,2020-09-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1130.0,0.0,0.0,0.0,0.0,1012.0,0.0,2142.0,0.0
+ICICIGI,2020-10-05 16:34:00,2020-10-01,2020-08-10,2020-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5.0,0.0,0.0,0.0,0.0,207947.0,0.05,207942.0,0.05
+ICICIGI,2020-10-05 16:34:00,2020-10-01,2020-09-30,2020-09-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2400.0,0.0,0.0,0.0,0.0,207942.0,0.05,210342.0,0.05
+ICICIGI,2020-10-05 16:34:00,2020-10-01,2020-09-30,2020-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3480.0,0.0,2980.0,0.0
+ICICIGI,2020-11-04 18:16:00,2020-11-03,2020-11-03,2020-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1450.0,0.0,0.0,0.0,0.0,1450.0,0.0,,0.0
+ICICIGI,2020-11-13 16:12:00,2020-11-11,2020-11-09,2020-11-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,3180.0,0.0,0.0,0.0,0.0,,0.0,3180.0,0.0
+ICICIGI,2020-11-23 12:55:00,2020-11-20,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,70237.0,0.02,65237.0,0.01
+ICICIGI,2020-11-23 12:55:00,2020-11-20,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,65237.0,0.01,60237.0,0.01
+ICICIGI,2020-11-23 12:55:00,2020-11-20,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,60237.0,0.01,55237.0,0.01
+ICICIGI,2020-11-23 12:55:00,2020-11-19,2020-11-19,2020-11-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2142.0,0.0,1142.0,0.0
+ICICIGI,2020-11-23 12:55:00,2020-11-20,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,75237.0,0.02,70237.0,0.02
+ICICIGI,2020-11-23 12:55:00,2020-11-20,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,80237.0,0.02,75237.0,0.02
+ICICIGI,2020-11-27 16:38:00,2020-11-25,2020-11-25,2020-11-25,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1150.0,0.0,0.0,0.0,0.0,2850.0,0.0,2850.0,0.0
+ICICIGI,2020-11-27 16:38:00,2020-11-26,2020-11-26,2020-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1150.0,0.0,0.0,0.0,0.0,2850.0,0.0,1700.0,0.0
+ICICIGI,2020-11-27 16:38:00,2020-11-26,2020-11-26,2020-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,153500.0,0.03,151500.0,0.03
+ICICIGI,2020-11-27 16:38:00,2020-11-26,2020-11-26,2020-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,151500.0,0.03,149500.0,0.03
+ICICIGI,2020-11-27 16:38:00,2020-11-26,2020-11-26,2020-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1142.0,0.0,0.0,0.0,0.0,1142.0,0.0,,0.0
+ICICIGI,2020-11-27 16:38:00,2020-11-26,2020-11-26,2020-11-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,253250.0,0.06,228250.0,0.05
+ICICIGI,2020-11-30 12:01:00,2020-11-26,2020-11-26,2020-11-26,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,59700.0,0.01,58700.0,0.01
+ICICIGI,2020-11-30 12:01:00,2020-11-26,2020-11-26,2020-11-26,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,58700.0,0.01,57700.0,0.01
+ICICIGI,2020-12-02 19:31:00,2020-12-01,2020-12-01,2020-12-01,Immediate relative,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4000.0,0.0,,0.0
+ICICIGI,2020-12-02 19:31:00,2020-12-01,2020-12-01,2020-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,7440.0,0.0,4440.0,0.0
+ICICIGI,2020-12-02 19:31:00,2020-12-01,2020-12-01,2020-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,88225.0,0.02,87225.0,0.02
+ICICIGI,2020-12-02 19:31:00,2020-12-01,2020-12-01,2020-12-01,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1700.0,0.0,0.0,0.0,0.0,1700.0,0.0,1700.0,0.0
+ICICIGI,2020-12-03 20:11:00,2020-12-03,2020-12-02,2020-12-02,Key Managerial Personnel,Revokation of Pledge,Pledge Revoke,Equity Shares,86400.0,0.0,0.0,0.0,0.0,228250.0,0.05,228250.0,0.05
+ICICIGI,2020-12-03 20:11:00,2020-12-02,2020-12-02,2020-12-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,61400.0,0.01,60000.0,0.01
+ICICIGI,2020-12-04 16:09:00,2020-12-03,2020-12-02,2020-12-02,-,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,57700.0,0.0,55700.0,0.0
+ICICIGI,2020-12-10 18:43:00,2020-12-09,2020-12-07,2020-12-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,1550.0,0.0,0.0,0.0,0.0,,0.0,1550.0,0.0
+ICICIGI,2020-12-15 18:15:00,2020-12-14,2020-12-11,2020-12-11,Key Managerial Personnel,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10000.0,0.0,11000.0,0.0
+ICICIGI,2020-12-15 18:15:00,2020-12-14,2020-12-14,2020-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4860.0,0.0,0.0,0.0,0.0,4882.0,0.0,22.0,0.0
+ICICIGI,2020-12-15 18:15:00,2020-12-14,2020-12-14,2020-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4000.0,0.0,,0.0
+ICICIGI,2020-12-15 18:15:00,2020-12-14,2020-12-14,2020-12-14,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,9690.0,0.0,0.0,0.0,0.0,9690.0,0.0,9690.0,0.0
+ICICIGI,2020-12-15 18:15:00,2020-12-14,2020-12-11,2020-12-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3990.0,0.0,0.0,0.0,0.0,5700.0,0.0,9690.0,0.0
+ICICIGI,2020-12-15 18:15:00,2020-12-14,2020-12-11,2020-12-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,5700.0,0.0,0.0,0.0,0.0,,0.0,5700.0,0.0
+ICICIGI,2020-12-15 18:15:00,2020-12-14,2020-11-26,2020-11-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,610.0,0.0,0.0,0.0,0.0,10610.0,0.0,10000.0,0.0
+ICICIGI,2020-12-15 18:15:00,2020-12-14,2020-12-11,2020-12-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+ICICIGI,2020-12-15 18:15:00,2020-12-14,2020-12-11,2020-12-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,4860.0,0.0,0.0,0.0,0.0,22.0,0.0,4882.0,0.0
+ICICIGI,2020-12-21 19:49:00,2020-12-18,2020-12-17,2020-12-17,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,6690.0,0.0,0.0,0.0,0.0,9690.0,0.0,9690.0,0.0
+ICICIGI,2020-12-21 19:49:00,2020-12-21,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10695.0,0.0,9695.0,0.0
+ICICIGI,2020-12-21 19:49:00,2020-12-21,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,12195.0,0.0,10695.0,0.0
+ICICIGI,2020-12-21 19:49:00,2020-12-21,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,13695.0,0.0,12195.0,0.0
+ICICIGI,2020-12-21 19:49:00,2020-12-18,2020-12-17,2020-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6690.0,0.0,0.0,0.0,0.0,9690.0,0.0,3000.0,0.0
+ICICIGI,2020-12-21 19:49:00,2020-12-21,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,41744.0,0.0,31744.0,0.0
+ICICIGI,2020-12-23 18:20:00,2020-12-22,2020-12-21,2020-12-21,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,0.0
+ICICIGI,2020-12-29 18:25:00,2020-12-24,2020-12-24,2020-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2950.0,0.0,0.0,0.0,0.0,3000.0,0.0,50.0,0.0
+ICICIGI,2020-12-29 18:25:00,2020-12-24,2020-12-23,2020-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,210342.0,0.05,208342.0,0.05
+ICICIGI,2020-12-29 18:25:00,2020-12-24,2020-12-24,2020-12-24,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,208342.0,0.05,208342.0,0.05
+ICICIGI,2020-12-29 18:25:00,2020-12-24,2020-12-24,2020-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,208342.0,0.05,204342.0,0.04
+ICICIGI,2020-12-29 18:25:00,2020-12-28,2020-12-24,2020-12-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,31744.0,0.01,29744.0,0.01
+ICICIGI,2020-12-29 18:25:00,2020-12-28,2020-12-28,2020-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1049.0,0.0,0.0,0.0,0.0,5049.0,0.0,4000.0,0.0
+ICICIGI,2020-12-29 18:25:00,2020-12-24,2020-12-23,2020-12-23,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2000.0,0.0,0.0,0.0,0.0,210342.0,0.05,210342.0,0.05
+ICICIGI,2020-12-30 18:29:00,2020-12-29,2020-12-29,2020-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,57511.0,0.01,52511.0,0.01
+ICICIGI,2020-12-30 18:29:00,2020-12-29,2020-12-29,2020-12-29,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,40000.0,0.0,0.0,0.0,0.0,200342.0,0.04,200342.0,0.04
+ICICIGI,2020-12-30 18:29:00,2020-12-29,2020-12-29,2020-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,203342.0,0.04,200342.0,0.04
+ICICIGI,2020-12-30 18:29:00,2020-12-29,2020-12-28,2020-12-28,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,153242.0,0.0,0.0,0.0,0.0,204342.0,0.04,204342.0,0.04
+ICICIGI,2020-12-30 18:29:00,2020-12-29,2020-12-28,2020-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,204342.0,0.04,203342.0,0.04
+ICICIGI,2021-01-04 14:50:00,2020-12-31,2020-12-31,2020-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,12180.0,0.0,11180.0,0.0
+ICICIGI,2021-01-04 14:50:00,2020-12-31,2020-12-30,2020-12-30,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,5000.0,0.0,0.0,0.0,0.0,12180.0,0.0,12180.0,0.0
+ICICIGI,2021-01-04 14:50:00,2020-12-31,2020-12-31,2020-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,52511.0,0.01,50511.0,0.01
+ICICIGI,2021-01-04 14:50:00,2020-12-31,2020-12-29,2020-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13180.0,0.0,12180.0,0.0
+ICICIGI,2021-01-04 15:00:00,2020-12-31,2020-12-30,2020-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,200342.0,0.04,192342.0,0.04
+ICICIGI,2021-01-04 15:00:00,2020-12-31,2020-12-31,2020-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,192342.0,0.04,190342.0,0.04
+ICICIGI,2021-01-07 18:00:00,2021-01-05,2021-01-05,2021-01-05,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0
+ICICIGI,2021-01-07 18:00:00,2021-01-06,2021-01-05,2021-01-05,Employees/Designated Employees,ESOP,Buy,Equity Shares,6960.0,0.0,0.0,0.0,0.0,,0.0,6960.0,0.0
+ICICIGI,2021-01-08 18:58:00,2021-01-07,2021-01-06,2021-01-06,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,6960.0,0.0,0.0,0.0,0.0,6960.0,0.0,6960.0,0.0
+ICICIGI,2021-01-12 10:57:00,2021-01-11,2021-01-09,2021-01-09,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,0.0
+ICICIGI,2021-01-29 18:31:00,2021-01-27,2021-01-25,2021-01-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,2350.0,0.0,0.0,0.0,0.0,,0.0,2350.0,0.0
+ICICIGI,2021-01-29 18:31:00,2021-01-28,2021-01-25,2021-01-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,,0.0,1500.0,0.0
+ICICIGI,2021-02-09 15:35:00,2021-02-05,2021-02-04,2021-02-04,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,55700.0,0.0,54700.0,0.0
+ICICIGI,2021-02-10 12:27:00,2021-02-08,2021-02-03,2021-02-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,1200.0,0.0,,0.0
+ICICIGI,2021-02-10 12:27:00,2021-02-08,2021-02-01,2021-02-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1500.0,0.0,1200.0,0.0
+ICICIGI,2021-02-11 18:13:00,2021-02-10,2021-02-09,2021-02-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,5700.0,0.0,0.0,0.0,0.0,,0.0,5700.0,0.0
+ICICIGI,2021-02-11 18:13:00,2021-02-11,2021-01-05,2021-01-05,Employees/Designated Employees,ESOP,Buy,Equity Shares,900.0,0.0,0.0,0.0,0.0,,0.0,900.0,0.0
+ICICIGI,2021-02-11 18:13:00,2021-02-10,2021-02-09,2021-02-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+ICICIGI,2021-02-11 18:13:00,2021-02-11,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,900.0,0.0,,0.0
+ICICIGI,2021-02-12 18:30:00,2021-02-11,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,10180.0,0.0,8180.0,0.0
+ICICIGI,2021-02-12 18:30:00,2021-02-11,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,11180.0,0.0,10180.0,0.0
+ICICIGI,2021-02-17 18:33:00,2021-02-17,2021-02-17,2021-02-17,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,54700.0,0.0,53700.0,0.0
+ICICIGI,2021-02-18 13:09:00,2021-02-17,2021-02-17,2021-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,,0.0
+ICICIGI,2021-02-18 13:09:00,2021-02-17,2021-02-16,2021-02-16,Director,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+ICICIGI,2021-02-18 13:09:00,2021-02-17,2021-02-16,2021-02-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+ICICIGI,2021-02-18 13:09:00,2021-02-17,2021-02-16,2021-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,5000.0,0.0,3500.0,0.0
+ICICIGI,2021-02-18 18:42:00,2021-02-18,2021-02-12,2021-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5700.0,0.0,3200.0,0.0
+ICICIGI,2021-02-18 18:42:00,2021-02-18,2021-02-12,2021-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3200.0,0.0,0.0,0.0,0.0,3200.0,0.0,,0.0
+ICICIGI,2021-02-18 18:42:00,2021-02-18,2021-02-17,2021-02-17,Director,Market Sale,Sell,Equity Shares,7503.0,0.0,0.0,0.0,0.0,10000.0,0.0,2497.0,0.0
+ICICIGI,2021-02-18 18:42:00,2021-02-18,2021-02-18,2021-02-18,Director,Market Sale,Sell,Equity Shares,2497.0,0.0,0.0,0.0,0.0,2497.0,0.0,,0.0
+ICICIGI,2021-03-02 19:18:00,2021-03-02,2021-03-01,2021-03-01,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,10800.0,0.0,0.0,0.0,0.0,10800.0,0.0,10800.0,0.0
+ICICIGI,2021-03-02 19:18:00,2021-03-01,2021-02-26,2021-02-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,10800.0,0.0,0.0,0.0,0.0,,0.0,10800.0,0.0
+ICICIGI,2021-03-02 19:18:00,2021-03-01,2021-02-26,2021-02-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,6960.0,0.0,0.0,0.0,0.0,,0.0,6960.0,0.0
+ICICIGI,2021-03-12 14:56:00,2021-03-12,2021-03-12,2021-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5800.0,0.0,0.0,0.0,0.0,5800.0,0.0,,0.0
+ICICIGI,2021-03-12 14:56:00,2021-03-10,2021-03-09,2021-03-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,4300.0,0.0,0.0,0.0,0.0,1700.0,0.0,6000.0,0.0
+ICICIGI,2021-03-12 14:56:00,2021-03-12,2021-03-12,2021-03-12,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10800.0,0.0,10800.0,0.0
+ICICIGI,2021-03-12 14:56:00,2021-03-12,2021-03-12,2021-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10800.0,0.0,5800.0,0.0
+ICICIGI,2021-03-12 14:56:00,2021-03-12,2021-03-12,2021-03-12,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,5800.0,0.0,0.0,0.0,0.0,5800.0,0.0,5800.0,0.0
+ICICIGI,2021-03-16 12:18:00,2021-03-15,2021-03-15,2021-03-15,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,54700.0,0.0,53700.0,0.0
+ICICIGI,2021-03-16 15:45:00,2021-03-13,2021-03-12,2021-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6960.0,0.0,0.0,0.0,0.0,6960.0,0.0,,0.0
+ICICIGI,2021-04-05 18:12:00,2021-04-02,2021-03-31,2021-03-31,Employees/Designated Employees,ESOP,Buy,Equity Shares,7440.0,0.0,0.0,0.0,0.0,,0.0,7440.0,0.0
+ICICIGI,2021-04-15 18:42:00,2021-04-14,2021-04-13,2021-04-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6000.0,0.0,9000.0,0.0
+ICICIGI,2021-04-27 19:32:00,2021-04-26,2021-04-26,2021-04-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,40000.0,0.0,30000.0,0.0
+ICICIGI,2021-05-04 18:42:00,2021-05-03,2021-05-03,2021-05-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3500.0,0.0,2500.0,0.0
+ICICIGI,2021-05-04 18:42:00,2021-05-03,2021-05-03,2021-05-03,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6960.0,0.0,6960.0,0.0
+ICICIGI,2021-05-04 18:42:00,2021-05-03,2021-05-03,2021-05-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6960.0,0.0,5960.0,0.0
+ICICIGI,2021-05-07 16:24:00,2021-05-06,2021-05-06,2021-05-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5440.0,0.0,3440.0,0.0
+ICICIGI,2021-05-07 16:24:00,2021-05-06,2021-05-06,2021-05-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,7440.0,0.0,5440.0,0.0
+ICICIGI,2021-05-10 18:05:00,2021-05-10,2021-05-10,2021-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,4440.0,0.0,3740.0,0.0
+ICICIGI,2021-05-10 18:05:00,2021-05-10,2021-05-07,2021-05-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,3480.0,0.0,0.0,0.0,0.0,8180.0,0.0,11660.0,0.0
+ICICIGI,2021-05-18 13:36:00,2021-05-17,2021-05-10,2021-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,800.0,0.0,,0.0
+ICICIGI,2021-05-21 12:21:00,2021-05-20,2021-05-19,2021-05-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,11660.0,0.0,7660.0,0.0
+ICICIGI,2021-05-24 15:08:00,2021-05-21,2021-05-20,2021-05-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,157660.0,0.03,156160.0,0.03
+ICICIGI,2021-05-24 15:08:00,2021-05-21,2021-05-14,2021-05-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,158160.0,0.03,157660.0,0.03
+ICICIGI,2021-05-26 16:21:00,2021-05-25,2021-05-25,2021-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0,1500.0,0.0
+ICICIGI,2021-05-27 16:23:00,2021-05-26,2021-05-26,2021-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,7660.0,0.0,4660.0,0.0
+ICICIGI,2021-05-31 18:07:00,2021-05-28,2021-05-21,2021-05-21,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,200.0,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,0.0
+ICICIGI,2021-05-31 18:07:00,2021-05-28,2021-05-21,2021-05-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3000.0,0.0,2800.0,0.0
+ICICIGI,2021-05-31 18:07:00,2021-05-28,2021-05-28,2021-05-28,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,200.0,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0,0.0
+ICICIGI,2021-05-31 18:07:00,2021-05-28,2021-05-28,2021-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2800.0,0.0,2600.0,0.0
+ICICIGI,2021-06-02 17:07:00,2021-06-02,2021-06-01,2021-06-01,Key Managerial Personnel,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10350.0,0.0,11350.0,0.0
+ICICIGI,2021-06-02 17:07:00,2021-06-02,2021-05-10,2021-05-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,11000.0,0.0,10350.0,0.0
+ICICIGI,2021-06-02 17:07:00,2021-06-02,2021-06-01,2021-06-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,3990.0,0.0,0.0,0.0,0.0,4660.0,0.0,8650.0,0.0
+ICICIGI,2021-06-02 17:07:00,2021-06-02,2021-06-01,2021-06-01,Director,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+ICICIGI,2021-06-02 17:07:00,2021-06-01,2021-06-01,2021-06-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,5240.0,0.0,0.0,0.0,0.0,,0.0,5240.0,0.0
+ICICIGI,2021-06-10 17:02:00,2021-06-10,2021-06-09,2021-06-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,2000.0,0.0
+ICICIGI,2021-06-10 17:02:00,2021-06-10,2021-06-09,2021-06-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,3990.0,0.0,0.0,0.0,0.0,8650.0,0.0,12640.0,0.0
+ICICIGI,2021-06-10 17:02:00,2021-06-09,2021-06-09,2021-06-09,Employees/Designated Employees,ESOP,Buy,Equity Shares,15420.0,0.0,0.0,0.0,0.0,,0.0,15420.0,0.0
+ICICIGI,2021-06-11 16:35:00,2021-06-10,2021-06-10,2021-06-10,Director,Market Sale,Sell,Equity Shares,5871.0,0.0,0.0,0.0,0.0,10000.0,0.0,4129.0,0.0
+ICICIGI,2021-06-11 16:35:00,2021-06-10,2021-06-10,2021-06-10,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,15420.0,0.0,0.0,0.0,0.0,15420.0,0.0,15420.0,0.0
+ICICIGI,2021-06-11 16:35:00,2021-06-11,2021-06-11,2021-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5240.0,0.0,0.0,0.0,0.0,5240.0,0.0,,0.0
+ICICIGI,2021-06-14 14:55:00,2021-06-11,2021-06-11,2021-06-11,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,15420.0,0.0,0.0,0.0,0.0,15420.0,0.0,15420.0,0.0
+ICICIGI,2021-06-14 14:55:00,2021-06-11,2021-06-11,2021-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15420.0,0.0,0.0,0.0,0.0,15420.0,0.0,,0.0
+ICICIGI,2021-06-14 14:55:00,2021-06-11,2021-06-11,2021-06-11,Director,Market Sale,Sell,Equity Shares,4129.0,0.0,0.0,0.0,0.0,4129.0,0.0,,0.0
+ICICIGI,2021-06-17 18:31:00,2021-06-16,2021-06-16,2021-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,29744.0,0.01,28744.0,0.01
+ICICIGI,2021-06-17 18:31:00,2021-06-16,2021-06-16,2021-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,254.0,0.0,0.0,0.0,0.0,1850.0,0.0,1596.0,0.0
+ICICIGI,2021-06-17 18:31:00,2021-06-16,2021-05-21,2021-05-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2350.0,0.0,1850.0,0.0
+ICICIGI,2021-06-17 18:31:00,2021-06-16,2021-06-15,2021-06-15,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2450.0,0.0,0.0,0.0,0.0,2450.0,0.0,2450.0,0.0
+ICICIGI,2021-06-17 18:31:00,2021-06-16,2021-06-11,2021-06-11,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,150.0,0.0,0.0,0.0,0.0,2600.0,0.0,2600.0,0.0
+ICICIGI,2021-06-17 18:31:00,2021-06-16,2021-06-16,2021-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,155660.0,0.03,155160.0,0.03
+ICICIGI,2021-06-17 18:31:00,2021-06-16,2021-06-14,2021-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,156160.0,0.03,155660.0,0.03
+ICICIGI,2021-06-17 18:31:00,2021-06-16,2021-06-16,2021-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,5960.0,0.0,4160.0,0.0
+ICICIGI,2021-06-17 18:31:00,2021-06-16,2021-06-16,2021-06-16,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1800.0,0.0,0.0,0.0,0.0,5960.0,0.0,5960.0,0.0
+ICICIGI,2021-06-17 18:31:00,2021-06-16,2021-06-11,2021-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,2600.0,0.0,2450.0,0.0
+ICICIGI,2021-06-24 17:25:00,2021-06-23,2021-06-22,2021-06-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,5700.0,0.0,0.0,0.0,0.0,,0.0,5700.0,0.0
+ICICIGI,2021-06-24 17:25:00,2021-06-23,2021-06-22,2021-06-22,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,3000.0,0.0
+ICICIGI,2021-06-28 17:26:00,2021-06-28,2021-06-25,2021-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,55237.0,0.01,52237.0,0.01
+ICICIGI,2021-06-28 17:26:00,2021-06-25,2021-06-24,2021-06-24,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,4160.0,0.0,0.0,0.0,0.0,4160.0,0.0,4160.0,0.0
+ICICIGI,2021-06-28 17:26:00,2021-06-28,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,52237.0,0.01,50237.0,0.01
+ICICIGI,2021-06-29 15:15:00,2021-06-28,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,47237.0,0.01,45237.0,0.01
+ICICIGI,2021-06-29 15:15:00,2021-06-28,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,50237.0,0.01,47237.0,0.01
+ICICIGI,2021-06-29 15:15:00,2021-06-28,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1096.0,0.0,596.0,0.0
+ICICIGI,2021-06-29 15:15:00,2021-06-28,2021-06-16,2021-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,155160.0,0.03,154660.0,0.03
+ICICIGI,2021-06-29 15:15:00,2021-06-28,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1596.0,0.0,1096.0,0.0
+ICICIGI,2021-06-29 15:15:00,2021-06-28,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,154660.0,0.03,154160.0,0.03
+ICICIGI,2021-06-29 15:15:00,2021-06-28,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,28744.0,0.01,27744.0,0.01
+ICICIGI,2021-07-01 17:42:00,2021-06-30,2021-06-30,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6640.0,0.0,0.0,0.0,0.0,6640.0,0.0,,0.0
+ICICIGI,2021-07-01 17:42:00,2021-06-30,2021-06-29,2021-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,12640.0,0.0,6640.0,0.0
+ICICIGI,2021-07-29 16:14:00,2021-07-28,2021-07-27,2021-07-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5700.0,0.0,0.0,0.0,0.0,5700.0,0.0,,0.0
+ICICIGI,2021-08-09 19:14:00,2021-08-06,2021-08-05,2021-08-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,50511.0,0.01,48511.0,0.01
+ICICIGI,2021-08-11 17:24:00,2021-08-10,2021-08-10,2021-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2.0,0.0,0.0,0.0,0.0,46511.0,0.01,46509.0,0.01
+ICICIGI,2021-08-11 17:24:00,2021-08-10,2021-08-10,2021-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,48511.0,0.01,46511.0,0.01
+ICICIGI,2021-08-13 17:20:00,2021-08-12,2021-08-12,2021-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,41009.0,0.01,40009.0,0.01
+ICICIGI,2021-08-13 17:20:00,2021-08-12,2021-08-12,2021-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,46509.0,0.01,45509.0,0.01
+ICICIGI,2021-08-13 17:20:00,2021-08-12,2021-08-12,2021-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,43509.0,0.01,41009.0,0.01
+ICICIGI,2021-08-13 17:20:00,2021-08-12,2021-08-12,2021-08-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,45509.0,0.01,43509.0,0.01
+ICICIGI,2021-08-17 18:05:00,2021-08-13,2021-08-12,2021-08-12,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,6780.0,0.0,8280.0,0.0
+ICICIGI,2021-08-17 18:05:00,2021-08-16,2021-08-16,2021-08-16,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,8280.0,0.0,0.0,0.0,0.0,8280.0,0.0,8280.0,0.0
+ICICIGI,2021-08-17 18:05:00,2021-08-13,2021-08-12,2021-08-12,Employees/Designated Employees,ESOP,Buy,Equity Shares,3600.0,0.0,0.0,0.0,0.0,,0.0,3600.0,0.0
+ICICIGI,2021-08-17 18:05:00,2021-08-13,2021-08-12,2021-08-12,Employees/Designated Employees,ESOP,Buy,Equity Shares,3180.0,0.0,0.0,0.0,0.0,3600.0,0.0,6780.0,0.0
+ICICIGI,2021-10-06 19:42:00,2021-10-04,2021-10-04,2021-10-04,-,Pledge Creation,Pledge,Equity Shares,18000.0,0.0,0.0,0.0,0.0,20000.0,0.0,20000.0,0.0
+ICICIGI,2021-10-06 19:42:00,2021-10-04,2021-10-01,2021-10-01,-,ESOP,Buy,Equity Shares,18000.0,0.0,0.0,0.0,0.0,2000.0,0.0,20000.0,0.0
+ICICIGI,2021-10-18 12:50:00,2021-10-13,2021-10-12,2021-10-12,-,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,40009.0,0.0,39259.0,0.0
+ICICIGI,2021-10-18 12:50:00,2021-10-16,2021-10-14,2021-10-14,-,Revokation of Pledge,Pledge Revoke,Equity Shares,10000.0,0.0,0.0,0.0,0.0,39259.0,0.0,39259.0,0.0
+ICICIGI,2021-11-19 12:43:00,2021-11-17,2021-11-17,2021-11-17,-,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,7500.0,0.0,6250.0,0.0
+ICICIGI,2021-11-19 12:43:00,2021-11-17,2021-11-15,2021-11-15,-,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,20000.0,0.0,7500.0,0.0
+ICICIGI,2021-11-19 12:43:00,2021-11-17,2021-11-15,2021-11-15,-,Revokation of Pledge,Pledge Revoke,Equity Shares,12500.0,0.0,0.0,0.0,0.0,20000.0,0.0,20000.0,0.0
+ICICIGI,2021-11-23 18:22:00,2021-11-22,2021-11-22,2021-11-22,-,Market Sale,Sell,Equity Shares,928.0,0.0,0.0,0.0,0.0,39259.0,0.0,38331.0,0.0
+ICICIGI,2022-04-06 11:55:00,2022-04-04,2022-03-28,2022-03-28,-,Market Sale,Sell,Equity Shares,636.0,0.0,0.0,0.0,0.0,9921.0,0.0,9285.0,0.0
+ICICIGI,2022-04-06 11:55:00,2022-04-04,2022-03-31,2022-03-31,-,Market Sale,Sell,Equity Shares,9285.0,0.0,0.0,0.0,0.0,9285.0,0.0,,0.0
+ICICIGI,2022-04-06 11:55:00,2022-04-05,2022-04-01,2022-04-01,-,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,,0.0
+ICICIGI,2022-04-06 11:55:00,2022-04-05,2022-04-04,2022-04-04,-,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+ICICIGI,2022-04-06 11:55:00,2022-04-05,2022-04-01,2022-04-01,-,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+ICICIGI,2022-04-22 16:35:00,2022-04-20,2022-04-19,2022-04-19,-,Pledge Creation,Pledge,Equity Shares,53000.0,0.0,0.0,0.0,0.0,86878.0,0.0,86878.0,0.0
+ICICIGI,2022-04-28 23:30:00,2022-04-26,2022-04-22,2022-04-22,-,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,,0.0
+ICICIGI,2022-05-10 19:33:00,2022-05-06,2022-05-06,2022-05-06,-,ESOP,Buy,Equity Shares,64110.0,0.0,0.0,0.0,0.0,86878.0,0.01,150988.0,0.03
+ICICIGI,2022-05-18 16:21:00,2022-05-17,2022-05-17,2022-05-17,-,Pledge Creation,Pledge,Equity Shares,64110.0,0.0,0.0,0.0,0.0,150988.0,0.03,150988.0,0.03
+ICICIGI,2022-06-13 18:37:00,2022-06-13,2022-06-10,2022-06-10,-,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,150988.0,0.03,145988.0,0.03
+ICICIGI,2022-06-16 18:06:00,2022-06-16,2022-06-15,2022-06-15,-,ESOP,Buy,Equity Shares,11500.0,0.0,0.0,0.0,0.0,8000.0,0.0,19500.0,0.0
+ICICIGI,2022-06-16 18:06:00,2022-06-16,2022-06-15,2022-06-15,-,ESOP,Buy,Equity Shares,3600.0,0.0,0.0,0.0,0.0,,0.0,3600.0,0.0
+ICICIGI,2022-07-13 19:14:00,2022-07-12,2022-07-12,2022-07-12,-,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,132746.0,0.03,127746.0,0.03
+ICICIGI,2022-09-15 18:10:00,2022-09-14,2022-08-26,2022-08-26,-,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,9695.0,0.0,8945.0,0.0
+ICICIGI,2022-09-15 18:10:00,2022-09-14,2022-09-14,2022-09-14,-,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,8945.0,0.0,8545.0,0.0
+ICICIGI,2022-09-20 14:50:00,2022-09-19,2022-09-19,2022-09-19,-,Pledge Creation,Pledge,Equity Shares,4400.0,0.0,0.0,0.0,0.0,4400.0,0.0,4400.0,0.0
+ICICIGI,2022-09-20 14:50:00,2022-09-19,2022-09-15,2022-09-15,-,ESOP,Buy,Equity Shares,4400.0,0.0,0.0,0.0,0.0,,0.0,4400.0,0.0
+ICICIGI,2022-09-21 18:29:00,2022-09-19,2022-07-20,2022-07-20,-,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3600.0,0.0,4600.0,0.0
+ICICIGI,2022-09-21 18:29:00,2022-09-19,2022-07-26,2022-07-26,-,Market Purchase,Buy,Equity Shares,400.0,0.0,0.0,0.0,0.0,4600.0,0.0,5000.0,0.0
+ICICIGI,2022-09-21 18:29:00,2022-09-19,2022-07-29,2022-07-29,-,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,5000.0,0.0,4600.0,0.0
+ICICIGI,2022-09-21 18:29:00,2022-09-19,2022-08-04,2022-08-04,-,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,4600.0,0.0,5100.0,0.0
+ICICIGI,2022-09-21 18:29:00,2022-09-19,2022-09-15,2022-09-15,-,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5100.0,0.0,7100.0,0.0
+ICICIGI,2022-10-06 19:29:00,2022-10-03,2022-10-03,2022-10-03,-,Revokation of Pledge,Pledge Revoke,Equity Shares,4400.0,0.0,0.0,0.0,0.0,4400.0,0.0,4400.0,0.0
+ICICIGI,2022-10-06 19:29:00,2022-10-03,2022-10-03,2022-10-03,-,Market Sale,Sell,Equity Shares,4400.0,0.0,0.0,0.0,0.0,4400.0,0.0,,0.0
+ICICIGI,2023-06-06 19:54:00,2023-06-02,2023-05-31,2023-05-31,-,Market Sale,Sell,Equity Shares,3450.0,0.0,0.0,0.0,0.0,3450.0,0.0,,0.0
+ICICIGI,2023-06-15 20:24:00,2023-06-13,2023-06-09,2023-06-09,-,ESOP,Buy,Equity Shares,2800.0,0.0,0.0,0.0,0.0,,0.0,2800.0,0.0
+ICICIGI,2023-06-15 20:24:00,2023-06-13,2023-06-12,2023-06-12,-,Market Sale,Sell,Equity Shares,2800.0,0.0,0.0,0.0,0.0,2800.0,0.0,,0.0
+ICICIGI,2023-09-01 17:28:00,2023-08-31,2023-08-28,2023-08-28,-,ESOP,Buy,Equity Shares,51300.0,0.0,0.0,0.0,0.0,298242.0,0.0,349542.0,0.0
+ICICIGI,2023-09-01 17:28:00,2023-08-31,2023-08-28,2023-08-28,-,ESOP,Buy,Equity Shares,46000.0,0.0,0.0,0.0,0.0,252242.0,0.0,298242.0,0.0
+ICICIGI,2023-09-01 17:28:00,2023-08-31,2023-08-05,2023-08-05,-,Pledge Creation,Pledge,Equity Shares,39400.0,0.0,0.0,0.0,0.0,252242.0,0.0,252242.0,0.0
+ICICIGI,2023-09-01 17:28:00,2023-08-31,2023-08-29,2023-08-29,-,Pledge Creation,Pledge,Equity Shares,97300.0,0.0,0.0,0.0,0.0,349542.0,0.0,349542.0,0.0
+ICICIGI,2023-12-01 17:59:00,2023-11-30,2023-11-28,2023-11-28,-,ESOP,Buy,Equity Shares,1100.0,0.0,0.0,0.0,0.0,400.0,0.0,1500.0,0.0
+ICICIGI,2023-12-19 16:56:00,2023-12-18,2023-12-14,2023-12-14,-,ESOP,Buy,Equity Shares,496350.0,0.0,0.0,0.0,0.0,220478.0,0.04,716828.0,0.15
+ICICIGI,2023-12-22 18:18:00,2023-12-20,2023-12-18,2023-12-18,-,ESOP,Buy,Equity Shares,1100.0,0.0,0.0,0.0,0.0,2000.0,0.0,3100.0,0.0
+ICICIGI,2023-12-22 18:18:00,2023-12-20,2023-12-05,2023-12-05,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1500.0,0.0,500.0,0.0
+ICICIGI,2023-12-22 18:18:00,2023-12-20,2023-12-18,2023-12-18,-,ESOP,Buy,Equity Shares,1125.0,0.0,0.0,0.0,0.0,6635.0,0.0,7760.0,0.0
+ICICIGI,2023-12-22 18:18:00,2023-12-20,2023-12-18,2023-12-18,-,ESOP,Buy,Equity Shares,3535.0,0.0,0.0,0.0,0.0,3100.0,0.0,6635.0,0.0
+ICICIGI,2023-12-22 18:18:00,2023-12-20,2023-12-18,2023-12-18,-,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,500.0,0.0,2000.0,0.0
+ICICIGI,2024-01-02 14:37:00,2023-12-29,2023-12-28,2023-12-28,-,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,7760.0,0.0,2760.0,0.0
+ICICIGI,2024-09-13 14:12:00,2024-09-11,2024-09-09,2024-09-09,-,ESOP,Buy,Equity Shares,30068.0,0.0,0.0,0.0,0.0,4160.0,0.0,34228.0,0.0
+ICICIGI,2024-09-24 19:35:00,2024-09-22,2024-09-19,2024-09-19,-,Pledge Creation,Pledge,Equity Shares,30068.0,0.0,0.0,0.0,0.0,34228.0,0.0,34228.0,0.0
+ICICIGI,2024-09-24 19:35:00,2024-09-22,2024-09-20,2024-09-20,-,Revokation of Pledge,Pledge Revoke,Equity Shares,21000.0,0.0,0.0,0.0,0.0,34228.0,0.0,34228.0,0.0
+ICICIGI,2024-09-24 19:35:00,2024-09-22,2024-09-20,2024-09-20,-,Market Sale,Sell,Equity Shares,21000.0,0.0,0.0,0.0,0.0,34228.0,0.0,13228.0,0.0
+ICICIGI,2024-09-30 18:45:00,2024-09-26,2024-09-24,2024-09-24,-,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,13228.0,0.0,12828.0,0.0
+ICICIGI,2024-09-30 18:45:00,2024-09-26,2024-09-24,2024-09-24,-,Revokation of Pledge,Pledge Revoke,Equity Shares,400.0,0.0,0.0,0.0,0.0,13228.0,0.0,13228.0,0.0
+ICICIGI,2024-10-21 19:15:00,2024-10-18,2024-10-10,2024-10-10,Promoter Group,Market Purchase,Buy,Equity Shares,14.0,0.0,0.0,0.0,0.0,4241.0,0.0,4255.0,0.0
+ICICIGI,2024-10-21 19:15:00,2024-10-18,2024-10-16,2024-10-16,Promoter Group,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,4255.0,0.0,4355.0,0.0
+ICICIGI,2024-10-21 19:15:00,2024-10-18,2024-10-08,2024-10-08,Promoter Group,Market Purchase,Buy,Equity Shares,25.0,0.0,0.0,0.0,0.0,4216.0,0.0,4241.0,0.0
+ICICIGI,2024-10-21 19:15:00,2024-10-18,2024-10-03,2024-10-03,Promoter Group,Market Purchase,Buy,Equity Shares,56.0,0.0,0.0,0.0,0.0,4160.0,0.0,4216.0,0.0
+ICICIGI,2024-10-21 19:15:00,2024-10-18,2024-09-30,2024-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,135.0,0.0,0.0,0.0,0.0,4025.0,0.0,4160.0,0.0
+ICICIGI,2024-10-21 19:15:00,2024-10-18,2024-09-27,2024-09-27,Promoter Group,Market Sale,Sell,Equity Shares,193.0,0.0,0.0,0.0,0.0,4218.0,0.0,4025.0,0.0
+ICICIGI,2024-10-25 19:49:00,2024-10-25,2024-10-11,2024-10-11,-,Revokation of Pledge,Pledge Revoke,Equity Shares,4500.0,0.0,0.0,0.0,0.0,12828.0,0.0,12828.0,0.0
+ICICIGI,2024-10-25 19:49:00,2024-10-25,2024-10-11,2024-10-11,-,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,12828.0,0.0,8328.0,0.0
+ICICIGI,2024-10-25 19:56:00,2024-10-25,2024-10-18,2024-10-18,-,ESOP,Buy,Equity Shares,12500.0,0.0,0.0,0.0,0.0,8328.0,0.0,20828.0,0.0
+ICICIGI,2024-10-31 19:09:00,2024-10-30,2024-10-25,2024-10-25,-,Market Purchase,Buy,Equity Shares,10.0,0.0,0.0,0.0,0.0,21009.0,0.0,21019.0,0.0
+ICICIGI,2024-10-31 19:09:00,2024-10-30,2024-10-25,2024-10-25,-,ESOP,Buy,Equity Shares,4100.0,0.0,0.0,0.0,0.0,21019.0,0.0,25119.0,0.0
+ICICIGI,2024-10-31 19:09:00,2024-10-30,2024-10-25,2024-10-25,-,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,,0.0,1500.0,0.0
+ICICIGI,2024-11-21 16:58:00,2024-11-21,2024-11-18,2024-11-18,-,ESOP,Buy,Equity Shares,50600.0,0.0,0.0,0.0,0.0,2783.0,0.0,53383.0,0.0
+ICICIGI,2024-12-09 19:44:00,2024-12-06,2024-12-05,2024-12-05,-,ESOP,Buy,Equity Shares,1220.0,0.0,0.0,0.0,0.0,2700.0,0.0,3920.0,0.0
+ICICIGI,2024-12-09 19:44:00,2024-12-09,2024-12-05,2024-12-05,-,ESOP,Buy,Equity Shares,26900.0,0.0,0.0,0.0,0.0,53383.0,0.0,80283.0,0.0
+ICICIGI,2024-12-12 19:03:00,2024-12-11,2024-12-05,2024-12-05,-,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,125.0,0.0,625.0,0.0
+ICICIGI,2024-12-12 19:03:00,2024-12-11,2024-12-04,2024-12-04,-,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,525.0,0.0,125.0,0.0
+ICICIGI,2024-12-12 19:03:00,2024-12-11,2024-11-27,2024-11-27,-,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,25.0,0.0,525.0,0.0
+ICICIGI,2025-01-13 15:43:00,2025-01-10,2024-12-27,2024-12-27,-,ESOP,Buy,Equity Shares,3264.0,0.0,0.0,0.0,0.0,4620.0,0.0,7884.0,0.0
+ICICIGI,2025-01-13 15:43:00,2025-01-10,2024-12-19,2024-12-19,-,ESOP,Buy,Equity Shares,700.0,0.0,0.0,0.0,0.0,3920.0,0.0,4620.0,0.0
+ICICIGI,2025-01-28 19:33:00,2025-01-24,2025-01-22,2025-01-22,-,Market Sale,Sell,Equity Shares,4200.0,0.0,0.0,0.0,0.0,4200.0,0.0,,0.0
+ICICIGI,2025-02-17 18:38:00,2025-02-13,2025-02-07,2025-02-07,-,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,20000.0,0.0,,0.0
+ICICIGI,2025-02-17 18:38:00,2025-02-13,2025-02-06,2025-02-06,-,ESOP,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,,0.0,20000.0,0.0
+ICICIGI,2025-03-04 19:14:00,2025-03-03,2025-02-27,2025-02-27,-,ESOP,Buy,Equity Shares,4320.0,0.0,0.0,0.0,0.0,,0.0,4320.0,0.0
+ICICIGI,2025-03-04 19:14:00,2025-03-03,2025-02-27,2025-02-27,-,ESOP,Buy,Equity Shares,3600.0,0.0,0.0,0.0,0.0,,0.0,3600.0,0.0
+ICICIGI,2025-03-28 18:12:00,2025-03-27,2025-02-27,2025-02-27,-,ESOP,Buy,Equity Shares,25550.0,0.0,0.0,0.0,0.0,,0.0,25550.0,0.0
+ICICIGI,2025-03-28 18:12:00,2025-03-27,2025-03-17,2025-03-17,-,Market Sale,Sell,Equity Shares,25550.0,0.0,0.0,0.0,0.0,25550.0,0.0,,0.0
+ICICIGI,2025-04-16 18:23:00,2025-04-14,2025-04-03,2025-04-03,-,Market Sale,Sell,Equity Shares,32276.0,0.0,0.0,0.0,0.0,32276.0,0.0,,0.0
+ICICIGI,2025-04-16 18:23:00,2025-04-14,2025-03-28,2025-03-28,-,ESOP,Buy,Equity Shares,32276.0,0.0,0.0,0.0,0.0,,0.0,32276.0,0.0
+ICICIGI,2025-04-30 18:05:00,2025-04-30,2025-04-24,2025-04-24,-,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+ICICIGI,2025-04-30 18:05:00,2025-04-30,2025-04-17,2025-04-17,-,ESOP,Buy,Equity Shares,38500.0,0.0,0.0,0.0,0.0,,0.0,38500.0,0.0
+ICICIGI,2025-04-30 18:05:00,2025-04-30,2025-04-24,2025-04-24,-,Market Sale,Sell,Equity Shares,38500.0,0.0,0.0,0.0,0.0,38500.0,0.0,,0.0
+ICICIGI,2025-05-09 18:25:00,2025-05-09,2025-04-28,2025-04-28,-,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0,,0.0
+ICICIGI,2025-06-03 23:21:00,2025-05-31,2025-05-27,2025-05-27,-,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,12500.0,0.0,11900.0,0.0
+ICICIGI,2025-09-05 17:30:00,2025-09-04,2025-08-13,2025-08-13,-,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,11740.0,0.0,9340.0,0.0
+ICICIGI,2025-09-30 19:18:00,2025-09-29,2025-09-17,2025-09-17,-,ESOP,Buy,Equity Shares,7566.0,0.0,0.0,0.0,0.0,11947.0,0.0,19513.0,0.0
+ICICIGI,2025-09-30 19:18:00,2025-09-29,2025-09-23,2025-09-23,-,Pledge Creation,Pledge,Equity Shares,7566.0,0.0,0.0,0.0,0.0,19513.0,0.0,19513.0,0.0
+ICICIGI,2025-09-30 19:18:00,2025-09-29,2025-08-14,2025-08-14,-,Pledge Creation,Pledge,Equity Shares,10750.0,0.0,0.0,0.0,0.0,11947.0,0.0,11947.0,0.0
+ICICIGI,2025-09-30 19:18:00,2025-09-29,2025-07-29,2025-07-29,-,ESOP,Buy,Equity Shares,11947.0,0.0,0.0,0.0,0.0,,0.0,11947.0,0.0

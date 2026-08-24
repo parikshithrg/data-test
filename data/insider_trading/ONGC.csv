@@ -1,0 +1,8 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ONGC,2017-01-31 12:29:00,2017-01-30,2017-01-25,2017-01-25,Promoters,Off Market,Sell,Equity Shares,76625087.0,0.0,0.0,0.0,0.0,8846514390.0,68.93,8769889303.0,68.34
+ONGC,2017-03-27 12:37:00,2017-03-24,2017-03-22,2017-03-22,Promoters,Off Market,Sell,Equity Shares,34238793.0,0.0,0.0,0.0,0.0,8769889303.0,68.34,8735650510.0,68.07
+ONGC,2017-12-04 16:21:00,2017-11-30,2017-11-24,2017-11-24,Promoter Group,Off Market,Sell,Equity Shares,45618254.0,0.0,0.0,0.0,0.0,8735650510.0,68.07,8690032256.0,67.72
+ONGC,2020-02-26 10:54:00,2020-02-24,2020-02-03,2020-02-03,Promoters,Off Market,Sell,Equity Shares,298408048.0,0.0,0.0,0.0,0.0,7898016506.0,62.78,7599608458.0,60.41
+ONGC,2022-04-18 14:08:00,2022-04-11,2022-03-31,2022-03-31,Promoters,Others,Sell,Equity Shares,94352094.0,0.0,0.0,0.0,0.0,7505256364.0,59.66,7410904270.0,58.91
+ONGC,2022-04-18 14:08:00,2022-04-11,2022-03-30,2022-03-30,Promoters,Others,Sell,Equity Shares,94352094.0,0.0,0.0,0.0,0.0,7599608458.0,60.41,7505256364.0,59.66
+ONGC,2022-04-18 14:08:00,2022-04-13,2022-04-13,2022-04-13,Promoters,Off Market,Sell,Equity Shares,2037177.0,0.0,0.0,0.0,0.0,7410904270.0,58.91,7408867093.0,58.89

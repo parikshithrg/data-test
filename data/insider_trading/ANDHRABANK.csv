@@ -1,0 +1,5 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ANDHRABANK,2017-08-11 12:32:00,2017-08-05,2017-08-05,2017-08-05,Promoters,Preferential Offer,Buy,Equity shares,191637630.0,0.0,0.0,0.0,0.0,417310282.0,61.2643,608947912.0,69.7694
+ANDHRABANK,2018-10-12 15:38:00,2018-10-11,2018-10-11,2018-10-11,Promoters,Preferential Offer,Buy,Equity Shares,539983952.0,0.0,0.0,0.0,0.0,934978617.0,77.99,1474962569.0,84.83
+ANDHRABANK,2019-03-29 17:21:00,2019-03-28,2019-03-28,2019-03-28,Promoters,Preferential Offer,Buy,Equity Shares,1145672061.0,0.0,0.0,0.0,0.0,1474962569.0,84.83,2620634630.0,90.85
+ANDHRABANK,2020-03-05 17:10:00,2020-03-04,2020-03-04,2020-03-04,Promoters,Preferential Offer,Buy,Equity Shares,111049416.0,0.0,0.0,0.0,0.0,2620634630.0,87.81,2731684046.0,88.25

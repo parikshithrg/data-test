@@ -1,0 +1,4 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+JPINFRATEC,2018-03-06 16:42:00,2018-03-01,2018-02-27,2018-02-27,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,60000000.0,0.0,0.0,0.0,0.0,895000000.0,64.44,835000000.0,60.12
+JPINFRATEC,2018-03-16 18:08:00,2018-03-15,2018-03-13,2018-03-13,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,60000000.0,0.0,0.0,0.0,0.0,835000000.0,60.12,835000000.0,60.12
+JPINFRATEC,2018-04-02 17:53:00,2018-03-26,2018-03-23,2018-03-23,Promoters,Revokation of Pledge,Buy,Equity Shares,12000000.0,0.0,0.0,0.0,0.0,835000000.0,60.12,847000000.0,60.98

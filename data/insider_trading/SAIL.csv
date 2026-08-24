@@ -1,0 +1,2 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+SAIL,2021-01-19 10:10:00,2021-01-18,2021-01-14,2021-01-15,Promoters,Market Sale,Sell,Equity Shares,413052528.0,0.0,0.0,0.0,0.0,3097767449.0,75.0,2684714921.0,65.0

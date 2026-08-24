@@ -1,0 +1,15 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+AMBER,2020-08-11 19:30:00,2020-08-11,2018-01-25,2018-01-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,628.0,0.0,0.0,0.0,0.0,629.0,0.0,1.0,0.0
+AMBER,2020-09-12 17:20:00,2020-09-12,2020-09-11,2020-09-11,Promoter Group,Market Sale,Sell,Equity Shares,275000.0,0.0,0.0,0.0,0.0,708667.0,2.25,433667.0,1.29
+AMBER,2020-09-15 13:31:00,2020-09-15,2020-09-11,2020-09-11,-,Market Sale,Sell,Equity Shares,3288819.0,0.0,0.0,0.0,0.0,6577639.0,19.52,3288820.0,9.76
+AMBER,2020-11-30 10:59:00,2020-11-30,2018-01-25,2018-01-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,100520.0,0.29,99520.0,0.29
+AMBER,2021-09-02 15:44:00,2021-09-02,2018-01-25,2018-01-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,99520.0,0.3,96520.0,0.29
+AMBER,2022-02-04 10:12:00,2022-02-02,2018-01-25,2022-01-31,-,Market Sale,Sell,Equity Shares,629.0,0.0,0.0,0.0,0.0,629.0,0.0,,0.0
+AMBER,2022-02-04 10:12:00,2022-02-02,2018-01-25,2022-01-31,-,Market Sale,Sell,Equity Shares,586.0,0.0,0.0,0.0,0.0,586.0,0.0,,0.0
+AMBER,2022-04-11 17:49:00,2022-04-11,2018-01-25,2022-04-08,Employees/Designated Employees,Others,Buy,Equity Shares,49996.0,0.0,0.0,0.0,0.0,93520.0,0.27,143516.0,0.42
+AMBER,2022-05-25 10:02:00,2022-05-24,2022-05-23,2022-05-23,Promoter Group,Market Purchase,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,100.0,0.0,8100.0,0.02
+AMBER,2022-05-25 10:02:00,2022-05-24,2022-05-23,2022-05-23,Promoter Group,Market Purchase,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,100.0,0.0,8100.0,0.02
+AMBER,2023-12-21 10:07:00,2023-12-19,2023-12-15,2023-12-15,-,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,145016.0,0.43,139016.0,0.41
+AMBER,2024-02-17 14:51:00,2024-02-17,2024-02-16,2024-02-16,-,Market Sale,Sell,Equity Shares,628.0,0.0,0.0,0.0,0.0,628.0,0.0,,0.0
+AMBER,2024-06-19 18:16:00,2024-06-19,2024-06-18,2024-06-18,Promoter Group,Market Sale,Sell,Equity Shares,150000.0,0.0,0.0,0.0,0.0,433667.0,1.29,283667.0,0.84
+AMBER,2024-06-27 16:17:00,2024-06-27,2024-06-27,2024-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,499.0,0.0,0.0,0.0,0.0,499.0,0.0,,0.0

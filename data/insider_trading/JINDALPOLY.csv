@@ -1,0 +1,11 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+JINDALPOLY,2016-03-09 16:59:00,2016-03-04,2016-03-03,2016-03-03,Promoters,Gift,Sell,Equity Shares,743200.0,0.0,0.0,0.0,0.0,743200.0,1.77,,0.0
+JINDALPOLY,2017-03-31 15:54:00,2017-03-30,2017-03-30,2017-03-30,Promoters,Gift,Sell,Equity Shares,455525.0,0.0,0.0,0.0,0.0,456525.0,1.04,1000.0,0.0
+JINDALPOLY,2017-03-31 15:54:00,2017-03-30,2017-03-30,2017-03-30,Promoters,Gift,Sell,Equity Shares,119000.0,0.0,0.0,0.0,0.0,120000.0,0.27,1000.0,0.0
+JINDALPOLY,2020-04-02 15:11:00,2020-04-01,2020-03-31,2020-03-31,Promoters,Off Market,Buy,Equity Shares,2250000.0,0.0,0.0,0.0,0.0,119000.0,0.27,2369000.0,5.41
+JINDALPOLY,2020-04-02 15:24:00,2020-04-01,2020-03-31,2020-03-31,Promoters,Off Market,Sell,Equity Shares,2250000.0,0.0,0.0,0.0,0.0,11495410.0,26.25,9245410.0,21.11
+JINDALPOLY,2020-10-21 20:30:00,2020-10-20,2020-10-19,2020-10-19,Promoters,Gift,Buy,Equity Shares,456525.0,0.0,0.0,0.0,0.0,752433.0,1.72,1208958.0,2.76
+JINDALPOLY,2020-10-21 20:36:00,2020-10-20,2020-10-19,2020-10-19,Promoter Group,Gift,Sell,Equity Shares,455525.0,0.0,0.0,0.0,0.0,455525.0,1.04,,0.0
+JINDALPOLY,2022-04-27 18:32:00,2022-04-26,2022-04-25,2022-04-25,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,1208958.0,0.0,0.0,0.0,0.0,1208958.0,2.76,,0.0
+JINDALPOLY,2022-04-27 18:32:00,2022-04-26,2022-04-25,2022-04-25,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,1208958.0,0.0,0.0,0.0,0.0,2369000.0,5.41,3577958.0,8.17
+JINDALPOLY,2024-02-22 17:51:00,2024-02-22,2024-02-20,2024-02-20,Promoters,Off Market,Sell,Equity Shares,27498059.0,0.0,0.0,0.0,0.0,27498059.0,62.8,,0.0

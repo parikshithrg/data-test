@@ -1,0 +1,21 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+UNITDSPR,2015-12-03 16:34:00,2015-11-30,2015-11-23,2015-11-23,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,150000.0,0.0,0.0,0.0,0.0,1658180.0,1.14,1508180.0,1.04
+UNITDSPR,2016-02-23 16:32:00,2016-02-22,2016-02-17,2016-02-17,Promoters,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,4208556.0,2.9,4188556.0,2.88
+UNITDSPR,2016-03-14 16:57:00,2016-03-10,2016-03-10,2016-03-10,Promoters,Invocation of pledge,Pledge Invoke,Equity,300000.0,0.0,0.0,0.0,0.0,1508180.0,1.04,1208180.0,0.83
+UNITDSPR,2016-03-21 09:39:00,2016-03-18,2016-03-17,2016-03-17,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,72250.0,0.0,0.0,0.0,0.0,4188556.0,2.88,4116306.0,2.83
+UNITDSPR,2016-06-24 10:38:00,,2016-06-22,2016-06-22,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,35000.0,0.0,0.0,0.0,0.0,1208180.0,0.83,1173180.0,0.81
+UNITDSPR,2017-06-05 15:35:00,2017-06-02,2017-04-21,2017-04-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0003,,0.0
+UNITDSPR,2017-06-05 15:35:00,2017-06-02,2017-04-18,2017-04-20,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,,0.0,500.0,0.0003
+UNITDSPR,2017-06-05 18:54:00,2017-06-02,2017-04-18,2017-04-20,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,,0.0,500.0,0.0003
+UNITDSPR,2017-06-05 18:54:00,2017-06-02,2017-04-21,2017-04-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0003,,0.0
+UNITDSPR,2017-09-21 18:28:00,2017-09-20,2017-09-19,2017-09-19,Director,Market Sale,Sell,Equity Shares,153.0,0.0,0.0,0.0,0.0,153.0,0.0001,,0.0
+UNITDSPR,2018-05-08 20:02:00,2018-05-08,2018-05-03,2018-05-03,Promoters,Others,Sell,Equity Shares,2700.0,0.0,0.0,0.0,0.0,2700.0,0.0,,0.0
+UNITDSPR,2018-05-08 20:02:00,2018-05-08,2018-05-03,2018-05-03,Promoters,Others,Sell,Equity Shares,158180.0,0.0,0.0,0.0,0.0,1173180.0,0.81,1015000.0,0.7
+UNITDSPR,2018-05-08 20:02:00,,2018-05-04,2018-05-04,Promoters,Others,Sell,Equity Shares,2340424.0,0.0,0.0,0.0,0.0,4116306.0,2.83,1775882.0,1.22
+UNITDSPR,2018-05-08 20:02:00,2018-05-07,2018-05-03,2018-05-03,Promoters,Others,Sell,Equity Shares,1005.0,0.0,0.0,0.0,0.0,1005.0,0.0,,0.0
+UNITDSPR,2019-07-22 19:00:00,2019-07-20,2019-07-19,2019-07-19,Promoters,Others,Sell,Equity Shares,3310515.0,0.0,0.0,0.0,0.0,8879410.0,1.22,5568895.0,0.77
+UNITDSPR,2019-08-20 19:41:00,2019-08-20,2019-08-20,2019-08-20,Promoters,Market Purchase,Buy,Equity Shares,3310515.0,0.0,0.0,0.0,0.0,398061730.0,54.78,401372245.0,55.24
+UNITDSPR,2020-02-14 21:20:00,2020-02-14,2020-02-12,2020-02-12,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,5075000.0,0.0,0.0,0.0,0.0,5075000.0,0.7,,0.0
+UNITDSPR,2020-02-28 20:09:00,2020-02-28,2020-02-28,2020-02-28,Promoters,Market Purchase,Buy,Equity Shares,5075000.0,0.0,0.0,0.0,0.0,401372245.0,55.24,406447245.0,55.94
+UNITDSPR,2021-07-15 23:55:00,2021-07-15,2021-07-13,2021-07-13,Promoter Group,Market Sale,Sell,Equity Shares,175560.0,0.0,0.0,0.0,0.0,175560.0,0.02,,0.0
+UNITDSPR,2023-08-07 18:03:00,2023-08-05,2023-08-02,2023-08-02,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,13630.0,0.0,0.0,0.0,0.0,5568895.0,0.77,5555265.0,0.76

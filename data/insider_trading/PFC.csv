@@ -1,0 +1,11 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+PFC,2016-03-18 09:52:00,2016-03-16,2016-01-01,2016-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7539.0,0.0,0.0,0.0,0.0,19605.0,0.0,12066.0,0.0
+PFC,2017-02-23 18:20:00,2017-02-21,2017-01-19,2017-01-19,Promoters,Off Market,Sell,Equity Shares,27568341.0,0.0,0.0,0.0,0.0,1789848732.0,67.8,1762280391.0,66.75
+PFC,2017-04-21 18:18:00,2017-04-20,2017-03-22,2017-03-22,Promoters,Off Market,Sell,Equity Shares,10648997.0,0.0,0.0,0.0,0.0,1762280391.0,66.75,1751631394.0,66.35
+PFC,2017-12-12 18:05:00,2017-12-12,2017-11-23,2017-11-23,Promoters,Off Market,Sell,Equity Shares,11415287.0,0.0,0.0,0.0,0.0,1751631394.0,66.35,1740216107.0,65.92
+PFC,2018-07-12 15:22:00,,2018-06-18,2018-06-18,Promoters,Off Market,Sell,Equity Shares,7176049.0,0.0,0.0,0.0,0.0,1740216107.0,65.92,1733040058.0,65.64
+PFC,2018-12-17 15:00:00,2018-12-17,2018-12-04,2018-12-04,Promoters,Off Market,Sell,Equity Shares,109808544.0,0.0,0.0,0.0,0.0,1733040058.0,65.64,1623231514.0,61.48
+PFC,2019-03-14 10:17:00,2019-03-13,2019-02-21,2019-02-21,Promoters,Off Market,Sell,Equity Shares,12196071.0,0.0,0.0,0.0,0.0,1623231514.0,61.48,1611035443.0,61.02
+PFC,2019-04-03 17:26:00,2019-04-01,2019-03-25,2019-03-25,Promoters,Off Market,Sell,Equity Shares,52146026.0,0.0,0.0,0.0,0.0,1611035443.0,61.02,1558889417.0,59.05
+PFC,2019-08-02 18:21:00,2019-08-01,2019-07-22,2019-07-22,Promoters,Off Market,Sell,Equity Shares,76313829.0,0.0,0.0,0.0,0.0,1558889417.0,59.05,1482575588.0,56.16
+PFC,2019-10-17 11:24:00,2019-10-16,2019-10-10,2019-10-10,Promoters,Off Market,Sell,Equity Shares,4283810.0,0.0,0.0,0.0,0.0,1482575588.0,56.16,1478291778.0,56.0

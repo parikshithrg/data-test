@@ -1,0 +1,25 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+SRF,2015-11-20 10:47:00,2015-11-16,2015-11-13,2015-11-13,Other,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,15000.0,0.026,8000.0,0.014
+SRF,2016-05-20 16:27:00,2016-05-19,2016-05-17,2016-05-17,Director,Market Purchase,Buy,Equity Shares,7750.0,0.0,0.0,0.0,0.0,5507.0,0.01,13257.0,0.023
+SRF,2016-05-24 14:57:00,2016-05-19,2016-05-17,2016-05-17,Director,Market Purchase,Buy,Equity Shares,7750.0,0.0,0.0,0.0,0.0,5507.0,0.01,13257.0,0.023
+SRF,2016-05-24 15:20:00,2016-05-23,2016-05-19,2016-05-19,Director,Market Purchase,Buy,Equity Shares,150.0,0.0,0.0,0.0,0.0,13257.0,0.023,13407.0,0.023
+SRF,2016-05-26 18:07:00,2016-05-26,2016-05-24,2016-05-24,Director,Market Purchase,Buy,Equity Shares,27500.0,0.0,0.0,0.0,0.0,,0.0,27500.0,0.05
+SRF,2016-05-26 18:07:00,2016-05-26,2016-05-24,2016-05-24,Promoters,Market Sale,Sell,Equity Shares,27500.0,0.0,0.0,0.0,0.0,27500.0,0.05,,
+SRF,2017-12-12 16:14:00,2017-12-08,2017-12-07,2017-12-07,Promoters,Pledge Creation,Pledge,Equity Shares,919500.0,0.0,0.0,0.0,0.0,30049000.0,52.33,30049000.0,52.33
+SRF,2018-03-14 18:01:00,2018-03-13,2018-03-09,2018-03-09,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,917300.0,0.0,0.0,0.0,0.0,30049000.0,52.33,30049000.0,52.33
+SRF,2018-08-06 18:52:00,2018-08-03,2018-08-01,2018-08-01,Key Managerial Personnel,ESOP,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,200.0,0.0,20200.0,0.04
+SRF,2018-08-06 18:52:00,2018-08-03,2018-08-01,2018-08-01,Key Managerial Personnel,ESOP,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,1100.0,0.0,21100.0,0.04
+SRF,2018-08-06 18:52:00,2018-08-03,2018-08-01,2018-08-01,Key Managerial Personnel,ESOP,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,1455.0,0.0,21455.0,0.04
+SRF,2018-10-17 16:28:00,2018-10-16,2018-10-15,2018-10-15,Key Managerial Personnel,Pledge Creation,Pledge,Equity Shares,20000.0,0.0,0.0,0.0,0.0,20200.0,0.04,20200.0,0.04
+SRF,2018-10-17 16:28:00,2018-10-16,2018-10-15,2018-10-15,Key Managerial Personnel,Pledge Creation,Pledge,Equity Shares,20000.0,0.0,0.0,0.0,0.0,21100.0,0.04,21100.0,0.04
+SRF,2018-10-17 16:28:00,2018-10-16,2018-10-15,2018-10-15,Key Managerial Personnel,Pledge Creation,Pledge,Equity Shares,20000.0,0.0,0.0,0.0,0.0,21455.0,0.04,21455.0,0.04
+SRF,2020-03-26 17:36:00,2020-03-26,2020-03-24,2020-03-25,Director,Market Purchase,Buy,Equity Shares,17800.0,0.0,0.0,0.0,0.0,,0.0,17800.0,0.03
+SRF,2020-03-31 17:34:00,2020-03-31,2020-03-31,2020-03-31,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,200.0,0.0,0.0,0.0,0.0,800.0,0.0,1000.0,0.0
+SRF,2020-03-31 17:34:00,2020-03-31,2020-03-18,2020-03-18,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,500.0,0.0,800.0,0.0
+SRF,2020-09-09 20:46:00,2020-09-08,2020-08-06,2020-09-08,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,350.0,0.0,0.0,0.0,0.0,22120.0,0.04,22470.0,0.04
+SRF,2020-09-09 20:46:00,2020-09-08,2020-08-06,2020-09-08,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,250.0,0.0,0.0,0.0,0.0,21300.0,0.04,21550.0,0.04
+SRF,2020-11-13 21:55:00,2020-11-12,2020-11-12,2020-11-12,Director,Market Purchase,Buy,Equity Shares,200.0,0.0,0.0,0.0,0.0,,0.0,200.0,0.0
+SRF,2021-02-02 19:49:00,2021-02-01,2021-01-28,2021-01-28,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,700.0,0.0,0.0,0.0,0.0,,0.0,700.0,0.0
+SRF,2021-02-12 16:05:00,2021-02-11,2021-02-10,2021-02-10,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,700.0,0.0,800.0,0.0
+SRF,2021-03-02 10:53:00,2021-03-01,2021-02-26,2021-02-26,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,250.0,0.0,0.0,0.0,0.0,800.0,0.0,1050.0,0.0
+SRF,2021-04-05 17:24:00,2021-04-02,2021-03-31,2021-03-31,Director,Market Sale,Sell,Equity Shares,17800.0,0.0,0.0,0.0,0.0,17800.0,0.03,,0.0

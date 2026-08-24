@@ -1,0 +1,7 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+SAREGAMA,2017-03-30 19:30:00,2017-03-30,2017-03-29,2017-03-29,Promoters,Inter-se-Transfer,Buy,Equity Shares,10291599.0,0.0,0.0,0.0,0.0,,0.0,10291599.0,59.14
+SAREGAMA,2017-03-30 19:30:00,2017-03-30,2017-03-29,2017-03-29,Promoters,Inter-se-Transfer,Sell,Equity Shares,10291599.0,0.0,0.0,0.0,0.0,10291599.0,59.14,,0.0
+SAREGAMA,2021-01-19 20:14:00,2021-01-19,2021-01-19,2021-01-19,Director,Off Market,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,,0.0,200000.0,1.15
+SAREGAMA,2021-07-15 17:45:00,2021-07-15,2021-07-15,2021-07-15,Director,Off Market,Buy,Equity Shares,54000.0,0.0,0.0,0.0,0.0,200000.0,1.15,254000.0,1.46
+SAREGAMA,2021-08-04 21:28:00,2021-08-04,2021-08-04,2021-08-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,8000.0,0.05,,0.0
+SAREGAMA,2021-08-04 21:28:00,2021-08-04,2021-08-03,2021-08-03,Employees/Designated Employees,Off Market,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,,0.0,8000.0,0.05

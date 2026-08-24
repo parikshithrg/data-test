@@ -1,0 +1,6 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+HBLENGINE,2015-12-18 12:50:00,2015-12-02,2015-11-24,2015-11-27,Promoters,Market Purchase,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,65500.0,0.026,85500.0,0.034
+HBLENGINE,2016-03-18 13:11:00,2016-03-16,2016-03-15,2016-03-15,Promoters,Inter-se-Transfer,Buy,Equity Shares,6840000.0,0.0,0.0,0.0,0.0,143059443.0,56.55,149899443.0,59.25
+HBLENGINE,2017-04-03 15:25:00,2017-03-31,2017-03-28,2017-03-28,Promoters,Inter-se-Transfer,Sell,Equity Shares,18428087.0,0.0,0.0,0.0,0.0,20814500.0,8.23,2386413.0,0.94
+HBLENGINE,2021-11-18 19:51:00,2021-11-17,2021-11-16,2021-11-16,Promoters,Market Purchase,Buy,Equity Shares,267584.0,0.0,0.0,0.0,0.0,2425243.0,0.87,2692827.0,0.96
+HBLENGINE,2021-11-18 19:51:00,2021-11-18,2021-11-16,2021-11-16,Promoter Group,Market Purchase,Buy,Equity Shares,676000.0,0.0,0.0,0.0,0.0,141141643.0,50.92,141817643.0,51.16

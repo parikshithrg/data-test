@@ -1,0 +1,16 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+INDHOTEL,2016-03-04 15:01:00,2016-03-02,2016-03-01,2016-03-01,Promoters,Conversion of security,Buy,Equity Shares,75011347.0,0.0,0.0,0.0,0.0,202052004.0,25.02,277063351.0,28.01
+INDHOTEL,2016-03-04 15:58:00,2016-03-03,2016-03-01,2016-03-01,Director,Conversion of security,Buy,Equity Shares,23625.0,0.0,0.0,0.0,0.0,105000.0,0.013,128625.0,0.013
+INDHOTEL,2017-11-09 17:51:00,2017-11-08,2017-11-07,2017-11-07,Promoters,Public Right,Buy,Equity Shares,77184049.0,0.0,0.0,0.0,0.0,277063351.0,28.01,354247400.0,29.79
+INDHOTEL,2018-03-19 11:28:00,2018-03-16,2018-03-15,2018-03-15,Promoters,Inter-se-Transfer,Buy,Equity Shares,78972460.0,0.0,0.0,0.0,0.0,354247400.0,29.79,433219860.0,36.43
+INDHOTEL,2020-03-18 13:43:00,2020-03-16,2020-03-13,2020-03-13,Promoters,Market Purchase,Buy,Equity Shares,3218425.0,0.0,0.0,0.0,0.0,449786706.0,37.82,453005131.0,38.09
+INDHOTEL,2020-03-18 13:43:00,2020-03-16,2020-03-12,2020-03-12,Promoters,Market Purchase,Buy,Equity Shares,16566846.0,0.0,0.0,0.0,0.0,433219860.0,36.43,449786706.0,37.82
+INDHOTEL,2020-03-18 20:19:00,2020-03-18,2020-03-16,2020-03-16,Director,Market Purchase,Buy,Equity Shares,13487.0,0.0,0.0,0.0,0.0,,0.0,13487.0,0.0
+INDHOTEL,2020-03-18 20:19:00,2020-03-18,2020-03-16,2020-03-16,Director,Market Purchase,Buy,Equity Shares,86513.0,0.0,0.0,0.0,0.0,13487.0,0.0,100000.0,0.01
+INDHOTEL,2021-12-17 17:54:00,2021-12-17,2021-12-15,2021-12-15,Promoter Group,Public Right,Buy,Equity Shares,83599.0,0.0,0.0,0.0,0.0,752398.0,0.06,835997.0,0.06
+INDHOTEL,2021-12-17 18:13:00,2021-12-17,2021-12-15,2021-12-15,Promoter Group,Public Right,Buy,Equity Shares,1187705.0,0.0,0.0,0.0,0.0,10689348.0,0.9,11877053.0,0.9
+INDHOTEL,2021-12-17 18:24:00,2021-12-17,2021-12-15,2021-12-15,Promoter Group,Public Right,Buy,Equity Shares,1785726.0,0.0,0.0,0.0,0.0,16071539.0,1.35,17857265.0,1.35
+INDHOTEL,2021-12-17 18:30:00,2021-12-17,2021-12-15,2021-12-15,Promoter Group,Public Right,Buy,Equity Shares,73919.0,0.0,0.0,0.0,0.0,665278.0,0.06,739197.0,0.06
+INDHOTEL,2021-12-20 12:08:00,2021-12-17,2021-12-15,2021-12-15,Promoters,Public Right,Buy,Equity Shares,54650182.0,0.0,0.0,0.0,0.0,453005131.0,38.09,507655313.0,38.42
+INDHOTEL,2021-12-20 12:10:00,2021-12-17,2021-12-15,2021-12-15,Director,Public Right,Buy,Equity Shares,11111.0,0.0,0.0,0.0,0.0,100000.0,0.01,111111.0,0.01
+INDHOTEL,2023-12-19 10:44:00,2023-12-18,2023-12-16,2023-12-16,Promoter Group,Preferential Offer,Buy,Equity Shares,132401.0,0.0,0.0,0.0,0.0,17857265.0,1.26,17989666.0,1.26

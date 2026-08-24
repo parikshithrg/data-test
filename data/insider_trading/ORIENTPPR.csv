@@ -1,0 +1,16 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ORIENTPPR,2017-02-23 16:38:00,2017-02-22,2017-02-22,2017-02-22,Promoter Group,Public Right,Buy,Equity Shares,204730.0,0.0,0.0,0.0,0.0,3673680.0,1.79,3878410.0,1.83
+ORIENTPPR,2017-02-23 16:38:00,2017-02-22,2017-02-22,2017-02-22,Promoter Group,Public Right,Buy,Equity Shares,4642.0,0.0,0.0,0.0,0.0,130000.0,0.06,134642.0,0.06
+ORIENTPPR,2017-02-23 16:38:00,2017-02-22,2017-02-22,2017-02-22,Promoters,Public Right,Buy,Equity Shares,372323.0,0.0,0.0,0.0,0.0,2897570.0,1.41,3269893.0,1.54
+ORIENTPPR,2017-02-23 16:38:00,2017-02-22,2017-02-22,2017-02-22,Promoter Group,Public Right,Buy,Equity Shares,440030.0,0.0,0.0,0.0,0.0,12320865.0,6.01,12760895.0,6.01
+ORIENTPPR,2017-02-23 16:38:00,2017-02-22,2017-02-22,2017-02-22,Promoter Group,Public Right,Buy,Equity Shares,186035.0,0.0,0.0,0.0,0.0,504000.0,0.25,690035.0,0.33
+ORIENTPPR,2017-02-23 16:38:00,2017-02-22,2017-02-22,2017-02-22,Promoter Group,Public Right,Buy,Equity Shares,423038.0,0.0,0.0,0.0,0.0,260000.0,0.13,683038.0,0.32
+ORIENTPPR,2017-02-23 16:38:00,2017-02-22,2017-02-22,2017-02-22,Promoter Group,Public Right,Buy,Equity Shares,79678.0,0.0,0.0,0.0,0.0,2231000.0,1.09,2310678.0,1.09
+ORIENTPPR,2017-02-23 16:38:00,2017-02-22,2017-02-22,2017-02-22,Promoters,Public Right,Buy,Equity Shares,1916021.0,0.0,0.0,0.0,0.0,50643627.0,24.72,52559648.0,24.77
+ORIENTPPR,2017-02-23 16:38:00,2017-02-22,2017-02-22,2017-02-22,Promoter Group,Public Right,Buy,Equity Shares,56875.0,0.0,0.0,0.0,0.0,1592500.0,0.78,1649375.0,0.78
+ORIENTPPR,2017-04-13 17:45:00,2017-04-12,2017-04-11,2017-04-11,Promoter Group,Market Sale,Sell,Equity Shares,272000.0,0.0,0.0,0.0,0.0,3878410.0,1.83,3606410.0,1.7
+ORIENTPPR,2017-04-13 17:45:00,2017-04-12,2017-04-11,2017-04-11,Promoter Group,Market Purchase,Buy,Equity Shares,68000.0,0.0,0.0,0.0,0.0,844280.0,0.4,912280.0,0.43
+ORIENTPPR,2017-04-13 17:45:00,2017-04-12,2017-04-11,2017-04-11,Promoter Group,Market Purchase,Buy,Equity Shares,68000.0,0.0,0.0,0.0,0.0,260000.0,0.12,328000.0,0.15
+ORIENTPPR,2017-04-13 17:45:00,2017-04-12,2017-04-11,2017-04-11,Promoter Group,Market Purchase,Buy,Equity Shares,136000.0,0.0,0.0,0.0,0.0,3269893.0,1.54,3405893.0,1.61
+ORIENTPPR,2018-04-03 21:14:00,2018-03-30,2018-03-30,2018-03-30,Promoters,Off Market,Sell,Equity Shares,280000.0,0.0,0.0,0.0,0.0,280000.0,0.13,,0.0
+ORIENTPPR,2019-08-22 16:50:00,2019-08-22,2019-08-20,2019-08-21,Promoters,Market Purchase,Buy,Equity Shares,460000.0,0.0,0.0,0.0,0.0,12760895.0,6.01,13220895.0,6.23

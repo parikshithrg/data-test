@@ -1,0 +1,471 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+DIVISLAB,2015-11-26 14:51:00,2015-11-23,2015-11-16,2015-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,24000.0,0.009,23000.0,0.0087
+DIVISLAB,2016-01-05 12:24:00,2016-01-01,2015-12-30,2015-12-30,Director,Inter-se-Transfer,Buy,Equity Shares,27000.0,0.0,0.0,0.0,0.0,537632.0,0.2,564632.0,0.21
+DIVISLAB,2016-01-13 15:51:00,2016-01-13,2016-01-11,2016-01-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,56200.0,0.02,53200.0,0.02
+DIVISLAB,2016-02-17 19:33:00,2016-02-15,2016-02-12,2016-02-12,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,60000.0,0.023,63000.0,0.024
+DIVISLAB,2016-02-23 15:39:00,2016-02-18,2016-02-16,2016-02-17,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,63000.0,0.024,65000.0,0.024
+DIVISLAB,2016-05-17 15:09:00,2016-05-17,2016-05-09,2016-05-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2700.0,0.0,0.0,0.0,0.0,26400.0,0.01,23700.0,0.009
+DIVISLAB,2016-06-03 10:53:00,2016-06-02,2016-06-01,2016-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,23700.0,0.009,23200.0,0.0087
+DIVISLAB,2016-06-03 14:37:00,2016-06-03,2016-06-02,2016-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,18940.0,0.007,13940.0,0.005
+DIVISLAB,2016-06-06 17:37:00,2016-06-04,2016-05-31,2016-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,22400.0,0.0084,20000.0,0.0075
+DIVISLAB,2016-06-08 14:47:00,2016-06-07,2016-06-03,2016-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,91776.0,0.0345,90776.0,0.0341
+DIVISLAB,2016-06-14 18:17:00,2016-06-13,2016-06-07,2016-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,42000.0,0.016,37500.0,0.014
+DIVISLAB,2016-07-11 10:35:00,2016-07-08,2016-07-07,2016-07-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,25000.0,0.0094,20000.0,0.0075
+DIVISLAB,2016-08-18 09:47:00,2016-08-18,2016-08-17,2016-08-17,Promoters,Market Sale,Sell,Equity Shares,50000.0,0.0,0.0,0.0,0.0,100000.0,0.04,50000.0,0.02
+DIVISLAB,2016-08-19 11:32:00,2016-08-18,2016-08-17,2016-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7300.0,0.0,0.0,0.0,0.0,65000.0,0.024,57700.0,0.022
+DIVISLAB,2016-08-19 17:34:00,2016-08-19,2016-08-18,2016-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,20000.0,0.0075,10000.0,0.0038
+DIVISLAB,2016-08-23 14:15:00,2016-08-23,2016-08-19,2016-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,57700.0,0.022,56200.0,0.021
+DIVISLAB,2016-08-25 10:03:00,2016-08-24,2016-08-24,2016-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,56200.0,0.021,55000.0,0.02
+DIVISLAB,2016-08-29 17:21:00,2016-08-25,2016-08-25,2016-08-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,55000.0,0.2,53500.0,0.019
+DIVISLAB,2016-09-13 11:28:00,2016-09-10,2016-09-09,2016-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,53500.0,0.02,52000.0,0.019
+DIVISLAB,2016-09-16 10:05:00,2016-09-15,2016-09-08,2016-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2100.0,0.0,0.0,0.0,0.0,6060.0,0.0023,3960.0,0.0015
+DIVISLAB,2016-09-19 14:36:00,2016-09-16,2016-09-15,2016-09-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,52000.0,0.019,51500.0,0.019
+DIVISLAB,2016-12-27 11:05:00,2016-12-26,2016-12-23,2016-12-26,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2196.0,0.0,0.0,0.0,0.0,4.0,0.0,2200.0,0.001
+DIVISLAB,2016-12-28 14:16:00,2016-12-26,2016-12-26,2016-12-26,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,52800.0,0.02,57800.0,0.022
+DIVISLAB,2016-12-29 10:31:00,2016-12-29,2016-12-28,2016-12-28,Director,Market Purchase,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,564632.0,0.21,584632.0,0.22
+DIVISLAB,2017-01-17 15:08:00,2017-01-13,2017-01-11,2017-01-12,Immediate relative,Market Purchase,Buy,Equity Shares,2220.0,0.0,0.0,0.0,0.0,1580.0,0.0006,3800.0,0.0014
+DIVISLAB,2017-03-22 14:55:00,2017-03-21,2017-03-20,2017-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0038,,0.0
+DIVISLAB,2017-03-27 16:05:00,2017-03-27,2017-03-24,2017-03-24,Immediate relative,Market Purchase,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0008
+DIVISLAB,2017-06-01 11:52:00,2017-05-31,2017-05-29,2017-05-30,Immediate relative,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,5000.0,0.004,15000.0,0.011
+DIVISLAB,2017-06-13 12:40:00,2017-06-12,2017-06-09,2017-06-12,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,1068.0,0.0,8068.0,0.003
+DIVISLAB,2017-06-23 12:15:00,2017-06-22,2017-06-20,2017-06-21,Immediate relative,Market Purchase,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,850.0,0.0,3850.0,0.0014
+DIVISLAB,2017-07-27 12:46:00,2017-07-26,2017-07-25,2017-07-25,Immediate relative,Market Purchase,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.001
+DIVISLAB,2017-08-02 12:43:00,2017-08-01,2017-07-28,2017-07-31,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,8068.0,0.003,14068.0,0.005
+DIVISLAB,2017-08-03 11:13:00,2017-08-03,2017-08-02,2017-08-02,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,14068.0,0.005,18068.0,0.0068
+DIVISLAB,2017-08-05 12:07:00,2017-08-03,2017-08-02,2017-08-02,Immediate relative,Market Purchase,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,3850.0,0.0014,8850.0,0.0033
+DIVISLAB,2017-08-09 15:20:00,2017-08-08,2017-08-02,2017-08-08,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,13640.0,0.0,0.0,0.0,0.0,21840.0,0.008,35480.0,0.013
+DIVISLAB,2017-10-13 11:56:00,2017-10-12,2017-09-29,2017-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10800.0,0.0,0.0,0.0,0.0,16800.0,0.01,6000.0,0.0
+DIVISLAB,2017-10-18 15:41:00,2017-10-18,2017-09-04,2017-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13000.0,0.0,0.0,0.0,0.0,14067.0,0.01,1067.0,0.0
+DIVISLAB,2017-11-08 10:58:00,2017-11-07,2017-11-06,2017-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,23100.0,0.01,22000.0,0.01
+DIVISLAB,2017-12-26 09:49:00,2017-12-22,2017-12-21,2017-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,23206.0,0.01,22206.0,0.01
+DIVISLAB,2018-01-01 15:54:00,2017-12-29,2017-12-29,2017-12-29,Immediate relative,Gift,Buy,Equity Shares,120000.0,0.0,0.0,0.0,0.0,2000.0,0.0,122000.0,0.05
+DIVISLAB,2018-01-01 15:54:00,2017-12-29,2017-12-29,2017-12-29,Director,Gift,Sell,Equity Shares,360000.0,0.0,0.0,0.0,0.0,923078.0,0.35,563078.0,0.21
+DIVISLAB,2018-01-01 16:01:00,2017-12-29,2017-12-29,2017-12-29,Promoter Group,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,50000.0,0.02,20000.0,0.01
+DIVISLAB,2018-01-09 12:35:00,2018-01-09,2018-01-05,2018-01-08,Promoter Group,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,20000.0,0.01,,0.0
+DIVISLAB,2018-01-18 12:33:00,2018-01-17,2018-01-15,2018-01-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,38200.0,0.01,32700.0,0.01
+DIVISLAB,2018-02-14 10:44:00,2018-02-12,2018-02-08,2018-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,71000.0,0.03,66000.0,0.03
+DIVISLAB,2018-02-17 08:59:00,2018-02-16,2018-02-14,2018-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,66000.0,0.03,61000.0,0.02
+DIVISLAB,2018-03-12 12:14:00,2018-03-10,2018-03-06,2018-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5974.0,0.0,0.0,0.0,0.0,101095.0,0.04,95121.0,0.04
+DIVISLAB,2018-03-16 11:10:00,2018-03-15,2018-02-16,2018-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,51500.0,0.02,43500.0,0.02
+DIVISLAB,2018-03-20 15:57:00,2018-03-17,2018-03-16,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,22206.0,0.01,21306.0,0.01
+DIVISLAB,2018-03-22 12:05:00,2018-03-21,2018-03-20,2018-03-21,Immediate relative,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,8850.0,0.0,850.0,0.0
+DIVISLAB,2018-03-23 12:05:00,2018-03-23,2018-03-21,2018-03-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4879.0,0.0,0.0,0.0,0.0,18068.0,0.01,13189.0,0.01
+DIVISLAB,2018-04-04 15:35:00,2018-04-04,2018-04-02,2018-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,32700.0,0.01,30200.0,0.01
+DIVISLAB,2018-04-05 12:34:00,2018-04-05,2018-04-03,2018-04-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5421.0,0.0,0.0,0.0,0.0,13189.0,0.01,7768.0,0.0
+DIVISLAB,2018-04-07 12:17:00,2018-04-07,2018-04-06,2018-04-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,7768.0,0.0,268.0,0.0
+DIVISLAB,2018-04-12 14:20:00,2018-04-11,2018-04-10,2018-04-10,Promoter Group,Market Sale,Sell,Equity Shares,5626.0,0.0,0.0,0.0,0.0,584632.0,0.22,579006.0,0.22
+DIVISLAB,2018-04-16 10:00:00,2018-04-14,2018-04-13,2018-04-13,Promoter Group,Market Sale,Sell,Equity Shares,4374.0,0.0,0.0,0.0,0.0,579006.0,0.22,574632.0,0.22
+DIVISLAB,2018-04-18 09:48:00,2018-04-17,2018-04-16,2018-04-16,Promoters,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,574632.0,0.22,564632.0,0.21
+DIVISLAB,2018-04-21 09:50:00,2018-04-19,2018-04-17,2018-04-18,Promoter Group,Market Sale,Sell,Equity Shares,13200.0,0.0,0.0,0.0,0.0,564632.0,0.21,551432.0,0.21
+DIVISLAB,2018-04-24 11:47:00,2018-04-21,2018-04-20,2018-04-20,Promoter Group,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,551432.0,0.21,549632.0,0.21
+DIVISLAB,2018-04-28 11:58:00,2018-04-26,2018-04-18,2018-04-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2607.0,0.0,0.0,0.0,0.0,91900.0,0.03,89293.0,0.03
+DIVISLAB,2018-04-30 15:37:00,2018-04-26,2018-04-23,2018-04-24,Promoter Group,Market Sale,Sell,Equity Shares,9561.0,0.0,0.0,0.0,0.0,549632.0,0.21,540071.0,0.2
+DIVISLAB,2018-05-03 15:47:00,2018-05-02,2018-05-02,2018-05-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2393.0,0.0,0.0,0.0,0.0,89293.0,0.03,86900.0,0.03
+DIVISLAB,2018-05-03 16:46:00,2018-05-02,2018-04-30,2018-04-30,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,540071.0,0.2,535071.0,0.2
+DIVISLAB,2018-05-04 15:49:00,2018-05-02,2018-05-02,2018-05-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,57800.0,0.02,49800.0,0.02
+DIVISLAB,2018-06-13 15:33:00,2018-06-12,2018-06-07,2018-06-07,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1800.0,0.0,0.0,0.0,0.0,,0.0,1800.0,0.0
+DIVISLAB,2018-06-27 10:33:00,2018-06-27,2018-06-25,2018-06-25,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1800.0,0.0,0.0,0.0,0.0,1800.0,0.0,3600.0,0.0
+DIVISLAB,2018-07-10 14:49:00,2018-07-10,2018-04-27,2018-04-27,Promoters,Market Sale,Sell,Equity Shares,5439.0,0.0,0.0,0.0,0.0,535071.0,0.2,529632.0,0.2
+DIVISLAB,2018-07-13 16:55:00,2018-07-12,2018-07-11,2018-07-11,Promoter Group,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,529632.0,0.2,519632.0,0.2
+DIVISLAB,2018-08-22 11:58:00,2018-08-22,2018-08-20,2018-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,43500.0,0.02,42500.0,0.02
+DIVISLAB,2018-08-22 11:58:00,2018-08-22,2018-08-20,2018-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3100.0,0.0,0.0,0.0,0.0,86900.0,0.03,83800.0,0.03
+DIVISLAB,2018-08-22 15:38:00,2018-08-22,2018-08-20,2018-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,30600.0,0.01,25600.0,0.01
+DIVISLAB,2018-08-23 14:25:00,2018-08-22,2018-08-20,2018-08-21,Immediate relative,Market Sale,Sell,Equity Shares,19000.0,0.0,0.0,0.0,0.0,122000.0,0.05,103000.0,0.04
+DIVISLAB,2018-08-25 09:59:00,2018-08-23,2018-08-23,2018-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,83800.0,0.03,82900.0,0.03
+DIVISLAB,2018-08-27 16:42:00,2018-08-24,2018-08-23,2018-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,103000.0,0.04,93000.0,0.04
+DIVISLAB,2018-08-27 16:42:00,2018-08-27,2018-08-24,2018-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,93000.0,0.04,88000.0,0.03
+DIVISLAB,2018-08-28 09:57:00,2018-08-27,2018-08-23,2018-08-24,Promoter Group,Market Sale,Sell,Equity Shares,7654.0,0.0,0.0,0.0,0.0,519632.0,0.2,511978.0,0.19
+DIVISLAB,2018-08-28 15:00:00,2018-08-27,2018-08-24,2018-08-27,Immediate relative,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,3000.0,0.0,1500.0,0.0
+DIVISLAB,2018-08-29 15:36:00,2018-08-28,2018-08-27,2018-08-27,Promoter Group,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,511978.0,0.19,509478.0,0.19
+DIVISLAB,2018-09-08 15:09:00,2018-09-07,2018-09-06,2018-09-06,Immediate relative,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,88000.0,0.03,83000.0,0.03
+DIVISLAB,2018-09-18 16:54:00,2018-09-18,2018-09-17,2018-09-17,Immediate relative,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,83000.0,0.03,78000.0,0.03
+DIVISLAB,2018-09-18 16:54:00,2018-09-15,2018-08-20,2018-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,21306.0,0.01,20306.0,0.01
+DIVISLAB,2018-09-18 16:54:00,2018-09-17,2018-09-17,2018-09-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,49800.0,0.02,44800.0,0.02
+DIVISLAB,2018-10-11 12:21:00,2018-10-10,2018-10-09,2018-10-09,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,20725.0,0.0,0.0,0.0,0.0,,0.0,20725.0,0.01
+DIVISLAB,2018-10-31 16:48:00,2018-10-31,2018-10-31,2018-10-31,Promoter Group,Gift,Buy,Equity Shares,8000000.0,0.0,0.0,0.0,0.0,46000000.0,17.33,54000000.0,20.34
+DIVISLAB,2018-10-31 16:48:00,2018-10-31,2018-10-31,2018-10-31,Promoters,Gift,Sell,Equity Shares,8000000.0,0.0,0.0,0.0,0.0,15567000.0,5.86,7567000.0,2.85
+DIVISLAB,2018-11-02 10:53:00,2018-11-02,2018-10-30,2018-11-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3070.0,0.0,0.0,0.0,0.0,9670.0,0.0,6600.0,0.0
+DIVISLAB,2018-11-05 14:43:00,2018-11-05,2018-11-01,2018-11-02,Promoter Group,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,509478.0,0.19,506478.0,0.19
+DIVISLAB,2018-11-12 14:30:00,2018-11-10,2018-11-09,2018-11-09,Promoter Group,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,506478.0,0.19,494478.0,0.19
+DIVISLAB,2018-11-13 16:31:00,2018-11-09,2018-11-06,2018-11-06,Immediate relative,Off Market,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,15000.0,0.01,16000.0,0.01
+DIVISLAB,2018-11-13 16:31:00,2018-11-13,2018-11-12,2018-11-12,Promoter Group,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,494478.0,0.19,487478.0,0.18
+DIVISLAB,2018-11-17 12:29:00,2018-11-17,2018-11-16,2018-11-16,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,487478.0,0.18,482478.0,0.18
+DIVISLAB,2018-11-21 15:42:00,2018-11-20,2018-11-19,2018-11-19,Promoter Group,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,482478.0,0.18,481478.0,0.18
+DIVISLAB,2018-11-23 16:08:00,2018-11-23,2018-11-22,2018-11-22,Promoter Group,Market Sale,Sell,Equity Shares,3718.0,0.0,0.0,0.0,0.0,481478.0,0.18,477760.0,0.18
+DIVISLAB,2018-12-13 11:30:00,2018-12-12,2018-12-12,2018-12-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,42500.0,0.02,41800.0,0.02
+DIVISLAB,2019-02-11 14:39:00,2019-02-11,2019-02-08,2019-02-08,Promoter Group,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,477760.0,0.18,473760.0,0.18
+DIVISLAB,2019-02-11 14:39:00,2019-02-11,2019-02-06,2019-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1180.0,0.0,0.0,0.0,0.0,34950.0,0.01,33770.0,0.01
+DIVISLAB,2019-02-13 11:52:00,2019-02-12,2019-01-22,2019-01-22,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,,0.0,1500.0,0.0
+DIVISLAB,2019-02-13 15:12:00,2019-02-13,2019-02-11,2019-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,33770.0,0.01,32570.0,0.01
+DIVISLAB,2019-03-16 10:50:00,2019-03-16,2019-03-15,2019-03-15,Immediate relative,Market Sale,Sell,Equity Shares,3415.0,0.0,0.0,0.0,0.0,61415.0,0.02,58000.0,0.02
+DIVISLAB,2019-03-16 10:50:00,2019-03-14,2019-03-12,2019-03-12,Immediate relative,Market Sale,Sell,Equity Shares,16585.0,0.0,0.0,0.0,0.0,78000.0,0.03,61415.0,0.02
+DIVISLAB,2019-03-19 14:32:00,2019-03-16,2019-03-15,2019-03-15,Promoter Group,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,473760.0,0.18,472760.0,0.18
+DIVISLAB,2019-07-09 17:07:00,2019-07-06,2019-07-04,2019-07-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,558.0,0.0,0.0,0.0,0.0,30200.0,0.01,29642.0,0.01
+DIVISLAB,2019-07-20 16:44:00,2019-07-18,2019-07-10,2019-07-10,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,12500.0,0.0,0.0,0.0,0.0,41800.0,0.02,41800.0,0.02
+DIVISLAB,2019-07-23 12:12:00,2019-07-20,2019-07-15,2019-07-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1500.0,0.0,,0.0
+DIVISLAB,2019-08-12 14:47:00,2019-08-12,2019-08-06,2019-08-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6400.0,0.0,5400.0,0.0
+DIVISLAB,2019-09-05 16:05:00,2019-09-05,2019-09-03,2019-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,5400.0,0.0,4500.0,0.0
+DIVISLAB,2019-09-05 16:05:00,2019-09-05,2019-09-04,2019-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13200.0,0.0,0.0,0.0,0.0,44800.0,0.02,31600.0,0.01
+DIVISLAB,2019-09-10 11:57:00,2019-09-10,2019-09-09,2019-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6600.0,0.0,0.0,0.0,0.0,31600.0,0.01,25000.0,0.01
+DIVISLAB,2019-11-21 16:34:00,2019-11-21,2019-11-20,2019-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,41800.0,0.02,36800.0,0.01
+DIVISLAB,2019-11-21 16:34:00,2019-11-21,2019-11-20,2019-11-20,Immediate relative,Market Sale,Sell,Equity Shares,9462.0,0.0,0.0,0.0,0.0,57985.0,0.02,48523.0,0.02
+DIVISLAB,2019-11-25 16:11:00,2019-11-22,2019-11-20,2019-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,38000.0,0.01,37500.0,0.01
+DIVISLAB,2019-11-28 12:50:00,2019-11-27,2019-11-26,2019-11-27,Immediate relative,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,48523.0,0.02,33523.0,0.01
+DIVISLAB,2019-11-29 16:24:00,2019-11-29,2019-11-25,2019-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,95121.0,0.04,90121.0,0.03
+DIVISLAB,2019-11-29 16:24:00,2019-11-28,2019-11-25,2019-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,37500.0,0.01,36700.0,0.01
+DIVISLAB,2019-12-06 15:57:00,2019-12-06,2019-11-29,2019-12-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,14500.0,0.01,11500.0,0.0
+DIVISLAB,2019-12-12 15:13:00,2019-12-11,2019-12-09,2019-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4500.0,0.0,4000.0,0.0
+DIVISLAB,2019-12-13 16:52:00,2019-12-13,2019-11-28,2019-12-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,36700.0,0.01,36300.0,0.01
+DIVISLAB,2019-12-13 16:52:00,2019-12-13,2019-12-11,2019-12-11,Immediate relative,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,33523.0,0.01,23523.0,0.01
+DIVISLAB,2019-12-14 15:13:00,2019-12-14,2019-12-11,2019-12-13,Promoter Group,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,472760.0,0.18,442760.0,0.17
+DIVISLAB,2019-12-17 14:22:00,2019-12-17,2019-12-13,2019-12-16,Immediate relative,Market Sale,Sell,Equity Shares,23523.0,0.0,0.0,0.0,0.0,23523.0,0.01,,0.0
+DIVISLAB,2019-12-31 15:54:00,2019-12-30,2019-12-30,2019-12-30,Director,Gift,Sell,Equity Shares,240000.0,0.0,0.0,0.0,0.0,563078.0,0.21,323078.0,0.12
+DIVISLAB,2019-12-31 15:54:00,2019-12-31,2019-12-31,2019-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,90770.0,0.03,80770.0,0.03
+DIVISLAB,2020-02-18 14:48:00,2020-02-18,2020-02-17,2020-02-17,Promoter Group,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,442760.0,0.17,422760.0,0.16
+DIVISLAB,2020-02-19 17:10:00,2020-02-19,2020-02-17,2020-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1570.0,0.0,0.0,0.0,0.0,32570.0,0.01,31000.0,0.01
+DIVISLAB,2020-03-05 17:21:00,2020-03-05,2020-03-04,2020-03-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3600.0,0.0,2600.0,0.0
+DIVISLAB,2020-03-05 17:21:00,2020-03-04,2020-03-02,2020-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,45600.0,0.02,42600.0,0.02
+DIVISLAB,2020-03-05 17:21:00,2020-03-03,2020-02-28,2020-02-28,Promoter Group,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,422760.0,0.16,407760.0,0.16
+DIVISLAB,2020-03-05 17:21:00,2020-03-05,2020-03-04,2020-03-04,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,407760.0,0.15,402760.0,0.15
+DIVISLAB,2020-03-07 09:32:00,2020-03-07,2020-03-06,2020-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,81500.0,0.03,81000.0,0.03
+DIVISLAB,2020-03-07 09:32:00,2020-03-05,2020-03-03,2020-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,82900.0,0.03,81500.0,0.03
+DIVISLAB,2020-03-10 16:59:00,2020-03-07,2020-03-03,2020-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,36200.0,0.01,35700.0,0.01
+DIVISLAB,2020-03-10 16:59:00,2020-03-07,2020-03-06,2020-03-06,Promoter Group,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,402760.0,0.15,382760.0,0.14
+DIVISLAB,2020-03-12 16:55:00,2020-03-11,2020-03-11,2020-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,1800.0,0.0,1200.0,0.0
+DIVISLAB,2020-03-16 16:28:00,2020-03-14,2020-02-15,2020-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,19306.0,0.0,18706.0,0.0
+DIVISLAB,2020-03-16 16:28:00,2020-03-14,2020-03-13,2020-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,413.0,0.0,0.0,0.0,0.0,1200.0,0.0,787.0,0.0
+DIVISLAB,2020-03-23 14:49:00,2020-03-23,2020-03-19,2020-03-19,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,382760.0,0.14,377760.0,0.14
+DIVISLAB,2020-03-27 16:52:00,2020-03-26,2020-03-19,2020-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6800.0,0.0,0.0,0.0,0.0,49212.0,0.02,42412.0,0.02
+DIVISLAB,2020-03-28 10:46:00,2020-03-27,2020-03-19,2020-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,18706.0,0.01,17806.0,0.01
+DIVISLAB,2020-04-06 15:16:00,2020-04-03,2020-03-23,2020-03-23,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,377760.0,0.14,372760.0,0.14
+DIVISLAB,2020-04-11 12:44:00,2020-04-11,2020-03-24,2020-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1990.0,0.0,0.0,0.0,0.0,1990.0,0.0,,0.0
+DIVISLAB,2020-04-22 14:25:00,2020-04-22,2020-02-28,2020-03-13,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,740.0,0.0,0.0,0.0,0.0,312.0,0.0,1052.0,0.0
+DIVISLAB,2020-06-25 16:09:00,2020-06-24,2020-06-19,2020-06-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,34400.0,0.01,32000.0,0.01
+DIVISLAB,2020-06-25 16:09:00,2020-06-25,2020-06-22,2020-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9825.0,0.0,0.0,0.0,0.0,20725.0,0.01,10900.0,0.0
+DIVISLAB,2020-07-03 14:51:00,2020-07-02,2020-06-30,2020-06-30,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,362760.0,0.14,357760.0,0.14
+DIVISLAB,2020-07-18 18:22:00,2020-07-17,2017-07-07,2017-07-10,Immediate relative,Market Purchase,Buy,Equity Shares,28000.0,0.0,0.0,0.0,0.0,,0.0,28000.0,0.01
+DIVISLAB,2020-07-18 18:22:00,2020-07-17,2017-07-10,2017-07-13,Immediate relative,Market Sale,Sell,Equity Shares,28000.0,0.0,0.0,0.0,0.0,28000.0,0.01,,0.0
+DIVISLAB,2020-07-18 18:22:00,,,,Immediate relative,-,-,,,28000.0,0.0,19128671.0,0.0,,0.0,,
+DIVISLAB,2020-07-18 18:22:00,,,,Immediate relative,-,-,,,16000.0,0.0,10569000.0,0.0,,0.0,,
+DIVISLAB,2020-07-18 18:22:00,,,,Immediate relative,-,-,,,0.0,28000.0,0.0,20579663.0,,0.0,,
+DIVISLAB,2020-07-18 18:22:00,,,,Immediate relative,-,-,,,0.0,16000.0,0.0,11729200.0,,0.0,,
+DIVISLAB,2020-07-18 18:22:00,,,,Immediate relative,-,-,,,0.0,16000.0,0.0,11725400.0,,0.0,,
+DIVISLAB,2020-07-18 18:22:00,,,,Immediate relative,-,-,,,16000.0,0.0,10563400.0,0.0,,0.0,,
+DIVISLAB,2020-08-03 17:05:00,,,,Employees/Designated Employees,-,-,,,4000.0,0.0,2767200.0,0.0,,0.0,,
+DIVISLAB,2020-08-03 17:05:00,,,,Employees/Designated Employees,-,-,,,0.0,4000.0,0.0,2950200.0,,0.0,,
+DIVISLAB,2020-08-14 09:13:00,2020-08-13,2020-08-11,2020-08-11,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,357760.0,0.14,352760.0,0.13
+DIVISLAB,2020-08-17 17:34:00,2020-08-14,2020-08-13,2020-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,232700.0,0.09,212700.0,0.08
+DIVISLAB,2020-08-17 17:34:00,2020-08-17,2020-08-13,2020-08-13,Promoter Group,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,352760.0,0.13,350760.0,0.13
+DIVISLAB,2020-08-20 15:54:00,2020-08-18,2020-08-11,2020-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,35700.0,0.01,35350.0,0.01
+DIVISLAB,2020-08-20 15:54:00,2020-08-19,2020-08-17,2020-08-18,Promoter Group,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,350760.0,0.13,342760.0,0.13
+DIVISLAB,2020-08-20 15:54:00,2020-08-20,2020-08-19,2020-08-19,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,342760.0,0.13,337760.0,0.13
+DIVISLAB,2020-08-25 12:42:00,2020-08-24,2020-08-20,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3550.0,0.0,0.0,0.0,0.0,81000.0,0.03,77450.0,0.03
+DIVISLAB,2020-08-25 12:42:00,2020-08-21,2020-08-19,2020-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,16503.0,0.0,0.0,0.0,0.0,212700.0,0.08,196197.0,0.07
+DIVISLAB,2020-08-25 12:42:00,2020-08-24,2020-08-21,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3389.0,0.0,0.0,0.0,0.0,196197.0,0.07,192808.0,0.07
+DIVISLAB,2020-08-25 12:42:00,2020-08-24,2020-08-20,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,32000.0,0.01,30500.0,0.01
+DIVISLAB,2020-09-01 15:28:00,2020-08-29,2020-08-28,2020-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,35350.0,0.01,35250.0,0.01
+DIVISLAB,2020-09-01 15:28:00,2020-08-31,2020-08-07,2020-08-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,17806.0,0.01,17506.0,0.01
+DIVISLAB,2020-09-04 16:32:00,2020-09-03,2020-09-02,2020-09-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3450.0,0.0,0.0,0.0,0.0,77450.0,0.03,74000.0,0.03
+DIVISLAB,2020-09-08 15:17:00,2020-09-07,2020-09-04,2020-09-04,Immediate relative,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,,0.0
+DIVISLAB,2020-09-15 15:14:00,2020-09-11,2020-09-09,2020-09-09,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3400.0,0.0,3400.0,0.0
+DIVISLAB,2020-09-18 15:38:00,2020-09-17,2020-09-15,2020-09-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11250.0,0.0,0.0,0.0,0.0,22500.0,0.01,11250.0,0.0
+DIVISLAB,2020-09-21 12:45:00,2020-09-19,2020-09-18,2020-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,74000.0,0.03,73000.0,0.03
+DIVISLAB,2020-11-13 17:01:00,2020-11-12,2020-11-10,2020-11-11,Promoter Group,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,337760.0,0.13,330760.0,0.12
+DIVISLAB,2020-11-13 17:01:00,2020-11-13,2020-11-12,2020-11-12,Immediate relative,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,5000.0,0.0,4200.0,0.0
+DIVISLAB,2020-11-13 17:01:00,2020-11-13,2020-11-10,2020-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,18000.0,0.01,17500.0,0.01
+DIVISLAB,2020-11-13 17:01:00,2020-11-13,2020-11-12,2020-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,1000.0,0.0,300.0,0.0
+DIVISLAB,2020-11-17 10:55:00,2020-11-16,2020-11-12,2020-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,73000.0,0.03,71750.0,0.03
+DIVISLAB,2020-11-17 10:55:00,2020-11-16,2020-11-12,2020-11-13,Promoter Group,Market Sale,Sell,Equity Shares,3649.0,0.0,0.0,0.0,0.0,330760.0,0.12,327111.0,0.12
+DIVISLAB,2020-11-18 15:28:00,2020-11-18,2020-11-14,2020-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,17500.0,0.01,17300.0,0.01
+DIVISLAB,2020-11-18 15:28:00,2020-11-17,2020-11-13,2020-11-13,Immediate relative,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,4200.0,0.0,3900.0,0.0
+DIVISLAB,2020-11-19 15:26:00,2020-11-19,2020-11-17,2020-11-18,Promoter Group,Market Sale,Sell,Equity Shares,6851.0,0.0,0.0,0.0,0.0,327111.0,0.12,320260.0,0.12
+DIVISLAB,2020-11-23 10:51:00,2020-11-20,2020-11-18,2020-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,17300.0,0.01,17000.0,0.01
+DIVISLAB,2020-11-25 12:21:00,2020-11-25,2020-11-18,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,30500.0,0.01,29200.0,0.01
+DIVISLAB,2020-11-25 12:21:00,2020-11-24,2020-11-20,2020-11-23,Promoter Group,Market Sale,Sell,Equity Shares,12500.0,0.0,0.0,0.0,0.0,320260.0,0.12,307760.0,0.12
+DIVISLAB,2020-12-01 15:27:00,2020-11-30,2020-11-27,2020-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,642.0,0.0,0.0,0.0,0.0,29642.0,0.01,29000.0,0.01
+DIVISLAB,2020-12-05 15:26:00,2020-12-05,2020-12-03,2020-12-03,Promoter Group,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,307760.0,0.12,305260.0,0.11
+DIVISLAB,2020-12-09 11:45:00,2020-12-08,2020-12-04,2020-12-07,Promoter Group,Market Sale,Sell,Equity Shares,2660.0,0.0,0.0,0.0,0.0,305260.0,0.11,302600.0,0.11
+DIVISLAB,2020-12-23 16:55:00,2020-12-21,2020-12-18,2020-12-18,Immediate relative,Gift,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0
+DIVISLAB,2020-12-23 16:55:00,2020-12-21,2020-12-18,2020-12-18,Immediate relative,Gift,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+DIVISLAB,2020-12-23 16:55:00,2020-12-21,2020-12-18,2020-12-18,Employees/Designated Employees,Gift,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,15225.0,0.01,8225.0,0.0
+DIVISLAB,2020-12-30 17:10:00,2020-12-29,2020-09-03,2020-12-17,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1804.0,0.0,0.0,0.0,0.0,,0.0,1804.0,0.0
+DIVISLAB,2020-12-30 17:10:00,2020-12-29,2020-09-08,2020-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1804.0,0.0,0.0,0.0,0.0,1804.0,0.0,,0.0
+DIVISLAB,2020-12-30 17:10:00,2020-12-29,2020-10-09,2020-11-23,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2015.0,0.0,0.0,0.0,0.0,,0.0,2015.0,0.0
+DIVISLAB,2020-12-30 17:10:00,,,,Employees/Designated Employees,-,-,,,800.0,800.0,2654800.0,2648520.0,,0.0,,
+DIVISLAB,2020-12-30 17:10:00,2020-12-29,2020-10-08,2020-10-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,100.0,0.0,,0.0
+DIVISLAB,2020-12-30 17:10:00,,,,Employees/Designated Employees,-,-,,,400.0,400.0,1311580.0,1288000.0,,0.0,,
+DIVISLAB,2020-12-30 17:10:00,2020-12-29,2020-10-09,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2015.0,0.0,0.0,0.0,0.0,2015.0,0.0,,0.0
+DIVISLAB,2021-01-05 16:13:00,,,,Employees/Designated Employees,-,-,,,4200.0,4200.0,13791006.0,14323598.0,,0.0,,
+DIVISLAB,2021-01-05 16:13:00,2021-01-04,2020-10-15,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,304.0,0.0,0.0,0.0,0.0,305.0,0.0,1.0,0.0
+DIVISLAB,2021-01-05 16:13:00,2021-01-04,2020-10-15,2020-11-23,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,125.0,0.0,0.0,0.0,0.0,180.0,0.0,305.0,0.0
+DIVISLAB,2021-01-05 16:13:00,2021-01-04,2020-10-15,2020-10-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3.0,0.0,0.0,0.0,0.0,3.0,0.0,,0.0
+DIVISLAB,2021-01-05 16:13:00,,,,Employees/Designated Employees,-,-,,,600.0,600.0,2065178.0,2065669.0,,0.0,,
+DIVISLAB,2021-01-05 16:13:00,2021-01-04,2020-11-10,2020-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,263.0,0.0,0.0,0.0,0.0,357.0,0.0,94.0,0.0
+DIVISLAB,2021-01-05 16:13:00,2021-01-04,2020-11-02,2020-11-27,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,356.0,0.0,0.0,0.0,0.0,1.0,0.0,357.0,0.0
+DIVISLAB,2021-01-05 16:13:00,,,,Employees/Designated Employees,-,-,,,2000.0,2000.0,6667290.0,6670990.0,,0.0,,
+DIVISLAB,2021-01-05 16:13:00,2021-01-04,2020-10-15,2020-10-15,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,3.0,0.0,0.0,0.0,0.0,,0.0,3.0,0.0
+DIVISLAB,2021-01-12 09:02:00,2021-01-11,2020-12-09,2020-12-17,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,,0.0,300.0,0.0
+DIVISLAB,2021-01-12 09:02:00,2021-01-11,2020-12-09,2020-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,300.0,0.0,,0.0
+DIVISLAB,2021-03-08 09:46:00,2021-03-04,2021-03-02,2021-03-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,29000.0,0.01,28000.0,0.01
+DIVISLAB,2021-03-20 10:38:00,2021-03-19,2021-03-17,2021-03-19,Immediate relative,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,401.0,0.0,1401.0,0.0
+DIVISLAB,2021-03-25 11:39:00,2021-03-24,2021-02-01,2021-02-02,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,332.0,0.0,0.0,0.0,0.0,43412.0,0.01,43412.0,0.01
+DIVISLAB,2021-03-25 11:39:00,2021-03-24,2021-02-08,2021-02-08,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,5000.0,0.0,0.0,0.0,0.0,43412.0,0.01,43412.0,0.01
+DIVISLAB,2021-03-25 11:39:00,2021-03-23,2021-03-10,2021-03-10,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,36800.0,0.0,0.0,0.0,0.0,36800.0,0.01,36800.0,0.01
+DIVISLAB,2021-03-25 11:39:00,2021-03-23,2021-03-09,2021-03-09,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,36800.0,0.0,0.0,0.0,0.0,36800.0,0.01,36800.0,0.01
+DIVISLAB,2021-03-25 11:39:00,2021-03-24,2021-02-01,2021-02-01,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3400.0,0.0,3400.0,0.0
+DIVISLAB,2021-03-26 15:49:00,2021-03-25,2021-03-23,2021-03-23,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,2800.0,0.0,0.0,0.0,0.0,36800.0,0.01,36800.0,0.01
+DIVISLAB,2021-03-30 09:37:00,2021-03-26,2021-03-24,2021-03-24,Immediate relative,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,1020.0,0.0,620.0,0.0
+DIVISLAB,2021-04-01 16:29:00,2021-04-01,2021-03-31,2021-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,30000.0,0.0,29500.0,0.0
+DIVISLAB,2021-04-01 16:29:00,2021-03-30,2021-03-30,2021-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,31000.0,0.0,30000.0,0.0
+DIVISLAB,2021-05-03 15:28:00,2021-05-01,2021-04-26,2021-04-26,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,6980.0,0.0,0.0,0.0,0.0,7160.0,0.0,7160.0,0.0
+DIVISLAB,2021-06-07 16:42:00,2021-06-03,2021-06-01,2021-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,25600.0,0.01,24100.0,0.01
+DIVISLAB,2021-06-07 16:42:00,2021-06-04,2021-06-01,2021-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,260.0,0.0,0.0,0.0,0.0,35000.0,0.01,34740.0,0.01
+DIVISLAB,2021-06-07 16:48:00,2021-06-07,2021-06-04,2021-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,34740.0,0.01,34590.0,0.01
+DIVISLAB,2021-06-09 14:34:00,2021-06-08,2021-06-04,2021-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,192808.0,0.07,190308.0,0.07
+DIVISLAB,2021-06-10 12:08:00,2021-06-08,2021-06-04,2021-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,192808.0,0.07,190308.0,0.07
+DIVISLAB,2021-06-10 12:13:00,2021-06-10,2021-06-08,2021-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,11500.0,0.0,11100.0,0.0
+DIVISLAB,2021-06-12 10:36:00,2021-06-11,2021-06-10,2021-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,11100.0,0.0,8700.0,0.0
+DIVISLAB,2021-06-14 11:20:00,2021-06-14,2021-06-10,2021-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,190.0,0.0,0.0,0.0,0.0,34590.0,0.01,34400.0,0.01
+DIVISLAB,2021-06-18 11:27:00,2021-06-18,2021-06-18,2021-06-18,Immediate relative,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,10000.0,0.0,7500.0,0.0
+DIVISLAB,2021-06-25 12:43:00,2021-06-25,2021-06-24,2021-06-24,Immediate relative,Gift,Buy,Equity Shares,53560.0,0.0,0.0,0.0,0.0,,0.0,53560.0,0.02
+DIVISLAB,2021-06-25 12:43:00,2021-06-25,2021-06-24,2021-06-24,Director,Gift,Sell,Equity Shares,53560.0,0.0,0.0,0.0,0.0,323078.0,0.12,269518.0,0.1
+DIVISLAB,2021-06-26 15:24:00,2021-06-25,2021-06-25,2021-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,8700.0,0.0,7700.0,0.0
+DIVISLAB,2021-06-26 15:24:00,2021-06-25,2021-06-23,2021-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,190308.0,0.07,182808.0,0.07
+DIVISLAB,2021-06-29 16:52:00,2021-06-29,2021-06-19,2021-06-19,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3700.0,0.0,3700.0,0.0
+DIVISLAB,2021-07-01 16:29:00,2021-06-30,2021-06-28,2021-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6300.0,0.0,5300.0,0.0
+DIVISLAB,2021-07-01 16:29:00,2021-06-30,2021-06-30,2021-06-30,Immediate relative,Gift,Buy,Equity Shares,24000.0,0.0,0.0,0.0,0.0,,0.0,24000.0,0.01
+DIVISLAB,2021-07-01 16:29:00,2021-06-29,2021-06-25,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,182808.0,0.07,172808.0,0.07
+DIVISLAB,2021-07-01 16:29:00,2021-06-30,2021-06-28,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4519.0,0.0,3519.0,0.0
+DIVISLAB,2021-07-01 16:29:00,2021-06-30,2021-06-28,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,8025.0,0.0,4025.0,0.0
+DIVISLAB,2021-07-01 16:49:00,2021-07-01,2021-06-30,2021-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,172808.0,0.07,167808.0,0.06
+DIVISLAB,2021-07-03 10:13:00,2021-07-01,2021-06-30,2021-06-30,Employees/Designated Employees,Gift,Buy,Equity Shares,2120.0,0.0,0.0,0.0,0.0,7500.0,0.0,9620.0,0.0
+DIVISLAB,2021-07-03 10:13:00,2021-07-01,2021-06-30,2021-06-30,Employees/Designated Employees,Gift,Buy,Equity Shares,19500.0,0.0,0.0,0.0,0.0,3716.0,0.0,23216.0,0.01
+DIVISLAB,2021-08-12 16:41:00,2021-08-11,2021-08-10,2021-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,29500.0,0.01,28500.0,0.01
+DIVISLAB,2021-08-13 16:29:00,2021-08-13,2021-08-12,2021-08-12,Immediate relative,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,9620.0,0.0,7120.0,0.0
+DIVISLAB,2021-08-17 16:52:00,2021-08-17,2021-08-13,2021-08-13,Immediate relative,Gift,Buy,Equity Shares,11000.0,0.0,0.0,0.0,0.0,,0.0,11000.0,0.0
+DIVISLAB,2021-08-17 16:52:00,2021-08-17,2021-08-13,2021-08-13,Employees/Designated Employees,Gift,Sell,Equity Shares,11000.0,0.0,0.0,0.0,0.0,29200.0,0.01,18200.0,0.01
+DIVISLAB,2021-08-17 16:52:00,2021-08-14,2021-08-13,2021-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,28500.0,0.01,28000.0,0.01
+DIVISLAB,2021-08-18 15:52:00,2021-08-17,2021-08-14,2021-08-14,Employees/Designated Employees,Gift,Sell,Equity Shares,20850.0,0.0,0.0,0.0,0.0,20850.0,0.01,,0.0
+DIVISLAB,2021-08-18 15:52:00,2021-08-17,2021-08-14,2021-08-14,Immediate relative,Gift,Buy,Equity Shares,20850.0,0.0,0.0,0.0,0.0,,0.0,20850.0,0.01
+DIVISLAB,2021-08-18 16:46:00,2021-08-17,2021-08-16,2021-08-16,Immediate relative,Gift,Buy,Equity Shares,15000.0,0.0,0.0,0.0,0.0,,0.0,15000.0,0.01
+DIVISLAB,2021-08-18 16:46:00,2021-08-17,2021-08-16,2021-08-16,Employees/Designated Employees,Gift,Sell,Equity Shares,34210.0,0.0,0.0,0.0,0.0,61000.0,0.02,26790.0,0.01
+DIVISLAB,2021-08-18 16:46:00,2021-08-17,2021-08-16,2021-08-16,Immediate relative,Gift,Buy,Equity Shares,14210.0,0.0,0.0,0.0,0.0,5790.0,0.0,20000.0,0.01
+DIVISLAB,2021-08-18 16:46:00,2021-08-17,2021-08-16,2021-08-16,Immediate relative,Gift,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+DIVISLAB,2021-09-28 16:46:00,2021-09-25,2021-09-23,2021-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,445.0,0.0,195.0,0.0
+DIVISLAB,2021-11-16 10:43:00,2021-11-10,2021-10-28,2021-10-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3000.0,0.0,2800.0,0.0
+DIVISLAB,2021-11-25 10:30:00,2021-11-24,2021-11-15,2021-11-16,Immediate relative,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+DIVISLAB,2021-11-25 10:30:00,2021-11-23,2021-11-22,2021-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,41712.0,0.02,40712.0,0.02
+DIVISLAB,2021-11-29 15:55:00,2021-11-29,2021-11-26,2021-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,40712.0,0.02,40412.0,0.02
+DIVISLAB,2021-11-30 11:55:00,2021-11-29,2021-11-29,2021-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,40412.0,0.02,38712.0,0.01
+DIVISLAB,2021-12-07 14:26:00,2021-12-07,2021-12-03,2021-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,78276.0,0.03,76276.0,0.03
+DIVISLAB,2021-12-09 10:21:00,2021-12-08,2021-11-18,2021-12-07,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,240.0,0.0,0.0,0.0,0.0,1401.0,0.0,1641.0,0.0
+DIVISLAB,2021-12-17 17:29:00,2021-12-15,2021-12-14,2021-12-14,Employees/Designated Employees,Gift,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,34125.0,0.01,24125.0,0.01
+DIVISLAB,2021-12-17 17:29:00,2021-12-15,2021-12-14,2021-12-14,Immediate relative,Gift,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+DIVISLAB,2021-12-18 12:16:00,,,,Employees/Designated Employees,-,-,,,200.0,0.0,1059520.0,0.0,,0.0,,
+DIVISLAB,2021-12-18 12:53:00,2021-12-16,2021-12-14,2021-12-14,Immediate relative,Gift,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,40000.0,0.02,30000.0,0.01
+DIVISLAB,2021-12-18 12:53:00,2021-12-16,2021-12-13,2021-12-16,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,229.0,0.0,0.0,0.0,0.0,146.0,0.0,375.0,0.0
+DIVISLAB,2021-12-18 12:53:00,2021-12-17,2021-12-11,2021-12-11,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,250.0,0.0,0.0,0.0,0.0,2391.0,0.0,2391.0,0.0
+DIVISLAB,2021-12-20 15:39:00,2021-12-18,2021-12-15,2021-12-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,76276.0,0.03,74076.0,0.03
+DIVISLAB,2021-12-23 11:23:00,2021-12-22,2021-12-20,2021-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,38712.0,0.01,37012.0,0.01
+DIVISLAB,2021-12-29 14:15:00,2021-12-28,2021-12-09,2021-12-28,Immediate relative,Market Purchase,Buy,Equity Shares,555.0,0.0,0.0,0.0,0.0,1641.0,0.0,2196.0,0.0
+DIVISLAB,2021-12-30 14:32:00,2021-12-30,2021-12-29,2021-12-29,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,10000.0,0.0,0.0,0.0,0.0,70950.0,0.03,70950.0,0.03
+DIVISLAB,2022-02-21 15:17:00,2022-02-18,2022-02-16,2022-02-17,Immediate relative,Gift,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,30000.0,0.01,,0.0
+DIVISLAB,2022-02-21 15:17:00,2022-02-18,2022-02-16,2022-02-17,Employees/Designated Employees,Gift,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,37012.0,0.01,67012.0,0.03
+DIVISLAB,2022-02-25 15:39:00,2022-02-25,2022-02-24,2022-02-24,Immediate relative,Market Purchase,Buy,Equity Shares,200.0,0.0,0.0,0.0,0.0,2196.0,0.0,2396.0,0.0
+DIVISLAB,2022-03-07 09:54:00,2022-03-03,2022-02-24,2022-02-24,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,1261.0,0.0,0.0,0.0,0.0,1261.0,0.0,1261.0,0.0
+DIVISLAB,2022-03-10 16:32:00,2022-03-10,2022-03-09,2022-03-09,Immediate relative,Gift,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0
+DIVISLAB,2022-03-10 16:32:00,2022-03-10,2022-03-08,2022-03-09,Employees/Designated Employees,Gift,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,30000.0,0.01,15000.0,0.01
+DIVISLAB,2022-03-10 16:32:00,2022-03-10,2022-03-08,2022-03-08,Immediate relative,Gift,Buy,Equity Shares,13000.0,0.0,0.0,0.0,0.0,,0.0,13000.0,0.0
+DIVISLAB,2022-03-15 09:32:00,2022-03-11,2022-03-09,2022-03-09,Immediate relative,Gift,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,10000.0,0.0
+DIVISLAB,2022-03-15 09:32:00,2022-03-11,2022-03-09,2022-03-09,Immediate relative,Gift,Buy,Equity Shares,2956.0,0.0,0.0,0.0,0.0,,0.0,2956.0,0.0
+DIVISLAB,2022-03-15 09:32:00,2022-03-11,2022-03-09,2022-03-09,Employees/Designated Employees,Gift,Sell,Equity Shares,7956.0,0.0,0.0,0.0,0.0,17506.0,0.01,9550.0,0.0
+DIVISLAB,2022-03-15 15:34:00,2022-03-14,2022-03-10,2022-03-10,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,302600.0,0.11,297600.0,0.11
+DIVISLAB,2022-03-23 15:32:00,2022-03-23,2022-03-22,2022-03-22,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3175.0,0.0,0.0,0.0,0.0,67012.0,0.03,67012.0,0.03
+DIVISLAB,2022-03-25 16:57:00,2022-03-25,2022-03-23,2022-03-23,Immediate relative,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,4000.0,0.0,3400.0,0.0
+DIVISLAB,2022-03-31 14:51:00,2022-03-31,2022-03-26,2022-03-31,Immediate relative,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3000.0,0.0,2500.0,0.0
+DIVISLAB,2022-04-01 09:47:00,2022-03-31,2022-03-31,2022-03-31,Employees/Designated Employees,Gift,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,74076.0,0.03,62076.0,0.02
+DIVISLAB,2022-04-01 09:47:00,2022-03-31,2022-03-31,2022-03-31,Immediate relative,Gift,Buy,Equity Shares,12000.0,0.0,0.0,0.0,0.0,24000.0,0.01,36000.0,0.01
+DIVISLAB,2022-04-01 13:33:00,2022-04-01,2022-03-31,2022-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,9750.0,0.0,7750.0,0.0
+DIVISLAB,2022-04-04 16:25:00,2022-04-04,2022-03-30,2022-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,195.0,0.0,0.0,0.0,0.0,195.0,0.0,,0.0
+DIVISLAB,2022-06-09 15:01:00,2022-06-08,2022-06-08,2022-06-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2076.0,0.0,0.0,0.0,0.0,62076.0,0.02,60000.0,0.02
+DIVISLAB,2022-06-13 14:58:00,2022-06-13,2022-05-26,2022-05-27,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,6475.0,0.0,0.0,0.0,0.0,67012.0,0.03,67012.0,0.03
+DIVISLAB,2022-06-18 17:16:00,2022-06-17,2022-05-18,2022-05-26,Employees/Designated Employees,Revokation of Pledge,Pledge,Equity Shares,3996.0,0.0,0.0,0.0,0.0,21649.0,0.01,21649.0,0.01
+DIVISLAB,2022-06-18 17:16:00,2022-06-17,2022-05-31,2022-05-31,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,4038.0,0.0,0.0,0.0,0.0,21649.0,0.01,21649.0,0.01
+DIVISLAB,2022-06-18 17:16:00,2022-06-17,2022-06-09,2022-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,700.0,0.0,50.0,0.0
+DIVISLAB,2022-06-27 16:59:00,2022-06-25,2022-06-24,2022-06-24,Immediate relative,Gift,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+DIVISLAB,2022-06-27 16:59:00,2022-06-25,2022-06-24,2022-06-24,Employees/Designated Employees,Gift,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,4900.0,0.0,1900.0,0.0
+DIVISLAB,2022-06-27 16:59:00,2022-06-25,2022-06-22,2022-06-23,Immediate relative,Gift,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,300.0,0.0,5300.0,0.0
+DIVISLAB,2022-06-27 16:59:00,2022-06-25,2022-06-22,2022-06-23,Employees/Designated Employees,Gift,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,16700.0,0.01,11700.0,0.0
+DIVISLAB,2022-06-27 16:59:00,2022-06-25,2022-06-24,2022-06-24,Immediate relative,Gift,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+DIVISLAB,2022-06-27 16:59:00,2022-06-25,2022-06-24,2022-06-24,Immediate relative,Gift,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+DIVISLAB,2022-06-28 16:52:00,2022-06-28,2022-06-28,2022-06-28,Employees/Designated Employees,Gift,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,70950.0,0.03,40950.0,0.02
+DIVISLAB,2022-06-28 16:52:00,2022-06-28,2022-06-28,2022-06-28,Immediate relative,Gift,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,,0.0,30000.0,0.01
+DIVISLAB,2022-06-29 16:30:00,2022-06-29,2022-06-28,2022-06-28,Immediate relative,Gift,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,14000.0,0.01,24000.0,0.01
+DIVISLAB,2022-06-30 16:33:00,2022-06-30,2022-06-30,2022-06-30,Employees/Designated Employees,Gift,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,20550.0,0.01,10550.0,0.0
+DIVISLAB,2022-06-30 16:33:00,2022-06-30,2022-06-30,2022-06-30,Immediate relative,Gift,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+DIVISLAB,2022-06-30 16:33:00,2022-06-30,2022-06-29,2022-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,15000.0,0.01,14300.0,0.01
+DIVISLAB,2022-09-07 16:48:00,2022-09-07,2022-08-25,2022-08-30,Immediate relative,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,1000.0,0.0,600.0,0.0
+DIVISLAB,2022-09-14 12:32:00,2022-09-14,2022-09-14,2022-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,550.0,0.0,0.0,0.0,0.0,800.0,0.0,250.0,0.0
+DIVISLAB,2022-09-14 12:32:00,2022-09-13,2022-09-13,2022-09-13,Immediate relative,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4000.0,0.0,3000.0,0.0
+DIVISLAB,2022-09-14 12:32:00,2022-09-14,2022-09-13,2022-09-13,Immediate relative,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,600.0,0.0,500.0,0.0
+DIVISLAB,2022-09-15 10:06:00,2022-09-14,2022-09-14,2022-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1030.0,0.0,0.0,0.0,0.0,12810.0,0.01,11780.0,0.0
+DIVISLAB,2022-09-28 15:32:00,2022-09-28,2022-09-26,2022-09-27,Immediate relative,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,950.0,0.0,550.0,0.0
+DIVISLAB,2022-09-28 15:32:00,2022-09-26,2022-09-26,2022-09-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,1000.0,0.0,800.0,0.0
+DIVISLAB,2022-09-28 15:32:00,2022-09-28,2022-09-27,2022-09-27,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,10000.0,0.0,0.0,0.0,0.0,40950.0,0.02,40950.0,0.02
+DIVISLAB,2022-09-30 15:14:00,2022-09-30,2022-09-28,2022-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,67012.0,0.03,65012.0,0.03
+DIVISLAB,2022-09-30 15:14:00,2022-09-29,2022-09-29,2022-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,800.0,0.0,450.0,0.0
+DIVISLAB,2022-09-30 16:53:00,2022-09-30,2022-09-28,2022-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3280.0,0.0,0.0,0.0,0.0,11780.0,0.0,8500.0,0.0
+DIVISLAB,2022-10-21 16:40:00,2022-10-21,2022-07-18,2022-07-18,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,6400.0,0.0,0.0,0.0,0.0,6400.0,0.0,6400.0,0.0
+DIVISLAB,2022-11-12 15:52:00,2022-11-11,2022-11-10,2022-11-10,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,6400.0,0.0,0.0,0.0,0.0,6400.0,0.0,6400.0,0.0
+DIVISLAB,2022-11-18 15:22:00,2022-11-17,2022-11-15,2022-11-15,Immediate relative,Pledge Creation,Pledge,Equity Shares,500.0,0.0,0.0,0.0,0.0,2956.0,0.0,2956.0,0.0
+DIVISLAB,2022-11-18 15:22:00,2022-11-17,2022-11-17,2022-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,4600.0,0.0,4250.0,0.0
+DIVISLAB,2022-11-25 15:24:00,2022-11-25,2022-11-24,2022-11-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2500.0,0.0,2000.0,0.0
+DIVISLAB,2022-12-14 10:32:00,2022-12-13,2022-12-13,2022-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,4250.0,0.0,3950.0,0.0
+DIVISLAB,2022-12-17 12:27:00,2022-12-15,2022-12-13,2022-12-14,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,297600.0,0.11,292600.0,0.11
+DIVISLAB,2022-12-22 14:46:00,2022-12-22,2022-12-21,2022-12-21,Promoter Group,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,292600.0,0.11,289600.0,0.11
+DIVISLAB,2022-12-22 17:21:00,2022-12-22,2022-12-22,2022-12-22,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,3000.0,0.0,0.0,0.0,0.0,21088.0,0.01,21088.0,0.01
+DIVISLAB,2022-12-27 09:01:00,2022-12-26,2022-12-22,2022-12-23,Immediate relative,Market Sale,Sell,Equity Shares,170.0,0.0,0.0,0.0,0.0,10000.0,0.0,9830.0,0.0
+DIVISLAB,2022-12-27 14:52:00,2022-12-27,2022-12-27,2022-12-27,Employees/Designated Employees,Gift,Buy,Equity Shares,237340.0,0.0,0.0,0.0,0.0,167808.0,0.06,405148.0,0.15
+DIVISLAB,2022-12-27 14:52:00,2022-12-27,2022-12-27,2022-12-27,Director,Gift,Sell,Equity Shares,237340.0,0.0,0.0,0.0,0.0,269518.0,0.11,32178.0,0.01
+DIVISLAB,2022-12-27 16:00:00,2022-12-27,2022-12-27,2022-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3950.0,0.0,3650.0,0.0
+DIVISLAB,2022-12-28 15:53:00,2022-12-28,2022-12-26,2022-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,444.0,0.0,0.0,0.0,0.0,2344.0,0.0,1900.0,0.0
+DIVISLAB,2022-12-29 11:55:00,2022-12-29,2022-12-27,2022-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,25000.0,0.01,22500.0,0.01
+DIVISLAB,2022-12-31 14:31:00,2022-12-31,2022-12-30,2022-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,5300.0,0.0,4700.0,0.0
+DIVISLAB,2022-12-31 14:31:00,2022-12-30,2022-12-30,2022-12-30,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,0.0
+DIVISLAB,2023-02-09 16:48:00,2023-02-09,2023-02-07,2023-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,65012.0,0.03,55012.0,0.02
+DIVISLAB,2023-02-09 16:48:00,2023-02-09,2023-02-07,2023-02-08,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,10000.0,0.0,0.0,0.0,0.0,65012.0,0.03,65012.0,0.03
+DIVISLAB,2023-02-16 10:16:00,2023-02-14,2023-02-10,2023-02-10,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,9550.0,0.0,0.0,0.0,0.0,9550.0,0.0,9550.0,0.0
+DIVISLAB,2023-02-25 11:39:00,2023-02-25,2023-02-23,2023-02-23,Employees/Designated Employees,Gift,Sell,Equity Shares,60000.0,0.0,0.0,0.0,0.0,90121.0,0.03,30121.0,0.01
+DIVISLAB,2023-02-28 15:09:00,2023-02-28,2023-02-23,2023-02-27,Immediate relative,Gift,Buy,Equity Shares,87399.0,0.0,0.0,0.0,0.0,,0.0,87399.0,0.03
+DIVISLAB,2023-02-28 15:09:00,2023-02-28,2023-02-27,2023-02-27,Employees/Designated Employees,Gift,Sell,Equity Shares,27399.0,0.0,0.0,0.0,0.0,30121.0,0.01,2722.0,0.0
+DIVISLAB,2023-03-04 15:36:00,2023-03-04,2023-03-02,2023-03-02,Immediate relative,Gift,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,,0.0
+DIVISLAB,2023-03-04 15:36:00,2023-03-04,2023-03-03,2023-03-03,Promoter Group,Gift,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,,0.0
+DIVISLAB,2023-03-08 16:40:00,2023-03-08,2023-03-06,2023-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,55012.0,0.03,54012.0,0.03
+DIVISLAB,2023-03-13 14:12:00,2023-03-10,2023-03-10,2023-03-10,Immediate relative,Gift,Buy,Equity Shares,7550.0,0.0,0.0,0.0,0.0,695.0,0.0,8245.0,0.0
+DIVISLAB,2023-03-13 14:12:00,2023-03-10,2023-03-10,2023-03-10,Employees/Designated Employees,Gift,Sell,Equity Shares,7550.0,0.0,0.0,0.0,0.0,23075.0,0.01,15525.0,0.01
+DIVISLAB,2023-03-15 11:02:00,2023-03-14,2023-03-10,2023-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,815.0,0.0,0.0,0.0,0.0,54012.0,0.02,53197.0,0.02
+DIVISLAB,2023-03-20 16:58:00,2023-03-17,2023-03-15,2023-03-16,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3700.0,0.0,0.0,0.0,0.0,53197.0,0.02,53197.0,0.02
+DIVISLAB,2023-03-20 16:58:00,2023-03-17,2023-03-15,2023-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4275.0,0.0,0.0,0.0,0.0,53197.0,0.02,48922.0,0.02
+DIVISLAB,2023-03-29 16:02:00,2023-03-28,2023-03-28,2023-03-28,Immediate relative,Gift,Buy,Equity Shares,15400.0,0.0,0.0,0.0,0.0,8245.0,0.0,23645.0,0.01
+DIVISLAB,2023-03-29 16:02:00,2023-03-28,2023-03-28,2023-03-28,Employees/Designated Employees,Gift,Sell,Equity Shares,15400.0,0.0,0.0,0.0,0.0,15525.0,0.01,125.0,0.0
+DIVISLAB,2023-03-29 16:02:00,2023-03-29,2023-03-28,2023-03-28,Immediate relative,Gift,Buy,Equity Shares,7738.0,0.0,0.0,0.0,0.0,850.0,0.0,8588.0,0.0
+DIVISLAB,2023-03-30 12:34:00,2023-03-29,2023-03-29,2023-03-29,Director,Gift,Sell,Equity Shares,32178.0,0.0,0.0,0.0,0.0,32178.0,0.01,,0.0
+DIVISLAB,2023-03-30 12:34:00,2023-03-29,2023-03-29,2023-03-29,Immediate relative,Gift,Buy,Equity Shares,32178.0,0.0,0.0,0.0,0.0,53560.0,0.02,85738.0,0.03
+DIVISLAB,2023-03-30 12:34:00,2023-03-29,2023-03-28,2023-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,11700.0,0.0,11000.0,0.0
+DIVISLAB,2023-05-27 11:09:00,2023-05-26,2023-05-24,2023-05-25,Immediate relative,Market Sale,Sell,Equity Shares,995.0,0.0,0.0,0.0,0.0,23645.0,0.01,22650.0,0.01
+DIVISLAB,2023-06-12 14:30:00,2023-06-09,2023-06-07,2023-06-07,Immediate relative,Market Sale,Sell,Equity Shares,30.0,0.0,0.0,0.0,0.0,9830.0,0.0,9800.0,0.0
+DIVISLAB,2023-06-19 14:54:00,2023-06-17,2023-06-15,2023-06-16,Immediate relative,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,9800.0,0.0,9400.0,0.0
+DIVISLAB,2023-06-21 15:31:00,2023-06-19,2023-06-16,2023-06-16,Employees/Designated Employees,Gift,Sell,Equity Shares,18200.0,0.0,0.0,0.0,0.0,18200.0,0.01,,0.0
+DIVISLAB,2023-06-21 15:31:00,2023-06-19,2023-06-16,2023-06-16,Immediate relative,Gift,Buy,Equity Shares,18200.0,0.0,0.0,0.0,0.0,11000.0,0.0,29200.0,0.01
+DIVISLAB,2023-06-21 15:31:00,2023-06-21,2023-06-19,2023-06-19,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2800.0,0.0,0.0,0.0,0.0,36800.0,0.01,36800.0,0.01
+DIVISLAB,2023-06-24 15:23:00,2023-06-24,2023-06-23,2023-06-23,Employees/Designated Employees,Gift,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,36800.0,0.01,21800.0,0.01
+DIVISLAB,2023-06-24 15:23:00,2023-06-24,2023-06-23,2023-06-23,Immediate relative,Gift,Buy,Equity Shares,15000.0,0.0,0.0,0.0,0.0,,0.0,15000.0,0.01
+DIVISLAB,2023-06-27 16:51:00,2023-06-27,2023-06-26,2023-06-26,Employees/Designated Employees,Gift,Sell,Equity Shares,9550.0,0.0,0.0,0.0,0.0,9550.0,0.0,,0.0
+DIVISLAB,2023-06-27 16:51:00,2023-06-27,2023-06-26,2023-06-26,Immediate relative,Gift,Buy,Equity Shares,9550.0,0.0,0.0,0.0,0.0,10000.0,0.0,19550.0,0.01
+DIVISLAB,2023-06-30 14:44:00,2023-06-29,2023-06-28,2023-06-28,Immediate relative,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2000.0,0.0,1700.0,0.0
+DIVISLAB,2023-06-30 14:44:00,2023-06-28,2023-06-27,2023-06-27,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,10000.0,0.0,0.0,0.0,0.0,40950.0,0.02,40950.0,0.02
+DIVISLAB,2023-06-30 14:44:00,2023-06-30,2023-06-30,2023-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2300.0,0.0,2000.0,0.0
+DIVISLAB,2023-06-30 14:44:00,2023-06-29,2023-06-28,2023-06-28,Immediate relative,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,9400.0,0.0,9150.0,0.0
+DIVISLAB,2023-07-05 15:22:00,2023-07-03,2023-06-30,2023-06-30,Immediate relative,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,9150.0,0.0,9050.0,0.0
+DIVISLAB,2023-07-05 15:22:00,2023-07-03,2023-06-28,2023-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11500.0,0.0,0.0,0.0,0.0,405148.0,0.15,393648.0,0.15
+DIVISLAB,2023-07-06 16:25:00,2023-07-06,2023-05-04,2023-05-04,Employees/Designated Employees,Revokation of Pledge,Pledge,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3400.0,0.0,3400.0,0.0
+DIVISLAB,2023-07-06 16:25:00,2023-07-06,2023-05-30,2023-05-30,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3400.0,0.0,3400.0,0.0
+DIVISLAB,2023-07-07 10:42:00,2023-07-07,2023-05-16,2023-05-16,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1900.0,0.0,0.0,0.0,0.0,1900.0,0.0,1900.0,0.0
+DIVISLAB,2023-08-22 15:40:00,2023-08-22,2023-08-18,2023-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,27500.0,0.0,0.0,0.0,0.0,393648.0,0.15,366148.0,0.14
+DIVISLAB,2023-08-25 15:51:00,2023-08-25,2023-08-23,2023-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,20000.0,0.01,19000.0,0.01
+DIVISLAB,2023-09-05 15:39:00,2023-09-05,2023-09-04,2023-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,22500.0,0.01,21700.0,0.01
+DIVISLAB,2023-09-07 14:46:00,2023-09-06,2023-09-04,2023-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,19000.0,0.01,15000.0,0.01
+DIVISLAB,2023-09-14 14:30:00,2023-09-13,2023-09-12,2023-09-12,Immediate relative,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,9050.0,0.0,8600.0,0.0
+DIVISLAB,2023-09-16 14:28:00,2023-09-15,2023-09-14,2023-09-14,Immediate relative,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,8600.0,0.0,8100.0,0.0
+DIVISLAB,2023-09-16 14:28:00,2023-09-16,2023-09-15,2023-09-15,Immediate relative,Market Sale,Sell,Equity Shares,370.0,0.0,0.0,0.0,0.0,8100.0,0.0,7730.0,0.0
+DIVISLAB,2023-09-20 09:24:00,2023-09-20,2023-09-15,2023-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,7750.0,0.0,7000.0,0.0
+DIVISLAB,2023-09-25 15:12:00,2023-09-25,2023-09-13,2023-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2500.0,0.0,2200.0,0.0
+DIVISLAB,2023-11-16 15:45:00,2023-11-16,2023-11-15,2023-11-15,Director,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,400.0,0.0,,0.0
+DIVISLAB,2023-11-23 09:56:00,2023-11-22,2023-11-20,2023-11-20,Immediate relative,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,7730.0,0.0,7630.0,0.0
+DIVISLAB,2023-11-23 09:56:00,2023-11-22,2023-11-20,2023-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,40950.0,0.02,40650.0,0.02
+DIVISLAB,2023-11-25 14:23:00,2023-11-25,2023-11-24,2023-11-24,Immediate relative,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,7630.0,0.0,7330.0,0.0
+DIVISLAB,2023-11-28 16:03:00,2023-11-27,2023-11-24,2023-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,40650.0,0.02,40500.0,0.02
+DIVISLAB,2023-12-01 16:30:00,2023-12-01,2023-11-30,2023-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,10550.0,0.0,10250.0,0.0
+DIVISLAB,2023-12-05 09:09:00,2023-12-04,2023-12-01,2023-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,191.0,0.0,0.0,0.0,0.0,40500.0,0.02,40309.0,0.02
+DIVISLAB,2023-12-07 09:23:00,2023-12-05,2023-12-04,2023-12-04,Immediate relative,Market Sale,Sell,Equity Shares,140.0,0.0,0.0,0.0,0.0,22650.0,0.01,22510.0,0.01
+DIVISLAB,2023-12-09 10:17:00,2023-12-08,2023-12-07,2023-12-07,Immediate relative,Gift,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0
+DIVISLAB,2023-12-09 10:17:00,2023-12-08,2023-12-07,2023-12-07,Employees/Designated Employees,Gift,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,21800.0,0.01,11800.0,0.0
+DIVISLAB,2023-12-18 16:51:00,2023-12-17,2023-12-12,2023-12-15,Immediate relative,Market Sale,Sell,Equity Shares,410.0,0.0,0.0,0.0,0.0,22510.0,0.01,22100.0,0.01
+DIVISLAB,2023-12-20 10:37:00,2023-12-20,2023-12-18,2023-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,309.0,0.0,0.0,0.0,0.0,40309.0,0.02,40000.0,0.02
+DIVISLAB,2023-12-20 10:37:00,2023-12-19,2023-12-18,2023-12-18,Immediate relative,Market Sale,Sell,Equity Shares,125.0,0.0,0.0,0.0,0.0,22100.0,0.01,21975.0,0.01
+DIVISLAB,2023-12-21 10:26:00,2023-12-21,2023-12-19,2023-12-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,11000.0,0.0,10200.0,0.0
+DIVISLAB,2023-12-28 15:28:00,2023-12-28,2023-12-26,2023-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,21700.0,0.01,18700.0,0.01
+DIVISLAB,2023-12-28 15:28:00,2023-12-27,2023-12-27,2023-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,32000.0,0.01,27000.0,0.01
+DIVISLAB,2023-12-28 15:28:00,2023-12-26,2023-12-22,2023-12-26,Immediate relative,Market Sale,Sell,Equity Shares,530.0,0.0,0.0,0.0,0.0,7330.0,0.0,6800.0,0.0
+DIVISLAB,2023-12-28 16:03:00,2023-12-28,2023-12-27,2023-12-28,Immediate relative,Market Sale,Sell,Equity Shares,2396.0,0.0,0.0,0.0,0.0,2396.0,0.0,,0.0
+DIVISLAB,2023-12-30 10:30:00,2023-12-29,2023-12-27,2023-12-28,Promoter Group,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,289600.0,0.11,274600.0,0.1
+DIVISLAB,2023-12-30 10:30:00,2023-12-29,2023-12-27,2023-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10250.0,0.0,9250.0,0.0
+DIVISLAB,2023-12-30 10:30:00,2023-12-29,2023-12-28,2023-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,40000.0,0.02,39200.0,0.02
+DIVISLAB,2024-01-02 10:47:00,2024-01-01,2023-12-28,2023-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,27000.0,0.01,23500.0,0.01
+DIVISLAB,2024-01-02 10:47:00,2023-12-30,2023-12-29,2023-12-29,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,274600.0,0.1,269600.0,0.1
+DIVISLAB,2024-02-15 11:48:00,2024-02-15,2024-02-13,2024-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,52452.0,0.02,37452.0,0.01
+DIVISLAB,2024-02-17 17:08:00,2024-02-17,2024-02-13,2024-02-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30000.0,0.0,0.0,0.0,0.0,366148.0,0.14,336148.0,0.13
+DIVISLAB,2024-03-09 11:51:00,2024-03-07,2024-03-05,2024-03-05,Employees/Designated Employees,Revokation of Pledge,Pledge,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3400.0,0.0,3400.0,0.0
+DIVISLAB,2024-03-15 09:13:00,2024-03-14,2024-03-12,2024-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3400.0,0.0,1400.0,0.0
+DIVISLAB,2024-03-29 16:01:00,2024-03-29,2024-03-27,2024-03-28,Promoter Group,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,269600.0,0.1,262600.0,0.1
+DIVISLAB,2024-03-29 16:01:00,2024-03-29,2024-03-28,2024-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,18700.0,0.01,17200.0,0.01
+DIVISLAB,2024-03-29 16:01:00,2024-03-29,2024-03-28,2024-03-28,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,21088.0,0.0,0.0,0.0,0.0,21649.0,0.01,21649.0,0.01
+DIVISLAB,2024-03-29 16:01:00,2024-03-29,2024-03-28,2024-03-28,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,21088.0,0.0,0.0,0.0,0.0,21649.0,0.01,21649.0,0.01
+DIVISLAB,2024-03-29 16:01:00,2024-03-29,2024-03-27,2024-03-28,Immediate relative,Market Sale,Sell,Equity Shares,1475.0,0.0,0.0,0.0,0.0,10000.0,0.0,8525.0,0.0
+DIVISLAB,2024-03-29 16:56:00,2024-03-29,2024-03-28,2024-03-28,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,24800.0,0.0,0.0,0.0,0.0,48922.0,0.02,48922.0,0.02
+DIVISLAB,2024-03-29 16:56:00,2024-03-29,2024-03-28,2024-03-28,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,27000.0,0.0,0.0,0.0,0.0,48922.0,0.02,48922.0,0.02
+DIVISLAB,2024-04-01 11:05:00,2024-03-30,2024-03-28,2024-03-28,Immediate relative,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,700.0,0.0,400.0,0.0
+DIVISLAB,2024-04-06 12:55:00,2024-04-06,2024-03-15,2024-03-15,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1400.0,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,0.0
+DIVISLAB,2024-04-08 08:48:00,2024-04-06,2024-03-07,2024-03-28,Immediate relative,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,900.0,0.0,400.0,0.0
+DIVISLAB,2024-05-30 17:32:00,2024-05-29,2024-05-28,2024-05-29,Immediate relative,Market Sale,Sell,Equity Shares,950.0,0.0,0.0,0.0,0.0,6800.0,0.0,5850.0,0.0
+DIVISLAB,2024-05-30 17:32:00,2024-05-30,2024-05-28,2024-05-29,Promoter Group,Market Sale,Sell,Equity Shares,55000.0,0.0,0.0,0.0,0.0,262690.0,0.1,207690.0,0.09
+DIVISLAB,2024-05-30 17:32:00,2024-05-30,2024-05-28,2024-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,1400.0,0.0,,0.0
+DIVISLAB,2024-05-30 17:32:00,2024-05-28,2024-05-28,2024-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4025.0,0.0,3025.0,0.0
+DIVISLAB,2024-06-01 14:46:00,2024-05-31,2024-05-29,2024-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1000.0,0.0,500.0,0.0
+DIVISLAB,2024-06-01 14:46:00,2024-05-31,2024-05-30,2024-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,2000.0,0.0,1600.0,0.0
+DIVISLAB,2024-06-01 14:46:00,2024-05-31,2024-05-30,2024-05-30,Promoter Group,Market Sale,Sell,Equity Shares,2600.0,0.0,0.0,0.0,0.0,207690.0,0.09,205090.0,0.08
+DIVISLAB,2024-06-04 15:53:00,2024-06-04,2024-05-31,2024-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6940.0,0.0,0.0,0.0,0.0,26980.0,0.01,20040.0,0.01
+DIVISLAB,2024-06-06 14:25:00,2024-06-05,2024-05-29,2024-06-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,9250.0,0.0,8500.0,0.0
+DIVISLAB,2024-06-06 14:25:00,2024-06-05,2024-06-05,2024-06-05,Immediate relative,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,5850.0,0.0,5600.0,0.0
+DIVISLAB,2024-06-13 15:57:00,2024-06-12,2024-05-31,2024-06-10,Immediate relative,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3110.0,0.0,2910.0,0.0
+DIVISLAB,2024-06-13 15:57:00,2024-06-13,2024-06-11,2024-06-13,Immediate relative,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1700.0,0.0,1200.0,0.0
+DIVISLAB,2024-06-17 15:10:00,2024-06-15,2024-06-13,2024-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,336148.0,0.13,326148.0,0.12
+DIVISLAB,2024-06-18 15:02:00,2024-06-18,2024-06-14,2024-06-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,17200.0,0.01,16200.0,0.01
+DIVISLAB,2024-06-25 16:57:00,2024-06-21,2024-06-19,2024-06-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,326148.0,0.12,321148.0,0.12
+DIVISLAB,2024-06-29 15:25:00,2024-06-29,2024-06-28,2024-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,39200.0,0.02,39000.0,0.02
+DIVISLAB,2024-07-05 14:23:00,2024-07-04,2024-06-25,2024-06-28,Immediate relative,Market Sale,Sell,Equity Shares,850.0,0.0,0.0,0.0,0.0,21975.0,0.0,21125.0,0.0
+DIVISLAB,2024-08-10 13:44:00,2024-08-08,2024-08-07,2024-08-07,Promoter Group,Market Sale,Sell,Equity Shares,12000.0,0.0,0.0,0.0,0.0,205090.0,0.08,193090.0,0.07
+DIVISLAB,2024-08-28 16:37:00,2024-08-27,2024-08-23,2024-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,16200.0,0.01,14200.0,0.01
+DIVISLAB,2024-08-29 15:03:00,2024-08-28,2024-08-26,2024-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,321148.0,0.12,311148.0,0.12
+DIVISLAB,2024-08-30 16:29:00,2024-08-30,2024-08-28,2024-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13808.0,0.0,0.0,0.0,0.0,311148.0,0.12,297340.0,0.11
+DIVISLAB,2024-09-02 08:45:00,2024-08-30,2024-08-29,2024-08-29,Employees/Designated Employees,Gift,Sell,Equity Shares,2700.0,0.0,0.0,0.0,0.0,7700.0,0.0,5000.0,0.0
+DIVISLAB,2024-09-02 08:45:00,2024-08-30,2024-08-29,2024-08-29,Immediate relative,Gift,Buy,Equity Shares,2700.0,0.0,0.0,0.0,0.0,,0.0,2700.0,0.0
+DIVISLAB,2024-09-02 14:51:00,2024-08-31,2024-08-28,2024-08-30,Immediate relative,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,5600.0,0.0,5000.0,0.0
+DIVISLAB,2024-09-09 11:24:00,2024-09-07,2024-09-05,2024-09-05,Immediate relative,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,5000.0,0.0,4750.0,0.0
+DIVISLAB,2024-09-14 10:24:00,2024-09-12,2024-09-11,2024-09-11,Immediate relative,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,4750.0,0.0,4650.0,0.0
+DIVISLAB,2024-09-27 14:27:00,2024-09-27,2024-09-27,2024-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,20040.0,0.01,19290.0,0.01
+DIVISLAB,2024-11-15 14:26:00,2024-11-15,2024-11-12,2024-11-14,Immediate relative,Market Purchase,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,500.0,0.0,2000.0,0.0
+DIVISLAB,2024-11-22 15:42:00,2024-11-22,2024-11-21,2024-11-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,1600.0,0.0,1400.0,0.0
+DIVISLAB,2024-11-27 10:47:00,2024-11-25,2024-11-22,2024-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,14200.0,0.01,13700.0,0.01
+DIVISLAB,2024-11-27 10:47:00,2024-11-26,2024-11-26,2024-11-26,Promoter Group,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,193090.0,0.07,188090.0,0.07
+DIVISLAB,2024-12-09 11:50:00,2024-12-09,2024-11-28,2024-12-02,Immediate relative,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,21210.0,0.01,21110.0,0.01
+DIVISLAB,2024-12-20 15:24:00,2024-12-20,2024-12-09,2024-12-09,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,,0.0,500.0,0.0
+DIVISLAB,2024-12-28 14:40:00,2024-12-28,2024-12-27,2024-12-27,Immediate relative,Gift,Buy,Equity Shares,1400.0,0.0,0.0,0.0,0.0,200.0,0.0,1600.0,0.0
+DIVISLAB,2024-12-28 14:40:00,2024-12-28,2024-12-27,2024-12-27,Employees/Designated Employees,Gift,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,4500.0,0.0,3100.0,0.0
+DIVISLAB,2025-02-17 15:29:00,2025-02-17,2025-02-07,2025-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,28000.0,0.01,27500.0,0.01
+DIVISLAB,2025-03-26 16:45:00,2025-03-24,2025-03-19,2025-03-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,297340.0,0.11,272340.0,0.1
+DIVISLAB,2025-05-27 10:40:00,2025-05-27,2025-05-22,2025-05-26,Promoter Group,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,188090.0,0.07,178090.0,0.07
+DIVISLAB,2025-05-27 10:40:00,2025-05-26,2025-05-20,2025-05-26,Immediate relative,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,21110.0,0.01,21010.0,0.01
+DIVISLAB,2025-05-27 10:40:00,2025-05-26,2025-05-26,2025-05-26,Immediate relative,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,4650.0,0.0,4050.0,0.0
+DIVISLAB,2025-05-28 16:04:00,2025-05-27,2025-05-22,2025-05-27,Immediate relative,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,9250.0,0.0,9100.0,0.0
+DIVISLAB,2025-05-28 16:04:00,2025-05-28,2025-05-27,2025-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,1400.0,0.0,1250.0,0.0
+DIVISLAB,2025-06-11 16:27:00,2025-06-11,2025-06-10,2025-06-10,Immediate relative,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,1200.0,0.0,1000.0,0.0
+DIVISLAB,2025-06-13 12:47:00,2025-06-12,2025-06-11,2025-06-11,Immediate relative,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,4050.0,0.0,3650.0,0.0
+DIVISLAB,2025-07-02 12:16:00,2025-07-02,2025-06-30,2025-06-30,Immediate relative,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,3650.0,0.0,3500.0,0.0
+DIVISLAB,2025-09-11 15:21:00,2025-09-11,2025-09-10,2025-09-10,Employees/Designated Employees,Gift,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,11800.0,0.0,9300.0,0.0
+DIVISLAB,2025-09-11 15:21:00,2025-09-11,2025-09-10,2025-09-10,Immediate relative,Gift,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,15000.0,0.01,7500.0,0.0
+DIVISLAB,2025-12-11 10:48:00,2025-12-10,2025-12-09,2025-12-09,Employees/Designated Employees,Gift,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+DIVISLAB,2025-12-11 10:48:00,2025-12-10,2025-12-09,2025-12-09,Immediate relative,Gift,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,3000.0,0.0
+DIVISLAB,2025-12-29 15:39:00,2025-12-29,2025-12-26,2025-12-26,Employees/Designated Employees,Gift,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+DIVISLAB,2025-12-29 15:39:00,2025-12-29,2025-12-26,2025-12-26,Immediate relative,Gift,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,117.0,0.0,617.0,0.0
+DIVISLAB,2026-03-31 16:21:00,2026-03-02,2026-02-25,2026-02-26,Immediate relative,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2700.0,0.0,2200.0,0.0

@@ -1,0 +1,11 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+PARAS,2025-05-20 16:48:00,2025-05-20,2025-05-19,2025-05-19,-,Market Sale,Sell,Equity Shares,108435.0,0.0,0.0,0.0,0.0,700000.0,1.74,591565.0,1.47
+PARAS,2025-05-20 16:48:00,2025-05-20,2025-05-19,2025-05-19,Promoter Group,Market Sale,Sell,Equity Shares,217159.0,0.0,0.0,0.0,0.0,1420630.0,3.53,1203471.0,2.99
+PARAS,2025-05-20 16:48:00,2025-05-20,2025-05-19,2025-05-19,Promoter Group,Market Sale,Sell,Equity Shares,217049.0,0.0,0.0,0.0,0.0,1420630.0,3.53,1203581.0,2.99
+PARAS,2025-05-20 16:48:00,2025-05-20,2025-05-19,2025-05-19,Promoters,Market Sale,Sell,Equity Shares,900000.0,0.0,0.0,0.0,0.0,7274840.0,18.05,6374840.0,15.82
+PARAS,2025-05-20 16:48:00,2025-05-20,2025-05-19,2025-05-19,Director,Market Sale,Sell,Equity Shares,108300.0,0.0,0.0,0.0,0.0,700000.0,1.74,591700.0,1.47
+PARAS,2025-07-01 19:00:00,2025-06-30,2025-06-30,2025-06-30,Promoters,Market Sale,Sell,Equity Shares,156250.0,0.0,0.0,0.0,0.0,6374840.0,15.82,6218590.0,15.43
+PARAS,2025-07-01 19:00:00,2025-06-30,2025-06-30,2025-06-30,Promoter Group,Market Sale,Sell,Equity Shares,31250.0,0.0,0.0,0.0,0.0,1203581.0,2.99,1172331.0,2.91
+PARAS,2025-07-01 19:00:00,2025-06-30,2025-06-30,2025-06-30,Promoter Group,Market Sale,Sell,Equity Shares,31250.0,0.0,0.0,0.0,0.0,1203471.0,2.99,1172221.0,2.91
+PARAS,2025-07-01 19:00:00,2025-06-30,2025-06-30,2025-06-30,Director,Market Sale,Sell,Equity Shares,15625.0,0.0,0.0,0.0,0.0,591700.0,1.47,576075.0,1.43
+PARAS,2025-07-01 19:00:00,2025-06-30,2025-06-30,2025-06-30,-,Market Sale,Sell,Equity Shares,15625.0,0.0,0.0,0.0,0.0,591565.0,1.47,575940.0,1.43

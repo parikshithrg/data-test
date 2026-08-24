@@ -1,0 +1,9 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+BOSCHLTD,2016-11-01 19:39:00,2016-10-31,2016-10-28,2016-10-28,Promoters,Others,Sell,Equity Shares,836715.0,0.0,0.0,0.0,0.0,22349420.0,71.18,21512705.0,70.49
+BOSCHLTD,2016-12-21 17:47:00,2016-12-20,2016-12-20,2016-12-20,Promoters,Market Sale,Sell,Equity Shares,454000.0,0.0,0.0,0.0,0.0,21512705.0,70.49,21058705.0,68.99
+BOSCHLTD,2016-12-21 17:47:00,2016-12-21,2016-12-20,2016-12-20,Promoter Group,Market Purchase,Buy,Equity Shares,454000.0,0.0,0.0,0.0,0.0,,0.0,454000.0,1.5
+BOSCHLTD,2019-02-28 14:36:00,2019-02-26,2019-02-25,2019-02-25,Promoters,Others,Sell,Equity Shares,707481.0,0.0,0.0,0.0,0.0,21058705.0,69.0,20351224.0,69.0
+BOSCHLTD,2019-12-17 19:10:00,2019-12-17,2019-12-17,2019-12-17,Promoters,Inter-se-Transfer,Buy,Equity Shares,366900.0,0.0,0.0,0.0,0.0,454000.0,1.54,820900.0,2.78
+BOSCHLTD,2019-12-17 19:10:00,2019-12-17,2019-12-17,2019-12-17,Promoters,Inter-se-Transfer,Sell,Equity Shares,366900.0,0.0,0.0,0.0,0.0,20351224.0,69.0,19984324.0,67.76
+BOSCHLTD,2021-02-25 20:15:00,2021-02-25,2021-02-24,2021-02-24,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,19984324.0,0.0,0.0,0.0,0.0,,0.0,19984324.0,67.76
+BOSCHLTD,2021-02-26 11:36:00,2021-02-25,2021-02-24,2021-02-24,Promoters,Inter-se-Transfer,Sell,Equity Shares,19984324.0,0.0,0.0,0.0,0.0,19984324.0,67.76,,0.0

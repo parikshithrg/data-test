@@ -1,0 +1,10 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+RVNL,2021-03-27 13:53:00,2021-03-26,2021-03-25,2021-03-25,Promoters,Market Sale,Sell,Equity Shares,3371632.0,0.0,0.0,0.0,0.0,1634000526.0,78.37,1630628894.0,78.21
+RVNL,2021-03-27 13:53:00,2021-03-26,2021-03-24,2021-03-24,Promoters,Market Sale,Sell,Equity Shares,197562294.0,0.0,0.0,0.0,0.0,1831562820.0,87.84,1634000526.0,78.37
+RVNL,2021-04-12 18:25:00,2021-04-12,2021-04-08,2021-04-08,Promoters,Off Market,Sell,Equity Shares,127923.0,0.0,0.0,0.0,0.0,1630628894.0,78.21,1630500971.0,78.2
+RVNL,2023-07-31 19:36:00,2023-07-31,2023-07-27,2023-07-27,Promoters,Market Sale,Sell,Equity Shares,100581369.0,0.0,0.0,0.0,0.0,1630500971.0,78.2,1529919602.0,73.38
+RVNL,2023-07-31 19:36:00,2023-07-31,2023-07-28,2023-07-28,Promoters,Market Sale,Sell,Equity Shares,11175708.0,0.0,0.0,0.0,0.0,1529919602.0,73.38,1518743894.0,72.84
+RVNL,2025-08-28 18:15:00,2025-08-27,2025-08-26,2025-08-26,-,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,6640.0,0.0,3140.0,0.0
+RVNL,2025-08-28 18:15:00,2025-08-27,2025-08-25,2025-08-25,-,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,10140.0,0.0,6640.0,0.0
+RVNL,2025-09-01 14:14:00,2025-08-30,2025-08-29,2025-08-29,-,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,3140.0,0.0,640.0,0.0
+RVNL,2025-09-03 17:27:00,2025-09-02,2025-09-02,2025-09-02,-,Market Sale,Sell,Equity Shares,140.0,0.0,0.0,0.0,0.0,640.0,0.0,500.0,0.0

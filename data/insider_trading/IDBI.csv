@@ -1,0 +1,10 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+IDBI,2015-12-31 18:21:00,2015-12-30,2015-12-30,2015-12-30,Promoters,Preferential Offer,Buy,Equity Shares,296094580.0,0.0,0.0,0.0,0.0,1227018622.0,76.5,1523113202.0,80.16
+IDBI,2016-11-22 12:48:00,,,,Employees/Designated Employees,-,-,,,8000.0,8000.0,558800.0,574800.0,,0.0,,
+IDBI,2017-08-16 17:08:00,,2017-08-14,2017-08-14,Promoters,Preferential Offer,Buy,Equity Shares,247492510.0,0.0,0.0,0.0,0.0,1523113202.0,73.56,1770605712.0,75.1
+IDBI,2017-10-07 19:50:00,2017-10-06,2017-10-06,2017-10-06,Promoters,Preferential Offer,Buy,Equity Shares,284861472.0,0.0,0.0,0.0,0.0,1770605712.0,75.1,2055467184.0,77.79
+IDBI,2018-03-28 16:31:00,2018-03-28,2018-03-28,2018-03-28,Promoters,Preferential Offer,Buy,Equity Shares,441371502.0,0.0,0.0,0.0,0.0,2055467184.0,77.79,2496838686.0,80.96
+IDBI,2018-05-28 16:13:00,2018-05-25,2018-05-25,2018-05-25,Promoters,Preferential Offer,Buy,Equity Shares,1097326649.0,0.0,0.0,0.0,0.0,2496838686.0,80.96,3594165335.0,85.96
+IDBI,2019-01-23 14:55:00,2019-01-22,2019-01-18,2019-01-21,Promoters,Others,Buy,Equity Shares,884273067.0,0.0,0.0,0.0,0.0,3061237322.0,44.21,3945510389.0,51.0
+IDBI,2019-10-24 11:47:00,2019-10-23,2019-10-23,2019-10-23,Promoters,Preferential Offer,Buy,Equity Shares,1348592550.0,0.0,0.0,0.0,0.0,3945510389.0,51.0,5294102939.0,51.0
+IDBI,2019-10-24 11:47:00,2019-10-23,2019-10-23,2019-10-23,Promoters,Preferential Offer,Buy,Equity Shares,1295706568.0,0.0,0.0,0.0,0.0,3594165335.0,46.46,4889871903.0,47.11

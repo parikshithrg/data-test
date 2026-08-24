@@ -1,0 +1,13 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+JISLJALEQS,2015-12-22 18:22:00,2015-12-22,2015-12-21,2015-12-21,Promoters,Market Purchase,Buy,Equity Shares,3362.0,0.0,0.0,0.0,0.0,5436.0,0.03,8798.0,0.05
+JISLJALEQS,2015-12-22 18:22:00,2015-12-22,2015-12-21,2015-12-21,Promoters,Market Purchase,Buy,Equity Shares,67250.0,0.0,0.0,0.0,0.0,108730.0,0.02,175980.0,0.04
+JISLJALEQS,2017-11-29 13:43:00,2017-11-28,2017-11-27,2017-11-27,Promoters,Inter-se-Transfer,Sell,Equity Shares,1250000.0,0.0,0.0,0.0,0.0,2488836.0,0.5,1238836.0,0.25
+JISLJALEQS,2017-11-29 14:06:00,2017-11-28,2017-11-27,2017-11-27,Promoters,Inter-se-Transfer,Buy,Equity Shares,1250000.0,0.0,0.0,0.0,0.0,104105000.0,20.97,105355000.0,21.22
+JISLJALEQS,2017-12-01 11:41:00,2017-11-30,2017-11-29,2017-11-29,Promoters,Inter-se-Transfer,Buy,Equity Shares,1238836.0,0.0,0.0,0.0,0.0,105355000.0,21.22,106593836.0,21.47
+JISLJALEQS,2017-12-01 12:04:00,2017-11-30,2017-11-29,2017-11-29,Promoters,Inter-se-Transfer,Sell,Equity Shares,1238836.0,0.0,0.0,0.0,0.0,1238836.0,0.25,,0.0
+JISLJALEQS,2018-06-28 14:09:00,2018-06-28,2018-06-27,2018-06-27,Promoters,Market Purchase,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,106593836.0,21.47,106793836.0,21.52
+JISLJALEQS,2018-07-02 11:00:00,2018-07-02,2018-06-28,2018-06-29,Promoters,Market Purchase,Buy,Equity Shares,400200.0,0.0,0.0,0.0,0.0,106793836.0,21.52,107194036.0,21.6
+JISLJALEQS,2018-07-03 11:30:00,2018-07-03,2018-07-02,2018-07-02,Promoters,Market Purchase,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,107194036.0,21.6,107394036.0,21.64
+JISLJALEQS,2018-07-05 11:26:00,2018-07-05,2018-07-03,2018-07-03,Promoters,Market Purchase,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,107394036.0,21.64,107494036.0,21.66
+JISLJALEQS,2019-02-19 18:58:00,2019-02-16,2019-02-14,2019-02-14,Other,Market Purchase,Buy,Equity Shares,515283.0,0.0,0.0,0.0,0.0,,0.0,515283.0,0.1
+JISLJALEQS,2019-06-20 13:44:00,2019-06-20,2019-06-18,2019-06-18,Other,Market Purchase,Buy,Equity Shares,1381146.0,0.0,0.0,0.0,0.0,515283.0,0.1,1896429.0,0.38

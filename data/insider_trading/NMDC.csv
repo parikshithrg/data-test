@@ -1,0 +1,10 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+NMDC,2016-10-14 10:08:00,2016-10-10,2016-10-07,2016-10-07,Promoters,Others,Sell,Equity Shares,800820108.0,0.0,0.0,0.0,0.0,3171946300.0,80.0,2371126192.0,74.94
+NMDC,2018-01-11 18:57:00,2018-01-11,2018-01-10,2018-01-10,Promoters,Market Sale,Sell,Equity Shares,15910928.0,0.0,0.0,0.0,0.0,2307482479.0,72.93,2291571551.0,72.42
+NMDC,2018-01-11 18:57:00,2018-01-11,2018-01-09,2018-01-09,Promoters,Market Sale,Sell,Equity Shares,63643713.0,0.0,0.0,0.0,0.0,2371126192.0,74.94,2307482479.0,72.93
+NMDC,2019-04-01 19:49:00,2019-03-08,2019-03-07,2019-03-07,Promoters,Others,Sell,Equity Shares,78535839.0,0.0,0.0,0.0,0.0,2291571551.0,72.43,2213035712.0,72.28
+NMDC,2020-02-11 12:56:00,2020-02-10,2020-02-03,2020-02-03,Promoters,Off Market,Sell,Equity Shares,80582119.0,0.0,0.0,0.0,0.0,2213035712.0,72.28,2132453593.0,69.65
+NMDC,2021-01-12 18:12:00,2021-01-11,2021-01-08,2021-01-08,Promoters,Others,Sell,Equity Shares,131169702.0,0.0,0.0,0.0,0.0,2132453593.0,69.65,2001283891.0,68.29
+NMDC,2021-07-09 11:27:00,2021-07-08,2021-07-07,2021-07-07,Promoters,Market Sale,Sell,Equity Shares,21950239.0,0.0,0.0,0.0,0.0,1803731752.0,61.55,1781781513.0,60.8
+NMDC,2021-07-09 11:27:00,2021-07-08,2021-07-06,2021-07-06,Promoters,Market Sale,Sell,Equity Shares,197552139.0,0.0,0.0,0.0,0.0,2001283891.0,68.29,1803731752.0,61.55
+NMDC,2021-07-23 13:01:00,2021-07-22,2021-07-20,2021-07-20,Promoters,Off Market,Sell,Equity Shares,147942.0,0.0,0.0,0.0,0.0,1781781513.0,60.8,1781633571.0,60.79

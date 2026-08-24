@@ -1,0 +1,6 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+MGL,2018-04-13 11:49:00,2018-04-12,2018-04-11,2018-04-11,Promoters,Market Sale,Sell,Equity Shares,987775.0,0.0,0.0,0.0,0.0,32102710.0,32.5,31114935.0,31.5
+MGL,2018-04-13 11:49:00,2018-04-12,2018-04-11,2018-04-11,Promoters,Market Sale,Sell,Equity Shares,7408300.0,0.0,0.0,0.0,0.0,31114935.0,31.5,23706635.0,24.0
+MGL,2018-08-24 13:24:00,2018-08-23,2018-08-23,2018-08-23,Promoters,Market Sale,Sell,Equity Shares,12500000.0,0.0,0.0,0.0,0.0,23706635.0,24.0,11206635.0,11.35
+MGL,2018-08-24 13:24:00,2018-08-23,2018-08-23,2018-08-23,Promoters,Market Sale,Sell,Equity Shares,1328855.0,0.0,0.0,0.0,0.0,11206635.0,11.35,9877780.0,10.0
+MGL,2019-08-22 13:42:00,2019-08-20,2019-08-20,2019-08-20,Promoters,Market Sale,Sell,Equity Shares,9877780.0,0.0,0.0,0.0,0.0,9877780.0,10.0,,0.0

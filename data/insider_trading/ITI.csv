@@ -1,0 +1,7 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ITI,2016-08-13 19:48:00,2016-08-08,2016-08-08,2016-08-08,Promoters,-,Buy,Equity Shares,192000000.0,0.0,0.0,0.0,0.0,258887500.0,89.89,450887500.0,93.93
+ITI,2022-02-22 12:37:00,2022-02-18,2022-02-17,2022-02-17,Promoters,Off Market,Sell,Equity Shares,840336.0,0.0,0.0,0.0,0.0,840698419.0,90.06,839858083.0,89.97
+ITI,2022-05-27 14:37:00,2022-05-25,2022-05-25,2022-05-25,Promoters,Others,Buy,Equity Shares,8321279.0,0.0,0.0,0.0,0.0,839858083.0,89.97,848179362.0,90.06
+ITI,2022-09-29 17:14:00,2022-09-28,2022-09-28,2022-09-28,Promoters,Others,Buy,Equity Shares,7733204.0,0.0,0.0,0.0,0.0,848179362.0,90.06,855912566.0,90.14
+ITI,2023-05-15 12:45:00,2023-05-11,2023-05-11,2023-05-11,Promoters,Preferential Offer,Buy,Equity Shares,11309586.0,0.0,0.0,0.0,0.0,855912566.0,90.14,867222152.0,90.25
+ITI,2024-03-19 17:04:00,2024-03-19,2024-03-12,2024-03-12,Promoters,Inter-se-Transfer,Sell,Equity Shares,2736405.0,0.0,0.0,0.0,0.0,867222152.0,90.25,864485747.0,89.97

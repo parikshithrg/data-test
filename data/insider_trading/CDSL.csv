@@ -1,0 +1,25 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+CDSL,2017-07-04 17:03:00,2017-07-03,2017-06-29,2017-06-29,Promoter,Market Sale,Sell,Equity Shares,27217850.0,0.0,0.0,0.0,0.0,52297850.0,50.05,25080000.0,24.0
+CDSL,2018-11-30 19:27:00,2018-11-30,2018-11-12,2018-11-29,Other,Market Sale,Sell,Equity Shares,925326.0,0.0,0.0,0.0,0.0,4923815.0,4.74,3998489.0,3.85
+CDSL,2018-11-30 19:34:00,2018-11-30,2018-11-30,2018-11-30,Other,Market Sale,Sell,Equity Shares,255000.0,0.0,0.0,0.0,0.0,3998489.0,3.85,3743489.0,3.6
+CDSL,2018-12-04 15:36:00,2018-12-04,2018-12-03,2018-12-03,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,445000.0,0.0,0.0,0.0,0.0,3743489.0,3.6,3298489.0,3.18
+CDSL,2018-12-06 14:52:00,2018-12-05,2018-12-04,2018-12-04,"Sponsor as per earstwhile SEBI (D & P) Regulations, 1996",Market Sale,Sell,Equity Shares,51831.0,0.0,0.0,0.0,0.0,3298489.0,3.18,3246658.0,3.13
+CDSL,2018-12-06 14:58:00,2018-12-05,2018-12-05,2018-12-05,"Sponsor as per earstwhile SEBI (D & P) Regulations, 1996",Market Sale,Sell,Equity Shares,37464.0,0.0,0.0,0.0,0.0,3246658.0,3.13,3209194.0,3.09
+CDSL,2018-12-06 17:41:00,2018-12-06,2018-12-06,2018-12-06,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,51495.0,0.0,0.0,0.0,0.0,3195163.0,3.09,3143668.0,3.03
+CDSL,2018-12-13 17:56:00,2018-12-12,2018-12-10,2018-12-10,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,60000.0,0.0,0.0,0.0,0.0,3023668.0,2.91,2963668.0,2.85
+CDSL,2018-12-13 17:56:00,2018-12-12,2018-12-07,2018-12-07,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,120000.0,0.0,0.0,0.0,0.0,3143668.0,3.03,3023668.0,2.91
+CDSL,2018-12-13 17:56:00,2018-12-12,2018-12-11,2018-12-11,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,36425.0,0.0,0.0,0.0,0.0,2963668.0,2.85,2927243.0,2.82
+CDSL,2018-12-13 17:56:00,2018-12-12,2018-12-12,2018-12-12,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,207925.0,0.0,0.0,0.0,0.0,2927243.0,2.82,2719318.0,2.62
+CDSL,2018-12-13 18:20:00,2018-12-13,2018-12-13,2018-12-13,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,140000.0,0.0,0.0,0.0,0.0,2719318.0,2.62,2579318.0,2.48
+CDSL,2018-12-17 10:29:00,2018-12-14,2018-12-14,2018-12-14,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,69636.0,0.0,0.0,0.0,0.0,2579318.0,2.48,2509682.0,2.42
+CDSL,2018-12-19 10:51:00,2018-12-18,2018-12-17,2018-12-17,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,135603.0,0.0,0.0,0.0,0.0,2509682.0,2.42,2374079.0,2.29
+CDSL,2018-12-19 10:51:00,2018-12-18,2018-12-18,2018-12-18,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,462000.0,0.0,0.0,0.0,0.0,2374079.0,2.29,1912079.0,1.84
+CDSL,2018-12-20 10:51:00,2018-12-19,2018-12-19,2018-12-19,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,917180.0,0.0,0.0,0.0,0.0,1912079.0,1.84,994899.0,0.98
+CDSL,2018-12-21 11:17:00,2018-12-20,2018-12-20,2018-12-20,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,100000.0,0.0,0.0,0.0,0.0,994899.0,0.98,894899.0,0.86
+CDSL,2018-12-26 10:46:00,2018-12-24,2018-12-21,2018-12-24,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,75000.0,0.0,0.0,0.0,0.0,894899.0,0.86,819899.0,0.79
+CDSL,2018-12-28 10:52:00,2018-12-27,2018-12-26,2018-12-27,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,181315.0,0.0,0.0,0.0,0.0,819899.0,0.79,638584.0,0.61
+CDSL,2018-12-29 11:08:00,2018-12-28,2018-12-28,2018-12-28,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,175000.0,0.0,0.0,0.0,0.0,638584.0,0.61,463584.0,0.44
+CDSL,2019-01-01 10:43:00,2018-12-31,2018-12-31,2018-12-31,Sponsor as per erstwhile SEBI (D & P) Regulations 1996,Market Sale,Sell,Equity Shares,491646.0,0.0,0.0,0.0,0.0,491646.0,0.44,,0.0
+CDSL,2019-12-03 16:04:00,2019-12-02,2019-11-28,2019-11-29,Promoters,Others,Sell,Equity Shares,4180000.0,0.0,0.0,0.0,0.0,25080000.0,24.0,20900000.0,20.0
+CDSL,2020-01-21 15:53:00,2020-01-21,2020-01-17,2020-01-17,-,Market Sale,Sell,Equity Shares,26343.0,0.0,0.0,0.0,0.0,2000000.0,1.91,1973657.0,1.88
+CDSL,2020-01-21 15:53:00,2020-01-20,2020-01-20,2020-01-20,-,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,1973657.0,1.88,1948657.0,1.86

@@ -1,0 +1,125 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+BRFL,2016-02-12 12:32:00,2016-02-08,2016-02-03,2016-02-03,Promoters,Invocation of pledge,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,6162994.0,4.58,6157994.0,4.57
+BRFL,2016-02-12 12:33:00,2016-02-10,2016-02-09,2016-02-09,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,9475.0,0.0,0.0,0.0,0.0,6094557.0,4.52,6085082.0,4.52
+BRFL,2016-02-12 12:33:00,2016-02-10,2016-02-08,2016-02-08,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,31148.0,0.0,0.0,0.0,0.0,6125705.0,4.57,6094557.0,4.527
+BRFL,2016-02-12 12:33:00,2016-02-08,2016-02-05,2016-02-05,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,32289.0,0.0,0.0,0.0,0.0,6157994.0,4.57,6125705.0,4.551
+BRFL,2017-08-07 18:19:00,2017-07-25,2017-05-19,2017-05-19,Other,Others,Buy,Equity Shares,681850.0,0.0,0.0,0.0,0.0,6602760.0,0.0,7284610.0,0.0
+BRFL,2017-12-22 18:17:00,2017-12-21,2017-12-20,2017-12-20,Promoters,Market Sale,Sell,Equity Shares,65411.0,0.0,0.0,0.0,0.0,50529797.0,15.92,50464386.0,15.9
+BRFL,2017-12-22 18:17:00,2017-12-21,2017-12-19,2017-12-19,Promoters,Market Sale,Sell,Equity Shares,470603.0,0.0,0.0,0.0,0.0,51000400.0,16.06,50529797.0,15.92
+BRFL,2018-04-25 13:00:00,2018-02-07,2018-02-05,2018-02-07,Promoters,Off Market,Pledge Invoke,Equity Shares,300000.0,0.0,0.0,0.0,0.0,6085082.0,1.92,5785082.0,1.82
+BRFL,2018-04-25 13:19:00,2018-03-09,2018-03-07,2018-03-09,Promoters,Off Market,Pledge Invoke,Equity Shares,200000.0,0.0,0.0,0.0,0.0,5785082.0,1.82,5585082.0,1.76
+BRFL,2018-04-25 13:24:00,2018-03-28,2018-03-27,2018-03-28,Promoters,Off Market,Pledge Invoke,Equity Shares,1000000.0,0.0,0.0,0.0,0.0,5585082.0,1.76,4585082.0,1.44
+BRFL,2018-04-26 17:45:00,2018-04-25,2018-04-23,2018-04-23,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,65767.0,0.0,0.0,0.0,0.0,6979583.0,2.2,6913816.0,2.18
+BRFL,2018-05-03 15:59:00,2018-04-30,2018-04-27,2018-04-30,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,29271.0,0.0,0.0,0.0,0.0,6872158.0,2.16,6842887.0,2.15
+BRFL,2018-05-04 16:09:00,2018-05-02,2018-05-02,2018-05-02,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,40047.0,0.0,0.0,0.0,0.0,6842887.0,2.15,6802840.0,2.14
+BRFL,2018-05-05 18:26:00,2018-05-03,2018-05-03,2018-05-03,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,36971.0,0.0,0.0,0.0,0.0,6802840.0,2.14,6765869.0,2.13
+BRFL,2018-05-09 14:21:00,2018-05-04,2018-05-04,2018-05-04,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,23656.0,0.0,0.0,0.0,0.0,6765869.0,2.13,6742213.0,2.12
+BRFL,2018-05-30 15:34:00,2018-05-28,2018-05-24,2018-05-24,Promoters,Market Sale,Sell,Equity Shares,68896.0,0.0,0.0,0.0,0.0,50410461.0,15.88,50341565.0,15.86
+BRFL,2018-05-30 15:34:00,2018-05-28,2018-05-09,2018-05-09,Promoters,Market Sale,Sell,Equity Shares,53925.0,0.0,0.0,0.0,0.0,50464386.0,15.9,50410461.0,15.88
+BRFL,2018-06-06 19:32:00,2018-06-06,2018-05-30,2018-05-30,Promoters,Market Sale,Sell,Equity Shares,87508.0,0.0,0.0,0.0,0.0,50341565.0,15.86,50254057.0,15.83
+BRFL,2018-06-21 17:36:00,2018-06-21,2018-06-19,2018-06-19,Promoters,Market Sale,Sell,Equity Shares,38824.0,0.0,0.0,0.0,0.0,50254057.0,15.83,50215233.0,15.82
+BRFL,2018-07-02 18:33:00,2018-07-02,2018-06-27,2018-06-28,Promoters,Market Sale,Sell,Equity Shares,43943.0,0.0,0.0,0.0,0.0,4585082.0,1.44,4541139.0,1.43
+BRFL,2018-07-10 18:14:00,2018-07-09,2018-07-06,2018-07-09,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,97571.0,0.0,0.0,0.0,0.0,6742213.0,2.12,6644642.0,2.09
+BRFL,2018-07-13 19:20:00,2018-07-12,2018-07-10,2018-07-10,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,91915.0,0.0,0.0,0.0,0.0,6612839.0,2.08,6520924.0,2.05
+BRFL,2018-07-17 19:38:00,2018-07-16,2018-07-13,2018-07-13,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,39844.0,0.0,0.0,0.0,0.0,6520924.0,2.05,6481080.0,2.04
+BRFL,2018-08-21 19:41:00,2018-08-20,2018-08-17,2018-08-17,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,42094.0,0.0,0.0,0.0,0.0,6481080.0,2.04,6438986.0,2.03
+BRFL,2018-08-25 14:34:00,2018-08-24,2018-08-23,2018-08-23,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,268168.0,0.0,0.0,0.0,0.0,6438986.0,2.03,6170818.0,1.94
+BRFL,2018-08-29 20:29:00,2018-08-27,2018-08-23,2018-08-23,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,475000.0,0.0,0.0,0.0,0.0,6170818.0,1.94,5695818.0,1.79
+BRFL,2018-08-29 20:29:00,2018-08-27,2018-08-24,2018-08-24,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,34591.0,0.0,0.0,0.0,0.0,13215714.0,4.16,13181123.0,4.15
+BRFL,2018-08-30 17:31:00,2018-08-28,2018-08-27,2018-08-27,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,134323.0,0.0,0.0,0.0,0.0,5695818.0,1.79,5561495.0,1.75
+BRFL,2018-08-30 17:31:00,2018-08-28,2018-08-27,2018-08-27,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,113716.0,0.0,0.0,0.0,0.0,13181123.0,4.15,13067407.0,4.12
+BRFL,2018-09-04 15:17:00,2018-08-31,2018-08-30,2018-08-30,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,229375.0,0.0,0.0,0.0,0.0,12965294.0,4.08,12735919.0,4.01
+BRFL,2018-09-04 15:17:00,2018-09-03,2018-08-31,2018-08-31,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,107005.0,0.0,0.0,0.0,0.0,12735919.0,4.01,12628914.0,3.98
+BRFL,2018-09-28 18:49:00,2018-09-26,2018-09-10,2018-09-10,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,263117.0,0.0,0.0,0.0,0.0,5502846.0,1.73,5239729.0,1.65
+BRFL,2018-10-03 14:36:00,2018-10-03,2018-10-01,2018-10-01,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,76294.0,0.0,0.0,0.0,0.0,5184502.0,1.63,5108208.0,1.61
+BRFL,2018-10-03 14:36:00,2018-10-01,2018-09-28,2018-09-28,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,55227.0,0.0,0.0,0.0,0.0,5239729.0,1.65,5184502.0,1.63
+BRFL,2018-10-05 16:24:00,2018-10-05,2018-10-03,2018-10-03,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,102727.0,0.0,0.0,0.0,0.0,5108208.0,1.61,5005481.0,1.58
+BRFL,2018-10-10 15:07:00,2018-10-09,2018-10-03,2018-10-04,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,2715.0,0.0,0.0,0.0,0.0,5005481.0,1.58,5002766.0,1.58
+BRFL,2018-10-26 18:23:00,2018-10-26,2018-10-25,2018-10-25,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,124378.0,0.0,0.0,0.0,0.0,4900255.0,1.54,4775877.0,1.5
+BRFL,2018-10-26 18:23:00,2018-10-25,2018-10-24,2018-10-24,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,102511.0,0.0,0.0,0.0,0.0,5002766.0,1.58,4900255.0,1.54
+BRFL,2018-10-29 17:21:00,2018-10-29,2018-10-26,2018-10-26,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,104678.0,0.0,0.0,0.0,0.0,4775877.0,1.5,4671199.0,1.47
+BRFL,2018-11-01 17:20:00,2018-11-01,2018-10-31,2018-10-31,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,214036.0,0.0,0.0,0.0,0.0,3980628.0,1.25,3766592.0,1.19
+BRFL,2018-11-01 17:20:00,2018-10-30,2018-10-30,2018-10-30,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,347310.0,0.0,0.0,0.0,0.0,4327938.0,1.36,3980628.0,1.25
+BRFL,2018-11-01 17:20:00,2018-10-30,2018-10-29,2018-10-29,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,343261.0,0.0,0.0,0.0,0.0,4671199.0,1.47,4327938.0,1.36
+BRFL,2018-11-21 18:19:00,2018-11-20,2018-11-19,2018-11-19,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,138000.0,0.0,0.0,0.0,0.0,3766592.0,1.19,3628592.0,1.14
+BRFL,2018-11-21 18:19:00,2018-11-21,2018-11-20,2018-11-20,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,251410.0,0.0,0.0,0.0,0.0,3628592.0,1.14,3377182.0,1.06
+BRFL,2018-11-23 17:47:00,2018-11-22,2018-11-21,2018-11-21,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,348025.0,0.0,0.0,0.0,0.0,3377182.0,1.06,3029157.0,0.95
+BRFL,2018-11-27 17:52:00,2018-11-26,2018-11-22,2018-11-22,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,255725.0,0.0,0.0,0.0,0.0,3029157.0,0.95,2773432.0,0.87
+BRFL,2018-11-27 17:52:00,2018-11-27,2018-11-26,2018-11-26,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,291247.0,0.0,0.0,0.0,0.0,2773432.0,0.87,2482185.0,0.78
+BRFL,2018-11-29 17:28:00,2018-11-27,2018-11-27,2018-11-27,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,153165.0,0.0,0.0,0.0,0.0,2482185.0,0.78,2329020.0,0.73
+BRFL,2018-11-29 17:28:00,2018-11-29,2018-11-28,2018-11-28,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,169081.0,0.0,0.0,0.0,0.0,2329020.0,0.73,2159939.0,0.68
+BRFL,2018-12-01 15:09:00,2018-11-30,2018-11-30,2018-11-30,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,75000.0,0.0,0.0,0.0,0.0,2061745.0,0.65,1986745.0,0.63
+BRFL,2018-12-01 15:09:00,2018-11-30,2018-11-29,2018-11-29,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,98194.0,0.0,0.0,0.0,0.0,2159939.0,0.68,2061745.0,0.65
+BRFL,2018-12-05 18:08:00,2018-12-04,2018-12-03,2018-12-03,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,327588.0,0.0,0.0,0.0,0.0,28420000.0,8.95,28092412.0,8.85
+BRFL,2018-12-06 15:19:00,2018-12-05,2018-12-04,2018-12-04,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,190000.0,0.0,0.0,0.0,0.0,28092412.0,8.85,27902412.0,8.79
+BRFL,2018-12-06 15:19:00,2018-12-06,2018-12-05,2018-12-05,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,189189.0,0.0,0.0,0.0,0.0,27902412.0,8.79,27713223.0,8.73
+BRFL,2018-12-20 15:25:00,2018-12-18,2018-12-17,2018-12-17,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,13431.0,0.0,0.0,0.0,0.0,27713223.0,8.73,27699792.0,8.72
+BRFL,2018-12-20 15:25:00,2018-12-20,2018-12-19,2018-12-19,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,129016.0,0.0,0.0,0.0,0.0,27699732.0,8.72,27570716.0,8.68
+BRFL,2018-12-22 18:11:00,2018-12-21,2018-12-20,2018-12-20,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,123503.0,0.0,0.0,0.0,0.0,27570716.0,8.68,27447213.0,8.65
+BRFL,2018-12-25 14:38:00,2018-12-24,2018-12-21,2018-12-21,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,126945.0,0.0,0.0,0.0,0.0,27447273.0,8.65,27320328.0,8.61
+BRFL,2018-12-25 14:50:00,2018-12-24,2018-12-24,2018-12-24,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,99513.0,0.0,0.0,0.0,0.0,1986745.0,0.63,1887232.0,0.59
+BRFL,2018-12-27 19:33:00,2018-12-26,2018-12-26,2018-12-26,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,125022.0,0.0,0.0,0.0,0.0,27320328.0,8.61,27195306.0,8.57
+BRFL,2018-12-31 17:14:00,2018-12-28,2018-12-27,2018-12-27,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,175580.0,0.0,0.0,0.0,0.0,27195306.0,8.57,27019726.0,8.51
+BRFL,2018-12-31 17:14:00,2018-12-31,2018-12-28,2018-12-28,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,646600.0,0.0,0.0,0.0,0.0,27019726.0,8.51,26373126.0,8.31
+BRFL,2019-03-27 17:04:00,2019-03-26,2019-03-25,2019-03-25,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,79489.0,0.0,0.0,0.0,0.0,26373126.0,8.31,26293637.0,8.28
+BRFL,2019-04-16 17:04:00,2019-04-16,2019-04-15,2019-04-15,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,211964.0,0.0,0.0,0.0,0.0,26293637.0,8.28,26081673.0,8.22
+BRFL,2019-07-23 17:31:00,2019-07-22,2019-07-19,2019-07-19,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,36104.0,0.0,0.0,0.0,0.0,26081673.0,8.22,26045569.0,8.2
+BRFL,2019-09-25 17:55:00,2019-09-25,2019-09-24,2019-09-24,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,16326.0,0.0,0.0,0.0,0.0,25774800.0,8.12,25758474.0,8.11
+BRFL,2019-09-25 17:55:00,2019-09-24,2019-09-23,2019-09-23,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,270769.0,0.0,0.0,0.0,0.0,26045569.0,8.2,25774800.0,8.12
+BRFL,2019-09-27 18:05:00,2019-09-26,2019-09-25,2019-09-25,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,46050.0,0.0,0.0,0.0,0.0,25758474.0,8.11,25712424.0,8.1
+BRFL,2019-09-27 18:05:00,2019-09-27,2019-09-26,2019-09-26,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,30598.0,0.0,0.0,0.0,0.0,25712424.0,8.1,25681826.0,8.09
+BRFL,2019-10-21 18:11:00,2019-10-18,2019-10-17,2019-10-17,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,57219.0,0.0,0.0,0.0,0.0,25681826.0,8.09,25624607.0,8.07
+BRFL,2019-10-24 17:47:00,2019-10-22,2019-10-18,2019-10-18,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,63089.0,0.0,0.0,0.0,0.0,25624607.0,8.07,25561518.0,8.05
+BRFL,2019-10-24 17:47:00,2019-10-24,2019-10-23,2019-10-23,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,17018.0,0.0,0.0,0.0,0.0,25430255.0,8.01,25413237.0,8.0
+BRFL,2019-10-24 17:47:00,2019-10-23,2019-10-22,2019-10-22,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,131263.0,0.0,0.0,0.0,0.0,25561518.0,8.05,25430255.0,8.01
+BRFL,2019-10-29 15:37:00,2019-10-25,2019-10-24,2019-10-24,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,41341.0,0.0,0.0,0.0,0.0,25413237.0,8.0,25371896.0,7.99
+BRFL,2019-10-29 15:37:00,2019-10-29,2019-10-25,2019-10-25,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,60050.0,0.0,0.0,0.0,0.0,25371896.0,7.99,25311846.0,7.97
+BRFL,2019-11-01 18:08:00,2019-10-31,2019-10-30,2019-10-30,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,31455.0,0.0,0.0,0.0,0.0,25178521.0,7.93,25147066.0,7.92
+BRFL,2019-11-01 18:08:00,2019-10-30,2019-10-29,2019-10-29,Promoter Group,Market Sale,Pledge Invoke,Equity Shares,133325.0,0.0,0.0,0.0,0.0,25311846.0,7.97,25178521.0,7.93
+BRFL,2020-09-30 22:24:00,2020-09-28,2020-09-15,2020-09-15,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,100000.0,0.0,0.0,0.0,0.0,4585082.0,1.44,4485082.0,1.41
+BRFL,2020-10-26 22:10:00,2020-10-26,2020-10-22,2020-10-22,Promoters,Pledge Creation,Pledge,Equity Shares,546500.0,0.0,0.0,0.0,0.0,4485082.0,1.41,4485082.0,1.41
+BRFL,2020-10-26 22:10:00,2020-10-26,2020-10-21,2020-10-21,Promoters,Pledge Creation,Pledge,Equity Shares,580000.0,0.0,0.0,0.0,0.0,4485082.0,1.41,4485082.0,1.41
+BRFL,2020-11-28 18:33:00,2020-11-26,2020-11-24,2020-11-24,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,100000.0,0.0,0.0,0.0,0.0,4485082.0,1.41,4385082.0,1.38
+BRFL,2020-11-28 18:33:00,2020-11-26,2020-11-26,2020-11-26,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,50000.0,0.0,0.0,0.0,0.0,4385082.0,1.38,4335082.0,1.37
+BRFL,2020-12-18 19:33:00,2020-12-17,2020-12-16,2020-12-16,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,5610.0,0.0,0.0,0.0,0.0,4285082.0,1.35,4279472.0,1.35
+BRFL,2020-12-18 19:33:00,2020-12-17,2020-12-15,2020-12-15,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,50000.0,0.0,0.0,0.0,0.0,4335082.0,1.37,4285082.0,1.35
+BRFL,2021-01-05 19:57:00,2021-01-04,2020-12-29,2020-12-31,Promoter Group,Market Sale,Sell,Equity Shares,542919.0,0.0,0.0,0.0,0.0,50215233.0,15.82,49672314.0,15.64
+BRFL,2021-01-23 17:21:00,2021-01-22,2020-12-28,2020-12-28,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,200000.0,0.0,0.0,0.0,0.0,4135082.0,1.3,3935082.0,1.24
+BRFL,2021-01-23 17:21:00,2021-01-22,2020-12-28,2020-12-28,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,250000.0,0.0,0.0,0.0,0.0,2500000.0,0.79,2250000.0,0.07
+BRFL,2021-01-23 17:21:00,2021-01-22,2020-12-28,2020-12-28,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,144390.0,0.0,0.0,0.0,0.0,4279472.0,1.35,4135082.0,1.3
+BRFL,2021-02-23 18:22:00,2021-02-22,2021-02-18,2021-02-19,Promoter Group,Market Sale,Sell,Equity Shares,606301.0,0.0,0.0,0.0,0.0,49672314.0,15.65,49066013.0,15.46
+BRFL,2021-02-25 18:07:00,2021-02-24,2021-02-22,2021-02-22,Promoter Group,Market Sale,Sell,Equity Shares,149636.0,0.0,0.0,0.0,0.0,49066013.0,15.46,48916377.0,15.41
+BRFL,2021-02-27 17:30:00,2021-02-26,2021-02-24,2021-02-25,Promoter Group,Market Sale,Sell,Equity Shares,766059.0,0.0,0.0,0.0,0.0,48916377.0,15.41,48150318.0,15.17
+BRFL,2021-03-06 17:38:00,2021-03-05,2021-03-03,2021-03-04,Promoter Group,Market Sale,Sell,Equity Shares,1114613.0,0.0,0.0,0.0,0.0,48150318.0,15.17,47035705.0,14.82
+BRFL,2021-03-10 16:38:00,2021-03-09,2021-03-05,2021-03-08,Promoter Group,Market Sale,Sell,Equity Shares,1826406.0,0.0,0.0,0.0,0.0,47035705.0,14.82,45209299.0,14.24
+BRFL,2021-03-17 18:19:00,2021-03-16,2021-03-12,2021-03-12,Promoter Group,Market Sale,Sell,Equity Shares,1311175.0,0.0,0.0,0.0,0.0,45209299.0,14.24,43898124.0,13.83
+BRFL,2021-05-08 16:26:00,2021-05-07,2021-05-06,2021-05-06,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,50000.0,0.0,0.0,0.0,0.0,25147066.0,7.92,25097066.0,7.91
+BRFL,2021-05-11 18:30:00,2021-05-10,2021-05-07,2021-05-07,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,100000.0,0.0,0.0,0.0,0.0,25097066.0,7.91,24997066.0,7.87
+BRFL,2021-05-14 18:45:00,2021-05-12,2021-05-11,2021-05-11,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,300000.0,0.0,0.0,0.0,0.0,24997066.0,7.87,24697066.0,7.78
+BRFL,2021-05-19 18:40:00,2021-05-18,2021-05-17,2021-05-17,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,379699.0,0.0,0.0,0.0,0.0,24326765.0,7.66,23947066.0,7.54
+BRFL,2021-05-19 18:40:00,2021-05-18,2021-05-12,2021-05-12,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,245099.0,0.0,0.0,0.0,0.0,24697066.0,7.78,24451967.0,7.7
+BRFL,2021-05-19 18:40:00,2021-05-18,2021-05-14,2021-05-14,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,125202.0,0.0,0.0,0.0,0.0,24451967.0,7.7,24326765.0,7.66
+BRFL,2021-05-22 17:06:00,2021-05-21,2021-05-19,2021-05-19,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,140000.0,0.0,0.0,0.0,0.0,23597066.0,7.43,23457066.0,7.39
+BRFL,2021-05-22 17:06:00,2021-05-21,2021-05-18,2021-05-18,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,350000.0,0.0,0.0,0.0,0.0,23947066.0,7.54,23597066.0,7.43
+BRFL,2021-05-22 17:06:00,2021-05-21,2021-05-20,2021-05-20,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,170000.0,0.0,0.0,0.0,0.0,23457066.0,7.39,23287066.0,7.34
+BRFL,2021-05-27 17:08:00,2021-05-25,2021-05-21,2021-05-21,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,159726.0,0.0,0.0,0.0,0.0,23287066.0,7.34,23127340.0,7.28
+BRFL,2021-05-27 17:08:00,2021-05-26,2021-05-24,2021-05-24,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,132310.0,0.0,0.0,0.0,0.0,23127340.0,7.28,22995030.0,7.24
+BRFL,2021-05-29 19:39:00,2021-05-28,2021-05-26,2021-05-26,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,146964.0,0.0,0.0,0.0,0.0,22844030.0,7.2,22697066.0,7.15
+BRFL,2021-05-29 19:39:00,2021-05-28,2021-05-25,2021-05-25,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,151000.0,0.0,0.0,0.0,0.0,22995030.0,7.24,22844030.0,7.2
+BRFL,2021-06-01 18:58:00,2021-06-01,2021-05-31,2021-05-31,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,241460.0,0.0,0.0,0.0,0.0,22365066.0,7.04,22123606.0,6.97
+BRFL,2021-06-01 18:58:00,2021-06-01,2021-05-28,2021-05-28,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,332000.0,0.0,0.0,0.0,0.0,22697066.0,7.15,22365066.0,7.04
+BRFL,2021-06-04 18:29:00,2021-06-04,2021-06-03,2021-06-03,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,898510.0,0.0,0.0,0.0,0.0,20946076.0,6.6,20047566.0,6.31
+BRFL,2021-06-04 18:29:00,2021-06-03,2021-06-01,2021-06-01,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,333172.0,0.0,0.0,0.0,0.0,22123606.0,6.97,21790434.0,6.86
+BRFL,2021-06-04 18:29:00,2021-06-04,2021-06-02,2021-06-02,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,844358.0,0.0,0.0,0.0,0.0,21790434.0,6.86,20946076.0,6.6
+BRFL,2021-06-10 16:55:00,2021-06-09,2021-06-08,2021-06-08,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,1500000.0,0.0,0.0,0.0,0.0,18797566.0,5.92,17297566.0,5.45
+BRFL,2021-06-10 16:55:00,2021-06-08,2021-06-07,2021-06-07,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,1250000.0,0.0,0.0,0.0,0.0,20047566.0,6.31,18797566.0,5.92
+BRFL,2021-06-14 18:40:00,2021-06-12,2021-06-10,2021-06-10,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,750000.0,0.0,0.0,0.0,0.0,15797566.0,4.98,15047566.0,4.74
+BRFL,2021-06-14 18:40:00,2021-06-12,2021-06-09,2021-06-09,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,1500000.0,0.0,0.0,0.0,0.0,17297566.0,5.45,15797566.0,4.98
+BRFL,2021-06-14 18:40:00,2021-06-14,2021-06-11,2021-06-11,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,2000000.0,0.0,0.0,0.0,0.0,15047566.0,4.74,13047566.0,4.11
+BRFL,2021-06-30 22:18:00,2021-06-29,2021-06-25,2021-06-25,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,1000000.0,0.0,0.0,0.0,0.0,10420000.0,3.28,9420000.0,2.97
+BRFL,2021-07-08 18:19:00,2021-07-06,2021-07-05,2021-07-05,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,1500000.0,0.0,0.0,0.0,0.0,9420000.0,2.97,7920000.0,2.49
+BRFL,2021-08-05 18:29:00,2021-08-04,2021-07-29,2021-07-29,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,1500000.0,0.0,0.0,0.0,0.0,7920000.0,2.49,6420000.0,2.02
+BRFL,2021-09-09 16:16:00,2021-09-07,2021-08-31,2021-08-31,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,1287000.0,0.0,0.0,0.0,0.0,6420000.0,2.02,5133000.0,1.62
+BRFL,2021-09-09 16:16:00,2021-09-07,2021-09-06,2021-09-06,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,213000.0,0.0,0.0,0.0,0.0,4633000.0,1.46,4420000.0,1.39
+BRFL,2021-09-09 16:16:00,2021-09-07,2021-09-03,2021-09-03,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,500000.0,0.0,0.0,0.0,0.0,5133000.0,1.62,4633000.0,1.46
+BRFL,2022-04-25 19:48:00,2022-04-21,2022-04-19,2022-04-19,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,4000000.0,0.0,0.0,0.0,0.0,4420000.0,1.39,420000.0,0.13

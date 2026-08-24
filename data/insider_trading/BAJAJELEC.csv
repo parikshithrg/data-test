@@ -1,0 +1,1083 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+BAJAJELEC,2015-11-30 14:39:00,2015-11-27,2015-11-25,2015-11-25,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,500.0,0.0,5500.0,0.0054
+BAJAJELEC,2015-12-09 18:57:00,2015-12-08,2015-11-25,2015-11-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,4500.0,0.0,0.0,0.0,0.0,1000.0,0.0009,5500.0,0.0054
+BAJAJELEC,2015-12-10 18:39:00,2015-12-09,2015-12-04,2015-12-04,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,26846.0,0.0,0.0,0.0,0.0,26846.0,0.0266,26846.0,0.0266
+BAJAJELEC,2016-01-18 13:28:00,2016-01-14,2015-12-17,2015-12-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,788.0,0.0,0.0,0.0,0.0,10869.0,0.0107,10081.0,0.0099
+BAJAJELEC,2016-01-18 13:28:00,2016-01-14,2015-12-17,2015-12-17,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,788.0,0.0,0.0,0.0,0.0,10869.0,0.0107,10869.0,0.0107
+BAJAJELEC,2016-01-18 13:28:00,2016-01-14,2015-12-04,2015-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,768.0,0.0,0.0,0.0,0.0,11637.0,0.0115,10869.0,0.0107
+BAJAJELEC,2016-01-18 13:28:00,2016-01-14,2015-12-04,2015-12-04,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,768.0,0.0,0.0,0.0,0.0,11637.0,0.0115,11637.0,0.0115
+BAJAJELEC,2016-01-18 13:28:00,2016-01-14,2015-11-19,2015-11-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,738.0,0.0,0.0,0.0,0.0,12375.0,0.0122,11637.0,0.0115
+BAJAJELEC,2016-01-18 13:28:00,2016-01-14,2015-12-23,2015-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,535.0,0.0,0.0,0.0,0.0,10081.0,0.0099,9546.0,0.0094
+BAJAJELEC,2016-01-18 13:28:00,2016-01-14,2015-11-19,2015-11-19,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,738.0,0.0,0.0,0.0,0.0,12375.0,0.0122,12375.0,0.0122
+BAJAJELEC,2016-01-19 13:18:00,2016-01-14,2015-12-17,2015-12-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1323.0,0.0,0.0,0.0,0.0,10869.0,0.0122,9546.0,0.0094
+BAJAJELEC,2016-01-19 13:18:00,2016-01-14,2015-12-17,2015-12-17,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,788.0,0.0,0.0,0.0,0.0,10869.0,0.0122,10869.0,0.0122
+BAJAJELEC,2016-01-19 13:18:00,2016-01-14,2015-12-04,2015-12-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,768.0,0.0,0.0,0.0,0.0,11637.0,0.0122,10869.0,0.0122
+BAJAJELEC,2016-01-19 13:18:00,2016-01-14,2015-12-04,2015-12-04,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,768.0,0.0,0.0,0.0,0.0,11637.0,0.0122,11637.0,0.0122
+BAJAJELEC,2016-01-19 13:18:00,2016-01-14,2015-11-19,2015-11-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,738.0,0.0,0.0,0.0,0.0,12375.0,0.0122,11637.0,0.0122
+BAJAJELEC,2016-01-19 13:18:00,2016-01-14,2015-11-19,2015-11-19,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,738.0,0.0,0.0,0.0,0.0,12375.0,0.0122,12375.0,0.0122
+BAJAJELEC,2016-03-21 09:08:00,2016-03-18,2016-03-16,2016-03-16,Promoters,Gift,Sell,Equity Shares,240000.0,0.0,0.0,0.0,0.0,5081135.0,5.04,4841135.0,4.8
+BAJAJELEC,2016-03-21 09:08:00,2016-03-18,2016-03-16,2016-03-16,Promoters,Gift,Buy,Equity Shares,240000.0,0.0,0.0,0.0,0.0,2846419.0,2.82,3086419.0,3.06
+BAJAJELEC,2016-03-23 13:54:00,2016-03-23,2016-03-22,2016-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11000.0,0.0,0.0,0.0,0.0,23940.0,0.0237,12940.0,0.0128
+BAJAJELEC,2016-06-03 16:06:00,2016-06-03,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,7500.0,0.0,0.0,0.0,0.0,,0.0,7500.0,0.0074
+BAJAJELEC,2016-06-06 18:19:00,2016-06-06,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,12500.0,0.0,0.0,0.0,0.0,39346.0,0.0389,51846.0,0.0513
+BAJAJELEC,2016-06-06 18:19:00,2016-06-06,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,7500.0,0.0,0.0,0.0,0.0,8160.0,0.008,15660.0,0.0155
+BAJAJELEC,2016-06-06 18:19:00,2016-06-06,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,16800.0,0.0166,26800.0,0.0265
+BAJAJELEC,2016-06-06 18:19:00,2016-06-04,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0099
+BAJAJELEC,2016-06-06 18:19:00,2016-06-04,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,22809.0,0.0226,32809.0,0.0325
+BAJAJELEC,2016-06-06 18:19:00,2016-06-06,2016-05-20,2016-05-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10.0,0.0,0.0,0.0,0.0,8170.0,0.008,8160.0,0.008
+BAJAJELEC,2016-06-08 18:26:00,2016-06-08,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,7500.0,0.0,0.0,0.0,0.0,16632.0,0.0164,24132.0,0.0239
+BAJAJELEC,2016-06-10 16:40:00,2016-06-10,2016-06-09,2016-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.0099,,0.0
+BAJAJELEC,2016-06-14 15:32:00,2016-06-14,2016-05-26,2016-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,4500.0,0.0044,4200.0,0.0041
+BAJAJELEC,2016-06-14 15:32:00,2016-06-14,2016-05-27,2016-05-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4200.0,0.0041,2200.0,0.002
+BAJAJELEC,2016-06-14 15:32:00,2016-06-14,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,2200.0,0.002,5200.0,0.0051
+BAJAJELEC,2016-06-21 16:21:00,2016-06-20,2016-06-14,2016-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0019,1000.0,0.0
+BAJAJELEC,2016-06-21 16:21:00,2016-06-20,2016-06-15,2016-06-15,Employees/Designated Employees,Bonus,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+BAJAJELEC,2016-06-21 16:21:00,2016-06-20,2016-06-14,2016-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2500.0,0.002,2000.0,0.0019
+BAJAJELEC,2016-06-21 16:21:00,2016-06-20,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,ESOP/ESOS/ESPS,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.002
+BAJAJELEC,2016-06-27 19:59:00,2016-06-24,2016-06-22,2016-06-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,114.0,0.0,0.0,0.0,0.0,2514.0,0.002,2400.0,0.002
+BAJAJELEC,2016-06-27 19:59:00,2016-06-24,2016-06-17,2016-06-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,186.0,0.0,0.0,0.0,0.0,3000.0,0.002,2814.0,0.002
+BAJAJELEC,2016-06-27 19:59:00,2016-06-24,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.001
+BAJAJELEC,2016-06-27 19:59:00,2016-06-24,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,2000.0,0.001,3250.0,0.003
+BAJAJELEC,2016-06-27 19:59:00,2016-06-24,2016-06-09,2016-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,3250.0,0.003,3100.0,0.003
+BAJAJELEC,2016-06-27 19:59:00,2016-06-24,2016-06-23,2016-06-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,2400.0,0.002,1750.0,0.001
+BAJAJELEC,2016-06-27 19:59:00,2016-06-24,2016-06-13,2016-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3100.0,0.003,3000.0,0.002
+BAJAJELEC,2016-06-27 19:59:00,2016-06-24,2016-06-21,2016-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2814.0,0.002,2514.0,0.002
+BAJAJELEC,2016-06-28 11:07:00,2016-06-27,2016-06-27,2016-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6201.0,0.0,0.0,0.0,0.0,6201.0,0.006,,0.0
+BAJAJELEC,2016-06-28 11:07:00,2016-06-27,2016-06-24,2016-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1299.0,0.0,0.0,0.0,0.0,7500.0,0.0074,6201.0,0.006
+BAJAJELEC,2016-06-29 14:38:00,2016-06-29,2016-06-24,2016-06-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,562.0,0.0,0.0,0.0,0.0,23800.0,0.0235,23238.0,0.0229
+BAJAJELEC,2016-06-29 14:38:00,2016-06-29,2016-06-23,2016-06-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,24800.0,0.0245,23800.0,0.0235
+BAJAJELEC,2016-06-29 14:38:00,2016-06-29,2016-06-22,2016-06-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,26800.0,0.0265,24800.0,0.0245
+BAJAJELEC,2016-06-29 14:38:00,2016-06-29,2016-06-28,2016-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,22883.0,0.0226,21883.0,0.0216
+BAJAJELEC,2016-06-29 14:38:00,2016-06-29,2016-06-28,2016-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,355.0,0.0,0.0,0.0,0.0,23238.0,0.0229,22883.0,0.0226
+BAJAJELEC,2016-06-30 16:17:00,2016-06-30,2016-06-29,2016-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,25000.0,0.0247,,0.0
+BAJAJELEC,2016-07-05 12:41:00,2016-07-04,2016-05-30,2016-05-30,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,7500.0,0.0,0.0,0.0,0.0,15660.0,0.0155,15660.0,0.0155
+BAJAJELEC,2016-07-05 12:41:00,2016-07-04,2016-06-20,2016-06-20,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,646.0,0.0,0.0,0.0,0.0,15660.0,0.0155,15660.0,0.0155
+BAJAJELEC,2016-07-05 12:41:00,2016-07-04,2016-06-21,2016-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,15014.0,0.0148,14364.0,0.0142
+BAJAJELEC,2016-07-05 12:41:00,2016-07-04,2016-06-21,2016-06-21,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,650.0,0.0,0.0,0.0,0.0,15014.0,0.0148,15014.0,0.0148
+BAJAJELEC,2016-07-05 12:41:00,2016-07-04,2016-06-20,2016-06-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,646.0,0.0,0.0,0.0,0.0,15660.0,0.0155,15014.0,0.0148
+BAJAJELEC,2016-07-11 16:37:00,2016-07-11,2016-06-29,2016-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13750.0,0.0,0.0,0.0,0.0,13750.0,0.0136,,0.0
+BAJAJELEC,2016-07-12 15:57:00,2016-07-08,2016-07-07,2016-07-07,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,24132.0,0.0239,24132.0,0.0239
+BAJAJELEC,2016-07-12 15:57:00,2016-07-08,2016-07-08,2016-07-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,23132.0,0.0228,21132.0,0.0209
+BAJAJELEC,2016-07-12 15:57:00,2016-07-08,2016-07-08,2016-07-08,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2000.0,0.0,0.0,0.0,0.0,23132.0,0.0228,23132.0,0.0228
+BAJAJELEC,2016-07-12 15:57:00,2016-07-08,2016-07-07,2016-07-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,24132.0,0.0239,23132.0,0.0228
+BAJAJELEC,2016-07-18 16:35:00,2016-07-16,2016-06-30,2016-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1450.0,0.0,0.0,0.0,0.0,2500.0,0.0024,1050.0,0.001
+BAJAJELEC,2016-07-18 16:35:00,2016-07-16,2016-05-30,2016-05-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0024
+BAJAJELEC,2016-07-18 16:35:00,2016-07-16,2016-06-30,2016-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1050.0,0.0,0.0,0.0,0.0,1050.0,0.001,,0.0
+BAJAJELEC,2016-08-06 13:54:00,2016-08-05,2016-08-04,2016-08-04,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,2140.0,0.0,0.0,0.0,0.0,10632.0,0.0105,10632.0,0.0105
+BAJAJELEC,2016-08-06 13:54:00,2016-08-05,2016-08-04,2016-08-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2140.0,0.0,0.0,0.0,0.0,10632.0,0.0105,8492.0,0.0084
+BAJAJELEC,2016-08-06 13:54:00,2016-08-05,2016-06-30,2016-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,16883.0,0.0167,15883.0,0.0157
+BAJAJELEC,2016-08-06 13:54:00,2016-08-05,2016-07-28,2016-07-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3725.0,0.0,0.0,0.0,0.0,14357.0,0.0142,10632.0,0.0105
+BAJAJELEC,2016-08-06 13:54:00,2016-08-05,2016-06-29,2016-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,18883.0,0.0186,16883.0,0.0167
+BAJAJELEC,2016-08-06 13:54:00,2016-08-05,2016-06-29,2016-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,21883.0,0.0216,20883.0,0.0206
+BAJAJELEC,2016-08-06 13:54:00,2016-08-05,2016-06-29,2016-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,20883.0,0.0206,19883.0,0.0196
+BAJAJELEC,2016-08-06 13:54:00,2016-08-05,2016-06-29,2016-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,19883.0,0.0196,18883.0,0.0186
+BAJAJELEC,2016-08-06 13:54:00,2016-08-05,2016-07-28,2016-07-28,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3725.0,0.0,0.0,0.0,0.0,14357.0,0.0142,14357.0,0.0142
+BAJAJELEC,2016-08-08 11:39:00,2016-08-06,2016-07-27,2016-07-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,20132.0,0.0199,19132.0,0.0189
+BAJAJELEC,2016-08-08 11:39:00,2016-08-06,2016-08-04,2016-08-04,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,5650.0,0.0,0.0,0.0,0.0,19132.0,0.0189,19132.0,0.0189
+BAJAJELEC,2016-08-08 11:39:00,2016-08-06,2016-07-20,2016-07-20,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,21132.0,0.0209,21132.0,0.0209
+BAJAJELEC,2016-08-08 11:39:00,2016-08-06,2016-07-20,2016-07-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,21132.0,0.0209,20132.0,0.0199
+BAJAJELEC,2016-08-08 11:39:00,2016-08-06,2016-07-27,2016-07-27,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,20132.0,0.0199,20132.0,0.0199
+BAJAJELEC,2016-08-10 14:42:00,2016-08-09,2016-07-29,2016-07-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5200.0,0.0,0.0,0.0,0.0,5200.0,0.0051,,0.0
+BAJAJELEC,2016-09-09 16:37:00,2016-09-08,2016-09-02,2016-09-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3050.0,0.003,2750.0,0.0027
+BAJAJELEC,2016-09-09 16:37:00,2016-09-08,2016-09-06,2016-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2750.0,0.0027,2450.0,0.0024
+BAJAJELEC,2016-09-09 16:37:00,2016-09-08,2016-08-12,2016-08-12,Employees/Designated Employees,ESOP,Buy,Equity Shares,3250.0,0.0,0.0,0.0,0.0,50.0,0.0,3300.0,0.0032
+BAJAJELEC,2016-09-09 16:37:00,2016-09-08,2016-08-19,2016-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,3300.0,0.0032,3250.0,0.0032
+BAJAJELEC,2016-09-09 16:37:00,2016-09-08,2016-09-01,2016-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3250.0,0.0032,3050.0,0.003
+BAJAJELEC,2016-09-12 12:23:00,2016-09-12,2016-09-08,2016-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1611.0,0.0,0.0,0.0,0.0,36931.0,0.0365,35320.0,0.0349
+BAJAJELEC,2016-09-12 12:23:00,2016-09-12,2016-09-06,2016-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,38931.0,0.0385,36931.0,0.0365
+BAJAJELEC,2016-09-12 12:23:00,2016-09-12,2016-09-06,2016-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,415.0,0.0,0.0,0.0,0.0,39346.0,0.0389,38931.0,0.0385
+BAJAJELEC,2016-09-13 14:29:00,2016-09-13,2016-08-31,2016-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13630.0,0.0,0.0,0.0,0.0,13630.0,0.0134,,0.0
+BAJAJELEC,2016-09-14 16:52:00,2016-09-13,2016-09-08,2016-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1700.0,0.0016,1400.0,0.0013
+BAJAJELEC,2016-09-14 16:52:00,2016-09-13,2016-09-07,2016-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2000.0,0.0019,1700.0,0.0016
+BAJAJELEC,2016-09-14 16:52:00,2016-09-13,2016-09-12,2016-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,1400.0,0.0013,1200.0,0.0011
+BAJAJELEC,2016-09-14 16:52:00,2016-09-13,2016-08-12,2016-08-12,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0024
+BAJAJELEC,2016-09-14 16:52:00,2016-09-13,2016-09-02,2016-09-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2500.0,0.0024,2000.0,0.0019
+BAJAJELEC,2016-09-19 13:15:00,2016-09-16,2016-08-19,2016-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8.0,0.0,0.0,0.0,0.0,8485.0,0.0084,8477.0,0.0083
+BAJAJELEC,2016-09-19 13:15:00,2016-09-16,2016-08-04,2016-08-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7.0,0.0,0.0,0.0,0.0,8492.0,0.0084,8485.0,0.0084
+BAJAJELEC,2016-09-19 13:15:00,2016-09-16,2016-09-15,2016-09-15,Employees/Designated Employees,Off Market,Pledge Revoke,Equity Shares,5182.0,0.0,0.0,0.0,0.0,8477.0,0.0083,8477.0,0.0083
+BAJAJELEC,2016-09-29 11:28:00,2016-09-28,2016-08-12,2016-08-12,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0024
+BAJAJELEC,2016-09-29 11:28:00,2016-09-28,2016-09-07,2016-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,2500.0,0.0024,1800.0,0.0017
+BAJAJELEC,2016-09-29 11:28:00,2016-09-28,2016-09-23,2016-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,1800.0,0.0017,,0.0
+BAJAJELEC,2016-10-13 11:56:00,2016-10-12,2016-10-10,2016-10-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0049
+BAJAJELEC,2016-10-13 11:56:00,2016-10-12,2016-10-10,2016-10-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,9000.0,0.0,0.0,0.0,0.0,18000.0,0.0178,27000.0,0.0267
+BAJAJELEC,2016-10-14 16:29:00,2016-10-14,2016-10-10,2016-10-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,15883.0,0.0157,21883.0,0.0216
+BAJAJELEC,2016-10-14 16:29:00,2016-10-14,2016-10-10,2016-10-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,25000.0,0.0,0.0,0.0,0.0,,0.0,25000.0,0.0247
+BAJAJELEC,2016-12-19 13:52:00,2016-12-19,2016-12-13,2016-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5500.0,0.0054,10500.0,0.0103
+BAJAJELEC,2016-12-20 11:42:00,2016-12-19,2016-12-13,2016-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,7500.0,0.0,0.0,0.0,0.0,,0.0,7500.0,0.0074
+BAJAJELEC,2016-12-22 16:24:00,2016-12-22,2016-12-20,2016-12-20,Promoter Group,Gift,Sell,Equity Shares,80200.0,0.0,0.0,0.0,0.0,4841135.0,4.79,4760935.0,4.71
+BAJAJELEC,2016-12-22 16:24:00,2016-12-22,2016-12-20,2016-12-20,Promoter Group,Gift,Sell,Equity Shares,80200.0,0.0,0.0,0.0,0.0,4760935.0,4.71,4680735.0,4.63
+BAJAJELEC,2016-12-22 16:24:00,2016-12-22,2016-12-20,2016-12-20,Promoter Group,Gift,Buy,Equity Shares,80200.0,0.0,0.0,0.0,0.0,2044835.0,2.02,2125035.0,2.1
+BAJAJELEC,2016-12-22 16:24:00,2016-12-22,2016-12-20,2016-12-20,Promoter Group,Gift,Buy,Equity Shares,80200.0,0.0,0.0,0.0,0.0,1631035.0,1.61,1711235.0,1.69
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-12-13,2016-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,19970.0,0.0197,21970.0,0.0217
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-30,2016-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,20070.0,0.0198,19970.0,0.0197
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-14,2016-10-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,23040.0,0.0227,22540.0,0.0222
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-14,2016-10-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,370.0,0.0,0.0,0.0,0.0,22540.0,0.0222,22170.0,0.0219
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-24,2016-10-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,22170.0,0.0219,21670.0,0.0214
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-24,2016-10-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,21670.0,0.0214,21170.0,0.0209
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-30,2016-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,21170.0,0.0209,20970.0,0.0207
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-30,2016-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,20170.0,0.0199,20070.0,0.0198
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-30,2016-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,20270.0,0.02,20170.0,0.0199
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-30,2016-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,20370.0,0.0201,20270.0,0.02
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-30,2016-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,20470.0,0.0202,20370.0,0.0201
+BAJAJELEC,2016-12-26 17:22:00,2016-12-26,2016-10-30,2016-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,20970.0,0.0207,20470.0,0.0202
+BAJAJELEC,2017-01-12 15:22:00,2017-01-12,2016-08-12,2016-08-12,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0049
+BAJAJELEC,2017-01-12 15:22:00,2017-01-12,2016-09-08,2016-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,5000.0,0.0049,4400.0,0.0043
+BAJAJELEC,2017-01-12 15:22:00,2017-01-12,2016-12-13,2016-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0098
+BAJAJELEC,2017-01-12 15:22:00,2017-01-12,2016-09-22,2016-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3100.0,0.0,0.0,0.0,0.0,3894.0,0.0038,794.0,0.0007
+BAJAJELEC,2017-01-12 15:22:00,2017-01-12,2016-09-21,2016-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,506.0,0.0,0.0,0.0,0.0,4400.0,0.0043,3894.0,0.0038
+BAJAJELEC,2017-02-07 15:30:00,2017-02-07,2016-08-12,2016-08-12,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0049
+BAJAJELEC,2017-02-08 14:01:00,2017-02-07,2016-09-02,2016-09-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,5000.0,0.0049,1000.0,0.0009
+BAJAJELEC,2017-02-21 11:27:00,2017-02-20,2016-10-24,2016-10-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1500.0,0.0014,1000.0,0.0009
+BAJAJELEC,2017-02-21 11:27:00,2017-02-20,2016-11-07,2016-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1000.0,0.0009,500.0,0.0004
+BAJAJELEC,2017-02-21 11:27:00,2017-02-20,2016-11-17,2016-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0004,,0.0
+BAJAJELEC,2017-02-21 11:27:00,2017-02-20,2016-12-13,2016-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0029
+BAJAJELEC,2017-03-14 15:26:00,2017-03-10,2017-01-30,2017-02-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,21070.0,0.0208,20170.0,0.0199
+BAJAJELEC,2017-03-14 15:26:00,2017-03-10,2017-01-24,2017-01-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,21870.0,0.0216,21070.0,0.0208
+BAJAJELEC,2017-03-14 15:26:00,2017-03-10,2017-01-24,2017-01-24,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,21770.0,0.0215,21870.0,0.0216
+BAJAJELEC,2017-03-14 15:26:00,2017-03-10,2017-01-24,2017-01-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,21970.0,0.0217,21770.0,0.0215
+BAJAJELEC,2017-03-14 15:26:00,2017-03-10,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8474.0,0.0,0.0,0.0,0.0,35320.0,0.0349,26846.0,0.0265
+BAJAJELEC,2017-03-14 15:26:00,2017-03-10,2017-03-09,2017-03-09,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,20000.0,0.0,0.0,0.0,0.0,35320.0,0.0349,35320.0,0.0349
+BAJAJELEC,2017-03-14 15:26:00,2017-03-10,2017-02-06,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,20170.0,0.0199,18170.0,0.0179
+BAJAJELEC,2017-03-15 11:08:00,2017-03-14,2017-03-09,2017-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,9140.0,0.009,7140.0,0.007
+BAJAJELEC,2017-03-15 11:08:00,2017-03-14,2017-03-03,2017-03-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,124.0,0.0,0.0,0.0,0.0,12940.0,0.0127,12816.0,0.0126
+BAJAJELEC,2017-03-15 11:08:00,2017-03-14,2017-03-06,2017-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3676.0,0.0,0.0,0.0,0.0,12816.0,0.0126,9140.0,0.009
+BAJAJELEC,2017-03-15 15:00:00,2017-03-14,2017-03-14,2017-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,20000.0,0.0,0.0,0.0,0.0,26846.0,0.0265,6846.0,0.0067
+BAJAJELEC,2017-03-16 14:08:00,2017-03-16,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,25000.0,0.0247,,0.0
+BAJAJELEC,2017-03-20 16:26:00,2017-03-20,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,30.0,0.0,2530.0,0.0024
+BAJAJELEC,2017-03-20 16:26:00,2017-03-17,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6000.0,0.0059,5000.0,0.0049
+BAJAJELEC,2017-03-20 16:26:00,2017-03-20,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,7500.0,0.0,0.0,0.0,0.0,10680.0,0.0105,18180.0,0.0179
+BAJAJELEC,2017-03-20 16:26:00,2017-03-20,2017-03-15,2017-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,10500.0,0.0103,7500.0,0.0074
+BAJAJELEC,2017-03-20 16:26:00,2017-03-20,2017-03-16,2017-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,7500.0,0.0074,5500.0,0.0054
+BAJAJELEC,2017-03-20 16:26:00,2017-03-20,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,7040.0,0.0069,14040.0,0.0138
+BAJAJELEC,2017-03-20 16:26:00,2017-03-17,2017-01-25,2017-01-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6750.0,0.0066,6250.0,0.0061
+BAJAJELEC,2017-03-20 16:26:00,2017-03-17,2017-01-27,2017-01-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,6250.0,0.0061,6000.0,0.0059
+BAJAJELEC,2017-03-20 16:26:00,2017-03-20,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,8150.0,0.0,0.0,0.0,0.0,2530.0,0.0024,10680.0,0.0105
+BAJAJELEC,2017-03-20 16:26:00,2017-03-17,2017-03-14,2017-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5000.0,0.0049,4000.0,0.0039
+BAJAJELEC,2017-03-20 16:26:00,2017-03-17,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4000.0,0.0039,6000.0,0.0059
+BAJAJELEC,2017-03-23 15:43:00,2017-03-23,2017-02-10,2017-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,550.0,0.0005,450.0,0.0004
+BAJAJELEC,2017-03-23 15:43:00,2017-03-23,2017-02-10,2017-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,450.0,0.0004,250.0,0.0002
+BAJAJELEC,2017-03-23 15:43:00,2017-03-23,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,250.0,0.0002,200.0,0.0002
+BAJAJELEC,2017-03-23 15:43:00,2017-03-23,2017-02-07,2017-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,650.0,0.0006,550.0,0.0005
+BAJAJELEC,2017-03-23 15:43:00,2017-03-22,2017-03-17,2017-03-17,Employees/Designated Employees,Off Market,Pledge,Equity Shares,7000.0,0.0,0.0,0.0,0.0,14040.0,0.0138,14040.0,0.0138
+BAJAJELEC,2017-03-23 15:43:00,2017-03-23,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,200.0,0.0002,4200.0,0.0041
+BAJAJELEC,2017-03-23 15:43:00,2017-03-23,2017-02-07,2017-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,750.0,0.0007,650.0,0.0006
+BAJAJELEC,2017-03-25 15:28:00,2017-03-24,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0024
+BAJAJELEC,2017-03-25 15:28:00,2017-03-24,2017-03-07,2017-03-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0004,,0.0
+BAJAJELEC,2017-03-25 15:28:00,2017-03-24,2017-02-22,2017-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2500.0,0.0024,500.0,0.0004
+BAJAJELEC,2017-03-25 15:28:00,2017-03-25,2017-03-23,2017-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4640.0,0.0045,3640.0,0.0036
+BAJAJELEC,2017-03-25 15:28:00,2017-03-25,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,7140.0,0.007,4640.0,0.0045
+BAJAJELEC,2017-03-25 15:28:00,2017-03-25,2017-03-22,2017-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,34933.0,0.0344,20933.0,0.0206
+BAJAJELEC,2017-03-25 15:28:00,2017-03-25,2017-03-21,2017-03-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,376.0,0.0,0.0,0.0,0.0,35309.0,0.0348,34933.0,0.0344
+BAJAJELEC,2017-03-25 15:28:00,2017-03-25,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,32809.0,0.0324,35309.0,0.0348
+BAJAJELEC,2017-03-30 15:38:00,2017-03-30,2017-03-27,2017-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,18180.0,0.0179,14180.0,0.014
+BAJAJELEC,2017-03-31 17:16:00,2017-03-31,2017-03-31,2017-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,12180.0,0.012,10180.0,0.01
+BAJAJELEC,2017-03-31 17:16:00,2017-03-31,2017-03-30,2017-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13180.0,0.013,12180.0,0.012
+BAJAJELEC,2017-03-31 17:16:00,2017-03-30,2017-03-29,2017-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4512.0,0.0,0.0,0.0,0.0,14040.0,0.0138,9528.0,0.0094
+BAJAJELEC,2017-03-31 17:16:00,2017-03-31,2017-03-29,2017-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14180.0,0.014,13180.0,0.013
+BAJAJELEC,2017-03-31 17:16:00,2017-03-31,2017-03-23,2017-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,446.0,0.0,0.0,0.0,0.0,20933.0,0.0206,20487.0,0.0202
+BAJAJELEC,2017-03-31 17:16:00,2017-03-31,2017-03-20,2017-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,884.0,0.0,0.0,0.0,0.0,19170.0,0.0189,18286.0,0.018
+BAJAJELEC,2017-03-31 17:16:00,2017-03-31,2017-03-30,2017-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,18487.0,0.0182,16487.0,0.0162
+BAJAJELEC,2017-03-31 17:16:00,2017-03-31,2017-03-10,2017-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,18170.0,0.0179,17670.0,0.0174
+BAJAJELEC,2017-03-31 17:16:00,2017-03-31,2017-03-14,2017-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,17670.0,0.0174,17170.0,0.0169
+BAJAJELEC,2017-03-31 17:16:00,2017-03-31,2017-03-27,2017-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,20487.0,0.0202,18487.0,0.0182
+BAJAJELEC,2017-03-31 17:16:00,2017-03-31,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,17170.0,0.0169,19170.0,0.0189
+BAJAJELEC,2017-04-20 14:18:00,2017-04-19,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2200.0,0.0,0.0,0.0,0.0,,0.0,2200.0,0.0021
+BAJAJELEC,2017-04-20 14:18:00,2017-04-19,2017-04-11,2017-04-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,14040.0,0.0138,9040.0,0.0089
+BAJAJELEC,2017-04-20 14:18:00,2017-04-19,2017-03-31,2017-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,2200.0,0.0021,,0.0
+BAJAJELEC,2017-05-04 15:40:00,2017-05-03,2017-02-07,2017-02-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6493.0,0.0,0.0,0.0,0.0,10000.0,0.0098,3507.0,0.0034
+BAJAJELEC,2017-06-06 15:05:00,2017-06-05,2017-05-26,2017-05-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,16786.0,0.0165,15786.0,0.0155
+BAJAJELEC,2017-06-06 15:05:00,2017-06-05,2017-04-05,2017-04-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,17286.0,0.017,16786.0,0.0165
+BAJAJELEC,2017-06-06 15:05:00,2017-06-05,2017-04-03,2017-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,18286.0,0.018,17286.0,0.017
+BAJAJELEC,2017-06-06 15:05:00,2017-06-05,2017-05-29,2017-05-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,15786.0,0.0155,15486.0,0.0152
+BAJAJELEC,2017-06-22 17:36:00,2017-06-21,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,6500.0,0.0,0.0,0.0,0.0,1640.0,0.0016,8140.0,0.008
+BAJAJELEC,2017-06-22 17:36:00,2017-06-21,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0049,10000.0,0.0098
+BAJAJELEC,2017-06-22 17:36:00,2017-06-21,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0039
+BAJAJELEC,2017-06-22 17:36:00,2017-06-21,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,5750.0,0.0,0.0,0.0,0.0,,0.0,5750.0,0.0056
+BAJAJELEC,2017-06-22 17:36:00,2017-06-21,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0037
+BAJAJELEC,2017-06-22 17:36:00,2017-06-22,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,15000.0,0.0,0.0,0.0,0.0,,0.0,15000.0,0.0148
+BAJAJELEC,2017-06-22 17:36:00,2017-06-22,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,,0.0,7000.0,0.0069
+BAJAJELEC,2017-06-22 17:36:00,2017-06-21,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,6500.0,0.0,0.0,0.0,0.0,21903.0,0.0216,28403.0,0.028
+BAJAJELEC,2017-06-23 15:05:00,2017-06-23,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,4750.0,0.0,0.0,0.0,0.0,,0.0,4750.0,0.0046
+BAJAJELEC,2017-06-24 11:22:00,2017-06-23,2017-01-02,2017-01-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,1000.0,0.0009,200.0,0.0001
+BAJAJELEC,2017-06-24 11:22:00,2017-06-23,2017-03-17,2017-03-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,1750.0,0.0,0.0,0.0,0.0,,0.0,1750.0,0.0017
+BAJAJELEC,2017-06-24 11:22:00,2017-06-23,2017-03-29,2017-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,750.0,0.0007,250.0,0.0002
+BAJAJELEC,2017-06-24 11:22:00,2017-06-23,2017-03-27,2017-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1750.0,0.0017,750.0,0.0007
+BAJAJELEC,2017-06-24 11:22:00,2017-06-23,2017-01-24,2017-01-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,200.0,0.0001,,0.0
+BAJAJELEC,2017-06-29 14:08:00,2017-06-29,2017-04-03,2017-04-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2957.0,0.0,0.0,0.0,0.0,4200.0,0.0014,1243.0,0.0012
+BAJAJELEC,2017-06-29 14:08:00,2017-06-28,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0037
+BAJAJELEC,2017-06-29 14:08:00,2017-06-28,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0049
+BAJAJELEC,2017-06-30 15:18:00,2017-06-30,2017-06-21,2017-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,28403.0,0.028,27403.0,0.027
+BAJAJELEC,2017-06-30 15:18:00,2017-06-30,2017-06-28,2017-06-28,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,27403.0,0.027,28403.0,0.028
+BAJAJELEC,2017-06-30 15:18:00,2017-06-30,2017-06-29,2017-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,28403.0,0.028,27403.0,0.027
+BAJAJELEC,2017-07-03 15:31:00,2017-06-30,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0024
+BAJAJELEC,2017-07-03 15:31:00,2017-06-30,2017-06-29,2017-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0024,1500.0,0.0014
+BAJAJELEC,2017-07-03 15:31:00,2017-06-30,2017-04-03,2017-04-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5835.0,0.0057,5335.0,0.0052
+BAJAJELEC,2017-07-03 15:31:00,2017-06-30,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5135.0,0.005,7635.0,0.0075
+BAJAJELEC,2017-07-03 15:31:00,2017-06-30,2017-05-24,2017-05-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,5335.0,0.0052,5135.0,0.005
+BAJAJELEC,2017-07-04 14:05:00,2017-07-03,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,1000.0,0.0009,3500.0,0.0034
+BAJAJELEC,2017-07-04 14:05:00,2017-07-04,2017-06-29,2017-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10493.0,0.0,0.0,0.0,0.0,10493.0,0.0103,,0.0
+BAJAJELEC,2017-07-04 14:05:00,2017-07-04,2017-06-28,2017-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,155.0,0.0,0.0,0.0,0.0,15000.0,0.0147,14845.0,0.0146
+BAJAJELEC,2017-07-04 14:05:00,2017-07-04,2017-06-28,2017-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4352.0,0.0,0.0,0.0,0.0,14845.0,0.0146,10493.0,0.0103
+BAJAJELEC,2017-07-04 14:05:00,2017-07-03,2017-06-29,2017-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1164.0,0.0,0.0,0.0,0.0,3500.0,0.0034,2336.0,0.0023
+BAJAJELEC,2017-07-05 13:53:00,2017-07-04,2017-06-28,2017-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4000.0,0.0039,2000.0,0.0019
+BAJAJELEC,2017-07-05 13:53:00,2017-07-04,2017-06-29,2017-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0019,,0.0
+BAJAJELEC,2017-07-12 14:03:00,2017-07-11,2017-07-04,2017-07-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,7000.0,0.0069,,0.0
+BAJAJELEC,2017-07-12 14:03:00,2017-07-12,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,6500.0,0.0,0.0,0.0,0.0,,0.0,6500.0,0.0064
+BAJAJELEC,2017-07-13 16:12:00,2017-07-12,2017-06-28,2017-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0024,,0.0
+BAJAJELEC,2017-07-13 16:12:00,2017-07-12,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0024
+BAJAJELEC,2017-07-13 16:12:00,2017-07-12,2017-06-28,2017-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0049,,0.0
+BAJAJELEC,2017-07-14 12:49:00,2017-07-13,2017-06-29,2017-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4750.0,0.0,0.0,0.0,0.0,4750.0,0.0046,,0.0
+BAJAJELEC,2017-07-17 14:52:00,2017-07-17,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,7185.0,0.007,10935.0,0.0107
+BAJAJELEC,2017-07-20 12:57:00,2017-07-20,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,4185.0,0.0041,7935.0,0.0078
+BAJAJELEC,2017-07-20 12:57:00,2017-07-20,2017-04-13,2017-04-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,7185.0,0.007,4185.0,0.0041
+BAJAJELEC,2017-07-20 12:57:00,2017-07-19,2017-06-29,2017-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,3750.0,0.0037,,0.0
+BAJAJELEC,2017-07-20 12:57:00,2017-07-19,2017-06-30,2017-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,3750.0,0.0037,,0.0
+BAJAJELEC,2017-07-26 12:12:00,2017-07-25,2017-07-04,2017-07-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3100.0,0.0,0.0,0.0,0.0,10000.0,0.0098,6900.0,0.0068
+BAJAJELEC,2017-08-02 12:16:00,2017-08-01,2017-07-31,2017-07-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4250.0,0.0041,2250.0,0.0022
+BAJAJELEC,2017-08-02 12:16:00,2017-08-01,2017-07-25,2017-07-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5250.0,0.0051,4250.0,0.0041
+BAJAJELEC,2017-08-02 12:16:00,2017-08-01,2017-07-11,2017-07-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5750.0,0.0056,5250.0,0.0051
+BAJAJELEC,2017-08-16 11:43:00,2017-08-14,2017-08-07,2017-08-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,15486.0,0.0152,14886.0,0.0146
+BAJAJELEC,2017-08-16 11:43:00,2017-08-14,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,9000.0,0.0,0.0,0.0,0.0,5000.0,0.0049,14000.0,0.0013
+BAJAJELEC,2017-08-16 11:43:00,2017-08-14,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,1750.0,0.0,0.0,0.0,0.0,,0.0,1750.0,0.0017
+BAJAJELEC,2017-08-16 11:43:00,2017-08-14,2017-08-01,2017-08-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2250.0,0.0,0.0,0.0,0.0,2250.0,0.0022,,0.0
+BAJAJELEC,2017-08-16 11:43:00,2017-08-14,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,14886.0,0.0146,18636.0,0.0183
+BAJAJELEC,2017-08-17 15:37:00,2017-08-16,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,5750.0,0.0,0.0,0.0,0.0,,0.0,5750.0,0.0056
+BAJAJELEC,2017-08-17 15:37:00,2017-08-16,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.0098
+BAJAJELEC,2017-08-17 15:37:00,2017-08-16,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,6250.0,0.0,0.0,0.0,0.0,5400.0,0.0053,11650.0,0.0114
+BAJAJELEC,2017-08-21 11:34:00,2017-08-17,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,4500.0,0.0,0.0,0.0,0.0,100.0,0.0001,4600.0,0.0045
+BAJAJELEC,2017-08-24 17:25:00,2017-08-24,2017-08-23,2017-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2750.0,0.0,0.0,0.0,0.0,2750.0,0.0027,,0.0
+BAJAJELEC,2017-08-24 17:25:00,2017-08-24,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2750.0,0.0,0.0,0.0,0.0,,0.0,2750.0,0.0027
+BAJAJELEC,2017-08-29 12:54:00,2017-08-28,2017-08-23,2017-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5500.0,0.0054,4500.0,0.0044
+BAJAJELEC,2017-08-29 12:54:00,2017-08-28,2017-08-28,2017-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4500.0,0.0044,3500.0,0.0034
+BAJAJELEC,2017-08-29 12:54:00,2017-08-28,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,1750.0,0.0017,5500.0,0.0054
+BAJAJELEC,2017-08-31 11:19:00,2017-08-29,2017-08-28,2017-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5941.0,0.0,0.0,0.0,0.0,5941.0,0.0058,,0.0
+BAJAJELEC,2017-08-31 11:19:00,2017-08-29,2017-08-24,2017-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3059.0,0.0,0.0,0.0,0.0,9000.0,0.0088,5941.0,0.0058
+BAJAJELEC,2017-08-31 11:19:00,2017-08-29,2017-08-18,2017-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,14000.0,0.0137,9000.0,0.0088
+BAJAJELEC,2017-09-06 11:51:00,2017-09-04,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,1500.0,0.0014,3500.0,0.0034
+BAJAJELEC,2017-09-06 11:51:00,2017-09-04,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,4600.0,0.0045,7100.0,0.0069
+BAJAJELEC,2017-09-06 11:51:00,2017-09-05,2017-09-04,2017-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10000.0,0.0098,5000.0,0.0049
+BAJAJELEC,2017-09-06 11:51:00,2017-09-04,2017-08-31,2017-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,3500.0,0.0034,,0.0
+BAJAJELEC,2017-09-06 11:51:00,2017-09-04,2017-08-24,2017-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,822.0,0.0,0.0,0.0,0.0,7100.0,0.0069,6278.0,0.0061
+BAJAJELEC,2017-09-08 17:15:00,2017-09-07,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0018
+BAJAJELEC,2017-09-08 17:15:00,2017-09-07,2017-08-28,2017-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,2500.0,0.0018,1900.0,0.0018
+BAJAJELEC,2017-09-08 17:15:00,2017-09-08,2017-09-01,2017-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3523.0,0.0,0.0,0.0,0.0,8140.0,0.008,4617.0,0.0045
+BAJAJELEC,2017-09-11 14:12:00,2017-09-11,2017-09-07,2017-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,14629.0,0.0144,11629.0,0.0114
+BAJAJELEC,2017-09-11 14:12:00,2017-09-11,2017-09-06,2017-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,15629.0,0.0153,14629.0,0.0144
+BAJAJELEC,2017-09-11 14:12:00,2017-09-11,2017-09-04,2017-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,858.0,0.0,0.0,0.0,0.0,16487.0,0.0162,15629.0,0.0153
+BAJAJELEC,2017-09-12 16:09:00,2017-09-12,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,1100.0,0.001,6100.0,0.006
+BAJAJELEC,2017-09-12 16:09:00,2017-09-11,2017-07-06,2017-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1050.0,0.0,0.0,0.0,0.0,1150.0,0.0011,100.0,0.0
+BAJAJELEC,2017-09-12 16:09:00,2017-09-11,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,100.0,0.0012,1350.0,0.0013
+BAJAJELEC,2017-09-12 16:09:00,2017-09-11,2017-08-22,2017-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,1350.0,0.0013,250.0,0.0002
+BAJAJELEC,2017-09-12 16:09:00,2017-09-11,2017-08-30,2017-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3500.0,0.0034,500.0,0.0004
+BAJAJELEC,2017-09-12 16:09:00,2017-09-12,2017-08-29,2017-08-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,5750.0,0.0056,5700.0,0.0056
+BAJAJELEC,2017-09-12 16:09:00,2017-09-12,2017-09-11,2017-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5700.0,0.0,0.0,0.0,0.0,5700.0,0.0056,,0.0
+BAJAJELEC,2017-09-12 16:09:00,2017-09-12,2017-09-12,2017-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4617.0,0.0045,617.0,0.0006
+BAJAJELEC,2017-09-14 14:38:00,2017-09-13,2017-09-12,2017-09-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3500.0,0.0034,500.0,0.0004
+BAJAJELEC,2017-09-14 14:38:00,2017-09-13,2017-07-06,2017-07-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,6900.0,0.0068,5500.0,0.0054
+BAJAJELEC,2017-09-14 14:38:00,2017-09-13,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0036
+BAJAJELEC,2017-09-14 14:38:00,2017-09-13,2017-08-31,2017-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5500.0,0.0054,3500.0,0.0034
+BAJAJELEC,2017-09-14 14:38:00,2017-09-12,2017-08-11,2017-08-11,Employees/Designated Employees,Market Sale,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0049,10000.0,0.0098
+BAJAJELEC,2017-09-14 14:38:00,2017-09-12,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0049
+BAJAJELEC,2017-09-14 14:38:00,2017-09-12,2017-09-11,2017-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0019,,0.0
+BAJAJELEC,2017-09-14 14:38:00,2017-09-12,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0019
+BAJAJELEC,2017-09-15 17:04:00,2017-09-14,2017-09-14,2017-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,19500.0,0.0192,16500.0,0.0162
+BAJAJELEC,2017-09-15 17:04:00,2017-09-14,2017-09-12,2017-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3755.0,0.0036,1755.0,0.0017
+BAJAJELEC,2017-09-15 17:04:00,2017-09-14,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,2505.0,0.0024,3755.0,0.0036
+BAJAJELEC,2017-09-15 17:04:00,2017-09-14,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0049
+BAJAJELEC,2017-09-15 17:04:00,2017-09-14,2017-09-04,2017-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0049,,0.0
+BAJAJELEC,2017-09-15 17:04:00,2017-09-15,2017-08-31,2017-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,18636.0,0.0183,15136.0,0.0149
+BAJAJELEC,2017-09-18 15:33:00,2017-09-15,2017-09-11,2017-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,4500.0,0.0044,1000.0,0.0009
+BAJAJELEC,2017-09-20 11:42:00,2017-09-18,2017-09-08,2017-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11142.0,0.0,0.0,0.0,0.0,11629.0,0.0114,487.0,0.0004
+BAJAJELEC,2017-09-21 14:43:00,2017-09-20,2017-09-01,2017-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3276.0,0.0,0.0,0.0,0.0,6278.0,0.0061,3002.0,0.0029
+BAJAJELEC,2017-09-22 17:32:00,2017-09-22,2017-09-21,2017-09-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,16500.0,0.0162,13500.0,0.0133
+BAJAJELEC,2017-09-25 15:31:00,2017-09-22,2017-09-22,2017-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,13500.0,0.0133,8500.0,0.0083
+BAJAJELEC,2017-09-27 16:52:00,2017-09-26,2017-09-13,2017-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,2500.0,0.0024,1250.0,0.0012
+BAJAJELEC,2017-09-27 16:52:00,2017-09-26,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0024
+BAJAJELEC,2017-10-04 14:08:00,2017-10-03,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,500.0,0.0004,1750.0,0.0017
+BAJAJELEC,2017-10-04 14:08:00,2017-10-03,2017-09-29,2017-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,27403.0,0.0269,22403.0,0.022
+BAJAJELEC,2017-10-04 14:08:00,2017-10-03,2017-08-22,2017-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1750.0,0.0,0.0,0.0,0.0,1750.0,0.0017,,0.0
+BAJAJELEC,2017-10-10 14:49:00,2017-10-09,2017-09-22,2017-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,3750.0,0.0036,,0.0
+BAJAJELEC,2017-10-10 14:49:00,2017-10-09,2017-09-21,2017-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2750.0,0.0,0.0,0.0,0.0,3750.0,0.0036,1000.0,0.0009
+BAJAJELEC,2017-10-10 14:49:00,2017-10-09,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0036
+BAJAJELEC,2017-10-17 18:22:00,2017-10-17,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,4250.0,0.0,0.0,0.0,0.0,,0.0,4250.0,0.0
+BAJAJELEC,2017-10-17 18:22:00,2017-10-17,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,50.0,0.0,3800.0,0.0
+BAJAJELEC,2017-10-17 18:22:00,2017-10-17,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,2100.0,0.0,5850.0,0.01
+BAJAJELEC,2017-10-17 18:22:00,2017-10-17,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,14000.0,0.0,0.0,0.0,0.0,487.0,0.0,14487.0,0.01
+BAJAJELEC,2017-10-17 18:22:00,2017-10-17,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,19636.0,0.02,27636.0,0.03
+BAJAJELEC,2017-10-17 18:22:00,2017-10-17,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+BAJAJELEC,2017-10-17 18:22:00,2017-10-17,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2017-10-17 18:22:00,2017-10-17,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,5250.0,0.0,0.0,0.0,0.0,15136.0,0.01,20386.0,0.02
+BAJAJELEC,2017-10-17 18:22:00,2017-10-17,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3500.0,0.0,0.0,0.0,0.0,6846.0,0.01,10346.0,0.01
+BAJAJELEC,2017-10-24 14:48:00,2017-10-23,2017-10-17,2017-10-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3000.0,0.0,2500.0,0.0
+BAJAJELEC,2017-10-24 14:48:00,2017-10-23,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,500.0,0.0,3000.0,0.0
+BAJAJELEC,2017-10-24 14:48:00,2017-10-23,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+BAJAJELEC,2017-10-24 14:48:00,2017-10-23,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2017-10-24 14:48:00,2017-10-23,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,5500.0,0.0,0.0,0.0,0.0,,0.0,5500.0,0.01
+BAJAJELEC,2017-10-31 12:42:00,2017-10-30,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,263.0,0.0,4013.0,0.0
+BAJAJELEC,2017-11-01 15:44:00,2017-10-31,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,500.0,0.0,5500.0,0.01
+BAJAJELEC,2017-11-01 15:44:00,2017-11-01,2017-08-11,2017-08-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0
+BAJAJELEC,2017-11-01 15:44:00,2017-11-01,2017-08-29,2017-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,,0.0
+BAJAJELEC,2017-11-08 17:59:00,2017-11-07,2017-10-31,2017-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2867.0,0.0,0.0,0.0,0.0,3750.0,0.0,883.0,0.0
+BAJAJELEC,2017-11-13 14:50:00,2017-11-10,2017-10-31,2017-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5364.0,0.0,0.0,0.0,0.0,5500.0,0.01,136.0,0.0
+BAJAJELEC,2017-11-13 14:50:00,2017-11-10,2017-10-31,2017-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3750.0,0.0,750.0,0.0
+BAJAJELEC,2017-11-13 14:50:00,2017-11-10,2017-10-31,2017-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,,0.0
+BAJAJELEC,2017-11-13 14:50:00,2017-11-10,2017-10-18,2017-11-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2800.0,0.0,0.0,0.0,0.0,3800.0,0.0,1000.0,0.0
+BAJAJELEC,2017-11-13 14:50:00,2017-11-10,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,8500.0,0.01,12250.0,0.01
+BAJAJELEC,2017-11-13 14:50:00,2017-11-10,2017-10-31,2017-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3050.0,0.0,0.0,0.0,0.0,4000.0,0.0,950.0,0.0
+BAJAJELEC,2017-11-15 12:22:00,2017-11-13,2017-11-13,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4250.0,0.0,0.0,0.0,0.0,4250.0,0.0,,0.0
+BAJAJELEC,2017-11-21 15:34:00,2017-11-20,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2017-11-21 15:34:00,2017-11-20,2017-11-13,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,,0.0
+BAJAJELEC,2017-11-27 17:13:00,2017-11-24,2017-07-04,2017-08-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,9000.0,0.01,5000.0,0.0
+BAJAJELEC,2017-11-29 16:12:00,2017-11-28,2017-11-28,2017-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,12250.0,0.01,9250.0,0.01
+BAJAJELEC,2017-11-29 16:12:00,2017-11-27,2017-10-09,2017-10-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+BAJAJELEC,2017-11-29 16:12:00,2017-11-28,2017-11-10,2017-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5500.0,0.01,3000.0,0.0
+BAJAJELEC,2017-11-29 16:12:00,2017-11-28,2017-11-14,2017-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2500.0,0.0,2000.0,0.0
+BAJAJELEC,2017-11-29 16:12:00,2017-11-27,2017-11-20,2017-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1500.0,0.0,1250.0,0.0
+BAJAJELEC,2017-11-29 16:12:00,2017-11-27,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,,0.0,1500.0,0.0
+BAJAJELEC,2017-11-29 16:12:00,2017-11-28,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,,0.0,3300.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3500.0,0.0,0.0,0.0,0.0,,0.0,3500.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-10-05,2017-10-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,1900.0,0.0,1450.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-10-10,2017-10-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1450.0,0.0,2700.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-11-30,2017-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,2700.0,0.0,2250.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,2250.0,0.0,3500.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-12,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-11-02,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,990.0,0.0,0.0,0.0,0.0,1000.0,0.0,10.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,500.0,0.0,1750.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-11-13,2017-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2500.0,0.0,500.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,1617.0,0.0,4617.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-11-03,2017-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,950.0,0.0,0.0,0.0,0.0,950.0,0.0,,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,10.0,0.0,3010.0,0.0
+BAJAJELEC,2017-12-12 15:11:00,2017-12-11,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,617.0,0.0,1617.0,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-12,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-12,2017-12-11,2017-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,14487.0,0.01,487.0,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-12,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,1500.0,0.0,3500.0,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-12,2017-11-09,2017-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2000.0,0.0,1500.0,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-12,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-12,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-13,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1750.0,0.0,0.0,0.0,0.0,,0.0,1750.0,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-12,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,,0.0,8000.0,0.01
+BAJAJELEC,2017-12-14 12:39:00,2017-12-12,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-12,2017-11-13,2017-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,136.0,0.0,0.0,0.0,0.0,136.0,0.0,,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-13,2017-10-30,2017-10-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,300.0,0.0,,0.0
+BAJAJELEC,2017-12-14 12:39:00,2017-12-13,2017-10-11,2017-10-11,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,,0.0,300.0,0.0
+BAJAJELEC,2017-12-27 15:18:00,2017-12-26,2017-12-22,2017-12-22,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,5750.0,0.0,0.0,0.0,0.0,19750.0,0.02,19750.0,0.02
+BAJAJELEC,2017-12-27 15:18:00,2017-12-26,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2017-12-27 15:18:00,2017-12-26,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,16000.0,0.02,18500.0,0.02
+BAJAJELEC,2017-12-27 15:18:00,2017-12-26,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,18500.0,0.02,19750.0,0.02
+BAJAJELEC,2017-12-28 14:36:00,2017-12-27,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,7500.0,0.0,0.0,0.0,0.0,,0.0,7500.0,0.01
+BAJAJELEC,2017-12-28 14:36:00,2017-12-28,2017-12-27,2017-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,,0.0
+BAJAJELEC,2017-12-28 14:36:00,2017-12-27,2017-10-16,2017-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,300.0,0.0,50.0,0.0
+BAJAJELEC,2017-12-28 14:36:00,2017-12-27,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,50.0,0.0,3050.0,0.0
+BAJAJELEC,2017-12-28 14:36:00,2017-12-28,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2017-12-28 14:36:00,2017-12-28,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2017-12-29 16:41:00,2017-12-28,2017-12-26,2017-12-26,Promoters,Gift,Sell,Equity Shares,2180000.0,0.0,0.0,0.0,0.0,7217535.0,7.08,5037535.0,4.94
+BAJAJELEC,2017-12-29 16:41:00,2017-12-28,2017-12-26,2017-12-26,Promoters,Gift,Buy,Equity Shares,2180000.0,0.0,0.0,0.0,0.0,5037535.0,4.94,7217535.0,7.08
+BAJAJELEC,2017-12-29 16:41:00,2017-12-29,2017-12-27,2017-12-27,Promoters,Inter-se-Transfer,Buy,Equity Shares,770000.0,0.0,0.0,0.0,0.0,2125035.0,2.09,2895035.0,2.84
+BAJAJELEC,2017-12-29 16:41:00,2017-12-29,2017-12-27,2017-12-27,Promoters,Inter-se-Transfer,Sell,Equity Shares,2180000.0,0.0,0.0,0.0,0.0,7217535.0,7.08,5037535.0,4.94
+BAJAJELEC,2017-12-29 16:41:00,2017-12-29,2017-12-27,2017-12-27,Promoters,Inter-se-Transfer,Buy,Equity Shares,468000.0,0.0,0.0,0.0,0.0,90000.0,0.09,558000.0,0.55
+BAJAJELEC,2017-12-29 16:41:00,2017-12-29,2017-12-27,2017-12-27,Promoters,Inter-se-Transfer,Buy,Equity Shares,790000.0,0.0,0.0,0.0,0.0,110000.0,0.11,900000.0,0.88
+BAJAJELEC,2017-12-29 16:41:00,2017-12-29,2017-12-27,2017-12-27,Promoters,Inter-se-Transfer,Buy,Equity Shares,152000.0,0.0,0.0,0.0,0.0,638200.0,0.63,790200.0,0.78
+BAJAJELEC,2018-01-04 19:09:00,2018-01-03,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,100.0,0.0,1600.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-02,2017-12-27,2017-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3010.0,0.0,10.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-03,2018-01-03,2018-01-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4000.0,0.0,,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-02,2017-12-27,2017-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,3500.0,0.0,,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-02,2017-12-28,2017-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,4750.0,0.0,1750.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-02,2018-01-02,2018-01-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,7500.0,0.01,4000.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-02,2017-11-06,2017-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,883.0,0.0,0.0,0.0,0.0,883.0,0.0,,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-02,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,4750.0,0.0,0.0,0.0,0.0,,0.0,4750.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-02,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,,0.0,500.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-02,2017-11-28,2017-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,500.0,0.0,300.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-02,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1100.0,0.0,0.0,0.0,0.0,300.0,0.0,1400.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-03,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-03,2017-10-31,2017-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1150.0,0.0,0.0,0.0,0.0,1250.0,0.0,100.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-02,2017-12-21,2017-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,1400.0,0.0,600.0,0.0
+BAJAJELEC,2018-01-04 19:09:00,2018-01-03,2017-12-27,2017-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,3750.0,0.0,,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1900.0,0.0,0.0,0.0,0.0,2100.0,0.0,4000.0,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-28,2017-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,3750.0,0.0,,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-22,2017-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,1250.0,0.0,50.0,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-26,2017-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,8000.0,0.0,2000.0,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-21,2017-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,3750.0,0.0,,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-01,2017-12-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4000.0,0.0,,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.01
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,10000.0,0.01,20000.0,0.02
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-26,2017-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2542.0,0.0,0.0,0.0,0.0,20000.0,0.02,17458.0,0.02
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-27,2017-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,17458.0,0.0,0.0,0.0,0.0,17458.0,0.02,,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-11-20,2017-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1700.0,0.0,700.0,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1700.0,0.0,0.0,0.0,0.0,,0.0,1700.0,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1900.0,0.0,0.0,0.0,0.0,500.0,0.0,2400.0,0.0
+BAJAJELEC,2018-01-05 16:25:00,2018-01-04,2017-11-23,2017-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,700.0,0.0,200.0,0.0
+BAJAJELEC,2018-01-08 16:15:00,2017-12-29,2017-12-27,2017-12-27,Promoters,Inter-se-Transfer,Buy,Equity Shares,468000.0,0.0,0.0,0.0,0.0,90000.0,0.09,558000.0,0.55
+BAJAJELEC,2018-01-08 16:15:00,2017-12-29,2017-12-27,2017-12-27,Promoters,Inter-se-Transfer,Buy,Equity Shares,790000.0,0.0,0.0,0.0,0.0,110000.0,0.11,900000.0,0.88
+BAJAJELEC,2018-01-08 16:15:00,2017-12-29,2017-12-27,2017-12-27,Promoters,Inter-se-Transfer,Buy,Equity Shares,152000.0,0.0,0.0,0.0,0.0,638200.0,0.63,790200.0,0.78
+BAJAJELEC,2018-01-08 16:15:00,2017-12-29,2017-12-27,2017-12-27,Promoters,Inter-se-Transfer,Buy,Equity Shares,770000.0,0.0,0.0,0.0,0.0,2125035.0,2.09,2895035.0,2.84
+BAJAJELEC,2018-01-08 16:15:00,2017-12-29,2017-12-27,2017-12-27,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,2180000.0,0.0,0.0,0.0,0.0,2180000.0,2.14,,0.0
+BAJAJELEC,2018-01-08 16:15:00,2017-12-28,2017-12-26,2017-12-26,Promoter Group,Gift,Buy,Equity Shares,2180000.0,0.0,0.0,0.0,0.0,,0.0,2180000.0,2.14
+BAJAJELEC,2018-01-08 16:15:00,2017-12-28,2017-12-26,2017-12-26,Promoters,Gift,Sell,Equity Shares,2180000.0,0.0,0.0,0.0,0.0,4680735.0,4.59,2500735.0,2.45
+BAJAJELEC,2018-01-10 15:50:00,2018-01-08,2017-12-27,2017-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2050.0,0.0,0.0,0.0,0.0,3300.0,0.0,1250.0,0.0
+BAJAJELEC,2018-01-11 17:40:00,2018-01-10,2018-01-08,2018-01-08,Promoters,Gift,Buy,Equity Shares,250000.0,0.0,0.0,0.0,0.0,367200.0,0.36,617200.0,0.61
+BAJAJELEC,2018-01-11 17:40:00,2018-01-10,2018-01-08,2018-01-08,Promoters,Gift,Buy,Equity Shares,1830000.0,0.0,0.0,0.0,0.0,3086419.0,3.03,4916419.0,4.83
+BAJAJELEC,2018-01-11 17:40:00,2018-01-10,2018-01-08,2018-01-08,Promoters,Gift,Sell,Equity Shares,600000.0,0.0,0.0,0.0,0.0,790200.0,0.78,190200.0,0.19
+BAJAJELEC,2018-01-11 17:40:00,2018-01-10,2018-01-08,2018-01-08,Promoters,Gift,Sell,Equity Shares,2080000.0,0.0,0.0,0.0,0.0,2895035.0,2.84,815035.0,0.8
+BAJAJELEC,2018-01-11 17:40:00,2018-01-10,2018-01-08,2018-01-08,Promoters,Gift,Buy,Equity Shares,600000.0,0.0,0.0,0.0,0.0,8346.0,0.01,608346.0,0.6
+BAJAJELEC,2018-01-15 17:17:00,2018-01-12,2018-01-08,2018-01-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,19750.0,0.02,18750.0,0.02
+BAJAJELEC,2018-01-15 17:17:00,2018-01-12,2018-01-12,2018-01-12,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,1650.0,0.0,0.0,0.0,0.0,18250.0,0.02,18250.0,0.02
+BAJAJELEC,2018-01-15 17:17:00,2018-01-12,2018-01-10,2018-01-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,18750.0,0.02,18250.0,0.02
+BAJAJELEC,2018-01-17 14:32:00,2018-01-15,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2018-01-17 14:32:00,2018-01-16,2018-01-16,2018-01-16,Employees/Designated Employees,Off Market,Pledge Revoke,Equity Shares,3100.0,0.0,0.0,0.0,0.0,18250.0,0.02,18250.0,0.02
+BAJAJELEC,2018-01-17 14:32:00,2018-01-15,2017-12-28,2017-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1250.0,0.0,,0.0
+BAJAJELEC,2018-01-25 13:53:00,2018-01-24,2018-01-03,2018-01-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,8000.0,0.0,5000.0,0.0
+BAJAJELEC,2018-01-25 13:53:00,2018-01-24,2018-01-03,2018-01-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5000.0,0.0,3000.0,0.0
+BAJAJELEC,2018-01-25 13:53:00,2018-01-23,2017-11-24,2017-11-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3002.0,0.0,2002.0,0.0
+BAJAJELEC,2018-01-25 13:53:00,2018-01-23,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2002.0,0.0,4502.0,0.0
+BAJAJELEC,2018-01-29 12:22:00,2018-01-25,2017-12-27,2017-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,3500.0,0.0,1000.0,0.0
+BAJAJELEC,2018-01-29 12:22:00,2018-01-25,2017-10-16,2017-10-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,,0.0,500.0,0.0
+BAJAJELEC,2018-01-29 12:22:00,2018-01-25,2017-11-14,2017-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+BAJAJELEC,2018-01-29 12:22:00,2018-01-25,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-01-29 12:22:00,2018-01-25,2017-11-14,2017-11-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,,0.0
+BAJAJELEC,2018-01-29 12:22:00,2018-01-25,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3500.0,0.0,0.0,0.0,0.0,,0.0,3500.0,0.0
+BAJAJELEC,2018-01-29 12:22:00,2018-01-25,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+BAJAJELEC,2018-01-29 12:22:00,2018-01-25,2017-12-28,2017-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,520.0,0.0,0.0,0.0,0.0,1000.0,0.0,480.0,0.0
+BAJAJELEC,2018-01-29 12:22:00,2018-01-24,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-01-29 12:22:00,2018-01-24,2018-01-04,2018-01-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2500.0,0.0,500.0,0.0
+BAJAJELEC,2018-01-31 15:01:00,2018-01-31,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5850.0,0.0,8350.0,0.01
+BAJAJELEC,2018-02-05 15:55:00,2018-02-05,2018-01-29,2018-02-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3500.0,0.0,500.0,0.0
+BAJAJELEC,2018-02-05 15:55:00,2018-02-05,2018-01-16,2018-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,18250.0,0.0,17000.0,0.02
+BAJAJELEC,2018-02-05 15:55:00,2018-02-05,2018-02-02,2018-02-02,Employees/Designated Employees,Off Market,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,17000.0,0.02,17000.0,0.02
+BAJAJELEC,2018-02-13 10:47:00,2018-02-09,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1300.0,0.0,0.0,0.0,0.0,2100.0,0.0,3400.0,0.0
+BAJAJELEC,2018-02-13 10:47:00,2018-02-09,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3400.0,0.0,6400.0,0.01
+BAJAJELEC,2018-02-13 10:47:00,2018-02-09,2018-01-02,2018-01-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4100.0,0.0,2100.0,0.0
+BAJAJELEC,2018-02-13 10:47:00,2018-02-10,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2750.0,0.0,0.0,0.0,0.0,3552.0,0.0,6302.0,0.01
+BAJAJELEC,2018-02-14 14:24:00,2018-02-13,2018-01-01,2018-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+BAJAJELEC,2018-02-14 14:24:00,2018-02-12,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,7000.0,0.0,0.0,0.0,0.0,,0.0,7000.0,0.01
+BAJAJELEC,2018-02-14 14:24:00,2018-02-13,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,500.0,0.0,3500.0,0.0
+BAJAJELEC,2018-02-14 14:24:00,2018-02-13,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0
+BAJAJELEC,2018-02-14 14:24:00,2018-02-13,2017-12-27,2017-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,3000.0,0.0,500.0,0.0
+BAJAJELEC,2018-02-14 14:24:00,2018-02-13,2017-11-14,2017-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,,0.0
+BAJAJELEC,2018-02-14 14:24:00,2018-02-13,2018-02-04,2018-02-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+BAJAJELEC,2018-02-20 15:19:00,2018-02-20,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,4750.0,0.0,0.0,0.0,0.0,,0.0,4750.0,0.0
+BAJAJELEC,2018-02-23 14:30:00,2018-02-22,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,487.0,0.0,5487.0,0.0
+BAJAJELEC,2018-02-23 14:30:00,2018-02-22,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,6100.0,0.0,10100.0,0.0
+BAJAJELEC,2018-02-27 14:01:00,2018-02-27,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,10450.0,0.01,15450.0,0.0
+BAJAJELEC,2018-02-27 14:01:00,2018-02-27,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2018-02-27 14:01:00,2018-02-27,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,3000.0,0.0,13000.0,0.01
+BAJAJELEC,2018-02-27 14:01:00,2018-02-26,2018-01-03,2018-01-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,4017.0,0.0,1517.0,0.0
+BAJAJELEC,2018-02-27 14:01:00,2018-02-26,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,8500.0,0.0,0.0,0.0,0.0,,0.0,8500.0,0.0
+BAJAJELEC,2018-02-27 14:01:00,2018-02-27,2018-02-23,2018-02-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1250.0,0.0,,0.0
+BAJAJELEC,2018-02-28 11:58:00,2018-02-27,2018-01-03,2018-01-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2500.0,0.0,500.0,0.0
+BAJAJELEC,2018-02-28 11:58:00,2018-02-27,2018-02-20,2018-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5450.0,0.0,0.0,0.0,0.0,15450.0,0.02,10000.0,0.01
+BAJAJELEC,2018-03-06 15:19:00,2018-03-06,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-03-09 15:35:00,2018-03-07,2018-01-03,2018-01-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,330.0,0.0,0.0,0.0,0.0,500.0,0.0,170.0,0.0
+BAJAJELEC,2018-03-09 15:35:00,2018-03-07,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,170.0,0.0,1420.0,0.0
+BAJAJELEC,2018-03-09 15:35:00,2018-03-07,2018-02-26,2018-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,550.0,0.0,0.0,0.0,0.0,1420.0,0.0,870.0,0.0
+BAJAJELEC,2018-03-12 16:34:00,2018-03-12,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5435.0,0.0,7935.0,0.01
+BAJAJELEC,2018-03-12 16:34:00,2018-03-12,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2018-03-12 16:34:00,2018-03-12,2018-03-06,2018-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1250.0,0.0,,0.0
+BAJAJELEC,2018-03-13 16:16:00,2018-03-12,2018-02-23,2018-02-23,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-03-13 16:16:00,2018-03-13,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,1755.0,0.0,4755.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2018-03-14,2018-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3500.0,0.0,1500.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,664.0,0.0,0.0,0.0,0.0,1000.0,0.0,336.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2017-11-28,2017-11-29,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,733.0,0.0,0.0,0.0,0.0,,0.0,733.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2017-11-27,2017-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,142.0,0.0,0.0,0.0,0.0,142.0,0.0,,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2017-11-27,2017-11-27,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,142.0,0.0,0.0,0.0,0.0,,0.0,142.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2017-11-08,2017-11-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1679.0,0.0,0.0,0.0,0.0,1679.0,0.0,,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2017-11-06,2017-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,821.0,0.0,0.0,0.0,0.0,2500.0,0.0,1679.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-14,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5487.0,0.0,487.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-14,2018-03-06,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,7935.0,0.01,5435.0,0.01
+BAJAJELEC,2018-03-16 12:14:00,2018-03-14,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,8600.0,0.0,12600.0,0.01
+BAJAJELEC,2018-03-16 12:14:00,2018-03-14,2018-03-09,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,13000.0,0.01,10000.0,0.01
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2018-02-23,2018-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3750.0,0.0,1750.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2018-03-15,2018-03-15,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,336.0,0.0,836.0,0.0
+BAJAJELEC,2018-03-16 12:14:00,2018-03-15,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-03-19 16:02:00,2018-03-19,2018-03-15,2018-03-15,Promoters,Market Purchase,Buy,Equity Shares,482000.0,0.0,0.0,0.0,0.0,1711235.0,1.68,2193235.0,2.15
+BAJAJELEC,2018-03-19 16:02:00,2018-03-19,2018-03-15,2018-03-15,Director,Market Purchase,Buy,Equity Shares,450000.0,0.0,0.0,0.0,0.0,4531823.0,4.44,4981823.0,4.88
+BAJAJELEC,2018-03-19 16:02:00,2018-03-19,2018-03-15,2018-03-15,Promoters,Market Sale,Sell,Equity Shares,2536800.0,0.0,0.0,0.0,0.0,2536800.0,2.49,,0.0
+BAJAJELEC,2018-03-19 16:02:00,2018-03-19,2018-03-15,2018-03-15,Promoters,Market Purchase,Buy,Equity Shares,1268400.0,0.0,0.0,0.0,0.0,124180.0,0.12,1392580.0,1.36
+BAJAJELEC,2018-03-19 16:02:00,2018-03-19,2018-03-15,2018-03-15,Promoters,Market Purchase,Buy,Equity Shares,336400.0,0.0,0.0,0.0,0.0,4916419.0,4.82,5252819.0,5.15
+BAJAJELEC,2018-03-21 10:43:00,2018-03-20,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,3500.0,0.0,,0.0
+BAJAJELEC,2018-03-21 10:43:00,2018-03-20,2018-02-27,2018-02-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4000.0,0.0,3500.0,0.0
+BAJAJELEC,2018-03-26 10:21:00,2018-03-23,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0
+BAJAJELEC,2018-03-26 10:21:00,2018-03-23,2018-03-13,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3000.0,0.0,1000.0,0.0
+BAJAJELEC,2018-03-29 12:15:00,2018-03-27,2018-01-03,2018-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3520.0,0.0,0.0,0.0,0.0,8230.0,0.01,4710.0,0.0
+BAJAJELEC,2018-03-29 12:15:00,2018-03-27,2018-03-06,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,,0.0
+BAJAJELEC,2018-03-29 12:15:00,2018-03-27,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,30.0,0.0,10030.0,0.01
+BAJAJELEC,2018-03-29 12:15:00,2018-03-28,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-04-25 12:08:00,2018-04-25,2018-01-09,2018-01-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,750.0,0.0,250.0,0.0
+BAJAJELEC,2018-04-25 12:08:00,2018-04-25,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2250.0,0.0,0.0,0.0,0.0,250.0,0.0,2500.0,0.0
+BAJAJELEC,2018-04-27 12:35:00,2018-04-27,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2018-04-27 12:35:00,2018-04-27,2017-11-02,2017-11-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1250.0,0.0,,0.0
+BAJAJELEC,2018-05-04 16:15:00,2018-05-04,2017-06-21,2017-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,26403.0,0.03,25403.0,0.03
+BAJAJELEC,2018-05-04 16:15:00,2018-05-04,2017-06-28,2017-06-28,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,25403.0,0.02,26403.0,0.03
+BAJAJELEC,2018-05-04 16:15:00,2018-05-04,2018-03-15,2018-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,29136.0,0.03,27136.0,0.03
+BAJAJELEC,2018-05-04 16:15:00,2018-05-04,2017-06-29,2017-06-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,26403.0,0.02,25403.0,0.02
+BAJAJELEC,2018-05-04 16:15:00,2018-05-04,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,17636.0,0.02,25636.0,0.03
+BAJAJELEC,2018-05-04 16:15:00,2018-05-04,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,3500.0,0.0,0.0,0.0,0.0,25636.0,0.03,29136.0,0.03
+BAJAJELEC,2018-05-04 16:15:00,2018-05-04,2017-09-29,2017-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,25403.0,0.02,20403.0,0.02
+BAJAJELEC,2018-05-04 16:15:00,2018-05-04,2017-06-19,2017-06-19,Employees/Designated Employees,ESOP,Buy,Equity Shares,6500.0,0.0,0.0,0.0,0.0,19883.0,0.02,26383.0,0.03
+BAJAJELEC,2018-05-04 16:15:00,2018-05-04,2017-05-01,2017-05-01,Employees/Designated Employees,Off Market,Buy,Equity Shares,20.0,0.0,0.0,0.0,0.0,26383.0,0.03,26403.0,0.03
+BAJAJELEC,2018-05-18 12:04:00,2018-05-17,2018-05-15,2018-05-15,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-06-18 17:06:00,2018-06-18,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1000.0,0.0,2250.0,0.0
+BAJAJELEC,2018-06-18 17:06:00,2018-06-18,2018-04-03,2018-04-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,1450.0,0.0,1000.0,0.0
+BAJAJELEC,2018-06-18 17:06:00,2018-06-18,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2018-06-18 17:06:00,2018-06-18,2018-04-04,2018-04-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1350.0,0.0,0.0,0.0,0.0,1350.0,0.0,,0.0
+BAJAJELEC,2018-06-18 17:06:00,2018-06-16,2018-04-04,2018-04-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,478.0,0.0,178.0,0.0
+BAJAJELEC,2018-06-18 17:06:00,2018-06-15,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-06-18 17:06:00,2018-06-16,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,178.0,0.0,3928.0,0.0
+BAJAJELEC,2018-06-20 16:42:00,2018-06-19,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0
+BAJAJELEC,2018-06-20 16:42:00,2018-06-18,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2018-06-20 16:42:00,2018-06-20,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2000.0,0.0,4500.0,0.0
+BAJAJELEC,2018-06-22 12:12:00,2018-06-21,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2230.0,0.0,0.0,0.0,0.0,5900.0,0.0,8130.0,0.0
+BAJAJELEC,2018-06-26 15:35:00,2018-06-22,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,4250.0,0.0,0.0,0.0,0.0,,0.0,4250.0,0.0
+BAJAJELEC,2018-06-26 15:35:00,2018-06-25,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,200.0,0.0,3200.0,0.0
+BAJAJELEC,2018-06-26 15:35:00,2018-06-25,2018-04-17,2018-04-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,1000.0,0.0,200.0,0.0
+BAJAJELEC,2018-06-29 17:40:00,2018-06-27,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,6500.0,0.0,0.0,0.0,0.0,8500.0,0.0,15000.0,0.01
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2017-12-08,2017-12-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2017-12-27,2017-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1250.0,0.0,,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2018-02-27,2018-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1250.0,0.0,,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-05,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2018-01-03,2018-01-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,1250.0,0.0,600.0,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2018-02-08,2018-02-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,600.0,0.0,1600.0,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2018-03-12,2018-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1600.0,0.0,1100.0,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2018-06-28,2018-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,8130.0,0.0,9130.0,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2018-06-28,2018-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,9130.0,0.0,7630.0,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-04,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,1500.0,0.0,5500.0,0.0
+BAJAJELEC,2018-07-05 19:06:00,2018-07-05,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-07-12 14:59:00,2018-07-10,2018-07-05,2018-07-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1933.0,0.0,0.0,0.0,0.0,3928.0,0.0,1995.0,0.0
+BAJAJELEC,2018-08-23 11:29:00,2018-08-21,2018-08-13,2018-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,3000.0,0.0,500.0,0.0
+BAJAJELEC,2018-08-31 17:29:00,2018-08-30,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,10000.0,0.0,13750.0,0.0
+BAJAJELEC,2018-08-31 17:29:00,2018-08-30,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1270.0,0.0,0.0,0.0,0.0,6630.0,0.0,7900.0,0.0
+BAJAJELEC,2018-08-31 17:29:00,2018-08-30,2018-08-21,2018-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7630.0,0.0,6630.0,0.0
+BAJAJELEC,2018-08-31 17:29:00,2018-08-31,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,19000.0,0.0,0.0,0.0,0.0,,0.0,19000.0,0.02
+BAJAJELEC,2018-08-31 17:29:00,2018-08-31,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1000.0,0.0,2250.0,0.0
+BAJAJELEC,2018-08-31 17:29:00,2018-08-31,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3600.0,0.0,0.0,0.0,0.0,1200.0,0.0,4800.0,0.0
+BAJAJELEC,2018-08-31 17:29:00,2018-08-31,2018-07-25,2018-07-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,2500.0,0.0,1000.0,0.0
+BAJAJELEC,2018-09-06 14:36:00,2018-09-04,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2018-09-06 14:36:00,2018-09-04,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1250.0,0.0,2500.0,0.0
+BAJAJELEC,2018-09-10 16:13:00,2018-09-07,2018-08-13,2018-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3200.0,0.0,2200.0,0.0
+BAJAJELEC,2018-09-10 16:13:00,2018-09-10,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,4875.0,0.0,0.0,0.0,0.0,,0.0,4875.0,0.0
+BAJAJELEC,2018-09-10 16:13:00,2018-09-10,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-09-10 16:13:00,2018-09-07,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2200.0,0.0,4700.0,0.0
+BAJAJELEC,2018-09-10 16:13:00,2018-09-06,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2100.0,0.0,0.0,0.0,0.0,630.0,0.0,2730.0,0.0
+BAJAJELEC,2018-09-10 16:13:00,2018-09-06,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,625.0,0.0,0.0,0.0,0.0,5.0,0.0,630.0,0.0
+BAJAJELEC,2018-09-10 16:13:00,2018-09-06,2018-08-16,2018-08-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,1605.0,0.0,5.0,0.0
+BAJAJELEC,2018-09-10 16:13:00,2018-09-06,2018-07-23,2018-07-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1705.0,0.0,1605.0,0.0
+BAJAJELEC,2018-09-14 12:14:00,2018-09-12,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,450.0,0.0,0.0,0.0,0.0,4025.0,0.0,4475.0,0.0
+BAJAJELEC,2018-09-14 12:14:00,2018-09-12,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,4475.0,0.0,5725.0,0.0
+BAJAJELEC,2018-09-14 12:14:00,2018-09-14,2018-07-12,2018-07-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,4250.0,0.0,3450.0,0.0
+BAJAJELEC,2018-09-14 12:14:00,2018-09-14,2018-07-23,2018-07-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,3450.0,0.0,2050.0,0.0
+BAJAJELEC,2018-09-14 12:14:00,2018-09-14,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1875.0,0.0,0.0,0.0,0.0,1550.0,0.0,3425.0,0.0
+BAJAJELEC,2018-09-14 12:14:00,2018-09-12,2018-08-10,2018-08-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,4625.0,0.0,4025.0,0.0
+BAJAJELEC,2018-09-14 12:14:00,2018-09-14,2018-08-13,2018-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2050.0,0.0,1550.0,0.0
+BAJAJELEC,2018-10-01 16:15:00,2018-10-01,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2375.0,0.0,0.0,0.0,0.0,,0.0,2375.0,0.0
+BAJAJELEC,2018-10-01 16:15:00,2018-10-01,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2018-10-01 16:15:00,2018-10-01,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,16000.0,0.0,18500.0,0.0
+BAJAJELEC,2018-10-01 16:15:00,2018-09-28,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,5602.0,0.0,6852.0,0.0
+BAJAJELEC,2018-10-01 16:15:00,2018-09-28,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,6852.0,0.0,5052.0,0.0
+BAJAJELEC,2018-10-03 14:14:00,2018-10-03,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,50.0,0.0,5050.0,0.0
+BAJAJELEC,2018-10-03 14:14:00,2018-10-03,2018-07-23,2018-07-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,650.0,0.0,50.0,0.0
+BAJAJELEC,2018-10-03 14:14:00,2018-10-03,2018-07-12,2018-07-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,1350.0,0.0,650.0,0.0
+BAJAJELEC,2018-10-10 11:05:00,2018-10-08,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,15424.0,0.0,13424.0,0.0
+BAJAJELEC,2018-10-10 11:05:00,2018-10-08,2018-09-27,2018-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2575.0,0.0,0.0,0.0,0.0,18000.0,0.0,15425.0,0.0
+BAJAJELEC,2018-10-10 11:05:00,2018-10-08,2018-09-25,2018-09-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,18200.0,0.0,18000.0,0.0
+BAJAJELEC,2018-10-10 11:05:00,2018-10-08,2018-09-24,2018-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,19000.0,0.0,18200.0,0.0
+BAJAJELEC,2018-10-19 12:06:00,2018-10-17,2018-04-11,2018-04-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1250.0,0.0,750.0,0.0
+BAJAJELEC,2018-10-19 12:06:00,2018-10-17,2018-06-15,2018-06-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,250.0,0.0,1500.0,0.0
+BAJAJELEC,2018-10-19 12:06:00,2018-10-17,2018-04-23,2018-04-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,750.0,0.0,250.0,0.0
+BAJAJELEC,2018-11-30 11:09:00,2018-11-29,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,1875.0,0.0,0.0,0.0,0.0,,0.0,1875.0,0.0
+BAJAJELEC,2018-11-30 11:09:00,2018-11-29,2018-11-12,2018-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1500.0,0.0,,0.0
+BAJAJELEC,2018-12-05 15:23:00,2018-12-05,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2018-12-12 10:44:00,2018-12-11,2018-12-11,2018-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4250.0,0.0,0.0,0.0,0.0,4250.0,0.0,,0.0
+BAJAJELEC,2018-12-12 10:44:00,2018-12-11,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,3750.0,0.0,4250.0,0.0
+BAJAJELEC,2018-12-14 15:04:00,2018-12-14,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2018-12-14 15:04:00,2018-12-14,2018-12-13,2018-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1250.0,0.0,,0.0
+BAJAJELEC,2018-12-20 14:55:00,2018-12-19,2018-11-16,2018-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1900.0,0.0,0.0,0.0,0.0,2430.0,0.0,530.0,0.0
+BAJAJELEC,2018-12-20 14:55:00,2018-12-19,2018-12-18,2018-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4000.0,0.0,3500.0,0.0
+BAJAJELEC,2018-12-20 14:55:00,2018-12-19,2018-12-14,2018-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4500.0,0.0,4000.0,0.0
+BAJAJELEC,2018-12-20 14:55:00,2018-12-19,2018-12-13,2018-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5000.0,0.0,4500.0,0.0
+BAJAJELEC,2018-12-20 14:55:00,2018-12-19,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5000.0,0.0,7500.0,0.0
+BAJAJELEC,2018-12-20 14:55:00,2018-12-19,2018-11-13,2018-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,936.0,0.0,0.0,0.0,0.0,3366.0,0.0,2430.0,0.0
+BAJAJELEC,2018-12-20 14:55:00,2018-12-19,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,530.0,0.0,5530.0,0.0
+BAJAJELEC,2018-12-20 14:55:00,2018-12-19,2018-12-13,2018-12-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5500.0,0.0,5000.0,0.0
+BAJAJELEC,2018-12-21 17:55:00,2018-12-20,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,2000.0,0.0,5750.0,0.0
+BAJAJELEC,2018-12-21 17:55:00,2018-12-21,2018-10-10,2018-10-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0,1500.0,0.0
+BAJAJELEC,2018-12-21 17:55:00,2018-12-20,2017-10-16,2017-10-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,,0.0,1500.0,0.0
+BAJAJELEC,2018-12-21 17:55:00,2018-12-21,2018-11-01,2018-11-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1500.0,0.0,1000.0,0.0
+BAJAJELEC,2018-12-21 17:55:00,2018-12-20,2018-11-13,2018-11-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1500.0,0.0,,0.0
+BAJAJELEC,2018-12-21 17:55:00,2018-12-21,2018-12-04,2018-12-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,560.0,0.0,0.0,0.0,0.0,1000.0,0.0,440.0,0.0
+BAJAJELEC,2018-12-21 17:55:00,2018-12-21,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,12500.0,0.01,15000.0,0.01
+BAJAJELEC,2018-12-21 17:55:00,2018-12-21,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,1250.0,0.0,3750.0,0.0
+BAJAJELEC,2018-12-21 17:55:00,2018-12-21,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1875.0,0.0,0.0,0.0,0.0,,0.0,1875.0,0.0
+BAJAJELEC,2018-12-26 11:42:00,2018-12-24,2018-10-22,2018-10-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2002.0,0.0,0.0,0.0,0.0,4875.0,0.0,2873.0,0.0
+BAJAJELEC,2018-12-26 11:42:00,2018-12-21,2018-12-17,2018-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,5052.0,0.0,3052.0,0.0
+BAJAJELEC,2018-12-26 11:42:00,2018-12-24,2018-12-19,2018-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,3750.0,0.0,,0.0
+BAJAJELEC,2018-12-26 11:42:00,2018-12-24,2018-10-17,2018-10-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,,0.0
+BAJAJELEC,2019-01-03 10:34:00,2019-01-02,2018-12-12,2018-12-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+BAJAJELEC,2019-01-03 10:34:00,2019-01-02,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,2000.0,0.0
+BAJAJELEC,2019-01-03 10:34:00,2019-01-02,2018-11-06,2018-11-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1500.0,0.0,1000.0,0.0
+BAJAJELEC,2019-01-03 10:34:00,2019-01-02,2018-10-01,2018-10-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1600.0,0.0,1500.0,0.0
+BAJAJELEC,2019-01-07 16:43:00,2019-01-04,2018-12-14,2018-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2916.0,0.0,2416.0,0.0
+BAJAJELEC,2019-01-07 16:43:00,2019-01-04,2018-11-07,2018-11-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,284.0,0.0,0.0,0.0,0.0,2250.0,0.0,1966.0,0.0
+BAJAJELEC,2019-01-07 16:43:00,2019-01-04,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1666.0,0.0,2916.0,0.0
+BAJAJELEC,2019-01-07 16:43:00,2019-01-04,2018-11-09,2018-11-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1966.0,0.0,1666.0,0.0
+BAJAJELEC,2019-01-16 17:39:00,2019-01-16,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,2000.0,0.0,3250.0,0.0
+BAJAJELEC,2019-01-16 17:39:00,2019-01-16,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,3250.0,0.0,4500.0,0.0
+BAJAJELEC,2019-01-24 14:42:00,2019-01-23,2018-11-26,2018-11-26,Employees/Designated Employees,ESOP,Buy,Equity Shares,1550.0,0.0,0.0,0.0,0.0,2575.0,0.0,4125.0,0.0
+BAJAJELEC,2019-01-24 14:42:00,2019-01-23,2018-11-13,2018-11-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,3475.0,0.0,2575.0,0.0
+BAJAJELEC,2019-01-25 16:39:00,2019-01-24,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3600.0,0.0,0.0,0.0,0.0,10.0,0.0,3610.0,0.0
+BAJAJELEC,2019-01-25 16:39:00,2019-01-24,2018-07-25,2018-07-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1240.0,0.0,0.0,0.0,0.0,1250.0,0.0,10.0,0.0
+BAJAJELEC,2019-02-04 17:35:00,2019-02-01,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2019-02-05 16:57:00,2019-02-01,2018-08-17,2018-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,9000.0,0.0,7000.0,0.0
+BAJAJELEC,2019-02-05 16:57:00,2019-02-01,2018-08-23,2018-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,7000.0,0.0,5500.0,0.0
+BAJAJELEC,2019-02-05 16:57:00,2019-02-01,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,5500.0,0.0,10500.0,0.0
+BAJAJELEC,2019-02-14 17:50:00,2019-02-14,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,2200.0,0.0,0.0,0.0,0.0,1000.0,0.0,3200.0,0.0
+BAJAJELEC,2019-02-14 17:50:00,2019-02-14,2018-07-27,2018-07-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+BAJAJELEC,2019-02-15 15:47:00,2019-02-14,2019-02-07,2019-02-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,13750.0,0.0,18750.0,0.0
+BAJAJELEC,2019-03-08 18:25:00,2019-03-08,2019-03-07,2019-03-07,Promoters,Market Sale,Sell,Equity Shares,300000.0,0.0,0.0,0.0,0.0,2193235.0,2.14,1893235.0,1.85
+BAJAJELEC,2019-03-08 18:25:00,2019-03-08,2019-03-07,2019-03-07,Promoters,Market Purchase,Buy,Equity Shares,300000.0,0.0,0.0,0.0,0.0,19872830.0,19.41,20172830.0,19.7
+BAJAJELEC,2019-03-13 16:49:00,2019-03-11,2019-03-07,2019-03-07,Promoters,Market Sale,Sell,Equity Shares,300000.0,0.0,0.0,0.0,0.0,2193235.0,2.14,1893235.0,1.85
+BAJAJELEC,2019-03-15 13:44:00,2019-03-13,2019-03-12,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10400.0,0.01,9400.0,0.01
+BAJAJELEC,2019-03-15 13:44:00,2019-02-07,2019-02-07,2019-02-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9400.0,0.01,10400.0,0.01
+BAJAJELEC,2019-03-18 19:50:00,2019-03-18,2019-03-13,2019-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+BAJAJELEC,2019-03-18 19:50:00,2019-03-18,2019-03-12,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1000.0,0.0,500.0,0.0
+BAJAJELEC,2019-03-18 19:50:00,2019-03-18,2019-03-12,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1500.0,0.0,1000.0,0.0
+BAJAJELEC,2019-03-18 19:50:00,2019-03-15,2019-03-12,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4125.0,0.0,3625.0,0.0
+BAJAJELEC,2019-03-18 19:50:00,2019-03-15,2019-03-14,2019-03-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5518.0,0.01,3018.0,0.0
+BAJAJELEC,2019-03-18 19:50:00,2019-03-15,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2821.0,0.0,0.0,0.0,0.0,3018.0,0.0,197.0,0.0
+BAJAJELEC,2019-03-18 19:50:00,2019-03-18,2019-03-12,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2000.0,0.0,1500.0,0.0
+BAJAJELEC,2019-03-19 19:20:00,2019-03-19,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1200.0,0.0,0.0,0.0,0.0,7305.0,0.01,8505.0,0.01
+BAJAJELEC,2019-03-19 19:20:00,2019-03-19,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,7005.0,0.01,7305.0,0.01
+BAJAJELEC,2019-03-19 19:20:00,2019-03-19,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,350.0,0.0,0.0,0.0,0.0,6655.0,0.01,7005.0,0.01
+BAJAJELEC,2019-03-19 19:20:00,2019-03-19,2019-02-07,2019-02-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,9505.0,0.01,10005.0,0.01
+BAJAJELEC,2019-03-19 19:20:00,2019-03-19,2019-02-07,2019-02-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,10005.0,0.01,10505.0,0.01
+BAJAJELEC,2019-03-19 19:20:00,2019-03-19,2019-03-15,2019-03-15,Employees/Designated Employees,ESOP,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,10505.0,0.01,10005.0,0.01
+BAJAJELEC,2019-03-19 19:20:00,2019-03-19,2019-03-15,2019-03-15,Employees/Designated Employees,ESOP,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10005.0,0.01,9005.0,0.01
+BAJAJELEC,2019-03-20 19:11:00,2019-03-19,2019-03-15,2019-03-15,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,3416.0,0.0,3716.0,0.0
+BAJAJELEC,2019-03-20 19:11:00,2019-03-19,2019-02-07,2019-02-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,2166.0,0.0,3416.0,0.0
+BAJAJELEC,2019-03-20 19:11:00,2019-03-19,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3716.0,0.0,3416.0,0.0
+BAJAJELEC,2019-03-20 19:11:00,2019-03-19,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3416.0,0.0,3216.0,0.0
+BAJAJELEC,2019-03-25 11:46:00,2019-03-22,2019-03-20,2019-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,9400.0,0.01,7400.0,0.01
+BAJAJELEC,2019-03-25 11:46:00,2019-03-25,2019-03-20,2019-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5775.0,0.01,4775.0,0.0
+BAJAJELEC,2019-03-25 11:46:00,2019-03-22,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3700.0,0.0,0.0,0.0,0.0,3700.0,0.0,,0.0
+BAJAJELEC,2019-03-25 11:46:00,2019-03-25,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6775.0,0.01,5775.0,0.0
+BAJAJELEC,2019-03-26 15:54:00,2019-03-25,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4375.0,0.0,0.0,0.0,0.0,4375.0,0.0,,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-29,2019-03-12,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,625.0,0.0,0.0,0.0,0.0,2975.0,0.0,2350.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-29,2019-03-12,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2350.0,0.0,2050.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-29,2019-03-12,2019-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2050.0,0.0,1550.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-28,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,39.0,0.0,0.0,0.0,0.0,1250.0,0.0,1211.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-28,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,34.0,0.0,0.0,0.0,0.0,1211.0,0.0,1177.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-28,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10.0,0.0,0.0,0.0,0.0,1177.0,0.0,1167.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-28,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1.0,0.0,0.0,0.0,0.0,867.0,0.0,866.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-28,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,67.0,0.0,0.0,0.0,0.0,866.0,0.0,799.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-28,2018-08-30,2018-08-30,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-29,2019-03-15,2019-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,550.0,0.0,0.0,0.0,0.0,1550.0,0.0,1000.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-29,2019-03-26,2019-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3600.0,0.0,1600.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-28,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1167.0,0.0,867.0,0.0
+BAJAJELEC,2019-03-29 18:59:00,2019-03-28,2018-09-28,2018-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,229.0,0.0,0.0,0.0,0.0,799.0,0.0,570.0,0.0
+BAJAJELEC,2019-04-01 15:47:00,2019-03-30,2019-03-19,2019-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9005.0,0.0,8005.0,0.0
+BAJAJELEC,2019-04-01 15:47:00,2019-03-30,2019-03-27,2019-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,8005.0,0.0,7005.0,0.0
+BAJAJELEC,2019-04-01 15:47:00,2019-03-29,2019-03-22,2019-03-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,253.0,0.0,0.0,0.0,0.0,7400.0,0.0,7147.0,0.0
+BAJAJELEC,2019-04-01 15:47:00,2019-03-29,2019-03-25,2019-03-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,747.0,0.0,0.0,0.0,0.0,7147.0,0.0,6400.0,0.0
+BAJAJELEC,2019-04-01 15:47:00,2019-03-29,2019-03-27,2019-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6400.0,0.0,3400.0,0.0
+BAJAJELEC,2019-04-05 18:03:00,2019-04-03,2019-03-27,2019-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2350.0,0.0,1350.0,0.0
+BAJAJELEC,2019-04-05 18:03:00,2019-04-03,2019-03-26,2019-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3350.0,0.0,2350.0,0.0
+BAJAJELEC,2019-04-10 13:08:00,2019-04-09,2019-04-04,2019-04-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,404.0,0.0,0.0,0.0,0.0,404.0,0.0,,0.0
+BAJAJELEC,2019-04-10 13:08:00,2019-04-09,2019-04-04,2019-04-04,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,404.0,0.0,0.0,0.0,0.0,,0.0,404.0,0.0
+BAJAJELEC,2019-04-10 13:08:00,2019-04-09,2019-04-02,2019-04-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,210.0,0.0,0.0,0.0,0.0,210.0,0.0,,0.0
+BAJAJELEC,2019-04-10 13:08:00,2019-04-09,2019-04-01,2019-04-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,300.0,0.0,,0.0
+BAJAJELEC,2019-04-10 13:08:00,2019-04-09,2019-04-02,2019-04-02,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,210.0,0.0,0.0,0.0,0.0,,0.0,210.0,0.0
+BAJAJELEC,2019-04-10 13:08:00,2019-04-09,2019-04-01,2019-04-01,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,,0.0,300.0,0.0
+BAJAJELEC,2019-04-18 12:11:00,2019-04-16,2019-03-28,2019-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,875.0,0.0,0.0,0.0,0.0,7075.0,0.0,6200.0,0.0
+BAJAJELEC,2019-04-18 12:11:00,2019-04-16,2019-03-13,2019-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,7525.0,0.0,7075.0,0.0
+BAJAJELEC,2019-04-18 12:11:00,2019-04-16,2019-02-07,2019-02-07,Employees/Designated Employees,ESOP,Buy,Equity Shares,1300.0,0.0,0.0,0.0,0.0,6225.0,0.0,7525.0,0.0
+BAJAJELEC,2019-04-26 17:59:00,2019-04-25,2019-04-18,2019-04-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,9750.0,0.01,7750.0,0.01
+BAJAJELEC,2019-05-22 18:26:00,2019-05-20,2019-03-29,2019-03-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,8800.0,0.0,7800.0,0.01
+BAJAJELEC,2019-05-22 18:26:00,2019-05-20,2019-03-18,2019-03-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,10500.0,0.01,9700.0,0.01
+BAJAJELEC,2019-05-22 18:26:00,2019-05-20,2019-03-19,2019-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,9700.0,0.0,8800.0,0.01
+BAJAJELEC,2019-05-28 10:24:00,2019-05-25,2019-04-16,2019-04-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,179.0,0.0,0.0,0.0,0.0,2316.0,0.0,2137.0,0.0
+BAJAJELEC,2019-05-28 10:24:00,2019-05-25,2019-05-10,2019-05-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,101.0,0.0,0.0,0.0,0.0,2137.0,0.0,2036.0,0.0
+BAJAJELEC,2019-05-28 10:24:00,2019-05-25,2019-05-20,2019-05-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2036.0,0.0,1836.0,0.0
+BAJAJELEC,2019-05-28 10:24:00,2019-05-25,2019-05-21,2019-05-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,1836.0,0.0,1136.0,0.0
+BAJAJELEC,2019-05-28 10:24:00,2019-05-25,2019-05-22,2019-05-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1136.0,0.0,636.0,0.0
+BAJAJELEC,2019-05-28 10:24:00,2019-05-25,2019-04-02,2019-04-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2716.0,0.0,2616.0,0.0
+BAJAJELEC,2019-05-28 10:24:00,2019-05-25,2019-04-02,2019-04-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2616.0,0.0,2516.0,0.0
+BAJAJELEC,2019-05-28 10:24:00,2019-05-25,2019-04-12,2019-04-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2516.0,0.0,2316.0,0.0
+BAJAJELEC,2019-06-19 16:55:00,2019-06-18,2019-06-11,2019-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,3400.0,0.0,8400.0,0.0
+BAJAJELEC,2019-06-19 16:55:00,2019-06-17,2019-06-11,2019-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,18500.0,0.01,22500.0,0.02
+BAJAJELEC,2019-10-07 13:33:00,2019-10-03,2019-09-17,2019-09-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,22500.0,0.02,25000.0,0.02
+BAJAJELEC,2020-01-13 18:01:00,2020-01-09,2020-01-07,2020-01-07,Promoter Group,Gift,Sell,Equity Shares,700000.0,0.0,0.0,0.0,0.0,965325.0,0.94,265325.0,0.26
+BAJAJELEC,2020-01-13 18:01:00,2020-01-09,2020-01-07,2020-01-07,Promoters,Gift,Buy,Equity Shares,700000.0,0.0,0.0,0.0,0.0,1392580.0,1.36,2092580.0,2.04
+BAJAJELEC,2020-02-17 18:07:00,2020-02-14,2020-02-11,2020-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3255.0,0.0,0.0,0.0,0.0,13000.0,0.01,9745.0,0.01
+BAJAJELEC,2020-02-17 18:07:00,2020-02-17,2020-02-14,2020-02-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,9745.0,0.01,5745.0,0.01
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-07-03,2020-07-03,Promoter Group,Others,Buy,Equity Shares,1843556.0,0.0,0.0,0.0,0.0,,0.0,1843556.0,1.62
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-07-03,2020-07-03,Promoter Group,Pledge Creation,Pledge Invoke,Equity Shares,1843556.0,0.0,0.0,0.0,0.0,1843556.0,1.62,,1.62
+BAJAJELEC,2020-07-07 18:14:00,2020-07-07,2020-07-03,2020-07-03,Promoter Group,Others,Sell,Equity Shares,1843556.0,0.0,0.0,0.0,0.0,5530667.0,4.86,3687111.0,3.24
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,151885.0,0.0,0.0,0.0,0.0,1210000.0,1.18,1361885.0,1.2
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,659360.0,0.0,0.0,0.0,0.0,5252819.0,5.13,5912179.0,5.2
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,548844.0,0.0,0.0,0.0,0.0,4981823.0,4.86,5530667.0,4.86
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoters,Public Right,Buy,Equity Shares,313904.0,0.0,0.0,0.0,0.0,2500735.0,2.44,2814639.0,2.47
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoters,Public Right,Buy,Equity Shares,262672.0,0.0,0.0,0.0,0.0,2092580.0,2.04,2355252.0,2.07
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoters,Public Right,Buy,Equity Shares,237647.0,0.0,0.0,0.0,0.0,1893235.0,1.85,2130882.0,1.87
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoters,Public Right,Buy,Equity Shares,58521.0,0.0,0.0,0.0,0.0,466200.0,0.45,524721.0,0.46
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,112973.0,0.0,0.0,0.0,0.0,900000.0,0.88,1012973.0,0.89
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoters,Public Right,Buy,Equity Shares,102307.0,0.0,0.0,0.0,0.0,815035.0,0.8,917342.0,0.81
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,77474.0,0.0,0.0,0.0,0.0,617200.0,0.6,694674.0,0.61
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,76363.0,0.0,0.0,0.0,0.0,608346.0,0.59,684709.0,0.6
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,70043.0,0.0,0.0,0.0,0.0,558000.0,0.54,628043.0,0.55
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,10466.0,0.0,0.0,0.0,0.0,95000.0,0.09,105466.0,0.09
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,52093.0,0.0,0.0,0.0,0.0,415000.0,0.4,467093.0,0.41
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,60253.0,0.0,0.0,0.0,0.0,480000.0,0.47,540253.0,0.47
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,69659.0,0.0,0.0,0.0,0.0,554937.0,0.54,624596.0,0.55
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,205248.0,0.0,0.0,0.0,0.0,770000.0,0.75,975248.0,0.86
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,100421.0,0.0,0.0,0.0,0.0,800000.0,0.78,900421.0,0.79
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,30000.0,0.0,0.0,0.0,0.0,1258000.0,1.23,1288000.0,1.13
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,2096000.0,0.0,0.0,0.0,0.0,16697840.0,16.29,18793840.0,16.52
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,2222430.0,0.0,0.0,0.0,0.0,20172830.0,19.68,22395260.0,19.69
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,3767.0,0.0,0.0,0.0,0.0,30000.0,0.03,33767.0,0.03
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,11297.0,0.0,0.0,0.0,0.0,90000.0,0.09,101297.0,0.09
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,11055.0,0.0,0.0,0.0,0.0,99645.0,0.1,110700.0,0.1
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,16319.0,0.0,0.0,0.0,0.0,130000.0,0.13,146319.0,0.13
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,23876.0,0.0,0.0,0.0,0.0,190200.0,0.19,214076.0,0.19
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,33305.0,0.0,0.0,0.0,0.0,265325.0,0.26,298630.0,0.26
+BAJAJELEC,2020-07-07 18:14:00,2020-07-03,2020-03-13,2020-03-13,Promoter Group,Public Right,Buy,Equity Shares,31507.0,0.0,0.0,0.0,0.0,251000.0,0.24,282507.0,0.25
+BAJAJELEC,2020-09-18 16:36:00,2020-09-18,2020-09-10,2020-09-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2020-09-18 16:36:00,2020-09-18,2020-09-10,2020-09-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,2625.0,0.0,0.0,0.0,0.0,,0.0,2625.0,0.0
+BAJAJELEC,2020-09-22 19:09:00,2020-09-22,2020-09-10,2020-09-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0
+BAJAJELEC,2020-09-22 19:09:00,2020-09-22,2020-09-10,2020-09-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,6500.0,0.0,0.0,0.0,0.0,7377.0,0.01,13877.0,0.01
+BAJAJELEC,2020-09-22 19:09:00,2020-09-22,2020-09-10,2020-09-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,3000.0,0.0
+BAJAJELEC,2020-09-24 20:11:00,2020-09-23,2020-09-22,2020-09-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,3000.0,0.0,,0.0
+BAJAJELEC,2020-09-25 16:59:00,2020-09-24,2020-09-22,2020-09-22,Promoters,Market Sale,Sell,Equity Shares,324000.0,0.0,0.0,0.0,0.0,5912179.0,5.2,5588179.0,4.91
+BAJAJELEC,2020-09-25 16:59:00,2020-09-24,2020-09-22,2020-09-22,Promoter Group,Market Purchase,Buy,Equity Shares,324000.0,0.0,0.0,0.0,0.0,975248.0,0.86,1299248.0,1.14
+BAJAJELEC,2020-10-01 11:31:00,2020-09-29,2019-09-17,2019-09-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,15000.0,0.01,17500.0,0.02
+BAJAJELEC,2020-10-06 17:30:00,2020-10-06,2019-06-11,2019-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,5750.0,0.01,9500.0,0.01
+BAJAJELEC,2020-10-09 20:24:00,2020-10-09,2020-09-10,2020-09-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,6500.0,0.0,0.0,0.0,0.0,8377.0,0.01,14877.0,0.01
+BAJAJELEC,2020-10-09 20:24:00,2020-10-09,2020-07-28,2020-07-28,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7377.0,0.01,8377.0,0.01
+BAJAJELEC,2020-10-31 00:28:00,2020-10-30,2020-10-28,2020-10-28,Promoter Group,Others,Pledge,Equity Shares,1316000.0,0.0,0.0,0.0,0.0,1462319.0,1.28,1462319.0,1.28
+BAJAJELEC,2020-10-31 00:28:00,2020-10-30,2020-10-28,2020-10-28,Promoter Group,Others,Buy,Equity Shares,1316000.0,0.0,0.0,0.0,0.0,146319.0,0.13,1462319.0,1.28
+BAJAJELEC,2020-10-31 00:28:00,2020-10-30,2020-10-28,2020-10-28,Promoter Group,Others,Sell,Equity Shares,1316000.0,0.0,0.0,0.0,0.0,3687111.0,3.24,2371111.0,2.08
+BAJAJELEC,2020-11-16 13:02:00,2020-11-13,2020-11-12,2020-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,27754.0,0.02,17754.0,0.02
+BAJAJELEC,2020-11-19 22:39:00,2020-11-17,2020-11-17,2020-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2754.0,0.0,0.0,0.0,0.0,2754.0,0.0,,0.0
+BAJAJELEC,2020-11-19 22:39:00,2020-11-17,2020-11-17,2020-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,17754.0,0.02,2754.0,0.0
+BAJAJELEC,2020-12-14 17:13:00,2020-12-11,2020-11-12,2020-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2625.0,0.0,625.0,0.0
+BAJAJELEC,2020-12-15 12:02:00,2020-12-14,2020-11-19,2020-11-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2500.0,0.0,1500.0,0.0
+BAJAJELEC,2020-12-15 12:02:00,2020-12-14,2020-12-11,2020-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1500.0,0.0,,0.0
+BAJAJELEC,2020-12-21 21:06:00,2020-12-17,2020-12-15,2020-12-15,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,113490.0,0.0,0.0,0.0,0.0,1299248.0,1.14,1412738.0,1.23
+BAJAJELEC,2020-12-21 21:06:00,2020-12-17,2020-12-15,2020-12-15,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,65475.0,0.0,0.0,0.0,0.0,1110.0,0.0,66585.0,0.06
+BAJAJELEC,2020-12-21 21:06:00,2020-12-17,2020-12-15,2020-12-15,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,48015.0,0.0,0.0,0.0,0.0,22395260.0,19.67,22443275.0,19.61
+BAJAJELEC,2020-12-21 21:06:00,2020-12-17,2020-12-15,2020-12-15,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,113490.0,0.0,0.0,0.0,0.0,684709.0,0.6,798199.0,0.7
+BAJAJELEC,2020-12-21 21:06:00,2020-12-17,2020-12-15,2020-12-15,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,113490.0,0.0,0.0,0.0,0.0,5588179.0,4.91,5701669.0,4.98
+BAJAJELEC,2020-12-21 21:06:00,2020-12-17,2020-12-15,2020-12-15,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,17460.0,0.0,0.0,0.0,0.0,900421.0,0.79,917881.0,0.8
+BAJAJELEC,2020-12-22 13:11:00,2020-12-21,2020-12-17,2020-12-17,Promoter Group,Others,Buy,Equity Shares,527556.0,0.0,0.0,0.0,0.0,1462319.0,1.28,1989875.0,1.74
+BAJAJELEC,2020-12-22 13:11:00,2020-12-21,2020-12-17,2020-12-17,Promoters,Others,Buy,Equity Shares,1843555.0,0.0,0.0,0.0,0.0,5701669.0,4.98,7545224.0,6.59
+BAJAJELEC,2020-12-22 13:11:00,2020-12-21,2020-12-17,2020-12-17,Promoter Group,Others,Sell,Equity Shares,2371111.0,0.0,0.0,0.0,0.0,2371111.0,2.08,,0.0
+BAJAJELEC,2020-12-31 18:09:00,2020-12-30,2020-12-28,2020-12-28,Promoter Group,Gift,Buy,Equity Shares,416666.0,0.0,0.0,0.0,0.0,12083.0,0.01,428749.0,0.38
+BAJAJELEC,2020-12-31 18:09:00,2020-12-30,2020-12-28,2020-12-28,Promoter Group,Gift,Buy,Equity Shares,942100.0,0.0,0.0,0.0,0.0,298630.0,0.26,1240730.0,1.09
+BAJAJELEC,2020-12-31 18:09:00,2020-12-30,2020-12-28,2020-12-28,Promoters,Gift,Sell,Equity Shares,2355252.0,0.0,0.0,0.0,0.0,2355252.0,2.07,,0.0
+BAJAJELEC,2020-12-31 18:09:00,2020-12-31,2020-12-15,2020-12-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,20427.0,0.02,25427.0,0.02
+BAJAJELEC,2020-12-31 18:09:00,2020-12-30,2020-12-28,2020-12-28,Promoter Group,Gift,Buy,Equity Shares,471052.0,0.0,0.0,0.0,0.0,,0.0,471052.0,0.41
+BAJAJELEC,2020-12-31 18:09:00,2020-12-30,2020-12-28,2020-12-28,Promoter Group,Gift,Buy,Equity Shares,262717.0,0.0,0.0,0.0,0.0,,0.0,262717.0,0.23
+BAJAJELEC,2020-12-31 18:09:00,2020-12-30,2020-12-28,2020-12-28,Promoter Group,Gift,Buy,Equity Shares,262717.0,0.0,0.0,0.0,0.0,,0.0,262717.0,0.23
+BAJAJELEC,2021-01-05 17:01:00,2021-01-05,2020-12-15,2020-12-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,4500.0,0.0,0.0,0.0,0.0,,0.0,4500.0,0.0
+BAJAJELEC,2021-01-05 17:01:00,2021-01-05,2020-12-29,2020-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,4500.0,0.0,2500.0,0.0
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoter Group,Gift,Buy,Equity Shares,628043.0,0.0,0.0,0.0,0.0,,0.0,628043.0,0.55
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoter Group,Gift,Sell,Equity Shares,628043.0,0.0,0.0,0.0,0.0,628043.0,0.55,,0.0
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoter Group,Gift,Buy,Equity Shares,812973.0,0.0,0.0,0.0,0.0,,0.0,812973.0,0.71
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoter Group,Gift,Sell,Equity Shares,812973.0,0.0,0.0,0.0,0.0,1012973.0,0.89,200000.0,0.17
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoters,Gift,Sell,Equity Shares,1000000.0,0.0,0.0,0.0,0.0,2130882.0,1.86,1130882.0,0.99
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoter Group,Gift,Buy,Equity Shares,500000.0,0.0,0.0,0.0,0.0,,0.0,500000.0,0.44
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoter Group,Gift,Buy,Equity Shares,21644.0,0.0,0.0,0.0,0.0,,0.0,21644.0,0.02
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoters,Gift,Sell,Equity Shares,214143.0,0.0,0.0,0.0,0.0,917342.0,0.8,703199.0,0.61
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoter Group,Gift,Buy,Equity Shares,206575.0,0.0,0.0,0.0,0.0,,0.0,206575.0,0.18
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoter Group,Gift,Buy,Equity Shares,500000.0,0.0,0.0,0.0,0.0,,0.0,500000.0,0.44
+BAJAJELEC,2021-01-30 13:20:00,2021-01-28,2021-01-25,2021-01-25,Promoter Group,Gift,Sell,Equity Shares,14076.0,0.0,0.0,0.0,0.0,214076.0,0.19,200000.0,0.17
+BAJAJELEC,2021-02-09 13:22:00,2021-02-08,2020-12-15,2020-12-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5125.0,0.0,7625.0,0.01
+BAJAJELEC,2021-02-09 13:22:00,2021-02-08,2020-12-15,2020-12-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2021-02-09 13:22:00,2021-02-08,2020-12-15,2020-12-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,1375.0,0.0,0.0,0.0,0.0,3750.0,0.0,5125.0,0.0
+BAJAJELEC,2021-02-12 19:26:00,2021-02-11,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,512.0,0.0,12.0,0.0
+BAJAJELEC,2021-02-12 19:26:00,2021-02-11,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7625.0,0.0,0.0,0.0,0.0,7625.0,0.01,,0.0
+BAJAJELEC,2021-02-12 19:26:00,2021-02-11,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1512.0,0.0,512.0,0.0
+BAJAJELEC,2021-02-22 16:28:00,2021-02-19,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,3000.0,0.0,6750.0,0.01
+BAJAJELEC,2021-02-22 16:28:00,2021-02-19,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0
+BAJAJELEC,2021-02-22 16:28:00,2021-02-19,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2250.0,0.0,0.0,0.0,0.0,900.0,0.0,3150.0,0.0
+BAJAJELEC,2021-02-22 16:28:00,2021-02-19,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,256.0,0.0,4256.0,0.0
+BAJAJELEC,2021-02-22 16:28:00,2021-02-19,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,9000.0,0.0,0.0,0.0,0.0,,0.0,9000.0,0.01
+BAJAJELEC,2021-02-22 16:28:00,2021-02-19,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3528.0,0.0,4528.0,0.0
+BAJAJELEC,2021-02-22 16:28:00,2021-02-19,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2021-02-22 16:28:00,2021-02-22,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0
+BAJAJELEC,2021-02-22 16:28:00,2021-02-19,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,7075.0,0.0,8325.0,0.01
+BAJAJELEC,2021-02-22 16:28:00,2021-02-19,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,5000.0,0.0
+BAJAJELEC,2021-02-22 16:28:00,2021-02-20,2021-02-17,2021-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,3375.0,0.0,1875.0,0.0
+BAJAJELEC,2021-02-22 16:28:00,2021-02-20,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,1875.0,0.0,0.0,0.0,0.0,1500.0,0.0,3375.0,0.0
+BAJAJELEC,2021-02-22 16:28:00,2021-02-19,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0
+BAJAJELEC,2021-03-09 09:43:00,2021-03-07,2021-03-05,2021-03-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9000.0,0.0,0.0,0.0,0.0,9000.0,0.01,,0.0
+BAJAJELEC,2021-03-09 09:43:00,2021-03-08,2021-03-08,2021-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1875.0,0.0,0.0,0.0,0.0,1875.0,0.0,,0.0
+BAJAJELEC,2021-03-10 09:10:00,2021-03-09,2021-03-08,2021-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,,0.0
+BAJAJELEC,2021-03-11 10:36:00,2021-03-10,2021-03-10,2021-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,6100.0,0.01,5750.0,0.01
+BAJAJELEC,2021-03-11 10:36:00,2021-03-10,2021-03-08,2021-03-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,6750.0,0.01,6350.0,0.01
+BAJAJELEC,2021-03-11 10:36:00,2021-03-10,2021-03-09,2021-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,6350.0,0.01,6100.0,0.01
+BAJAJELEC,2021-03-16 09:24:00,2021-03-12,2021-03-10,2021-03-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,114.0,0.0,0.0,0.0,0.0,25427.0,0.02,25313.0,0.02
+BAJAJELEC,2021-03-16 09:24:00,2021-03-12,2021-03-12,2021-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9886.0,0.0,0.0,0.0,0.0,25313.0,0.02,15427.0,0.01
+BAJAJELEC,2021-06-02 17:55:00,2021-06-01,2021-06-01,2021-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1850.0,0.0,0.0,0.0,0.0,1900.0,0.0,50.0,0.0
+BAJAJELEC,2021-06-02 17:55:00,2021-06-01,2021-05-31,2021-05-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,4900.0,0.0,1900.0,0.0
+BAJAJELEC,2021-06-08 15:31:00,2021-06-07,2021-06-03,2021-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3072.0,0.0,2072.0,0.0
+BAJAJELEC,2021-06-14 18:04:00,2021-06-12,2021-06-10,2021-06-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,2750.0,0.0,0.0,0.0,0.0,250.0,0.0,3000.0,0.0
+BAJAJELEC,2021-06-14 18:04:00,2021-06-12,2021-06-10,2021-06-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,10500.0,0.0,0.0,0.0,0.0,,0.0,10500.0,0.01
+BAJAJELEC,2021-06-14 18:04:00,2021-06-11,2021-06-10,2021-06-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,4750.0,0.0,0.0,0.0,0.0,,0.0,4750.0,0.0
+BAJAJELEC,2021-06-14 18:04:00,2021-06-12,2021-06-10,2021-06-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,4528.0,0.0,5528.0,0.0
+BAJAJELEC,2021-06-14 19:47:00,2021-06-14,2021-06-10,2021-06-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,3375.0,0.0,0.0,0.0,0.0,,0.0,3375.0,0.0
+BAJAJELEC,2021-06-15 18:09:00,2021-06-14,2021-06-10,2021-06-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,8000.0,0.0,0.0,0.0,0.0,2072.0,0.0,10072.0,0.01
+BAJAJELEC,2021-06-25 18:51:00,2021-06-25,2021-06-25,2021-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,,0.0
+BAJAJELEC,2021-06-28 16:38:00,2021-06-28,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3375.0,0.0,0.0,0.0,0.0,3375.0,0.0,,0.0
+BAJAJELEC,2021-06-29 18:33:00,2021-06-29,2021-06-25,2021-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3000.0,0.0,2500.0,0.0
+BAJAJELEC,2021-06-29 18:33:00,2021-06-29,2021-06-28,2021-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2500.0,0.0,2000.0,0.0
+BAJAJELEC,2021-07-16 20:56:00,2021-07-14,2021-07-08,2021-07-08,Employees/Designated Employees,Off Market,Pledge,Equity Shares,10500.0,0.0,0.0,0.0,0.0,10500.0,0.01,10500.0,0.01
+BAJAJELEC,2021-09-03 19:26:00,2021-09-03,2021-09-01,2021-09-01,Promoters,Gift,Sell,Equity Shares,1000000.0,0.0,0.0,0.0,0.0,2814639.0,2.46,1814639.0,1.58
+BAJAJELEC,2021-09-03 19:26:00,2021-09-03,2021-09-01,2021-09-01,Promoter Group,Gift,Buy,Equity Shares,1000000.0,0.0,0.0,0.0,0.0,,0.0,1000000.0,0.87
+BAJAJELEC,2021-09-09 15:08:00,2021-09-07,2021-09-03,2021-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+BAJAJELEC,2021-09-09 15:08:00,2021-09-07,2021-09-03,2021-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+BAJAJELEC,2021-09-09 15:08:00,2021-09-07,2021-09-03,2021-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,1375.0,0.0,0.0,0.0,0.0,8325.0,0.01,9700.0,0.01
+BAJAJELEC,2021-09-09 15:08:00,2021-09-07,2021-09-03,2021-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5528.0,0.0,6528.0,0.01
+BAJAJELEC,2021-09-09 15:08:00,2021-09-08,2021-09-03,2021-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,50.0,0.0,3800.0,0.0
+BAJAJELEC,2021-09-09 15:08:00,2021-09-07,2021-09-03,2021-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,15427.0,0.01,16677.0,0.01
+BAJAJELEC,2021-09-09 15:08:00,2021-09-07,2021-09-03,2021-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,10072.0,0.01,11322.0,0.01
+BAJAJELEC,2021-09-09 15:08:00,2021-09-07,2021-09-03,2021-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0
+BAJAJELEC,2021-09-09 15:08:00,2021-09-07,2021-09-01,2021-09-01,Employees/Designated Employees,Off Market,Buy,Equity Shares,7075.0,0.0,0.0,0.0,0.0,1250.0,0.0,8325.0,0.01
+BAJAJELEC,2021-09-20 18:50:00,2021-09-17,2021-07-08,2021-07-08,Employees/Designated Employees,Pledge Creation,Pledge,Equity Shares,10500.0,0.0,0.0,0.0,0.0,10500.0,0.01,10500.0,0.01
+BAJAJELEC,2021-09-27 17:40:00,2021-09-24,2021-09-24,2021-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1875.0,0.0,0.0,0.0,0.0,1875.0,0.0,,0.0
+BAJAJELEC,2021-09-27 17:40:00,2021-09-24,2021-09-23,2021-09-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2036.0,0.0,0.0,0.0,0.0,3800.0,0.0,1764.0,0.0
+BAJAJELEC,2021-10-01 17:48:00,2021-10-01,2021-09-29,2021-09-29,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,1361885.0,0.0,0.0,0.0,0.0,798199.0,0.7,2160084.0,1.88
+BAJAJELEC,2021-10-01 17:48:00,2021-09-30,2021-09-29,2021-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1264.0,0.0,264.0,0.0
+BAJAJELEC,2021-10-01 17:48:00,2021-09-30,2021-09-03,2021-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,750.0,0.0,0.0,0.0,0.0,,0.0,750.0,0.0
+BAJAJELEC,2021-10-01 17:48:00,2021-10-01,2021-09-29,2021-09-29,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,1361885.0,0.0,0.0,0.0,0.0,1361885.0,1.19,,0.0
+BAJAJELEC,2021-10-01 17:48:00,2021-09-30,2021-09-24,2021-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1764.0,0.0,1264.0,0.0
+BAJAJELEC,2021-10-01 17:48:00,2021-09-30,2021-09-24,2021-09-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,750.0,0.0,,0.0
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,1125.0,0.0,0.0,0.0,0.0,,0.0,1125.0,0.0
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,4500.0,0.0,0.0,0.0,0.0,9700.0,0.0,14200.0,0.01
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,2750.0,0.0,0.0,0.0,0.0,4750.0,0.01,7500.0,0.01
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,625.0,0.0,0.0,0.0,0.0,4401.0,0.0,5026.0,0.0
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,310.0,0.0,0.0,0.0,0.0,4091.0,0.0,4401.0,0.0
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,315.0,0.0,0.0,0.0,0.0,3776.0,0.0,4091.0,0.0
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,750.0,0.0,0.0,0.0,0.0,3026.0,0.0,3776.0,0.0
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5928.0,0.01,6928.0,0.01
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,6250.0,0.0,0.0,0.0,0.0,16677.0,0.01,22927.0,0.02
+BAJAJELEC,2021-12-16 16:52:00,2021-12-15,2021-12-13,2021-12-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.0
+BAJAJELEC,2021-12-31 15:31:00,2021-12-30,2021-12-30,2021-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,4000.0,0.0,,0.0
+BAJAJELEC,2021-12-31 15:31:00,2021-12-30,2021-12-29,2021-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,3000.0,0.0,1300.0,0.0
+BAJAJELEC,2022-02-09 18:45:00,2022-02-09,2022-02-07,2022-02-07,Promoter Group,Gift,Buy,Equity Shares,125800.0,0.0,0.0,0.0,0.0,,0.0,125800.0,0.11
+BAJAJELEC,2022-02-09 18:45:00,2022-02-09,2022-02-07,2022-02-07,Promoter Group,Gift,Buy,Equity Shares,125800.0,0.0,0.0,0.0,0.0,,0.0,125800.0,0.11
+BAJAJELEC,2022-02-09 18:45:00,2022-02-09,2022-02-07,2022-02-07,Promoter Group,Gift,Buy,Equity Shares,125799.0,0.0,0.0,0.0,0.0,,0.0,125799.0,0.11
+BAJAJELEC,2022-02-09 18:45:00,2022-02-09,2022-02-07,2022-02-07,Promoter Group,Gift,Buy,Equity Shares,125800.0,0.0,0.0,0.0,0.0,,0.0,125800.0,0.11
+BAJAJELEC,2022-02-09 18:45:00,2022-02-09,2022-02-07,2022-02-07,Promoters,Gift,Sell,Equity Shares,503199.0,0.0,0.0,0.0,0.0,703199.0,0.61,200000.0,0.17
+BAJAJELEC,2022-02-24 12:52:00,2022-02-23,2022-02-17,2022-02-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3591.0,0.0,0.0,0.0,0.0,23591.0,0.02,20000.0,0.02
+BAJAJELEC,2022-02-28 17:04:00,2022-02-27,2022-02-24,2022-02-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+BAJAJELEC,2022-03-22 20:10:00,2022-03-19,2022-03-17,2022-03-17,-,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2022-03-22 20:10:00,2022-03-19,2022-03-17,2022-03-17,-,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+BAJAJELEC,2022-03-22 20:10:00,2022-03-19,2022-03-17,2022-03-17,-,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+BAJAJELEC,2022-03-22 20:10:00,2022-03-19,2022-03-17,2022-03-17,-,ESOP,Buy,Equity Shares,1125.0,0.0,0.0,0.0,0.0,1000.0,0.0,2125.0,0.0
+BAJAJELEC,2022-03-22 20:10:00,2022-03-21,2022-03-16,2022-03-16,-,Revokation of Pledge,Pledge Revoke,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10500.0,0.01,10500.0,0.01
+BAJAJELEC,2022-03-22 20:10:00,2022-03-21,2022-03-16,2022-03-16,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10500.0,0.01,9500.0,0.01
+BAJAJELEC,2022-03-22 20:10:00,2022-03-19,2022-03-17,2022-03-17,-,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,,0.0,1250.0,0.0
+BAJAJELEC,2022-03-22 20:10:00,2022-03-19,2022-03-17,2022-03-17,-,ESOP,Buy,Equity Shares,16500.0,0.0,0.0,0.0,0.0,22927.0,0.02,39427.0,0.03
+BAJAJELEC,2022-03-22 20:10:00,2022-03-19,2022-03-17,2022-03-17,-,ESOP,Buy,Equity Shares,1875.0,0.0,0.0,0.0,0.0,,0.0,1875.0,0.0
+BAJAJELEC,2022-04-25 13:33:00,2022-04-25,2022-04-21,2022-04-21,Promoter Group,Market Sale,Sell,Equity Shares,448000.0,0.0,0.0,0.0,0.0,1989875.0,1.73,1541875.0,1.34
+BAJAJELEC,2022-04-25 13:33:00,2022-04-22,2022-04-21,2022-04-21,Promoter Group,Market Purchase,Buy,Equity Shares,343000.0,0.0,0.0,0.0,0.0,18793840.0,16.36,19136840.0,16.66
+BAJAJELEC,2022-04-25 13:33:00,2022-04-25,2022-04-21,2022-04-21,Promoter Group,Market Purchase,Buy,Equity Shares,105000.0,0.0,0.0,0.0,0.0,22443275.0,19.54,22548275.0,19.63
+BAJAJELEC,2022-05-27 16:07:00,2022-05-25,2022-05-25,2022-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1875.0,0.0,0.0,0.0,0.0,1875.0,0.0,,0.0
+BAJAJELEC,2022-05-27 16:07:00,2022-05-26,2022-05-25,2022-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1250.0,0.0,,0.0
+BAJAJELEC,2022-06-07 13:11:00,2022-06-06,2022-04-12,2022-04-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,6180.0,0.01,5680.0,0.0
+BAJAJELEC,2022-06-07 13:11:00,2022-06-06,2022-04-26,2022-04-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1.0,0.0,0.0,0.0,0.0,5680.0,0.0,5679.0,0.0
+BAJAJELEC,2022-06-07 13:11:00,2022-06-06,2022-04-29,2022-04-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,5679.0,0.0,4579.0,0.0
+BAJAJELEC,2022-08-24 18:47:00,2022-08-23,2022-08-23,2022-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2625.0,0.0,0.0,0.0,0.0,2625.0,0.0,,0.0
+BAJAJELEC,2022-08-24 18:47:00,2022-08-23,2022-08-22,2022-08-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+BAJAJELEC,2022-08-24 18:47:00,2022-08-23,2022-08-19,2022-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2500.0,0.0,2000.0,0.0
+BAJAJELEC,2022-08-24 18:47:00,2022-08-23,2022-08-19,2022-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3500.0,0.0,2500.0,0.0
+BAJAJELEC,2022-08-24 18:47:00,2022-08-23,2022-08-19,2022-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4000.0,0.0,3500.0,0.0
+BAJAJELEC,2022-09-06 17:29:00,2022-09-06,2022-09-06,2022-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2959.0,0.0,0.0,0.0,0.0,3000.0,0.0,41.0,0.0
+BAJAJELEC,2022-09-06 17:29:00,2022-09-06,2022-09-02,2022-09-02,Promoter Group,Revokation of Pledge,Pledge Revoke,Equity Shares,1316000.0,0.0,0.0,0.0,0.0,1541875.0,1.34,2857875.0,2.49
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1875.0,0.0,0.0,0.0,0.0,2175.0,0.0,4050.0,0.0
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2000.0,0.0,4500.0,0.0
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,6125.0,0.0,0.0,0.0,0.0,,0.0,6125.0,0.01
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-08-30,2022-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,500.0,0.0,5500.0,0.0
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-08-23,2022-08-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1000.0,0.0,500.0,0.0
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,6000.0,0.0,0.0,0.0,0.0,,0.0,6000.0,0.01
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-09-06,2022-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,41.0,0.0,0.0,0.0,0.0,41.0,0.0,,0.0
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,,0.0,2000.0,0.0
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,750.0,0.0,0.0,0.0,0.0,6178.0,0.01,6928.0,0.01
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-08-30,2022-08-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,6928.0,0.01,6178.0,0.01
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1375.0,0.0,0.0,0.0,0.0,2125.0,0.0,3500.0,0.0
+BAJAJELEC,2022-09-13 12:46:00,2022-09-12,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,1125.0,0.0,0.0,0.0,0.0,2995.0,0.0,4120.0,0.0
+BAJAJELEC,2022-09-14 18:05:00,2022-09-14,2022-09-13,2022-09-13,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,3300.0,0.0,0.0,0.0,0.0,9500.0,0.01,9500.0,0.01
+BAJAJELEC,2022-09-14 18:05:00,2022-09-14,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2250.0,0.0,0.0,0.0,0.0,,0.0,2250.0,0.0
+BAJAJELEC,2022-09-14 18:05:00,2022-09-14,2022-09-13,2022-09-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3300.0,0.0,0.0,0.0,0.0,9500.0,0.01,6200.0,0.01
+BAJAJELEC,2022-10-19 18:28:00,2022-10-17,2022-09-02,2022-09-02,Promoter Group,Revokation of Pledge,Pledge Revoke,Equity Shares,1316000.0,0.0,0.0,0.0,0.0,1541875.0,1.34,1541875.0,1.34
+BAJAJELEC,2022-11-11 17:53:00,2022-11-11,2022-11-11,2022-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,,0.0
+BAJAJELEC,2022-12-01 13:14:00,2022-12-01,2022-11-29,2022-11-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,6000.0,0.01,,0.0
+BAJAJELEC,2022-12-20 17:37:00,2022-12-19,2022-12-16,2022-12-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,5500.0,0.0,0.0,0.0,0.0,2500.0,0.0,8000.0,0.01
+BAJAJELEC,2022-12-20 17:37:00,2022-12-19,2022-12-16,2022-12-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,,0.0,5000.0,0.0
+BAJAJELEC,2022-12-20 17:37:00,2022-12-19,2022-12-16,2022-12-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6928.0,0.01,7928.0,0.01
+BAJAJELEC,2022-12-20 17:37:00,2022-12-19,2022-12-16,2022-12-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,9000.0,0.0,0.0,0.0,0.0,7500.0,0.01,16500.0,0.01
+BAJAJELEC,2022-12-20 17:37:00,2022-12-19,2022-12-16,2022-12-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,1300.0,0.0,5050.0,0.0
+BAJAJELEC,2022-12-20 17:37:00,2022-12-19,2022-12-16,2022-12-16,Employees/Designated Employees,ESOP,Buy,Equity Shares,1875.0,0.0,0.0,0.0,0.0,,0.0,1875.0,0.0
+BAJAJELEC,2022-12-29 14:12:00,2022-12-27,2022-12-27,2022-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3955.0,0.0,0.0,0.0,0.0,10000.0,0.01,6045.0,0.01
+BAJAJELEC,2022-12-30 15:21:00,2022-12-30,2022-12-26,2022-12-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,5050.0,0.0,3750.0,0.0
+BAJAJELEC,2023-01-02 17:48:00,2023-01-02,2022-12-28,2022-12-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,20000.0,0.02,19000.0,0.02
+BAJAJELEC,2023-01-02 17:48:00,2023-01-02,2022-12-30,2022-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,19000.0,0.02,17000.0,0.01
+BAJAJELEC,2023-01-05 18:19:00,2023-01-04,2022-12-30,2022-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,1875.0,0.0,975.0,0.0
+BAJAJELEC,2023-01-12 19:05:00,2023-01-12,2022-12-30,2022-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2100.0,0.0,0.0,0.0,0.0,3750.0,0.0,1650.0,0.0
+BAJAJELEC,2023-01-27 15:46:00,2023-01-27,2022-08-18,2022-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,2000.0,0.0,,0.0
+BAJAJELEC,2023-02-15 16:57:00,2023-02-15,2023-02-10,2023-02-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,928.0,0.0,0.0,0.0,0.0,7928.0,0.01,7000.0,0.01
+BAJAJELEC,2023-02-24 18:25:00,2023-02-23,2023-02-15,2023-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,3500.0,0.0,3250.0,0.0
+BAJAJELEC,2023-02-24 18:25:00,2023-02-23,2023-02-15,2023-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1250.0,0.0,0.0,0.0,0.0,3250.0,0.0,2000.0,0.0
+BAJAJELEC,2023-03-03 18:58:00,2023-03-03,2023-03-02,2023-03-02,Director,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,5000.0,0.0,8000.0,0.01
+BAJAJELEC,2023-03-03 18:58:00,2023-03-03,2023-03-02,2023-03-02,-,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,17000.0,0.01,21000.0,0.02
+BAJAJELEC,2023-03-03 18:58:00,2023-03-03,2023-03-02,2023-03-02,-,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,21000.0,0.02,26000.0,0.02
+BAJAJELEC,2023-03-03 18:58:00,2023-03-03,2023-03-02,2023-03-02,Director,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,1000.0,0.0,5000.0,0.0
+BAJAJELEC,2023-03-03 18:58:00,2023-03-03,2023-03-02,2023-03-02,-,ESOP,Buy,Equity Shares,2250.0,0.0,0.0,0.0,0.0,,0.0,2250.0,0.0
+BAJAJELEC,2023-03-03 18:58:00,2023-03-03,2023-03-02,2023-03-02,-,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,,0.0,2500.0,0.0
+BAJAJELEC,2023-03-03 18:58:00,2023-03-03,2023-03-02,2023-03-02,Director,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+BAJAJELEC,2023-03-03 18:58:00,2023-03-03,2023-03-02,2023-03-02,-,ESOP,Buy,Equity Shares,1350.0,0.0,0.0,0.0,0.0,3550.0,0.0,4900.0,0.0
+BAJAJELEC,2023-05-04 17:46:00,2023-05-04,2022-12-22,2022-12-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3120.0,0.0,2620.0,0.0
+BAJAJELEC,2023-05-04 17:46:00,2023-05-04,2022-12-14,2022-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3620.0,0.0,3120.0,0.0
+BAJAJELEC,2023-05-04 17:46:00,2023-05-04,2022-12-14,2022-12-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,4120.0,0.0,3620.0,0.0
+BAJAJELEC,2023-05-04 17:46:00,2023-05-04,2022-12-27,2022-12-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2620.0,0.0,2120.0,0.0
+BAJAJELEC,2023-05-05 15:42:00,2023-05-05,2023-03-02,2023-03-02,Employees/Designated Employees,ESOP,Buy,Equity Shares,625.0,0.0,0.0,0.0,0.0,,0.0,625.0,0.0
+BAJAJELEC,2023-05-05 15:42:00,2023-05-05,2023-03-28,2023-03-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,625.0,0.0,0.0,0.0,0.0,625.0,0.0,,0.0
+BAJAJELEC,2023-05-16 18:24:00,2023-05-16,2023-03-24,2023-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2250.0,0.0,0.0,0.0,0.0,2250.0,0.0,,0.0
+BAJAJELEC,2023-05-17 18:52:00,2023-05-17,2023-03-02,2023-03-02,Employees/Designated Employees,ESOP,Buy,Equity Shares,1350.0,0.0,0.0,0.0,0.0,1775.0,0.0,3125.0,0.0
+BAJAJELEC,2023-06-15 16:29:00,2023-06-15,2023-06-13,2023-06-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,1250.0,0.0,2500.0,0.0
+BAJAJELEC,2023-06-15 16:29:00,2023-06-14,2023-06-13,2023-06-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,11322.0,0.01,12822.0,0.01
+BAJAJELEC,2023-06-15 16:29:00,2023-06-14,2023-06-13,2023-06-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,1875.0,0.0,0.0,0.0,0.0,1620.0,0.0,3495.0,0.0
+BAJAJELEC,2023-06-15 16:29:00,2023-06-14,2023-06-13,2023-06-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,7001.0,0.01,8251.0,0.01
+BAJAJELEC,2023-06-15 16:29:00,2023-06-14,2023-06-13,2023-06-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,,0.0,1500.0,0.0
+BAJAJELEC,2023-06-15 16:29:00,2023-06-15,2023-06-13,2023-06-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,26000.0,0.02,31000.0,0.03
+BAJAJELEC,2023-06-23 18:30:00,2023-06-23,2023-06-21,2023-06-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,31000.0,0.03,30000.0,0.03
+BAJAJELEC,2023-06-28 21:40:00,2023-06-28,2023-06-22,2023-06-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,30000.0,0.03,29800.0,0.03
+BAJAJELEC,2023-06-28 21:40:00,2023-06-28,2023-06-28,2023-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,29800.0,0.03,26800.0,0.02
+BAJAJELEC,2023-06-30 17:03:00,2023-06-30,2023-06-28,2023-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1362.0,0.0,0.0,0.0,0.0,6045.0,0.01,4683.0,0.0
+BAJAJELEC,2023-06-30 17:03:00,2023-06-30,2023-06-30,2023-06-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4683.0,0.0,0.0,0.0,0.0,4683.0,0.0,,0.0
+BAJAJELEC,2023-07-21 15:36:00,2023-07-21,2022-09-27,2022-09-27,Employees/Designated Employees,Revokation of Pledge,Pledge Revoke,Equity Shares,6200.0,0.0,0.0,0.0,0.0,6200.0,0.01,6200.0,0.01
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2021-06-10,2021-06-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,1300.0,0.0,0.0,0.0,0.0,2650.0,0.0,3950.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2021-02-17,2021-02-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,650.0,0.0,2650.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2021-09-03,2021-09-03,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,3950.0,0.0,6450.0,0.01
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2022-09-08,2022-09-08,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,6450.0,0.01,8950.0,0.01
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2023-06-06,2023-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,833.0,0.0,0.0,0.0,0.0,8950.0,0.01,8117.0,0.01
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2023-06-07,2023-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,8117.0,0.01,7517.0,0.01
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2023-06-12,2023-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7517.0,0.01,6517.0,0.01
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2023-06-13,2023-06-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,950.0,0.0,0.0,0.0,0.0,6517.0,0.01,7467.0,0.01
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2023-06-13,2023-06-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,7467.0,0.01,7167.0,0.01
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2023-06-14,2023-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7167.0,0.01,6167.0,0.01
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-09-10,2020-09-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,1150.0,0.0,0.0,0.0,0.0,148.0,0.0,1298.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-09-10,2020-09-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,900.0,0.0,0.0,0.0,0.0,1298.0,0.0,2198.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,148.0,0.0,0.0,0.0,0.0,2198.0,0.0,2050.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-09-29,2020-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2050.0,0.0,1850.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-11-11,2020-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,1050.0,0.0,850.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-11-11,2020-11-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,850.0,0.0,650.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-11-12,2020-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,650.0,0.0,450.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-11-12,2020-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,450.0,0.0,250.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-11-12,2020-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,250.0,0.0,50.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-11-17,2020-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,50.0,0.0,,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2020-12-15,2020-12-15,Employees/Designated Employees,ESOP,Buy,Equity Shares,2450.0,0.0,0.0,0.0,0.0,,0.0,2450.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2450.0,0.0,2350.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2021-02-08,2021-02-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,2350.0,0.0,1050.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2021-02-09,2021-02-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1050.0,0.0,950.0,0.0
+BAJAJELEC,2023-07-25 12:18:00,2023-07-22,2021-02-11,2021-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,950.0,0.0,650.0,0.0
+BAJAJELEC,2023-08-16 15:27:00,2023-08-16,2023-08-14,2023-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,1500.0,0.0,,0.0
+BAJAJELEC,2023-08-22 13:28:00,2023-08-22,2023-08-21,2023-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2300.0,0.0,0.0,0.0,0.0,9266.0,0.01,6966.0,0.01
+BAJAJELEC,2023-11-28 14:31:00,2023-11-27,2023-11-23,2023-11-23,Promoter Group,Market Sale,Sell,Equity Shares,471052.0,0.0,0.0,0.0,0.0,471052.0,0.41,,0.0
+BAJAJELEC,2023-11-28 14:31:00,2023-11-27,2023-11-23,2023-11-23,Promoter Group,Market Purchase,Buy,Equity Shares,471052.0,0.0,0.0,0.0,0.0,1110.0,0.0,472162.0,0.41
+BAJAJELEC,2023-12-04 17:06:00,2023-12-02,2023-11-23,2023-11-23,Promoter Group,Market Sale,Sell,Equity Shares,471052.0,0.0,0.0,0.0,0.0,471052.0,0.41,,0.0
+BAJAJELEC,2023-12-04 17:06:00,2023-12-02,2023-11-23,2023-11-23,Promoter Group,Market Purchase,Buy,Equity Shares,471052.0,0.0,0.0,0.0,0.0,1110.0,0.0,472162.0,0.41
+BAJAJELEC,2023-12-12 17:13:00,2023-12-12,2023-12-11,2023-12-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4267.0,0.0,0.0,0.0,0.0,4268.0,0.0,1.0,0.0
+BAJAJELEC,2023-12-12 17:13:00,2023-12-12,2023-12-06,2023-12-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,733.0,0.0,0.0,0.0,0.0,5001.0,0.0,4268.0,0.0
+BAJAJELEC,2023-12-22 14:38:00,2023-12-21,2023-12-19,2023-12-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,6966.0,0.01,5866.0,0.01
+BAJAJELEC,2023-12-29 16:47:00,2023-12-29,2023-12-29,2023-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3495.0,0.0,2495.0,0.0
+BAJAJELEC,2023-12-29 16:47:00,2023-12-29,2023-12-29,2023-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2495.0,0.0,1495.0,0.0
+BAJAJELEC,2023-12-29 16:47:00,2023-12-29,2023-12-29,2023-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1495.0,0.0,0.0,0.0,0.0,1495.0,0.0,,0.0
+BAJAJELEC,2024-02-27 09:59:00,2024-02-26,2024-02-21,2024-02-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,875.0,0.0,0.0,0.0,0.0,1875.0,0.0,1000.0,0.0
+BAJAJELEC,2024-02-27 09:59:00,2024-02-26,2024-02-26,2024-02-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,28800.0,0.03,30800.0,0.03
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,26800.0,0.02,28800.0,0.03
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,4000.0,0.0,0.0,0.0,0.0,,0.0,4000.0,0.0
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,8417.0,0.01,11417.0,0.01
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,30800.0,0.03,32800.0,0.03
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,8250.0,0.0,0.0,0.0,0.0,,0.0,8250.0,0.01
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,2500.0,0.0,5000.0,0.0
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,2750.0,0.0,0.0,0.0,0.0,5667.0,0.0,8417.0,0.01
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,7250.0,0.0,0.0,0.0,0.0,5500.0,0.0,12750.0,0.01
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,2250.0,0.0,0.0,0.0,0.0,3330.0,0.0,5580.0,0.0
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,1750.0,0.0,0.0,0.0,0.0,2500.0,0.0,4250.0,0.0
+BAJAJELEC,2024-03-04 16:50:00,2024-03-01,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,9256.0,0.01,14256.0,0.01
+BAJAJELEC,2024-03-15 16:57:00,2024-03-15,2024-02-28,2024-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1650.0,0.0,0.0,0.0,0.0,1650.0,0.0,,0.0
+BAJAJELEC,2024-03-15 16:57:00,2024-03-15,2024-03-15,2024-03-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2700.0,0.0,0.0,0.0,0.0,5866.0,0.01,3166.0,0.0
+BAJAJELEC,2024-03-18 12:32:00,2024-03-18,2024-02-29,2024-02-29,Employees/Designated Employees,ESOP,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,6500.0,0.01,8000.0,0.01
+BAJAJELEC,2024-03-18 12:32:00,2024-03-18,2024-02-28,2024-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,7000.0,0.01,6500.0,0.01
+BAJAJELEC,2024-06-13 17:34:00,2024-06-12,2024-06-11,2024-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3125.0,0.0,0.0,0.0,0.0,,0.0,3125.0,0.0
+BAJAJELEC,2024-06-13 17:34:00,2024-06-12,2024-06-11,2024-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,1750.0,0.0,0.0,0.0,0.0,13.0,0.0,1763.0,0.0
+BAJAJELEC,2024-06-13 17:34:00,2024-06-12,2024-06-11,2024-06-11,Director,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,11010.0,0.01,13010.0,0.01
+BAJAJELEC,2024-06-13 17:34:00,2024-06-12,2024-06-11,2024-06-11,Director,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,8010.0,0.01,11010.0,0.01
+BAJAJELEC,2024-06-13 17:34:00,2024-06-12,2024-06-11,2024-06-11,Director,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,13010.0,0.01,15010.0,0.01
+BAJAJELEC,2024-06-13 17:34:00,2024-06-12,2024-06-11,2024-06-11,Director,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,15010.0,0.01,18010.0,0.02
+BAJAJELEC,2024-06-13 17:34:00,2024-06-12,2024-06-11,2024-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,1125.0,0.0,0.0,0.0,0.0,14200.0,0.01,15325.0,0.01
+BAJAJELEC,2024-06-13 17:34:00,2024-06-12,2024-06-11,2024-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,1200.0,0.0,0.0,0.0,0.0,6199.0,0.01,7399.0,0.01
+BAJAJELEC,2024-06-13 17:34:00,2024-06-12,2024-06-11,2024-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,976.0,0.0,2226.0,0.0
+BAJAJELEC,2024-06-13 17:34:00,2024-06-12,2024-06-11,2024-06-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2500.0,0.0,0.0,0.0,0.0,4500.0,0.0,7000.0,0.01
+BAJAJELEC,2024-07-02 16:00:00,2024-07-01,2024-06-27,2024-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4000.0,0.0,0.0,0.0,0.0,12750.0,0.01,8750.0,0.01
+BAJAJELEC,2024-07-02 16:00:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1750.0,0.0,0.0,0.0,0.0,1763.0,0.0,13.0,0.0
+BAJAJELEC,2024-07-03 12:37:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,4000.0,0.0,1000.0,0.0
+BAJAJELEC,2024-07-03 12:37:00,2024-07-02,2024-06-12,2024-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,976.0,0.0,0.0,0.0,0.0,2226.0,0.0,1250.0,0.0
+BAJAJELEC,2024-07-03 12:37:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1250.0,0.0,1000.0,0.0
+BAJAJELEC,2024-07-03 12:37:00,2024-07-02,2024-06-28,2024-06-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,744.0,0.0,0.0,0.0,0.0,744.0,0.0,,0.0
+BAJAJELEC,2024-07-03 12:37:00,2024-07-02,2024-06-27,2024-06-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,256.0,0.0,0.0,0.0,0.0,1000.0,0.0,744.0,0.0
+BAJAJELEC,2024-08-12 17:10:00,2024-08-09,2024-06-18,2024-06-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,1980.0,0.0,1530.0,0.0
+BAJAJELEC,2024-08-12 17:10:00,2024-08-09,2024-06-12,2024-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,220.0,0.0,0.0,0.0,0.0,2500.0,0.0,2280.0,0.0
+BAJAJELEC,2024-08-12 17:10:00,2024-08-09,2024-06-14,2024-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2280.0,0.0,1980.0,0.0
+BAJAJELEC,2024-09-11 12:08:00,2024-09-11,2024-09-06,2024-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,7000.0,0.01,5000.0,0.0
+BAJAJELEC,2024-09-20 17:28:00,2024-09-20,2024-09-19,2024-09-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,5000.0,0.0,2500.0,0.0
+BAJAJELEC,2024-09-27 17:15:00,2024-09-27,2024-09-13,2024-09-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,5500.0,0.0,0.0,0.0,0.0,4500.0,0.0,10000.0,0.01
+BAJAJELEC,2024-09-27 17:15:00,2024-09-27,2024-09-13,2024-09-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,4500.0,0.0,0.0,0.0,0.0,,0.0,4500.0,0.0
+BAJAJELEC,2024-09-27 17:15:00,2024-09-27,2024-09-13,2024-09-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,,0.0,3750.0,0.0
+BAJAJELEC,2024-09-27 17:15:00,2024-09-27,2024-09-27,2024-09-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3750.0,0.0,0.0,0.0,0.0,3750.0,0.0,,0.0
+BAJAJELEC,2024-09-27 17:15:00,2024-09-27,2024-09-13,2024-09-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,5000.0,0.0,8000.0,0.01
+BAJAJELEC,2024-09-27 17:15:00,2024-09-27,2024-09-13,2024-09-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,3300.0,0.0,0.0,0.0,0.0,7399.0,0.01,10699.0,0.01
+BAJAJELEC,2024-09-27 17:15:00,2024-09-27,2024-09-13,2024-09-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1000.0,0.0,11000.0,0.01
+BAJAJELEC,2024-09-27 17:16:00,2024-09-27,2024-09-19,2024-09-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,8000.0,0.01,5500.0,0.0
+BAJAJELEC,2024-09-30 18:42:00,2024-09-30,2024-09-30,2024-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1107.0,0.0,0.0,0.0,0.0,11000.0,0.01,9893.0,0.01
+BAJAJELEC,2024-09-30 18:42:00,2024-09-30,2024-09-13,2024-09-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,3500.0,0.0,0.0,0.0,0.0,,0.0,3500.0,0.0
+BAJAJELEC,2024-09-30 18:42:00,2024-09-30,2024-09-13,2024-09-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,3500.0,0.0,0.0,0.0,0.0,3500.0,0.0,7000.0,0.01
+BAJAJELEC,2024-09-30 18:42:00,2024-09-30,2024-09-13,2024-09-13,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+BAJAJELEC,2024-09-30 18:42:00,2024-09-30,2024-09-30,2024-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1000.0,0.0,,0.0
+BAJAJELEC,2024-10-04 11:08:00,2024-10-03,2024-09-30,2024-09-30,Promoter Group,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,200000.0,0.17,185000.0,0.16
+BAJAJELEC,2024-10-04 11:08:00,2024-10-03,2024-09-30,2024-09-30,Promoter Group,Market Purchase,Buy,Equity Shares,15000.0,0.0,0.0,0.0,0.0,66585.0,0.06,81585.0,0.07
+BAJAJELEC,2024-10-04 16:41:00,2024-10-03,2024-09-30,2024-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,7000.0,0.01,3500.0,0.0
+BAJAJELEC,2024-11-18 18:01:00,2024-11-16,2024-11-14,2024-11-14,Employees/Designated Employees,ESOP,Buy,Equity Shares,4500.0,0.0,0.0,0.0,0.0,,0.0,4500.0,0.0
+BAJAJELEC,2025-01-28 11:07:00,2025-01-24,2025-01-22,2025-01-22,Promoter Group,Off Market,Sell,Equity Shares,1240730.0,0.0,0.0,0.0,0.0,1240730.0,1.08,,0.0
+BAJAJELEC,2025-01-28 11:07:00,2025-01-24,2025-01-22,2025-01-22,Promoter Group,Off Market,Buy,Equity Shares,1240730.0,0.0,0.0,0.0,0.0,,0.0,1240730.0,1.08
+BAJAJELEC,2025-02-04 18:45:00,2025-02-04,2025-02-04,2025-02-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,3750.0,0.0,0.0,0.0,0.0,3000.0,0.0,6750.0,0.01
+BAJAJELEC,2025-02-06 18:36:00,2025-02-06,2025-02-04,2025-02-04,Employees/Designated Employees,ESOP,Buy,Equity Shares,3125.0,0.0,0.0,0.0,0.0,15325.0,0.01,18450.0,0.02
+BAJAJELEC,2025-06-18 20:46:00,2025-06-17,2025-06-13,2025-06-13,Promoter Group,Off Market,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,200000.0,0.17,400000.0,0.35
+BAJAJELEC,2025-06-18 20:46:00,2025-06-17,2025-06-13,2025-06-13,Promoters,Off Market,Sell,Equity Shares,200000.0,0.0,0.0,0.0,0.0,200000.0,0.17,,0.0
+BAJAJELEC,2025-09-05 17:35:00,2025-09-04,2025-09-01,2025-09-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,1250.0,0.0,0.0,0.0,0.0,3166.0,0.0,4416.0,0.0
+BAJAJELEC,2025-09-05 17:35:00,2025-09-04,2025-09-01,2025-09-01,Employees/Designated Employees,ESOP,Buy,Equity Shares,564.0,0.0,0.0,0.0,0.0,4416.0,0.0,4980.0,0.0
+BAJAJELEC,2025-10-03 19:20:00,2025-10-01,2025-09-29,2025-09-29,Promoter Group,Off Market,Sell,Equity Shares,125800.0,0.0,0.0,0.0,0.0,125800.0,0.11,,0.0
+BAJAJELEC,2025-10-03 19:20:00,2025-10-01,2025-09-29,2025-09-29,Promoter Group,Off Market,Sell,Equity Shares,21644.0,0.0,0.0,0.0,0.0,21644.0,0.02,,0.0
+BAJAJELEC,2025-10-03 19:20:00,2025-10-01,2025-09-29,2025-09-29,Promoter Group,Off Market,Sell,Equity Shares,125800.0,0.0,0.0,0.0,0.0,125800.0,0.11,,0.0
+BAJAJELEC,2025-10-03 19:20:00,2025-10-01,2025-09-29,2025-09-29,Promoters,Inter-se-Transfer,Sell,Equity Shares,1900000.0,0.0,0.0,0.0,0.0,7545224.0,6.54,5645224.0,4.89
+BAJAJELEC,2025-10-03 19:20:00,2025-10-01,2025-09-29,2025-09-29,Promoter Group,Off Market,Sell,Equity Shares,206575.0,0.0,0.0,0.0,0.0,206575.0,0.18,,0.0
+BAJAJELEC,2025-10-03 19:21:00,2025-10-01,2025-09-29,2025-09-29,Promoter Group,Off Market,Buy,Equity Shares,21644.0,0.0,0.0,0.0,0.0,,0.0,21644.0,0.02
+BAJAJELEC,2025-10-03 19:21:00,2025-10-01,2025-09-29,2025-09-29,Promoter Group,Off Market,Buy,Equity Shares,206575.0,0.0,0.0,0.0,0.0,,0.0,206575.0,0.18
+BAJAJELEC,2025-10-03 19:21:00,2025-10-01,2025-09-29,2025-09-29,Promoter Group,Off Market,Buy,Equity Shares,125800.0,0.0,0.0,0.0,0.0,,0.0,125800.0,0.11
+BAJAJELEC,2025-10-03 19:21:00,2025-10-01,2025-09-29,2025-09-29,Promoter Group,Off Market,Buy,Equity Shares,125800.0,0.0,0.0,0.0,0.0,,0.0,125800.0,0.11
+BAJAJELEC,2025-10-03 19:21:00,2025-10-01,2025-09-29,2025-09-29,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,1900000.0,0.0,0.0,0.0,0.0,,0.0,1900000.0,1.65
+BAJAJELEC,2025-11-24 18:44:00,2025-11-24,2025-11-24,2025-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5102.0,0.0,0.0,0.0,0.0,5102.0,0.0,,0.0
+BAJAJELEC,2025-11-27 12:28:00,2025-11-26,2025-11-24,2025-11-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,8250.0,0.0,0.0,0.0,0.0,7926.0,0.01,16176.0,0.01
+BAJAJELEC,2025-11-27 12:28:00,2025-11-26,2025-11-24,2025-11-24,Employees/Designated Employees,ESOP,Buy,Equity Shares,7317.0,0.0,0.0,0.0,0.0,9893.0,0.01,17210.0,0.01

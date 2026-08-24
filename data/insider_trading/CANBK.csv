@@ -1,0 +1,5 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+CANBK,2017-04-06 15:55:00,2017-04-03,2017-03-30,2017-03-30,Promoters,Public Right,Buy,Equity Shares,35999105.0,0.0,0.0,0.0,0.0,359991054.0,66.3,395990159.0,66.3
+CANBK,2017-06-29 15:47:00,2017-06-29,2017-06-29,2017-06-29,Other,Market Sale,Sell,Equity Shares,2593446.0,0.0,0.0,0.0,0.0,2622430.0,8.9195,28984.0,0.0986
+CANBK,2018-03-31 15:04:00,,2018-03-27,2018-03-27,Promoters,Preferential Offer,Buy,Equity Shares,135954616.0,0.0,0.0,0.0,0.0,395990159.0,66.3,531944775.0,72.55
+CANBK,2019-12-06 14:21:00,2019-12-04,2019-12-04,2019-12-04,Promoters,Preferential Offer,Buy,Equity Shares,276988576.0,0.0,0.0,0.0,0.0,531944775.0,70.62,808933351.0,78.52

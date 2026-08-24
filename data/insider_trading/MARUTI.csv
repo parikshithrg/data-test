@@ -1,0 +1,28 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+MARUTI,2020-03-06 17:16:00,2020-03-06,2020-03-06,2020-03-06,Promoters,Market Purchase,Buy,Equity Shares,211000.0,0.0,0.0,0.0,0.0,169788440.0,56.21,169999440.0,56.28
+MARUTI,2020-09-10 12:02:00,2020-09-10,2020-09-08,2020-09-09,Promoters,Market Purchase,Buy,Equity Shares,284322.0,0.0,0.0,0.0,0.0,169999440.0,56.28,170283762.0,56.37
+MARUTI,2022-06-02 11:52:00,2022-06-01,2021-02-03,2021-02-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,150.0,0.0,,0.0
+MARUTI,2022-06-02 11:52:00,2022-06-01,2021-02-03,2021-02-03,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,150.0,0.0,0.0,0.0,0.0,,0.0,150.0,0.0
+MARUTI,2022-06-02 11:52:00,2022-06-01,2021-01-07,2021-01-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,200.0,0.0,,0.0
+MARUTI,2022-06-02 11:52:00,2022-06-01,2021-01-07,2021-01-07,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,200.0,0.0,0.0,0.0,0.0,,0.0,200.0,0.0
+MARUTI,2022-06-02 11:52:00,,,,Employees/Designated Employees,-,-,,,300.0,300.0,2309200.0,2312500.0,,0.0,,
+MARUTI,2022-06-02 11:52:00,2022-06-01,2022-03-15,2022-03-17,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,134.0,0.0,0.0,0.0,0.0,,0.0,134.0,0.0
+MARUTI,2022-06-02 11:52:00,2022-06-01,2022-03-15,2022-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,134.0,0.0,0.0,0.0,0.0,134.0,0.0,,0.0
+MARUTI,2022-06-10 15:09:00,2022-06-10,2020-11-23,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,120.0,0.0,0.0,0.0,0.0,120.0,0.0,,0.0
+MARUTI,2022-06-10 15:09:00,2022-06-10,2020-11-23,2020-11-23,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,120.0,0.0,0.0,0.0,0.0,,0.0,120.0,0.0
+MARUTI,2022-06-10 15:09:00,2022-06-10,2020-11-03,2020-11-03,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,60.0,0.0,0.0,0.0,0.0,,0.0,60.0,0.0
+MARUTI,2022-06-10 15:09:00,2022-06-10,2020-11-25,2020-11-25,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,40.0,0.0,0.0,0.0,0.0,,0.0,40.0,0.0
+MARUTI,2022-06-10 15:09:00,2022-06-10,2020-11-12,2020-11-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,587.0,0.0,0.0,0.0,0.0,587.0,0.0,,0.0
+MARUTI,2022-06-10 15:09:00,2022-06-10,2020-11-12,2020-11-12,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,587.0,0.0,0.0,0.0,0.0,,0.0,587.0,0.0
+MARUTI,2022-06-10 15:09:00,2022-06-10,2020-11-03,2020-11-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,60.0,0.0,0.0,0.0,0.0,60.0,0.0,,0.0
+MARUTI,2022-06-10 15:09:00,2022-06-10,2020-11-25,2020-11-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40.0,0.0,0.0,0.0,0.0,40.0,0.0,,0.0
+MARUTI,2022-06-10 15:10:00,2022-06-10,2020-12-30,2020-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,80.0,0.0,0.0,0.0,0.0,80.0,0.0,,0.0
+MARUTI,2022-06-10 15:10:00,2022-06-10,2020-12-31,2021-01-01,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,60.0,0.0,0.0,0.0,0.0,,0.0,60.0,0.0
+MARUTI,2022-06-10 15:10:00,2022-06-10,2020-12-10,2020-12-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,210.0,0.0,0.0,0.0,0.0,210.0,0.0,,0.0
+MARUTI,2022-06-10 15:10:00,,,,Employees/Designated Employees,-,-,,,100.0,100.0,778023.0,778335.0,,0.0,,
+MARUTI,2022-06-10 15:10:00,2022-06-10,2020-12-03,2020-12-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,514.0,0.0,0.0,0.0,0.0,514.0,0.0,,0.0
+MARUTI,2022-06-10 15:10:00,2022-06-10,2020-12-03,2020-12-03,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,514.0,0.0,0.0,0.0,0.0,,0.0,514.0,0.0
+MARUTI,2022-06-10 15:10:00,2022-06-10,2020-12-31,2021-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,60.0,0.0,0.0,0.0,0.0,60.0,0.0,,0.0
+MARUTI,2022-06-10 15:10:00,2022-06-10,2020-12-30,2020-12-30,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,80.0,0.0,0.0,0.0,0.0,,0.0,80.0,0.0
+MARUTI,2022-06-10 15:10:00,2022-06-10,2020-12-10,2020-12-10,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,210.0,0.0,0.0,0.0,0.0,,0.0,210.0,0.0
+MARUTI,2023-03-14 10:59:00,2023-03-14,2023-03-10,2023-03-13,Promoters,Market Purchase,Buy,Equity Shares,345200.0,0.0,0.0,0.0,0.0,170283762.0,56.37,170628962.0,56.48

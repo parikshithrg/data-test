@@ -1,0 +1,15 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+JWL,2019-01-25 13:17:00,2019-01-23,2019-01-22,2019-01-22,Promoters,Off Market,Buy,Equity Shares,4533678.0,0.0,0.0,0.0,0.0,,0.0,4533678.0,5.07
+JWL,2019-01-25 13:17:00,2019-01-23,2019-01-22,2019-01-22,Promoters,Off Market,Buy,Equity Shares,6127142.0,0.0,0.0,0.0,0.0,,0.0,6127142.0,6.85
+JWL,2019-01-25 13:17:00,2019-01-23,2019-01-22,2019-01-22,Promoters,Off Market,Buy,Equity Shares,6800518.0,0.0,0.0,0.0,0.0,,0.0,6800518.0,7.6
+JWL,2019-01-25 13:17:00,2019-01-23,2019-01-22,2019-01-22,Promoters,Off Market,Buy,Equity Shares,1295336.0,0.0,0.0,0.0,0.0,,0.0,1295336.0,1.45
+JWL,2019-01-25 13:17:00,2019-01-23,2019-01-22,2019-01-22,Promoters,Off Market,Buy,Equity Shares,971504.0,0.0,0.0,0.0,0.0,,0.0,971504.0,1.09
+JWL,2019-01-25 13:17:00,2019-01-23,2019-01-22,2019-01-22,Promoters,Preferential Offer,Buy,Equity Shares,34539693.0,0.0,0.0,0.0,0.0,,0.0,34539693.0,38.6
+JWL,2019-01-25 23:05:00,2019-01-24,2019-01-21,2019-01-21,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,3213443.0,0.0,0.0,0.0,0.0,3213443.0,5.85,,5.85
+JWL,2019-01-25 23:05:00,2019-01-24,2019-01-22,2019-01-22,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,3439590.0,0.0,0.0,0.0,0.0,3439590.0,6.26,,6.26
+JWL,2019-01-25 23:05:00,2019-01-24,2019-01-22,2019-01-22,Promoters,Off Market,Sell,Equity Shares,4465184.0,0.0,0.0,0.0,0.0,4465184.0,8.13,,8.13
+JWL,2019-01-25 23:05:00,2019-01-24,2019-01-22,2019-01-22,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,19144311.0,0.0,0.0,0.0,0.0,23609495.0,42.97,4465184.0,34.84
+JWL,2022-06-01 19:38:00,2022-05-31,2022-05-29,2022-05-29,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,13947849.0,0.0,0.0,0.0,0.0,1295336.0,1.45,15243185.0,3.93
+JWL,2022-06-01 19:38:00,2022-05-31,2022-05-29,2022-05-29,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,72545211.0,0.0,0.0,0.0,0.0,6800518.0,7.6,79345729.0,20.48
+JWL,2022-06-01 19:38:00,2022-05-31,2022-05-29,2022-05-29,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,13981625.0,0.0,0.0,0.0,0.0,971504.0,1.09,14953129.0,3.86
+JWL,2022-06-01 19:38:00,2022-05-31,2022-05-29,2022-05-29,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,2772136.0,0.0,0.0,0.0,0.0,4533678.0,5.07,7305814.0,1.89

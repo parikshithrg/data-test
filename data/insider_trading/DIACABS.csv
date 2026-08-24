@@ -1,0 +1,7 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+DIACABS,2024-06-03 15:28:00,2024-05-31,2024-05-28,2024-05-29,Promoters,Market Sale,Sell,Equity Shares,1286303.0,0.0,0.0,0.0,0.0,18500000.0,35.11,17213697.0,32.67
+DIACABS,2024-06-03 15:28:00,2024-05-31,2024-05-28,2024-05-29,Promoters,Market Sale,Sell,Equity Shares,1286302.0,0.0,0.0,0.0,0.0,7000000.0,13.28,5713698.0,10.84
+DIACABS,2025-06-10 18:32:00,2025-06-09,2025-06-05,2025-06-06,Promoters,Market Sale,Sell,Equity Shares,15750000.0,0.0,0.0,0.0,0.0,172136970.0,32.67,156386970.0,29.68
+DIACABS,2025-06-10 18:32:00,2025-06-09,2025-06-05,2025-06-06,Promoters,Market Sale,Sell,Equity Shares,15750000.0,0.0,0.0,0.0,0.0,57136980.0,10.84,41386980.0,7.85
+DIACABS,2025-06-23 19:26:00,2025-06-23,2025-06-20,2025-06-20,Employees/Designated Employees,Inter-se-Transfer,Buy,Equity Shares,73860.0,0.0,0.0,0.0,0.0,,0.0,73860.0,0.01
+DIACABS,2025-06-27 19:09:00,2025-06-27,2025-06-25,2025-06-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,73860.0,0.0,0.0,0.0,0.0,73860.0,0.01,,0.0

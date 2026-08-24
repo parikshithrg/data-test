@@ -1,0 +1,12 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+NUCLEUS,2017-09-12 14:58:00,2017-09-11,2017-09-08,2017-09-08,Key Managerial Personnel,Others,Sell,Equity Shares,152673.0,0.0,0.0,0.0,0.0,304650.0,0.94,151977.0,0.52
+NUCLEUS,2017-12-06 18:29:00,2017-12-04,2017-11-08,2017-11-08,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,923.0,0.0,0.0,0.0,0.0,,0.0,923.0,0.0
+NUCLEUS,2017-12-06 18:29:00,2017-12-04,2017-11-15,2017-11-15,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1829.0,0.0,0.0,0.0,0.0,923.0,0.0,2752.0,0.01
+NUCLEUS,2017-12-11 17:07:00,2017-12-07,2017-12-06,2017-12-06,Promoter Group,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,27758.0,0.1,26258.0,0.09
+NUCLEUS,2018-01-16 12:40:00,2017-12-07,2017-12-07,2017-12-07,Promoter Group,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,26258.0,0.09,23758.0,0.08
+NUCLEUS,2019-03-04 14:50:00,2019-02-28,2019-02-26,2019-02-26,Director,Off Market,Sell,Equity Shares,7684.0,0.0,0.0,0.0,0.0,7684.0,0.02,,0.0
+NUCLEUS,2019-05-06 15:39:00,2019-05-03,2019-05-03,2019-05-03,Other,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,407999.0,1.4,407849.0,1.4
+NUCLEUS,2019-05-06 15:39:00,2019-05-03,2019-05-02,2019-05-02,Other,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,410399.0,1.41,407999.0,1.4
+NUCLEUS,2022-01-25 20:06:00,2022-01-25,2022-01-21,2022-01-21,Promoter Group,Others,Sell,Equity Shares,9690.0,0.0,0.0,0.0,0.0,12000.0,0.04,2310.0,0.01
+NUCLEUS,2023-06-06 18:57:00,2023-06-02,2023-06-02,2023-06-02,Promoter Group,Market Sale,Sell,Equity Shares,2310.0,0.0,0.0,0.0,0.0,2310.0,0.0,,0.0
+NUCLEUS,2024-07-02 11:28:00,2024-06-28,2024-06-26,2024-06-28,Promoter Group,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,72952.0,0.27,71952.0,0.27

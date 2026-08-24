@@ -1,0 +1,22 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+WALCHANNAG,2021-07-13 23:10:00,2021-07-11,2021-07-05,2021-07-05,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,49250.0,0.0,0.0,0.0,0.0,49250.0,0.13,,0.0
+WALCHANNAG,2021-07-13 23:10:00,2021-07-11,2021-07-05,2021-07-05,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,10350.0,0.0,0.0,0.0,0.0,10350.0,0.03,,0.0
+WALCHANNAG,2021-07-13 23:10:00,2021-07-11,2021-07-05,2021-07-05,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,1443480.0,0.0,0.0,0.0,0.0,5260160.0,13.82,3816680.0,10.03
+WALCHANNAG,2021-07-13 23:10:00,2021-07-11,2021-07-05,2021-07-05,Director,Invocation of pledge,Pledge Invoke,Equity Shares,14000.0,0.0,0.0,0.0,0.0,14000.0,0.04,,0.0
+WALCHANNAG,2021-07-15 20:34:00,2021-07-15,2021-07-09,2021-07-09,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,386410.0,0.0,0.0,0.0,0.0,3816680.0,10.03,3430270.0,9.01
+WALCHANNAG,2021-08-25 13:10:00,2021-08-24,2021-08-20,2021-08-20,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,3082309.0,0.0,0.0,0.0,0.0,3430270.0,9.01,347961.0,0.91
+WALCHANNAG,2021-08-25 13:10:00,2021-08-24,2021-08-20,2021-08-20,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,720905.0,0.0,0.0,0.0,0.0,9869673.0,25.92,9148768.0,24.03
+WALCHANNAG,2021-10-20 22:38:00,2021-10-20,2021-10-12,2021-10-12,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,3803214.0,0.0,0.0,0.0,0.0,9148768.0,24.03,5345554.0,14.04
+WALCHANNAG,2022-10-28 11:39:00,2022-10-27,2022-10-21,2022-10-21,Promoter Group,Preferential Offer,Buy,Equity Shares,17290.0,0.0,0.0,0.0,0.0,,0.0,17290.0,0.04
+WALCHANNAG,2022-10-28 11:39:00,2022-10-27,2022-10-21,2022-10-21,Promoters,Preferential Offer,Buy,Equity Shares,60800.0,0.0,0.0,0.0,0.0,,0.0,60800.0,0.13
+WALCHANNAG,2022-10-28 11:39:00,2022-10-27,2022-10-21,2022-10-21,Promoters,Preferential Offer,Buy,Equity Shares,12750.0,0.0,0.0,0.0,0.0,,0.0,12750.0,0.03
+WALCHANNAG,2022-10-28 11:39:00,2022-10-27,2022-10-21,2022-10-21,Promoter Group,Preferential Offer,Buy,Equity Shares,4509160.0,0.0,0.0,0.0,0.0,347961.0,0.91,4857121.0,10.59
+WALCHANNAG,2024-07-30 12:54:00,2024-07-27,2024-07-27,2024-07-27,Promoter Group,Revokation of Pledge,Pledge Revoke,Equity Shares,3000000.0,0.0,0.0,0.0,0.0,3000000.0,5.41,3000000.0,5.41
+WALCHANNAG,2024-07-30 12:54:00,2024-07-27,2024-07-27,2024-07-27,Promoter Group,Revokation of Pledge,Pledge Revoke,Equity Shares,2000000.0,0.0,0.0,0.0,0.0,2000000.0,3.61,2000000.0,3.61
+WALCHANNAG,2024-07-30 12:54:00,2024-07-27,2024-07-27,2024-07-27,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,6095168.0,0.0,0.0,0.0,0.0,6095168.0,11.0,6095168.0,11.0
+WALCHANNAG,2024-07-30 12:54:00,2024-07-27,2024-07-27,2024-07-27,Promoter Group,Revokation of Pledge,Pledge Revoke,Equity Shares,342090.0,0.0,0.0,0.0,0.0,342090.0,0.62,342090.0,0.62
+WALCHANNAG,2024-07-30 12:54:00,2024-07-27,2024-07-27,2024-07-27,Promoter Group,Revokation of Pledge,Pledge Revoke,Equity Shares,6680.0,0.0,0.0,0.0,0.0,6680.0,0.01,6680.0,0.01
+WALCHANNAG,2024-07-30 12:54:00,2024-07-27,2024-07-27,2024-07-27,Promoter Group,Revokation of Pledge,Pledge Revoke,Equity Shares,5562393.0,0.0,0.0,0.0,0.0,5562393.0,10.04,5562393.0,10.04
+WALCHANNAG,2024-08-20 15:57:00,2024-08-16,2024-08-13,2024-08-13,Promoter Group,Pledge Creation,Pledge,Equity Shares,342090.0,0.0,0.0,0.0,0.0,342090.0,0.62,,0.0
+WALCHANNAG,2024-08-20 15:57:00,2024-08-16,2024-08-13,2024-08-13,Promoters,Pledge Creation,Pledge,Equity Shares,5345554.0,0.0,0.0,0.0,0.0,6095168.0,11.0,749614.0,1.35
+WALCHANNAG,2024-08-20 15:57:00,2024-08-16,2024-08-13,2024-08-13,Promoter Group,Pledge Creation,Pledge,Equity Shares,4857121.0,0.0,0.0,0.0,0.0,5562393.0,10.0,705272.0,1.27

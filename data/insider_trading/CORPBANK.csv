@@ -1,0 +1,5 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+CORPBANK,2016-10-01 15:45:00,2016-09-29,2016-09-28,2016-09-28,Promoters,Preferential Offer,Buy,Equity Shares,124570868.0,0.0,0.0,0.0,0.0,687141382.0,67.2,811712250.0,70.76
+CORPBANK,2018-04-03 15:50:00,2018-04-02,2018-03-31,2018-03-31,Promoters,Preferential Offer,Buy,Equity Shares,518492176.0,0.0,0.0,0.0,0.0,811712250.0,70.76,1330204426.0,79.87
+CORPBANK,2018-10-15 19:32:00,2018-10-12,2018-10-11,2018-10-11,Promoters,Preferential Offer,Buy,Equity Shares,869047619.0,0.0,0.0,0.0,0.0,1330204426.0,79.87,2199252045.0,86.77
+CORPBANK,2019-04-01 17:37:00,2019-03-30,2019-03-29,2019-03-29,Promoters,Preferential Offer,Buy,Equity Shares,3405547226.0,0.0,0.0,0.0,0.0,2199252045.0,84.96,5604799271.0,93.5

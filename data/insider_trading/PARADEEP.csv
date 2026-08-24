@@ -1,0 +1,25 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+PARADEEP,2024-08-20 12:37:00,2024-08-16,2024-08-14,2024-08-14,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,11000.0,0.0,0.0,0.0,0.0,,0.0,11000.0,0.0
+PARADEEP,2024-08-20 12:37:00,2024-08-19,2024-08-16,2024-08-16,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,22000.0,0.0,0.0,0.0,0.0,11000.0,0.0,33000.0,0.0
+PARADEEP,2024-11-08 11:31:00,2024-11-08,2024-11-06,2024-11-06,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,45277.0,0.0,0.0,0.0,0.0,33000.0,0.0,78277.0,0.01
+PARADEEP,2025-04-01 10:23:00,2025-03-31,2025-03-27,2025-03-27,Promoters,Pledge Creation,Pledge,Equity Shares,65000000.0,0.0,0.0,0.0,0.0,456942507.0,56.05,456942507.0,56.05
+PARADEEP,2025-06-04 13:07:00,2025-06-02,2025-06-02,2025-06-02,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,50001.0,0.0,0.0,0.0,0.0,114278.0,0.01,164279.0,0.02
+PARADEEP,2025-09-12 16:46:00,2025-09-10,2025-09-08,2025-09-08,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,20000.0,0.0,0.0,0.0,0.0,164279.0,0.02,184279.0,0.02
+PARADEEP,2025-09-12 16:46:00,2025-09-10,2025-09-09,2025-09-09,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,40000.0,0.0,0.0,0.0,0.0,184279.0,0.02,224279.0,0.03
+PARADEEP,2025-09-16 17:50:00,2025-09-15,2025-09-11,2025-09-11,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,25000000.0,0.0,0.0,0.0,0.0,456942507.0,56.05,456942507.0,56.05
+PARADEEP,2025-09-25 18:06:00,2025-09-24,2025-09-22,2025-09-22,Promoters,Pledge Creation,Pledge,Equity Shares,25000000.0,0.0,0.0,0.0,0.0,456942507.0,56.05,456942507.0,56.05
+PARADEEP,2025-09-26 10:49:00,2025-09-25,2025-09-24,2025-09-24,Promoters,Market Purchase,Buy,Equity Shares,10000000.0,0.0,0.0,0.0,0.0,456942507.0,55.97,466942507.0,57.2
+PARADEEP,2025-12-05 18:20:00,2025-12-05,2025-12-03,2025-12-03,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,54299190.0,0.0,0.0,0.0,0.0,466942507.0,57.2,521241697.0,50.22
+PARADEEP,2025-12-05 18:24:00,2025-12-05,2025-12-03,2025-12-03,Promoters,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,65433846.0,0.0,0.0,0.0,0.0,,0.0,65433846.0,6.3
+PARADEEP,2025-12-05 18:27:00,2025-12-05,2025-12-03,2025-12-03,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,572582.0,0.0,0.0,0.0,0.0,,0.0,572582.0,0.05
+PARADEEP,2025-12-05 18:30:00,2025-12-05,2025-12-03,2025-12-03,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,8135175.0,0.0,0.0,0.0,0.0,,0.0,8135175.0,0.78
+PARADEEP,2025-12-05 18:34:00,2025-12-05,2025-12-03,2025-12-03,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,374000.0,0.0,0.0,0.0,0.0,,0.0,374000.0,0.04
+PARADEEP,2025-12-05 18:36:00,2025-12-05,2025-12-03,2025-12-03,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,293874.0,0.0,0.0,0.0,0.0,,0.0,293874.0,0.03
+PARADEEP,2025-12-05 18:39:00,2025-12-05,2025-12-03,2025-12-03,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,280500.0,0.0,0.0,0.0,0.0,,0.0,280500.0,0.03
+PARADEEP,2025-12-05 18:42:00,2025-12-05,2025-12-03,2025-12-03,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,2622545.0,0.0,0.0,0.0,0.0,,0.0,2622545.0,0.25
+PARADEEP,2026-02-11 18:12:00,2026-02-11,2026-02-09,2026-02-09,Promoters,Market Purchase,Buy,Equity Shares,515000.0,0.0,0.0,0.0,0.0,521726697.0,50.26,522241697.0,50.31
+PARADEEP,2026-02-11 18:12:00,2026-02-11,2026-02-09,2026-02-09,Promoters,Market Purchase,Buy,Equity Shares,485000.0,0.0,0.0,0.0,0.0,521241697.0,50.22,521726697.0,50.26
+PARADEEP,2026-02-17 17:25:00,2026-02-17,2026-02-16,2026-02-16,Promoter Group,Gift,Buy,Equity Shares,2622000.0,0.0,0.0,0.0,0.0,293874.0,0.03,2915874.0,0.28
+PARADEEP,2026-02-17 17:25:00,2026-02-17,2026-02-16,2026-02-16,Promoter Group,Gift,Sell,Equity Shares,2622000.0,0.0,0.0,0.0,0.0,2622545.0,0.25,545.0,0.0
+PARADEEP,2026-03-09 17:12:00,2026-03-09,2026-03-06,2026-03-06,Promoters,Market Purchase,Buy,Equity Shares,90000.0,0.0,0.0,0.0,0.0,522241697.0,50.3,522331697.0,50.31
+PARADEEP,2026-03-31 12:48:00,2026-03-31,2026-03-30,2026-03-30,Promoters,Market Purchase,Buy,Equity Shares,175000.0,0.0,0.0,0.0,0.0,522331697.0,50.31,522506697.0,50.33

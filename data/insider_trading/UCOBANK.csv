@@ -1,0 +1,3 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+UCOBANK,2016-05-13 18:00:00,2016-05-10,2016-05-10,2016-05-10,Promoters,Preferential Offer,Buy,Equity Shares,225464190.0,0.0,0.0,0.0,0.0,783333288.0,72.83,1008797478.0,77.54
+UCOBANK,2022-11-25 18:09:00,2022-11-25,2022-11-18,2022-11-25,-,Market Sale,Sell,Equity Shares,80000.0,0.0,0.0,0.0,0.0,110000.0,0.0,30000.0,0.0

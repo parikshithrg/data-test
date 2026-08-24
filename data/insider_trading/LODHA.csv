@@ -1,0 +1,9 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+LODHA,2021-06-16 23:40:00,2021-06-14,2021-06-11,2021-06-11,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,109592990.0,0.0,0.0,0.0,0.0,,0.0,109592990.0,24.5
+LODHA,2021-06-16 23:40:00,2021-06-14,2021-06-11,2021-06-11,Promoters,Inter-se-Transfer,Sell,Equity Shares,130614000.0,0.0,0.0,0.0,0.0,267297316.0,59.76,136683316.0,30.56
+LODHA,2021-06-16 23:40:00,2021-06-14,2021-06-11,2021-06-11,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,21021010.0,0.0,0.0,0.0,0.0,,0.0,21021010.0,4.7
+LODHA,2021-11-10 19:31:00,2021-11-10,2021-11-09,2021-11-09,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,1020.0,0.0,20.0,0.0
+LODHA,2022-12-14 18:06:00,2022-12-14,2022-12-12,2022-12-12,Promoters,Others,Sell,Equity Shares,13107718.0,0.0,0.0,0.0,0.0,128580480.0,26.69,115472762.0,23.97
+LODHA,2022-12-14 18:06:00,2022-12-14,2022-12-12,2022-12-12,Promoter Group,Others,Sell,Equity Shares,12854845.0,0.0,0.0,0.0,0.0,109592990.0,22.75,96738145.0,20.08
+LODHA,2022-12-14 18:06:00,2022-12-14,2022-12-12,2022-12-12,Promoters,Others,Sell,Equity Shares,19343.0,0.0,0.0,0.0,0.0,136683320.0,28.37,136663977.0,28.37
+LODHA,2022-12-14 18:06:00,2022-12-14,2022-12-12,2022-12-12,Promoter Group,Others,Sell,Equity Shares,8588600.0,0.0,0.0,0.0,0.0,21021010.0,4.36,12432410.0,2.58

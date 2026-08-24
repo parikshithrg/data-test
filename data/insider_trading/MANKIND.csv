@@ -1,0 +1,4 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+MANKIND,2024-02-09 18:00:00,2024-02-09,2024-02-08,2024-02-08,Promoters,Market Sale,Sell,Equity Shares,1817070.0,0.0,0.0,0.0,0.0,21094717.0,5.27,19277647.0,4.81
+MANKIND,2024-02-09 18:00:00,2024-02-09,2024-02-08,2024-02-08,Promoter Group,Market Sale,Sell,Equity Shares,2271336.0,0.0,0.0,0.0,0.0,13805242.0,3.45,11533906.0,2.88
+MANKIND,2024-02-09 18:00:00,2024-02-09,2024-02-08,2024-02-08,Promoter Group,Market Sale,Sell,Equity Shares,2401128.0,0.0,0.0,0.0,0.0,10555591.0,2.64,8154463.0,2.04

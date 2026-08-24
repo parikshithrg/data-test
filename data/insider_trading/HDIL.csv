@@ -1,0 +1,9 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+HDIL,2016-03-23 10:38:00,2016-03-22,2016-03-22,2016-03-22,Promoters,Gift,Sell,Equity Shares,7997400.0,0.0,0.0,0.0,0.0,7997400.0,1.91,,0.0
+HDIL,2016-09-17 15:54:00,2016-09-12,2016-09-08,2016-09-08,Promoters,Preferential Offer,Buy,Equity Shares,15000000.0,0.0,0.0,0.0,0.0,4159115.0,0.99,19159115.0,4.41
+HDIL,2017-03-23 18:57:00,2017-03-21,2017-03-20,2017-03-20,Promoters,Inter-se-Transfer,Sell,Equity Shares,58547661.0,0.0,0.0,0.0,0.0,76047661.0,17.52,17500000.0,4.03
+HDIL,2018-04-10 13:36:00,2018-04-09,2018-04-06,2018-04-06,Promoters,Inter-se-Transfer,Sell,Equity Shares,503222.0,0.0,0.0,0.0,0.0,503222.0,0.12,,0.0
+HDIL,2018-08-21 16:37:00,2018-08-20,2018-08-14,2018-08-14,Promoters,Conversion of security,Buy,Equity Shares,20000000.0,0.0,0.0,0.0,0.0,19159115.0,4.41,39159115.0,8.63
+HDIL,2019-06-21 18:51:00,2019-06-21,2019-06-19,2019-06-19,Promoters,Gift,Buy,Equity Shares,8100000.0,0.0,0.0,0.0,0.0,17500000.0,3.85,25600000.0,5.64
+HDIL,2019-06-22 12:57:00,2019-06-21,2019-05-30,2019-05-30,Promoters,Conversion of security,Buy,Equity Shares,20000000.0,0.0,0.0,0.0,0.0,39159115.0,8.63,59159115.0,12.48
+HDIL,2019-06-24 18:16:00,2019-06-21,2019-06-19,2019-06-19,Promoter Group,Gift,Sell,Equity Shares,8100000.0,0.0,0.0,0.0,0.0,8100000.0,1.78,,0.0

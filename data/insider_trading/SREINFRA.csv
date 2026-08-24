@@ -1,0 +1,22 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+SREINFRA,2015-11-30 20:37:00,2015-11-26,2015-11-24,2015-11-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,69703.0,0.014,44703.0,0.009
+SREINFRA,2016-01-06 09:14:00,2016-01-04,2016-01-01,2016-01-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,16996.0,0.0,0.0,0.0,0.0,36699.0,0.007,19703.0,0.003
+SREINFRA,2016-01-13 20:01:00,2016-01-12,2016-01-11,2016-01-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,40093.0,0.008,15093.0,0.003
+SREINFRA,2016-01-18 13:29:00,2016-01-12,2016-01-11,2016-01-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,40093.0,0.008,15093.0,0.003
+SREINFRA,2016-01-19 09:30:00,2016-01-15,2016-01-13,2016-01-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,29174.0,0.0,0.0,0.0,0.0,35003.0,0.007,5829.0,0.001
+SREINFRA,2016-01-19 09:30:00,2016-01-15,2016-01-14,2016-01-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,18750.0,0.0,0.0,0.0,0.0,18750.0,0.0037,,0.0
+SREINFRA,2016-01-19 09:30:00,2016-01-15,2016-01-15,2016-01-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,15093.0,0.003,93.0,0.0
+SREINFRA,2016-01-25 09:33:00,2016-01-20,2016-01-19,2016-01-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5829.0,0.0,0.0,0.0,0.0,5829.0,0.0012,,0.0
+SREINFRA,2016-03-10 17:25:00,2016-03-07,2016-03-04,2016-03-04,Key Managerial Personnel,Market Purchase,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,150000.0,0.03,300000.0,0.06
+SREINFRA,2016-04-21 09:22:00,2016-04-07,2016-04-06,2016-04-06,Other,-,Buy,Equity Shares,10474595.0,0.0,0.0,0.0,0.0,,0.0,10474595.0,2.08
+SREINFRA,2016-04-22 13:53:00,2016-04-12,2016-04-08,2016-04-08,Other,Market Sale,Sell,Equity Shares,10474595.0,0.0,0.0,0.0,0.0,10474595.0,2.08,,0.0
+SREINFRA,2016-04-22 13:53:00,2016-04-12,2016-04-08,2016-04-08,Other,Market Purchase,Buy,Equity Shares,10474595.0,0.0,0.0,0.0,0.0,293201250.0,58.28,303675845.0,60.36
+SREINFRA,2016-04-29 20:33:00,2016-04-27,2016-04-25,2016-04-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,31563.0,0.0,0.0,0.0,0.0,31743.0,0.006,180.0,0.0
+SREINFRA,2016-10-07 17:02:00,2016-10-06,2016-10-04,2016-10-04,Key Managerial Personnel,Off Market,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,78218.0,0.016,153218.0,0.03
+SREINFRA,2016-10-07 17:02:00,2016-10-06,2016-10-04,2016-10-04,Key Managerial Personnel,Off Market,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,97593.0,0.019,172593.0,0.034
+SREINFRA,2016-10-07 17:02:00,2016-10-06,2016-10-04,2016-10-04,Employees/Designated Employees,Off Market,Buy,Equity Shares,75000.0,0.0,0.0,0.0,0.0,19703.0,0.004,94703.0,0.019
+SREINFRA,2017-04-28 19:50:00,2017-04-28,2017-04-28,2017-04-28,Key Managerial Personnel,Off Market,Buy,Equity Shares,13400.0,0.0,0.0,0.0,0.0,172593.0,0.034,185993.0,0.037
+SREINFRA,2017-04-29 16:23:00,2017-04-28,2017-04-27,2017-04-27,Other,Off Market,Buy,Equity Shares,25000.0,0.0,0.0,0.0,0.0,94703.0,0.019,119703.0,0.024
+SREINFRA,2017-05-22 19:37:00,2017-05-20,2017-05-19,2017-05-19,Key Managerial Personnel,Off Market,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,185993.0,0.037,335993.0,0.067
+SREINFRA,2017-05-22 19:37:00,2017-05-20,2017-05-19,2017-05-19,Other,Off Market,Buy,Equity Shares,150000.0,0.0,0.0,0.0,0.0,119703.0,0.024,269703.0,0.054
+SREINFRA,2018-01-31 19:11:00,2018-01-30,2018-01-29,2018-01-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,12150.0,0.0,0.0,0.0,0.0,21300.0,0.0,9150.0,0.02

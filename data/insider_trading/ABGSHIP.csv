@@ -1,0 +1,6 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ABGSHIP,2015-12-18 13:37:00,2015-12-10,2015-12-03,2015-12-08,Promoters,Market Sale,Sell,Equity Shares,1014000.0,0.0,0.0,0.0,0.0,21479020.0,39.75,20465020.0,37.88
+ABGSHIP,2016-03-15 16:08:00,2015-12-02,2015-11-23,2015-11-26,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,1611037.0,0.0,0.0,0.0,0.0,23090057.0,42.73,21479020.0,39.75
+ABGSHIP,2016-04-04 12:51:00,2016-04-01,2016-03-29,2016-03-30,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,2868418.0,0.0,0.0,0.0,0.0,20465020.0,37.88,17596602.0,32.57
+ABGSHIP,2016-05-02 15:54:00,2016-04-30,2016-04-06,2016-04-20,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,3048924.0,0.0,0.0,0.0,0.0,17596602.0,32.57,14547678.0,26.93
+ABGSHIP,2016-05-27 17:53:00,2016-05-26,2016-05-03,2016-05-20,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,5071530.0,0.0,0.0,0.0,0.0,14547678.0,26.93,9476148.0,17.54

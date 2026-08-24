@@ -52,6 +52,16 @@ fundamentals_dir = "data/fundamentals"
 # `fetch_financial_results.py`, never a live call from inside the
 # deterministic harness itself.
 shareholding_dir = "data/shareholding"
+# Per-symbol SEBI PIT (insider-trading) disclosures this project sourced
+# itself from NSE's own `corporates-pit` endpoint - real disclosure
+# timestamps, real buy/sell quantities and values, flat JSON (no XBRL
+# parsing needed) - confirmed live 2026-08-24, see
+# `dtest/data/insider_trading.py`'s own module docstring. History starts
+# ~2015 (SEBI PIT Regulations, 2015 - a real regulatory floor, not a data
+# gap). NOT read-only like the three source paths above:
+# `scripts/fetch_insider_trading.py` writes here, once per symbol, as a
+# real acquisition step - same category as `fetch_shareholding.py`.
+insider_trading_dir = "data/insider_trading"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under

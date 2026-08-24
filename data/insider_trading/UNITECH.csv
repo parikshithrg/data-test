@@ -1,0 +1,35 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+UNITECH,2015-12-01 12:54:00,2015-11-23,2015-11-19,2015-11-19,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,720000.0,0.0,0.0,0.0,0.0,442862945.0,16.9,442142945.0,16.9
+UNITECH,2015-12-01 20:02:00,2015-11-19,2015-11-17,2015-11-17,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,10000000.0,0.0,0.0,0.0,0.0,452862945.0,17.31,442862945.0,16.93
+UNITECH,2015-12-21 17:20:00,2015-12-18,2015-12-16,2015-12-16,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,5000000.0,0.0,0.0,0.0,0.0,442142945.0,16.9,437142945.0,16.71
+UNITECH,2016-01-20 16:54:00,2016-01-08,2016-01-06,2016-01-06,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,7000000.0,0.0,0.0,0.0,0.0,401240403.0,15.34,394240403.0,15.07
+UNITECH,2016-01-20 17:18:00,2016-01-06,2016-01-04,2016-01-05,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,35902542.0,0.0,0.0,0.0,0.0,437142945.0,16.71,401240403.0,15.34
+UNITECH,2016-02-01 20:17:00,2016-01-27,2016-01-21,2016-01-21,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,3800000.0,0.0,0.0,0.0,0.0,394240403.0,15.07,390440403.0,14.92
+UNITECH,2016-02-02 19:30:00,2016-02-01,2016-01-28,2016-01-28,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,5000000.0,0.0,0.0,0.0,0.0,390440403.0,14.92,385440403.0,14.73
+UNITECH,2016-02-17 15:47:00,2016-02-08,2016-02-04,2016-02-04,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,6000000.0,0.0,0.0,0.0,0.0,385440403.0,14.73,379440403.0,14.5
+UNITECH,2016-02-18 14:37:00,2016-02-15,2016-02-11,2016-02-12,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,28696064.0,0.0,0.0,0.0,0.0,379440403.0,14.5,350744339.0,13.41
+UNITECH,2016-02-22 18:41:00,2016-02-19,2016-02-16,2016-02-16,Promoters,Revokation of Pledge,Pledge Revoke,Equity Shares,3284000.0,0.0,0.0,0.0,0.0,350744339.0,13.41,354028339.0,13.41
+UNITECH,2016-03-15 19:50:00,2016-03-14,2016-03-10,2016-03-10,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,702.0,0.0,0.0,0.0,0.0,354028339.0,13.53,354027637.0,13.53
+UNITECH,2016-03-23 17:23:00,2016-03-21,2016-03-19,2016-03-19,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,5000000.0,0.0,0.0,0.0,0.0,354027637.0,13.53,349027637.0,13.34
+UNITECH,2016-05-13 17:58:00,2016-05-12,2016-05-11,2016-05-11,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,15200000.0,0.0,0.0,0.0,0.0,349027637.0,13.34,333827637.0,12.76
+UNITECH,2016-05-17 19:42:00,2016-05-17,2016-05-16,2016-05-16,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,620000.0,0.0,0.0,0.0,0.0,333827637.0,12.76,333207637.0,12.74
+UNITECH,2016-05-19 20:49:00,2016-05-18,2016-05-16,2016-05-16,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,200000.0,0.0,0.0,0.0,0.0,333207637.0,12.74,333007637.0,
+UNITECH,2016-06-03 19:01:00,2016-06-03,2016-06-01,2016-06-02,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,2255100.0,0.0,0.0,0.0,0.0,333007637.0,12.73,330752537.0,12.64
+UNITECH,2016-07-05 08:44:00,2016-07-04,2016-06-30,2016-07-01,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,12300000.0,0.0,0.0,0.0,0.0,304552537.0,11.64,292252537.0,11.17
+UNITECH,2016-07-05 08:47:00,2016-06-28,2016-06-15,2016-06-24,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,26200000.0,0.0,0.0,0.0,0.0,330752537.0,12.64,304552537.0,11.64
+UNITECH,2016-07-13 19:11:00,2016-07-13,2016-07-04,2016-07-04,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,3780000.0,0.0,0.0,0.0,0.0,292252537.0,11.17,288472537.0,11.03
+UNITECH,2016-07-19 16:40:00,2016-07-19,2016-07-15,2016-07-15,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,250000.0,0.0,0.0,0.0,0.0,288472537.0,11.03,288222537.0,11.02
+UNITECH,2016-08-23 09:36:00,2016-08-22,2016-08-18,2016-08-18,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,850007.0,0.0,0.0,0.0,0.0,288222537.0,11.02,287372530.0,10.98
+UNITECH,2016-08-26 14:28:00,2016-08-24,2016-08-23,2016-08-23,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,925000.0,0.0,0.0,0.0,0.0,287372530.0,10.98,286447530.0,10.95
+UNITECH,2016-11-22 13:46:00,2016-11-21,2016-11-15,2016-11-15,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,1100000.0,0.0,0.0,0.0,0.0,286447530.0,10.95,285347530.0,10.91
+UNITECH,2016-12-31 12:50:00,2016-12-30,2016-12-28,2016-12-28,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,457972.0,0.0,0.0,0.0,0.0,285347530.0,10.91,284889558.0,10.89
+UNITECH,2017-04-07 15:38:00,2017-03-31,2017-03-29,2017-03-29,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,68000.0,0.0,0.0,0.0,0.0,284889558.0,10.89,284821558.0,10.89
+UNITECH,2017-06-07 11:19:00,2017-06-06,2017-04-26,2017-05-25,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,291000.0,0.0,0.0,0.0,0.0,284821558.0,10.89,284530558.0,10.88
+UNITECH,2017-06-16 13:48:00,2017-06-15,2017-05-31,2017-05-31,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,3170000.0,0.0,0.0,0.0,0.0,284530558.0,10.88,281360558.0,10.75
+UNITECH,2017-06-16 13:48:00,,2016-12-19,2016-12-28,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,45000000.0,0.0,0.0,0.0,0.0,124212400.0,4.75,79212400.0,3.03
+UNITECH,2017-06-16 13:48:00,,2016-12-01,2017-06-03,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,52285500.0,0.0,0.0,0.0,0.0,52415300.0,2.0,129800.0,0.005
+UNITECH,2017-07-04 10:48:00,2017-07-03,2017-06-30,2017-06-30,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,6300000.0,0.0,0.0,0.0,0.0,281360558.0,10.75,275060558.0,10.51
+UNITECH,2017-07-11 15:00:00,2017-07-10,2017-07-06,2017-07-06,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,300000.0,0.0,0.0,0.0,0.0,275060558.0,10.51,274760558.0,10.5
+UNITECH,2018-03-17 14:22:00,2018-03-16,2017-07-17,2017-12-12,Promoters,Invocation of pledge,Pledge Invoke,Equity Shares,65288820.0,0.0,0.0,0.0,0.0,65894880.0,2.52,606060.0,0.02
+UNITECH,2018-03-20 15:23:00,2018-03-20,2017-12-12,2017-12-12,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,76700000.0,0.0,0.0,0.0,0.0,77085970.0,2.95,385970.0,0.01
+UNITECH,2019-02-12 16:19:00,2019-02-12,2017-11-08,2018-10-25,Promoter Group,Invocation of pledge,Pledge Invoke,Equity Shares,216393476.0,0.0,0.0,0.0,0.0,274760558.0,10.65,58367082.0,2.23

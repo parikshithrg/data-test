@@ -1,0 +1,7 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+IFCI,2018-04-04 19:09:00,2018-04-02,2018-03-31,2018-03-31,Promoters,Preferential Offer,Buy,Equity Shares,33955857.0,0.0,0.0,0.0,0.0,923000000.0,55.43,956955857.0,56.42
+IFCI,2018-04-04 19:23:00,2018-04-02,2018-03-31,2018-03-31,Promoters,Preferential Offer,Buy,Equity Shares,33955857.0,0.0,0.0,0.0,0.0,923000000.0,55.53,956955857.0,56.42
+IFCI,2021-04-27 17:01:00,2021-04-26,2021-04-23,2021-04-23,Promoters,Preferential Offer,Buy,Equity Shares,145985401.0,0.0,0.0,0.0,0.0,1156955857.0,61.02,1302941258.0,63.81
+IFCI,2023-08-30 12:02:00,2023-05-01,2023-04-27,2023-04-27,Promoters,Preferential Offer,Buy,Equity Shares,293685756.0,0.0,0.0,0.0,0.0,1456890872.0,66.35,1750576628.0,70.32
+IFCI,2024-04-23 18:04:00,2024-04-22,2024-04-19,2024-04-19,Promoters,Preferential Offer,Buy,Equity Shares,123977188.0,0.0,0.0,0.0,0.0,1750576628.0,70.32,1874553816.0,71.72
+IFCI,2025-03-04 18:49:00,2025-03-04,2025-02-28,2025-02-28,Promoters,Preferential Offer,Buy,Equity Shares,80723280.0,0.0,0.0,0.0,0.0,1874553816.0,71.72,1955277096.0,72.57

@@ -1,0 +1,11 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+KOPRAN,2016-05-09 18:40:00,2016-05-04,2016-05-03,2016-05-03,Promoters,Preferential Offer,Buy,Equity Shares,2150000.0,0.0,0.0,0.0,0.0,3811758.0,9.27,5961758.0,13.78
+KOPRAN,2018-04-20 14:23:00,2018-04-19,2017-11-15,2017-11-15,Promoter Group,Scheme of Amalgamation/Merger/Demerger/Arrangement,Buy,Equity Shares,5961758.0,0.0,0.0,0.0,0.0,55425.0,0.13,6017183.0,13.91
+KOPRAN,2022-11-17 16:44:00,2022-11-17,2022-11-17,2022-11-17,Promoter Group,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,,0.0,10000.0,0.02
+KOPRAN,2022-11-22 10:48:00,2022-11-21,2022-11-21,2022-11-21,Promoter Group,Market Purchase,Buy,Equity Shares,11000.0,0.0,0.0,0.0,0.0,10000.0,0.02,21000.0,0.04
+KOPRAN,2023-01-30 14:54:00,2023-01-27,2023-01-21,2023-01-21,Promoter Group,Others,Buy,Equity Shares,270500.0,0.0,0.0,0.0,0.0,228900.0,0.47,499400.0,1.03
+KOPRAN,2023-04-03 14:26:00,2023-04-03,2023-03-31,2023-03-31,Promoters,Market Purchase,Buy,Equity Shares,65500.0,0.0,0.0,0.0,0.0,503075.0,1.04,568575.0,1.18
+KOPRAN,2023-04-03 14:32:00,2023-04-03,2023-03-31,2023-03-31,Promoters,Market Purchase,Buy,Equity Shares,28500.0,0.0,0.0,0.0,0.0,568575.0,1.18,597075.0,1.23
+KOPRAN,2023-06-05 12:06:00,2023-06-05,2023-06-02,2023-06-02,Promoter Group,Others,Buy,Equity Shares,289000.0,0.0,0.0,0.0,0.0,499400.0,1.03,788400.0,1.64
+KOPRAN,2024-12-20 16:12:00,2024-12-20,2024-12-18,2024-12-18,Promoter Group,Others,Buy,Equity Shares,1764750.0,0.0,0.0,0.0,0.0,871900.0,1.8,2636650.0,5.46
+KOPRAN,2025-01-08 16:52:00,2025-01-08,2024-12-18,2024-12-18,Promoter Group,Others,Buy,Equity Shares,1764750.0,0.0,0.0,0.0,0.0,788400.0,1.64,2553150.0,5.29

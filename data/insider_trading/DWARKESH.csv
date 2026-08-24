@@ -1,0 +1,12 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+DWARKESH,2017-04-27 14:18:00,2017-04-25,2017-04-24,2017-04-24,Promoters,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,2826659.0,15.01,2826759.0,15.01
+DWARKESH,2017-04-27 14:18:00,2017-04-25,2017-04-24,2017-04-24,Promoters,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2826759.0,15.01,2826659.0,15.01
+DWARKESH,2017-04-27 14:18:00,2017-04-25,2017-04-24,2017-04-24,Promoters,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,2826659.0,15.01,2826759.0,15.01
+DWARKESH,2017-04-27 14:18:00,2017-04-25,2017-04-24,2017-04-24,Promoters,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,2826759.0,15.01,2826659.0,15.01
+DWARKESH,2020-03-13 15:22:00,2020-03-13,2020-03-12,2020-03-12,Promoters,Market Purchase,Buy,Equity Shares,300000.0,0.0,0.0,0.0,0.0,28266590.0,15.01,28566590.0,15.17
+DWARKESH,2020-03-13 15:22:00,2020-03-13,2020-03-12,2020-03-12,Promoters,Market Purchase,Buy,Equity Shares,100000.0,0.0,0.0,0.0,0.0,901780.0,0.48,1001780.0,0.53
+DWARKESH,2024-08-06 14:55:00,2024-08-06,2024-08-05,2024-08-05,Director,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,,0.0,100.0,0.0
+DWARKESH,2024-08-06 14:55:00,2024-08-06,2024-08-05,2024-08-05,Director,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,,0.0,100.0,0.0
+DWARKESH,2024-09-05 14:58:00,2024-09-05,2024-09-04,2024-09-04,Promoter Group,Market Purchase,Buy,Equity Shares,11370.0,0.0,0.0,0.0,0.0,27554.0,0.01,38924.0,0.02
+DWARKESH,2026-03-18 14:25:00,2026-03-17,2026-03-17,2026-03-17,Promoters,Market Purchase,Buy,Equity Shares,70654.0,0.0,0.0,0.0,0.0,28112455.0,15.17,28183109.0,15.21
+DWARKESH,2026-03-21 12:18:00,2026-03-21,2026-03-20,2026-03-20,Promoters,Market Purchase,Buy,Equity Shares,12500.0,0.0,0.0,0.0,0.0,28183109.0,15.21,28195609.0,15.22

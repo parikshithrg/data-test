@@ -1,0 +1,8 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+BCG,2016-03-18 09:24:00,2016-03-17,2016-03-16,2016-03-16,Promoters,Market Purchase,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,74777435.0,15.7,74977435.0,15.74
+BCG,2016-03-21 09:27:00,2016-03-19,2016-03-18,2016-03-18,Promoters,Market Purchase,Buy,Equity Shares,64748.0,0.0,0.0,0.0,0.0,74977435.0,15.74,75042183.0,15.76
+BCG,2016-03-31 19:52:00,2016-03-31,2016-03-30,2016-03-30,Promoters,Market Purchase,Buy,Equity Shares,21200.0,0.0,0.0,0.0,0.0,75042183.0,15.756,75063383.0,15.76
+BCG,2016-04-04 11:06:00,2016-04-02,2016-03-31,2016-04-01,Promoters,Market Purchase,Buy,Equity Shares,14320.0,0.0,0.0,0.0,0.0,75063383.0,15.76,75077703.0,15.76
+BCG,2016-11-02 11:45:00,2016-10-25,2016-07-25,2016-07-25,Promoters,Inter-se-Transfer,Sell,Equity Shares,62044564.0,0.0,0.0,0.0,0.0,65865510.0,13.83,3820946.0,0.8
+BCG,2020-08-17 12:21:00,2020-08-14,2020-08-13,2020-08-13,Other,Revokation of Pledge,Pledge Revoke,Equity Shares,2739598.0,0.0,0.0,0.0,0.0,6739598.0,1.33,4000000.0,0.79
+BCG,2020-09-23 20:25:00,2020-09-23,2020-09-23,2020-09-23,Promoters,Market Purchase,Buy,Equity Shares,200000.0,0.0,0.0,0.0,0.0,75084653.0,14.79,75284653.0,14.83

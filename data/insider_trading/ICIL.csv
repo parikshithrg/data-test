@@ -1,0 +1,9 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+ICIL,2016-09-29 18:58:00,2016-09-28,2016-09-26,2016-09-27,Promoter Group,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,307004.0,0.78,304004.0,0.77
+ICIL,2017-04-03 16:25:00,2017-04-03,2017-03-31,2017-03-31,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,308325.0,0.0,0.0,0.0,0.0,308325.0,0.16,,0.0
+ICIL,2020-08-26 13:30:00,2020-08-25,2020-08-13,2020-08-13,Immediate relative,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1500.0,0.0,11500.0,0.0
+ICIL,2020-08-26 13:30:00,2020-08-25,2020-08-17,2020-08-17,Immediate relative,Market Purchase,Buy,Equity Shares,10000.0,0.0,0.0,0.0,0.0,11500.0,0.0,21500.0,0.0
+ICIL,2023-06-13 18:53:00,2023-06-13,2023-06-08,2023-06-12,Immediate relative,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,21500.0,0.01,11500.0,0.01
+ICIL,2023-06-13 18:53:00,2023-06-13,2023-06-09,2023-06-12,Immediate relative,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,6500.0,0.0,3500.0,0.0
+ICIL,2023-11-28 18:30:00,2023-11-27,2023-11-23,2023-11-24,Immediate relative,Market Sale,Sell,Equity Shares,4500.0,0.0,0.0,0.0,0.0,11500.0,0.01,7000.0,0.0
+ICIL,2023-11-28 18:30:00,2023-11-27,2023-11-23,2023-11-24,Immediate relative,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3500.0,0.0,1500.0,0.0

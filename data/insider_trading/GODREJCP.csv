@@ -1,0 +1,102 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+GODREJCP,2016-10-21 18:28:00,2016-10-20,2016-06-02,2016-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,7500.0,0.0,6600.0,0.0
+GODREJCP,2016-12-22 16:06:00,2016-12-22,2016-12-20,2016-12-20,Promoter Group,Off Market,Buy,Equity Shares,4479500.0,0.0,0.0,0.0,0.0,,0.0,4479500.0,1.32
+GODREJCP,2016-12-22 16:06:00,2016-12-22,2016-12-20,2016-12-20,Promoters,Off Market,Sell,Equity Shares,4479500.0,0.0,0.0,0.0,0.0,4479524.0,1.32,24.0,0.0
+GODREJCP,2017-02-23 17:15:00,2017-02-23,2017-02-22,2017-02-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1462.0,0.0,0.0,0.0,0.0,2806.0,0.0,1344.0,0.0
+GODREJCP,2017-03-31 16:29:00,2017-03-31,2017-03-30,2017-03-30,Promoters,Inter-se-Transfer,Sell,Equity Shares,93500000.0,0.0,0.0,0.0,0.0,118503815.0,34.79,25003815.0,7.34
+GODREJCP,2017-03-31 16:29:00,2017-03-30,2017-03-30,2017-03-30,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,93500000.0,0.0,0.0,0.0,0.0,,0.0,93500000.0,27.45
+GODREJCP,2017-09-08 16:40:00,2017-09-08,2017-08-23,2017-09-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2688.0,0.0,0.0,0.0,0.0,4966.0,0.0,2278.0,0.0
+GODREJCP,2017-09-19 11:22:00,2017-09-19,2017-09-18,2017-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8732.0,0.0,0.0,0.0,0.0,16732.0,0.0,8000.0,0.0
+GODREJCP,2018-01-15 10:17:00,2018-01-12,2017-12-28,2017-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1450.0,0.0,0.0,0.0,0.0,20450.0,0.0,19000.0,0.0
+GODREJCP,2018-03-07 17:11:00,2018-03-07,2018-03-06,2018-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2300.0,0.0,0.0,0.0,0.0,23226.0,0.0,20926.0,0.0
+GODREJCP,2019-01-02 18:23:00,2019-01-02,2018-12-03,2018-12-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3240.0,0.0,0.0,0.0,0.0,30930.0,0.0,27690.0,0.0
+GODREJCP,2019-03-08 14:53:00,2019-03-07,2019-03-06,2019-03-06,Promoter Group,Gift,Sell,Equity Shares,370000.0,0.0,0.0,0.0,0.0,3213162.0,0.31,2843162.0,0.28
+GODREJCP,2019-03-08 14:53:00,2019-03-07,2019-03-06,2019-03-06,Promoter Group,Gift,Buy,Equity Shares,370000.0,0.0,0.0,0.0,0.0,,0.0,370000.0,0.04
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Director,Gift,Sell,Equity Shares,2843100.0,0.0,0.0,0.0,0.0,2843162.0,0.28,62.0,0.0
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-23,2019-03-23,Director,Gift,Sell,Equity Shares,2843100.0,0.0,0.0,0.0,0.0,3213183.0,0.31,370083.0,0.04
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,2843100.0,0.0,0.0,0.0,0.0,,0.0,2843100.0,0.28
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-23,2019-03-23,Promoter Group,Gift,Buy,Equity Shares,2843100.0,0.0,0.0,0.0,0.0,,0.0,2843100.0,0.28
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,2752299.0,0.0,0.0,0.0,0.0,,0.0,2752299.0,0.27
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,1312429.0,0.0,0.0,0.0,0.0,,0.0,1312429.0,0.13
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,1312441.0,0.0,0.0,0.0,0.0,,0.0,1312441.0,0.13
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,2624870.0,0.0,0.0,0.0,0.0,3086184.0,0.3,461314.0,0.05
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Director,Gift,Sell,Equity Shares,2752299.0,0.0,0.0,0.0,0.0,2752362.0,0.27,63.0,0.0
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,4820400.0,0.0,0.0,0.0,0.0,4820424.0,0.47,24.0,0.0
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,2901200.0,0.0,0.0,0.0,0.0,2901270.0,0.28,70.0,0.0
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Sell,Equity Shares,2901200.0,0.0,0.0,0.0,0.0,2901264.0,0.28,64.0,0.0
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,2901200.0,0.0,0.0,0.0,0.0,,0.0,2901200.0,0.28
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,2901200.0,0.0,0.0,0.0,0.0,,0.0,2901200.0,0.28
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-22,2019-03-22,Promoter Group,Gift,Buy,Equity Shares,4820400.0,0.0,0.0,0.0,0.0,,0.0,4820400.0,0.47
+GODREJCP,2019-03-27 19:04:00,2019-03-26,2019-03-23,2019-03-23,Director,Gift,Sell,Equity Shares,2843100.0,0.0,0.0,0.0,0.0,3213225.0,0.31,370125.0,0.04
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-29,2019-03-29,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-29,2019-03-29,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-04-02 16:51:00,2019-03-29,2019-03-28,2019-03-28,Promoter Group,Market Purchase,Buy,Equity Shares,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0
+GODREJCP,2019-09-30 19:27:00,2019-09-30,2019-09-27,2019-09-27,Promoter Group,Gift,Sell,Equity Shares,4820350.0,0.0,0.0,0.0,0.0,4820427.0,0.47,77.0,0.0
+GODREJCP,2019-09-30 19:27:00,2019-09-30,2019-09-27,2019-09-27,Promoter Group,Gift,Sell,Equity Shares,4820350.0,0.0,0.0,0.0,0.0,4820400.0,0.47,50.0,0.0
+GODREJCP,2019-09-30 19:27:00,2019-09-30,2019-09-27,2019-09-27,Promoter Group,Gift,Buy,Equity Shares,9640700.0,0.0,0.0,0.0,0.0,,0.0,9640700.0,0.94
+GODREJCP,2020-02-13 17:29:00,2020-02-12,2020-02-12,2020-02-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8000.0,0.0,0.0,0.0,0.0,32249.0,0.0,24249.0,0.0
+GODREJCP,2020-02-13 17:29:00,2020-02-13,2020-02-13,2020-02-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,24249.0,0.0,17249.0,0.0
+GODREJCP,2020-09-28 20:00:00,2020-07-17,2020-07-17,2020-07-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,506.0,0.0,0.0,0.0,0.0,381.0,0.0,887.0,0.0
+GODREJCP,2020-09-28 20:00:00,2020-09-24,2020-08-20,2020-08-20,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,100.0,0.0,0.0,0.0,0.0,887.0,0.0,987.0,0.0
+GODREJCP,2020-09-28 20:00:00,2020-09-24,2020-08-31,2020-08-31,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,480.0,0.0,0.0,0.0,0.0,987.0,0.0,1467.0,0.0
+GODREJCP,2020-09-28 20:00:00,2020-09-24,2020-09-02,2020-09-02,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,1467.0,0.0,1767.0,0.0
+GODREJCP,2020-09-28 20:00:00,2020-09-24,2020-09-09,2020-09-09,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,300.0,0.0,0.0,0.0,0.0,1767.0,0.0,2067.0,0.0
+GODREJCP,2020-09-28 20:00:00,2020-09-24,2020-09-14,2020-09-14,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,200.0,0.0,0.0,0.0,0.0,2067.0,0.0,2267.0,0.0
+GODREJCP,2020-09-28 20:00:00,2020-09-24,2020-09-22,2020-09-22,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1110.0,0.0,0.0,0.0,0.0,2267.0,0.0,3377.0,0.0
+GODREJCP,2020-09-30 20:58:00,2020-09-29,2020-09-29,2020-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,28724.0,0.0,28124.0,0.0
+GODREJCP,2020-09-30 20:58:00,2020-09-29,2020-08-13,2020-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,29424.0,0.0,29224.0,0.0
+GODREJCP,2020-09-30 20:58:00,2020-07-17,2020-07-17,2020-07-17,Employees/Designated Employees,ESOP,Buy,Equity Shares,2665.0,0.0,0.0,0.0,0.0,27059.0,0.0,29724.0,0.0
+GODREJCP,2020-09-30 20:58:00,2020-09-29,2020-09-28,2020-09-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,29224.0,0.0,28724.0,0.0
+GODREJCP,2020-09-30 20:58:00,2020-09-30,2020-09-30,2020-09-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4900.0,0.0,0.0,0.0,0.0,28124.0,0.0,23224.0,0.0
+GODREJCP,2020-09-30 20:58:00,2020-09-29,2020-08-13,2020-08-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,29724.0,0.0,29424.0,0.0
+GODREJCP,2020-12-22 15:59:00,2020-12-21,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,594.0,0.0,0.0,0.0,0.0,4070.0,0.0,3476.0,0.0
+GODREJCP,2020-12-22 15:59:00,2020-12-21,2020-12-21,2020-12-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,3476.0,0.0,1776.0,0.0
+GODREJCP,2020-12-30 12:29:00,2020-12-29,2020-12-29,2020-12-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,24107.0,0.0,10107.0,0.0
+GODREJCP,2021-02-17 19:38:00,2021-02-17,2021-02-15,2021-02-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,21380.0,0.0,11380.0,0.0
+GODREJCP,2021-02-17 19:38:00,2021-02-17,2021-02-11,2021-02-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,31380.0,0.0,21380.0,0.0
+GODREJCP,2021-02-19 16:28:00,2021-02-18,2021-02-18,2021-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8500.0,0.0,0.0,0.0,0.0,10694.0,0.0,2194.0,0.0
+GODREJCP,2021-02-19 16:28:00,2021-02-19,2021-02-18,2021-02-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,11380.0,0.0,1380.0,0.0
+GODREJCP,2021-04-30 19:05:00,2021-04-29,2020-12-24,2020-12-24,-,Market Sale,Sell,Equity Shares,730.0,0.0,0.0,0.0,0.0,730.0,0.0,,0.0
+GODREJCP,2021-04-30 19:05:00,2021-04-29,2020-12-24,2020-12-24,-,Market Purchase,Buy,Equity Shares,730.0,0.0,0.0,0.0,0.0,,0.0,730.0,0.0
+GODREJCP,2021-04-30 19:05:00,2021-04-29,2020-12-24,2020-12-24,-,Market Sale,Sell,Equity Shares,730.0,0.0,0.0,0.0,0.0,730.0,0.0,,0.0
+GODREJCP,2021-04-30 19:05:00,2021-04-29,2020-12-24,2020-12-24,-,Market Purchase,Buy,Equity Shares,730.0,0.0,0.0,0.0,0.0,,0.0,730.0,0.0
+GODREJCP,2021-05-15 11:58:00,2021-05-13,2021-05-12,2021-05-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1573.0,0.0,0.0,0.0,0.0,1573.0,0.0,,0.0
+GODREJCP,2021-05-28 18:57:00,2021-05-27,2021-05-25,2021-05-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3322.0,0.0,0.0,0.0,0.0,18270.0,0.0,14948.0,0.0
+GODREJCP,2021-06-01 20:49:00,2021-05-31,2021-05-28,2021-05-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,14948.0,0.0,11948.0,0.0
+GODREJCP,2021-06-10 18:37:00,2021-06-07,2021-05-19,2021-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,22000.0,0.0,20400.0,0.0
+GODREJCP,2021-06-11 11:22:00,2021-06-10,2021-06-08,2021-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,20400.0,0.0,18700.0,0.0
+GODREJCP,2021-06-16 13:30:00,2021-06-14,2021-06-11,2021-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1150.0,0.0,0.0,0.0,0.0,1473.0,0.0,323.0,0.0
+GODREJCP,2021-06-16 13:30:00,2021-06-14,2021-06-11,2021-06-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1800.0,0.0,0.0,0.0,0.0,18700.0,0.0,16900.0,0.0
+GODREJCP,2021-06-16 13:30:00,2021-06-16,2021-06-16,2021-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2700.0,0.0,0.0,0.0,0.0,40003.0,0.0,37303.0,0.0
+GODREJCP,2022-06-09 17:25:00,2022-06-07,2022-06-06,2022-06-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,14752.0,0.0,9752.0,0.0
+GODREJCP,2022-06-09 17:25:00,2022-06-07,2022-06-07,2022-06-07,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,12500.0,0.0,0.0,0.0,0.0,6200.0,0.0,18700.0,0.0
+GODREJCP,2022-06-09 17:25:00,2022-06-07,2022-06-07,2022-06-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,9752.0,0.0,7252.0,0.0
+GODREJCP,2022-06-09 17:25:00,2022-06-07,2022-06-06,2022-06-06,Immediate relative,Market Sale,Sell,Equity Shares,4070.0,0.0,0.0,0.0,0.0,4070.0,0.0,,0.0
+GODREJCP,2022-06-13 19:57:00,2022-06-10,2022-06-07,2022-06-09,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,1500.0,0.0,0.0,0.0,0.0,18700.0,0.0,20200.0,0.0
+GODREJCP,2022-06-16 17:57:00,2022-06-14,2022-06-07,2022-06-13,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,6000.0,0.0,8000.0,0.0
+GODREJCP,2022-08-12 19:44:00,2022-08-10,2022-08-08,2022-08-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,19171.0,0.0,0.0,0.0,0.0,19171.0,0.0,,0.0
+GODREJCP,2022-12-06 12:53:00,2022-12-05,2022-12-03,2022-12-03,Key Managerial Personnel,Pledge Creation,Pledge,Equity Shares,53000.0,0.0,0.0,0.0,0.0,60364.0,0.01,60364.0,0.01
+GODREJCP,2023-12-18 17:01:00,2023-12-14,2023-12-06,2023-12-06,-,Market Sale,Sell,Equity Shares,5327.0,0.0,0.0,0.0,0.0,10877.0,0.0,5550.0,0.0
+GODREJCP,2023-12-22 15:59:00,2023-12-21,2023-12-20,2023-12-20,Promoter Group,Gift,Sell,Equity Shares,9640700.0,0.0,0.0,0.0,0.0,9640700.0,0.94,,0.0
+GODREJCP,2023-12-22 15:59:00,2023-12-21,2023-12-20,2023-12-20,Promoter Group,Gift,Buy,Equity Shares,4820350.0,0.0,0.0,0.0,0.0,1.0,0.0,4820351.0,0.47
+GODREJCP,2023-12-22 15:59:00,2023-12-21,2023-12-20,2023-12-20,Promoter Group,Gift,Buy,Equity Shares,4820350.0,0.0,0.0,0.0,0.0,1.0,0.0,4820351.0,0.47
+GODREJCP,2023-12-29 17:18:00,2023-12-28,2023-12-28,2023-12-28,-,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,19797.0,0.0,14797.0,0.0
+GODREJCP,2024-03-20 14:22:00,2024-03-19,2024-03-18,2024-03-18,-,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,5550.0,0.0,2550.0,0.0

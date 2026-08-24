@@ -1,0 +1,441 @@
+symbol,filing_date,intim_date,acq_from_date,acq_to_date,person_category,acq_mode,transaction_type,sec_type,security_acquired_disposed,buy_quantity,sell_quantity,buy_value,sell_value,shares_before_no,shares_before_pct,shares_after_no,shares_after_pct
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Other,ESOP,Buy,Equity Shares,39000.0,0.0,0.0,0.0,0.0,,0.0,39000.0,0.08
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,55106.0,0.0,0.0,0.0,0.0,,0.0,55106.0,0.11
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,5497.0,0.0,0.0,0.0,0.0,,0.0,5497.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,5850.0,0.0,0.0,0.0,0.0,,0.0,5850.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,19500.0,0.0,0.0,0.0,0.0,,0.0,19500.0,0.04
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,39000.0,0.0,0.0,0.0,0.0,38052.0,0.08,77052.0,0.08
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,5511.0,0.0,0.0,0.0,0.0,,0.0,5511.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,3900.0,0.0,0.0,0.0,0.0,,0.0,3900.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,31200.0,0.0,0.0,0.0,0.0,,0.0,31200.0,0.06
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,23400.0,0.0,0.0,0.0,0.0,,0.0,23400.0,0.05
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,3900.0,0.0,0.0,0.0,0.0,,0.0,3900.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,3900.0,0.0,0.0,0.0,0.0,,0.0,3900.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,3900.0,0.0,0.0,0.0,0.0,,0.0,3900.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Other,ESOP,Buy,Equity Shares,20800.0,0.0,0.0,0.0,0.0,,0.0,20800.0,0.04
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,26000.0,0.0,0.0,0.0,0.0,,0.0,26000.0,0.05
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Other,ESOP,Buy,Equity Shares,4875.0,0.0,0.0,0.0,0.0,,0.0,4875.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,9750.0,0.0,0.0,0.0,0.0,,0.0,9750.0,0.02
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,3900.0,0.0,0.0,0.0,0.0,,0.0,3900.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,3900.0,0.0,0.0,0.0,0.0,,0.0,3900.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,2600.0,0.0,0.0,0.0,0.0,,0.0,2600.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,3000.0,0.0,0.0,0.0,0.0,,0.0,3000.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,3900.0,0.0,0.0,0.0,0.0,,0.0,3900.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,3500.0,0.0,0.0,0.0,0.0,,0.0,3500.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,9750.0,0.0,0.0,0.0,0.0,,0.0,9750.0,0.02
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,1800.0,0.0,0.0,0.0,0.0,,0.0,1800.0,0.0
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Other,ESOP,Buy,Equity Shares,2340.0,0.0,0.0,0.0,0.0,,0.0,2340.0,0.0
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Other,ESOP,Buy,Equity Shares,1405.0,0.0,0.0,0.0,0.0,,0.0,1405.0,0.0
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,5302.0,0.0,0.0,0.0,0.0,,0.0,5302.0,0.01
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,45000.0,0.0,0.0,0.0,0.0,,0.0,45000.0,0.09
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,62400.0,0.0,0.0,0.0,0.0,,0.0,62400.0,0.12
+METROPOLIS,2020-02-28 14:01:00,2020-02-26,2020-02-25,2020-02-25,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,,0.0,1000.0,0.0
+METROPOLIS,2020-02-28 18:47:00,2020-02-28,2020-02-25,2020-02-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,38052.0,0.08,37552.0,0.08
+METROPOLIS,2020-02-28 18:47:00,2020-02-28,2020-02-26,2020-02-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,37552.0,0.08,37052.0,0.08
+METROPOLIS,2020-03-04 18:10:00,2020-03-02,2020-02-28,2020-02-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1200.0,0.0,0.0,0.0,0.0,37052.0,0.07,35852.0,0.07
+METROPOLIS,2020-03-04 18:10:00,2020-03-04,2020-03-02,2020-03-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2100.0,0.0,0.0,0.0,0.0,35852.0,0.07,33752.0,0.07
+METROPOLIS,2020-03-11 19:18:00,2020-03-09,2020-03-06,2020-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,13000.0,0.0,0.0,0.0,0.0,45000.0,0.09,32000.0,0.06
+METROPOLIS,2020-03-11 19:18:00,2020-03-11,2020-03-09,2020-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5511.0,0.01,4511.0,0.01
+METROPOLIS,2020-03-11 19:18:00,2020-03-09,2020-03-09,2020-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,31200.0,0.06,30700.0,0.06
+METROPOLIS,2020-03-11 19:18:00,2020-03-11,2020-03-09,2020-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,26000.0,0.05,25000.0,0.05
+METROPOLIS,2020-03-11 19:18:00,2020-03-11,2020-03-11,2020-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,2340.0,0.0,1640.0,0.0
+METROPOLIS,2020-03-11 19:18:00,2020-03-09,2020-03-06,2020-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,950.0,0.0,0.0,0.0,0.0,1000.0,0.0,50.0,0.0
+METROPOLIS,2020-03-11 19:18:00,2020-03-11,2020-03-09,2020-03-09,Other,Market Sale,Sell,Equity Shares,1255.0,0.0,0.0,0.0,0.0,1405.0,0.0,150.0,0.0
+METROPOLIS,2020-03-11 19:18:00,2020-03-11,2020-03-11,2020-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,19500.0,0.04,19000.0,0.04
+METROPOLIS,2020-03-11 19:18:00,2020-03-11,2020-03-11,2020-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,30700.0,0.06,27700.0,0.05
+METROPOLIS,2020-03-11 19:18:00,2020-03-08,2020-03-06,2020-03-06,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,3900.0,0.01,2400.0,0.0
+METROPOLIS,2020-03-12 19:43:00,2020-03-12,2020-03-09,2020-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,1640.0,0.0,340.0,0.0
+METROPOLIS,2020-03-12 19:43:00,2020-03-11,2020-03-06,2020-03-06,Other,Market Sale,Sell,Equity Shares,17110.0,0.0,0.0,0.0,0.0,20800.0,0.04,3690.0,0.01
+METROPOLIS,2020-03-12 19:43:00,2020-03-11,2020-03-09,2020-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,9750.0,0.02,3750.0,0.01
+METROPOLIS,2020-03-12 19:43:00,2020-03-12,2020-03-11,2020-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,3900.0,0.01,3650.0,0.01
+METROPOLIS,2020-03-12 19:43:00,2020-03-12,2020-03-11,2020-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,182.0,0.0,0.0,0.0,0.0,5497.0,0.01,5315.0,0.01
+METROPOLIS,2020-03-12 19:43:00,2020-03-12,2020-03-09,2020-03-09,Other,Market Sale,Sell,Equity Shares,3600.0,0.0,0.0,0.0,0.0,3690.0,0.01,90.0,0.0
+METROPOLIS,2020-03-12 19:43:00,2020-03-12,2020-03-11,2020-03-11,Other,Market Sale,Sell,Equity Shares,1304.0,0.0,0.0,0.0,0.0,25000.0,0.05,23696.0,0.05
+METROPOLIS,2020-03-12 19:43:00,2020-03-11,2020-03-11,2020-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2600.0,0.01,2100.0,0.0
+METROPOLIS,2020-03-12 19:43:00,2020-03-12,2020-03-09,2020-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5500.0,0.0,0.0,0.0,0.0,5850.0,0.01,350.0,0.0
+METROPOLIS,2020-03-12 19:43:00,2020-03-12,2020-03-11,2020-03-11,Other,Market Sale,Sell,Equity Shares,1900.0,0.0,0.0,0.0,0.0,4511.0,0.01,2611.0,0.01
+METROPOLIS,2020-03-12 19:43:00,2020-03-12,2020-03-11,2020-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,32000.0,0.06,31000.0,0.06
+METROPOLIS,2020-03-12 19:43:00,2020-03-12,2020-03-09,2020-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,23400.0,0.0,0.0,0.0,0.0,23400.0,0.05,,0.0
+METROPOLIS,2020-03-13 18:27:00,2020-03-13,2020-03-12,2020-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,110.0,0.0,0.0,0.0,0.0,5315.0,0.01,5205.0,0.01
+METROPOLIS,2020-03-13 18:27:00,2020-03-13,2020-03-13,2020-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,5205.0,0.01,4955.0,0.01
+METROPOLIS,2020-03-13 18:27:00,2020-03-13,2020-03-12,2020-03-12,Other,Market Sale,Sell,Equity Shares,1375.0,0.0,0.0,0.0,0.0,4875.0,0.01,3500.0,0.01
+METROPOLIS,2020-03-13 18:27:00,2020-03-12,2020-03-11,2020-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,2400.0,0.0,1750.0,0.0
+METROPOLIS,2020-03-13 18:27:00,2020-03-13,2020-03-11,2020-03-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,23696.0,0.05,22696.0,0.04
+METROPOLIS,2020-03-16 17:48:00,2020-03-14,2020-03-12,2020-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,96.0,0.0,0.0,0.0,0.0,3500.0,0.01,3404.0,0.01
+METROPOLIS,2020-03-16 17:48:00,2020-03-14,2020-03-13,2020-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3404.0,0.0,0.0,0.0,0.0,3404.0,0.01,,0.0
+METROPOLIS,2020-03-17 18:14:00,2020-03-16,2020-03-16,2020-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,19000.0,0.04,18800.0,0.04
+METROPOLIS,2020-03-17 18:14:00,2020-03-16,2020-03-16,2020-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,22696.0,0.04,21696.0,0.04
+METROPOLIS,2020-03-17 18:14:00,2020-03-17,2020-03-16,2020-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3900.0,0.01,3700.0,0.01
+METROPOLIS,2020-03-17 18:14:00,2020-03-17,2020-03-16,2020-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3650.0,0.01,3350.0,0.01
+METROPOLIS,2020-03-17 18:14:00,2020-03-17,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,18800.0,0.04,18300.0,0.04
+METROPOLIS,2020-03-19 17:36:00,2020-03-18,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3700.0,0.01,3200.0,0.01
+METROPOLIS,2020-03-19 17:36:00,2020-03-18,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,21696.0,0.04,15696.0,0.03
+METROPOLIS,2020-03-19 17:36:00,2020-03-18,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3350.0,0.01,3250.0,0.01
+METROPOLIS,2020-03-19 17:36:00,2020-03-18,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2774.0,0.0,0.0,0.0,0.0,5207.0,0.01,2433.0,0.0
+METROPOLIS,2020-03-19 17:36:00,2020-03-17,2020-03-13,2020-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,95.0,0.0,0.0,0.0,0.0,5302.0,0.01,5207.0,0.01
+METROPOLIS,2020-03-19 17:36:00,2020-03-18,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,4955.0,0.01,4705.0,0.01
+METROPOLIS,2020-03-19 17:36:00,2020-03-18,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3331.0,0.0,0.0,0.0,0.0,27700.0,0.05,24369.0,0.05
+METROPOLIS,2020-03-19 17:36:00,2020-03-18,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,527.0,0.0,0.0,0.0,0.0,2100.0,0.0,1573.0,0.0
+METROPOLIS,2020-03-20 21:39:00,2020-03-20,2020-03-19,2020-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,3200.0,0.01,3100.0,0.01
+METROPOLIS,2020-03-20 21:39:00,2020-03-19,2020-03-18,2020-03-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,794.0,0.0,0.0,0.0,0.0,4705.0,0.01,3911.0,0.01
+METROPOLIS,2020-03-20 21:39:00,2020-03-20,2020-03-19,2020-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,18300.0,0.04,18100.0,0.04
+METROPOLIS,2020-03-20 21:39:00,2020-03-20,2020-03-19,2020-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,15696.0,0.03,9696.0,0.02
+METROPOLIS,2020-03-20 21:39:00,2020-03-19,2020-03-18,2020-03-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,335.0,0.0,0.0,0.0,0.0,1573.0,0.0,1238.0,0.0
+METROPOLIS,2020-03-20 21:39:00,2020-03-20,2020-03-09,2020-03-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,11000.0,0.0,0.0,0.0,0.0,31000.0,0.06,20000.0,0.04
+METROPOLIS,2020-03-20 21:39:00,2020-03-20,2020-03-19,2020-03-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3250.0,0.01,3050.0,0.01
+METROPOLIS,2020-03-20 21:39:00,2020-03-20,2020-03-12,2020-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,76.0,0.0,0.0,0.0,0.0,3900.0,0.01,3824.0,0.01
+METROPOLIS,2020-03-20 21:39:00,2020-03-20,2020-03-13,2020-03-13,Employees/Designated Employees,Market Sale,Sell,Equity Shares,511.0,0.0,0.0,0.0,0.0,3824.0,0.01,3313.0,0.01
+METROPOLIS,2020-03-20 21:39:00,2020-03-20,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3313.0,0.01,2313.0,0.0
+METROPOLIS,2020-03-20 21:39:00,2020-03-20,2020-03-12,2020-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2433.0,0.0,1933.0,0.0
+METROPOLIS,2020-03-20 21:39:00,2020-03-20,2020-03-19,2020-03-19,Other,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,39000.0,0.08,38400.0,0.08
+METROPOLIS,2020-03-23 20:09:00,2020-03-23,2020-03-20,2020-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,3100.0,0.01,2700.0,0.01
+METROPOLIS,2020-03-23 20:09:00,2020-03-21,2020-03-20,2020-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,18100.0,0.04,17200.0,0.03
+METROPOLIS,2020-03-23 20:09:00,2020-03-13,2020-03-12,2020-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,9696.0,0.02,8696.0,0.02
+METROPOLIS,2020-03-23 20:09:00,2020-03-23,2020-03-16,2020-03-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1185.0,0.0,685.0,0.0
+METROPOLIS,2020-03-23 20:09:00,2020-03-21,2020-03-20,2020-03-20,Other,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,38400.0,0.08,37600.0,0.07
+METROPOLIS,2020-03-23 20:09:00,2020-03-21,2020-03-20,2020-03-20,Other,Market Sale,Sell,Equity Shares,1300.0,0.0,0.0,0.0,0.0,2611.0,0.01,1311.0,0.0
+METROPOLIS,2020-03-23 20:09:00,2020-03-23,2020-03-20,2020-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,3050.0,0.01,2650.0,0.01
+METROPOLIS,2020-03-23 20:09:00,2020-03-23,2020-03-20,2020-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,73.0,0.0,0.0,0.0,0.0,8696.0,0.02,8623.0,0.02
+METROPOLIS,2020-03-23 20:09:00,2020-03-23,2020-03-20,2020-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,2850.0,0.01,2450.0,0.0
+METROPOLIS,2020-03-23 20:09:00,2020-03-23,2020-03-12,2020-03-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3900.0,0.01,3400.0,0.01
+METROPOLIS,2020-03-24 20:50:00,2020-03-24,2020-03-23,2020-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,423.0,0.0,0.0,0.0,0.0,24369.0,0.05,23946.0,0.05
+METROPOLIS,2020-03-24 20:50:00,2020-03-23,2020-03-20,2020-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,755.0,0.0,0.0,0.0,0.0,17200.0,0.03,16445.0,0.03
+METROPOLIS,2020-03-24 20:50:00,2020-03-24,2020-03-23,2020-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,320.0,0.0,0.0,0.0,0.0,3911.0,0.01,3591.0,0.01
+METROPOLIS,2020-03-24 20:50:00,2020-03-24,2020-03-23,2020-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1900.0,0.0,0.0,0.0,0.0,14445.0,0.03,12545.0,0.02
+METROPOLIS,2020-03-24 20:50:00,2020-03-24,2020-03-23,2020-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,16445.0,0.03,14445.0,0.03
+METROPOLIS,2020-03-26 20:53:00,2020-03-26,2020-03-25,2020-03-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,4205.0,0.0,0.0,0.0,0.0,16946.0,0.03,12741.0,0.03
+METROPOLIS,2020-03-26 20:53:00,2020-03-26,2020-03-24,2020-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,7000.0,0.0,0.0,0.0,0.0,23946.0,0.03,16946.0,0.03
+METROPOLIS,2020-03-26 20:53:00,2020-03-25,2020-03-24,2020-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,9750.0,0.02,7750.0,0.02
+METROPOLIS,2020-03-26 20:53:00,2020-03-25,2020-03-24,2020-03-24,Other,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,37600.0,0.06,31600.0,0.06
+METROPOLIS,2020-03-26 20:53:00,2020-03-26,2020-03-25,2020-03-25,Other,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3500.0,0.01,3300.0,0.01
+METROPOLIS,2020-03-26 20:53:00,2020-03-26,2020-03-17,2020-03-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,55106.0,0.11,54706.0,0.11
+METROPOLIS,2020-03-26 20:53:00,2020-03-26,2020-03-18,2020-03-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,54706.0,0.1,53106.0,0.1
+METROPOLIS,2020-03-26 20:53:00,2020-03-26,2020-03-20,2020-03-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,53106.0,0.1,49606.0,0.1
+METROPOLIS,2020-03-26 20:53:00,2020-03-26,2020-03-23,2020-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2400.0,0.0,0.0,0.0,0.0,49606.0,0.09,47206.0,0.09
+METROPOLIS,2020-03-27 20:47:00,2020-03-27,2020-03-26,2020-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,2700.0,0.01,1900.0,0.0
+METROPOLIS,2020-03-27 20:47:00,2020-03-27,2020-03-26,2020-03-26,Other,Market Sale,Sell,Equity Shares,311.0,0.0,0.0,0.0,0.0,1311.0,0.0,1000.0,0.0
+METROPOLIS,2020-03-27 20:47:00,2020-03-27,2020-03-26,2020-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,47206.0,0.09,44206.0,0.09
+METROPOLIS,2020-03-30 19:59:00,2020-03-26,2020-03-24,2020-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1975.0,0.0,0.0,0.0,0.0,3900.0,0.01,1925.0,0.0
+METROPOLIS,2020-03-30 19:59:00,2020-03-28,2020-03-26,2020-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1977.0,0.0,0.0,0.0,0.0,12741.0,0.03,10764.0,0.02
+METROPOLIS,2020-03-30 19:59:00,2020-03-28,2020-03-27,2020-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,44206.0,0.09,44056.0,0.09
+METROPOLIS,2020-03-30 19:59:00,2020-03-28,2020-03-27,2020-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3301.0,0.0,0.0,0.0,0.0,10764.0,0.02,7463.0,0.01
+METROPOLIS,2020-04-01 21:55:00,2020-03-31,2020-03-31,2020-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1663.0,0.0,0.0,0.0,0.0,5163.0,0.01,3500.0,0.01
+METROPOLIS,2020-04-01 21:55:00,2020-03-30,2020-03-26,2020-03-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,3400.0,0.01,900.0,0.0
+METROPOLIS,2020-04-01 21:55:00,2020-04-01,2020-03-31,2020-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,460.0,0.0,0.0,0.0,0.0,1900.0,0.0,1440.0,0.0
+METROPOLIS,2020-04-01 21:55:00,2020-04-01,2020-03-31,2020-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2250.0,0.0,1950.0,0.0
+METROPOLIS,2020-04-01 21:55:00,2020-03-31,2020-03-31,2020-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,12545.0,0.01,10345.0,0.01
+METROPOLIS,2020-04-01 21:55:00,2020-03-31,2020-03-31,2020-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,474.0,0.0,0.0,0.0,0.0,10345.0,0.01,9871.0,0.02
+METROPOLIS,2020-04-01 21:55:00,2020-03-30,2020-03-24,2020-03-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,3500.0,0.01,,0.0
+METROPOLIS,2020-04-01 21:55:00,2020-03-31,2020-03-30,2020-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,29411.0,0.0,0.0,0.0,0.0,44056.0,0.09,14645.0,0.03
+METROPOLIS,2020-04-01 21:55:00,2020-03-31,2020-03-27,2020-03-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2450.0,0.0,2250.0,0.0
+METROPOLIS,2020-04-01 21:55:00,2020-03-31,2020-03-30,2020-03-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2300.0,0.0,0.0,0.0,0.0,7463.0,0.01,5163.0,0.01
+METROPOLIS,2020-04-01 21:55:00,2020-04-01,2020-03-31,2020-03-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,8623.0,0.0,0.0,0.0,0.0,8623.0,0.02,,0.0
+METROPOLIS,2020-04-03 21:19:00,2020-04-02,2020-03-23,2020-03-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3899.0,0.0,0.0,0.0,0.0,9851.0,0.02,5952.0,0.01
+METROPOLIS,2020-05-20 18:33:00,2020-05-19,2020-05-18,2020-05-18,Key Managerial Personnel,ESOP,Buy,Equity Shares,51096.0,0.0,0.0,0.0,0.0,20000.0,0.0,71096.0,0.0
+METROPOLIS,2020-06-03 17:36:00,2020-06-03,2020-06-02,2020-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,4202.0,0.01,3452.0,0.01
+METROPOLIS,2020-06-03 17:36:00,2020-06-02,2020-06-01,2020-06-01,Other,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,3300.0,0.01,3100.0,0.01
+METROPOLIS,2020-06-03 17:36:00,2020-06-02,2020-06-01,2020-06-01,Other,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,31600.0,0.06,31200.0,0.06
+METROPOLIS,2020-06-03 17:36:00,2020-06-02,2020-06-01,2020-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5452.0,0.01,4952.0,0.01
+METROPOLIS,2020-06-03 17:36:00,2020-06-02,2020-06-01,2020-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,5952.0,0.01,5452.0,0.01
+METROPOLIS,2020-06-03 17:36:00,2020-06-02,2020-06-01,2020-06-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1325.0,0.0,0.0,0.0,0.0,3591.0,0.01,2266.0,0.0
+METROPOLIS,2020-06-03 17:36:00,2020-06-03,2020-06-02,2020-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,4952.0,0.01,4202.0,0.01
+METROPOLIS,2020-06-03 17:36:00,2020-06-02,2020-06-02,2020-06-02,Other,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3100.0,0.01,2800.0,0.01
+METROPOLIS,2020-06-05 22:01:00,2020-06-04,2020-06-03,2020-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,2702.0,0.0,1952.0,0.0
+METROPOLIS,2020-06-05 22:01:00,2020-06-05,2020-06-05,2020-06-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14741.0,0.03,13741.0,0.03
+METROPOLIS,2020-06-05 22:01:00,2020-06-04,2020-06-03,2020-06-03,Other,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,2800.0,0.01,2500.0,0.0
+METROPOLIS,2020-06-05 22:01:00,2020-06-04,2020-06-03,2020-06-03,Other,Market Sale,Sell,Equity Shares,1095.0,0.0,0.0,0.0,0.0,31200.0,0.06,30105.0,0.06
+METROPOLIS,2020-06-05 22:01:00,2020-06-04,2020-06-03,2020-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5300.0,0.0,0.0,0.0,0.0,20041.0,0.04,14741.0,0.03
+METROPOLIS,2020-06-05 22:01:00,2020-06-04,2020-06-03,2020-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,750.0,0.0,0.0,0.0,0.0,3452.0,0.01,2702.0,0.0
+METROPOLIS,2020-06-05 22:01:00,2020-06-04,2020-06-02,2020-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,23541.0,0.05,20041.0,0.04
+METROPOLIS,2020-06-08 20:23:00,2020-06-06,2020-06-05,2020-06-05,Other,Market Sale,Sell,Equity Shares,2405.0,0.0,0.0,0.0,0.0,30105.0,0.06,27700.0,0.05
+METROPOLIS,2020-06-08 20:23:00,2020-06-06,2020-06-05,2020-06-05,Other,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,2500.0,0.0,2000.0,0.0
+METROPOLIS,2020-06-08 20:23:00,2020-06-05,2020-06-04,2020-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,387.0,0.0,0.0,0.0,0.0,1950.0,0.0,1563.0,0.0
+METROPOLIS,2020-06-08 20:23:00,2020-06-05,2020-06-04,2020-06-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,1750.0,0.0,1700.0,0.0
+METROPOLIS,2020-06-08 20:23:00,2020-06-05,2020-06-05,2020-06-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,185.0,0.0,0.0,0.0,0.0,685.0,0.0,500.0,0.0
+METROPOLIS,2020-06-08 20:23:00,2020-06-06,2020-06-05,2020-06-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1952.0,0.0,1702.0,0.0
+METROPOLIS,2020-06-08 20:23:00,2020-06-05,2020-06-05,2020-06-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1563.0,0.0,1463.0,0.0
+METROPOLIS,2020-06-08 20:23:00,2020-06-06,2020-06-05,2020-06-05,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1702.0,0.0,1452.0,0.0
+METROPOLIS,2020-06-08 23:01:00,2020-06-05,2020-06-03,2020-06-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,400.0,0.0,,0.0
+METROPOLIS,2020-06-08 23:01:00,2020-06-04,2020-06-02,2020-06-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,900.0,0.0,400.0,0.0
+METROPOLIS,2020-06-10 18:35:00,2020-06-09,2020-06-08,2020-06-08,Other,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,27700.0,0.05,27000.0,0.05
+METROPOLIS,2020-06-10 18:35:00,2020-06-09,2020-06-08,2020-06-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1440.0,0.0,1340.0,0.0
+METROPOLIS,2020-06-10 18:35:00,2020-06-09,2020-06-08,2020-06-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1452.0,0.0,1202.0,0.0
+METROPOLIS,2020-06-10 18:35:00,2020-06-09,2020-06-08,2020-06-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,1202.0,0.0,952.0,0.0
+METROPOLIS,2020-06-11 18:36:00,2020-06-11,2020-06-10,2020-06-10,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,46096.0,0.09,41096.0,0.08
+METROPOLIS,2020-06-11 18:36:00,2020-06-11,2020-06-09,2020-06-09,Key Managerial Personnel,Market Sale,Sell,Equity Shares,14000.0,0.0,0.0,0.0,0.0,60096.0,0.12,46096.0,0.09
+METROPOLIS,2020-06-11 18:36:00,2020-06-09,2020-06-08,2020-06-08,Key Managerial Personnel,Market Sale,Sell,Equity Shares,11000.0,0.0,0.0,0.0,0.0,71096.0,0.14,60096.0,0.12
+METROPOLIS,2020-06-13 19:08:00,2020-06-12,2020-06-11,2020-06-11,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1725.0,0.0,0.0,0.0,0.0,41096.0,0.08,39371.0,0.08
+METROPOLIS,2020-06-13 19:08:00,2020-06-12,2020-06-11,2020-06-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,1340.0,0.0,1190.0,0.0
+METROPOLIS,2020-06-13 19:08:00,2020-06-12,2020-06-10,2020-06-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,1463.0,0.0,1413.0,0.0
+METROPOLIS,2020-06-13 19:08:00,2020-06-11,2020-06-09,2020-06-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,13741.0,0.03,12741.0,0.03
+METROPOLIS,2020-06-15 18:14:00,2020-06-15,2020-06-12,2020-06-12,Employees/Designated Employees,Market Sale,Sell,Equity Shares,350.0,0.0,0.0,0.0,0.0,1190.0,0.0,840.0,0.0
+METROPOLIS,2020-06-15 18:14:00,2020-06-13,2020-06-12,2020-06-12,Other,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,27000.0,0.05,26100.0,0.05
+METROPOLIS,2020-06-17 20:03:00,2020-06-16,2020-06-12,2020-06-12,Key Managerial Personnel,Market Sale,Sell,Equity Shares,3200.0,0.0,0.0,0.0,0.0,39371.0,0.08,36171.0,0.07
+METROPOLIS,2020-06-17 20:03:00,2020-06-16,2020-06-15,2020-06-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,840.0,0.0,740.0,0.0
+METROPOLIS,2020-06-19 21:12:00,2020-06-17,2020-06-15,2020-06-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1413.0,0.0,1313.0,0.0
+METROPOLIS,2020-06-19 21:12:00,2020-06-18,2020-06-16,2020-06-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,1313.0,0.0,1163.0,0.0
+METROPOLIS,2020-06-19 21:12:00,2020-06-18,2020-06-17,2020-06-17,Other,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,26100.0,0.05,25600.0,0.05
+METROPOLIS,2020-06-20 19:10:00,2020-06-20,2020-06-19,2020-06-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,33222.0,0.07,32722.0,0.06
+METROPOLIS,2020-06-20 19:10:00,2020-06-19,2020-06-18,2020-06-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,33722.0,0.07,33222.0,0.07
+METROPOLIS,2020-06-20 19:10:00,2020-06-10,2020-06-08,2020-06-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30.0,0.0,0.0,0.0,0.0,33752.0,0.07,33722.0,0.07
+METROPOLIS,2020-06-20 19:10:00,2020-06-19,2020-06-17,2020-06-17,Key Managerial Personnel,Market Sale,Sell,Equity Shares,16171.0,0.0,0.0,0.0,0.0,36171.0,0.07,20000.0,0.04
+METROPOLIS,2020-06-23 19:48:00,2020-06-23,2020-06-22,2020-06-22,Other,Market Sale,Sell,Equity Shares,138.0,0.0,0.0,0.0,0.0,23600.0,0.05,23462.0,0.05
+METROPOLIS,2020-06-23 19:48:00,2020-06-23,2020-06-22,2020-06-22,Employees/Designated Employees,Market Sale,Sell,Equity Shares,38.0,0.0,0.0,0.0,0.0,1238.0,0.0,1200.0,0.0
+METROPOLIS,2020-06-23 19:48:00,2020-06-22,2020-06-08,2020-06-19,Other,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,2000.0,0.0,500.0,0.0
+METROPOLIS,2020-06-23 19:48:00,2020-06-22,2020-06-18,2020-06-19,Other,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,25600.0,0.05,23600.0,0.05
+METROPOLIS,2020-06-26 17:57:00,2020-06-26,2020-06-24,2020-06-24,Promoter Group,Market Sale,Sell,Equity Shares,3054545.0,0.0,0.0,0.0,0.0,9209230.0,18.17,6154685.0,12.14
+METROPOLIS,2020-07-09 18:56:00,2020-07-08,2020-06-30,2020-06-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,15328.0,0.03,5328.0,0.01
+METROPOLIS,2020-07-09 18:56:00,2020-07-08,2020-06-18,2020-06-18,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2603.0,0.0,0.0,0.0,0.0,20000.0,0.04,17397.0,0.03
+METROPOLIS,2020-07-09 18:56:00,2020-07-08,2020-06-26,2020-06-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,69.0,0.0,0.0,0.0,0.0,15397.0,0.03,15328.0,0.03
+METROPOLIS,2020-07-09 18:56:00,2020-07-08,2020-06-19,2020-06-19,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,17397.0,0.03,16397.0,0.03
+METROPOLIS,2020-07-09 18:56:00,2020-07-08,2020-06-25,2020-06-25,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,16397.0,0.03,15397.0,0.03
+METROPOLIS,2020-07-09 18:56:00,2020-07-08,2020-06-19,2020-06-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1163.0,0.0,1063.0,0.0
+METROPOLIS,2020-08-19 17:37:00,2020-08-18,2020-08-18,2020-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,40.0,0.0,0.0,0.0,0.0,920.0,0.0,880.0,0.0
+METROPOLIS,2020-08-19 17:37:00,2020-08-18,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,14345.0,0.03,13345.0,0.03
+METROPOLIS,2020-08-19 17:37:00,2020-08-18,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,7750.0,0.02,6750.0,0.01
+METROPOLIS,2020-08-19 17:37:00,2020-08-18,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1400.0,0.0,900.0,0.0
+METROPOLIS,2020-08-19 17:37:00,2020-08-18,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1020.0,0.0,920.0,0.0
+METROPOLIS,2020-08-19 17:37:00,2020-08-18,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,192.0,0.0,0.0,0.0,0.0,1566.0,0.0,1374.0,0.0
+METROPOLIS,2020-08-19 17:37:00,2020-08-18,2020-08-14,2020-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,1700.0,0.0,1550.0,0.0
+METROPOLIS,2020-08-19 17:37:00,2020-08-18,2020-08-14,2020-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1700.0,0.0,1400.0,0.0
+METROPOLIS,2020-08-19 17:37:00,2020-08-15,2020-08-14,2020-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,140.0,0.0,0.0,0.0,0.0,1160.0,0.0,1020.0,0.0
+METROPOLIS,2020-08-19 17:37:00,2020-08-17,2020-08-14,2020-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,2266.0,0.0,1566.0,0.0
+METROPOLIS,2020-08-19 17:37:00,2020-08-18,2020-08-14,2020-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+METROPOLIS,2020-08-19 17:37:00,2020-08-18,2020-08-14,2020-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,71722.0,0.14,71222.0,0.14
+METROPOLIS,2020-08-19 17:37:00,2020-08-19,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,71222.0,0.14,69722.0,0.14
+METROPOLIS,2020-08-20 23:04:00,2020-08-18,2020-08-14,2020-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,2184.0,0.0,1734.0,0.0
+METROPOLIS,2020-08-20 23:04:00,2020-08-18,2020-08-14,2020-08-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,2384.0,0.0,2184.0,0.0
+METROPOLIS,2020-08-21 23:06:00,2020-08-19,2020-08-18,2020-08-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,125.0,0.0,0.0,0.0,0.0,1425.0,0.0,1300.0,0.0
+METROPOLIS,2020-08-21 23:06:00,2020-08-19,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9.0,0.0,0.0,0.0,0.0,1434.0,0.0,1425.0,0.0
+METROPOLIS,2020-08-21 23:06:00,2020-08-19,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1734.0,0.0,1434.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-21,2020-08-20,2020-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,369.0,0.0,0.0,0.0,0.0,880.0,0.0,511.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-19,2020-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,525.0,0.0,0.0,0.0,0.0,82722.0,0.16,82197.0,0.16
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,18369.0,0.0,0.0,0.0,0.0,10117.0,0.02,28486.0,0.06
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,3900.0,0.0,0.0,0.0,0.0,,0.0,3900.0,0.01
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,1400.0,0.0,0.0,0.0,0.0,1000.0,0.0,2400.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-22,2020-08-21,2020-08-21,Immediate relative,Market Sale,Sell,Equity Shares,1267.0,0.0,0.0,0.0,0.0,7202.0,0.01,5935.0,0.01
+METROPOLIS,2020-08-24 15:58:00,2020-08-21,2020-08-21,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,900.0,0.0,850.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-22,2020-08-21,2020-08-21,Key Managerial Personnel,Market Sale,Sell,Equity Shares,5325.0,0.0,0.0,0.0,0.0,144615.0,0.28,139290.0,0.27
+METROPOLIS,2020-08-24 15:58:00,2020-08-22,2020-08-21,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,98.0,0.0,0.0,0.0,0.0,80697.0,0.16,80599.0,0.16
+METROPOLIS,2020-08-24 15:58:00,2020-08-22,2020-08-21,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,108.0,0.0,0.0,0.0,0.0,2120.0,0.0,2012.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-21,2020-08-20,2020-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,6750.0,0.01,5750.0,0.01
+METROPOLIS,2020-08-24 15:58:00,2020-08-21,2020-08-20,2020-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2300.0,0.0,0.0,0.0,0.0,12839.0,0.03,10539.0,0.02
+METROPOLIS,2020-08-24 15:58:00,2020-08-21,2020-08-20,2020-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,1300.0,0.0,900.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,6500.0,0.0,0.0,0.0,0.0,,0.0,6500.0,0.01
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,1300.0,0.0,0.0,0.0,0.0,740.0,0.0,2040.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,800.0,0.0,0.0,0.0,0.0,1800.0,0.0,2600.0,0.01
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,13000.0,0.0,0.0,0.0,0.0,69722.0,0.14,82722.0,0.16
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,1300.0,0.0,0.0,0.0,0.0,820.0,0.0,2120.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,1300.0,0.0,0.0,0.0,0.0,813.0,0.0,2113.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,780.0,0.0,0.0,0.0,0.0,,0.0,780.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,1833.0,0.0,0.0,0.0,0.0,1256.0,0.0,3089.0,0.01
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,1700.0,0.0,0.0,0.0,0.0,,0.0,1700.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Key Managerial Personnel,ESOP,Buy,Equity Shares,139287.0,0.0,0.0,0.0,0.0,5328.0,0.01,144615.0,0.28
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,2200.0,0.0,0.0,0.0,0.0,1651.0,0.0,3851.0,0.01
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,1700.0,0.0,0.0,0.0,0.0,5200.0,0.01,6900.0,0.01
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,50.0,0.0,1050.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-18,2020-08-18,Employees/Designated Employees,ESOP,Buy,Equity Shares,1300.0,0.0,0.0,0.0,0.0,900.0,0.0,2200.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-21,2020-08-20,2020-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,82197.0,0.16,80697.0,0.16
+METROPOLIS,2020-08-24 15:58:00,2020-08-21,2020-08-20,2020-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,913.0,0.0,813.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,506.0,0.0,0.0,0.0,0.0,13345.0,0.03,12839.0,0.03
+METROPOLIS,2020-08-24 15:58:00,2020-08-20,2020-08-19,2020-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,60.0,0.0,0.0,0.0,0.0,880.0,0.0,820.0,0.0
+METROPOLIS,2020-08-24 15:58:00,2020-08-21,2020-08-20,2020-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,952.0,0.0,0.0,0.0,0.0,952.0,0.0,,0.0
+METROPOLIS,2020-08-26 22:40:00,2020-08-24,2020-08-21,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,10539.0,0.02,10239.0,0.02
+METROPOLIS,2020-08-26 22:40:00,2020-08-24,2020-08-24,2020-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,303.0,0.0,0.0,0.0,0.0,2012.0,0.0,1709.0,0.0
+METROPOLIS,2020-08-26 22:40:00,2020-08-25,2020-08-24,2020-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,6250.0,0.0,0.0,0.0,0.0,80599.0,0.16,74349.0,0.15
+METROPOLIS,2020-08-26 22:40:00,2020-08-25,2020-08-24,2020-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,850.0,0.0,700.0,0.0
+METROPOLIS,2020-08-26 22:40:00,2020-08-25,2020-08-24,2020-08-24,Immediate relative,Market Sale,Sell,Equity Shares,2200.0,0.0,0.0,0.0,0.0,5935.0,0.01,3735.0,0.01
+METROPOLIS,2020-08-26 22:40:00,2020-08-25,2020-08-25,2020-08-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,340.0,0.0,0.0,0.0,0.0,2040.0,0.0,1700.0,0.0
+METROPOLIS,2020-08-26 22:40:00,2020-08-26,2020-08-25,2020-08-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,700.0,0.0,650.0,0.0
+METROPOLIS,2020-08-26 22:40:00,2020-08-24,2020-08-19,2020-08-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,28.0,0.0,0.0,0.0,0.0,900.0,0.0,872.0,0.0
+METROPOLIS,2020-08-26 22:40:00,2020-08-24,2020-08-20,2020-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,872.0,0.0,172.0,0.0
+METROPOLIS,2020-08-28 21:56:00,2020-08-27,2020-08-27,2020-08-27,Employees/Designated Employees,Market Purchase,Sell,Equity Shares,16.0,0.0,0.0,0.0,0.0,600.0,0.0,584.0,0.0
+METROPOLIS,2020-08-28 21:56:00,2020-08-27,2020-08-26,2020-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,650.0,0.0,600.0,0.0
+METROPOLIS,2020-08-28 21:56:00,2020-08-27,2020-08-24,2020-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,10026.0,0.02,9226.0,0.02
+METROPOLIS,2020-08-28 21:56:00,2020-08-26,2020-08-24,2020-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,213.0,0.0,0.0,0.0,0.0,10239.0,0.02,10026.0,0.02
+METROPOLIS,2020-08-28 21:56:00,2020-08-27,2020-08-26,2020-08-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10.0,0.0,0.0,0.0,0.0,1709.0,0.0,1699.0,0.0
+METROPOLIS,2020-09-02 22:26:00,2020-09-02,2020-09-01,2020-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,209.0,0.0,159.0,0.0
+METROPOLIS,2020-09-02 22:26:00,2020-08-31,2020-08-28,2020-08-28,Immediate relative,Market Sale,Sell,Equity Shares,270.0,0.0,0.0,0.0,0.0,3735.0,0.01,3465.0,0.01
+METROPOLIS,2020-09-02 22:26:00,2020-08-20,2020-08-17,2020-08-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1933.0,0.0,0.0,0.0,0.0,1933.0,0.0,,0.0
+METROPOLIS,2020-09-02 22:26:00,2020-09-02,2020-09-01,2020-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,375.0,0.0,0.0,0.0,0.0,584.0,0.0,209.0,0.0
+METROPOLIS,2020-09-02 22:26:00,2020-09-02,2020-09-01,2020-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,49193.0,0.0,0.0,0.0,0.0,139290.0,0.27,90097.0,0.18
+METROPOLIS,2020-09-02 22:26:00,2020-09-01,2020-08-31,2020-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3141.0,0.0,0.0,0.0,0.0,73849.0,0.15,70708.0,0.14
+METROPOLIS,2020-09-02 22:26:00,2020-09-02,2020-09-01,2020-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,74349.0,0.15,73849.0,0.15
+METROPOLIS,2020-09-02 22:26:00,2020-08-31,2020-08-28,2020-08-28,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30.0,0.0,0.0,0.0,0.0,1699.0,0.0,1669.0,0.0
+METROPOLIS,2020-09-02 22:26:00,2020-09-02,2020-08-31,2020-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,1700.0,0.0,1600.0,0.0
+METROPOLIS,2020-09-02 22:26:00,2020-09-01,2020-08-31,2020-08-31,Employees/Designated Employees,Market Sale,Sell,Equity Shares,172.0,0.0,0.0,0.0,0.0,172.0,0.0,,0.0
+METROPOLIS,2020-09-04 22:16:00,2020-09-04,2020-09-01,2020-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,82.0,0.0,0.0,0.0,0.0,663.0,0.0,581.0,0.0
+METROPOLIS,2020-09-04 22:16:00,2020-09-02,2020-09-01,2020-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,9226.0,0.02,8726.0,0.02
+METROPOLIS,2020-09-04 22:16:00,2020-09-04,2020-09-03,2020-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1700.0,0.0,0.0,0.0,0.0,6900.0,0.01,5200.0,0.01
+METROPOLIS,2020-09-04 22:16:00,2020-09-03,2020-09-01,2020-09-01,Immediate relative,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,3465.0,0.01,2965.0,0.01
+METROPOLIS,2020-09-04 22:16:00,2020-09-04,2020-08-25,2020-08-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,150.0,0.0,0.0,0.0,0.0,813.0,0.0,663.0,0.0
+METROPOLIS,2020-09-04 22:16:00,2020-09-03,2020-09-02,2020-09-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,580.0,0.0,0.0,0.0,0.0,1669.0,0.0,1089.0,0.0
+METROPOLIS,2020-09-04 22:16:00,2020-09-04,2020-09-03,2020-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,190.0,0.0,0.0,0.0,0.0,1089.0,0.0,899.0,0.0
+METROPOLIS,2020-09-04 22:16:00,2020-09-02,2020-09-01,2020-09-01,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,8726.0,0.02,8126.0,0.02
+METROPOLIS,2020-09-05 19:31:00,2020-09-05,2020-09-02,2020-09-02,Key Managerial Personnel,Market Purchase,Sell,Equity Shares,50807.0,0.0,0.0,0.0,0.0,90097.0,0.18,39290.0,0.08
+METROPOLIS,2020-09-08 23:25:00,2020-09-05,2020-09-03,2020-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,180.0,0.0,0.0,0.0,0.0,180.0,0.0,,0.0
+METROPOLIS,2020-09-08 23:25:00,2020-09-04,2020-09-02,2020-09-02,Employees/Designated Employees,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,780.0,0.0,180.0,0.0
+METROPOLIS,2020-09-09 10:40:00,2020-09-07,2020-09-04,2020-09-04,Immediate relative,Market Sale,Sell,Equity Shares,165.0,0.0,0.0,0.0,0.0,2965.0,0.01,2800.0,0.01
+METROPOLIS,2020-09-09 10:40:00,2020-09-08,2020-08-24,2020-08-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1799.0,0.0,0.0,0.0,0.0,2600.0,0.01,801.0,0.0
+METROPOLIS,2020-09-09 10:40:00,2020-09-07,2020-09-03,2020-09-03,Employees/Designated Employees,Market Sale,Sell,Equity Shares,652.0,0.0,0.0,0.0,0.0,1700.0,0.0,1048.0,0.0
+METROPOLIS,2020-09-09 10:40:00,2020-09-07,2020-09-04,2020-09-04,Employees/Designated Employees,Market Sale,Sell,Equity Shares,24.0,0.0,0.0,0.0,0.0,1048.0,0.0,1024.0,0.0
+METROPOLIS,2020-09-09 10:40:00,2020-09-07,2020-09-07,2020-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,39290.0,0.08,29290.0,0.07
+METROPOLIS,2020-09-11 11:51:00,2020-09-08,2020-08-21,2020-08-21,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25.0,0.0,0.0,0.0,0.0,10491.0,0.02,10466.0,0.02
+METROPOLIS,2020-09-11 11:51:00,2020-09-08,2020-08-20,2020-08-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2250.0,0.0,0.0,0.0,0.0,12741.0,0.03,10491.0,0.02
+METROPOLIS,2020-09-11 11:51:00,2020-09-10,2020-09-08,2020-09-08,Key Managerial Personnel,Market Sale,Sell,Equity Shares,6000.0,0.0,0.0,0.0,0.0,29290.0,0.06,23290.0,0.05
+METROPOLIS,2020-09-11 11:51:00,2020-09-08,2020-09-07,2020-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,10466.0,0.02,9466.0,0.02
+METROPOLIS,2020-09-11 11:51:00,2020-09-10,2020-09-09,2020-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,400.0,0.0,100.0,0.0
+METROPOLIS,2020-09-11 11:51:00,2020-09-09,2020-09-07,2020-09-07,Employees/Designated Employees,Market Sale,Sell,Equity Shares,75.0,0.0,0.0,0.0,0.0,134.0,0.0,59.0,0.0
+METROPOLIS,2020-09-11 11:51:00,2020-09-10,2020-09-08,2020-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,624.0,0.0,0.0,0.0,0.0,1024.0,0.0,400.0,0.0
+METROPOLIS,2020-09-11 11:51:00,2020-09-10,2020-09-09,2020-09-09,Key Managerial Personnel,Market Sale,Sell,Equity Shares,11000.0,0.0,0.0,0.0,0.0,23290.0,0.05,12290.0,0.02
+METROPOLIS,2020-09-11 11:51:00,2020-09-09,2020-09-08,2020-09-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25.0,0.0,0.0,0.0,0.0,159.0,0.0,134.0,0.0
+METROPOLIS,2020-09-14 22:48:00,2020-09-14,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,6500.0,0.01,3000.0,0.01
+METROPOLIS,2020-09-14 22:48:00,2020-09-14,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,695.0,0.0,0.0,0.0,0.0,1275.0,0.0,580.0,0.0
+METROPOLIS,2020-09-14 22:48:00,2020-09-11,2020-09-09,2020-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,25.0,0.0,0.0,0.0,0.0,1300.0,0.0,1275.0,0.0
+METROPOLIS,2020-09-14 22:48:00,2020-09-11,2020-09-09,2020-09-09,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9.0,0.0,0.0,0.0,0.0,59.0,0.0,50.0,0.0
+METROPOLIS,2020-09-14 22:48:00,2020-09-14,2020-09-10,2020-09-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,50.0,0.0,,0.0
+METROPOLIS,2020-09-14 22:48:00,2020-09-14,2020-09-10,2020-09-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,30.0,0.0,0.0,0.0,0.0,530.0,0.0,500.0,0.0
+METROPOLIS,2020-09-14 22:48:00,2020-09-12,2020-09-10,2020-09-10,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,12290.0,0.02,7290.0,0.01
+METROPOLIS,2020-09-16 22:36:00,2020-09-16,2020-09-16,2020-09-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2190.0,0.0,0.0,0.0,0.0,70208.0,0.14,68018.0,0.13
+METROPOLIS,2020-09-16 22:36:00,2020-09-16,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1750.0,0.0,0.0,0.0,0.0,5750.0,0.01,4000.0,0.01
+METROPOLIS,2020-09-16 22:36:00,2020-09-16,2020-09-14,2020-09-14,Immediate relative,Market Sale,Sell,Equity Shares,2600.0,0.0,0.0,0.0,0.0,2800.0,0.01,200.0,0.0
+METROPOLIS,2020-09-16 22:36:00,2020-09-16,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,405.0,0.0,5.0,0.0
+METROPOLIS,2020-09-16 22:36:00,2020-09-16,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,625.0,0.0,0.0,0.0,0.0,1030.0,0.0,405.0,0.0
+METROPOLIS,2020-09-16 22:36:00,2020-09-16,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,145.0,0.0,0.0,0.0,0.0,1175.0,0.0,1030.0,0.0
+METROPOLIS,2020-09-16 22:36:00,2020-09-16,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,9466.0,0.0,0.0,0.0,0.0,9466.0,0.02,,0.0
+METROPOLIS,2020-09-16 22:36:00,2020-09-16,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2000.0,0.0,1000.0,0.0
+METROPOLIS,2020-09-16 22:36:00,2020-09-16,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,3000.0,0.01,2000.0,0.0
+METROPOLIS,2020-09-16 22:36:00,2020-09-15,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1100.0,0.0,0.0,0.0,0.0,5326.0,0.01,4226.0,0.01
+METROPOLIS,2020-09-16 22:36:00,2020-09-15,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2800.0,0.0,0.0,0.0,0.0,8126.0,0.02,5326.0,0.01
+METROPOLIS,2020-09-16 22:36:00,2020-09-15,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,7290.0,0.01,2290.0,0.0
+METROPOLIS,2020-09-16 22:36:00,2020-09-15,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,70708.0,0.14,70208.0,0.14
+METROPOLIS,2020-09-16 22:36:00,2020-09-15,2020-09-14,2020-09-14,Employees/Designated Employees,Market Sale,Sell,Equity Shares,490.0,0.0,0.0,0.0,0.0,500.0,0.0,10.0,0.0
+METROPOLIS,2020-09-18 19:08:00,2020-09-16,2020-09-15,2020-09-15,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2290.0,0.0,1290.0,0.0
+METROPOLIS,2020-09-21 22:11:00,2020-09-17,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,700.0,0.0,0.0,0.0,0.0,1600.0,0.0,900.0,0.0
+METROPOLIS,2020-09-21 22:11:00,2020-09-18,2020-09-16,2020-09-16,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,105.0,0.0,5.0,0.0
+METROPOLIS,2020-09-21 22:11:00,2020-09-21,2020-09-18,2020-09-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,100.0,0.0,,0.0
+METROPOLIS,2020-09-21 22:11:00,2020-09-17,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,581.0,0.0,131.0,0.0
+METROPOLIS,2020-09-21 22:11:00,2020-09-17,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,1300.0,0.0,900.0,0.0
+METROPOLIS,2020-09-21 22:11:00,2020-09-18,2020-09-17,2020-09-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,10.0,0.0,0.0,0.0,0.0,10.0,0.0,,0.0
+METROPOLIS,2020-09-21 22:11:00,2020-09-17,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,21673.0,0.04,21273.0,0.04
+METROPOLIS,2020-09-21 22:11:00,2020-09-17,2020-09-15,2020-09-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,22173.0,0.04,21673.0,0.04
+METROPOLIS,2020-09-21 22:11:00,2020-09-19,2020-09-15,2020-09-15,Immediate relative,Market Sale,Sell,Equity Shares,180.0,0.0,0.0,0.0,0.0,380.0,0.0,200.0,0.0
+METROPOLIS,2020-09-21 22:11:00,2020-09-19,2020-09-15,2020-09-15,Immediate relative,Market Purchase,Buy,Equity Shares,180.0,0.0,0.0,0.0,0.0,200.0,0.0,380.0,0.0
+METROPOLIS,2020-10-09 14:21:00,2020-10-08,2020-09-29,2020-09-29,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2400.0,0.0,1400.0,0.0
+METROPOLIS,2020-10-27 19:27:00,2020-10-24,2020-05-15,2020-05-15,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,450.0,0.0,0.0,0.0,0.0,,0.0,450.0,0.0
+METROPOLIS,2020-10-27 19:27:00,2020-10-24,2020-05-15,2020-05-15,Employees/Designated Employees,Market Sale,Sell,Equity Shares,450.0,0.0,0.0,0.0,0.0,450.0,0.0,,0.0
+METROPOLIS,2020-10-27 19:27:00,2020-10-24,2020-05-18,2020-05-18,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,228.0,0.0,0.0,0.0,0.0,,0.0,228.0,0.0
+METROPOLIS,2020-10-27 19:27:00,2020-10-24,2020-05-18,2020-05-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,113.0,0.0,0.0,0.0,0.0,228.0,0.0,115.0,0.0
+METROPOLIS,2020-10-27 19:27:00,2020-10-24,2020-05-19,2020-05-19,Employees/Designated Employees,Market Purchase,Buy,Equity Shares,115.0,0.0,0.0,0.0,0.0,115.0,0.0,230.0,0.0
+METROPOLIS,2020-10-27 19:27:00,2020-10-24,2020-05-19,2020-05-19,Employees/Designated Employees,Market Sale,Sell,Equity Shares,115.0,0.0,0.0,0.0,0.0,230.0,0.0,115.0,0.0
+METROPOLIS,2020-10-27 19:27:00,2020-10-24,2020-05-20,2020-05-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,115.0,0.0,0.0,0.0,0.0,115.0,0.0,,0.0
+METROPOLIS,2020-10-27 19:27:00,2020-10-23,2020-09-11,2020-09-11,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1040.0,0.0,0.0,0.0,0.0,1050.0,0.0,10.0,0.0
+METROPOLIS,2020-11-13 19:49:00,2020-11-11,2020-11-11,2020-11-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3250.0,0.0,0.0,0.0,0.0,4070.0,0.01,7320.0,0.01
+METROPOLIS,2020-11-13 19:49:00,2020-11-13,2020-11-11,2020-11-11,Key Managerial Personnel,ESOP,Buy,Equity Shares,161637.0,0.0,0.0,0.0,0.0,1290.0,0.01,162927.0,0.32
+METROPOLIS,2020-11-13 19:49:00,2020-11-13,2020-11-11,2020-11-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,1950.0,0.0,0.0,0.0,0.0,350.0,0.0,2300.0,0.01
+METROPOLIS,2020-11-13 19:49:00,2020-11-13,2020-11-11,2020-11-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3500.0,0.0,0.0,0.0,0.0,,0.0,3500.0,0.01
+METROPOLIS,2020-11-13 19:49:00,2020-11-13,2020-11-11,2020-11-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,2000.0,0.0,0.0,0.0,0.0,3000.0,0.01,5000.0,0.01
+METROPOLIS,2020-11-13 19:49:00,2020-11-13,2020-11-11,2020-11-11,Employees/Designated Employees,ESOP,Buy,Equity Shares,3250.0,0.0,0.0,0.0,0.0,4022.0,0.01,7272.0,0.01
+METROPOLIS,2020-11-17 15:51:00,2020-11-13,2020-10-26,2020-10-26,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,66852.0,0.13,65852.0,0.13
+METROPOLIS,2020-11-19 13:36:00,2020-11-17,2020-11-17,2020-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,5000.0,0.01,4000.0,0.01
+METROPOLIS,2020-11-20 17:54:00,2020-11-20,2020-11-18,2020-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,68018.0,0.13,67218.0,0.13
+METROPOLIS,2020-11-24 17:58:00,2020-11-21,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2800.0,0.0,0.0,0.0,0.0,67218.0,0.13,64418.0,0.13
+METROPOLIS,2020-11-24 17:58:00,2020-11-24,2020-11-24,2020-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,950.0,0.0,0.0,0.0,0.0,1000.0,0.0,50.0,0.0
+METROPOLIS,2020-11-24 17:58:00,2020-11-24,2020-11-23,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,240.0,0.0,0.0,0.0,0.0,490.0,0.0,250.0,0.0
+METROPOLIS,2020-11-24 17:58:00,2020-11-24,2020-11-23,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,740.0,0.0,490.0,0.0
+METROPOLIS,2020-11-24 17:58:00,2020-11-23,2020-11-23,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,3600.0,0.01,3200.0,0.01
+METROPOLIS,2020-11-24 17:58:00,2020-11-23,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,3900.0,0.01,3600.0,0.01
+METROPOLIS,2020-11-24 17:58:00,2020-11-23,2020-11-18,2020-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,4000.0,0.01,3900.0,0.01
+METROPOLIS,2020-11-24 17:58:00,2020-11-21,2020-11-20,2020-11-20,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,107233.0,0.21,106233.0,0.21
+METROPOLIS,2020-11-27 12:34:00,2020-11-25,2020-11-24,2020-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,131.0,0.0,0.0,0.0,0.0,531.0,0.0,400.0,0.0
+METROPOLIS,2020-11-27 12:34:00,2020-11-25,2020-11-18,2020-11-18,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,731.0,0.0,531.0,0.0
+METROPOLIS,2020-11-27 12:34:00,2020-11-25,2020-11-17,2020-11-17,Employees/Designated Employees,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1031.0,0.0,731.0,0.0
+METROPOLIS,2020-11-27 12:34:00,2020-11-25,2020-11-24,2020-11-24,Employees/Designated Employees,Market Sale,Sell,Equity Shares,900.0,0.0,0.0,0.0,0.0,61618.0,0.12,60718.0,0.12
+METROPOLIS,2020-11-27 12:34:00,2020-11-25,2020-11-23,2020-11-23,Employees/Designated Employees,Market Sale,Sell,Equity Shares,2800.0,0.0,0.0,0.0,0.0,64418.0,0.13,61618.0,0.12
+METROPOLIS,2020-11-27 12:34:00,2020-11-26,2020-11-24,2020-11-24,Employees/Designated Employees,Market Sale,Sell,Preference Shares,1500.0,0.0,0.0,0.0,0.0,7320.0,0.01,5820.0,0.01
+METROPOLIS,2020-12-01 14:46:00,2020-11-30,2020-11-27,2020-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,3500.0,0.0,0.0,0.0,0.0,3500.0,0.01,,0.0
+METROPOLIS,2020-12-01 14:46:00,2020-11-30,2020-11-27,2020-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,861.0,0.0,461.0,0.0
+METROPOLIS,2020-12-01 14:46:00,2020-11-30,2020-11-25,2020-11-25,Employees/Designated Employees,Market Sale,Sell,Equity Shares,39.0,0.0,0.0,0.0,0.0,900.0,0.0,861.0,0.0
+METROPOLIS,2020-12-01 14:46:00,2020-11-30,2020-11-27,2020-11-27,Employees/Designated Employees,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,461.0,0.0,261.0,0.0
+METROPOLIS,2020-12-09 18:22:00,2020-12-09,2020-12-08,2020-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,650.0,0.0,0.0,0.0,0.0,1300.0,0.0,650.0,0.0
+METROPOLIS,2020-12-09 18:22:00,2020-12-09,2020-12-08,2020-12-08,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1006.0,0.0,0.0,0.0,0.0,2300.0,0.0,1294.0,0.0
+METROPOLIS,2021-01-04 09:24:00,2020-12-31,2020-12-30,2020-12-30,Employees/Designated Employees,Market Sale,Sell,Equity Shares,1400.0,0.0,0.0,0.0,0.0,1434.0,0.0,34.0,0.0
+METROPOLIS,2021-02-11 14:37:00,2021-02-11,2021-02-10,2021-02-10,Employees/Designated Employees,ESOP,Buy,Equity Shares,5200.0,0.0,0.0,0.0,0.0,34.0,0.0,5234.0,0.01
+METROPOLIS,2021-02-18 12:02:00,2021-02-17,2021-02-16,2021-02-16,Key Managerial Personnel,Market Sale,Sell,Equity Shares,56540.0,0.0,0.0,0.0,0.0,162927.0,0.32,106387.0,0.21
+METROPOLIS,2021-03-05 13:10:00,2021-03-04,2021-03-02,2021-03-02,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,1277920.0,0.0,0.0,0.0,0.0,,0.0,1277920.0,2.5
+METROPOLIS,2021-03-05 13:10:00,2021-03-04,2021-03-02,2021-03-02,Promoters,Inter-se-Transfer,Sell,Equity Shares,1277920.0,0.0,0.0,0.0,0.0,3725245.0,7.29,2447325.0,4.79
+METROPOLIS,2021-03-05 13:10:00,2021-03-04,2021-03-02,2021-03-02,Promoters,Inter-se-Transfer,Buy,Equity Shares,1277920.0,0.0,0.0,0.0,0.0,,0.0,1277920.0,2.5
+METROPOLIS,2021-03-05 13:10:00,2021-03-04,2021-03-02,2021-03-02,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,1277920.0,0.0,0.0,0.0,0.0,6154685.0,12.04,4876765.0,9.54
+METROPOLIS,2021-03-20 11:26:00,2021-03-19,2021-03-16,2021-03-16,-,Market Sale,Sell,Equity Shares,50.0,0.0,0.0,0.0,0.0,2748.0,0.01,2698.0,0.01
+METROPOLIS,2021-03-20 11:26:00,2021-03-19,2021-03-19,2021-03-19,-,Market Sale,Sell,Equity Shares,225.0,0.0,0.0,0.0,0.0,2548.0,0.0,2323.0,0.0
+METROPOLIS,2021-03-20 11:26:00,2021-03-19,2021-03-18,2021-03-18,-,Market Sale,Sell,Equity Shares,25.0,0.0,0.0,0.0,0.0,2573.0,0.01,2548.0,0.0
+METROPOLIS,2021-03-20 11:26:00,2021-03-19,2021-03-18,2021-03-18,-,Market Sale,Sell,Equity Shares,125.0,0.0,0.0,0.0,0.0,2698.0,0.01,2573.0,0.01
+METROPOLIS,2021-03-20 11:26:00,2021-03-19,2021-03-15,2021-03-15,-,Market Sale,Sell,Equity Shares,102.0,0.0,0.0,0.0,0.0,2850.0,0.01,2748.0,0.01
+METROPOLIS,2021-03-20 11:26:00,2021-03-19,2021-03-15,2021-03-15,-,Market Sale,Sell,Equity Shares,90.0,0.0,0.0,0.0,0.0,2940.0,0.01,2850.0,0.01
+METROPOLIS,2021-03-20 11:26:00,2021-03-19,2021-03-15,2021-03-15,-,Market Sale,Sell,Equity Shares,60.0,0.0,0.0,0.0,0.0,3000.0,0.01,2940.0,0.01
+METROPOLIS,2021-03-22 18:58:00,2021-03-21,2021-03-19,2021-03-19,-,Market Sale,Sell,Equity Shares,1851.0,0.0,0.0,0.0,0.0,5234.0,0.01,3383.0,0.01
+METROPOLIS,2021-03-23 13:59:00,2021-03-23,2021-03-19,2021-03-19,-,Market Sale,Sell,Equity Shares,3349.0,0.0,0.0,0.0,0.0,3383.0,0.01,34.0,0.0
+METROPOLIS,2021-03-24 18:05:00,2021-03-24,2021-03-22,2021-03-23,-,Market Sale,Sell,Equity Shares,200.0,0.0,0.0,0.0,0.0,4000.0,0.0,3800.0,0.01
+METROPOLIS,2021-03-24 18:05:00,2021-03-24,2021-03-23,2021-03-23,-,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1510.0,0.0,1010.0,0.0
+METROPOLIS,2021-03-29 12:35:00,2021-03-27,2021-03-26,2021-03-26,Key Managerial Personnel,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,106387.0,0.21,103887.0,0.2
+METROPOLIS,2021-03-31 10:17:00,2021-03-30,2021-03-28,2021-03-28,-,Market Sale,Sell,Equity Shares,498.0,0.0,0.0,0.0,0.0,2323.0,0.0,1825.0,0.0
+METROPOLIS,2021-03-31 10:17:00,2021-03-30,2021-03-30,2021-03-30,-,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1825.0,0.0,1525.0,0.0
+METROPOLIS,2021-04-01 09:48:00,2021-03-31,2021-03-30,2021-03-30,-,Market Sale,Sell,Equity Shares,300.0,0.0,0.0,0.0,0.0,1300.0,0.0,1000.0,0.0
+METROPOLIS,2021-04-01 09:48:00,2021-03-31,2021-03-30,2021-03-30,Key Managerial Personnel,Market Sale,Sell,Equity Shares,1500.0,0.0,0.0,0.0,0.0,103887.0,0.2,102387.0,0.2
+METROPOLIS,2021-04-01 09:48:00,2021-03-31,2021-03-30,2021-03-30,-,Market Sale,Sell,Equity Shares,800.0,0.0,0.0,0.0,0.0,3800.0,0.01,3000.0,0.01
+METROPOLIS,2021-04-02 16:55:00,2021-04-01,2021-03-31,2021-03-31,-,Market Sale,Sell,Equity Shares,2500.0,0.0,0.0,0.0,0.0,7272.0,0.01,4772.0,0.01
+METROPOLIS,2021-04-02 16:55:00,2021-04-01,2021-03-31,2021-03-31,-,Market Sale,Sell,Equity Shares,1000.0,0.0,0.0,0.0,0.0,60718.0,0.12,59718.0,0.12
+METROPOLIS,2021-04-02 16:55:00,2021-04-01,2021-03-31,2021-03-31,Key Managerial Personnel,Market Sale,Sell,Equity Shares,100.0,0.0,0.0,0.0,0.0,102387.0,0.2,102287.0,0.2
+METROPOLIS,2021-05-31 11:53:00,2021-05-29,2021-05-27,2021-05-27,-,ESOP,Buy,Equity Shares,600.0,0.0,0.0,0.0,0.0,1010.0,0.0,1610.0,0.0
+METROPOLIS,2021-05-31 11:53:00,2021-05-29,2021-05-27,2021-05-27,-,ESOP,Buy,Equity Shares,1300.0,0.0,0.0,0.0,0.0,,0.0,1300.0,0.0
+METROPOLIS,2021-05-31 11:53:00,2021-05-29,2021-05-27,2021-05-27,-,ESOP,Buy,Equity Shares,1000.0,0.0,0.0,0.0,0.0,2900.0,0.0,3900.0,0.0
+METROPOLIS,2021-05-31 11:53:00,2021-05-29,2021-05-27,2021-05-27,-,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,,0.0,500.0,0.0
+METROPOLIS,2021-05-31 11:53:00,2021-05-29,2021-05-27,2021-05-27,-,ESOP,Buy,Equity Shares,8700.0,0.0,0.0,0.0,0.0,34.0,0.0,8734.0,0.02
+METROPOLIS,2021-06-01 19:59:00,2021-05-31,2021-05-31,2021-05-31,-,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,1000.0,0.0,500.0,0.0
+METROPOLIS,2021-06-01 19:59:00,2021-06-01,2021-05-31,2021-05-31,-,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,106233.0,0.2,103233.0,0.2
+METROPOLIS,2021-06-07 10:43:00,2021-06-06,2021-06-04,2021-06-04,-,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,103233.0,0.2,101233.0,0.2
+METROPOLIS,2021-06-08 18:06:00,2021-06-07,2021-06-07,2021-06-07,-,Market Sale,Sell,Equity Shares,1010.0,0.0,0.0,0.0,0.0,1610.0,0.0,600.0,0.0
+METROPOLIS,2021-06-08 18:06:00,2021-06-07,2021-06-07,2021-06-07,-,Market Sale,Sell,Equity Shares,500.0,0.0,0.0,0.0,0.0,500.0,0.0,,0.0
+METROPOLIS,2021-06-08 18:06:00,2021-06-08,2021-06-07,2021-06-07,-,Market Sale,Sell,Equity Shares,4200.0,0.0,0.0,0.0,0.0,59718.0,0.12,55518.0,0.11
+METROPOLIS,2021-06-14 17:50:00,2021-06-12,2021-06-11,2021-06-11,-,Market Sale,Sell,Equity Shares,220.0,0.0,0.0,0.0,0.0,1300.0,0.0,1080.0,0.0
+METROPOLIS,2021-06-14 17:50:00,2021-06-12,2021-06-11,2021-06-11,-,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,600.0,0.0,,0.0
+METROPOLIS,2021-06-16 10:33:00,2021-06-16,2021-06-14,2021-06-14,-,Market Sale,Sell,Equity Shares,560.0,0.0,0.0,0.0,0.0,1080.0,0.0,520.0,0.0
+METROPOLIS,2021-06-16 10:33:00,2021-06-16,2021-06-14,2021-06-15,-,Market Sale,Sell,Equity Shares,5700.0,0.0,0.0,0.0,0.0,8734.0,0.02,3034.0,0.01
+METROPOLIS,2021-06-17 12:14:00,2021-06-15,2021-06-11,2021-06-11,-,Market Sale,Sell,Equity Shares,400.0,0.0,0.0,0.0,0.0,3700.0,0.0,3300.0,0.0
+METROPOLIS,2021-08-09 18:27:00,2021-08-09,2021-08-06,2021-08-06,-,ESOP,Buy,Equity Shares,5000.0,0.0,0.0,0.0,0.0,765.0,0.0,5765.0,0.01
+METROPOLIS,2021-08-09 18:27:00,2021-08-09,2021-08-06,2021-08-06,-,ESOP,Buy,Equity Shares,600.0,0.0,0.0,0.0,0.0,147.0,0.0,747.0,0.0
+METROPOLIS,2021-08-09 18:27:00,2021-08-09,2021-08-06,2021-08-06,-,ESOP,Buy,Equity Shares,9700.0,0.0,0.0,0.0,0.0,4564.0,0.0,14264.0,0.02
+METROPOLIS,2021-08-09 18:27:00,2021-08-09,2021-08-06,2021-08-06,-,ESOP,Buy,Equity Shares,500.0,0.0,0.0,0.0,0.0,242.0,0.0,742.0,0.0
+METROPOLIS,2021-09-03 12:29:00,2021-09-02,2021-09-02,2021-09-02,-,Market Sale,Sell,Equity Shares,600.0,0.0,0.0,0.0,0.0,747.0,0.0,147.0,0.0
+METROPOLIS,2021-09-13 17:51:00,2021-09-10,2021-09-08,2021-09-09,-,Market Sale,Sell,Equity Shares,1600.0,0.0,0.0,0.0,0.0,52653.0,0.1,51053.0,0.1
+METROPOLIS,2021-09-14 14:54:00,2021-09-14,2021-09-13,2021-09-13,-,Market Sale,Sell,Equity Shares,5000.0,0.0,0.0,0.0,0.0,113915.0,0.22,108915.0,0.21
+METROPOLIS,2021-09-16 16:58:00,2021-09-16,2021-09-14,2021-09-15,-,Market Sale,Sell,Equity Shares,336.0,0.0,0.0,0.0,0.0,603.0,0.0,267.0,0.0
+METROPOLIS,2021-09-16 16:58:00,2021-09-15,2021-09-15,2021-09-15,-,Market Sale,Sell,Equity Shares,3000.0,0.0,0.0,0.0,0.0,45641.0,0.09,42641.0,0.08
+METROPOLIS,2021-09-16 16:58:00,2021-09-15,2021-09-15,2021-09-15,-,Market Sale,Sell,Equity Shares,406.0,0.0,0.0,0.0,0.0,3912.0,0.0,3506.0,0.0
+METROPOLIS,2021-09-16 16:58:00,2021-09-15,2021-09-15,2021-09-15,-,Market Sale,Sell,Equity Shares,2000.0,0.0,0.0,0.0,0.0,47641.0,0.09,45641.0,0.08
+METROPOLIS,2021-09-17 15:31:00,2021-09-16,2021-09-16,2021-09-16,-,Market Sale,Sell,Equity Shares,319.0,0.0,0.0,0.0,0.0,638.0,0.0,319.0,0.0
+METROPOLIS,2021-09-17 15:31:00,2021-09-15,2021-09-13,2021-09-15,-,Market Sale,Sell,Equity Shares,2300.0,0.0,0.0,0.0,0.0,51053.0,0.09,48753.0,0.09
+METROPOLIS,2021-11-17 11:48:00,2021-11-16,2021-11-16,2021-11-16,Promoter Group,Market Sale,Sell,Equity Shares,425000.0,0.0,0.0,0.0,0.0,4876765.0,9.53,4451765.0,8.7
+METROPOLIS,2021-12-30 16:37:00,2021-12-28,2021-12-27,2021-12-27,Immediate relative,Market Sale,Sell,Equity Shares,250.0,0.0,0.0,0.0,0.0,500.0,0.0,250.0,0.0
+METROPOLIS,2022-02-21 18:00:00,2022-02-21,2022-02-21,2022-02-21,Promoters,Market Purchase,Buy,Equity Shares,99573.0,0.0,0.0,0.0,0.0,2497325.0,4.89,2596898.0,5.08
+METROPOLIS,2022-02-21 18:00:00,2022-02-21,2022-02-18,2022-02-18,Promoters,Market Purchase,Buy,Equity Shares,49903.0,0.0,0.0,0.0,0.0,2447325.0,4.79,2497228.0,4.89
+METROPOLIS,2022-02-21 18:00:00,2022-02-21,2022-02-18,2022-02-18,Promoters,Market Purchase,Buy,Equity Shares,97.0,0.0,0.0,0.0,0.0,2497228.0,4.89,2497325.0,4.89
+METROPOLIS,2022-02-22 13:05:00,2022-02-21,2022-02-21,2022-02-21,Promoters,Market Purchase,Buy,Equity Shares,427.0,0.0,0.0,0.0,0.0,2596898.0,5.08,2597325.0,5.08
+METROPOLIS,2022-03-30 17:04:00,2022-03-30,2022-03-29,2022-03-29,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,2405840.0,0.0,0.0,0.0,0.0,4451765.0,8.7,2045925.0,4.0
+METROPOLIS,2022-03-30 17:04:00,2022-03-30,2022-03-29,2022-03-29,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,2405840.0,0.0,0.0,0.0,0.0,1277920.0,2.5,3683760.0,7.21
+METROPOLIS,2023-03-31 19:33:00,2023-03-31,2023-03-28,2023-03-28,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,1280266.0,0.0,0.0,0.0,0.0,2045925.0,4.0,765659.0,1.5
+METROPOLIS,2023-03-31 19:33:00,2023-03-31,2023-03-28,2023-03-28,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,1280266.0,0.0,0.0,0.0,0.0,3683760.0,7.19,4964026.0,9.69
+METROPOLIS,2023-04-04 16:27:00,2023-04-03,2023-03-31,2023-03-31,Promoters,Inter-se-Transfer,Sell,Equity Shares,1280267.0,0.0,0.0,0.0,0.0,2597325.0,5.07,1317058.0,2.57
+METROPOLIS,2023-04-04 16:27:00,2023-04-03,2023-03-31,2023-03-31,Promoters,Inter-se-Transfer,Buy,Equity Shares,1280267.0,0.0,0.0,0.0,0.0,1277920.0,2.5,2558187.0,5.0
+METROPOLIS,2024-04-01 18:43:00,2024-04-01,2024-03-28,2024-03-28,Promoters,Market Sale,Sell,Equity Shares,35000.0,0.0,0.0,0.0,0.0,1317058.0,2.57,1282058.0,2.5
+METROPOLIS,2024-06-07 23:23:00,2024-06-06,2024-06-06,2024-06-06,Promoters,Market Sale,Sell,Equity Shares,10000.0,0.0,0.0,0.0,0.0,1267058.0,2.47,1257058.0,2.45
+METROPOLIS,2024-06-07 23:23:00,2024-06-06,2024-06-05,2024-06-05,Promoters,Market Sale,Sell,Equity Shares,15000.0,0.0,0.0,0.0,0.0,1282058.0,2.5,1267058.0,2.47
+METROPOLIS,2024-08-20 23:05:00,2024-08-19,2024-08-16,2024-08-16,Promoters,Market Sale,Sell,Equity Shares,40000.0,0.0,0.0,0.0,0.0,1257058.0,2.45,1217058.0,2.38
+METROPOLIS,2024-08-20 23:05:00,2024-08-19,2024-08-19,2024-08-19,Promoters,Market Sale,Sell,Equity Shares,25000.0,0.0,0.0,0.0,0.0,1217058.0,2.38,1192058.0,2.33
+METROPOLIS,2024-08-22 20:11:00,2024-08-20,2024-08-20,2024-08-20,Promoters,Market Sale,Sell,Equity Shares,17500.0,0.0,0.0,0.0,0.0,1192058.0,2.33,1174558.0,2.29
+METROPOLIS,2024-08-22 20:11:00,2024-08-21,2024-08-21,2024-08-21,Promoters,Market Sale,Sell,Equity Shares,7500.0,0.0,0.0,0.0,0.0,1174558.0,2.29,1167058.0,2.28
+METROPOLIS,2025-03-28 19:06:00,2025-03-27,2025-03-26,2025-03-26,Promoter Group,Inter-se-Transfer,Sell,Equity Shares,765659.0,0.0,0.0,0.0,0.0,765659.0,1.48,,0.0
+METROPOLIS,2025-03-28 19:06:00,2025-03-27,2025-03-26,2025-03-26,Promoter Group,Inter-se-Transfer,Buy,Equity Shares,765659.0,0.0,0.0,0.0,0.0,4964026.0,9.58,5729685.0,11.06
+METROPOLIS,2025-06-02 19:29:00,2025-05-30,2025-05-29,2025-05-29,Promoters,Inter-se-Transfer,Sell,Equity Shares,1167058.0,0.0,0.0,0.0,0.0,1167058.0,2.25,,0.0
+METROPOLIS,2025-06-02 19:29:00,2025-05-30,2025-05-29,2025-05-29,Promoters,Inter-se-Transfer,Buy,Equity Shares,1167058.0,0.0,0.0,0.0,0.0,2558187.0,4.94,3725245.0,7.19
