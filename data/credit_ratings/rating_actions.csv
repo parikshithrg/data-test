@@ -1,0 +1,1081 @@
+app_id,symbol,company_name,isin,agency,rating,rating_earlier,action,outlook,date_of_rating,filing_date
+3905,DLF,DLF Limited,INE271C01023,ICRA Limited,ICRA AA,ICRA A1+,Upgrade,Stable,2023-04-05,2023-04-10 00:00:00
+3925,,Pirg Sdi 4 Trust,INE0OD915019,CRISIL Ratings Limited,CRISIL BB (SO),PROVISIONAL CRISIL BB (SO),Reaffirm,No Outlook,2023-04-04,2023-04-11 00:00:00
+3945,,Nva Asset 1 Trust,INE0PBP15014,CRISIL Ratings Limited,CRISIL A+ (SO),s,Reaffirm,No Outlook,2023-04-11,2023-04-13 00:00:00
+3965,,Nuclear Power Corporation of India Limited,INE206D08220,ICRA Limited,[ICRA]AAA (Stable),[ICRA]AAA (Stable),Reaffirm,[ICRA]AAA (Stable),2023-03-15,2023-04-20 12:41:49
+3985,,Anzen India Energy Yield Plus Trust,INE0MIZ07020,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2023-04-20,2023-04-20 20:05:39
+4005,JAGRAN,Jagran Prakashan Limited,INE199G07040,CRISIL Ratings Limited,CRISIL AA+/Stable,CRISIL AA+/STABLE,Reaffirm,STABLE,2023-04-21,2023-04-21 17:53:15
+4025,POONAWALLA,Poonawalla Fincorp Limited,INE511C07755,CRISIL Ratings Limited,CRISIL AAA,,Upgrade,STABLE,2023-04-24,2023-04-25 01:05:07
+4026,POONAWALLA,Poonawalla Fincorp Limited,INE511C14UX7,CRISIL Ratings Limited,CRISIL A1+,CRISIL A1+,Reaffirm,NA,2023-04-24,2023-04-25 01:05:36
+4045,,National Highways Infra Trust,INE0H7R07025,CARE Ratings Limited,CARE AAA,,Other,Stable,2023-04-25,2023-04-26 11:47:37
+4046,,India Grid Trust,INE219X07199,CRISIL Ratings Limited,AAA,,Reaffirm,STABLE,2023-04-06,2023-04-26 12:33:15
+4065,,The Oriental Insurance Company Limited,INE06GZ08015,CRISIL Ratings Limited,AA+,AAA,Downgrade,Negative,2023-04-26,2023-04-27 11:00:40
+4085,LTF,L&T Finance Limited,INE476M07BY4,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2020-04-08,2023-04-27 18:46:06
+4125,,Patil Rail Infrastructure Private Limited,INE254I07072,CARE Ratings Limited,CARE A-,CARE A-,Reaffirm,STABLE,2023-02-14,2023-04-28 16:42:05
+4145,,Tata Motors Finance Limited,INE909H08162,ICRA Limited,ICRA A,ICRA A,Other,Positive,2023-03-06,2023-04-28 21:25:08
+4146,,TMF Holdings Limited,INE909H08469,CRISIL Ratings Limited,CRISIL tAA-,,Reaffirm,Stable,2023-02-14,2023-04-28 21:26:55
+4147,,Tata Motors Finance Solutions Limited,INE477S08092,CRISIL Ratings Limited,CRISIL AA-,,Reaffirm,Stable,2023-02-14,2023-04-28 21:39:30
+4148,,Tata Motors Finance Solutions Limited,INE477S08100,CRISIL Ratings Limited,CRISIL AA-,,Reaffirm,Stable,2023-02-14,2023-04-28 21:40:00
+4149,,Piramal Capital & Housing Finance Limited,INE516Y07444,ICRA Limited,[ICRA] AA,[ICRA] AA,Reaffirm,Stable,2023-04-28,2023-04-28 23:16:36
+4166,,Provincial Finance And Leasing Co Private Limited,INE0L6808011,Acute Ratings & Research Limited,ACUITE PP-MLD BBB-,,Reaffirm,Stable,2023-04-27,2023-05-02 20:14:46
+4185,,Dhani Loans and Services Limited,INE614X07191,CARE Ratings Limited,CARE BB+,,Downgrade,CARE BB+; Stable,2023-05-02,2023-05-03 17:40:43
+4205,,Cholamandalam MS General Insurance Company Limited,INE439H08020,ICRA Limited,AA,,Reaffirm,Stable,2023-04-28,2023-05-04 18:13:16
+4225,TRENT,Trent Limited,INE849A08082,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Reaffirm,Stable,2023-05-11,2023-05-11 16:39:13
+4246,,Provincial Finance And Leasing Co Private Limited,INE0L6808029,Acute Ratings & Research Limited,ACUITE BBB-,,New,Stable,2023-05-10,2023-05-17 17:36:20
+4265,IDFCFIRSTB,IDFC First Bank Limited,INE092T08386,ICRA Limited,[ICRA]AA+,[ICRA]AA,Upgrade,Stable,2023-05-23,2023-05-24 15:47:38
+4286,,Provincial Finance And Leasing Co Private Limited,INE0L6807088,Acute Ratings & Research Limited,ACUITE PP-MLD BBB-,,New,Stable,2023-05-19,2023-05-24 17:38:07
+4305,,Aditya Birla Sun Life Insurance Company Limited,INE951F08036,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA+,Reaffirm,Stable,2023-05-26,2023-05-26 16:10:05
+4325,IFCI,IFCI Limited,INE039A09OM9,ICRA Limited,B+,B+,Reaffirm,NEGATIVE,2023-05-29,2023-05-29 18:21:52
+4345,CENTRALBK,Central Bank of India,INE483A09286,CRISIL Ratings Limited,AA-,A+,Upgrade,STABLE,2023-05-31,2023-06-01 12:07:26
+4365,IDFCFIRSTB,IDFC First Bank Limited,INE092T08EZ3,CRISIL Ratings Limited,CRISIL AA+,,New,Stable,2023-06-02,2023-06-03 17:31:49
+4385,,PTC India Financial Services Limited,INE560K07128,CRISIL Ratings Limited,CRISIL A+,,Reaffirm,Negative,2023-06-08,2023-06-09 14:57:16
+4386,HDBFS,HDB Financial Services Limited,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-06-08,2023-06-09 17:03:01
+4405,CENTRALBK,Central Bank of India,INE483A08023,ICRA Limited,AA-,A+,Upgrade,STABLE,2023-06-12,2023-06-13 12:55:20
+4425,HDBFS,HDB Financial Services Limited,INE756I07EH6,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-06-14,2023-06-14 18:18:12
+4445,,Dhani Loans and Services Limited,INE614X07290,Brickwork Ratings India Private Limited,BWR BBB-/Negative,,Downgrade,BWR BBB-/Negative,2023-06-15,2023-06-16 15:12:35
+4465,TATAMOTORS,Tata Motors Limited,INE155A08381,CRISIL Ratings Limited,AA,AA-,Upgrade,Stable,2023-05-19,2023-06-21 17:36:46
+4485,PNB,Punjab National Bank,INE160A08084,CRISIL Ratings Limited,AA+,,Reaffirm,POSITIVE,2023-06-21,2023-06-22 19:20:58
+4505,,ECL Finance Limited,INE804I08825,ICRA Limited,A+,,Reaffirm,Stable,2023-06-22,2023-06-23 17:58:48
+4506,,Edelweiss Retail Finance Limited,INE528S07128,ICRA Limited,A+,,Reaffirm,Stable,2023-06-22,2023-06-23 18:33:52
+4507,,Edelweiss Housing Finance Limited,INE530L07228,ICRA Limited,A+,,Reaffirm,Stable,2023-06-22,2023-06-23 20:03:39
+4508,,ECL Finance Limited,INE804I079Z3,CRISIL Ratings Limited,AA-,,Reaffirm,Negative,2023-06-23,2023-06-24 16:53:25
+4509,,Edelweiss Housing Finance Limited,INE530L07517,CRISIL Ratings Limited,AA-,,Reaffirm,Negative,2023-06-23,2023-06-24 18:49:40
+4525,IOB,Indian Overseas Bank,INE565A08035,CRISIL Ratings Limited,AA-,AA-,Reaffirm,POSITIVE,2023-06-28,2023-06-30 13:57:56
+4526,PNBHOUSING,PNB Housing Finance Limited,INE572E07084,CARE Ratings Limited,CARE AA;nPositiven(Double A;nOutlook:nPositive),CARE AA,Reaffirm,Positive,2023-06-29,2023-06-30 17:30:52
+4527,PNB,Punjab National Bank,INE141A08035,CARE Ratings Limited,AA+,,Reaffirm,POSITIVE,2023-06-21,2023-06-30 20:03:12
+4528,,Edelweiss Housing Finance Limited,INE530L07236,ICRA Limited,A+,,Reaffirm,Stable,2023-06-30,2023-07-01 11:49:19
+4529,ACI,Archean Chemical Industries Limited,INE128X01021,CRISIL Ratings Limited,CRISIL A-/STABLE,,New,Stable,2023-06-30,2023-07-01 18:53:12
+4530,,The Tata Power Company Limited,INE245A07424,CARE Ratings Limited,CARE AA,,Other,CARE AA,2023-06-29,2023-07-03 13:04:53
+4531,,The Tata Power Company Limited,INE245A07408,ICRA Limited,AA,,Other,Positive,2023-06-30,2023-07-03 13:05:10
+4532,EDELWEISS,Edelweiss Financial Services Limited,INE532F07DP2,Acuite Ratings & Research Limited,A+,,Downgrade,Stable,2023-07-03,2023-07-04 00:44:10
+4545,,ECL Finance Limited,INE804I08734,Acuite Ratings & Research Limited,A,,Downgrade,Stable,2023-07-04,2023-07-05 01:02:50
+4546,,Edelweiss Retail Finance Limited,INE528S08050,Acuite Ratings & Research Limited,A,,Downgrade,Stable,2023-07-04,2023-07-05 01:28:47
+4565,,Edelweiss Housing Finance Limited,INE530L07442,Acuite Ratings & Research Limited,A+,,Downgrade,Stable,2023-07-04,2023-07-05 22:21:27
+4585,RELIANCE,Reliance Industries Limited,INE002A08633,CARE Ratings Limited,CARE AAA,CARE AAA,Other,Stable,2023-07-05,2023-07-06 18:00:27
+4586,TATAMOTORS,Tata Motors Limited,INE155A08191,ICRA Limited,AA,AA-,Upgrade,Stable,2023-07-05,2023-07-06 18:14:57
+4587,IFCI,IFCI Limited,INE039A09MC4,CARE Ratings Limited,BB,BB,Reaffirm,NEGATIVE,2023-07-05,2023-07-06 21:24:04
+4605,,Ugro Capital Limited,INE583D07224,Acuite Ratings & Research Limited,ACUITE A,ACUITE A,Reaffirm,Stable,2023-07-06,2023-07-07 18:11:48
+4606,,Tata Power Renewable Energy Limited,INE607M07024,ICRA Limited,ICRA AA,,Other,Positive,2023-07-07,2023-07-07 18:25:09
+4608,,CLIX HOUSING FINANCE LIMITED,INE0DLP07024,Acute Ratings & Research Limited,A+,,Downgrade,Stable,2023-07-06,2023-07-07 18:27:53
+4609,HDBFS,HDB Financial Services Limited,INE756I07DW7,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-07-06,2023-07-07 18:35:32
+4625,SBIN,State Bank Of India,INE062A08298,CRISIL Ratings Limited,AA+,,Reaffirm,Stable,2023-07-07,2023-07-10 18:43:23
+4626,SBIN,State Bank Of India,INE062A08249,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Reaffirm,Stable,2023-07-10,2023-07-10 19:58:19
+4627,IDFCFIRSTB,IDFC First Bank Limited,INE688I08079,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Rating Watch withnDevelopingnImplications,2023-07-07,2023-07-10 23:05:26
+4645,,Rajasthan Rajya Vidyut Prasaran Nigam Limited,INE572F11075,Infomerics Valuation and Ratings Private Limited,IVR A-(CE),,New,Stable,2023-07-11,2023-07-13 17:20:58
+4646,IDFCFIRSTB,IDFC First Bank Limited,INE688I08012,CARE Ratings Limited,CARE AA,CARE AA,Other,Stable,2023-07-12,2023-07-13 17:52:26
+4665,UNIONBANK,Union Bank of India,INE434A08177,CRISIL Ratings Limited,AA,,Reaffirm,POSITIVE,2023-07-14,2023-07-15 18:39:06
+4685,SBIN,State Bank Of India,INE062A08249,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Reaffirm,Stable,2023-07-19,2023-07-19 16:29:42
+4705,SBIN,State Bank Of India,INE062A08348,India Ratings and Research Private Limited,IND AAA,,Reaffirm,Stable,2023-07-20,2023-07-21 13:22:30
+4725,EDELWEISS,Edelweiss Financial Services Limited,INE532F07DS6,Acuite Ratings & Research Limited,A+,A+,Reaffirm,Stable,2023-07-20,2023-07-21 19:18:09
+4745,JAGRAN,Jagran Prakashan Limited,INE199G07057,CRISIL Ratings Limited,CRISIL AA+/Stable,CRISIL AA+/Stable,Reaffirm,STABLE,2023-07-28,2023-07-28 18:57:19
+4765,,India Grid Trust,INE219X07181,India Ratings and Research Private Limited,AAA,,Reaffirm,Stable,2023-08-02,2023-08-02 17:59:21
+4785,HDBFS,HDB Financial Services Limited,INE756I08132,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-07-18,2023-08-03 18:33:51
+4786,,Phoenix Arc Private Limited,INE163K07089,CRISIL Ratings Limited,AA,,Reaffirm,Stable,2023-08-03,2023-08-03 23:30:45
+4787,SBIN,State Bank Of India,INE062A08165,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2023-08-04,2023-08-04 20:09:11
+4805,SBIN,State Bank Of India,INE062A08199,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Reaffirm,Stable,2023-08-08,2023-08-08 15:28:48
+4825,HDBFS,HDB Financial Services Limited,INE756I07EH6,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-08-07,2023-08-08 18:47:50
+4845,LTF,L&T Finance Limited,INE691I08297,ICRA Limited,AAA,AAA,Reaffirm,Stable,2022-08-08,2023-08-09 14:44:41
+4846,,L&T INFRA CREDIT LIMITED,INE235P07852,ICRA Limited,AAA,AAA,Reaffirm,Stable,2022-08-08,2023-08-09 16:39:06
+4865,PNB,Punjab National Bank,INE160A16MM2,ICRA Limited,A1+,A1+,Reaffirm,,2023-08-10,2023-08-10 19:25:57
+4866,UNIONBANK,Union Bank of India,INE692A08144,ICRA Limited,AA+,,Reaffirm,Positive,2023-08-10,2023-08-10 21:00:05
+4885,,India Grid Trust,INE219X07249,India Ratings and Research Private Limited,AAA,,Reaffirm,Stable,2023-08-10,2023-08-11 15:30:54
+4886,IDBI,IDBI Bank Limited,INE008A08V18,ICRA Limited,AA,,Upgrade,stable,2023-08-11,2023-08-11 17:49:23
+4905,,The Oriental Insurance Company Limited,INE06GZ08015,ICRA Limited,AA,AA+,Downgrade,Negative,2023-08-14,2023-08-14 13:44:10
+4926,PSB,Punjab & Sind Bank,INE608A08017,CRISIL Ratings Limited,AA,AA,Reaffirm,Stable,2023-08-17,2023-08-17 17:33:05
+4945,HDBFS,HDB Financial Services Limited,INE756I07ED5,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-08-17,2023-08-18 18:02:17
+4965,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07281,ICRA Limited,A,A-,Upgrade,Stable,2023-08-18,2023-08-21 11:56:58
+4985,,Export Import Bank of India,INE514E08CH0,ICRA Limited,AAA,AAA,Reaffirm,Stable,2023-07-05,2023-08-21 17:10:54
+5005,PNBHOUSING,PNB Housing Finance Limited,INE572E07092,ICRA Limited,[ICRA]AA,[ICRA]AA,Reaffirm,Positive,2023-08-22,2023-08-23 16:36:27
+5006,SJVN,SJVN Limited,INE002L08010,CRISIL Ratings Limited,AA+,,Reaffirm,Stable,2023-08-21,2023-08-23 17:45:55
+5009,HDBFS,HDB Financial Services Limited,INE756I07EI4,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-08-22,2023-08-23 19:15:20
+5010,BANKINDIA,Bank of India,INE084A08151,CRISIL Ratings Limited,AA+,AA+,Reaffirm,STABLE,2023-08-22,2023-08-24 13:40:39
+5025,BANKBARODA,Bank Of Baroda,INE705A08052,ICRA Limited,[ICRA]AAA (Stable),,Reaffirm,Stable,2023-08-11,2023-08-25 16:27:38
+5045,HDBFS,HDB Financial Services Limited,INE756I08124,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-08-02,2023-08-30 20:42:05
+5066,,GMR Pochanpalli Expressways Limited,INE808H07010,CARE Ratings Limited,CARE BB-,CARE BB-,Reaffirm,Stable,2023-08-29,2023-08-31 12:30:24
+5067,EDELWEISS,Edelweiss Financial Services Limited,INE532F07BJ9,CRISIL Ratings Limited,AA-,AA-,Reaffirm,Negative,2023-08-31,2023-09-01 13:00:39
+5068,BANKINDIA,Bank of India,INE084A08136,Acuite Ratings & Research Limited,AA,AA,Reaffirm,POSITIVE,2023-08-30,2023-09-01 16:43:54
+5069,HDBFS,HDB Financial Services Limited,INE756I14DG6,CRISIL Ratings Limited,A1+,A1+,Reaffirm,STABLE,2023-09-01,2023-09-02 19:07:40
+5085,ICICIGI,ICICI Lombard General Insurance Company Limited,INE513L08024,ICRA Limited,ICRA[AAA](Stable),,Reaffirm,Stable,2023-09-06,2023-09-06 16:52:01
+5105,,SWARNA TOLLWAY PRIVATE LIMITED,INE963H07047,CRISIL Ratings Limited,AAA,,Reaffirm,STABLE,2023-09-08,2023-09-08 17:52:56
+5106,BANKINDIA,Bank of India,INE084A08151,Infomerics Valuation and Ratings Private Limited,AAA,AAA,Reaffirm,STABLE,2023-09-08,2023-09-08 18:47:44
+5108,,Alpha Alternatives Financial Services Private Limited,INE0L6807096,CARE Ratings Limited,CARE PP-MLD BBB,,New,Stable,2023-09-08,2023-09-08 19:27:32
+5109,SJVN,SJVN Limited,INE002L08010,India Ratings and Research Private Limited,AA+,,Reaffirm,Stable,2023-09-08,2023-09-08 19:51:51
+5145,,Reliance Jio Infocomm Limited,INE110L08078,CRISIL Ratings Limited,CRISIL AAA/ Stable,,Reaffirm,Stable,2023-09-12,2023-09-12 17:28:29
+5165,CEATLTD,CEAT Limited,INE482A07050,India Ratings and Research Private Limited,IND AA,IND AA,Reaffirm,Stable,2023-09-11,2023-09-13 10:50:15
+5185,ICICIGI,ICICI Lombard General Insurance Company Limited,INE513L08024,CRISIL Ratings Limited,CRISIL AAA/Stable,,Reaffirm,Stable,2023-09-15,2023-09-15 22:58:37
+5205,,Bharti Axa Life Insurance Company Limited,INE089J08029,CARE Ratings Limited,CARE AA,CARE AA; Stable,Reaffirm,Stable,2023-09-13,2023-09-18 18:13:37
+5225,HDBFS,HDB Financial Services Limited,INE756I07EH6,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-09-20,2023-09-20 20:02:47
+5245,UNIONBANK,Union Bank of India,INE692A08219,CARE Ratings Limited,AAA,,Upgrade,STABLE,2023-09-20,2023-09-21 17:29:38
+5246,,Phoenix Arc Private Limited,INE163K07097,CRISIL Ratings Limited,AA,,Reaffirm,Stable,2023-09-20,2023-09-21 19:35:14
+5265,UTKARSHBNK,Utkarsh Small Finance Bank Limited,INE735W08020,CARE Ratings Limited,CARE A+,CARE A,Upgrade,Stable,2023-09-22,2023-09-22 20:29:47
+5285,,Reliance Jio Infocomm Limited,INE110L08078,CARE Ratings Limited,CARE AAA; Stable,CARE AAA; Stable,Reaffirm,Stable,2023-09-27,2023-09-27 19:25:19
+5305,,Tata Power Renewable Energy Limited,INE607M07024,CARE Ratings Limited,CARE AA,,Other,Positive,2023-09-28,2023-09-29 15:33:10
+5306,LTF,L&T Finance Limited,INE027E07CB8,CARE Ratings Limited,CARE AAA,,Reaffirm,Stable,2023-09-28,2023-09-29 15:51:17
+5307,,L&T INFRA CREDIT LIMITED,INE235P07AL6,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2023-09-28,2023-09-29 16:05:46
+5310,PSB,Punjab & Sind Bank,INE608A08017,CARE Ratings Limited,AA-,AA-,Reaffirm,Positive,2023-09-29,2023-09-30 16:21:09
+5311,HDBFS,HDB Financial Services Limited,INE756I08231,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-09-29,2023-09-30 16:49:20
+5312,HDBFS,HDB Financial Services Limited,INE756I07EE3,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-09-29,2023-09-30 16:51:45
+5325,PNB,Punjab National Bank,INE160A08068,India Ratings and Research Private Limited,AAA,AAA,Other,STABLE,2023-09-14,2023-10-03 17:13:12
+5345,IDFCFIRSTB,IDFC First Bank Limited,INE688I08079,CARE Ratings Limited,CARE AA+,CARE AA,Upgrade,Stable,2023-10-03,2023-10-04 19:54:59
+5365,VEDL,Vedanta Limited,INE205A07196,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Other,Watch Negative,2023-10-04,2023-10-05 17:23:03
+5385,EDELWEISS,Edelweiss Financial Services Limited,INE532F07DW8,CARE Ratings Limited,A+,,Reaffirm,Negative,2023-10-05,2023-10-06 15:52:54
+5387,ICICIPRULI,ICICI Prudential Life Insurance Company Limited,INE726G08014,ICRA Limited,ICRA AAA/Stable,ICRA AAA/STABLE,Reaffirm,Stable,2023-10-06,2023-10-06 19:48:34
+5388,SBIN,State Bank Of India,INE062A08231,CARE Ratings Limited,AAA,AAA,Reaffirm,Stable,2023-10-06,2023-10-07 13:04:17
+5389,,The Federal Bank Limited,INE171A08024,CARE Ratings Limited,CARE AA+,CARE AA,Upgrade,Stable,2023-10-06,2023-10-07 14:11:36
+5390,HINDZINC,Hindustan Zinc Limited,INE267A08012,CRISIL Ratings Limited,CRISIL AAA,,Reaffirm,STABLE,2023-10-05,2023-10-07 15:41:39
+5405,IBULHSGFIN,Indiabulls Housing Finance Limited,INE148I07415,CARE Ratings Limited,CARE AA-,CARE AA,Downgrade,Stable,2023-10-09,2023-10-10 18:02:45
+5406,IDFCFIRSTB,IDFC First Bank Limited,INE092T08EY6,CRISIL Ratings Limited,CRISIL AA+,CRISILAA+,Reaffirm,Stable,2023-10-09,2023-10-10 19:35:32
+5407,VEDL,Vedanta Limited,INE205A07220,India Ratings and Research Private Limited,IND AA-,IND AA,Other,RWN,2023-10-11,2023-10-11 19:37:02
+5445,SAGCEM,Sagar Cements Limited,INE229C01021,India Ratings and Research Private Limited,IND A,IND A,Other,Negative,2023-10-16,2023-10-17 17:05:58
+5465,HDBFS,HDB Financial Services Limited,INE756I14CZ8,CARE Ratings Limited,A1+,A1+,Reaffirm,STABLE,2023-10-17,2023-10-17 19:03:55
+5486,JINDALSAW,Jindal Saw Limited,INE324A07179,Brickwork Ratings India Private Limited,BWR AA,BWR AA,Reaffirm,STABLE,2023-10-19,2023-10-20 16:40:57
+5505,SBIN,State Bank Of India,INE062A08207,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2023-10-26,2023-10-26 19:48:42
+5506,SBIN,State Bank Of India,INE062A08215,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA+,Reaffirm,Stable,2023-10-26,2023-10-26 20:01:17
+5525,UNIONBANK,Union Bank of India,INE692A08185,India Ratings and Research Private Limited,AA,,Reaffirm,POSITIVE,2023-10-26,2023-10-27 15:28:29
+5526,SHRIRAMFIN,Shriram Finance Limited,INE721A07QE8,India Ratings and Research Private Limited,IND AAA(CE),IND AAA(CE),Other,Stable,2023-10-26,2023-10-27 16:44:19
+5527,,India Grid Trust,INE219X07256,CRISIL Ratings Limited,AAA,,Reaffirm,Stable,2023-10-26,2023-10-27 17:31:49
+5545,LICHSGFIN,LIC Housing Finance Limited,INE115A01026,ICRA Limited,ICRA A1+,ICRA A1+,Reaffirm,Stable,2023-10-27,2023-10-30 17:40:41
+5565,,PTC India Financial Services Limited,INE560K07102,CRISIL Ratings Limited,CRISIL A,,Downgrade,Negative,2023-10-30,2023-10-31 18:47:53
+5585,BANKBARODA,Bank Of Baroda,INE028A08182,CRISIL Ratings Limited,AA+/Stable,,Reaffirm,Stable,2023-10-31,2023-11-02 11:57:08
+5605,LICHSGFIN,LIC Housing Finance Limited,INE115A01026,CRISIL Ratings Limited,CRISIL A1+,AAA/Stable,Reaffirm,Stable,2023-11-01,2023-11-02 17:53:31
+5606,RELIANCE,Reliance Industries Limited,INE002A08690,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2023-11-01,2023-11-02 20:07:32
+5607,RELIANCE,Reliance Industries Limited,INE002A08658,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Other,Stable,2023-11-03,2023-11-04 16:04:53
+5608,BANKBARODA,Bank Of Baroda,INE028A08133,India Ratings and Research Private Limited,IND AAA,,Reaffirm,Stable,2023-11-03,2023-11-04 16:18:07
+5625,IBULHSGFIN,Indiabulls Housing Finance Limited,INE148I07PX9,CRISIL Ratings Limited,AA,,Reaffirm,Stable,2023-11-03,2023-11-06 22:06:36
+5626,SBIN,State Bank Of India,INE649A08037,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2023-11-06,2023-11-07 11:13:30
+5627,,JM Financial Credit Solutions Limited,INE651J07861,ICRA Limited,[ICRA]AA (Stable),,Reaffirm,Stable,2023-10-20,2023-11-07 20:03:35
+5628,TVSHLTD,TVS Holdings Limited,INE105A04013,CRISIL Ratings Limited,CRISIL A1+,CRISIL A1+,Reaffirm,Stable,2023-11-06,2023-11-07 20:37:48
+5645,IFCI,IFCI Limited,INE039A07801,Brickwork Ratings India Private Limited,B+,B+,Reaffirm,NEGATIVE,2023-11-10,2023-11-10 18:40:00
+5665,BANKBARODA,Bank Of Baroda,INE028A08240,India Ratings and Research Private Limited,IND AA+,,Reaffirm,Stable,2023-11-10,2023-11-15 14:28:34
+5666,CANBK,Canara Bank,INE476A08191,CARE Ratings Limited,CARE AAA,,Reaffirm,STABLE,2023-11-15,2023-11-15 17:16:45
+5685,VEDL,Vedanta Limited,INE205A07212,CRISIL Ratings Limited,CRISIL AA-,CRISIL AA,Other,Watch Developing,2023-11-17,2023-11-18 10:28:41
+5686,HINDZINC,Hindustan Zinc Limited,ZZZ999Z99999,CRISIL Ratings Limited,CRISIL AAA,,Reaffirm,STABLE,2023-11-18,2023-11-18 16:36:48
+5687,HDBFS,HDB Financial Services Limited,INE756I14DA9,CARE Ratings Limited,A1+,A1+,Reaffirm,STABLE,2023-11-18,2023-11-18 16:43:10
+5705,,Dhani Loans and Services Limited,INE614X07274,Infomerics Valuation and Ratings Private Limited,IVR BBB-/Negative,,Downgrade,IVR BBB-/Negative,2023-11-20,2023-11-21 17:38:53
+5706,IIFL,IIFL Finance Limited,INE530B07104,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Reaffirm,Positive,2023-11-20,2023-11-21 17:51:35
+5725,,The Tata Power Company Limited,INE245A07267,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Other,Positive,2023-11-21,2023-11-22 11:14:53
+5726,,MAITHON POWER LIMITED,INE082G07071,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Other,Positive,2023-11-21,2023-11-22 12:46:09
+5727,BANKBARODA,Bank Of Baroda,INE028A09123,CRISIL Ratings Limited,AAA,,Reaffirm,Stable,2023-11-20,2023-11-22 14:15:21
+5745,,The Karur Vysya Bank Limited,INE036D08015,ICRA Limited,[ICRA] AA-,[ICRA] A+,Upgrade,Stable,2023-11-22,2023-11-22 20:11:20
+5765,PNB,Punjab National Bank,INE160A08084,ICRA Limited,AAA,AA+,Upgrade,STABLE,2023-11-23,2023-11-23 18:18:58
+5786,UNIONBANK,Union Bank of India,INE692A08219,ICRA Limited,AAA,AA+,Upgrade,STABLE,2023-11-23,2023-11-23 19:35:17
+5805,TRENT,Trent Limited,INE849A08082,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2023-11-23,2023-11-24 11:06:04
+5825,IOB,Indian Overseas Bank,INE565A08050,ICRA Limited,AA-,AA-,Reaffirm,POSITIVE,2023-11-28,2023-11-28 14:43:38
+5845,PNB,Punjab National Bank,INE160A08209,CRISIL Ratings Limited,AA+,AA,Upgrade,STABLE,2023-11-29,2023-11-30 13:05:14
+5865,IDBI,IDBI Bank Limited,INE008A08V59,CARE Ratings Limited,AA-,,Other,Stable,2023-12-05,2023-12-06 14:29:34
+5885,HDBFS,HDB Financial Services Limited,INE756I14DJ0,CRISIL Ratings Limited,A1+,A1+,Reaffirm,STABLE,2023-12-05,2023-12-06 19:55:16
+5905,IIFL,IIFL Finance Limited,INE530B08102,Brickwork Ratings India Private Limited,BWR AA +,BWR AA +,Reaffirm,Stable,2023-12-01,2023-12-07 17:59:26
+5906,,Reliance Jio Infocomm Limited,INE110L08078,CARE Ratings Limited,CARE AAA; Stable,CARE AAA; Stable,Reaffirm,Stable,2023-12-06,2023-12-07 20:17:54
+5907,HDBFS,HDB Financial Services Limited,INE756I07DP1,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-12-07,2023-12-08 21:03:30
+5925,CENTRALBK,Central Bank of India,INE483A08031,India Ratings and Research Private Limited,AA-,AA-,Reaffirm,Positive (Upgraded from Stable),2023-12-11,2023-12-11 18:21:20
+5945,PNB,Punjab National Bank,INE141A08019,ICRA Limited,AAA,AAA,Reaffirm,STABLE,2023-12-12,2023-12-12 18:20:01
+5946,IDFCFIRSTB,IDFC First Bank Limited,INE092T08014,India Ratings and Research Private Limited,IND AA+,IND AA+,Reaffirm,Stable,2023-12-11,2023-12-12 18:26:52
+5965,,ECL Finance Limited,INE804I08742,Acuite Ratings & Research Limited,A,,Reaffirm,Stable,2023-12-12,2023-12-13 17:42:47
+5966,CANFINHOME,Can Fin Homes Limited,INE477A07332,India Ratings and Research Private Limited,IND AA+/Stable,IND AA+/Stable,Reaffirm,Stable,2023-12-12,2023-12-13 18:44:53
+5967,PNB,Punjab National Bank,INE160A08035,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-12-13,2023-12-13 19:38:21
+5968,PNB,Punjab National Bank,INE160A08068,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2023-12-13,2023-12-13 19:38:29
+5986,UCOBANK,UCO Bank,INE691A08054,India Ratings and Research Private Limited,AA-,,Reaffirm,POSITIVE,2023-12-15,2023-12-15 16:41:57
+5987,BANKBARODA,Bank Of Baroda,INE028A08224,CRISIL Ratings Limited,CRISIL AA+,,Reaffirm,Stable,2023-12-13,2023-12-15 17:20:20
+5988,BANKBARODA,Bank Of Baroda,INE028A08182,CRISIL Ratings Limited,CRISIL AA+,,Reaffirm,Stable,2023-12-13,2023-12-15 17:24:07
+5989,BANKBARODA,Bank Of Baroda,INE028A08216,India Ratings and Research Private Limited,IND AA+,,Reaffirm,Stable,2023-12-13,2023-12-15 17:33:40
+5990,MOTHERSON,Samvardhana Motherson International Limited,INE775A08055,India Ratings and Research Private Limited,IND AAA,IND AAA,Other,Stable,2023-12-15,2023-12-16 14:35:44
+5992,GREENLAM,Greenlam Industries Limited,INE544R07028,ICRA Limited,AA-,,Reaffirm,Negative,2023-12-18,2023-12-18 19:27:26
+5993,EDELWEISS,Edelweiss Financial Services Limited,INE532F07BJ9,CRISIL Ratings Limited,A+,AA-,Downgrade,Stable,2023-12-18,2023-12-18 22:19:34
+5994,,Nido Home Finance Limited,INE530L07541,CRISIL Ratings Limited,A+,,Downgrade,Stable,2023-12-18,2023-12-19 18:22:33
+5995,,ECL Finance Limited,INE804I08734,CRISIL Ratings Limited,A,,Downgrade,Stable,2023-12-18,2023-12-19 18:45:02
+5996,,Edelweiss Retail Finance Limited,INE528S07128,CRISIL Ratings Limited,A+,,Downgrade,Stable,2023-12-18,2023-12-19 19:09:40
+5997,EDELWEISS,Edelweiss Financial Services Limited,INE532F07ES4,Acuite Ratings & Research Limited,A+,,Reaffirm,Stable,2023-12-18,2023-12-19 23:50:09
+5998,PNB,Punjab National Bank,INE695A09103,Brickwork Ratings India Private Limited,AA+,AA+,Other,Stable,2023-12-20,2023-12-20 19:04:52
+5999,IDBI,IDBI Bank Limited,INE008A08Q98,India Ratings and Research Private Limited,IND AA-,,Upgrade,STABLE,2023-12-21,2023-12-21 16:13:10
+6005,UNIONBANK,Union Bank of India,INE692A08177,CRISIL Ratings Limited,AA+,,Upgrade,STABLE,2023-12-22,2023-12-22 17:48:22
+6006,CANFINHOME,Can Fin Homes Limited,INE477A07282,ICRA Limited,[ICRA]AAA/Stable,[ICRA]AA+/Stable,Other,Stable,2023-12-21,2023-12-22 19:16:19
+6025,,Profectus Capital Private Limited,INE389Z07013,CARE Ratings Limited,CARE A,CARE A,Reaffirm,Stable,2023-12-28,2023-12-29 14:40:46
+6026,CEATLTD,CEAT Limited,ZZZ999Z99999,CARE Ratings Limited,CARE AA; Stable,CARE A1+,Reaffirm,on Long Term Bank Facilities,2023-12-28,2023-12-29 15:52:55
+6027,PNB,Punjab National Bank,INE160A08290,CARE Ratings Limited,AA+,,New,Stable,2023-12-13,2023-12-29 17:05:32
+6045,PNBHOUSING,PNB Housing Finance Limited,INE572E09320,India Ratings and Research Private Limited,IND AA+,IND AA,Upgrade,Stable,2024-01-02,2024-01-02 17:48:54
+6065,CENTRALBK,Central Bank of India,INE483A09286,CRISIL Ratings Limited,AA-,AA-,Reaffirm,STABLE,2024-01-03,2024-01-04 13:26:15
+6066,,Nido Home Finance Limited,INE530L07210,CARE Ratings Limited,A,,Downgrade,Stable,2024-01-03,2024-01-04 16:43:31
+6067,CANFINHOME,Can Fin Homes Limited,INE477A07332,ICRA Limited,[ICRA]AAA (Stable),[ICRA]AAA (Stable),Reaffirm,Stable,2023-12-29,2024-01-04 18:41:06
+6068,,ECL Finance Limited,INE804I08676,CARE Ratings Limited,A,,Downgrade,Stable,2024-01-03,2024-01-04 19:18:33
+6069,,Edelweiss Retail Finance Limited,INE528S08027,CARE Ratings Limited,A,,Downgrade,Stable,2024-01-03,2024-01-04 19:26:09
+6070,EDELWEISS,Edelweiss Financial Services Limited,INE532F07BK7,CARE Ratings Limited,A,A+,Downgrade,Stable,2024-01-03,2024-01-04 20:21:16
+6085,HDBFS,HDB Financial Services Limited,INE756I07EV7,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-01-05,2024-01-06 16:59:29
+6105,,GP Wind (Jangi) Private Limited,INE135Y07013,CARE Ratings Limited,CARE AA-,CARE AA-,Reaffirm,Stable,2023-11-30,2024-01-09 12:51:11
+6106,,Ugro Capital Limited,INE583D07372,India Ratings and Research Private Limited,IND/A,IND/A,Reaffirm,Stable,2024-01-08,2024-01-09 15:36:35
+6107,CANBK,Canara Bank,INE476A01014,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Other,Stable,2024-01-09,2024-01-09 17:19:54
+6108,POONAWALLA,Poonawalla Fincorp Limited,INE511C07706,Acuite Ratings & Research Limited,AAA,AA+,Upgrade,Stable,2024-01-10,2024-01-11 13:01:32
+6109,IDBI,IDBI Bank Limited,INE008A08U76,CRISIL Ratings Limited,AA-,,Upgrade,Stable,2024-01-11,2024-01-11 16:11:30
+6125,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07281,ICRA Limited,A,A,Other,Positive,2024-01-15,2024-01-16 17:08:22
+6145,,Konkan Railway Corporation Limited,INE139F07048,CARE Ratings Limited,CARE AAA(CE),CARE AAA(CE),Reaffirm,STABLE,2024-01-16,2024-01-17 17:17:25
+6165,IIFL,IIFL Finance Limited,INE530B07104,CRISIL Ratings Limited,CRISIL AA,,Reaffirm,Positive,2023-11-20,2024-01-18 15:08:33
+6166,,India Grid Trust,INE219X07215,CRISIL Ratings Limited,AAA,,Reaffirm,Stable,2024-01-17,2024-01-18 17:22:15
+6185,VEDL,Vedanta Limited,INE205A07220,India Ratings and Research Private Limited,IND A+,IND AA-,Other,Rating Watch with Developing Implications,2024-01-22,2024-01-23 13:36:11
+6205,HDBFS,HDB Financial Services Limited,INE756I08066,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-01-23,2024-01-23 18:47:12
+6225,MUTHOOTFIN,Muthoot Finance Limited,INE414G01012,ICRA Limited,AA+,,New,Stable,2024-01-24,2024-01-24 19:07:23
+6227,MUTHOOTFIN,Muthoot Finance Limited,INE414G01012,ICRA Limited,AA+,,New,Stable,2024-01-24,2024-01-24 19:14:02
+6228,,Tata Power Renewable Energy Limited,INE607M08055,India Ratings and Research Private Limited,IND AA+,IND AA,Upgrade,Stable,2024-01-24,2024-01-24 19:43:23
+6229,,The Tata Power Company Limited,INE245A08125,India Ratings and Research Private Limited,IND AA+,IND AA,Other,Stable,2024-01-24,2024-01-24 19:57:46
+6246,MUTHOOTFIN,Muthoot Finance Limited,INE414G01012,CRISIL Ratings Limited,AA+,,New,Stable,2024-01-26,2024-01-27 11:06:43
+6265,,The Karur Vysya Bank Limited,INE036D08015,India Ratings and Research Private Limited,IND A+,IND A+,Reaffirm,Stable,2024-02-02,2024-02-02 17:41:46
+6266,KTKBANK,The Karnataka Bank Limited,INE614B08047,ICRA Limited,A Positive,,Upgrade,Positive,2024-02-02,2024-02-02 17:51:16
+6267,RELIANCE,Reliance Industries Limited,INE002A08542,ICRA Limited,[ICRA] AAA,[ICRA] AAA,Reaffirm,Stable,2024-02-02,2024-02-02 17:51:30
+6268,TATAMOTORS,Tata Motors Limited,INE155A08399,CRISIL Ratings Limited,AA,AA,Reaffirm,Positive,2024-02-01,2024-02-02 19:02:16
+6269,CANBK,Canara Bank,INE476A01014,India Ratings and Research Private Limited,AA+,,Other,STABLE,2024-02-02,2024-02-03 11:50:49
+6270,CANBK,Canara Bank,INE476A01014,CRISIL Ratings Limited,AA+,,Other,STABLE,2024-02-05,2024-02-05 14:26:54
+6271,,Latur Renewable Private Limited,INE03IL08026,CRISIL Ratings Limited,CRISIL AA+(CE),CRISIL AA+(CE),Reaffirm,Stable,2024-02-01,2024-02-05 19:51:03
+6272,,Jodhpur Wind Farms Private Limited,INE03IQ08033,CRISIL Ratings Limited,CRISIL AA+ (CE),CRISIL AA+ (CE),Reaffirm,Stable,2024-02-01,2024-02-05 19:58:11
+6285,,India Grid Trust,INE219X07231,CRISIL Ratings Limited,AAA,,Reaffirm,Stable,2024-02-09,2024-02-09 16:54:37
+6286,HDBFS,HDB Financial Services Limited,INE756I07DR7,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-02-08,2024-02-09 18:09:48
+6305,,The Federal Bank Limited,INE171A08032,India Ratings and Research Private Limited,IND AA+,IND AA,Upgrade,Stable,2024-02-09,2024-02-09 23:40:40
+6325,,India Grid Trust,INE219X07231,India Ratings and Research Private Limited,AAA,,Reaffirm,Stable,2024-02-12,2024-02-13 12:31:33
+6346,,Alpha Alternatives Financial Services Private Limited,INE0L6807138,CARE Ratings Limited,CARE PP-MLD BBB,,New,Stable,2023-12-20,2024-02-15 19:33:42
+6368,UCOBANK,UCO Bank,INE691A08062,Acute Ratings & Research Limited,AA,AA,Reaffirm,Stable,2024-02-20,2024-02-20 15:40:05
+6369,,Karnataka State Financial Corporation,INE549F08509,CARE Ratings Limited,AA-(CE),AA-(CE),Reaffirm,Negative,2023-08-03,2024-02-20 15:53:22
+6371,UCOBANK,UCO Bank,INE691A08088,CARE Ratings Limited,AA-,AA-,Reaffirm,Positive,2024-02-20,2024-02-20 20:22:19
+6385,,IIFL Samasta Finance Limited,INE413U08077,CRISIL Ratings Limited,CRISIL AA-,,Reaffirm,Positive,2023-11-20,2024-02-22 12:36:19
+6405,HDBFS,HDB Financial Services Limited,INE756I07CU3,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-02-22,2024-02-22 19:49:22
+6425,PSB,Punjab & Sind Bank,INE608A01012,ICRA Limited,A1+,A1+,Reaffirm,NA,2024-02-23,2024-02-23 17:00:58
+6428,,Alpha Alternatives Financial Services Private Limited,INE0L6808037,CARE Ratings Limited,CARE PP-MLD BBB,,New,Stable,2023-12-20,2024-02-23 18:02:44
+6445,DLF,DLF Limited,INE271C01023,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Reaffirm,Stable,2024-02-27,2024-02-27 21:40:39
+6465,HOMEFIRST,Home First Finance Company India Limited,INE481N01025,India Ratings and Research Private Limited,IND AA-,IND AA-,Upgrade,Positive,2024-02-29,2024-02-29 18:17:52
+6485,BANKBARODA,Bank Of Baroda,INE028A08158,India Ratings and Research Private Limited,WD,,Reaffirm,,2024-02-29,2024-03-01 16:22:59
+6486,,SWARNA TOLLWAY PRIVATE LIMITED,INE963H07021,ICRA Limited,AAA,,Reaffirm,STABLE,2024-02-23,2024-03-01 18:13:07
+6487,,Knr Tirumala Infra Private Limited,INE01NS07027,CRISIL Ratings Limited,AAA/Stable,AAA/Stable,Reaffirm,Stable,2024-02-29,2024-03-01 18:23:35
+6488,POONAWALLA,Poonawalla Fincorp Limited,INE511C08969,Brickwork Ratings India Private Limited,,AA/Stable,Other,,2024-03-01,2024-03-01 23:23:21
+6490,UCOBANK,UCO Bank,INE691A08086,Infomerics Valuation and Ratings Private Limited,AA-,,Reaffirm,STABLE,2024-03-04,2024-03-04 12:50:52
+6509,PSB,Punjab & Sind Bank,INE608A08033,Infomerics Valuation and Ratings Private Limited,AA,AA,Reaffirm,STABLE,2024-03-05,2024-03-05 15:06:27
+6529,,Ugro Capital Limited,INE583D07448,India Ratings and Research Private Limited,IND/A,,Reaffirm,Stable,2024-03-07,2024-03-07 19:04:05
+6530,HDBFS,HDB Financial Services Limited,INE756I07EV7,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-03-07,2024-03-07 19:19:39
+6531,HDBFS,HDB Financial Services Limited,INE756I07EV7,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-03-07,2024-03-07 19:20:04
+6549,,Godrej Housing Finance Limited,INE02JD07017,CRISIL Ratings Limited,CRISIL AA / Stable,,Reaffirm,Stable,2024-03-07,2024-03-11 10:49:41
+6550,,Godrej Finance Limited,INE02KN07014,CRISIL Ratings Limited,CRISIL AA / Stable,,Reaffirm,Stable,2024-03-07,2024-03-11 10:54:21
+6551,PSB,Punjab & Sind Bank,INE608A01012,ICRA Limited,A1+,A1+,New,NA,2024-03-11,2024-03-11 14:02:26
+6569,IIFL,IIFL Finance Limited,INE530B07377,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Other,Watch Developing,2024-03-12,2024-03-13 20:17:25
+6589,IIFL,IIFL Finance Limited,INE866I08303,Brickwork Ratings India Private Limited,BWR AA +,BWR AA+,Other,Watch,2024-03-13,2024-03-14 17:36:50
+6590,TATAMOTORS,Tata Motors Limited,INE155A08191,CARE Ratings Limited,AA+,AA,Upgrade,Stable,2024-03-13,2024-03-14 18:25:07
+6609,,InCred Financial Services Limited,INE321N07301,CRISIL Ratings Limited,CRISILAA-/Stable,CRISIL A+/Stable,Upgrade,Stable,2024-03-14,2024-03-15 17:30:10
+6610,,Ugro Capital Limited,INE583D07349,CRISIL Ratings Limited,CRISIL A,CRISIL A-,Upgrade,Stable,2024-03-15,2024-03-15 19:57:25
+6611,IDBI,IDBI Bank Limited,INE008A08V26,India Ratings and Research Private Limited,AA-,AA-,Reaffirm,STABLE,2024-03-16,2024-03-16 17:06:48
+6612,TVSHLTD,TVS Holdings Limited,XXX000X00000,CRISIL Ratings Limited,CRISIL AA,,New,,2024-03-15,2024-03-16 17:22:35
+6629,,Kanchanjunga Power Company Private Limited,INE117NO7089,CARE Ratings Limited,CARE A-,CARE A-,Reaffirm,Positive,2024-03-19,2024-03-20 11:41:56
+6630,,Bhilangana Hydro Power Limited,INE453I07195,CARE Ratings Limited,Care A+,Care A+,Reaffirm,Stable,2024-03-18,2024-03-20 12:53:39
+6649,DABUR,Dabur India Limited,INE016A08013,ICRA Limited,[ICRA]AAA(Stable),[ICRA]AAA(Stable),Reaffirm,Stable,2024-03-22,2024-03-22 16:13:19
+6650,EDELWEISS,Edelweiss Financial Services Limited,INE532F07BS0,Brickwork Ratings India Private Limited,AA-,AA-,Reaffirm,Negative,2024-03-21,2024-03-22 18:10:34
+6651,PNB,Punjab National Bank,INE160A08019,ICRA Limited,AAA,,Other,STABLE,2023-12-12,2024-03-22 20:19:02
+6655,,Alpha Alternatives Financial Services Private Limited,INE0L6807047,Acute Ratings & Research Limited,ACUITE PP-MLD BBB-,,Reaffirm,Stable,2022-09-21,2024-03-22 20:47:47
+6669,VEDL,Vedanta Limited,INE205A07196,CRISIL Ratings Limited,CRISIL AA-,CRISIL AA-,Reaffirm,Watch Developing,2024-03-22,2024-03-23 12:00:07
+6689,BHARATFORG,Bharat Forge Limited,INE465A08038,ICRA Limited,AA+,,New,Stable,2024-03-13,2024-03-27 12:07:09
+6709,UTKARSHBNK,Utkarsh Small Finance Bank Limited,INE735W08038,ICRA Limited,A+,A+,Reaffirm,Stable,2024-03-27,2024-03-27 19:00:56
+6729,,Dhani Loans and Services Limited,INE614X07191,Infomerics Valuation and Ratings Private Limited,CARE BB+,,Reaffirm,Stable,2024-03-27,2024-03-28 15:17:46
+6749,,Kanoria Chemicals & Industries Limited,INE138C01024,CARE Ratings Limited,SHORT TERM BANK FACILITIES CARE A THREE PLUS,SHORT TERM BANK FACILITIES CARE A TWO,Downgrade,,2024-03-27,2024-03-28 18:39:06
+6750,,GUJARAT ROAD AND INFRASTRUCTURE COMPANY LIMITED,INE354H07155,ICRA Limited,AAA,,Reaffirm,Stable,2024-03-26,2024-03-28 21:52:43
+6769,PNBHOUSING,PNB Housing Finance Limited,INE572E09239,ICRA Limited,AA+,AA,Upgrade,Stable,2024-03-28,2024-03-29 15:13:03
+6789,,InCred Financial Services Limited,INE321N00000,ICRA Limited,ICRA A1+,,New,Stable,2024-03-28,2024-03-30 15:44:23
+6809,PNBHOUSING,PNB Housing Finance Limited,INE572E09320,CARE Ratings Limited,CARE AA+,CARE AA,Upgrade,Stable,2024-03-29,2024-03-30 22:08:13
+6811,BANKINDIA,Bank of India,INE084A08060,CARE Ratings Limited,AA+,AA+,Reaffirm,Stable,2024-04-01,2024-04-02 16:55:29
+6830,,Popular Vehicles and Services Limited,INE772T01024,CRISIL Ratings Limited,CRISIL A,CRISIL BBB+,Upgrade,STABLE,2024-04-01,2024-04-03 14:25:19
+6831,,Popular Vehicles and Services Limited,INE02Y201017,CRISIL Ratings Limited,CRISIL A,CRISIL BBB,Upgrade,STABLE,2024-04-01,2024-04-03 14:28:57
+6850,HDBFS,HDB Financial Services Limited,INE756I08207,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-04-03,2024-04-03 20:00:12
+6870,HDBFS,HDB Financial Services Limited,INE756I08231,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-04-03,2024-04-04 18:26:19
+6871,BLS,BLS International Services Limited,INE153T01027,CRISIL Ratings Limited,Long term  CRISIL A and Short term CRISIL A1,Long Term CRISIL A and Short Term CRISIL A1,Reaffirm,Positive,2024-04-03,2024-04-04 18:49:03
+6890,IDBI,IDBI Bank Limited,INE008A08V59,CARE Ratings Limited,CARE AA-,CARE AA-,Reaffirm,STABLE,2024-04-04,2024-04-05 12:49:57
+6910,STARHEALTH,Star Health And Allied Insurance Company Limited,INE575P08040,CARE Ratings Limited,AA,,Upgrade,Positive,2024-04-05,2024-04-06 16:15:00
+6930,,Nuclear Power Corporation of India Limited,INE206D08139,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Reaffirm,2023-11-20,2024-04-08 13:52:23
+6951,,Alpha Alternatives Financial Services Private Limited,INE0L6807047,Acute Ratings & Research Limited,ACUITE PP-MLD BBB-,,Reaffirm,Stable,2022-09-21,2024-04-09 17:46:20
+6970,,National Highways Infra Trust,INE0H7R07017,CARE Ratings Limited,CARE AAA,,Other,Stable,2024-04-11,2024-04-12 20:42:03
+6990,IIFL,IIFL Finance Limited,INE866I08246,CARE Ratings Limited,CARE AA,CARE AA,Other,RWN,2024-04-13,2024-04-14 14:13:03
+7010,CANBK,Canara Bank,INE476A01014,India Ratings and Research Private Limited,BBB-,,Reaffirm,STABLE,2024-04-16,2024-04-16 19:27:46
+7030,,Anzen India Energy Yield Plus Trust,INE0MIZ07020,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2024-04-15,2024-04-18 12:31:51
+7050,,The Tata Power Company Limited,INE245A08273,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA,Upgrade,Stable,2024-04-19,2024-04-19 23:29:13
+7070,,MAITHON POWER LIMITED,INE082G07071,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA,Upgrade,Stable,2024-04-19,2024-04-20 19:25:34
+7072,,Alpha Alternatives Financial Services Private Limited,INE0L6807146,CARE Ratings Limited,PP-MLD BBB,,Reaffirm,Stable,2023-12-19,2024-04-22 12:28:02
+7073,,GP Wind (Jangi) Private Limited,INE135Y07013,India Ratings and Research Private Limited,IND AA-,IND AA-,Reaffirm,Stable,2024-04-19,2024-04-22 15:16:23
+7090,,Anzen India Energy Yield Plus Trust,INE0MIZ07020,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2024-04-23,2024-04-24 14:59:09
+7111,,Alpha Alternatives Financial Services Private Limited,INE0L6808045,Acute Ratings & Research Limited,PP-MLD BBB-,,Reaffirm,Stable,2024-03-22,2024-04-26 13:26:55
+7130,DLF,DLF Limited,INE271C01023,ICRA Limited,AA,AA,Reaffirm,STABLE,2024-04-26,2024-04-26 21:53:29
+7150,,Cholamandalam MS General Insurance Company Limited,INE439H08020,CRISIL Ratings Limited,AA,,Reaffirm,Positive,2024-04-25,2024-04-27 18:01:52
+7171,,Alpha Alternatives Financial Services Private Limited,INE0L6807153,CARE Ratings Limited,PP-MLD BBB,,Reaffirm,Stable,2023-12-19,2024-04-29 12:31:45
+7191,LT,Larsen & Toubro Limited,INE018A08BG4,CRISIL Ratings Limited,CRISIL AAA,,Reaffirm,Stable,2023-06-02,2024-04-29 18:57:15
+7210,,Tata Motors Finance Limited,INE601U08259,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Reaffirm,Positive,2021-06-15,2024-04-30 19:25:24
+7211,,TMF Holdings Limited,INE909H08469,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Reaffirm,Positive,2022-08-19,2024-04-30 19:42:20
+7230,CROMPTON,Crompton Greaves Consumer Electricals Limited,INE299U07072,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA+,Reaffirm,Stable,2024-04-30,2024-05-01 13:54:39
+7250,HDBFS,HDB Financial Services Limited,INE756I07DW7,CARE Ratings Limited,AAA,,Reaffirm,STABLE,2024-05-03,2024-05-03 23:43:12
+7251,HDBFS,HDB Financial Services Limited,INE756I14DR3,CRISIL Ratings Limited,A1+,A1+,Reaffirm,STABLE,2024-05-02,2024-05-03 23:43:58
+7252,HDBFS,HDB Financial Services Limited,INE756I07EV7,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-05-03,2024-05-03 23:44:49
+7270,,Popular Vehicles and Services Limited,INE04LM01013,India Ratings and Research Private Limited,IND A1,IND A3+,Upgrade,IND A1,2024-05-03,2024-05-04 17:06:45
+7290,NIVABUPA,Niva Bupa Health Insurance Company Limited,INE995S08028,CARE Ratings Limited,CARE A+,CARE A,Upgrade,Stable,2023-12-27,2024-05-06 15:14:45
+7310,MAHABANK,Bank of Maharashtra,INE457A08068,Brickwork Ratings India Private Limited,AA+,AA,Upgrade,Stable,2024-05-08,2024-05-09 12:49:32
+7330,TRENT,Trent Limited,INE849A08082,ICRA Limited,[ICRA] AA+,[ICRA] AA+,Reaffirm,Stable,2024-05-10,2024-05-10 16:31:28
+7331,,Nido Home Finance Limited,INE530L07228,ICRA Limited,A+,A+,Reaffirm,Rating watch with negative implications,2024-05-09,2024-05-10 17:11:58
+7350,MAHABANK,Bank of Maharashtra,INE457A08035,ICRA Limited,AA+,AA,Upgrade,Stable,2024-05-14,2024-05-14 18:53:00
+7370,IDFCFIRSTB,IDFC First Bank Limited,INE092T08014,ICRA Limited,ICRA AA+,IND AA+,Reaffirm,Stable,2024-05-17,2024-05-17 18:06:07
+7390,BANKINDIA,Bank Of India,INE084A08060,Brickwork Ratings India Private Limited,AA+,,Upgrade,STABLE,2024-05-22,2024-05-22 19:39:13
+7410,,Aditya Birla Sun Life Insurance Company Limited,INE951F08036,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA+,Reaffirm,Stable,2024-05-23,2024-05-24 18:32:01
+7430,,Profectus Capital Private Limited,INE389Z07021,CRISIL Ratings Limited,CRISIL A-,,Reaffirm,Positive,2024-05-28,2024-05-29 16:47:52
+7431,IFCI,IFCI Limited,INE039A09OM9,ICRA Limited,B+,B+,Reaffirm,NEGATIVE,2024-05-28,2024-05-29 18:27:02
+7450,HDBFS,HDB Financial Services Limited,INE756I14DT9,CRISIL Ratings Limited,A1+,A1+,Reaffirm,STABLE,2024-06-03,2024-06-04 11:32:11
+7451,HDBFS,HDB Financial Services Limited,INE756I07EV7,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-06-03,2024-06-04 11:32:29
+7470,UTKARSHBNK,Utkarsh Small Finance Bank Limited,INE735W08038,ICRA Limited,[ICRA]A+(Stable),[ICRA]A+(Stable),Reaffirm,Stable,2024-06-04,2024-06-04 19:21:50
+7490,,TATA PROJECTS LIMITED,INE725H08105,India Ratings and Research Private Limited,IND AA,IND AA,Other,Stable,2024-06-05,2024-06-07 12:57:39
+7510,GTPL,GTPL Hathway Limited,INE869I01013,India Ratings and Research Private Limited,IND A1+,,Reaffirm,"Non-fund based working capital limit - INR 1,800 million",2024-06-06,2024-06-07 18:23:59
+7511,,Nido Home Finance Limited,INE530L07210,Brickwork Ratings India Private Limited,A+,AA-,Downgrade,Placed on rating watch,2024-06-07,2024-06-07 23:37:26
+7512,EDELWEISS,Edelweiss Financial Services Limited,INE532F07BR2,Brickwork Ratings India Private Limited,A+,AA-,Downgrade,Rating on watch with negative implications,2024-06-07,2024-06-08 16:16:07
+7513,,ECL Finance Limited,INE804I07X49,Brickwork Ratings India Private Limited,A+,AA-,Downgrade,Placed on rating watch,2024-06-07,2024-06-09 16:41:08
+7514,,Edelweiss Retail Finance Limited,INE528S08068,Brickwork Ratings India Private Limited,A,A+,Downgrade,Placed on rating watch,2024-06-07,2024-06-09 23:56:49
+7515,CENTRALBK,Central Bank of India,INE483A08049,ICRA Limited,AA-,,Reaffirm,POSITIVE,2024-06-11,2024-06-11 15:49:27
+7530,ASTEC,Astec LifeSciences Limited,INE563J08015,India Ratings and Research Private Limited,IND AA-,IND AA-,Reaffirm,Stable,2024-06-12,2024-06-13 18:36:29
+7550,,India Grid Trust,INE219X07231,India Ratings and Research Private Limited,AAA,,Reaffirm,Stable,2024-06-14,2024-06-14 15:47:10
+7551,TATAMOTORS,Tata Motors Limited,INE155A08209,ICRA Limited,AA,AA,Reaffirm,Stable,2024-06-13,2024-06-14 16:05:38
+7552,,PTC India Financial Services Limited,INE560K07102,ICRA Limited,[ICRA]A-,,Downgrade,Negative,2024-06-14,2024-06-14 21:39:07
+7570,IKIO,Ikio Lighting Limited,INE0LOJ01019,CRISIL Ratings Limited,CRISIL BBB/Stable,CRISIL BBB-/Positive (Reaffirmed),Upgrade,Stable,2024-06-14,2024-06-15 16:08:43
+7571,,Shakti Pumps (India) Limited,INE908D01010,India Ratings and Research Private Limited,IND A+,IND A,Upgrade,Stable,2024-06-14,2024-06-15 16:08:49
+7590,,Dhani Loans and Services Limited,INE614X07431,Brickwork Ratings India Private Limited,BWRnBBB-/Negative,,Reaffirm,BWRnBBB-/Negative,2024-06-14,2024-06-18 14:37:15
+7610,,Tata Power Renewable Energy Limited,INE607M07024,CARE Ratings Limited,CARE AA+,CARE AA,Upgrade,Stable,2024-06-20,2024-06-21 11:10:02
+7611,,The Tata Power Company Limited,INE295J08022,CARE Ratings Limited,CARE AA+,CARE AA,Upgrade,Stable,2024-06-20,2024-06-21 12:19:36
+7612,GODREJPROP,Godrej Properties Limited,AAAAAAAAAAAA,CRISIL Ratings Limited,CRISIL A1+,CRISIL A1+,Reaffirm,NA,2024-06-20,2024-06-21 17:14:04
+7613,INDUSINDBK,Indusind Bank Limited,INE095A08058,India Ratings and Research Private Limited,IND AA+/Stable,,Reaffirm,Stable,2024-06-21,2024-06-21 21:55:28
+7614,SBIN,State Bank Of India,INE062A08330,ICRA Limited,[ICRA]AAA,[ICRA]AAA,Reaffirm,Stable,2024-06-21,2024-06-22 10:37:49
+7615,SBIN,State Bank Of India,INE062A08207,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2024-06-21,2024-06-22 10:38:06
+7616,GODREJPROP,Godrej Properties Limited,AAAAAAAAAAAA,ICRA Limited,[ICRA]A1+,[ICRA]A1+,Reaffirm,NA,2024-06-24,2024-06-24 20:16:42
+7617,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07497,India Ratings and Research Private Limited,Rating withdrawn upon maturity of instrument,A,Other,,2024-06-24,2024-06-24 21:50:20
+7631,,Alpha Alternatives Financial Services Private Limited,INE0L6807161,CARE Ratings Limited,PP-MLD BBB+,,Upgrade,Stable,2024-06-20,2024-06-25 18:19:35
+7633,MAHABANK,Bank of Maharashtra,INE457A08050,ICRA Limited,AA+,,Reaffirm,STABLE,2024-06-24,2024-06-25 21:48:10
+7635,MAHABANK,Bank of Maharashtra,INE457A08159,CARE Ratings Limited,AA+,,Reaffirm,STABLE,2024-06-25,2024-06-25 22:53:44
+7636,,MAITHON POWER LIMITED,INE082G07030,CARE Ratings Limited,CARE AA,CARE AA,Other,Stable,2024-06-27,2024-06-27 19:59:41
+7637,MUTHOOTFIN,Muthoot Finance Limited,INE414G01012,ICRA Limited,A1+,,New,,2024-06-27,2024-06-28 12:25:46
+7638,IOB,Indian Overseas Bank,INE565A08035,CRISIL Ratings Limited,AA,,Upgrade,Stable,2024-06-27,2024-06-28 14:53:49
+7650,HDBFS,HDB Financial Services Limited,INE756I07DW7,CRISIL Ratings Limited,AAA,,Reaffirm,STABLE,2024-07-01,2024-07-02 17:36:35
+7670,UNIONBANK,Union Bank of India,INE692A08029,India Ratings and Research Private Limited,AA+,AA,Upgrade,Stable,2024-07-02,2024-07-03 13:03:55
+7690,HDBFS,HDB Financial Services Limited,INE756I08207,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-07-02,2024-07-03 17:23:13
+7691,BANKINDIA,Bank Of India,INE084A08060,CARE Ratings Limited,AA+,AA+,Reaffirm,Stable,2024-07-02,2024-07-03 18:36:56
+7692,BANKINDIA,Bank Of India,INE084A08060,CARE Ratings Limited,AA+,AA+,Reaffirm,Stable,2024-07-02,2024-07-03 18:46:06
+7693,,Tata Power Renewable Energy Limited,INE607M07016,ICRA Limited,AA,,Other,Positive,2023-07-07,2024-07-04 18:55:49
+7694,,The Tata Power Company Limited,INE245A07416,ICRA Limited,AA+,AA,Upgrade,Stable,2024-07-04,2024-07-05 11:25:13
+7695,TATAMOTORS,Tata Motors Limited,INE155A08191,ICRA Limited,AA+,AA,Upgrade,Stable,2024-07-04,2024-07-05 14:38:03
+7696,IFCI,IFCI Limited,INE039A09MC4,CARE Ratings Limited,BB,BB,Reaffirm,Negative,2024-07-04,2024-07-05 18:03:02
+7697,JAGRAN,Jagran Prakashan Limited,INE199G01027,CRISIL Ratings Limited,CRISIL AA+/Stable,CRISIL AA+/Stable,Reaffirm,STABLE,2024-07-05,2024-07-05 19:04:25
+7698,RELIANCE,Reliance Industries Limited,INE002A08534,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2024-07-05,2024-07-05 22:01:09
+7714,IDFCFIRSTB,IDFC First Bank Limited,INE092T08DM3,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Rating Watch withnDevelopingnImplications,2024-07-05,2024-07-06 22:23:01
+7716,,Hazaribagh Ranchi Expressway Limited,INE526S07593,CARE Ratings Limited,CARE A-,CARE BB,Upgrade,Positive,2024-07-05,2024-07-06 23:56:54
+7717,MUTHOOTFIN,Muthoot Finance Limited,INE414G01012,CRISIL Ratings Limited,CRISIL AA+/Stable,,New,,2024-07-06,2024-07-07 22:19:25
+7718,TATAMOTORS,Tata Motors Limited,INE155A08191,CARE Ratings Limited,AA+,AA+,Reaffirm,Stable,2024-07-05,2024-07-08 12:51:33
+7719,CANBK,Canara Bank,INE476A01022,CRISIL Ratings Limited,AAA,,Other,STABLE,2024-07-08,2024-07-08 18:14:12
+7720,CANBK,Canara Bank,INE476A01022,CARE Ratings Limited,AAA,,New,STABLE,2024-07-08,2024-07-09 12:38:35
+7730,,Export Import Bank of India,INE514E14RV7,CRISIL Ratings Limited,A1+,,Reaffirm,,2024-07-07,2024-07-10 12:05:37
+7750,,Rajasthan Rajya Vidyut Prasaran Nigam Limited,INE572F11265,Infomerics Valuation and Ratings Private Limited,A-(CE)#/Stable,,Reaffirm,Stable,2024-07-10,2024-07-10 16:48:17
+7770,MOTHERSON,Samvardhana Motherson International Limited,INE775A01035,CRISIL Ratings Limited,CRISIL AAA,CRISIL AA+/,Upgrade,Stable,2024-07-10,2024-07-11 11:34:07
+7790,,The Karur Vysya Bank Limited,INE036D08015,ICRA Limited,ICRA AA-,ICRA AA-,Other,stable,2024-07-12,2024-07-12 21:20:33
+7810,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07315,ICRA Limited,A+,A,Upgrade,Stable,2024-07-15,2024-07-16 15:41:57
+7830,,Bharti Telecom Limited,INE403D08108,CRISIL Ratings Limited,AA+,AA+,Upgrade,Positive,2024-07-22,2024-07-22 21:28:54
+7850,MAHABANK,Bank of Maharashtra,ZZZ000Z00000,CARE Ratings Limited,CARE AA+,,New,Stable,2024-07-25,2024-07-25 17:05:11
+7870,INDUSINDBK,Indusind Bank Limited,INE095A08058,CRISIL Ratings Limited,CRISIL AA+/Stable,,Reaffirm,Stable,2024-07-25,2024-07-25 22:38:19
+7891,,Alpha Alternatives Financial Services Private Limited,INE0L6807179,CARE Ratings Limited,PP-MLD BBB+,,Reaffirm,Stable,2024-07-11,2024-07-29 13:26:57
+7910,HDBFS,HDB Financial Services Limited,INE756I08256,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-07-29,2024-07-30 12:41:03
+7930,HDBFS,HDB Financial Services Limited,INE756I07ER5,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-07-30,2024-07-31 12:38:53
+7950,,Ugro Capital Limited,INE583D07414,India Ratings and Research Private Limited,IND/A+,IND/A,Upgrade,Stable,2024-07-30,2024-07-31 18:20:45
+7952,TFCILTD,Tourism Finance Corporation of India Limited,INE305A09216,Brickwork Ratings India Private Limited,BWR A+,BWR A+,Reaffirm,STABLE,2024-07-31,2024-07-31 18:28:45
+7971,,NRB Bearing Limited,INE349A01021,CRISIL Ratings Limited,Long Term Rating- CRISIL AA-/Stable,Long Term Rating- CRISIL AA-/Stable,Reaffirm,,2024-08-02,2024-08-02 15:07:07
+7972,,Hazaribagh Ranchi Expressway Limited,INE526S07478,India Ratings and Research Private Limited,IND BBB,IND BB-,Upgrade,Positive,2024-07-30,2024-08-02 16:13:55
+7973,IDBI,IDBI Bank Limited,INE008A08V18,ICRA Limited,[ICRA]AA,,Upgrade,Stable,2024-08-02,2024-08-02 18:16:19
+7990,,The Federal Bank Limited,INE171A08040,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2024-08-05,2024-08-06 12:03:41
+8010,IOB,Indian Overseas Bank,INE565A08050,CARE Ratings Limited,AA,AA-,Upgrade,Stable,2024-08-06,2024-08-07 18:54:31
+8030,,Aditya Birla Sun Life Insurance Company Limited,INE951F08036,CRISIL Ratings Limited,CRISIL AAA,CRISIL AA+,Upgrade,Stable,2024-08-07,2024-08-08 18:04:37
+8070,,Jharkhand Road Projects Implementation Company Limited,INE746N07754,India Ratings and Research Private Limited,IND D,IND D,Reaffirm,in default,2024-08-08,2024-08-09 17:49:15
+8071,CENTRALBK,Central Bank of India,INE483A08023,CRISIL Ratings Limited,AA-,AA-,Reaffirm,Positive,2024-08-09,2024-08-09 18:47:10
+8072,BANKBARODA,Bank Of Baroda,INE705A08037,ICRA Limited,[ICRA]AAA (Stable),,Reaffirm,Stable,2024-08-09,2024-08-09 19:29:25
+8074,UCOBANK,UCO Bank,INE691A00000,Infomerics Valuation and Ratings Private Limited,AA,,New,POSITIVE,2024-08-09,2024-08-09 20:51:06
+8090,PSB,Punjab & Sind Bank,INE608A08017,CRISIL Ratings Limited,AA,AA,Reaffirm,STABLE,2024-08-12,2024-08-12 18:23:04
+8091,CANBK,Canara Bank,INE476A01022,ICRA Limited,AA+,,New,STABLE,2024-08-12,2024-08-12 18:32:18
+8110,SAGCEM,Sagar Cements Limited,INE433R07016,India Ratings and Research Private Limited,IND A/Negative,IND A/Negative,Other,IND A/Negative,2024-08-12,2024-08-13 14:57:06
+8130,BANKBARODA,Bank Of Baroda,INE028A08232,India Ratings and Research Private Limited,IND AA+/Stable,,Reaffirm,Stable,2024-08-13,2024-08-14 15:51:30
+8150,,Popular Vehicles and Services Limited,INE05CS01016,CARE Ratings Limited,CARE BBB+,CARE BBB-,Upgrade,STABLE,2024-08-12,2024-08-14 21:05:43
+8170,BANKBARODA,Bank Of Baroda,INE028A08174,CRISIL Ratings Limited,CRISIL AA+/Stable,,Reaffirm,Stable,2024-08-14,2024-08-16 15:29:59
+8171,CANBK,Canara Bank,INE476A01022,India Ratings and Research Private Limited,IND AA+,,New,STABLE,2024-08-16,2024-08-16 17:01:32
+8172,BANKINDIA,Bank Of India,INE084A08144,CRISIL Ratings Limited,AA,AA,Reaffirm,STABLE,2024-08-20,2024-08-20 15:03:51
+8192,,GMR Pochanpalli Expressways Limited,INE808H07010,CARE Ratings Limited,CARE BB-,CARE BB-,Reaffirm,Stable,2024-08-19,2024-08-20 17:36:30
+8213,UCOBANK,UCO Bank,INE691A00000,CRISIL Ratings Limited,A1+,A1+,Reaffirm,NA,2024-08-20,2024-08-21 12:00:29
+8232,SBIN,State Bank Of India,INE062A08223,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Reaffirm,Stable,2024-08-20,2024-08-21 18:08:54
+8233,SBIN,State Bank Of India,INE062A08421,India Ratings and Research Private Limited,IND AAA,,Reaffirm,Stable,2024-08-21,2024-08-21 18:09:21
+8234,SJVN,SJVN Limited,INE002L08010,CRISIL Ratings Limited,AA+,,Reaffirm,Stable,2024-08-14,2024-08-21 18:16:03
+8252,IDBI,IDBI Bank Limited,INE008A08R71,CRISIL Ratings Limited,AA,AA-,Upgrade,STABLE,2024-08-21,2024-08-22 13:45:15
+8272,TORNTPHARM,Torrent Pharmaceuticals Limited,INE685A01028,ICRA Limited,"[ICRA]AA+(Stable):bankfacility&NCD,[ICRA]A1+:CP","[ICRA]AA+(Stable):bankfacility&NCD,[ICRA]A1+:CP",Reaffirm,Stable,2024-08-23,2024-08-23 19:08:56
+8292,HDBFS,HDB Financial Services Limited,INE756I08082,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-08-26,2024-08-27 14:46:10
+8312,HDBFS,HDB Financial Services Limited,INE756I08165,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-08-27,2024-08-27 18:14:55
+8332,,GUJARAT ROAD AND INFRASTRUCTURE COMPANY LIMITED,INE354H07163,CARE Ratings Limited,AAA,,Reaffirm,Stable,2024-08-28,2024-08-28 21:36:07
+8352,BANKINDIA,Bank Of India,INE084A08177,Acuite Ratings & Research Limited,AAA,AA+,Upgrade,STABLE,2024-08-29,2024-08-30 18:21:54
+8353,BANKINDIA,Bank Of India,INE084A08169,Acuite Ratings & Research Limited,AA+,AA,Upgrade,STABLE,2024-08-29,2024-08-30 18:29:47
+8354,,India Grid Trust,INE219X07223,India Ratings and Research Private Limited,AAA,AAA,Reaffirm,Stable,2024-08-30,2024-08-30 19:24:00
+8372,BANKBARODA,Bank Of Baroda,INE028A08208,CARE Ratings Limited,CARE AAA/Stable,,Reaffirm,Stable,2024-09-02,2024-09-04 17:49:23
+8392,LTF,L&T Finance Limited,INE235P07AG6,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2024-09-03,2024-09-05 13:18:40
+8393,MOTILALOFS,Motilal Oswal Financial Services Limited,INE338I07115,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Reaffirm,Positive,2024-09-04,2024-09-05 13:26:04
+8394,,Reliance Jio Infocomm Limited,INE110L08078,CRISIL Ratings Limited,CRISIL AAA/Stable,,Reaffirm,Stable,2024-09-04,2024-09-05 14:11:10
+8395,,Edelweiss Retail Finance Limited,INE528S08068,CRISIL Ratings Limited,A,A,Other,NA,2024-09-04,2024-09-05 17:13:27
+8396,,Nido Home Finance Limited,INE530L07350,CRISIL Ratings Limited,A+,A+,Other,NA,2024-09-04,2024-09-05 18:15:56
+8412,SJVN,SJVN Limited,INE002L08010,India Ratings and Research Private Limited,IND AA+,,Reaffirm,Stable,2024-09-05,2024-09-06 17:26:04
+8413,,Ugro Capital Limited,INE583D07406,India Ratings and Research Private Limited,IND/A+,IND/A+,Reaffirm,Stable,2024-09-06,2024-09-06 19:09:31
+8414,,Bharti Axa Life Insurance Company Limited,INE089J08029,CARE Ratings Limited,CARE AA,CARE AA,Reaffirm,Stable,2024-09-06,2024-09-06 19:32:34
+8416,PSB,Punjab & Sind Bank,INE608A08017,CARE Ratings Limited,AA-,AA-,Reaffirm,POSITIVE,2024-09-05,2024-09-07 11:01:01
+8417,IDBI,IDBI Bank Limited,INE008A08V59,CARE Ratings Limited,AA,AA-,Upgrade,STABLE,2024-09-06,2024-09-07 15:38:04
+8432,CEATLTD,CEAT Limited,ZZZ999Z99999,India Ratings and Research Private Limited,IND A1+,IND AA/Stable,Reaffirm,Commercial paper (CP) Facility,2024-09-10,2024-09-10 18:39:53
+8433,SBIN,State Bank Of India,INE062A08231,CRISIL Ratings Limited,CRISIL AAA,CARE AAA,Reaffirm,Stable,2024-09-10,2024-09-11 12:51:31
+8434,BANKINDIA,Bank Of India,INE084A08185,India Ratings and Research Private Limited,AA+,AA+,Reaffirm,STABLE,2024-09-11,2024-09-11 18:39:08
+8435,,India Grid Trust,INE219X07249,ICRA Limited,AAA,AAA,Reaffirm,Stable,2024-09-11,2024-09-11 22:30:02
+8452,BANKINDIA,Bank Of India,INE084A08185,CARE Ratings Limited,AA+,AA+,Reaffirm,STABLE,2024-09-12,2024-09-13 14:49:34
+8472,PNB,Punjab National Bank,INE160A08233,India Ratings and Research Private Limited,AA+,AA+,Other,STABLE,2024-09-13,2024-09-13 19:28:25
+8492,ASHOKLEY,Ashok Leyland Limited,INE208A07406,ICRA Limited,[ICRA]AA+,[ICRA]AA,Upgrade,Stable,2024-09-13,2024-09-13 23:00:37
+8493,IIFL,IIFL Finance Limited,INE866I08246,CRISIL Ratings Limited,CRISIL AA,,Other,Watch Developing,2024-09-13,2024-09-14 12:41:49
+8513,,Alpha Alternatives Financial Services Private Limited,INE0L6807187,CARE Ratings Limited,PP-MLD BBB+,,New,Stable,2024-07-11,2024-09-16 12:04:09
+8532,MOTILALOFS,Motilal Oswal Financial Services Limited,INE338I07081,India Ratings and Research Private Limited,IND PP-MLD AA,IND PP-MLD AA,Other,Positive,2024-09-17,2024-09-17 18:45:57
+8552,UTKARSHBNK,Utkarsh Small Finance Bank Limited,INE735W08020,CARE Ratings Limited,CARE A+; Stable (Single A Plus; Outlook: Stable),CARE A+; Stable (Single A Plus; Outlook: Stable),Reaffirm,Stable,2024-09-18,2024-09-19 15:01:44
+8573,PSB,Punjab & Sind Bank,INE608A08017,CRISIL Ratings Limited,AA,AA,Reaffirm,STABLE,2024-09-20,2024-09-20 17:42:53
+8574,IIFL,IIFL Finance Limited,INE866I08246,CARE Ratings Limited,CARE AA-,,Downgrade,Stable,2024-09-19,2024-09-20 22:04:57
+8576,UNIONBANK,Union Bank of India,INE692A08110,Brickwork Ratings India Private Limited,AA+,,Upgrade,Stable,2024-09-20,2024-09-21 13:24:04
+8580,,Alpha Alternatives Financial Services Private Limited,INE0L6807195,CARE Ratings Limited,PP-MLD BBB+,,New,Stable,2024-07-11,2024-09-23 13:39:50
+8592,INDIANB,Indian Bank,INE428A08051,India Ratings and Research Private Limited,AA+,AA+,Upgrade,Positive,2024-09-23,2024-09-23 19:42:09
+8612,IIFL,IIFL Finance Limited,INE866I08303,ICRA Limited,[ICRA]AA,[ICRA]AA,Reaffirm,Stable,2024-09-25,2024-09-26 14:58:11
+8632,,Reliance Jio Infocomm Limited,INE110L08078,CARE Ratings Limited,CARE AAA; Stable,CARE AAA; Stable,Reaffirm,Stable,2024-09-26,2024-09-26 20:22:35
+8633,HDBFS,HDB Financial Services Limited,INE756I07EO2,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-09-26,2024-09-26 20:48:44
+8634,HDBFS,HDB Financial Services Limited,INE756I14DP7,CARE Ratings Limited,A1+,A1+,Reaffirm,STABLE,2024-09-26,2024-09-26 20:49:09
+8652,CANFINHOME,Can Fin Homes Limited,INE477A14DD3,ICRA Limited,[ICRA]A1+,,Reaffirm,,2024-09-26,2024-09-27 17:37:15
+8653,LTF,L&T Finance Limited,INE759E08028,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2024-09-26,2024-09-27 19:48:37
+8672,,Bharti Axa Life Insurance Company Limited,INE089J08029,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Stable,2024-09-25,2024-09-30 17:36:43
+8692,MOTHERSON,Samvardhana Motherson International Limited,INE775A01035,ICRA Limited,AAA,A1+,New,Stable,2024-09-30,2024-09-30 19:31:58
+8712,DEEDEV,DEE Development Engineers Limited,INE841L01016,CARE Ratings Limited,CARE A-,,Upgrade,Stable,2024-09-30,2024-10-01 14:07:30
+8732,IIFL,IIFL Finance Limited,INE866I08279,Brickwork Ratings India Private Limited,BWR AA+,BWR AA +,Reaffirm,Stable,2024-09-30,2024-10-01 16:00:41
+8735,,IIFL Samasta Finance Limited,INE413U07285,CRISIL Ratings Limited,AA-,,Reaffirm,Stable,2024-09-30,2024-10-01 19:17:06
+8752,IDFCFIRSTB,IDFC First Bank Limited,INE688I08053,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2024-10-01,2024-10-02 12:54:00
+8753,HDBFS,HDB Financial Services Limited,INE756I08272,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-10-01,2024-10-02 14:44:51
+8754,,Highways Infrastructure Trust,INE0KXY00000,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2024-10-01,2024-10-02 17:11:17
+8755,,Highways Infrastructure Trust,INE0KXY00000,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2024-10-01,2024-10-02 17:17:06
+8772,STARHEALTH,Star Health And Allied Insurance Company Limited,INE575P08032,India Ratings and Research Private Limited,AA,,Upgrade,Positive,2024-10-02,2024-10-03 13:40:09
+8792,IDFCFIRSTB,IDFC First Bank Limited,INE688I08152,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2024-10-01,2024-10-03 20:42:35
+8793,IDFCFIRSTB,IDFC First Bank Limited,INE092T08EZ3,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA+,Reaffirm,Stable,2024-10-03,2024-10-03 20:49:12
+8812,PNB,Punjab National Bank,INE160A08175,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-10-04,2024-10-05 14:46:01
+8813,,Popular Vehicles and Services Limited,INE03Q601017,India Ratings and Research Private Limited,IND A1,IND A3+,Upgrade,IND A1,2024-10-04,2024-10-05 20:07:07
+8832,TATAMOTORS,Tata Motors Limited,INE155A08415,CRISIL Ratings Limited,AA+,AA+,Reaffirm,Stable,2024-10-07,2024-10-08 15:09:57
+8852,TATACHEM,Tata Chemicals Limited,INE092A08071,CARE Ratings Limited,CARE AA+; (Double A Plus),CARE AA+; (Double A Plus),Reaffirm,Stable,2024-10-07,2024-10-08 17:22:27
+8872,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07687,India Ratings and Research Private Limited,A+,A+,Other,Stable,2024-10-08,2024-10-08 20:36:35
+8892,GICHSGFIN,GIC Housing Finance Limited,INE289B01019,CRISIL Ratings Limited,CRISIL A1+,CRISIL A1+,Other,-,2024-10-08,2024-10-09 12:18:44
+8912,,Veritas Finance Private Limited,INE448U07190,CARE Ratings Limited,CARE A (Positive),CARE A (Positive),Reaffirm,Positive,2024-10-08,2024-10-09 22:00:59
+8932,SUNCLAYLTD,Sundaram Clayton Limited,INE105A08014,CRISIL Ratings Limited,CRISIL AA-,,Reaffirm,Negative,2024-10-09,2024-10-10 18:49:28
+8933,,India Grid Trust,INE219X07199,India Ratings and Research Private Limited,AAA,AAA,Reaffirm,Stable,2024-10-10,2024-10-10 19:35:51
+8952,TVSHLTD,TVS Holdings Limited,INE105A08022,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Reaffirm,Positive,2024-10-10,2024-10-11 12:34:53
+8953,HDBFS,HDB Financial Services Limited,INE756I07ED5,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-10-10,2024-10-11 13:04:53
+8972,GODREJIND,Godrej Industries Limited,INE233A08097,CRISIL Ratings Limited,AA+,,Upgrade,Stable,2024-10-11,2024-10-11 19:10:04
+8973,IDFCFIRSTB,IDFC First Bank Limited,INE688I08095,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Rating Watch and assigned Stable Outlook,2024-10-09,2024-10-11 20:34:13
+8992,SBIN,State Bank Of India,INE062A08355,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2024-10-14,2024-10-15 17:41:37
+9012,,Tvs Credit Services Limited,INE729N08089,CRISIL Ratings Limited,AA,AA,Other,Positive,2024-10-15,2024-10-16 18:41:19
+9013,,Godrej Housing Finance Limited,INE02JD07033,CRISIL Ratings Limited,AA+,AA,Upgrade,Stable,2024-10-16,2024-10-16 20:42:47
+9014,,Godrej Finance Limited,INE02KN07014,CRISIL Ratings Limited,AA+,AA,Upgrade,Stable,2024-10-16,2024-10-16 21:03:27
+9032,,India Grid Trust,INE219X07231,India Ratings and Research Private Limited,AAA,AAA,Reaffirm,Stable,2024-10-18,2024-10-18 19:40:36
+9053,UCOBANK,UCO Bank,INE691A08054,India Ratings and Research Private Limited,AA,AA-,Upgrade,STABLE,2024-10-18,2024-10-18 23:11:55
+9072,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07414,ICRA Limited,A+,A+,Reaffirm,Stable,2024-10-18,2024-10-21 16:16:02
+9092,,The Federal Bank Limited,INE171A08032,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2024-10-21,2024-10-22 13:41:54
+9112,,Kanchanjunga Power Company Private Limited,INE117N07089,CARE Ratings Limited,CARE A,CARE A-,Upgrade,Stable,2024-10-15,2024-10-23 12:54:01
+9113,,Bhilangana Hydro Power Limited,INE453I07229,CARE Ratings Limited,CARE AA-,CARE A+,Upgrade,Stable,2024-10-15,2024-10-23 13:42:49
+9132,GODREJIND,Godrej Industries Limited,INE233A08121,ICRA Limited,AA+,,Upgrade,Stable,2024-10-23,2024-10-23 19:08:30
+9152,HDBFS,HDB Financial Services Limited,INE756I08082,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-10-23,2024-10-24 18:49:07
+9172,TORNTPHARM,Torrent Pharmaceuticals Limited,INE685A01028,India Ratings and Research Private Limited,IND AA+/Stable For banking facilities and NCDs,IND AA+/Stable For banking facilities and NCDs,Reaffirm,Stable,2024-10-24,2024-10-25 11:51:26
+9192,IDFCFIRSTB,IDFC First Bank Limited,INE092T08FA3,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA+,Reaffirm,Stable,2024-10-24,2024-10-25 16:20:27
+9193,,Gujarat State Investments Limited,INE08EQ08056,Acuite Ratings & Research Limited,ACUITE AA,IND AA-,Reaffirm,Stable,2024-10-24,2024-10-25 16:42:50
+9194,HDBFS,HDB Financial Services Limited,INE756I14EA7,CRISIL Ratings Limited,A1+,A1+,Reaffirm,STABLE,2024-10-25,2024-10-25 19:57:28
+9212,RELIANCE,Reliance Industries Limited,INE110L07047,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2024-10-30,2024-10-30 18:18:54
+9232,,IIFL Samasta Finance Limited,INE413U08093,Acuite Ratings & Research Limited,Acuite AA-,,Downgrade,Stable,2024-10-30,2024-10-31 13:40:25
+9252,MAHABANK,Bank of Maharashtra,ZZZ000Z00000,Infomerics Valuation and Ratings Private Limited,AA+,AA+,Reaffirm,Stable,2024-11-05,2024-11-05 18:36:58
+9272,MAHABANK,Bank of Maharashtra,ZZZ000Z00000,CRISIL Ratings Limited,A1+,A1+,Reaffirm,,2024-11-05,2024-11-06 11:23:50
+9292,BANKBARODA,Bank Of Baroda,INE028A08166,India Ratings and Research Private Limited,IND AAA/Stable,,Reaffirm,Stable,2024-11-08,2024-11-08 18:53:38
+9313,,Alpha Alternatives Financial Services Private Limited,INE0L6808029,Acute Ratings & Research Limited,ACUITE  PP-MLD BBB+,,Upgrade,Stable,2024-11-07,2024-11-09 12:28:36
+9332,BANKBARODA,Bank Of Baroda,INE028A08349,CRISIL Ratings Limited,IND AAA/Stable,,Reaffirm,Stable,2024-11-08,2024-11-11 17:32:51
+9372,SBIN,State Bank Of India,INE062A08249,India Ratings and Research Private Limited,IND AA+,IND AA+,Reaffirm,Stable,2024-11-12,2024-11-13 15:08:31
+9392,,Tvs Credit Services Limited,INE729N00000,CARE Ratings Limited,AA+,,New,Stable,2024-11-13,2024-11-14 19:16:56
+9412,,Dhani Loans and Services Limited,INE614X07431,Infomerics Valuation and Ratings Private Limited,IVR BBB-/Stable,,Upgrade,IVR BBB-/Stable,2024-11-18,2024-11-19 14:50:50
+9413,,GP Wind (Jangi) Private Limited,INE135Y07013,CARE Ratings Limited,CARE AA-,IND AA-,Reaffirm,Stable,2024-10-29,2024-11-19 16:44:23
+9414,BANKINDIA,Bank Of India,INE084A08185,India Ratings and Research Private Limited,AA+,AA+,Reaffirm,STABLE,2024-11-19,2024-11-19 18:59:01
+9432,BANKINDIA,Bank Of India,INE084A08060,CARE Ratings Limited,AA+,AA+,Reaffirm,STABLE,2024-11-19,2024-11-21 16:55:53
+9452,PNBHOUSING,PNB Housing Finance Limited,INE572E09320,India Ratings and Research Private Limited,IND AA+,IND AA+,Other,Stable,2024-01-02,2024-11-22 16:56:01
+9453,IFCI,IFCI Limited,INE039A07801,Brickwork Ratings India Private Limited,B+,B+,Reaffirm,NEGATIVE,2024-11-22,2024-11-22 19:27:42
+9454,MOTHERSON,Samvardhana Motherson International Limited,INE775A08063,India Ratings and Research Private Limited,IND AAA/Stable,,New,Stable,2024-11-21,2024-11-23 12:44:52
+9472,TRENT,Trent Limited,INE849A08082,CARE Ratings Limited,CARE AA +,CARE AA+,Reaffirm,Stable,2024-11-19,2024-11-25 17:34:52
+9492,HDBFS,HDB Financial Services Ltd,INE756I08173,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-11-25,2024-11-27 12:49:58
+9493,HDBFS,HDB Financial Services Ltd,INE756I08124,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-11-25,2024-11-27 13:01:55
+9494,TVSHLTD,TVS Holdings Limited,XXX000X00000,CARE Ratings Limited,CARE AA+,,New,STABLE,2024-11-26,2024-11-27 14:47:35
+9495,IOB,Indian Overseas Bank,INE565A08050,ICRA Limited,AA,AA-,Upgrade,Stable,2024-11-27,2024-11-27 18:32:23
+9512,PNBHOUSING,PNB Housing Finance Limited,INE572E09262,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Reaffirm,Stable,2024-11-28,2024-11-29 15:43:42
+9513,RPOWER,Reliance Power Limited,INE614G07089,ICRA Limited,[ICRA]D,[ICRA]DnISSUER NOTnCOOPERATING,Other,NA,2024-11-28,2024-11-29 18:16:40
+9553,ICICIPRULI,ICICI Prudential Life Insurance Company Limited,XXX000X00000,ICRA Limited,ICRA AAA/STABLE,,New,STABLE,2024-12-02,2024-12-03 13:58:19
+9572,IFCI,IFCI Limited,INE039A07850,ICRA Limited,B+,B+,Other,Rating watch with Developing Implication,2024-12-03,2024-12-04 15:15:42
+9573,IFCI,IFCI Limited,INE039A09MC4,CARE Ratings Limited,CARE BB,CARE BB,Other,Placed on Rating Watch with Developing Implications,2024-12-03,2024-12-04 18:03:58
+9574,,Anzen India Energy Yield Plus Trust,INE0MIZ07020,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2024-12-04,2024-12-05 14:19:23
+9575,CANBK,Canara Bank,INE476A01022,CRISIL Ratings Limited,AA+,,Reaffirm,STABLE,2024-12-04,2024-12-05 17:19:32
+9576,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07414,ICRA Limited,A+,A+,Reaffirm,Negative,2024-12-05,2024-12-06 10:30:36
+9577,MOTHERSON,Samvardhana Motherson International Limited,INE775A08097,CRISIL Ratings Limited,CRISIL AAA/Stable,,New,Stable,2024-12-05,2024-12-06 18:16:24
+9592,PNB,Punjab National Bank,INE141A08035,ICRA Limited,AAA,AAA,Reaffirm,STABLE,2024-12-09,2024-12-09 17:44:33
+9612,CENTRALBK,Central Bank of India,INE483A08031,India Ratings and Research Private Limited,AA,AA-,Upgrade,Stable,2024-12-10,2024-12-10 18:41:18
+9613,,Highways Infrastructure Trust,INE0KXY07034,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2024-12-10,2024-12-11 11:53:48
+9614,PNB,Punjab National Bank,INE141A08035,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-12-11,2024-12-11 18:17:11
+9615,ACLGATI,Allcargo Gati Limited,INE152B01027,CARE Ratings Limited,CARE BBB (RWD),CARE Ratings Limited,Reaffirm,BBB,2024-12-09,2024-12-12 11:47:58
+9616,IDFCFIRSTB,IDFC First Bank Limited,INE092T08485,India Ratings and Research Private Limited,IND AA+,IND AA+,Reaffirm,Stable,2024-12-10,2024-12-12 16:28:26
+9617,LTF,L&T Finance Limited,INE027E07BA2,India Ratings and Research Private Limited,AAA,AAA,Reaffirm,Stable,2024-12-11,2024-12-12 17:45:00
+9618,BLS,BLS International Services Limited,INE153T01027,CRISIL Ratings Limited,Long term  CRISIL A+ and Short term CRISIL A1,Long term  CRISIL A and Short term CRISIL A1,Upgrade,Positive,2024-12-12,2024-12-12 18:37:34
+9619,IIFL,IIFL Finance Limited,INE530B07104,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Reaffirm,STABLE,2024-12-10,2024-12-12 19:13:14
+9620,LTF,L&T Finance Limited,INE498L07020,ICRA Limited,AAA,,Reaffirm,Stable,2024-12-12,2024-12-13 15:51:51
+9621,NOTLSITED,Punjab National Bank,INE160A08167,India Ratings and Research Private Limited,AAA,AAA,Reaffirm,STABLE,2024-12-13,2024-12-13 18:13:34
+9622,PNB,Punjab National Bank,INE160A08308,CRISIL Ratings Limited,AA+,AA+,Reaffirm,STABLE,2024-12-13,2024-12-13 18:54:22
+9632,PNB,Punjab National Bank,INE160A08183,Brickwork Ratings India Private Limited,AA+,AA+,Reaffirm,STABLE,2024-12-16,2024-12-16 17:44:15
+9652,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-12-17,2024-12-18 12:23:06
+9672,MAHABANK,Bank of Maharashtra,INE457A08134,Acuite Ratings & Research Limited,ACUITE AA,ACUITE AA,Reaffirm,Stable,2024-12-18,2024-12-19 10:45:47
+9692,ICEMAKE,Ice Make Refrigeration Limited,INE520Y01019,CARE Ratings Limited,Long Term Care A-,Long Term CARE BBB+,Upgrade,Stable,2024-12-20,2024-12-21 10:16:44
+9712,PNB,Punjab National Bank,INE160A08316,India Ratings and Research Private Limited,AAA,,New,Stable,2024-12-13,2024-12-23 19:28:56
+9732,CEATLTD,CEAT Limited,ZZZ999Z99999,CARE Ratings Limited,CARE A1+,CARE A1+,Reaffirm,Commercial paper,2024-12-24,2024-12-24 18:50:30
+9733,CEATLTD,CEAT Limited,ZZZ999Z99999,CARE Ratings Limited,CARE A1+,CARE A1+,Reaffirm,Short-term bank facilities,2024-12-24,2024-12-24 19:08:01
+9752,CANFINHOME,Can Fin Homes Limited,INE477A07324,ICRA Limited,[ICRA]AAA (Stable),,Reaffirm,Stable,2024-12-26,2024-12-27 17:50:32
+9753,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07596,India Ratings and Research Private Limited,IND A+,IND A+,Reaffirm,Negative,2024-12-27,2024-12-27 17:58:18
+9754,INDIANB,Indian Bank,INE428A08051,CRISIL Ratings Limited,AAA,,New,Stable,2024-12-27,2024-12-27 21:38:30
+9755,,Ugro Capital Limited,INE583D07364,India Ratings and Research Private Limited,IND/A+,IND/A+,Reaffirm,Stable,2024-09-06,2024-12-30 18:17:17
+9772,,Veritas Finance Limited,INE448U07208,CARE Ratings Limited,CARE A (Positive),CARE A (Positive),Reaffirm,Positive,2025-01-02,2025-01-02 16:41:44
+9792,,Anzen India Energy Yield Plus Trust,INE0MIZ07020,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2025-01-02,2025-01-03 10:55:40
+9793,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-01-03,2025-01-03 16:12:34
+9794,BANKBARODA,Bank Of Baroda,INE028A08224,India Ratings and Research Private Limited,IND AA+/Stable,,Reaffirm,Stable,2025-01-03,2025-01-03 17:38:31
+9812,BANKBARODA,Bank Of Baroda,INE028A08315,CRISIL Ratings Limited,CRISIL AAA/Stable,,Reaffirm,Stable,2025-01-03,2025-01-04 13:10:35
+9813,HDBFS,HDB Financial Services Ltd,INE756I14EL4,CRISIL Ratings Limited,A1+,,Reaffirm,STABLE,2025-01-03,2025-01-04 18:36:26
+9833,,Konkan Railway Corporation Limited,INE139F07089,CARE Ratings Limited,CARE AAA(CE),CARE AAA(CE),Reaffirm,STABLE,2025-01-02,2025-01-06 16:58:37
+9852,HINDZINC,Hindustan Zinc Limited,INE267A01025,ICRA Limited,A1+,,New,,2025-01-06,2025-01-07 18:37:46
+9853,KTKBANK,The Karnataka Bank Limited,INE614B08054,ICRA Limited,ICRA A+ Positive,A Positive,Upgrade,Outlook revised to ICRA A+ Positive from ICRA A Positive,2025-01-07,2025-01-07 19:24:16
+9873,,Pnb Metlife India Insurance Company Limited,INE207O08019,ICRA Limited,AA+,AA+,Reaffirm,Stable,2024-12-04,2025-01-08 11:03:42
+9892,TVSHLTD,TVS Holdings Limited,INE105A08022,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA,Upgrade,Stable,2025-01-09,2025-01-10 11:29:09
+9912,,Highways Infrastructure Trust,INE0KXY00000,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2025-01-10,2025-01-11 16:08:57
+9933,UCOBANK,UCO Bank,INE691A08088,CARE Ratings Limited,AA,AA-,Upgrade,STABLE,2025-01-14,2025-01-15 12:54:01
+9952,,India Grid Trust,INE219X07199,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2025-01-14,2025-01-15 20:48:10
+9972,IIFL,IIFL Finance Limited,INE530B07302,CRISIL Ratings Limited,CRISIL AA,,Reaffirm,Stable,2024-12-10,2025-01-17 16:36:37
+9993,UNIONBANK,Union Bank of India,INE692A08029,India Ratings and Research Private Limited,AA+,,Reaffirm,STABLE,2025-01-17,2025-01-18 15:54:17
+9994,IOB,Indian Overseas Bank,INE565A08035,India Ratings and Research Private Limited,AA,AA-,Upgrade,Stable,2025-01-17,2025-01-18 19:42:37
+10012,,Highways Infrastructure Trust,INE0KXY07018,India Ratings and Research Private Limited,IND AAA,IND AAA,Other,Stable,2025-01-20,2025-01-20 21:56:42
+10032,,India Grid Trust,INE219X07199,India Ratings and Research Private Limited,AAA,AAA,Reaffirm,Stable,2025-01-20,2025-01-21 12:04:38
+10052,MAHABANK,Bank of Maharashtra,INE457A08092,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Stable,2025-01-23,2025-01-23 17:58:21
+10053,HDBFS,HDB Financial Services Ltd,INE756I07EJ2,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-01-22,2025-01-23 19:08:40
+10072,CENTRALBK,Central Bank of India,INE483A08031,CRISIL Ratings Limited,AA,AA-,Upgrade,Stable,2025-01-28,2025-01-28 18:12:42
+10073,INDIANB,Indian Bank,INE428A08051,India Ratings and Research Private Limited,AA+,AA+,Other,Positive,2025-01-28,2025-01-28 19:41:37
+10074,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-01-28,2025-01-29 16:46:17
+10092,RELIANCE,Reliance Industries Limited,INE110L08037,ICRA Limited,[ICRA] AAA,[ICRA] AAA,Other,Stable,2025-01-30,2025-01-30 18:31:51
+10112,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07414,ICRA Limited,A,A+,Downgrade,Negative,2025-02-03,2025-02-03 19:06:43
+10132,BANKINDIA,Bank Of India,INE084A08185,CARE Ratings Limited,AA+,AA+,Reaffirm,STABLE,2025-02-06,2025-02-06 17:57:15
+10152,NOTLISED,Bank Of India,INE084A08185,India Ratings and Research Private Limited,AA+,AA+,Reaffirm,STABLE,2025-02-06,2025-02-07 17:28:22
+10172,,D-Link (India) Limited,INE250K01012,CRISIL Ratings Limited,CRISIL A/Stable,CRISIL A/Stable,Other,,2024-12-13,2025-02-11 17:00:02
+10192,IIFL,IIFL Finance Limited,INE530B07435,CRISIL Ratings Limited,CRISIL AA,,Reaffirm,STABLE,2025-02-11,2025-02-12 17:50:08
+10212,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07398,India Ratings and Research Private Limited,IND A,IND A+,Downgrade,Negative,2025-02-12,2025-02-12 21:03:43
+10232,,Tvs Credit Services Limited,INE729N08030,Brickwork Ratings India Private Limited,AA+,AA,Upgrade,Stable,2025-02-13,2025-02-14 19:29:15
+10252,POONAWALLA,Poonawalla Fincorp Limited,INE511C07XXX,Brickwork Ratings India Private Limited,BWR AAA/Stable,,New,,2025-02-14,2025-02-15 02:21:47
+10253,PNB,Punjab National Bank,INE160A08225,CRISIL Ratings Limited,AA+,,Reaffirm,STABLE,2024-12-13,2025-02-15 13:16:19
+10272,IOB,Indian Overseas Bank,INE565A08035,India Ratings and Research Private Limited,AA,AA,Reaffirm,Stable,2025-02-18,2025-02-18 19:18:47
+10293,UCOBANK,UCO Bank,INE691A08054,Acute Ratings & Research Limited,AA,AA,Reaffirm,STABLE,2025-02-18,2025-02-19 16:49:13
+10312,CANBK,Canara Bank,INE476A01022,CARE Ratings Limited,AAA,,New,STABLE,2025-02-21,2025-02-21 19:57:19
+10313,CANBK,Canara Bank,INE476A01022,CRISIL Ratings Limited,AAA,,New,STABLE,2025-02-21,2025-02-21 19:57:46
+10314,HDBFS,HDB Financial Services Ltd,INE756I07EL8,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-02-21,2025-02-21 20:00:32
+10315,HDBFS,HDB Financial Services Ltd,INE756I07DX5,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-02-21,2025-02-21 20:01:14
+10332,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-02-24,2025-02-25 16:31:44
+10333,,Jodhpur Wind Farms Private Limited,INE031Q08033,CRISIL Ratings Limited,CRISIL AA+ (CE),,Reaffirm,STABLE,2025-01-08,2025-02-25 18:36:12
+10334,,Latur Renewable Private Limited,INE03IL08034,CRISIL Ratings Limited,CRISIL AA+ (CE),CRISIL AA+ (CE),Reaffirm,STABLE,2025-01-08,2025-02-25 18:44:12
+10336,DLF,DLF Limited,INE271C01023,CRISIL Ratings Limited,CRISIL A1+,CRISIL A1+,Reaffirm,,2025-02-25,2025-02-26 00:14:57
+10352,PSB,Punjab & Sind Bank,INE608A08033,Infomerics Valuation and Ratings Private Limited,AA,AA,Reaffirm,STABLE,2025-03-03,2025-03-03 16:29:40
+10372,BANKBARODA,Bank Of Baroda,INE028A08232,India Ratings and Research Private Limited,IND AA+/Stable,,Reaffirm,Stable,2025-03-04,2025-03-04 12:52:35
+10373,TATAMOTORS,Tata Motors Limited,INE155A08431,CRISIL Ratings Limited,AA+,AA+,Reaffirm,Stable,2025-03-03,2025-03-04 13:03:30
+10392,,Tvs Credit Services Limited,INE729N08105,ICRA Limited,AA+,AA,Upgrade,Stable,2025-03-04,2025-03-04 18:08:37
+10412,,GUJARAT ROAD AND INFRASTRUCTURE COMPANY LIMITED,INE354H07114,ICRA Limited,AAA,AAA,Reaffirm,Stable,2025-02-27,2025-03-05 16:00:17
+10432,,Ugro Capital Limited,INE583D07372,India Ratings and Research Private Limited,IND/A+,IND/A+,Reaffirm,Stable,2024-09-06,2025-03-10 17:03:25
+10452,UNIONBANK,Union Bank of India,INE690A01016,India Ratings and Research Private Limited,Long Term IDR BBB-,Long ���Term Issuer Default Rating (IDR) BBB,Reaffirm,Stable,2025-03-11,2025-03-12 12:27:32
+10472,,Ugro Capital Limited,INE583D07331,CRISIL Ratings Limited,CRISIL A,CRISIL A,Reaffirm,Stable,2024-03-15,2025-03-13 14:01:30
+10473,ACCENTMIC,Accent Microcell Limited,INE0Q5D01013,CARE Ratings Limited,CARE BBB+; Stable,CARE BBB+; Stable,Reaffirm,Stable,2025-03-13,2025-03-13 16:06:00
+10474,ACCENTMIC,Accent Microcell Limited,INE0Q5D01013,CARE Ratings Limited,CARE BBB+; Stable,CARE BBB+; Stable,Reaffirm,Stable,2025-03-13,2025-03-13 16:08:49
+10475,,National Highways Infra Trust,INE0H7R07033,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2025-03-12,2025-03-13 18:14:50
+10476,MAHABANK,Bank of Maharashtra,ZZZ000Z00000,Infomerics Valuation and Ratings Private Limited,IVR AA,AA,Reaffirm,Stable,2025-03-13,2025-03-13 19:03:03
+10477,CHOLAHLDNG,Cholamandalam Financial Holdings Limited,INE149A08160,India Ratings and Research Private Limited,AA+,AA+,Reaffirm,Stable,2025-03-13,2025-03-14 12:02:12
+10492,BHARATFORG,Bharat Forge Limited,INE465A01025,ICRA Limited,AA+,AA+,Reaffirm,Stable,2025-03-12,2025-03-17 18:06:54
+10493,RATNAVEER,Ratnaveer Precision Engineering Limited,INE05CZ01011,Infomerics Valuation and Ratings Private Limited,IVR BBB+,IVR A2,Reaffirm,POSITIVE OUTLOOK,2025-03-13,2025-03-17 18:26:50
+10494,,Neogen Chemicals Limited,INE136S01016,CRISIL Ratings Limited,CRISIL A,Long Term Rating:  CRISIL A/ Stable,Other,Watch Developing (Placed on 'Rating Watch with Developing Implications'),2025-03-17,2025-03-18 13:00:19
+10512,,IndiGrid Infrastructure Trust,INE219X07231,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2025-03-18,2025-03-19 17:08:43
+10513,TORNTPHARM,Torrent Pharmaceuticals Limited,INE685A01028,ICRA Limited,AA+ (Stable) for banking facilities and NCDs;,A1+,Reaffirm,stable,2025-03-19,2025-03-19 20:32:28
+10514,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-03-20,2025-03-20 15:43:28
+10532,DABUR,Dabur India Limited,INE016A08021,ICRA Limited,[ICRA]AAA (Stable),[ICRA]AAA(Stable),Reaffirm,Stable,2025-03-20,2025-03-21 14:54:24
+10533,,IIFL Samasta Finance Limited,INE413U00000,Infomerics Valuation and Ratings Private Limited,IVR AA,,New,Stable,2025-03-21,2025-03-21 16:30:07
+10537,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-03-21,2025-03-21 19:56:03
+10572,ASTEC,Astec LifeSciences Limited,ZZZ000Z00000,ICRA Limited,[ICRA]AA-,,New,Negative,2025-03-24,2025-03-25 10:10:46
+10573,POONAWALLA,Poonawalla Fincorp Limited,INE511C01022,CARE Ratings Limited,AAA/Stable,,New,,2025-03-24,2025-03-25 10:57:32
+10593,,Rare Asset Reconstruction Limited,INE03UZ07023,Brickwork Ratings India Private Limited,BBB+,,New,Stable,2025-02-20,2025-03-29 17:30:09
+10595,,Rare Asset Reconstruction Limited,INE03UZ07015,CRISIL Ratings Limited,BBB,,New,Stable,2024-06-28,2025-03-29 17:40:00
+10612,HDBFS,HDB Financial Services Ltd,INE756I08199,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-04-01,2025-04-01 17:38:48
+10614,STARHEALTH,Star Health And Allied Insurance Company Limited,INE575P08032,CARE Ratings Limited,AA,AA,Reaffirm,Positive,2025-03-31,2025-04-01 17:51:33
+10632,HDBFS,HDB Financial Services Ltd,INE756I08124,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-04-02,2025-04-02 19:29:47
+10633,,Godrej Housing Finance Limited,ZZZ99ZZ99999,CRISIL Ratings Limited,Crisil AA+,,New,Stable,2025-04-02,2025-04-02 19:51:32
+10652,,Anzen India Energy Yield Plus Trust,INE0MIZ07012,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2025-04-07,2025-04-07 17:41:48
+10672,,Tvs Credit Services Limited,INE729N08089,CRISIL Ratings Limited,AA+,AA,Upgrade,Stable,2025-04-09,2025-04-10 16:38:47
+10692,TATAMOTORS,Tata Motors Limited,INE155A08407,CRISIL Ratings Limited,AA+,AA+,Reaffirm,STABLE,2025-03-03,2025-04-15 20:06:53
+10712,,Aditya Birla Sun Life Insurance Company Limited,INE951F08036,CRISIL Ratings Limited,CRISIL AAA,CRISL AAA,Reaffirm,Stable,2025-04-15,2025-04-16 13:00:47
+10732,TATAMOTORS,Tata Motors Limited,INE155A08464,CRISIL Ratings Limited,AA+,AA+,Reaffirm,Stable,2025-04-15,2025-04-16 19:32:43
+10752,,Highways Infrastructure Trust,INE0KXY07034,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2025-04-16,2025-04-17 14:03:19
+10772,GRASIM,Grasim Industries Limited,INE047A08182,ICRA Limited,AAA,AAA,Reaffirm,Stable,2021-03-23,2025-04-17 17:41:07
+10792,,Highways Infrastructure Trust,INE0KXY00000,India Ratings and Research Private Limited,IND AAA,IND AAA,Other,Stable,2025-04-17,2025-04-18 11:04:35
+10812,,Nuclear Power Corporation of India Limited,INE206D08162,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Reaffirm,2024-07-16,2025-04-22 14:29:55
+10832,,Anzen India Energy Yield Plus Trust,INE0MIZ07012,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2025-04-22,2025-04-22 18:35:55
+10852,,National Highways Infra Trust,INE0H7R07025,CARE Ratings Limited,CARE AAA,CARE AAA,Other,Stable,2025-04-22,2025-04-23 20:50:02
+10872,DLF,DLF Limited,INE271C01023,ICRA Limited,AA,AA,Reaffirm,Positive,2025-04-23,2025-04-24 16:34:34
+10873,,IndiGrid Infrastructure Trust,INE219X07272,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2025-04-04,2025-04-24 18:46:40
+10874,,Aditya Birla Sun Life Insurance Company Limited,INE951F08044,India Ratings and Research Private Limited,IND AAA/Stable,IND AAA/Stable,Reaffirm,Stable,2025-04-23,2025-04-24 19:57:29
+10892,,Cholamandalam MS General Insurance Company Limited,INE439H08020,CRISIL Ratings Limited,AA+,AA,Upgrade,Stable,2025-04-23,2025-04-26 18:19:14
+10912,NLCINDIA,NLC India Limited,INE589A08027,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2024-10-30,2025-04-28 18:21:12
+10913,HDBFS,HDB Financial Services Ltd,INE756I08124,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-04-28,2025-04-28 19:04:33
+10914,,Nido Home Finance Limited,ZZZ555Z55555,Infomerics Valuation and Ratings Private Limited,IVR A1+,,New,,2025-04-28,2025-04-29 19:50:44
+10932,,TMF Holdings Limited,INE909H08378,CRISIL Ratings Limited,AA+,AA,Upgrade,Stable,2021-03-02,2025-04-30 13:04:25
+10933,,Tata Motors Finance Limited,INE601U08093,ICRA Limited,AA-;Under rating watch with positive implicationst,A+,Upgrade,No Outlook,2024-07-05,2025-04-30 13:35:20
+10934,LT,Larsen & Toubro Limited,INE018A08BJ8,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2023-10-27,2025-04-30 17:24:53
+10952,HDBFS,HDB Financial Services Ltd,INE756I08124,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-05-07,2025-05-07 18:27:46
+10953,TATACHEM,Tata Chemicals Limited,INE092A08071,CRISIL Ratings Limited,AA+,AA+,Reaffirm,Stable,2025-05-06,2025-05-07 18:27:54
+10954,SAGCEM,Sagar Cements Limited,INE229C01021,India Ratings and Research Private Limited,IND BBB+,IND A,Downgrade,Negative,2025-05-08,2025-05-08 17:21:57
+10955,INDUSINDBK,Indusind Bank Limited,INE095A08090,CRISIL Ratings Limited,CRISIL AA+,,Other,Watch Negative,2025-05-07,2025-05-08 17:25:31
+10956,TRENT,Trent Limited,INE849A08082,ICRA Limited,ICRA AA+,ICRA AA+,Reaffirm,Stable,2025-05-09,2025-05-09 14:52:10
+10957,,Dhani Loans and Services Limited,INE614X07431,Infomerics Valuation and Ratings Private Limited,IVR BBB-/Negative,,Reaffirm,IVR BBB-/Negative,2025-05-09,2025-05-09 19:51:18
+10972,,Profectus Capital Private Limited,INE389Z07039,CRISIL Ratings Limited,CRISIL A-,CRISIL A-,Reaffirm,Stable,2025-05-14,2025-05-15 11:58:52
+10992,,Highways Infrastructure Trust,INE0KXY00000,India Ratings and Research Private Limited,IND AAA,IND AAA,Other,Stable,2025-05-16,2025-05-17 15:56:41
+10993,IDFCFIRSTB,IDFC First Bank Limited,INE092T08BW6,ICRA Limited,ICRA AA+,ICRA AA+,Other,Stable,2025-05-16,2025-05-17 17:45:00
+10994,TATAMOTORS,Tata Motors Limited,INE155A08407,CRISIL Ratings Limited,AA+,AA+,Reaffirm,Stable,2025-05-19,2025-05-20 14:47:41
+11012,,Highways Infrastructure Trust,INE0KXY07026,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2025-05-21,2025-05-21 20:27:07
+11032,UTKARSHBNK,Utkarsh Small Finance Bank Limited,INE735W08038,ICRA Limited,[ICRA]A+,[ICRA]A+(Stable),Reaffirm,Negative,2025-05-21,2025-05-22 18:41:20
+11052,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-05-28,2025-05-29 18:12:24
+11053,POONAWALLA,Poonawalla Fincorp Limited,INE511C07813,CRISIL Ratings Limited,Crisil AAA/Stable,Crisil AAA/Stable,Reaffirm,,2025-05-28,2025-05-29 19:40:53
+11054,INDUSINDBK,Indusind Bank Limited,INE095A08058,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA+,Reaffirm,Watch Negative,2025-05-28,2025-05-29 19:58:51
+11055,POONAWALLA,Poonawalla Fincorp Limited,INE511C08AK8,CARE Ratings Limited,CARE AAA; Stable,CARE AAA; Stable,Reaffirm,,2025-05-29,2025-05-30 11:44:24
+11072,GODREJPROP,Godrej Properties Limited,AAAAAAAAAAAA,ICRA Limited,[ICRA]A1+,[ICRA]A1+,Reaffirm,NA,2025-06-03,2025-06-03 19:02:27
+11092,,IndiGrid Infrastructure Trust,INE219X07199,India Ratings and Research Private Limited,AAA,AAA,Reaffirm,Stable,2025-06-03,2025-06-04 16:26:02
+11112,,IndiGrid Infrastructure Trust,INE219X07207,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2025-06-06,2025-06-09 18:09:06
+11113,CENTRALBK,Central Bank of India,INE483A08049,ICRA Limited,AA,AA-,Upgrade,STABLE,2025-06-09,2025-06-09 18:24:28
+11132,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-06-10,2025-06-10 19:13:52
+11152,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-06-11,2025-06-11 17:57:49
+11172,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07414,ICRA Limited,ICRA A-,ICRA A,Downgrade,Negative,2025-06-11,2025-06-12 13:07:07
+11192,,Neogen Chemicals Limited,INE136S01016,CRISIL Ratings Limited,CRISIL A,CRISIL A,Other,Watch Developing (Continues on 'Rating Watch with Developing Implications'),2025-06-16,2025-06-16 18:57:34
+11212,BANKBARODA,Bank Of Baroda,INE028A08299,India Ratings and Research Private Limited,IND AA+/Stable,,Reaffirm,Stable,2025-06-17,2025-06-17 15:06:25
+11232,,Veritas Finance Limited,INE448U07232,CARE Ratings Limited,CARE AA Minus,CARE A plus,Upgrade,Stable,2025-06-17,2025-06-18 17:42:49
+11233,MOTHERSON,Samvardhana Motherson International Limited,INE775A01035,CRISIL Ratings Limited,AAA,,New,STABLE,2025-06-18,2025-06-18 21:41:33
+11234,,Highways Infrastructure Trust,INE0KXY07026,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,STABLE,2025-06-17,2025-06-19 16:44:31
+11252,TVSMOTOR,TVS Motor Company Limited,XXX000X00000,CARE Ratings Limited,AA+ ; Non Convertible Debentures,,Other,Stable,2025-06-23,2025-06-24 14:18:37
+11272,,Jio Credit Limited,INE282H07022,CARE Ratings Limited,CARE A1+,CARE A1+,Reaffirm,CARE A1+,2025-06-24,2025-06-25 12:26:17
+11292,,Nexus Select Trust,INE0NDH07019,CRISIL Ratings Limited,Crisil AAA,Crisil AAA,Reaffirm,Stable,2025-06-26,2025-06-26 19:38:04
+11312,,Ugro Capital Limited,INE583D07331,CRISIL Ratings Limited,CRISIL A,CRISIL A,Reaffirm,Under rating watch with developing implications,2024-03-15,2025-06-27 18:47:52
+11313,,Profectus Capital Private Limited,INE389Z07039,CRISIL Ratings Limited,CRISIL A-,CRISIL A-,Reaffirm,Watch with Developing Implications,2025-06-26,2025-06-27 18:54:17
+11314,,Godrej Finance Limited,ZZZ99ZZ99999,CARE Ratings Limited,AA+,,New,Stable,2025-06-27,2025-06-27 19:49:10
+11316,NIVABUPA,Niva Bupa Health Insurance Company Limited,INE995S08010,CARE Ratings Limited,CARE AA,CARE AA,Reaffirm,Stable,2025-06-27,2025-06-27 22:31:03
+11332,,Profectus Capital Private Limited,INE389Z07054,CARE Ratings Limited,CARE A,CARE A,Reaffirm,Watch with Developing Implications,2025-06-27,2025-06-30 15:05:17
+11372,,Anzen India Energy Yield Plus Trust,INE0MIZ07012,India Ratings and Research Private Limited,IND AAAt,IND AAAt,Reaffirm,Stable,2025-06-30,2025-07-01 15:02:37
+11373,,Hazaribagh Ranchi Expressway Limited,INE526S07494,CARE Ratings Limited,CARE A,CARE A,Upgrade,Stable,2025-06-30,2025-07-01 16:07:21
+11374,,Ugro Capital Limited,INE583D07315,Acuite Ratings & Research Limited,ACUITE A,ACUITE A,Reaffirm,Under rating watch with developing implications,2025-06-30,2025-07-01 18:16:22
+11392,,Rajasthan Rajya Vidyut Prasaran Nigam Limited,INE572F11307,Infomerics Valuation and Ratings Private Limited,A-(CE)#/Stable,,Reaffirm,Stable,2025-07-01,2025-07-02 11:01:42
+11412,DHANBANK,Dhanlaxmi Bank Limited,INE680A08081,CARE Ratings Limited,,,Other,,2025-07-01,2025-07-02 13:20:47
+11413,,Highways Infrastructure Trust,INE0KXY07059,India Ratings and Research Private Limited,IND AAA,,Other,Stable,2025-07-01,2025-07-02 16:51:46
+11414,WELCORP,Welspun Corp Limited,INE191B08020,CRISIL Ratings Limited,AA+,,Upgrade,Stable,2025-07-02,2025-07-03 11:15:57
+11415,,Jio Credit Limited,ZZZ999Z99999,CRISIL Ratings Limited,CRISIL AAA/ Stable,,New,CRISL AAA/ Stable,2025-07-01,2025-07-03 16:53:22
+11432,POONAWALLA,Poonawalla Fincorp Limited,INE511C07839,CARE Ratings Limited,CARE AAA; Stable,CARE AAA; Stable,Reaffirm,,2025-07-03,2025-07-03 22:15:39
+11433,CEATLTD,CEAT Limited,INE482A07068,India Ratings and Research Private Limited,INDAA,INDAA,Reaffirm,Positive,2025-07-04,2025-07-04 18:20:32
+11434,MAHABANK,Bank of Maharashtra,ZZZ000Z00000,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2025-07-03,2025-07-04 18:54:01
+11435,RELIANCE,Reliance Industries Limited,INE002A08617,CARE Ratings Limited,CARE AAA,CARE AAA,Other,Stable,2025-07-04,2025-07-04 20:33:02
+11436,INDUSINDBK,Indusind Bank Limited,INE095A08090,India Ratings and Research Private Limited,IND AA+,IND AA+,Other,Negative,2025-07-03,2025-07-04 23:39:09
+11452,POONAWALLA,Poonawalla Fincorp Limited,INE511C07821,CRISIL Ratings Limited,Crisil AAA/Stable,Crisil AAA/Stable,Reaffirm,,2025-07-04,2025-07-05 20:48:13
+11472,,Magnum Ventures Limited,INE387I07013,Acuite Ratings & Research Limited,BB,BB,Reaffirm,Stable,2025-07-04,2025-07-08 16:24:55
+11473,,Magnum Ventures Limited,XXX000X00000,Acuite Ratings & Research Limited,BB,,New,Stable,2025-07-08,2025-07-08 16:35:25
+11474,EDELWEISS,Edelweiss Financial Services Limited,ZZZ555Z55555,Acuite Ratings & Research Limited,A1+,,New,Stable,2025-07-07,2025-07-08 17:37:42
+11475,,Nido Home Finance Limited,INE530L07426,Acuite Ratings & Research Limited,A+,A+,Reaffirm,Stable,2025-07-07,2025-07-08 20:45:38
+11493,,Alpha Alternatives Financial Services Private Limited,INE0L6807161,CARE Ratings Limited,CARE PP MLD A-,,Upgrade,Stable,2025-06-30,2025-07-11 14:01:39
+11494,HDBFS,HDB Financial Services Ltd,INE756I07DW7,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-07-10,2025-07-11 17:36:21
+11495,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-07-10,2025-07-11 17:40:29
+11496,,Godrej Finance Limited,ZZZ99ZZ99999,CRISIL Ratings Limited,AA+,,New,Stable,2025-07-11,2025-07-12 11:42:58
+11512,,Capital India Finance Limited,INE345H01024,Infomerics Valuation and Ratings Private Limited,IVR A/STABLE,IVR A/Stable,Reaffirm,IVR SINGLE A WITH STABLE OUTLOOK for Proposed Non-Convertible Debenture (NCDs),2025-07-16,2025-07-16 20:58:54
+11532,SHRIRAMFIN,Shriram Finance Limited,INE721A08CW8,India Ratings and Research Private Limited,IND AA+,IND AA+,Reaffirm,Stable,2025-07-16,2025-07-17 17:18:02
+11552,,Neogen Chemicals Limited,INE136S01016,CRISIL Ratings Limited,CRISIL A,CRISIL A,Other,Negative,2025-07-18,2025-07-18 15:27:14
+11572,,Bharti Telecom Limited,INE403D08207,CRISIL Ratings Limited,AAA,AA+,Upgrade,Stable,2025-07-17,2025-07-18 18:51:43
+11573,,Nexus Select Trust,INE0NDH00000,India Ratings and Research Private Limited,IND A1+,,New,"Stable nnThe credit rating is for, to be issue Commercial Papers, hence dummy ISIN is mentioned under the tab of ISIN and also note that we were not able to mention the remarks elsewhere in the utility hence the same is mentioned here",2025-07-17,2025-07-18 19:51:27
+11592,GODREJPROP,Godrej Properties Limited,AAAAAAAAAAAA,ICRA Limited,[ICRA]AA+,[ICRA]A1+,Reaffirm,Stable,2025-07-21,2025-07-21 20:59:31
+11612,GODREJPROP,Godrej Properties Limited,AAAAAAAAAAAA,India Ratings and Research Private Limited,IND AA+,IND A1+,New,Stable,2025-07-23,2025-07-23 19:45:25
+11632,MAHABANK,Bank of Maharashtra,INE457A08050,ICRA Limited,ICRA AA+,ICRA AA+,Other,Stable,2025-07-24,2025-07-25 15:49:46
+11653,,Hazaribagh Ranchi Expressway Limited,INE526S07460,India Ratings and Research Private Limited,IND BBB+/Stable,IND BBB,Upgrade,Stable,2025-07-29,2025-07-30 12:48:51
+11654,TFCILTD,Tourism Finance Corporation of India Limited,INE305A09232,Brickwork Ratings India Private Limited,BWR A+,BWR A+,Reaffirm,Stable,2025-07-28,2025-07-30 13:05:20
+11672,ZEEMEDIA,Zee Media Corporation Limited,INE966H01019,CARE Ratings Limited,CARE BB,CARE BB,Reaffirm,Stable,2025-08-01,2025-08-01 19:29:12
+11692,,Popular Vehicles and Services Limited,INE04LM01013,India Ratings and Research Private Limited,IND BBB+/ Rating /IND A2+/Ratingnn,IND A-/Stable/IND A1,Downgrade,Rating watch with negative implications,2025-08-01,2025-08-05 16:55:17
+11713,UCOBANK,UCO Bank,INE691A08096,Infomerics Valuation and Ratings Private Limited,AA-,AA-,Reaffirm,POSITIVE,2025-08-05,2025-08-06 12:10:19
+11732,BANKBARODA,Bank Of Baroda,INE705A08078,ICRA Limited,[ICRA]AAA (Stable),,Reaffirm,Stable,2025-08-08,2025-08-08 18:08:17
+11733,,Popular Vehicles and Services Limited,INE02Y201017,CRISIL Ratings Limited,Crisil A,Crisil A 1,Reaffirm,Stable,2025-08-07,2025-08-08 18:31:30
+11734,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-08-08,2025-08-08 18:40:40
+11735,IFCI,IFCI Limited,INE039A09PR5,CARE Ratings Limited,CARE BB,CARE BB,Reaffirm,Continues to be on Rating Watch with Developing Implications,2025-08-07,2025-08-08 19:49:10
+11736,WELCORP,Welspun Corp Limited,INE191B08020,CARE Ratings Limited,AA+,AA,Upgrade,Stable,2025-08-08,2025-08-08 20:26:37
+11753,HINDZINC,Hindustan Zinc Limited,INE267A08020,CRISIL Ratings Limited,Crisil AAA/Stable,Crisil AAA/Stable,Reaffirm,,2025-08-08,2025-08-10 13:57:06
+11754,,GMR Pochanpalli Expressways Limited,INE808H07010,CARE Ratings Limited,CARE BB-,CARE BB-,Reaffirm,Stable,2025-08-07,2025-08-11 17:36:19
+11755,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-08-12,2025-08-12 18:04:54
+11772,APTUS,Aptus Value Housing Finance India Limited,INE852O01025,ICRA Limited,AA,AA-,Upgrade,Stable,2025-08-13,2025-08-13 18:08:07
+11792,MBEL,M & B Engineering Limited,INE08N601015,CRISIL Ratings Limited,Crisil A/Stable/Crisil A1,,Upgrade,Stable,2025-08-18,2025-08-19 10:29:16
+11812,BANKINDIA,Bank Of India,INE084A08144,CRISIL Ratings Limited,AA,AA,Reaffirm,Stable,2025-08-19,2025-08-20 13:17:17
+11814,ESAFSFB,ESAF Small Finance Bank Limited,INE818W08081,Brickwork Ratings India Private Limited,BBB+,A-,Downgrade,Stable,2025-08-19,2025-08-20 13:30:00
+11832,PSB,Punjab & Sind Bank,INE608A08017,CARE Ratings Limited,AA,AA,Upgrade,Stable,2025-08-22,2025-08-22 20:46:15
+11833,,Ugro Capital Limited,INE583D07406,India Ratings and Research Private Limited,IND/A+,IND/A+,Reaffirm,Under rating watch with positive implications,2024-09-06,2025-08-23 16:15:31
+11834,INDUSINDBK,Indusind Bank Limited,INE095A08058,CRISIL Ratings Limited,Crisil AA+,CRISIL AA+,Reaffirm,Negative,2025-08-23,2025-08-24 23:22:35
+11835,CANBK,Canara Bank,INE476A01022,India Ratings and Research Private Limited,AAA,,Other,STABLE,2025-08-18,2025-08-25 19:33:11
+11836,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07414,ICRA Limited,ICRA BBB+,ICRA A-,Downgrade,Negative,2025-08-26,2025-08-26 22:55:01
+11837,CANBK,Canara Bank,INE476A09264,ICRA Limited,AAA,,Reaffirm,STABLE,2025-08-28,2025-08-28 18:58:46
+11838,BANKBARODA,Bank Of Baroda,INE077A08098,CARE Ratings Limited,CARE AAA/Stable,,Reaffirm,Stable,2025-08-29,2025-08-29 18:52:50
+11839,,Bharti Axa Life Insurance Company Limited,INE089J08029,CARE Ratings Limited,CARE AA,CARE AA,Reaffirm,Stable,2025-08-29,2025-08-29 20:08:41
+11840,BANKINDIA,Bank Of India,INE084A08136,Acuite Ratings & Research Limited,AA+,AA+,Reaffirm,STABLE,2025-08-29,2025-08-30 15:05:43
+11852,,Popular Vehicles and Services Limited,INE05CS01016,CARE Ratings Limited,CARE A-,CARE BBB+,Upgrade,STABLE,2025-09-01,2025-09-02 18:24:34
+11854,ESAFSFB,ESAF Small Finance Bank Limited,INE818W08081,CARE Ratings Limited,CARE A-,CARE A,Downgrade,Negative,2025-09-02,2025-09-03 11:10:37
+11855,,PTC India Financial Services Limited,INE560K07110,CRISIL Ratings Limited,CRISIL A,,Other,Stable,2025-09-02,2025-09-03 11:41:52
+11856,GTPL,GTPL Hathway Limited,INE869I01013,India Ratings and Research Private Limited,IND AA-/Stable,IND AA-/Stable,Reaffirm,Issuer Rating,2025-09-02,2025-09-03 15:48:46
+11857,IDBI,IDBI Bank Limited,INE008A08V59,CARE Ratings Limited,AA,,Other,STABLE,2025-09-02,2025-09-03 16:47:44
+11858,LTF,L&T Finance Limited,INE498L07152,CRISIL Ratings Limited,CRISIL AAA,,Reaffirm,Stable,2025-09-03,2025-09-04 17:48:36
+11859,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-09-05,2025-09-05 17:56:46
+11872,TVSMOTOR,TVS Motor Company Limited,INE494B08036,CARE Ratings Limited,AA+; Non Convertible Debentures,,Reaffirm,Stable,2025-09-05,2025-09-06 11:37:10
+11892,IFCI,IFCI Limited,INE039A09NZ3,ICRA Limited,B+,B+,Reaffirm,Rating continues on watch with developing implications,2025-09-08,2025-09-09 16:29:12
+11912,,Nido Home Finance Limited,INE530L07AL9,CRISIL Ratings Limited,A+,,Reaffirm,Stable,2025-09-09,2025-09-10 17:53:00
+11913,PSB,Punjab & Sind Bank,INE608A08058,CRISIL Ratings Limited,AA,AA,Reaffirm,STABLE,2025-09-10,2025-09-10 17:56:02
+11914,EDELWEISS,Edelweiss Financial Services Limited,ZZZ555Z55555,CRISIL Ratings Limited,A+,,New,Stable,2025-09-09,2025-09-10 19:51:46
+11915,,Tejas Cargo India Limited,INE725G01011,ICRA Limited,Short Term-Non Fund Based-Bank Guarantee; 21 cr.,,Upgrade,[ICRA]A2;Assigned,2025-09-10,2025-09-10 22:59:34
+11916,,Tejas Cargo India Limited,INE725G01011,ICRA Limited,Long Term-Fund Based-Cash Credit; 90 cr.,,Upgrade,[ICRA]BBB+(Stable);Assigned,2025-09-10,2025-09-10 23:16:37
+11917,MOTHERSON,Samvardhana Motherson International Limited,INE775A01035,India Ratings and Research Private Limited,IND A1+,,Reaffirm,,2025-09-11,2025-09-12 14:18:41
+11918,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-09-12,2025-09-12 19:02:08
+11933,ASHOKLEY,Ashok Leyland Limited,INE208A07406,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Reaffirm,STABLE,2025-09-12,2025-09-15 23:56:46
+11934,IIFL,IIFL Finance Limited,INE530B08094,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Stable,2025-09-15,2025-09-16 18:37:12
+11935,UNIONBANK,Union Bank of India,INE692A08029,CARE Ratings Limited,AA+,AA+,Reaffirm,Stable,2025-09-16,2025-09-17 17:45:15
+11972,VIKRAMSOLR,Vikram Solar Limited,INE659H01010,Acuite Ratings & Research Limited,ACUITE A+ (Long Term Banking Facilities),ACUITE A (Long Term Banking facilities),Upgrade,Stable,2025-09-19,2025-09-20 19:53:28
+11992,,Profectus Capital Private Limited,INE389Z07039,CRISIL Ratings Limited,CRISIL A-,CRISIL A-,Reaffirm,Watch with Developing Implications,2025-09-19,2025-09-24 12:35:08
+12012,,Bharti Axa Life Insurance Company Limited,INE089J08029,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Stable,2025-09-24,2025-09-24 18:20:27
+12032,,ADITYA BIRLA HOUSING FINANCE LIMITED,INE831R07011,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2025-09-24,2025-09-25 17:16:33
+12033,IIFL,IIFL Finance Limited,INE530B14DU1,ICRA Limited,[ICRA]A1+,,Reaffirm,NA,2025-09-24,2025-09-25 17:34:54
+12034,BANKBARODA,Bank Of Baroda,INE077A08098,CARE Ratings Limited,CARE AAA/Stable,,Reaffirm,Stable,2025-09-25,2025-09-25 19:03:22
+12035,LTF,L&T Finance Limited,INE235P07AF8,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2025-09-26,2025-09-27 12:07:40
+12036,,MSP Steel & Power Limited,INE752G01015,CARE Ratings Limited,CARE A3+,,Upgrade,Stable,2025-09-25,2025-09-27 12:55:44
+12055,OBEROIRLTY,Oberoi Realty Limited,INE093I01010,CARE Ratings Limited,CARE A1+,CARE A1+,Reaffirm,,2025-09-29,2025-09-30 22:37:32
+12056,IDFCFIRSTB,IDFC First Bank Limited,INE688I08186,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2025-09-30,2025-10-01 15:24:04
+12057,,ADITYA BIRLA HOUSING FINANCE LIMITED,INE831R07490,ICRA Limited,ICRA AAA,ICRA AAA,Reaffirm,Stable,2025-09-30,2025-10-01 17:23:06
+12072,UNIONBANK,Union Bank of India,INE692A08102,ICRA Limited,AAA,AAA,Reaffirm,Stable,2025-10-06,2025-10-06 19:40:12
+12074,GODREJPROP,Godrej Properties Limited,AAAAAAAAAAAA,CRISIL Ratings Limited,CRISIL A1+,CRISIL A1+,Other,NA,2025-10-06,2025-10-07 10:58:22
+12075,HDBFS,HDB Financial Services Ltd,INE756I08173,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-10-07,2025-10-07 17:42:23
+12076,TATACHEM,Tata Chemicals Limited,INE092A08071,CARE Ratings Limited,CARE AA+n(Double A Plus),CARE AA+n(Double A Plus),Reaffirm,Stable,2025-10-06,2025-10-07 17:44:30
+12077,TORNTPHARM,Torrent Pharmaceuticals Limited,INE685A01028,India Ratings and Research Private Limited,AA+(Stable) for proposed NCDs,"AA+(Stable) for issuer rating, NCDs and Term Loan",New,Stable,2025-10-06,2025-10-07 18:04:07
+12078,TORNTPHARM,Torrent Pharmaceuticals Limited,INE685A01028,India Ratings and Research Private Limited,AA+(Stable) for existing banking facilities & NCD,"AA+(Stable) for issuer rating, NCDs and Term Loan",Reaffirm,Stable,2025-10-06,2025-10-07 18:12:49
+12079,,Nexus Select Trust,INE0NDH14072,India Ratings and Research Private Limited,IND A+,IND A+,Reaffirm,Stable,2025-10-07,2025-10-07 20:18:49
+12080,,Veritas Finance Limited,INE448U07307,CARE Ratings Limited,CARE AA Minus,,Reaffirm,Stable,2025-10-06,2025-10-08 15:18:02
+12081,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-10-07,2025-10-08 17:44:05
+12093,PSB,Punjab & Sind Bank,INE608A08058,India Ratings and Research Private Limited,AA,AA,Reaffirm,STABLE,2025-10-07,2025-10-09 17:55:53
+12094,IDFCFIRSTB,IDFC First Bank Limited,INE092T08DM3,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Stable,2025-10-08,2025-10-09 19:11:58
+12096,ICICIPRULI,ICICI Prudential Life Insurance Company Limited,INE726G08022,ICRA Limited,ICRA AAA/Stable,ICRA AAA/Stable,Reaffirm,Stable,2025-10-09,2025-10-10 11:26:43
+12097,GODREJIND,Godrej Industries Limited,INE233A08170,CRISIL Ratings Limited,AA+,,Reaffirm,Stable,2025-10-10,2025-10-10 22:24:23
+12112,SBIN,State Bank Of India,INE649A08029,ICRA Limited,[ICRA]AAA,CARE AAA,Reaffirm,Stable,2025-10-13,2025-10-14 14:01:05
+12132,SPANDANA,Spandana Sphoorty Financial Limited,INE572J07745,India Ratings and Research Private Limited,IND BBB+,IND BBB+,Reaffirm,Negative,2025-10-14,2025-10-14 19:33:10
+12152,,ECL Finance Limited,INE804I08742,Brickwork Ratings India Private Limited,A,A,Reaffirm,Stable,2025-10-13,2025-10-15 17:42:23
+12173,UCOBANK,UCO Bank,INE691A08088,India Ratings and Research Private Limited,AA,AA,Reaffirm,STABLE,2025-10-16,2025-10-16 15:50:29
+12174,,Godrej Seeds & Genetics Limited,INE316Z08030,CRISIL Ratings Limited,AA,,Reaffirm,Stable,2025-10-16,2025-10-16 20:12:48
+12175,,Ugro Capital Limited,INE583D07547,India Ratings and Research Private Limited,IND/A+,IND/A+,Reaffirm,Under rating watch with positive implications,2024-12-30,2025-10-17 15:50:59
+12176,GODREJIND,Godrej Industries Limited,INE233A08154,ICRA Limited,AA+,,Reaffirm,Stable,2025-10-17,2025-10-17 19:24:40
+12192,,The Federal Bank Limited,INE171A08032,India Ratings and Research Private Limited,IND AA+,IND AA+,Reaffirm,Stable,2025-10-17,2025-10-18 21:43:51
+12193,,The Federal Bank Limited,INE171A08032,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2025-10-17,2025-10-18 21:44:07
+12194,TATAMOTORS,Tata Motors Limited,INE155A08480,CRISIL Ratings Limited,AA+,AA+,Reaffirm,Stable,2025-10-20,2025-10-21 16:24:19
+12195,IDFCFIRSTB,IDFC First Bank Limited,INE092T08EY6,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA+,Reaffirm,Stable,2025-10-20,2025-10-21 22:14:44
+12196,,Kanchanjunga Power Company Private Limited,INE117N07089,CARE Ratings Limited,CARE A,CARE A,Reaffirm,Stable,2025-10-17,2025-10-22 15:21:02
+12197,,Bhilangana Hydro Power Limited,INE453I07203,CARE Ratings Limited,CARE AA-,CARE AA-,Reaffirm,STABLE,2025-10-14,2025-10-22 17:01:02
+12198,,Popular Vehicles and Services Limited,INE772T01024,CRISIL Ratings Limited,Crisil A,Crisil A,Reaffirm,Stable,2025-10-23,2025-10-23 17:02:03
+12199,,Tata Capital Housing Finance Limited,ZZZ999Z99999,India Ratings and Research Private Limited,Withdrawn,IND AAA,Other,,2025-10-23,2025-10-23 22:31:27
+12200,TATACAP,Tata Capital Limited,ZZZ999Z99999,India Ratings and Research Private Limited,Withdrawn for Commercial Paper,IND A1+,Other,,2025-10-23,2025-10-24 10:59:14
+12212,,ECL Finance Limited,INE804I08643,ICRA Limited,A+,A+,Reaffirm,Stable,2025-10-28,2025-10-28 17:51:31
+12214,ICICIPRULI,ICICI Prudential Life Insurance Company Limited,INE726G08022,CRISIL Ratings Limited,Crisil AAA/ Stable,Crisil AAA/ Stable,Reaffirm,Stable,2025-10-28,2025-10-28 18:14:01
+12215,,ECL Finance Limited,INE804I079Y6,CRISIL Ratings Limited,A+,A+,Reaffirm,Stable,2025-10-28,2025-10-29 15:33:08
+12216,PNBHOUSING,PNB Housing Finance Limited,INE572E07175,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA+,Reaffirm,Stable,2025-10-27,2025-10-29 20:47:41
+12217,JAINIK,Jainik Power Cables Limited,INE007A01025,CRISIL Ratings Limited,Short Term Rating,,Upgrade,Crisil A3(Assigned),2025-10-29,2025-10-30 18:16:45
+12218,JAINIK,Jainik Power Cables Limited,INE007A01025,CRISIL Ratings Limited,Long Term Rating,,Upgrade,Crisil BBB-/Stable (Assigned),2025-10-29,2025-10-30 18:21:43
+12219,CANBK,Canara Bank,INE476A08225,ICRA Limited,AA+,,Reaffirm,STABLE,2025-10-30,2025-10-30 19:59:17
+12220,RELIANCE,Reliance Industries Limited,INE002A08542,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2025-10-30,2025-10-30 23:41:31
+12221,,Anzen India Energy Yield Plus Trust,INE0MIZ07012,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2025-10-31,2025-10-31 19:16:52
+12232,,Jharkhand Road Projects Implementation Company Limited,INE746N07945,India Ratings and Research Private Limited,IND D,IND D,Reaffirm,in default,2025-07-17,2025-11-03 14:56:30
+12233,,Anzen India Energy Yield Plus Trust,INE0MIZ07038,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2025-11-03,2025-11-03 19:38:25
+12234,MAHABANK,Bank of Maharashtra,ZZZ000Z00000,CRISIL Ratings Limited,A1+,A1+,Reaffirm,,2025-11-04,2025-11-06 15:40:13
+12235,IFCI,IFCI Limited,INE039A09NM1,Brickwork Ratings India Private Limited,B+,B+,Reaffirm,NEGATIVE,2025-11-05,2025-11-06 19:10:51
+12236,CANBK,Canara Bank,INE476A08209,CARE Ratings Limited,AAA,,Reaffirm,STABLE,2025-11-06,2025-11-06 20:43:23
+12237,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-11-07,2025-11-07 17:40:30
+12253,,Alpha Alternatives Financial Services Private Limited,INE0L6807039,Acute Ratings & Research Limited,ACUITE  PP-MLD A,,Upgrade,,2025-11-07,2025-11-08 14:33:17
+12272,,Pnb Metlife India Insurance Company Limited,INE207O08019,ICRA Limited,[ICRA] AA+,[ICRA]AA+,Reaffirm,Stable,2025-11-11,2025-11-11 21:16:17
+12292,BANKINDIA,Bank Of India,INE084A08060,CARE Ratings Limited,AA+,AA+,Reaffirm,STABLE,2025-11-12,2025-11-12 19:03:24
+12332,PNBHOUSING,PNB Housing Finance Limited,INE572E09320,India Ratings and Research Private Limited,IND AAA,IND AA+,Upgrade,Stable,2025-11-17,2025-11-17 18:11:34
+12352,,ECL Finance Limited,INE804I08692,CARE Ratings Limited,A,A,Reaffirm,Stable,2025-11-17,2025-11-18 18:51:34
+12372,IIFL,IIFL Finance Limited,INE530B08094,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Stable,2025-11-21,2025-11-21 20:24:01
+12374,ICICIPRULI,ICICI Prudential Life Insurance Company Limited,INE726G08014,CRISIL Ratings Limited,CRISIL AAA/STABLE,ICRA AAA/STABLE,Others,Stable,2025-11-21,2025-11-22 21:12:44
+12375,TRENT,Trent Limited,INE849A08082,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2025-11-13,2025-11-24 15:07:21
+12392,TVSHLTD,TVS Holdings Limited,INE105A08030,CARE Ratings Limited,CARE AA+,,Reaffirm,STABLE,2025-11-25,2025-11-26 11:55:07
+12412,RPOWER,Reliance Power Limited,INE614G07089,ICRA Limited,[ICRA]D,[ICRA]D,Reaffirm,NA,2025-11-25,2025-11-26 22:11:09
+12432,PNBHOUSING,PNB Housing Finance Limited,INE572E07126,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Reaffirm,(Stable),2025-11-27,2025-11-28 11:31:42
+12452,TMPV,Tata Motors Passenger Vehicles Limited,INE155A08431,CRISIL Ratings Limited,AA+,AA+,Reaffirm,Stable,2025-11-27,2025-11-28 15:56:46
+12454,,Alpha Alternatives Financial Services Private Limited,INE0L6807062,Acute Ratings & Research Limited,ACUITE  PP-MLD A,ACUITE  PP-MLD A,Reaffirm,Stable,2025-11-27,2025-11-28 16:36:10
+12455,,SMFG India Credit Company Limited,INE535H07BQ3,ICRA Limited,[ICRA]AAA,[ICRA]AAA,Other,Stable,2025-11-27,2025-11-28 21:54:57
+12472,,Super Spinning Mills Limited,INE662A01027,CARE Ratings Limited,A4+,BB+,Other,,2025-11-28,2025-11-29 14:27:30
+12492,HDBFS,HDB Financial Services Ltd,INE756I08165,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-12-01,2025-12-02 13:08:15
+12494,TATACHEM,Tata Chemicals Limited,INE092A08071,CARE Ratings Limited,CARE AA+ (Double A Plus),,Reaffirm,Stable,2025-12-01,2025-12-02 16:59:01
+12495,CEATLTD,CEAT Limited,ZZZ999Z99999,CARE Ratings Limited,CARE AA,,Reaffirm,Positive,2025-12-02,2025-12-02 18:27:17
+12496,,Ugro Capital Limited,INE583D07406,India Ratings and Research Private Limited,IND/A+,IND/A+,Reaffirm,Under rating watch with positive implications,2025-10-16,2025-12-03 19:22:06
+12497,LTF,L&T Finance Limited,INE027E07BC8,India Ratings and Research Private Limited,AAA,AAA,Reaffirm,Stable,2025-12-04,2025-12-05 14:40:59
+12498,,Vertis Infrastructure Trust,INE0KXY00000,CRISIL Ratings Limited,AAA,A1+,Reaffirm,Stable,2025-12-04,2025-12-05 18:46:47
+12499,PNB,Punjab National Bank,INE160A08290,ICRA Limited,AA+,AA+,Reaffirm,STABLE,2025-12-05,2025-12-05 19:26:44
+12513,TATACHEM,Tata Chemicals Limited,INE092A08071,CRISIL Ratings Limited,AA+,,Reaffirm,Stable,2025-12-05,2025-12-06 11:03:56
+12514,HDBFS,HDB Financial Services Ltd,INE756I08181,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-12-08,2025-12-08 17:52:47
+12515,PNB,Punjab National Bank,INE160A08266,CARE Ratings Limited,AA+,AA+,Reaffirm,STABLE,2025-12-08,2025-12-08 19:46:41
+12516,IDFCFIRSTB,IDFC First Bank Limited,INE092T08014,India Ratings and Research Private Limited,IND AA+,IND AA+,Reaffirm,Stable,2025-12-09,2025-12-10 12:13:30
+12517,MOTHERSON,Samvardhana Motherson International Limited,INE775A08097,India Ratings and Research Private Limited,IND AAA,,Other,Stable,2025-06-17,2025-12-11 11:44:15
+12518,IIFL,IIFL Finance Limited,INE530B08201,Infomerics Valuation and Ratings Private Limited,IVR/AA,,Reaffirm,Stable,2025-12-10,2025-12-11 16:22:12
+12519,PNB,Punjab National Bank,INE160A08183,India Ratings and Research Private Limited,AA+,AA+,Reaffirm,STABLE,2025-12-11,2025-12-11 19:32:46
+12520,LTF,L&T Finance Limited,INE498L07046,ICRA Limited,AAA,AAA,Reaffirm,Stable,2024-12-12,2025-12-12 16:51:48
+12521,UNIONBANK,Union Bank of India,INE690A08169,CRISIL Ratings Limited,AA+,,Reaffirm,Stable,2025-12-11,2025-12-12 17:25:00
+12522,PNB,Punjab National Bank,INE160A08225,CRISIL Ratings Limited,AA+,AA+,Reaffirm,STABLE,2025-12-12,2025-12-12 20:27:54
+12523,POONAWALLA,Poonawalla Fincorp Limited,INE511C07821,CRISIL Ratings Limited,Crisil AAA/Stable,Crisil AAA/Stable,Reaffirm,Stable,2025-12-12,2025-12-12 23:03:32
+12524,POONAWALLA,Poonawalla Fincorp Limited,INE511C07821,CRISIL Ratings Limited,Crisil AAA/Stable,Crisil AAA/Stable,Reaffirm,Stable,2025-12-12,2025-12-12 23:28:27
+12525,PNB,Punjab National Bank,INE160A08183,Brickwork Ratings India Private Limited,AA+,AA+,Reaffirm,Stable,2025-12-15,2025-12-15 18:51:39
+12526,,Anzen India Energy Yield Plus Trust,INE0MIZ07020,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2025-12-16,2025-12-16 18:27:01
+12532,,Ugro Capital Limited,INE583D07547,India Ratings and Research Private Limited,IND/A+,IND/A+,Reaffirm,Positive,2025-12-17,2025-12-18 16:58:27
+12533,BANKINDIA,Bank Of India,INE084A08060,CARE Ratings Limited,AA+,,Reaffirm,STABLE,2025-12-18,2025-12-18 19:14:08
+12534,,Nido Home Finance Limited,INE530L07210,ICRA Limited,A+,A+,Reaffirm,Stable,2025-12-17,2025-12-18 19:14:24
+12535,MAHABANK,Bank of Maharashtra,INE457A08159,Acuite Ratings & Research Limited,ACUITE AA+,ACUITE AA+,Reaffirm,Stable,2025-12-18,2025-12-19 11:29:20
+12536,BANKINDIA,Bank Of India,INE084A08151,CRISIL Ratings Limited,AA+,AA+,Reaffirm,STABLE,2025-12-18,2025-12-19 17:04:17
+12539,,Alpha Alternatives Financial Services Private Limited,INE0L6807070,Acute Ratings & Research Limited,ACUITE  PP-MLD A,ACUITE  PP-MLD A,Reaffirm,Stable,2025-12-18,2025-12-19 23:14:10
+12540,IIFL,IIFL Finance Limited,INE530B08201,Infomerics Valuation and Ratings Private Limited,IVR/AA,IVR/AA,Reaffirm,Stable,2025-12-22,2025-12-22 19:03:01
+12541,DCBBANK,DCB BANK LIMITED,INE503A08069,CARE Ratings Limited,CARE AA-; Stable,,Reaffirm,Stable,2025-12-22,2025-12-23 22:34:49
+12542,,Ifl Finance Limited (Formerly Known As Ifl Housing Finance Limited),INE01XO07017,CRISIL Ratings Limited,CRISIL BBB,,Reaffirm,Stable,2025-12-24,2025-12-24 16:10:26
+12543,,Jharkhand Road Projects Implementation Company Limited,INE746N07010,CRISIL Ratings Limited,CRISIL D,CRISIL D,Reaffirm,in default,2025-12-15,2025-12-24 16:25:46
+12552,IIFL,IIFL Finance Limited,INE866I08295,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Stable,2025-12-24,2025-12-25 16:01:22
+12572,PNBHOUSING,PNB Housing Finance Limited,INE572E09346,India Ratings and Research Private Limited,IND AAA,IND AAA,Other,Stable,2025-12-29,2025-12-30 12:21:18
+12592,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2025-12-31,2025-12-31 17:38:51
+12612,SHRIRAMFIN,Shriram Finance Limited,INE722A07AX0,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Other,,2025-12-31,2026-01-01 16:41:05
+12613,SHRIRAMFIN,Shriram Finance Limited,INE721A08DH7,CRISIL Ratings Limited,Crisil AA+/ Watch Positive,CRISIL AA+,Other,,2025-12-31,2026-01-01 16:41:54
+12614,SHRIRAMFIN,Shriram Finance Limited,INE721A07PN1,CARE Ratings Limited,CARE AAA,CARE AA+,Upgrade,Stable,2025-12-31,2026-01-02 18:00:35
+12615,BANKBARODA,Bank Of Baroda,INE028A08307,CRISIL Ratings Limited,CRISIL AAA / Stable,,Reaffirm,Stable,2026-01-02,2026-01-02 18:24:15
+12632,UTKARSHBNK,Utkarsh Small Finance Bank Limited,INE735W08061,CARE Ratings Limited,CARE A,CARE A,Reaffirm,Negative,2026-01-05,2026-01-05 16:39:56
+12633,,THDC INDIA LIMITED,INE812V08052,CARE Ratings Limited,AA+,,Upgrade,Stable,2026-01-05,2026-01-05 18:01:31
+12634,TORNTPHARM,Torrent Pharmaceuticals Limited,INE685A01028,ICRA Limited,AA+ (Stable) for banking facilities and NCDs,AA+ (Stable) for banking facilities and NCDs,Reaffirm,Stable,2026-01-05,2026-01-05 18:20:26
+12635,,The Great Eastern Shipping Company Limited,INE017A08268,Brickwork Ratings India Private Limited,BWR AAA,BWR AAA,Reaffirm,Stable,2026-01-05,2026-01-06 11:30:02
+12636,,Popular Vehicles and Services Limited,INE03Q601017,India Ratings and Research Private Limited,IND A-,IND A-,Reaffirm,STABLE/IND A 1,2026-01-06,2026-01-06 17:24:45
+12652,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-01-07,2026-01-07 18:45:01
+12653,,Dhruv Consultancy Services Limited,INE506Z01015,CARE Ratings Limited,CARE BBB-; Stable / CARE A3,CARE BBB-; Positive,Reaffirm,Stable,2026-01-06,2026-01-08 17:36:54
+12654,CEATLTD,CEAT Limited,INE482A08033,CARE Ratings Limited,AA,AA,Reaffirm,Positive,2026-01-08,2026-01-08 19:45:29
+12672,DCCL,Dar Credit & Capital Limited,INE04Q907108,CARE Ratings Limited,CARE BBB-; Stable,CARE BBB-; Stable,New,,2026-01-02,2026-01-09 15:05:31
+12673,,THDC INDIA LIMITED,INE812V08037,India Ratings and Research Private Limited,IND AA+,,Upgrade,Stable,2026-01-08,2026-01-09 16:44:16
+12674,,THDC INDIA LIMITED,INE812V07013,India Ratings and Research Private Limited,IND AA+,,Upgrade,Stable,2026-01-08,2026-01-09 16:44:41
+12675,AFIL,Akme Fintrade (India) Limited,INE916Y01027,Infomerics Valuation and Ratings Private Limited,IVR BBB+,IVR BBB +,Reaffirm,Stable,2026-01-08,2026-01-09 18:50:37
+12693,UCOBANK,UCO Bank,INE691A08088,CARE Ratings Limited,AA,AA,Reaffirm,STABLE,2026-01-12,2026-01-13 11:07:11
+12712,IIFL,IIFL Finance Limited,INE530B08227,CRISIL Ratings Limited,CRISIL AA,,New,Stable,2025-12-03,2026-01-14 16:38:24
+12732,UNIONBANK,Union Bank of India,INE692A08136,India Ratings and Research Private Limited,AA+,AA+,Reaffirm,Stable,2026-01-16,2026-01-17 17:07:07
+12752,CENTRALBK,Central Bank of India,INE483A08049,CRISIL Ratings Limited,AA,AA,Reaffirm,Stable,2026-01-22,2026-01-22 17:03:45
+12753,MAHABANK,Bank of Maharashtra,INE457A08076,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Stable,2026-01-22,2026-01-22 19:04:15
+12772,,Ugro Capital Limited,INE583D07216,Acuite Ratings & Research Limited,ACUITE A,ACUITE A,Other,Under rating watch with developing implications,2026-01-27,2026-01-28 17:45:28
+12773,IIFL,IIFL Finance Limited,INE530B07203,CRISIL Ratings Limited,CRISIL AA,CRISIL  AA,Reaffirm,STABLE,2026-01-27,2026-01-28 18:00:57
+12792,,SMFG India Credit Company Limited,INE535H08728,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-01-28,2026-01-29 19:21:32
+12793,,SMFG India Home Finance Company Limited,INE213W08069,CRISIL Ratings Limited,Crisil AAA/Stable,,Reaffirm,Stable,2026-01-28,2026-01-29 19:46:04
+12794,RELIANCE,Reliance Industries Limited,INE002A08567,ICRA Limited,[ICRA]AAA,[ICRA] AAA,Reaffirm,Stable,2026-01-29,2026-01-29 19:47:51
+12812,HINDZINC,Hindustan Zinc Limited,ZZZ000Z00000,ICRA Limited,[ICRA]A1+,[ICRA]A1+,Reaffirm,Rs.5000 Crore Commercial Paper - [ICRA]A1+; Reaffirmed,2026-01-30,2026-01-31 11:25:06
+12833,,Alpha Alternatives Financial Services Private Limited,INE0L6808037,Acute Ratings & Research Limited,ACUITE  PP-MLD  A,ACUITE  PP-MLD  A,Reaffirm,Stable,2026-01-31,2026-02-02 19:51:12
+12852,AFIL,Akme Fintrade (India) Limited,INE916Y01027,CARE Ratings Limited,CARE BBB+,CARE A3+,New,Stable,2026-02-02,2026-02-05 10:40:58
+12872,TORNTPOWER,Torrent Power Limited,INE813H01021,India Ratings and Research Private Limited,IND AA+/Stable,IND A1+,New,Proposed issuance of NCDs,2026-02-04,2026-02-05 18:14:13
+12873,BANKINDIA,Bank Of India,INE084A08193,India Ratings and Research Private Limited,AA+,AA+,Reaffirm,STABLE,2026-02-05,2026-02-05 19:04:22
+12892,TORNTPOWER,Torrent Power Limited,INE813H01021,CRISIL Ratings Limited,CRISIL AA+/Stable,CRISIL AA+/Stable,Reaffirm,Long term credit rating of Non-Convertible Debentures,2026-02-05,2026-02-06 15:52:31
+12912,,ADITYA BIRLA HOUSING FINANCE LIMITED,INE831R07540,ICRA Limited,ICRA AAA,,Reaffirm,Stable,2026-02-06,2026-02-06 23:20:56
+12932,TVSHLTD,TVS Holdings Limited,XXX000X00000,CARE Ratings Limited,CARE AA+,,New,STABLE,2026-02-09,2026-02-10 11:23:55
+12933,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-01-30,2026-02-10 11:46:25
+12934,HDBFS,HDB Financial Services Ltd,INE756I08132,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-02-09,2026-02-10 11:52:08
+12935,IIFL,IIFL Finance Limited,INE530B08177,CRISIL Ratings Limited,Crisil AA,CRISIL AA,Reaffirm,Stable,2026-02-11,2026-02-12 16:30:10
+12952,CAPINVIT,Capital Infra Trust,INE0Z8Z23013,CARE Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-02-11,2026-02-13 17:03:14
+12953,CAPINVIT,Capital Infra Trust,INE0Z8Z07016,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-02-03,2026-02-13 19:41:35
+12954,CANBK,Canara Bank,INE476A08167,India Ratings and Research Private Limited,nAA+,,Other,STABLE,2026-02-13,2026-02-13 19:54:50
+12955,CANBK,Canara Bank,INE476A08043,ICRA Limited,AAA Withdrawn,,Reaffirm,STABLE  withdrawn,2026-02-13,2026-02-13 20:41:06
+12972,SHRIRAMFIN,Shriram Finance Limited,INE721A07PN1,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2026-02-16,2026-02-17 15:16:58
+12992,UNIONBANK,Union Bank of India,INE692A01016,CARE Ratings Limited,CareEdge - ESG 1+,,New,NA,2026-02-17,2026-02-17 18:41:47
+12993,NTPC,NTPC Limited,INE01IU01018,India Ratings and Research Private Limited,IND A; IND A1,,Upgrade,Stable,2026-02-16,2026-02-17 19:08:43
+12994,SHRIRAMFIN,Shriram Finance Limited,INE721A08DH7,India Ratings and Research Private Limited,IND AA+,IND AA+,Reaffirm,Positive,2026-02-17,2026-02-18 14:39:58
+12996,IOB,Indian Overseas Bank,INE565A08035,India Ratings and Research Private Limited,AA,AA,Reaffirm,Positive,2026-02-17,2026-02-18 18:22:46
+12997,,Newmalayalam Steel Limited,INE0TP801012,CARE Ratings Limited,CARE BBB-; Stable,CARE A3,Reaffirm,,2026-02-18,2026-02-18 19:41:53
+12998,,National Highways Infra Trust,INE0H7R07066,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2026-02-17,2026-02-18 20:26:32
+13012,UCOBANK,UCO Bank,INE691A08096,Acuite Ratings & Research Limited,AA-,AA-,Reaffirm,STABLE,2026-02-18,2026-02-20 11:19:19
+13032,,Aditya Birla Sun Life Insurance Company Limited,INE951F08028,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2026-02-20,2026-02-20 18:28:36
+13052,,The Great Eastern Shipping Company Limited,INE017A08235,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2026-02-20,2026-02-23 16:06:27
+13072,TORNTPOWER,Torrent Power Limited,INE813H01021,CRISIL Ratings Limited,CRISIL AA+/Stable,CRISIL AA+/Stable,Reaffirm,Long term Non-Convertible Debentures,2026-02-24,2026-02-24 19:29:21
+13092,BANKBARODA,Bank Of Baroda,INE028A08281,ICRA Limited,[ICRA]AAA (Stable),,Reaffirm,Stable,2026-02-25,2026-02-25 18:38:47
+13093,BANKBARODA,Bank Of Baroda,INE028A08166,CARE Ratings Limited,CARE AAA/Stable,,Reaffirm,Stable,2026-02-25,2026-02-25 18:49:53
+13094,UNIONBANK,Union Bank of India,INE690A01016,India Ratings and Research Private Limited,Long Term IDR BBB-,Long Term IDR BBB-,Reaffirm,Stable,2026-02-25,2026-02-25 19:31:23
+13095,PIRAMALFIN,Piramal Finance Limited,INE202B07JQ6,CARE Ratings Limited,CARE AA+,CARE AA,Upgrade,Stable,2026-02-25,2026-02-26 15:34:40
+13096,,GUJARAT ROAD AND INFRASTRUCTURE COMPANY LIMITED,INE354H07130,ICRA Limited,AAA,AAA,Reaffirm,Stable,2026-02-26,2026-02-26 15:38:05
+13097,KSHINTL,KSH International Limited,INE987S01020,CARE Ratings Limited,CARE A1,,Upgrade,Stable,2026-02-17,2026-02-26 17:31:03
+13098,,National Highways Infra Trust,INE0H7R07025,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2026-02-26,2026-02-26 18:05:28
+13099,,B N Agritech Limited,INE00XL07015,Acuite Ratings & Research Limited,ACUITE A(Rs.135Cr) Provisional ACUITE A (Rs.65Cr),Provisional ACUITE A n(for Rs. 200 Cr),Reaffirm,Stable,2026-02-25,2026-02-26 18:32:10
+13100,,Dhruv Consultancy Services Limited,INE506Z01015,CARE Ratings Limited,CARE BB+; Stable,CARE BBB-; Stable / CARE A3,Downgrade,Stable,2026-02-24,2026-02-26 19:18:46
+13101,,Aditya Birla Sun Life Insurance Company Limited,INE951F00000,India Ratings and Research Private Limited,IND AAA/Stable,,New,Stable,2026-02-26,2026-02-27 14:58:46
+13102,,Sbm Bank India Limited,INE07PX08019,ICRA Limited,[ICRA]A(Negative),[ICRA]A,Reaffirm,Negative,2021-09-17,2026-02-27 18:30:25
+13103,BANKBARODA,Bank Of Baroda,INE028A08166,India Ratings and Research Private Limited,IND AAA/Stable,,Reaffirm,Stable,2026-02-27,2026-02-27 19:43:01
+13112,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-03-02,2026-03-04 18:44:13
+13113,HDBFS,HDB Financial Services Ltd,INE756I07EV7,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-03-02,2026-03-04 18:46:13
+13132,TVSMOTOR,TVS Motor Company Limited,EEE000E00000,India Ratings and Research Private Limited,IND AAA; Non-Convertible Debentures,,Other,Stable,2026-03-04,2026-03-05 14:04:43
+13133,SBIN,State Bank Of India,INE062A08454,CRISIL Ratings Limited,Crisil AAA,Crisil AAA,Reaffirm,Stable,2026-03-05,2026-03-06 15:31:17
+13152,CANBK,Canara Bank,INE476A08274,ICRA Limited,AAA,,Reaffirm,Stable,2026-03-09,2026-03-09 19:47:21
+13153,BHARATFORG,Bharat Forge Limited,INE465A01025,ICRA Limited,AA+,AA+,Reaffirm,Stable,2026-03-10,2026-03-10 18:31:51
+13154,DABUR,Dabur India Limited,INE016A08021,ICRA Limited,[ICRA]AAA (Stable),[ICRA]AAA(Stable),Reaffirm,Stable,2026-03-11,2026-03-11 18:13:48
+13155,MOTHERSON,Samvardhana Motherson International Limited,INE775A01035,ICRA Limited,A1+; Assigned,A1+; Reaffirmed,New,,2026-03-09,2026-03-11 18:38:39
+13156,MAHABANK,Bank of Maharashtra,ZZZ000Z00000,Infomerics Valuation and Ratings Private Limited,IVR  AA+,,Reaffirm,Stable,2026-03-11,2026-03-11 19:26:30
+13158,UNIONBANK,Union Bank of India,INE692A08144,ICRA Limited,AAA,AAA,Reaffirm,Stable,2026-03-13,2026-03-13 16:10:27
+13159,UNIONBANK,Union Bank of India,INE692A01016,CARE Ratings Limited,AAA,,New,Stable,2026-03-13,2026-03-13 19:42:23
+13172,PIRAMALFIN,Piramal Finance Limited,INE140A07179,ICRA Limited,ICRA AA+,ICRA AA,Upgrade,Stable,2026-03-16,2026-03-17 12:31:46
+13173,,National Bank For Financing Infrastructure And Development,INE0KUG08035,ICRA Limited,AAA,,Reaffirm,Stable,2026-03-16,2026-03-17 12:54:08
+13192,LLOYDSME,Lloyds Metals And Energy Limited,INE281B01032,India Ratings and Research Private Limited,Issuer Rating,Proposed Bonds,Reaffirm,IND AA/Stable,2026-03-16,2026-03-17 17:17:14
+13214,,Konkan Railway Corporation Limited,INE139F07089,CARE Ratings Limited,CARE AAA(CE),CARE AAA(CE),Reaffirm,STABLE,2026-01-06,2026-03-20 16:06:30
+13232,POONAWALLA,Poonawalla Fincorp Limited,INE511C07961,CARE Ratings Limited,CARE AAA; Stable,,New,,2026-03-20,2026-03-21 12:21:18
+13233,POONAWALLA,Poonawalla Fincorp Limited,INE511C07920,CRISIL Ratings Limited,Crisil AAA/Stable,,New,,2026-03-20,2026-03-21 12:23:57
+13234,,Precot Limited,INE283A01014,India Ratings and Research Private Limited,IND A-,IND A2,Upgrade,Stable,2026-03-20,2026-03-21 12:54:38
+13235,,Precot Limited,INE283A01014,India Ratings and Research Private Limited,IND A-,IND A2,Upgrade,Stable,2026-03-20,2026-03-21 12:55:50
+13252,,PTC India Financial Services Limited,INE560K07102,ICRA Limited,ICRA A-,,Reaffirm,Stable,2026-03-23,2026-03-24 13:06:01
+13272,TFCILTD,Tourism Finance Corporation of India Limited,INE305A09216,Infomerics Valuation and Ratings Private Limited,IVR AA-,,New,Stable,2026-03-24,2026-03-24 16:52:36
+13253,DHANBANK,Dhanlaxmi Bank Limited,INE680A08099,ICRA Limited,BBB-,,Reaffirm,STABLE,2026-03-24,2026-03-24 18:06:00
+13254,,Rajasthan Rajya Vidyut Prasaran Nigam Limited,INE572F11281,Infomerics Valuation and Ratings Private Limited,A-(CE)#/Stable,A-(CE)#/Stable,Reaffirm,Stable,2026-03-24,2026-03-25 17:26:36
+13273,IIFL,IIFL Finance Limited,INE530B07104,CRISIL Ratings Limited,Crisil AA,Crisil AA,Reaffirm,Stable,2026-03-24,2026-03-25 19:42:21
+13274,UNIONBANK,Union Bank of India,INE692A08102,ICRA Limited,AAA,AAA,Reaffirm,Stable,2026-03-26,2026-03-27 10:35:33
+13292,,TVS Infrastructure Trust,INE1JNC00000,ICRA Limited,[ICRA] AAA n,[ICRA]AAA  n,Reaffirm,Stable,2026-03-26,2026-03-30 19:05:16
+13293,,Kellton Tech Solutions Limited,INE164B01030,ICRA Limited,[ICRA]A2+,,Reaffirm,NA,2026-03-26,2026-04-01 14:25:10
+13312,HDBFS,HDB Financial Services Ltd,INE756I08215,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-03-31,2026-04-01 18:12:45
+13294,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-03-31,2026-04-01 18:15:35
+13332,,SMFG India Credit Company Limited,INE535H08595,India Ratings and Research Private Limited,AAA,AAA,Other,Stable,2026-04-02,2026-04-02 18:14:54
+13295,STARHEALTH,Star Health And Allied Insurance Company Limited,INE575P08040,CARE Ratings Limited,AA,AA,Reaffirm,Stable,2026-04-02,2026-04-03 13:40:28
+13352,,PTC India Financial Services Limited,INE560K07110,CRISIL Ratings Limited,CRISIL A,,Reaffirm,Negative,2026-04-06,2026-04-07 11:07:31
+13372,AFIL,Akme Fintrade (India) Limited,INE916Y01027,Acuite Ratings & Research Limited,ACUITE A2+,ACUITE BBB+,New,,2026-04-07,2026-04-08 11:33:42
+13373,,Popular Vehicles and Services Limited,INE772T01024,CRISIL Ratings Limited,Crisil A1,Crisil A,Other,,2026-04-07,2026-04-08 17:46:38
+13392,TIIL,Technocraft Industries (India) Limited,INE545H01011,CRISIL Ratings Limited,"Long Term - Crisil AA- ,Short Term - Crisil A1+","Long Term - Crisil AA- ,Short Term - Crisil A1+",Reaffirm,Stable,2026-04-09,2026-04-10 11:58:44
+13412,SHRIRAMFIN,Shriram Finance Limited,INE721A07QM1,CRISIL Ratings Limited,CrisilAAA,Crisil AA+/ Watch Positive,Upgrade,Stable,2026-04-10,2026-04-10 14:03:49
+13413,SHRIRAMFIN,Shriram Finance Limited,INE772A07AN1,ICRA Limited,[ICRA]AAA,[ICRA]AA+,Upgrade,Stable,2026-04-09,2026-04-10 14:05:09
+13393,,Veritas Finance Limited,INE448U07331,CARE Ratings Limited,CARE AA Minus,,Reaffirm,Stable,2026-04-07,2026-04-10 16:49:55
+13414,,Vertis Infrastructure Trust,INE0KXY07026,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-04-09,2026-04-10 19:37:46
+13394,THELEELA,Leela Palaces Hotels & Resorts Limited,INE0HHL01017,CRISIL Ratings Limited,Crisil AA,,New,Stable,2026-04-09,2026-04-10 20:05:22
+13432,SHRIRAMFIN,Shriram Finance Limited,INE721A07SP0,India Ratings and Research Private Limited,IND AAA,,Upgrade,Stable,2026-04-10,2026-04-11 15:30:52
+13452,TVSHLTD,TVS Holdings Limited,XXX000X00000,CRISIL Ratings Limited,CRISIL AA+,CRISIL AA+,Other,STABLE,2026-04-13,2026-04-13 20:13:27
+13472,,Gujarat State Investments Limited,INE08EQ08031,Acuite Ratings & Research Limited,ACUITE AA,ACUITE AA,Reaffirm,STABLE,2026-04-13,2026-04-15 16:03:37
+13492,CAPINVIT,Capital Infra Trust,INE0Z8Z07016,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-04-13,2026-04-15 20:20:44
+13512,TORNTPOWER,Torrent Power Limited,INE813H01021,India Ratings and Research Private Limited,IND A1+,IND AA+/Stable,Reaffirm,Short-term commercial paper,2026-04-16,2026-04-16 16:57:49
+13532,HDBFS,HDB Financial Services Ltd,INE756I07ET1,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-04-15,2026-04-16 17:50:35
+13533,,National Insurance Company Limited,INE168X08014,CRISIL Ratings Limited,A+,AA-,Downgrade,Negative,2026-04-16,2026-04-16 19:54:19
+13552,,Anzen India Energy Yield Plus Trust,INE0MIZ07046,CRISIL Ratings Limited,CRISIL AAA,CRISIL AAA,Reaffirm,Stable,2026-04-16,2026-04-17 18:43:49
+13535,,National Highways Infra Trust,INE0H7R07058,CARE Ratings Limited,CARE AAA,CARE AAA,Other,Stable,2026-04-17,2026-04-17 21:29:31
+13538,,Shrem Infra Invest Private Limited,INE391V07109,India Ratings and Research Private Limited,IND AA/Stable,IND AA/Stable,Reaffirm,IND AA/Stable,2026-04-16,2026-04-20 11:58:49
+13539,LLOYDSME,Lloyds Metals And Energy Limited,INE281B01032,CRISIL Ratings Limited,Long Term Bank Loan Facilities,Long Term Bank Loan Facilities,Reaffirm,CRISIL AA/STABLE,2026-04-21,2026-04-21 16:36:29
+13540,,Oriental InfraTrust,INE07Z507029,CRISIL Ratings Limited,Crisil AAA/Stable,Crisil AAA/Stable,Reaffirm,Stable,2026-04-21,2026-04-22 18:46:49
+13541,,Cholamandalam MS General Insurance Company Limited,INE439H08020,CRISIL Ratings Limited,AA+,AA+,Reaffirm,Stable,2026-04-16,2026-04-22 19:08:59
+13542,TORNTPOWER,Torrent Power Limited,INE813H01021,CRISIL Ratings Limited,CRISIL AA+/Stable,CRISIL AA+/Stable,Reaffirm,Long term credit rating of Non-Convertible Debentures,2026-04-23,2026-04-23 19:53:03
+13572,,Alpha Alternatives Financial Services Private Limited,INE0L6807096,CARE Ratings Limited,CARE PP MLD A-,,Reaffirm,Stable,2026-04-22,2026-04-23 20:22:45
+13543,,Alpha Alternatives Financial Services Private Limited,INE0L6807328,CARE Ratings Limited,CARE A-PP MLD Stable,,New,,2026-04-22,2026-04-23 20:28:09
+13544,,Nuclear Power Corporation of India Limited,INE206D08451,ICRA Limited,ICRA AAA,ICRA AAA,Reaffirm,Reaffirm,2026-03-10,2026-04-24 15:40:24
+13592,,TVS Infrastructure Trust,INE1JNC00000,ICRA Limited,[ICRA] AAA,[ICRA] AAA n,Reaffirm,Stable,2026-03-26,2026-04-24 16:54:27
+13545,RATNAVEER,Ratnaveer Precision Engineering Limited,INE05CZ01011,Infomerics Valuation and Ratings Private Limited,IVR A-,IVR BBB+,Upgrade,STABLE,2026-04-23,2026-04-24 17:21:38
+13593,,TVS Infrastructure Trust,INE1JNC00000,ICRA Limited,[ICRA] AAA n,[ICRA] AAA,Other,Stable,2026-04-23,2026-04-24 17:49:25
+13594,,Vertis Infrastructure Trust,INE0KXY07026,India Ratings and Research Private Limited,IND AAA,IND AAA,Other,Stable,2026-04-24,2026-04-25 16:31:38
+13612,HDFCLIFE,HDFC Life Insurance Company Limited,INE795G08027,ICRA Limited,AAA,AAA,Reaffirm,Stable,2025-11-26,2026-04-27 18:54:57
+13613,NIRMA,Nirma Limited,INE091A07208,CRISIL Ratings Limited,CRISIL AA,CRISIL AA,Reaffirm,No outlook (under rating watch with developing implications),2026-04-24,2026-04-28 17:00:59
+13614,,Cholamandalam MS General Insurance Company Limited,INE439H08020,ICRA Limited,AA,AA,Reaffirm,Stable,2026-04-22,2026-04-28 19:09:04
+13615,,Hero FinCorp Limited,INE957N08193,ICRA Limited,AA+,,Reaffirm,Stable,2025-07-31,2026-04-28 21:04:16
+13616,,Anzen India Energy Yield Plus Trust,INE0MIZ07046,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2026-04-27,2026-04-29 12:30:04
+13632,LT,Larsen & Toubro Limited,INE018A08BN0,CRISIL Ratings Limited,CRISIL AAA,,New,Stable,2025-06-09,2026-04-29 18:14:17
+13633,,Oriental InfraTrust,INE07Z507037,India Ratings and Research Private Limited,IND AAA/Stable,IND AAA/Stable,Reaffirm,Stable,2026-04-29,2026-04-29 18:28:53
+13634,NLCINDIA,NLC India Limited,INE589A08043,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2025-09-03,2026-04-29 19:00:15
+13635,NLCINDIA,NLC India Limited,INE589A07037,India Ratings and Research Private Limited,AAA,AAA,Reaffirm,Stable,2026-03-25,2026-04-29 19:00:43
+13636,,IndiGrid Infrastructure Trust,INE219X07215,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-04-13,2026-04-30 15:33:35
+13617,CAPINVIT,Capital Infra Trust,INE0Z8Z07016,CARE Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-04-29,2026-04-30 17:30:56
+13652,TRENT,Trent Limited,INE849A08082,CARE Ratings Limited,CARE AA+,CARE AA+,Reaffirm,Stable,2026-05-04,2026-05-05 12:35:01
+13672,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-05-06,2026-05-07 11:08:15
+13673,PNBHOUSING,PNB Housing Finance Limited,INE572E07126,CARE Ratings Limited,CARE AAA,CARE AA+,Upgrade,Stable,2026-05-07,2026-05-08 11:50:10
+13674,TRENT,Trent Limited,INE849A08082,ICRA Limited,ICRA AA+,ICRA AA+,Reaffirm,Stable,2026-05-07,2026-05-08 15:10:51
+13675,,ADITYA BIRLA HOUSING FINANCE LIMITED,INE831R07607,CRISIL Ratings Limited,CRISIL AAA,,Reaffirm,Stable,2026-05-08,2026-05-08 23:32:07
+13692,SAMMAANCAP,Sammaan Capital Limited,INE148I07JQ6,CARE Ratings Limited,CARE AA+,CARE AA-,Upgrade,Stable,2026-05-12,2026-05-13 18:36:39
+13693,,Sammaan Finserve Limited,INE244L07176,CARE Ratings Limited,CARE AA+,CARE AA-,Upgrade,Stable,2026-05-12,2026-05-13 18:39:54
+13694,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-05-15,2026-05-15 17:59:04
+13696,IIFL,IIFL Finance Limited,INE530B08094,Brickwork Ratings India Private Limited,BWR AA+,BWR AA+,Reaffirm,Stable,2026-05-15,2026-05-16 16:36:03
+13712,,Magnum Ventures Limited,XXX000X00000,Acuite Ratings & Research Limited,BB,,New,Stable,2026-05-19,2026-05-19 18:33:18
+13732,,Alpha Alternatives Financial Services Private Limited,INE0L6807104,CARE Ratings Limited,CARE PP MLD A-,CARE PP MLD A-,Reaffirm,Stable,2026-04-22,2026-05-20 18:31:21
+13733,SAMMAANCAP,Sammaan Capital Limited,INE148I07ES3,ICRA Limited,ICRA AA+,ICRA AA,Upgrade,Stable,2026-05-20,2026-05-21 14:58:53
+13734,,Sammaan Finserve Limited,INE244L07408,ICRA Limited,ICRA AA+,ICRA AA,Upgrade,Stable,2026-05-20,2026-05-21 15:14:21
+13735,,Vertis Infrastructure Trust,INE0KXY07018,CRISIL Ratings Limited,AAA,AAA,Other,Stable,2026-05-21,2026-05-22 19:16:33
+13752,,IndiGrid Infrastructure Trust,INE219X07272,India Ratings and Research Private Limited,AAA,AAA,Reaffirm,Stable,2026-06-02,2026-06-03 18:30:46
+13772,CENTRALBK,Central Bank of India,INE483A08049,ICRA Limited,AA,AA,Reaffirm,STABLE,2026-06-05,2026-06-05 16:53:13
+13773,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-06-05,2026-06-05 19:15:39
+13792,,IndiGrid Infrastructure Trust,INE219X07215,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-06-05,2026-06-08 19:13:30
+13812,,Muthoot Capital Services Limited,INE296G07168,CRISIL Ratings Limited,Crisil AA-,Crisil A+,Upgrade,Stable,2026-06-09,2026-06-09 18:01:11
+13832,,National Highways Infra Trust,INE0H7R07017,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2026-06-11,2026-06-11 13:53:25
+13873,HDBFS,HDB Financial Services Ltd,INE756I08108,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-06-12,2026-06-12 18:03:19
+13874,,Export Import Bank of India,INE514E08ED5,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-06-04,2026-06-12 18:41:44
+13892,MOTHERSON,Samvardhana Motherson International Limited,INE775A08063,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2026-06-16,2026-06-17 20:22:34
+13912,CENTRALBK,Central Bank of India,INE483A16KS9,CARE Ratings Limited,A1+,,Reaffirm,Stable,2026-06-18,2026-06-18 18:36:21
+13932,MOTHERSON,Samvardhana Motherson International Limited,INE775A08097,CRISIL Ratings Limited,Crisil AAA,Crisil AAA,Reaffirm,Stable,2026-06-18,2026-06-19 22:19:38
+13952,,Export Import Bank of India,INE514E08ED5,ICRA Limited,AAA,AAA,Reaffirm,Stable,2026-06-19,2026-06-22 18:20:19
+13953,NIVABUPA,Niva Bupa Health Insurance Company Limited,INE995S08028,CARE Ratings Limited,CARE AA,CARE AA,Reaffirm,Stable,2026-06-22,2026-06-23 17:48:19
+13972,,Gujarat State Investments Limited,INE08EQ08031,India Ratings and Research Private Limited,IND AA-,IND AA-,Reaffirm,Stable,2026-06-25,2026-06-25 16:50:58
+13973,IOB,Indian Overseas Bank,INE565A08035,CRISIL Ratings Limited,AA+,AA,Upgrade,Stable,2026-06-25,2026-06-25 20:49:40
+13974,TVSMOTOR,TVS Motor Company Limited,XXX000X00000,CARE Ratings Limited,CARE AAA;Non-Convertible Debentures,,Upgrade,Stable,2026-06-25,2026-06-25 21:46:42
+13975,,The Great Eastern Shipping Company Limited,INE017A08268,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2026-06-23,2026-06-26 12:33:23
+13976,,Rbm Infracon Limited,INE0NA301016,Infomerics Valuation and Ratings Private Limited,IVR BBB+/Stable,IVR BBB/Stable,Upgrade,Stable,2026-06-25,2026-06-26 19:25:54
+13992,,Ambium Finserve Limited,PROPOSEDNCDS,CARE Ratings Limited,BBB-,,New,STABLE,2026-06-23,2026-06-27 13:43:03
+13977,,GUJARAT ROAD AND INFRASTRUCTURE COMPANY LIMITED,INE354H07130,CARE Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-06-26,2026-06-29 10:35:06
+14012,,Veritas Finance Limited,INE448U07281,CARE Ratings Limited,CARE AA Minus,CARE AA Minus,Reaffirm,Stable,2026-06-30,2026-07-02 17:19:21
+14013,MAHABANK,Bank of Maharashtra,INE457A08092,CARE Ratings Limited,CARE  AA+,,Reaffirm,Stable,2026-07-02,2026-07-02 20:58:56
+14033,TFCILTD,Tourism Finance Corporation of India Limited,INE305A09216,Brickwork Ratings India Private Limited,BWR AA-,BWR A+,Upgrade,Stable,2026-07-03,2026-07-03 17:03:21
+14034,TVSMOTOR,TVS Motor Company Limited,EEE000E00000,CARE Ratings Limited,CARE AAA; Non Convertible Debentures,,New,Stable,2026-07-03,2026-07-03 17:50:38
+14052,INDUSINDBK,Indusind Bank Limited,INE095A08090,India Ratings and Research Private Limited,IND AA+,,Reaffirm,Negativet,2026-07-02,2026-07-03 18:25:26
+14035,CAPINVIT,Capital Infra Trust,INE0Z8Z07016,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-07-02,2026-07-03 18:31:38
+14036,RELIANCE,Reliance Industries Limited,INE002A08534,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2026-07-03,2026-07-03 19:55:46
+14037,CEATLTD,CEAT Limited,INE482A08025,India Ratings and Research Private Limited,IND AA,IND AA,Reaffirm,Positive,2026-07-03,2026-07-03 22:37:52
+14072,PNBHOUSING,PNB Housing Finance Limited,INE572E09627,CARE Ratings Limited,CARE AAA,CARE AAA,Reaffirm,Stable,2026-07-03,2026-07-06 19:00:12
+14074,,Jharkhand Road Projects Implementation Company Limited,INE746N07AD4,India Ratings and Research Private Limited,IND D,IND D,Reaffirm,in default,2026-07-07,2026-07-07 15:47:07
+14075,,Solar Energy Corporation Of India Limited,INE054008011,ICRA Limited,[ICRA]AAA,[ICRA]AAA,Reaffirm,Stable,2026-07-07,2026-07-07 16:00:11
+14092,HDBFS,HDB Financial Services Ltd,INE756I08108,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-07-06,2026-07-07 17:12:18
+14093,HDBFS,HDB Financial Services Ltd,INE756I08199,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-07-06,2026-07-07 17:15:50
+14094,,Aeroflex Neu Limited,INE035801013,CARE Ratings Limited,CARE BB+  Stable,CRISIL BB+/Stable,Other,,2026-06-30,2026-07-10 12:25:09
+14076,CANFINHOME,Can Fin Homes Limited,INE477A14EG4,ICRA Limited,[ICRA]A1+,,Reaffirm,NA,2026-07-09,2026-07-10 13:01:38
+14132,NUVOCO,Nuvoco Vistas Corporation Limited,INE118D08078,CRISIL Ratings Limited,Crisil AA/Stable,,New,Stable,2026-07-14,2026-07-15 18:10:48
+14133,,Aeroflex Neu Limited,INE035801013,CRISIL Ratings Limited,Crisil BB / Stable' (Rating Withdrawn),CRISIL BB+Stable revised from Positive Rating,Other,,2026-07-15,2026-07-15 18:42:25
+14134,,Gandhinagar Municipal Corporation,INE1NT924013,CRISIL Ratings Limited,AA,AA,Reaffirm,Stable,2026-07-08,2026-07-17 11:55:51
+14135,,Rajasthan Rajya Vidyut Prasaran Nigam Limited,INE572F11273,Infomerics Valuation and Ratings Private Limited,A-(CE)/Stable,,Reaffirm,Stable,2026-07-17,2026-07-17 18:09:35
+14136,BANKINDIA,Bank Of India,INE084A08193,India Ratings and Research Private Limited,AA+,AA+,Reaffirm,STABLE,2026-07-17,2026-07-17 20:09:06
+14152,,Neogen Chemicals Limited,INE136S01016,CRISIL Ratings Limited,CRISIL A-,CRISIL A,Downgrade,Negative,2026-07-17,2026-07-18 17:32:55
+14172,INDOSTAR,IndoStar Capital Finance Limited,INE896L07AR1,CARE Ratings Limited,CARE AA-,,Reaffirm,Stable,2026-07-09,2026-07-21 17:48:14
+14173,MAHABANK,Bank of Maharashtra,INE457A08183,ICRA Limited,ICRA AA+,,Reaffirm,Stable,2026-07-21,2026-07-21 18:02:07
+14174,GODREJPROP,Godrej Properties Limited,INE484J08048,ICRA Limited,[ICRA]AA+,[ICRA]AA+,Other,Stable,2026-07-21,2026-07-21 19:40:24
+14175,TVSMOTOR,TVS Motor Company Limited,XXX000X00000,CARE Ratings Limited,CARE AAA;Non-Convertible Debentures,,Reaffirm,Stable,2026-07-21,2026-07-21 21:12:45
+14192,DCCL,Dar Credit & Capital Limited,INE04Q901010,CARE Ratings Limited,BBB-,,Reaffirm,Stable,2026-07-21,2026-07-22 16:23:41
+14193,,Motilal Oswal Finvest,INE01WN07128,CRISIL Ratings Limited,Crisil AA+,CRISIL AA,Upgrade,Stable,2026-07-22,2026-07-23 13:28:26
+14194,MOTILALOFS,Motilal Oswal Financial Services Limited,INE338I07099,CRISIL Ratings Limited,Crisil AA+,Crisil AA,Upgrade,Stable,2026-07-22,2026-07-23 13:35:07
+14195,SBIN,State Bank Of India,INE062A08454,CRISIL Ratings Limited,Crisil AAA,Crisil AAA,Reaffirm,Stable,2026-07-24,2026-07-24 19:59:52
+14212,BPCL,Bharat Petroleum Corporation Limited,INE029A14BV8,CARE Ratings Limited,CARE A1+,,Reaffirm,NA,2026-07-24,2026-07-25 14:20:32
+14232,,Torrent Investments Limited,INE939L08013,India Ratings and Research Private Limited,IND AA+/Stable,IND AA+/Stable,Reaffirm,Long term credit rating of Non-Convertible Debentures,2026-07-27,2026-07-29 13:36:40
+14252,GABRIEL,Gabriel India Limited,INE524A01029,CRISIL Ratings Limited,Crisil AA+/Stable,,Upgrade,Stable,2026-07-29,2026-07-30 12:54:54
+14272,,Alpha Alternatives Financial Services Private Limited,INE0L6807369,CARE Ratings Limited,CARE A- PP MLD Stable,,New,Stable,2026-07-30,2026-07-30 17:45:09
+14273,,Alpha Alternatives Financial Services Private Limited,INE0L6807336,CARE Ratings Limited,CARE PP MLD A-,,Reaffirm,Stable,2026-05-27,2026-07-30 17:45:45
+14274,IOB,Indian Overseas Bank,INE565A08068,CARE Ratings Limited,AA+,AA,Upgrade,Stable,2026-07-30,2026-07-31 14:50:58
+14292,,Torrent Investments Limited,INE939L08039,CRISIL Ratings Limited,CRISIL AA+/Stable,CRISIL AA+/Stable,Reaffirm,Long term credit rating of Non-Convertible Debentures,2026-07-31,2026-07-31 19:11:28
+14312,DCCL,Dar Credit & Capital Limited,INE04Q901010,CARE Ratings Limited,BBB-,BBB-,Reaffirm,Stable,2026-07-31,2026-08-03 15:04:04
+14332,CENTRALBK,Central Bank of India,INE483A08049,CRISIL Ratings Limited,AA+,AA,Upgrade,Stable,2026-08-04,2026-08-04 16:18:14
+14352,UCOBANK,UCO Bank,INE691A08096,Infomerics Valuation and Ratings Private Limited,AA-,AA-,Reaffirm,POSITIVE,2026-08-04,2026-08-05 11:49:10
+14372,IIFL,IIFL Finance Limited,INE530B08227,India Ratings and Research Private Limited,IND AA,IND AA,Reaffirm,Stable,2026-08-05,2026-08-06 12:30:15
+14373,,Ugro Capital Limited,INE583D14758,Acuite Ratings & Research Limited,ACUITE A1 +,,New,NA,2026-08-04,2026-08-06 18:21:36
+14392,HDBFS,HDB Financial Services Ltd,INE756I07FQ4,CRISIL Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-08-05,2026-08-06 18:47:20
+14374,CAPINVIT,Capital Infra Trust,INE0Z8Z23013,ICRA Limited,AAA,AAA,Reaffirm,Stable,2026-08-07,2026-08-07 17:36:24
+14413,HDBFS,HDB Financial Services Ltd,INE756I07EQ7,CARE Ratings Limited,AAA,AAA,Reaffirm,STABLE,2026-08-06,2026-08-07 18:03:47
+14375,BLUESTONE,BlueStone Jewellery and Lifestyle Limited,INE304W01038,India Ratings and Research Private Limited,IND A-/Stable,,Other,,2026-08-07,2026-08-07 18:30:47
+14432,MOTHERSON,Samvardhana Motherson International Limited,INE775A01035,ICRA Limited,[ICRA] A1+; Outstanding,A1+; Reaffirmed,Other,,2026-08-07,2026-08-08 13:41:08
+14452,,GMR Pochanpalli Expressways Limited,INE808H07010,CARE Ratings Limited,CARE BB-,CARE BB-,Reaffirm,Stable,2026-08-05,2026-08-10 16:20:07
+14453,,GMR Pochanpalli Expressways Limited,INE808H07010,CARE Ratings Limited,CARE BB-,CARE BB-,Reaffirm,Stable,2026-08-05,2026-08-10 17:51:40
+14454,DCCL,Dar Credit & Capital Limited,INE04Q901010,CARE Ratings Limited,,,Other,,2026-08-10,2026-08-13 17:01:45
+14456,NAVINFLUOR,Navin Fluorine International Limited,INE048G01026,CARE Ratings Limited,CARE AA+; Stable,CARE AA; Stable,Upgrade,,2026-08-13,2026-08-13 19:08:00
+14472,,IndiGrid Infrastructure Trust,INE219X07249,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-08-12,2026-08-13 20:31:00
+14457,,Vision Infra Equipment Solutions Limited,INE0TR001017,Infomerics Valuation and Ratings Private Limited,IVR BBB+t,,New,Stable,2026-08-13,2026-08-14 12:22:22
+14458,DCCL,Dar Credit & Capital Limited,INE04Q907090,CARE Ratings Limited,BBB-,,New,Stable,2026-08-13,2026-08-14 15:46:06
+14459,,Alpha Alternatives Financial Services Private Limited,INE0L6807351,CARE Ratings Limited,CARE PP MLD A-,CARE PP MLD A-,Reaffirm,Stable,2026-08-13,2026-08-14 16:43:05
+14460,,Alpha Alternatives Financial Services Private Limited,INE0L6807310,CARE Ratings Limited,CARE PP MLD A-,CARE PP MLD A-,Reaffirm,Stable,2026-08-13,2026-08-14 17:23:26
+14492,BANKINDIA,Bank Of India,INE084A08151,Infomerics Valuation and Ratings Private Limited,AAA,AAA,Reaffirm,STABLE,2026-08-14,2026-08-14 19:17:13
+14512,NAVINFLUOR,Navin Fluorine International Limited,INE048G01026,CRISIL Ratings Limited,Crisil ESG 62,Crisil Core ESG 60,New,,2026-08-17,2026-08-18 18:06:49
+14532,IFCI,IFCI Limited,INE039A09MC4,CARE Ratings Limited,CARE BB,CARE BB,Reaffirm,Continues to be on Rating Watch with Developing Implications,2026-08-17,2026-08-18 19:19:36
+14533,DHANBANK,Dhanlaxmi Bank Limited,INE680A08099,ICRA Limited,BBB-,BBB-,Reaffirm,STABLE,2026-08-19,2026-08-19 16:45:55
+14534,INDUSINDBK,Indusind Bank Limited,INE095A08058,CRISIL Ratings Limited,CRISIL  AA+,,Reaffirm,Stable,2026-08-19,2026-08-19 22:51:21
+14553,IIFL,IIFL Finance Limited,INE530B08250,Brickwork Ratings India Private Limited,BWR AA,BWR AA,Reaffirm,Stable,2026-08-19,2026-08-20 13:36:51
+14554,AFCONS,Afcons Infrastructure Limited,INE101I08081,CRISIL Ratings Limited,CRISIL AA-,,Downgrade,Negative,2026-08-19,2026-08-20 13:41:00
+14535,DHANBANK,Dhanlaxmi Bank Limited,INE680A01011,ICRA Limited,Fixed Deposit -BBB-,,New,STABLE,2026-08-19,2026-08-21 12:27:43
+14536,PNBHOUSING,PNB Housing Finance Limited,INE572E07217,India Ratings and Research Private Limited,IND AAA,IND AAA,Reaffirm,Stable,2026-08-20,2026-08-21 13:19:37
+14537,IIFL,IIFL Finance Limited,INE530B08243,Infomerics Valuation and Ratings Private Limited,IVR AA,IVR AA,Reaffirm,Stable,2026-08-20,2026-08-21 19:34:39
+14555,,Vertis Infrastructure Trust,INE0KXY07059,CRISIL Ratings Limited,AAA,AAA,Reaffirm,Stable,2026-08-21,2026-08-22 15:35:32
+14538,PSB,Punjab & Sind Bank,INE608A08017,CARE Ratings Limited,AA,AA,Reaffirm,Stable,2026-08-21,2026-08-22 18:29:52

@@ -81,6 +81,16 @@ index_reconstitution_dir = "data/index_reconstitution"
 # source paths above: `scripts/fetch_etf_aum.py` writes here, once, as a
 # real acquisition step - same category as `fetch_index_reconstitution.py`.
 etf_aum_dir = "data/etf_aum"
+# Credit rating actions (multi-agency: CARE, CRISIL, India Ratings, ...)
+# this project sourced itself from NSE's own `corporate-credit-rating`
+# endpoint (confirmed live 2026-08-24 - see
+# `dtest/data/credit_ratings.py`'s own module docstring, including the
+# real caveat that most records' own `Symbol` field is unreliable and
+# resolved here via a best-effort name-match against this project's own
+# `index_reconstitution.py` data). NOT read-only like the three source
+# paths above: `scripts/fetch_credit_ratings.py` writes here, once, as a
+# real acquisition step - same category as `fetch_etf_aum.py`.
+credit_ratings_dir = "data/credit_ratings"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under
