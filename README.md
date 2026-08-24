@@ -93,7 +93,21 @@ call from inside a signal):
 | Insider trading (SEBI PIT) | `dtest/data/insider_trading.py` | 2015–2026, 584/926 symbols, 251,933 disclosures | 2015 is a real regulatory floor (SEBI PIT Regulations, 2015), not a data gap |
 | Index reconstitution calendar | `dtest/data/index_reconstitution.py` | 2010–2026, 18,391 events, 303 indices | Real floor is ~2010 — pre-2010 NSE press releases have no ticker-symbol column at all |
 | ETF / Index-Fund AUM | `dtest/data/etf_aum.py` | 2006–2026, 24,836 rows, 1,719 schemes | `filing_date` is an assumed 15-day disclosure lag, not a confirmed broadcast timestamp — flagged, unlike every NSE-sourced date in this project |
+| Per-stock options chain | `dtest/data/options_chain.py` | 2008–2026, 460 symbols, strike-level | Already lived in the existing read-only `fno.db` — no live fetch. Corrects a 2026-08-17 finding ("no per-stock IV exists") that only checked a curated index-only table, not the raw bhavcopy |
 | Macro cross-asset stress | `dtest/data/` (macro fetch) | varies by series | US VIX, USD/INR, DXY, gold |
+
+**A real landmine in the existing `fno.db`, found 2026-08-24, worth
+flagging prominently**: `fno_bhavcopy_full`'s own `instrument` column uses
+two different, non-overlapping code sets across two ingestion batches —
+`OPTSTK`/`FUTSTK`/`OPTIDX`/`FUTIDX` for rows through 2024-05-31, `STO`/
+`STF`/`IDO`/`IDF` for rows from 2024-06-01 onward (current through
+2026-08-07). Filtering on `instrument` directly silently returns only
+whichever era you happened to check — this is exactly how the earlier
+"no per-stock options data" finding got drawn. `asset_class`+
+`contract_type` (`'STOCK'`+`'OPT'`/`'FUT'`) is immune and spans both eras
+— the columns `fno_oi.py`, `fno_price.py`, and now `options_chain.py` all
+use for this reason. Never add a new query against this table filtered on
+`instrument` without reading this note first.
 
 Two more datasets were investigated and are explicitly **not** built:
 - **Bulk/block deal bulletins** — NSE's historical-deals API currently
@@ -125,6 +139,7 @@ dtest/
     insider_trading.py    SEBI PIT buy/sell/pledge disclosures (NSE corporates-pit)
     index_reconstitution.py  NIFTY index add/exclude events (NSE Indices press releases)
     etf_aum.py               scheme-level ETF/Index-Fund AUM (AMFI average-aum-schemewise)
+    options_chain.py         per-stock strike-level OI/volume/settle (fno_bhavcopy_full)
   features/             point-in-time feature layer (technical, fundamentals, pairs, regime)
   signals/               one file per hypothesis (11 built, see Status)
   engine/
@@ -175,10 +190,11 @@ not.
    individual fund-house sites, or dropping it from scope
 5. ~~Index reconstitution calendar~~ — done
 6. ~~ETF / Index-Fund AUM (AMFI)~~ — done
-7. **Per-stock options chain (strike-level OI/volume/IV, ~180-200 F&O
-   names)** — next up, not yet started
-8. Per-stock participant-wise OI (index-wide version already tried and
-   rejected as `participant_tilt` — per-stock breakdown untested)
+7. ~~Per-stock options chain (strike-level OI/volume/settle)~~ — done
+   (raw data only; IV/max-pain/PCR are feature engineering, deferred)
+8. **Per-stock participant-wise OI** — next up, not yet started (index-wide
+   version already tried and rejected as `participant_tilt` — per-stock
+   breakdown untested)
 9. Credit rating actions (CRISIL/ICRA/CARE/India Ratings)
 10. G-Sec yield curve (RBI) — macro regime context, not a standalone signal
 11. Corporate announcement feed (M&A, contract wins, dividends/buybacks)
