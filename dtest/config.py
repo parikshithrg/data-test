@@ -45,6 +45,7 @@ class Paths:
     corporate_announcements_dir: Path
     earnings_transcripts_dir: Path
     macro_series_dir: Path
+    gst_collections_dir: Path
 
     def check_readable(self) -> None:
         """Fail loudly if source data is missing, before any run starts."""

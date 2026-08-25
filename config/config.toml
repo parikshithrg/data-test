@@ -128,6 +128,15 @@ earnings_transcripts_dir = "data/earnings_transcripts"
 # paths above: `scripts/fetch_macro_series.py` writes here, once per series,
 # as a real acquisition step - same category as `fetch_gsec_yields.py`.
 macro_series_dir = "data/macro_series"
+# Monthly GST tax collection (CGST/SGST/IGST/Cess, domestic vs imports),
+# July 2017-March 2026, parsed from GSTN's own "9 Years of GST" PDF report
+# (see `dtest/data/gst_collections.py`'s own module docstring - including
+# why the parent `gst.gov.in` page needed a real browser session to find
+# the file, a WAF blocks bare `requests` there, but the file itself, on a
+# different host, does not). NOT read-only like the three source paths
+# above: `scripts/fetch_gst_collections.py` writes here, once, as a real
+# acquisition step - same category as `fetch_index_reconstitution.py`.
+gst_collections_dir = "data/gst_collections"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under

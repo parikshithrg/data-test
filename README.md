@@ -99,7 +99,8 @@ call from inside a signal):
 | Corporate announcement feed | `dtest/data/corporate_announcements.py` | 2004–2026, 117,121 announcements, 3,043 symbols | Best-behaved NSE source found this session (both `symbol` and date-range genuinely filter). `seq_id` is null on every pre-2013 record — falls back to a synthetic `symbol\|an_dt` key rather than silently dropping 9 years of real disclosures, a real bug found and fixed mid-session |
 | Earnings call transcripts | `dtest/data/earnings_transcripts.py` | 2010–2026, 19,045 full-text transcripts, 1,436 symbols | Same source feed as corporate announcements, filtered on the raw filing blurb (not NSE's own noisy/drifted category). ~90% of volume is 2022-2026 — a real regulatory-adoption curve, not a gap. Pre-2010 transcripts have no real attachment on file at all (NSE's own placeholder, not a broken link) and are correctly excluded. ~1.7% of matched filings fail extraction (a handful of non-PDF/non-zip attachments); some successfully-extracted filings are only a short cover letter pointing to the transcript on the company's own website, not the full text — real source-side variance, not a parsing bug |
 | Macro cross-asset stress | `dtest/data/` (macro fetch) | varies by series | US VIX, USD/INR, DXY, gold |
-| National macro series (CPI/IIP/WPI/GDP/PLFS unemployment/RBI forex reserves) | `dtest/data/macro_series.py` | CPI 2013-2026, IIP 1994-2026, WPI 2012-2026, GDP 2011-12..2025-26, unemployment 2025-04..2026-07, forex reserves 1990-2025 | All 6 fetched from `api.mospi.gov.in`'s real public REST family (needs a legacy-SSL workaround, see `dtest/data/mospi_api.py`) — headline national series only, not the full disaggregated hierarchy each source supports. Forex reserves genuinely lags ~14 months (real ceiling in the source, cross-checked against eSankhyiki's own homepage figure, not a fetch bug). Does not cover RBI repo rate/M3/bank-credit-growth (Handbook of Statistics downloads are bot-walled; FRED refused every connection this session) or GST collections (a different ministry's domain) |
+| National macro series (CPI/IIP/WPI/GDP/PLFS unemployment/RBI forex reserves) | `dtest/data/macro_series.py` | CPI 2013-2026, IIP 1994-2026, WPI 2012-2026, GDP 2011-12..2025-26, unemployment 2025-04..2026-07, forex reserves 1990-2025 | All 6 fetched from `api.mospi.gov.in`'s real public REST family (needs a legacy-SSL workaround, see `dtest/data/mospi_api.py`) — headline national series only, not the full disaggregated hierarchy each source supports. Forex reserves genuinely lags ~14 months (real ceiling in the source, cross-checked against eSankhyiki's own homepage figure, not a fetch bug). Does not cover RBI repo rate/M3/bank-credit-growth (Handbook of Statistics downloads are bot-walled; FRED refused every connection this session) |
+| GST monthly tax collection | `dtest/data/gst_collections.py` | Jul 2017-Mar 2026, 105 months, CGST/SGST/IGST/Cess by domestic vs imports | Parsed from GSTN's own "9 Years of GST" retrospective PDF report — the parent `gst.gov.in` download page is WAF-protected (needed a real browser session to find the file URL), the file itself is not. Two of nine fiscal-year pages use an all-caps "MONTH" header while the rest use title-case "Month"/"Months" — silently dropped 21/105 months until matched case-insensitively, a real bug found and fixed. Every monthly total cross-checked against the source's own printed fiscal-year totals (within ±2 crore, real rounding in GSTN's own document, not a parsing error) |
 
 **A real landmine in the existing `fno.db`, found 2026-08-24, worth
 flagging prominently**: `fno_bhavcopy_full`'s own `instrument` column uses
@@ -217,12 +218,12 @@ not.
     buybacks)~~ — done
 12. ~~Earnings call transcripts~~ — done
 13. Macro series (RBI repo/M3/forex, MOSPI IIP/CPI/GDP, GST collections) —
-    **partly done**: MOSPI's IIP/CPI/WPI/GDP/PLFS-unemployment and RBI
-    forex reserves all sourced from `api.mospi.gov.in`'s real public API
-    (see the Data sources table above). Repo rate/M3/bank-credit-growth
-    (RBI Handbook downloads are bot-walled; FRED refused every connection
-    this session) and GST collections (different ministry, not
-    investigated) remain open
+    **mostly done**: MOSPI's IIP/CPI/WPI/GDP/PLFS-unemployment and RBI
+    forex reserves sourced from `api.mospi.gov.in`'s real public API;
+    ~~GST monthly collections~~ done from GSTN's own "9 Years of GST" PDF
+    report (see the Data sources table above). Only repo rate/M3/bank-
+    credit-growth remain open — RBI's own Handbook of Statistics downloads
+    are bot-walled, and FRED refused every connection this session
 14. Global cross-asset (FRED rates, crude, EM-FX, global equity indices)
 
 **Once collection is declared done**, the honest next analytical step is a
