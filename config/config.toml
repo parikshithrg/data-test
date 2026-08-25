@@ -115,6 +115,19 @@ corporate_announcements_dir = "data/corporate_announcements"
 # `scripts/fetch_earnings_transcripts.py` writes here: `transcripts.csv`
 # (metadata) plus one `.txt` file per filing under `text/`.
 earnings_transcripts_dir = "data/earnings_transcripts"
+# Six national macro series (RBI forex reserves; MoSPI CPI/IIP/WPI/GDP/PLFS
+# unemployment) this project sourced itself from the public `api.mospi.gov.in`
+# REST family, discovered live 2026-08-25 via the eSankhyiki portal's own
+# embedded Swagger docs (see `dtest/data/mospi_api.py`'s module docstring -
+# including why it needs a legacy-SSL workaround, and why it's treated as a
+# real public API despite each spec declaring bearerAuth). Does NOT cover
+# RBI repo rate/M3/bank-credit-growth (Handbook of Statistics downloads are
+# bot-walled; FRED was unreachable this session) or GST collections (a
+# different ministry's domain) - see `dtest/data/macro_series.py`'s own
+# docstring for the full, stated scope. NOT read-only like the three source
+# paths above: `scripts/fetch_macro_series.py` writes here, once per series,
+# as a real acquisition step - same category as `fetch_gsec_yields.py`.
+macro_series_dir = "data/macro_series"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under

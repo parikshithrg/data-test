@@ -1,0 +1,451 @@
+date,age_group,gender,sector,unemployment_rate_pct
+2025-12-01,15-29 years,male,rural,12.6
+2025-12-01,15 years and above,male,rural,4.1
+2025-12-01,All ages,male,rural,4.1
+2025-12-01,15-29 years,male,urban,15.8
+2025-12-01,15 years and above,male,urban,5.9
+2025-12-01,All ages,male,urban,5.9
+2025-12-01,15-29 years,male,rural + urban,13.7
+2025-12-01,15 years and above,male,rural + urban,4.7
+2025-12-01,All ages,male,rural + urban,4.7
+2025-12-01,15-29 years,female,rural,12.7
+2025-12-01,15 years and above,female,rural,3.6
+2025-12-01,All ages,female,rural,3.6
+2025-12-01,15-29 years,female,urban,24.9
+2025-12-01,15 years and above,female,urban,9.1
+2025-12-01,All ages,female,urban,9.1
+2025-12-01,15-29 years,female,rural + urban,16.3
+2025-12-01,15 years and above,female,rural + urban,4.9
+2025-12-01,All ages,female,rural + urban,4.9
+2025-12-01,15-29 years,person,rural,12.6
+2025-12-01,15 years and above,person,rural,3.9
+2025-12-01,All ages,person,rural,3.9
+2025-12-01,15-29 years,person,urban,18.1
+2025-12-01,15 years and above,person,urban,6.7
+2025-12-01,All ages,person,urban,6.7
+2025-12-01,15-29 years,person,rural + urban,14.4
+2025-12-01,15 years and above,person,rural + urban,4.8
+2025-12-01,All ages,person,rural + urban,4.8
+2025-11-01,15-29 years,male,rural,12.4
+2025-11-01,15 years and above,male,rural,4.1
+2025-11-01,All ages,male,rural,4.1
+2025-11-01,15-29 years,male,urban,15.3
+2025-11-01,15 years and above,male,urban,5.6
+2025-11-01,All ages,male,urban,5.6
+2025-11-01,15-29 years,male,rural + urban,13.4
+2025-11-01,15 years and above,male,rural + urban,4.6
+2025-11-01,All ages,male,rural + urban,4.6
+2025-11-01,15-29 years,female,rural,12.5
+2025-11-01,15 years and above,female,rural,3.4
+2025-11-01,All ages,female,rural,3.4
+2025-11-01,15-29 years,female,urban,25.7
+2025-11-01,15 years and above,female,urban,9.3
+2025-11-01,All ages,female,urban,9.3
+2025-11-01,15-29 years,female,rural + urban,16.3
+2025-11-01,15 years and above,female,rural + urban,4.8
+2025-11-01,All ages,female,rural + urban,4.8
+2025-11-01,15-29 years,person,rural,12.4
+2025-11-01,15 years and above,person,rural,3.9
+2025-11-01,All ages,person,rural,3.9
+2025-11-01,15-29 years,person,urban,17.8
+2025-11-01,15 years and above,person,urban,6.5
+2025-11-01,All ages,person,urban,6.5
+2025-11-01,15-29 years,person,rural + urban,14.1
+2025-11-01,15 years and above,person,rural + urban,4.7
+2025-11-01,All ages,person,rural + urban,4.7
+2025-10-01,15-29 years,male,rural,13.2
+2025-10-01,15 years and above,male,rural,4.6
+2025-10-01,All ages,male,rural,4.6
+2025-10-01,15-29 years,male,urban,15.8
+2025-10-01,15 years and above,male,urban,6.1
+2025-10-01,All ages,male,urban,6.1
+2025-10-01,15-29 years,male,rural + urban,14.0
+2025-10-01,15 years and above,male,rural + urban,5.1
+2025-10-01,All ages,male,rural + urban,5.1
+2025-10-01,15-29 years,female,rural,13.2
+2025-10-01,15 years and above,female,rural,4.0
+2025-10-01,All ages,female,rural,4.0
+2025-10-01,15-29 years,female,urban,26.3
+2025-10-01,15 years and above,female,urban,9.7
+2025-10-01,All ages,female,urban,9.7
+2025-10-01,15-29 years,female,rural + urban,17.1
+2025-10-01,15 years and above,female,rural + urban,5.4
+2025-10-01,All ages,female,rural + urban,5.4
+2025-10-01,15-29 years,person,rural,13.2
+2025-10-01,15 years and above,person,rural,4.4
+2025-10-01,All ages,person,rural,4.4
+2025-10-01,15-29 years,person,urban,18.4
+2025-10-01,15 years and above,person,urban,7.0
+2025-10-01,All ages,person,urban,7.0
+2025-10-01,15-29 years,person,rural + urban,14.9
+2025-10-01,15 years and above,person,rural + urban,5.2
+2025-10-01,All ages,person,rural + urban,5.2
+2025-09-01,15-29 years,male,rural,13.0
+2025-09-01,15 years and above,male,rural,4.7
+2025-09-01,All ages,male,rural,4.7
+2025-09-01,15-29 years,male,urban,16.0
+2025-09-01,15 years and above,male,urban,6.0
+2025-09-01,All ages,male,urban,6.0
+2025-09-01,15-29 years,male,rural + urban,13.9
+2025-09-01,15 years and above,male,rural + urban,5.1
+2025-09-01,All ages,male,rural + urban,5.1
+2025-09-01,15-29 years,female,rural,14.1
+2025-09-01,15 years and above,female,rural,4.3
+2025-09-01,All ages,female,rural,4.3
+2025-09-01,15-29 years,female,urban,26.4
+2025-09-01,15 years and above,female,urban,9.3
+2025-09-01,All ages,female,urban,9.3
+2025-09-01,15-29 years,female,rural + urban,17.8
+2025-09-01,15 years and above,female,rural + urban,5.5
+2025-09-01,All ages,female,rural + urban,5.5
+2025-09-01,15-29 years,person,rural,13.3
+2025-09-01,15 years and above,person,rural,4.6
+2025-09-01,All ages,person,rural,4.6
+2025-09-01,15-29 years,person,urban,18.5
+2025-09-01,15 years and above,person,urban,6.8
+2025-09-01,All ages,person,urban,6.8
+2025-09-01,15-29 years,person,rural + urban,15.0
+2025-09-01,15 years and above,person,rural + urban,5.2
+2025-09-01,All ages,person,rural + urban,5.3
+2025-08-01,15-29 years,male,rural,12.6
+2025-08-01,15 years and above,male,rural,4.5
+2025-08-01,All ages,male,rural,4.5
+2025-08-01,15-29 years,male,urban,15.6
+2025-08-01,15 years and above,male,urban,5.9
+2025-08-01,All ages,male,urban,5.9
+2025-08-01,15-29 years,male,rural + urban,13.5
+2025-08-01,15 years and above,male,rural + urban,5.0
+2025-08-01,All ages,male,rural + urban,5.0
+2025-08-01,15-29 years,female,rural,14.3
+2025-08-01,15 years and above,female,rural,4.0
+2025-08-01,All ages,female,rural,4.0
+2025-08-01,15-29 years,female,urban,25.7
+2025-08-01,15 years and above,female,urban,8.9
+2025-08-01,All ages,female,urban,9.0
+2025-08-01,15-29 years,female,rural + urban,17.8
+2025-08-01,15 years and above,female,rural + urban,5.2
+2025-08-01,All ages,female,rural + urban,5.3
+2025-08-01,15-29 years,person,rural,13.0
+2025-08-01,15 years and above,person,rural,4.3
+2025-08-01,All ages,person,rural,4.4
+2025-08-01,15-29 years,person,urban,18.0
+2025-08-01,15 years and above,person,urban,6.7
+2025-08-01,All ages,person,urban,6.7
+2025-08-01,15-29 years,person,rural + urban,14.6
+2025-08-01,15 years and above,person,rural + urban,5.1
+2025-08-01,All ages,person,rural + urban,5.1
+2025-07-01,15-29 years,male,rural,13.0
+2025-07-01,15 years and above,male,rural,4.6
+2025-07-01,All ages,male,rural,4.6
+2025-07-01,15-29 years,male,urban,17.1
+2025-07-01,15 years and above,male,urban,6.6
+2025-07-01,All ages,male,urban,6.7
+2025-07-01,15-29 years,male,rural + urban,14.3
+2025-07-01,15 years and above,male,rural + urban,5.3
+2025-07-01,All ages,male,rural + urban,5.3
+2025-07-01,15-29 years,female,rural,13.0
+2025-07-01,15 years and above,female,rural,3.9
+2025-07-01,All ages,female,rural,3.9
+2025-07-01,15-29 years,female,urban,25.1
+2025-07-01,15 years and above,female,urban,8.7
+2025-07-01,All ages,female,urban,8.7
+2025-07-01,15-29 years,female,rural + urban,16.7
+2025-07-01,15 years and above,female,rural + urban,5.1
+2025-07-01,All ages,female,rural + urban,5.1
+2025-07-01,15-29 years,person,rural,13.0
+2025-07-01,15 years and above,person,rural,4.4
+2025-07-01,All ages,person,rural,4.4
+2025-07-01,15-29 years,person,urban,19.0
+2025-07-01,15 years and above,person,urban,7.2
+2025-07-01,All ages,person,urban,7.2
+2025-07-01,15-29 years,person,rural + urban,14.9
+2025-07-01,15 years and above,person,rural + urban,5.2
+2025-07-01,All ages,person,rural + urban,5.2
+2025-06-01,15-29 years,male,rural,13.8
+2025-06-01,15 years and above,male,rural,5.1
+2025-06-01,All ages,male,rural,5.1
+2025-06-01,15-29 years,male,urban,16.6
+2025-06-01,15 years and above,male,urban,6.4
+2025-06-01,All ages,male,urban,6.4
+2025-06-01,15-29 years,male,rural + urban,14.7
+2025-06-01,15 years and above,male,rural + urban,5.6
+2025-06-01,All ages,male,rural + urban,5.6
+2025-06-01,15-29 years,female,rural,13.7
+2025-06-01,15 years and above,female,rural,4.4
+2025-06-01,All ages,female,rural,4.4
+2025-06-01,15-29 years,female,urban,25.8
+2025-06-01,15 years and above,female,urban,9.1
+2025-06-01,All ages,female,urban,9.1
+2025-06-01,15-29 years,female,rural + urban,17.4
+2025-06-01,15 years and above,female,rural + urban,5.6
+2025-06-01,All ages,female,rural + urban,5.6
+2025-06-01,15-29 years,person,rural,13.8
+2025-06-01,15 years and above,person,rural,4.9
+2025-06-01,All ages,person,rural,4.9
+2025-06-01,15-29 years,person,urban,18.8
+2025-06-01,15 years and above,person,urban,7.1
+2025-06-01,All ages,person,urban,7.1
+2025-06-01,15-29 years,person,rural + urban,15.3
+2025-06-01,15 years and above,person,rural + urban,5.6
+2025-06-01,All ages,person,rural + urban,5.6
+2025-05-01,15-29 years,male,rural,14.0
+2025-05-01,15 years and above,male,rural,5.3
+2025-05-01,All ages,male,rural,5.3
+2025-05-01,15-29 years,male,urban,15.8
+2025-05-01,15 years and above,male,urban,6.2
+2025-05-01,All ages,male,urban,6.2
+2025-05-01,15-29 years,male,rural + urban,14.5
+2025-05-01,15 years and above,male,rural + urban,5.6
+2025-05-01,All ages,male,rural + urban,5.6
+2025-05-01,15-29 years,female,rural,13.0
+2025-05-01,15 years and above,female,rural,4.7
+2025-05-01,All ages,female,rural,4.7
+2025-05-01,15-29 years,female,urban,24.4
+2025-05-01,15 years and above,female,urban,9.1
+2025-05-01,All ages,female,urban,9.1
+2025-05-01,15-29 years,female,rural + urban,16.3
+2025-05-01,15 years and above,female,rural + urban,5.8
+2025-05-01,All ages,female,rural + urban,5.7
+2025-05-01,15-29 years,person,rural,13.7
+2025-05-01,15 years and above,person,rural,5.1
+2025-05-01,All ages,person,rural,5.1
+2025-05-01,15-29 years,person,urban,17.9
+2025-05-01,15 years and above,person,urban,6.9
+2025-05-01,All ages,person,urban,6.9
+2025-05-01,15-29 years,person,rural + urban,15.0
+2025-05-01,15 years and above,person,rural + urban,5.6
+2025-05-01,All ages,person,rural + urban,5.6
+2025-04-01,15-29 years,male,rural,13.0
+2025-04-01,15 years and above,male,rural,4.9
+2025-04-01,All ages,male,rural,4.9
+2025-04-01,15-29 years,male,urban,15.0
+2025-04-01,15 years and above,male,urban,5.8
+2025-04-01,All ages,male,urban,5.8
+2025-04-01,15-29 years,male,rural + urban,13.6
+2025-04-01,15 years and above,male,rural + urban,5.2
+2025-04-01,All ages,male,rural + urban,5.2
+2025-04-01,15-29 years,female,rural,10.7
+2025-04-01,15 years and above,female,rural,3.9
+2025-04-01,All ages,female,rural,3.8
+2025-04-01,15-29 years,female,urban,23.7
+2025-04-01,15 years and above,female,urban,8.7
+2025-04-01,All ages,female,urban,8.7
+2025-04-01,15-29 years,female,rural + urban,14.4
+2025-04-01,15 years and above,female,rural + urban,5.0
+2025-04-01,All ages,female,rural + urban,5.0
+2025-04-01,15-29 years,person,rural,12.3
+2025-04-01,15 years and above,person,rural,4.5
+2025-04-01,All ages,person,rural,4.5
+2025-04-01,15-29 years,person,urban,17.2
+2025-04-01,15 years and above,person,urban,6.5
+2025-04-01,All ages,person,urban,6.5
+2025-04-01,15-29 years,person,rural + urban,13.8
+2025-04-01,15 years and above,person,rural + urban,5.1
+2025-04-01,All ages,person,rural + urban,5.1
+2026-07-01,15-29 years,male,rural,13.4
+2026-07-01,15 years and above,male,rural,4.6
+2026-07-01,All ages,male,rural,4.6
+2026-07-01,15-29 years,male,urban,15.9
+2026-07-01,15 years and above,male,urban,5.9
+2026-07-01,All ages,male,urban,5.9
+2026-07-01,15-29 years,male,rural + urban,14.2
+2026-07-01,15 years and above,male,rural + urban,5.0
+2026-07-01,All ages,male,rural + urban,5.0
+2026-07-01,15-29 years,female,rural,16.0
+2026-07-01,15 years and above,female,rural,4.3
+2026-07-01,All ages,female,rural,4.3
+2026-07-01,15-29 years,female,urban,27.2
+2026-07-01,15 years and above,female,urban,8.8
+2026-07-01,All ages,female,urban,8.8
+2026-07-01,15-29 years,female,rural + urban,19.5
+2026-07-01,15 years and above,female,rural + urban,5.4
+2026-07-01,All ages,female,rural + urban,5.4
+2026-07-01,15-29 years,person,rural,14.1
+2026-07-01,15 years and above,person,rural,4.5
+2026-07-01,All ages,person,rural,4.5
+2026-07-01,15-29 years,person,urban,18.6
+2026-07-01,15 years and above,person,urban,6.7
+2026-07-01,All ages,person,urban,6.7
+2026-07-01,15-29 years,person,rural + urban,15.6
+2026-07-01,15 years and above,person,rural + urban,5.1
+2026-07-01,All ages,person,rural + urban,5.1
+2026-06-01,15-29 years,male,rural,13.9
+2026-06-01,15 years and above,male,rural,4.9
+2026-06-01,All ages,male,rural,4.9
+2026-06-01,15-29 years,male,urban,16.0
+2026-06-01,15 years and above,male,urban,6.0
+2026-06-01,All ages,male,urban,6.0
+2026-06-01,15-29 years,male,rural + urban,14.6
+2026-06-01,15 years and above,male,rural + urban,5.3
+2026-06-01,All ages,male,rural + urban,5.3
+2026-06-01,15-29 years,female,rural,18.6
+2026-06-01,15 years and above,female,rural,5.0
+2026-06-01,All ages,female,rural,5.0
+2026-06-01,15-29 years,female,urban,25.3
+2026-06-01,15 years and above,female,urban,8.4
+2026-06-01,All ages,female,urban,8.4
+2026-06-01,15-29 years,female,rural + urban,20.7
+2026-06-01,15 years and above,female,rural + urban,5.9
+2026-06-01,All ages,female,rural + urban,5.9
+2026-06-01,15-29 years,person,rural,15.1
+2026-06-01,15 years and above,person,rural,5.0
+2026-06-01,All ages,person,rural,5.0
+2026-06-01,15-29 years,person,urban,18.2
+2026-06-01,15 years and above,person,urban,6.6
+2026-06-01,All ages,person,urban,6.6
+2026-06-01,15-29 years,person,rural + urban,16.2
+2026-06-01,15 years and above,person,rural + urban,5.5
+2026-06-01,All ages,person,rural + urban,5.5
+2026-05-01,15-29 years,male,rural,14.5
+2026-05-01,15 years and above,male,rural,5.2
+2026-05-01,All ages,male,rural,5.3
+2026-05-01,15-29 years,male,urban,15.6
+2026-05-01,15 years and above,male,urban,5.9
+2026-05-01,All ages,male,urban,5.9
+2026-05-01,15-29 years,male,rural + urban,14.9
+2026-05-01,15 years and above,male,rural + urban,5.4
+2026-05-01,All ages,male,rural + urban,5.5
+2026-05-01,15-29 years,female,rural,16.9
+2026-05-01,15 years and above,female,rural,4.7
+2026-05-01,All ages,female,rural,4.7
+2026-05-01,15-29 years,female,urban,23.7
+2026-05-01,15 years and above,female,urban,8.2
+2026-05-01,All ages,female,urban,8.2
+2026-05-01,15-29 years,female,rural + urban,18.9
+2026-05-01,15 years and above,female,rural + urban,5.6
+2026-05-01,All ages,female,rural + urban,5.6
+2026-05-01,15-29 years,person,rural,15.1
+2026-05-01,15 years and above,person,rural,5.1
+2026-05-01,All ages,person,rural,5.1
+2026-05-01,15-29 years,person,urban,17.5
+2026-05-01,15 years and above,person,urban,6.4
+2026-05-01,All ages,person,urban,6.4
+2026-05-01,15-29 years,person,rural + urban,15.9
+2026-05-01,15 years and above,person,rural + urban,5.5
+2026-05-01,All ages,person,rural + urban,5.5
+2026-04-01,15-29 years,male,rural,13.3
+2026-04-01,15 years and above,male,rural,4.7
+2026-04-01,All ages,male,rural,4.7
+2026-04-01,15-29 years,male,urban,15.9
+2026-04-01,15 years and above,male,urban,5.9
+2026-04-01,All ages,male,urban,5.9
+2026-04-01,15-29 years,male,rural + urban,14.1
+2026-04-01,15 years and above,male,rural + urban,5.1
+2026-04-01,All ages,male,rural + urban,5.1
+2026-04-01,15-29 years,female,rural,16.2
+2026-04-01,15 years and above,female,rural,4.4
+2026-04-01,All ages,female,rural,4.4
+2026-04-01,15-29 years,female,urban,24.5
+2026-04-01,15 years and above,female,urban,8.5
+2026-04-01,All ages,female,urban,8.5
+2026-04-01,15-29 years,female,rural + urban,18.7
+2026-04-01,15 years and above,female,rural + urban,5.4
+2026-04-01,All ages,female,rural + urban,5.4
+2026-04-01,15-29 years,person,rural,14.1
+2026-04-01,15 years and above,person,rural,4.6
+2026-04-01,All ages,person,rural,4.6
+2026-04-01,15-29 years,person,urban,18.0
+2026-04-01,15 years and above,person,urban,6.6
+2026-04-01,All ages,person,urban,6.6
+2026-04-01,15-29 years,person,rural + urban,15.3
+2026-04-01,15 years and above,person,rural + urban,5.2
+2026-04-01,All ages,person,rural + urban,5.2
+2026-03-01,15-29 years,male,rural,13.2
+2026-03-01,15-29 years,male,rural,13.2
+2026-03-01,15 years and above,male,rural,4.4
+2026-03-01,15 years and above,male,rural,4.4
+2026-03-01,All ages,male,rural,4.4
+2026-03-01,15-29 years,male,urban,16.5
+2026-03-01,15-29 years,male,urban,16.5
+2026-03-01,15 years and above,male,urban,6.1
+2026-03-01,15 years and above,male,urban,6.1
+2026-03-01,All ages,male,urban,6.1
+2026-03-01,15-29 years,male,rural + urban,14.3
+2026-03-01,15-29 years,male,rural + urban,14.3
+2026-03-01,15 years and above,male,rural + urban,5.0
+2026-03-01,15 years and above,male,rural + urban,5.0
+2026-03-01,All ages,male,rural + urban,5.0
+2026-03-01,15-29 years,female,rural,14.8
+2026-03-01,15-29 years,female,rural,14.8
+2026-03-01,15 years and above,female,rural,4.1
+2026-03-01,15 years and above,female,rural,4.1
+2026-03-01,All ages,female,rural,4.1
+2026-03-01,15-29 years,female,urban,24.5
+2026-03-01,15-29 years,female,urban,24.5
+2026-03-01,15 years and above,female,urban,9.0
+2026-03-01,15 years and above,female,urban,9.0
+2026-03-01,All ages,female,urban,9.0
+2026-03-01,15-29 years,female,rural + urban,17.7
+2026-03-01,15-29 years,female,rural + urban,17.7
+2026-03-01,15 years and above,female,rural + urban,5.3
+2026-03-01,15 years and above,female,rural + urban,5.3
+2026-03-01,All ages,female,rural + urban,5.3
+2026-03-01,15-29 years,person,rural,13.6
+2026-03-01,15-29 years,person,rural,13.6
+2026-03-01,15 years and above,person,rural,4.3
+2026-03-01,15 years and above,person,rural,4.3
+2026-03-01,All ages,person,rural,4.3
+2026-03-01,15-29 years,person,urban,18.4
+2026-03-01,15-29 years,person,urban,18.4
+2026-03-01,15 years and above,person,urban,6.8
+2026-03-01,15 years and above,person,urban,6.8
+2026-03-01,All ages,person,urban,6.8
+2026-03-01,15-29 years,person,rural + urban,15.2
+2026-03-01,15-29 years,person,rural + urban,15.2
+2026-03-01,15 years and above,person,rural + urban,5.1
+2026-03-01,15 years and above,person,rural + urban,5.1
+2026-03-01,All ages,person,rural + urban,5.1
+2026-02-01,15-29 years,male,rural,12.5
+2026-02-01,15 years and above,male,rural,4.2
+2026-02-01,All ages,male,rural,4.3
+2026-02-01,15-29 years,male,urban,16.1
+2026-02-01,15 years and above,male,urban,5.9
+2026-02-01,All ages,male,urban,5.9
+2026-02-01,15-29 years,male,rural + urban,13.7
+2026-02-01,15 years and above,male,rural + urban,4.8
+2026-02-01,All ages,male,rural + urban,4.8
+2026-02-01,15-29 years,female,rural,14.6
+2026-02-01,15 years and above,female,rural,4.0
+2026-02-01,All ages,female,rural,4.0
+2026-02-01,15-29 years,female,urban,24.9
+2026-02-01,15 years and above,female,urban,8.7
+2026-02-01,All ages,female,urban,8.7
+2026-02-01,15-29 years,female,rural + urban,17.6
+2026-02-01,15 years and above,female,rural + urban,5.1
+2026-02-01,All ages,female,rural + urban,5.1
+2026-02-01,15-29 years,person,rural,13.1
+2026-02-01,15 years and above,person,rural,4.2
+2026-02-01,All ages,person,rural,4.2
+2026-02-01,15-29 years,person,urban,18.3
+2026-02-01,15 years and above,person,urban,6.6
+2026-02-01,All ages,person,urban,6.6
+2026-02-01,15-29 years,person,rural + urban,14.8
+2026-02-01,15 years and above,person,rural + urban,4.9
+2026-02-01,All ages,person,rural + urban,4.9
+2026-01-01,15-29 years,male,rural,12.3
+2026-01-01,15 years and above,male,rural,4.1
+2026-01-01,All ages,male,rural,4.1
+2026-01-01,15-29 years,male,urban,16.0
+2026-01-01,15 years and above,male,urban,6.0
+2026-01-01,All ages,male,urban,6.0
+2026-01-01,15-29 years,male,rural + urban,13.6
+2026-01-01,15 years and above,male,rural + urban,4.8
+2026-01-01,All ages,male,rural + urban,4.8
+2026-01-01,15-29 years,female,rural,14.2
+2026-01-01,15 years and above,female,rural,4.3
+2026-01-01,All ages,female,rural,4.3
+2026-01-01,15-29 years,female,urban,26.4
+2026-01-01,15 years and above,female,urban,9.8
+2026-01-01,All ages,female,urban,9.8
+2026-01-01,15-29 years,female,rural + urban,17.8
+2026-01-01,15 years and above,female,rural + urban,5.6
+2026-01-01,All ages,female,rural + urban,5.6
+2026-01-01,15-29 years,person,rural,12.8
+2026-01-01,15 years and above,person,rural,4.2
+2026-01-01,All ages,person,rural,4.2
+2026-01-01,15-29 years,person,urban,18.6
+2026-01-01,15 years and above,person,urban,7.0
+2026-01-01,All ages,person,urban,7.0
+2026-01-01,15-29 years,person,rural + urban,14.7
+2026-01-01,15 years and above,person,rural + urban,5.0
+2026-01-01,All ages,person,rural + urban,5.0
