@@ -101,6 +101,7 @@ call from inside a signal):
 | Macro cross-asset stress | `dtest/data/` (macro fetch) | varies by series | US VIX, USD/INR, DXY, gold |
 | National macro series (CPI/IIP/WPI/GDP/PLFS unemployment/RBI forex reserves) | `dtest/data/macro_series.py` | CPI 2013-2026, IIP 1994-2026, WPI 2012-2026, GDP 2011-12..2025-26, unemployment 2025-04..2026-07, forex reserves 1990-2025 | All 6 fetched from `api.mospi.gov.in`'s real public REST family (needs a legacy-SSL workaround, see `dtest/data/mospi_api.py`) — headline national series only, not the full disaggregated hierarchy each source supports. Forex reserves genuinely lags ~14 months (real ceiling in the source, cross-checked against eSankhyiki's own homepage figure, not a fetch bug). Does not cover RBI repo rate/M3/bank-credit-growth (Handbook of Statistics downloads are bot-walled; FRED refused every connection this session) |
 | GST monthly tax collection | `dtest/data/gst_collections.py` | Jul 2017-Mar 2026, 105 months, CGST/SGST/IGST/Cess by domestic vs imports | Parsed from GSTN's own "9 Years of GST" retrospective PDF report — the parent `gst.gov.in` download page is WAF-protected (needed a real browser session to find the file URL), the file itself is not. Two of nine fiscal-year pages use an all-caps "MONTH" header while the rest use title-case "Month"/"Months" — silently dropped 21/105 months until matched case-insensitively, a real bug found and fixed. Every monthly total cross-checked against the source's own printed fiscal-year totals (within ±2 crore, real rounding in GSTN's own document, not a parsing error) |
+| Repo-rate proxy & bank credit | `dtest/data/rbi_rates_credit.py` | Repo proxy 1968-2026 (702 months); bank credit 1951-2025 (299 quarters) | Both from FRED, fetched via the Browser pane, not a `scripts/fetch_*.py` script — `fred.stlouisfed.org` refused every `requests`/`curl` connection this session but loaded fine in-browser. Repo rate itself has no clean current source anywhere (RBI Handbook bot-walled, DBIE is a JS-only SPA on a domain this project's Browser tool can't even reach); the call-money/interbank rate (`IRSTCI01INM156N`) is used as a proxy instead — RBI's own LAF corridor is designed to keep it near the policy rate, cross-checked live against RBI's homepage widget (5.50% vs the real 5.25% repo rate, a plausible proxy gap). Bank credit (`CRDQINBPABIS`) is BIS-sourced, not OECD-MEI, and still current through Q4 2025 — every OECD-MEI M3 candidate checked was dead since 2018-2023 and M3 was dropped from scope entirely |
 
 **A real landmine in the existing `fno.db`, found 2026-08-24, worth
 flagging prominently**: `fno_bhavcopy_full`'s own `instrument` column uses
@@ -217,13 +218,15 @@ not.
 11. ~~Corporate announcement feed (M&A, contract wins, dividends/
     buybacks)~~ — done
 12. ~~Earnings call transcripts~~ — done
-13. Macro series (RBI repo/M3/forex, MOSPI IIP/CPI/GDP, GST collections) —
-    **mostly done**: MOSPI's IIP/CPI/WPI/GDP/PLFS-unemployment and RBI
-    forex reserves sourced from `api.mospi.gov.in`'s real public API;
-    ~~GST monthly collections~~ done from GSTN's own "9 Years of GST" PDF
-    report (see the Data sources table above). Only repo rate/M3/bank-
-    credit-growth remain open — RBI's own Handbook of Statistics downloads
-    are bot-walled, and FRED refused every connection this session
+13. ~~Macro series (RBI repo/M3/forex, MOSPI IIP/CPI/GDP, GST
+    collections)~~ — **done, with one real scope drop**: MOSPI's IIP/CPI/
+    WPI/GDP/PLFS-unemployment and RBI forex reserves via `api.mospi.gov.in`;
+    GST monthly collections from GSTN's own "9 Years of GST" PDF report;
+    a repo-rate proxy (call-money rate) and bank credit growth from FRED
+    (see the Data sources table above). **M3 dropped from scope** — no
+    current source found anywhere (every FRED variant dead since
+    2018-2023; RBI's own Handbook is bot-walled and DBIE is an
+    unreachable JS-only SPA)
 14. Global cross-asset (FRED rates, crude, EM-FX, global equity indices)
 
 **Once collection is declared done**, the honest next analytical step is a

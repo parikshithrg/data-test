@@ -137,6 +137,14 @@ macro_series_dir = "data/macro_series"
 # above: `scripts/fetch_gst_collections.py` writes here, once, as a real
 # acquisition step - same category as `fetch_index_reconstitution.py`.
 gst_collections_dir = "data/gst_collections"
+# A repo-rate proxy (India call-money rate) and bank credit growth, both
+# from FRED - the last two of Tier 6 item 13's real asks (M3 was dropped,
+# see `dtest/data/rbi_rates_credit.py`'s own module docstring). Fetched via
+# the Browser pane, not a `scripts/fetch_*.py` script - `fred.stlouisfed.org`
+# was actively refusing every `requests`/`curl` connection this session, a
+# real deviation from every other source's own-fetch-script convention in
+# this project, stated plainly in the module docstring rather than hidden.
+rbi_rates_credit_dir = "data/rbi_rates_credit"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under
