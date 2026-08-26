@@ -4,6 +4,11 @@ A deterministic research harness for Indian cash-equity strategies.
 
 Repo: https://github.com/parikshithrg/data-test
 
+Trade ledger (sortable, all 34 hypotheses, stock/trade/streak/cost detail):
+https://claude.ai/code/artifact/43662fed-428b-4341-8bb3-2b4e39dd3890 — built
+by `scripts/build_trade_ledger.py` from the real trades.csv under each
+`runs/` entry, not from `hypothesis_log.csv`'s summary stats alone.
+
 This is a rebuild. Its predecessor (`market_gate`) produced a dashboard whose
 numbers could not be trusted, for reasons that were only discovered at the end:
 same-bar fills, no costs until session three, a survivorship-biased universe, no
