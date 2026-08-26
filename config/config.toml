@@ -22,11 +22,16 @@ as_of = 2026-08-13
 price_dir = "C:/Users/parik/OneDrive/Desktop/Dashboard/data"
 fno_db    = "C:/Users/parik/OneDrive/Desktop/Dashboard/fno.db"
 industry_map = "C:/Users/parik/OneDrive/Desktop/Dashboard/market_gate/data/nifty500.csv"
-# Macro series this project sourced itself (US VIX, USDINR, DXY, gold - for
-# the cross-asset stress-regime gate). NOT read-only like the three paths
-# above: `scripts/fetch_macro_stress_series.py` writes here, once, as a
-# real acquisition step - same category as the bhavcopy ingest, never a live
-# call from inside the deterministic harness itself. Same
+# Macro/cross-asset series this project sourced itself: the original 4 (US
+# VIX, USDINR, DXY, gold) built for the cross-asset stress-regime gate -
+# since tested and REJECTED (`dtest/features/stress.py`, commit `71222274`) -
+# plus 8 more added 2026-08-26 for the dataset priority queue's Tier 6 item
+# 16 (crude, EM-FX proxy, US 10Y yield proxy, and 5 global equity reads) as
+# raw material for whatever the analysis phase builds next, not yet wired
+# into any signal. NOT read-only like the three paths above:
+# `scripts/fetch_macro_stress_series.py` writes here, once, as a real
+# acquisition step - same category as the bhavcopy ingest, never a live call
+# from inside the deterministic harness itself. Same
 # `date,open,high,low,close,volume` shape as `price_dir`'s own
 # NIFTY50_DAILY.csv / INDIAVIX_DAILY.csv, deliberately, so callers read it
 # the same way.

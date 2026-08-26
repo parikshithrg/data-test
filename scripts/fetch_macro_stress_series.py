@@ -1,8 +1,25 @@
 """ONE-TIME DATA ACQUISITION, not part of the deterministic backtest harness -
-same category as `ingest_bhavcopy.py`. Fetches the 4 macro series the
-cross-asset stress-regime gate needs that don't already exist locally (US
-VIX, USDINR, DXY, gold - India VIX and breadth already exist/are derivable),
-saves them as static CSVs in the SAME `date,open,high,low,close,volume`
+same category as `ingest_bhavcopy.py`. Originally fetched only the 4 series
+the cross-asset stress-regime gate needed (US VIX, USDINR, DXY, gold - India
+VIX and breadth already exist/are derivable) - that hypothesis has since been
+tested and REJECTED in full (`dtest.features.stress`, commit `71222274`,
+"all rejected, closing the line"), so those 4 series are now historical
+inputs to a closed line of research, kept because they're real and other
+diagnostics may still read them.
+
+EXTENDED 2026-08-26 (dataset priority queue Tier 6 item 16, "global
+cross-asset") with 8 more series, purely as raw material for whatever the
+analysis phase builds next - not wired into any signal or hypothesis yet,
+per this project's collect-first-analyze-later sequencing. Deliberately
+avoids FRED entirely (every FRED endpoint refused connections all session
+during the item-13 macro work, `dtest/data/rbi_rates_credit.py`'s own
+docstring) - `^TNX` (yfinance, CBOE 10Y treasury yield index) substitutes
+for the "FRED rates" ask in the tier list, same instrument class, no new
+transport problem to solve. All 8 candidates were live-probed via
+`yf.download` before being added here - none were dead ends this time,
+unlike several sources earlier in this project's history.
+
+Saves every series as static CSVs in the SAME `date,open,high,low,close,volume`
 shape `NIFTY50_DAILY.csv`/`INDIAVIX_DAILY.csv` already use, so every later
 script reads them the same way - but into `cfg.paths.macro_dir`, NOT
 `price_dir`. `price_dir` points at market_gate's own data folder, which
@@ -30,10 +47,20 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from dtest import load_config
 
 TICKERS = {
+    # Original 4 - built for the now-closed cross-asset stress-gate test.
     "VIX": "^VIX",
     "USDINR": "USDINR=X",
     "DXY": "DX-Y.NYB",
     "GOLD": "GC=F",
+    # Tier 6 item 16 - global cross-asset, added 2026-08-26.
+    "CRUDE_WTI": "CL=F",       # WTI crude front-month futures
+    "EM_FX": "CEW",            # WisdomTree Emerging Currency Strategy Fund - EM FX basket proxy
+    "US10Y": "^TNX",           # CBOE 10Y treasury yield index - rates proxy (FRED substitute)
+    "SP500": "^GSPC",          # US equity
+    "STOXX50": "^STOXX50E",    # Europe equity
+    "NIKKEI": "^N225",         # Japan equity
+    "HANGSENG": "^HSI",        # China/HK equity
+    "EM_EQUITY": "EEM",        # broad EM equity (iShares MSCI EM ETF)
 }
 
 
