@@ -56,21 +56,26 @@ actions** — so `prev_close[t] != close[t-1]` is an exchange-published split or
 bonus marker with an exact ratio, rather than a ratio guessed from a suspicious
 price jump.
 
-## Status (2026-08-24)
+## Status (2026-08-26)
 
-**31 hypotheses tested, all with the same rigor, `runs/hypothesis_log.csv`:
-25 rejected outright, 6 accepted on train but none survived val
-confirmation. Zero for 31.** Technical signals (mean reversion, momentum,
+**32 hypotheses tested, all with the same rigor, `runs/hypothesis_log.csv`:
+26 rejected outright, 6 accepted on train but none survived val
+confirmation. Zero for 32.** Technical signals (mean reversion, momentum,
 delivery/OI/participant-flow breakouts, volatility squeeze, price-action,
 pairs trading — both correlation-screened and plain same-sector), three
-generalization attempts on the best-performing constructions, and three
-fundamentals signals (PEAD, value, quality) have all been tried. The one
-consistent pattern across every rejection: real, honestly-measured effects
-that do not survive contact with real execution costs, real fills, and an
-honest placebo comparison — never a coding bug, always the same
-entry-timing/no-edge-after-costs shape. See `runs/hypothesis_log.csv` for
-the full, append-only record and each signal's own module docstring for
-its specific story and result.
+generalization attempts on the best-performing constructions, three
+fundamentals signals (PEAD, value, quality), and now a genuinely different
+mechanism — real per-stock mutual fund positioning (`mf_accumulation`:
+buy stocks whose combined Axis+SBI holdings just got disclosed to have
+grown more than most others', `delivery`/train, t=-2.945, loses to its own
+placebo) — have all been tried. The one consistent pattern across every
+rejection: real, honestly-measured effects that do not survive contact
+with real execution costs, real fills, and an honest placebo comparison —
+never a coding bug, always the same entry-timing/no-edge-after-costs
+shape, now confirmed on a data source that isn't a price/OI/delivery/flow
+derivative at all. See `runs/hypothesis_log.csv` for the full, append-only
+record and each signal's own module docstring for its specific story and
+result.
 
 **Currently in a data-collection phase, not actively testing.** After the
 technical and fundamentals lines were exhausted, the project pivoted to
