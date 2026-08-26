@@ -2,6 +2,8 @@
 
 A deterministic research harness for Indian cash-equity strategies.
 
+Repo: https://github.com/parikshithrg/data-test
+
 This is a rebuild. Its predecessor (`market_gate`) produced a dashboard whose
 numbers could not be trusted, for reasons that were only discovered at the end:
 same-bar fills, no costs until session three, a survivorship-biased universe, no
