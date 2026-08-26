@@ -40,6 +40,26 @@ are not actually calendar-adjacent (a stock genuinely absent from the
 equity book for a stretch, then reappearing) - treated as not comparable,
 NaN, never as an ordinary one-month change.
 
+`new_entrant_flag` IS THE COMPLEMENTARY CONSTRUCTION, built the same
+session `mf_accumulation` was rejected - True exactly where a stock is
+held (quantity > 0) this disclosed month AND was NOT held (absent, or a
+genuine 0) in the immediately preceding one (same `max_gap_days`
+adjacency guard, and the same "no valid prior period at all" case - the
+very first disclosed month in the whole dataset - is excluded, never
+guessed as a new entrant). A stock that was held, fully sold, then
+re-bought after a gap counts as a new entrant again on the re-buy - this
+matches the literal 2026-08-26 scoping ("held 0 last month, held >0 this
+month"), not "never held ever".
+
+`ownership_breadth` IS A DIFFERENT SHAPE OF FEATURE, NOT AN EVENT - a
+(period_end x symbol) panel of `n_schemes` (already computed by
+`aggregate_monthly_quantity`), a persistent cross-sectional STATE (how
+many distinct schemes hold this stock as of this disclosure) rather than
+a one-day dislocation. Consumed differently downstream: `mf_breadth_
+signal` ranks and holds until the next disclosure (the same "calendar
+hold, no ATR stop" pattern `momentum_signal` already uses), not the
+single-day event pattern `mf_accumulation`/`new_entrant_flag` use.
+
 FILING LAG IS THE SAME SHARED ASSUMPTION `amc_portfolios.py` ALREADY
 USES FOR BOTH AMCS (`_ASSUMED_DISCLOSURE_LAG_DAYS = 10`, SEBI's
 regulatory filing deadline) - `to_event_panel` marks a disclosed month's
@@ -104,6 +124,31 @@ def quantity_pct_change(monthly: pd.DataFrame, max_gap_days: int = DEFAULT_MAX_G
     return pct.where(valid_gap)
 
 
+def new_entrant_flag(monthly: pd.DataFrame, max_gap_days: int = DEFAULT_MAX_GAP_DAYS) -> pd.DataFrame:
+    """(period_end x symbol) boolean panel - True where a stock is held
+    this disclosed month and was NOT held in the immediately preceding
+    one (see module docstring for the exact scope: "held 0 last month,
+    held >0 this month", including a re-buy after a real gap - and why
+    the very first disclosed period is always False, never guessed)."""
+    wide = monthly.pivot(index="period_end", columns="symbol", values="total_quantity")
+    prior = wide.shift(1)
+
+    prior_period = wide.index.to_series().shift(1)
+    gap_days = (wide.index.to_series() - prior_period).dt.days
+    valid_gap = (gap_days <= max_gap_days).reindex(wide.index)
+
+    is_new = (prior.isna() | (prior <= 0)) & wide.notna() & (wide > 0)
+    return is_new.where(valid_gap, other=False)
+
+
+def breadth_panel(monthly: pd.DataFrame) -> pd.DataFrame:
+    """(period_end x symbol) panel of `n_schemes` - the number of distinct
+    Axis+SBI schemes holding a stock as of each disclosed month. A
+    persistent cross-sectional STATE, not an event - see module docstring
+    for how this differs from `quantity_pct_change`/`new_entrant_flag`."""
+    return monthly.pivot(index="period_end", columns="symbol", values="n_schemes")
+
+
 def to_event_panel(monthly_signal: pd.DataFrame, calendar: pd.DatetimeIndex,
                     lag_days: int = FILING_LAG_DAYS) -> pd.DataFrame:
     """Maps each `monthly_signal` row (indexed by `period_end`) onto the
@@ -112,8 +157,19 @@ def to_event_panel(monthly_signal: pd.DataFrame, calendar: pd.DatetimeIndex,
     module docstring for why this differs from `fundamentals.
     to_daily_panel`'s persistent-state ffill). A `period_end` whose filing
     date falls after `calendar`'s last day is dropped (not yet knowable
-    within this window)."""
-    out = pd.DataFrame(float("nan"), index=calendar, columns=monthly_signal.columns)
+    within this window).
+
+    `dtype=object` is deliberate, not an oversight: a plain float-NaN-
+    initialized frame raises `LossySetitemError` on modern pandas the
+    first time a BOOLEAN `monthly_signal` (e.g. `new_entrant_flag`'s
+    output) is assigned into it - caught live the first time this
+    function was fed anything other than a float panel (its own test
+    suite had only ever exercised the float case). Object dtype holds
+    either real value (bool or float) plus NaN without that coercion
+    error; every real caller either `.dropna()`s (a float-valued panel)
+    or `.fillna(False).astype(bool)`s (a boolean-valued panel) the result
+    anyway, so this is invisible downstream."""
+    out = pd.DataFrame(float("nan"), index=calendar, columns=monthly_signal.columns, dtype=object)
     filing_dates = monthly_signal.index + pd.Timedelta(days=lag_days)
     positions = calendar.searchsorted(filing_dates)
     for row_pos, target_pos in enumerate(positions):
