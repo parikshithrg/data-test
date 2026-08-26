@@ -1,0 +1,35 @@
+log_index,hypothesis_id,strategy,decision,n_stocks_traded,n_trades,avg_trades_per_stock,mean_net_pct,logged_real_value,max_win_streak,avg_win_streak,max_loss_streak,avg_loss_streak,total_cost_rs,avg_cost_pct
+0,5d7650b1840e,mean_reversion re-test (honest execution) [primary/train],rejected,645,20499,31.781,-0.972,-0.9716821472524912,65,3.181,244,3.827,645247.09,0.321
+1,61fcd3023c4b,delivery_breakout (honest execution) [delivery/train],rejected,320,2194,6.856,0.077,0.0768675296888009,23,2.362,24,2.653,66956.52,0.323
+2,80aff81a749e,oi_momentum (honest execution) [primary/train],rejected,288,2448,8.5,-0.627,-0.6272720050426498,30,2.323,29,3.253,76604.78,0.322
+3,ee447825d3a7,participant_tilt (honest execution) [delivery/train],rejected,358,2916,8.145,-0.515,-0.5152768107504366,36,3.249,213,3.477,89647.59,0.322
+4,663cebb9f054,vol_squeeze_breakout (honest execution) [primary/train],rejected,542,4792,8.841,-0.382,-0.3819995458716935,17,2.102,32,2.748,149916.4,0.322
+5,e39de46a0f24,"vol_squeeze_breakout (delay=2, honest execution) [primary/train]",rejected,540,4802,8.893,0.077,0.0773770804724346,30,2.277,30,2.618,150617.92,0.323
+6,cdd796d6e171,pairs_reversion (honest fills + costs) [primary/train],rejected,18,432,24.0,0.176,0.1542558079177629,26,5.388,10,3.36,11076.61,0.256
+7,ddc14822fb70,price_action LONG (honest execution) [primary/train],rejected,588,8807,14.978,-0.591,-0.590941119880795,37,2.319,56,3.118,276535.41,0.322
+8,0b11b017cef9,pairs_reversion (honest fills + costs) [primary/train],rejected,18,432,24.0,0.176,0.1760419617914634,26,5.388,10,3.36,11076.61,0.256
+9,c55019a896e7,same_sector_pairing (random draw) [primary/train],accepted,132,6818,51.652,0.275,0.274762587370361,38,6.592,28,4.44,174668.69,0.256
+10,1d82fec2bbbc,same_sector_pairing (liquidity-ranked) [primary/train],accepted,94,7410,78.83,0.243,0.2432338030225891,42,6.978,24,4.71,189718.93,0.256
+11,5dbcd00310b3,same_sector_pairing (random draw) [primary/val],rejected,164,4136,25.22,0.052,0.0520553643772448,40,6.361,26,4.466,106072.26,0.256
+12,a7f9414d3392,same_sector_pairing (liquidity-ranked) [primary/val],rejected,98,4602,46.959,0.066,0.0663115134526643,40,6.329,32,4.787,118060.48,0.257
+13,71357c1af8cd,same_sector_pairing (random draw) [delivery/train],rejected,187,3478,18.599,-0.074,-0.0738609142325104,54,5.994,44,4.432,89017.53,0.256
+14,99a2610cabee,same_sector_pairing (liquidity-ranked) [delivery/train],rejected,102,4042,39.627,-0.061,-0.0614878013240694,40,6.244,32,4.967,103529.56,0.256
+15,fac149cb6b0b,vol_squeeze_breakout (honest execution) [delivery/train],rejected,320,1725,5.391,-0.178,-0.1779307004612413,9,2.281,30,2.763,52486.97,0.322
+16,423c548cc0d3,"momentum (12-1 month, long-only, honest execution) [primary/train]",rejected,535,4031,7.535,0.601,0.6013887475221124,28,2.795,44,2.426,126080.05,0.324
+17,0d8f2ac002c2,mean_reversion re-test (honest execution) [delivery/train],rejected,380,6408,16.863,-0.441,-0.4407277788908963,60,3.335,110,3.581,196908.16,0.322
+18,c9d3ab9ffc36,oi_momentum (honest execution) [delivery/train],rejected,161,497,3.087,-1.097,-1.096952695544231,7,1.861,13,3.059,15091.01,0.321
+19,fc8303956df7,price_action LONG (honest execution) [delivery/train],rejected,353,3389,9.601,-0.381,-0.3813636626048662,30,2.425,96,2.967,103467.44,0.322
+20,0151b95c725e,"momentum (12-1 month, long-only, honest execution) [delivery/train]",accepted,313,1367,4.367,2.016,2.016018879419983,35,2.76,22,2.284,41926.69,0.326
+21,f68079c5b0b8,pairs_reversion (honest fills + costs) [delivery/train],rejected,24,322,13.417,0.528,0.5280968256949878,18,5.0,12,3.944,8227.1,0.256
+22,ee89fa192a3e,"momentum (12-1 month, long-only, honest execution) [delivery/val]",accepted,106,233,2.198,6.552,6.552057781363316,28,3.156,21,4.0,7248.26,0.333
+23,dc18a3964319,"participant_tilt, CALM-TERCILE stress-gated [delivery/train]",rejected,309,1043,3.375,0.384,0.3837105499929441,25,2.857,53,2.647,32253.64,0.323
+24,180ea073ac1a,"same_sector_pairing, Oil & Gas only (random draw) [primary/train]",accepted,9,564,62.667,0.619,0.6185689796065026,24,5.262,10,3.415,14434.73,0.256
+25,0e0d594da875,"same_sector_pairing, Oil & Gas only (liquidity-ranked) [primary/train]",accepted,7,626,89.429,0.626,0.6262722717460527,16,5.449,12,3.623,16065.62,0.257
+26,12b05d12a039,"same_sector_pairing, Oil & Gas only (random draw) [primary/val]",rejected,9,300,33.333,0.17,0.1697361023036375,14,4.579,10,3.231,7677.33,0.256
+27,f3eb92550553,"same_sector_pairing, Oil & Gas only (liquidity-ranked) [primary/val]",rejected,6,338,56.333,0.533,0.5332500228165513,14,5.333,14,4.171,8672.36,0.257
+28,b3c0793a9edd,"earnings_surprise (SUE/PEAD, long-only, honest execution) [primary/train]",rejected,167,312,1.868,4.074,4.074057416124157,16,2.823,18,2.175,10033.09,0.329
+29,e39e744cc436,"value (trailing P/E vs own history, long-only, honest execution) [primary/train]",rejected,245,814,3.322,6.816,6.816156781876793,44,2.762,16,2.647,26518.53,0.333
+30,f5263108087e,"quality (margin trend, long-only, honest execution) [primary/train]",rejected,226,708,3.133,0.888,0.8878291236783538,12,2.57,24,2.433,22313.43,0.324
+31,7facf033cb36,"mf_accumulation (Axis+SBI holdings, honest execution) [delivery/train]",rejected,135,218,1.615,-1.543,-1.542990062871039,11,1.778,32,4.162,6568.37,0.32
+32,270dd119a8fb,"mf_new_entrant (Axis+SBI holdings, honest execution) [delivery/train]",rejected,190,250,1.316,0.22,0.2201667532801738,12,2.647,17,2.3,7749.75,0.323
+33,345373baf942,"mf_breadth (Axis+SBI holdings, honest execution) [delivery/train]",rejected,100,482,4.82,1.103,1.103031967734179,22,3.266,19,2.835,14317.81,0.324
