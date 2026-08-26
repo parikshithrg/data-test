@@ -5,7 +5,7 @@ inspection)."""
 
 from __future__ import annotations
 
-from dtest.data.amc_holdings import parse_axis_scheme_sheet
+from dtest.data.amc_holdings import parse_scheme_sheet
 
 
 def _real_equity_fund_rows():
@@ -50,7 +50,7 @@ def _real_liquid_fund_rows():
 
 
 def test_extracts_equity_rows_only_from_equity_section():
-    holdings = parse_axis_scheme_sheet(_real_equity_fund_rows())
+    holdings = parse_scheme_sheet(_real_equity_fund_rows())
     assert len(holdings) == 2
     assert holdings[0].instrument_name == "P N Gadgil Jewellers Limited"
     assert holdings[0].isin == "INE953R01016"
@@ -61,22 +61,53 @@ def test_extracts_equity_rows_only_from_equity_section():
 
 
 def test_scheme_identity_and_as_on_date_attached_to_every_row():
-    holdings = parse_axis_scheme_sheet(_real_equity_fund_rows())
+    holdings = parse_scheme_sheet(_real_equity_fund_rows())
     for h in holdings:
         assert h.scheme_code == "AXISMIF"
         assert h.scheme_name == "Axis Momentum Fund"
         assert str(h.sheet_as_on_date.date()) == "2026-07-31"
 
 
+def test_caller_supplied_scheme_identity_overrides_in_sheet_detection():
+    # SBI's own identity rows use a completely different shape this
+    # function doesn't try to parse (see module docstring) - the caller
+    # (SBI's build path) must supply scheme_code/scheme_name directly.
+    holdings = parse_scheme_sheet(
+        _real_equity_fund_rows(), scheme_code="SLMF", scheme_name="SBI Large and Midcap Fund")
+    assert all(h.scheme_code == "SLMF" for h in holdings)
+    assert all(h.scheme_name == "SBI Large and Midcap Fund" for h in holdings)
+
+
+def test_equity_sub_headers_unknown_to_axis_do_not_exit_equity_section():
+    # Real SBI sub-headers ("Equity Shares", "Foreign Securities and/or
+    # overseas ETF") that a naive equity-match-or-exit rule would have
+    # wrongly treated as ending the equity section.
+    rows = [
+        ("SLMF", "SBI Large and Midcap Fund"),
+        ("EQUITY & EQUITY RELATED",),
+        ("a) Listed/awaiting listing on Stock Exchanges",),
+        ("Equity Shares",),
+        ("100006", "HDFC Bank Ltd.", "INE040A01034", "Banks", 38000000, 284297, 6.72),
+        ("Foreign Securities and /or overseas ETF",),
+        ("200001", "Some Foreign Co", "INE999999999", "Foreign Equity", 1000, 500.0, 0.5),
+        ("DEBT INSTRUMENTS",),
+        ("300001", "Some Bond", "INE888888888", "CRISIL AAA", 5000, 5000.0, 1.0),
+    ]
+    holdings = parse_scheme_sheet(rows)
+    assert len(holdings) == 2
+    assert holdings[0].instrument_name == "HDFC Bank Ltd."
+    assert holdings[1].instrument_name == "Some Foreign Co"
+
+
 def test_sub_total_and_total_rows_excluded():
-    holdings = parse_axis_scheme_sheet(_real_equity_fund_rows())
+    holdings = parse_scheme_sheet(_real_equity_fund_rows())
     names = [h.instrument_name for h in holdings]
     assert "Sub Total" not in names
     assert "Total" not in names
 
 
 def test_debt_only_scheme_yields_zero_equity_holdings_not_an_error():
-    holdings = parse_axis_scheme_sheet(_real_liquid_fund_rows())
+    holdings = parse_scheme_sheet(_real_liquid_fund_rows())
     assert holdings == []
 
 
@@ -89,7 +120,7 @@ def test_subsection_header_does_not_reset_equity_state():
         ("(b) Unlisted",),
         ("EFGH01", "Another Company Ltd", "INE987654321", "IT - Software", 2000, 800.0, 0.02),
     ]
-    holdings = parse_axis_scheme_sheet(rows)
+    holdings = parse_scheme_sheet(rows)
     assert len(holdings) == 2
     assert holdings[1].instrument_name == "Another Company Ltd"
 
@@ -100,7 +131,7 @@ def test_row_missing_isin_is_dropped_not_guessed():
         ("Equity & Equity related",),
         ("ABCD01", "Some Company Ltd", None, "Banks", 1000, 500.0, 0.01),
     ]
-    assert parse_axis_scheme_sheet(rows) == []
+    assert parse_scheme_sheet(rows) == []
 
 
 def test_esg_extended_row_with_trailing_esg_columns_still_parses_first_7():
@@ -116,7 +147,7 @@ def test_esg_extended_row_with_trailing_esg_columns_still_parses_first_7():
         ("IBCL05", "ICICI Bank Limited", "INE090A01021", "Banks", 630000.0, 9332.82, 0.0759,
          "", "", 75.8, 100.0, "https://nsearchives.nseindia.com/corporate/x.pdf"),
     ]
-    holdings = parse_axis_scheme_sheet(rows)
+    holdings = parse_scheme_sheet(rows)
     assert len(holdings) == 1
     h = holdings[0]
     assert h.instrument_name == "ICICI Bank Limited"
@@ -134,5 +165,5 @@ def test_blank_rows_and_none_only_rows_ignored():
         (None,),
         ("ABCD01", "Some Company Ltd", "INE123456789", "Banks", 1000, 500.0, 0.01),
     ]
-    holdings = parse_axis_scheme_sheet(rows)
+    holdings = parse_scheme_sheet(rows)
     assert len(holdings) == 1
