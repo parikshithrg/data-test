@@ -150,6 +150,22 @@ gst_collections_dir = "data/gst_collections"
 # real deviation from every other source's own-fetch-script convention in
 # this project, stated plainly in the module docstring rather than hidden.
 rbi_rates_credit_dir = "data/rbi_rates_credit"
+# AMC (mutual fund house) monthly portfolio disclosures - Tier 1 item 4 of the
+# dataset priority queue, unblocked 2026-08-26 for SBI Mutual Fund only (the
+# largest AMC by AUM, confirmed live via AMFI's own average-aum-schemewise
+# endpoint). Real per-scheme stock-level holdings, not a re-derived price/OI/
+# flow signal like everything else in this project - the actual point of this
+# item. SBI's own `/ajaxcall/CMS/GetSchemePortfolioSheets` endpoint returns
+# the full real file list via a plain POST, no browser/session needed - a
+# genuinely better outcome than the 2026-08-24 scoping found for Axis MF (see
+# `dtest/data/amc_portfolios.py`'s own module docstring for the exact
+# request shape and the real per-AMC cost this took to discover). Raw files
+# only this pass - a per-scheme holdings TABLE parser (the actual point of
+# this item) is real, substantial follow-on work given each workbook has
+# ~120 scheme sheets with merged-header, multi-instrument-type layouts, not
+# yet built. Other AMCs (ICICI Prudential confirmed to need real click-driven
+# interaction; HDFC/Axis/Kotak/etc. unconfirmed) are NOT covered here.
+amc_portfolios_dir = "data/amc_portfolios"
 # Derived data - the bhavcopy raw/parsed cache and panel parquet files.
 # Regenerable from source + config, gitignored, and DELIBERATELY OUTSIDE
 # OneDrive: this project's own working tree lives under
